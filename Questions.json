@@ -1,0 +1,14 @@
+[
+  {
+    "id": "init_01",
+    "exam": "LDC",
+    "subject": "Rajasthan GK",
+    "topic": "Introduction",
+    "q": "RajExam Master mein aapka swagat hai. Yeh pehla demo sawal hai.",
+    "options": ["A", "B", "C", "D"],
+    "a": 0,
+    "explanation": "Demo explanation",
+    "marks": 1,
+    "negative": 0.33
+  }
+]
