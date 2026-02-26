@@ -1,0 +1,138 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions for Rajasthan History focusing on the Guhil-Sisodia (Mewar), Pratihar, and Chauhan dynasties. Let's start by recalling key points about each dynasty.
+
+First, for the Guhil-Sisodia dynasty (Mewar), important aspects include their capital Chittorgarh, Rana Sanga, the Rajputana struggle against Delhi Sultanate and Mughals, and the Sisodiya Rajputs' role in Rajputana. Also, the lineage of Rana Pratap Singh and their resistance against Akbar.
+
+Next, the Pratihar dynasty, which was prominent in Rajasthan, especially under Mahendrapala I. They were known for their military strength and control over Malwa and Avanti. The capital was probably in the vicinity of modern-day Ujjain or Gwalior. The Pratiharas had conflicts with the Rashtrakutas and later the Chandelas.
+
+For the Chauhan dynasty, key points are their capital at Nadavara (present-day Ajmer) and then later at Ranthambore. Prithviraj Chauhan is a major figure, known for his battles with Muhammad Ghori. The Chauhans were also part of the Rajput confederacy against the Delhi Sultanate.
+
+Now, I need to ensure each question is in Hindi and English, following the testbook style. The options should be plausible but with the correct answer clearly right. The difficulty should be set according to Rajasthan History exams, so some might require specific knowledge of lesser-known facts.
+
+Let me structure each question step by step. For example, a question about the origin of the Guhil-Sisodia dynasty. The correct answer would mention the Guhilas, and the explanation would explain their transition to Sisodias. Another question could be about the capital of the Chauhan dynasty, which is Ranthambore or Ajmer.
+
+I need to check for accuracy. For instance, Rana Sanga's reign was in the early 16th century, and he was a key figure in the Rajput resistance against the Mughals. The Pratiharas' capital might be a bit tricky; some sources say Mahoba or Gwalior. I should confirm that. Also, the Chauhans' capital was Ajmer first, then Ranthambore. 
+
+Another point is the role of the Sisodiya Rajputs in establishing Chittorgarh as their capital. The Chittorgarh Fort is a significant site. Also, the Chauhans' alliance with other Rajput clans against the Delhi Sultanate.
+
+I have to make sure that explanations are concise but informative, justifying why the correct answer is right and why the others are not. Avoid any ambiguity in the options. For example, when asking about the Pratihar dynasty's capital, the options could include different cities, with the correct one being the historically accepted capital.
+
+Let me draft each question one by one, ensuring they cover different aspects of the three dynasties and their historical significance in Rajasthan. Also, check for any overlapping topics and ensure each question is unique and tests a specific piece of knowledge.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Which dynasty established Chittorgarh as its capital in Rajasthan?",
+    "question_hi": "राजस्थान में चित्तौड़गढ़ को अपनी राजधानी बनाने वाला कौन सा राजवंश था?",
+    "A_en": "Pratihar", "A_hi": "प्रतिहार",
+    "B_en": "Chauhan", "B_hi": "चौहान",
+    "C_en": "Guhil-Sisodia", "C_hi": "गुहिल-सिसोदिया",
+    "D_en": "Paramara", "D_hi": "परमार",
+    "answer": "C",
+    "explanation_en": "The Guhil-Sisodia dynasty established Chittorgarh as their capital in Rajasthan during the 8th century.",
+    "explanation_hi": "राजस्थान में 8वीं शताब्दी में गुहिल-सिसोदिया राजवंश ने चित्तौड़गढ़ को अपनी राजधानी बनाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Who was the last ruler of the Sisodia dynasty of Mewar before the Mughal conquest?",
+    "question_hi": "मुग़ल विजय से पहले मेवाड़ के सिसोदिया राजवंश के अंतिम शासक कौन थे?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+    "C_en": "Raja Bhoj", "C_hi": "राजा भोज",
+    "D_en": "Maharana Kumbha", "D_hi": "महाराणा कुंभा",
+    "answer": "A",
+    "explanation_en": "Rana Sanga was the last independent ruler of the Sisodia dynasty before Mewar was annexed by the Mughals.",
+    "explanation_hi": "राणा संगा मेवाड़ के सिसोदिया राजवंश के अंतिम स्वतंत्र शासक थे मुग़लों के विजय से पहले।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Which Pratihar ruler is known for his conflict with the Rashtrakuta dynasty?",
+    "question_hi": "प्रतिहार राजवंश के किस शासक के राष्ट्रकूट राजवंश के साथ विवाद के लिए प्रसिद्धि है?",
+    "A_en": "Mahendrapala I", "A_hi": "महेंद्रपाल एक",
+    "B_en": "Mihira Bhoja", "B_hi": "मिहिर भोज",
+    "C_en": "Kalachur", "C_hi": "कलचुर",
+    "D_en": "Dhruva", "D_hi": "ध्रुव",
+    "answer": "A",
+    "explanation_en": "Mahendrapala I of the Pratihar dynasty is renowned for his military conflicts with the Rashtrakuta dynasty.",
+    "explanation_hi": "प्रतिहार राजवंश के महेंद्रपाल एक के राष्ट्रकूट राजवंश से सैन्य संघर्ष के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "The Chauhan dynasty's capital was shifted from Nadavara to which fort?",
+    "question_hi": "चौहान राजवंश ने नादवरा से अपनी राजधानी को किस किले में स्थानांतरित कर दिया गया था?",
+    "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+    "B_en": "Ranthambore", "B_hi": "रणथंबोर",
+    "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+    "D_en": "Kumbhalgarh", "D_hi": "कुंभलगढ़",
+    "answer": "B",
+    "explanation_en": "The Chauhan dynasty moved their capital from Nadavara (Ajmer) to Ranthambore Fort for strategic reasons.",
+    "explanation_hi": "चौहान राजवंश ने रणथंबोर किले में अपनी राजधानी को नादवरा (अजमेर) से स्थानांतरित कर दिया था रणनीतिक कारणों से।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Which Pratihar ruler was instrumental in establishing the Pratihar capital in the Malwa region?",
+    "question_hi": "मल्वा क्षेत्र में प्रतिहार राजवंश की राजधानी स्थापित करने में कौन सा शासक महत्वपूर्ण भूमिका निभाए थे?",
+    "A_en": "Bhoja", "A_hi": "भोज",
+    "B_en": "Mihira Bhoja", "B_hi": "मिहिर भोज",
+    "C_en": "Mahendrapala I", "C_hi": "महेंद्रपाल एक",
+    "D_en": "Dhruva", "D_hi": "ध्रुव",
+    "answer": "B",
+    "explanation_en": "Mihira Bhoja of the Pratihar dynasty expanded their influence into the Malwa region and established their capital there.",
+    "explanation_hi": "प्रतिहार राजवंश के मिहिर भोज मल्वा क्षेत्र में अपना प्रभाव बढ़ाए और वहां अपनी राजधानी की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Who was the Chauhan ruler who fought against Muhammad Ghori?",
+    "question_hi": "मुहम्मद गोरी के खिलाफ लड़ाई में चौहान राजवंश के किस शासक की भूमिका रही?",
+    "A_en": "Prithviraj Chauhan", "A_hi": "पृथ्वीराज चौहान",
+    "B_en": "Rajyavardhan", "B_hi": "राज्यवर्धन",
+    "C_en": "Bhima", "C_hi": "भीम",
+    "D_en": "Vigraharaja", "D_hi": "विग्रहराज",
+    "answer": "A",
+    "explanation_en": "Prithviraj Chauhan is renowned for his battles against Muhammad Ghori, including the Second Battle of Tarain.",
+    "explanation_hi": "पृथ्वीराज चौहान मुहम्मद गोरी के खिलाफ लड़ाई में, जिसमें द्वितीय तराइन की लड़ाई शामिल है, के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Which dynasty was known for their fortresses in the Aravalli range?",
+    "question_hi": "किस राजवंश के अरावली पर्वत श्रृंखला में किलों के लिए प्रसिद्धि है?",
+    "A_en": "Pratihar", "A_hi": "प्रतिहार",
+    "B_en": "Chauhan", "B_hi": "चौहान",
+    "C_en": "Guhil-Sisodia", "C_hi": "गुहिल-सिसोदिया",
+    "D_en": "Paramara", "D_hi": "परमार",
+    "answer": "C",
+    "explanation_en": "The Guhil-Sisodia dynasty constructed numerous fortresses along the Aravalli range, including Chittorgarh and Kumbhalgarh.",
+    "explanation_hi": "गुहिल-सिसोदिया राजवंश एरावली पर्वत श्रृंखला में चित्तौड़गढ़ और कुंभलगढ़ सहित कई किलों के निर्माण के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "Which Pratihar ruler defeated the Rashtrakuta king Govinda III?",
+    "question_hi": "राष्ट्रकूट राजा गोविंद तृतीय के खिलाफ प्रतिहार राजवंश के किस शासक ने जीत हासिल की थी?",
+    "A_en": "Mihira Bhoja", "A_hi": "मिहिर भोज",
+    "B_en": "Mahendrapala I", "B_hi": "महेंद्रपाल एक",
+    "C_en": "Kalachur", "C_hi": "कलचुर",
+    "D_en": "Dhruva", "D_hi": "ध्रुव",
+    "answer": "A",
+    "explanation_en": "Mihira Bhoja of the Pratihar dynasty defeated the Rashtrakuta ruler Govinda III, expanding his kingdom's influence.",
+    "explanation_hi": "मिहिर भोज ने राष्ट्रकूट शासक गोविंद तृतीय को पराजित किया और अपने राज्य के प्रभाव का विस्तार किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Pramukh Rajvansh: Guhil-Sisodia (Mewar), Pratihar aur Chauhan",
+    "question_en": "The Chauhan dynasty's capital at Ranthambore was known for which type of architecture?",
+    "question_hi": "रणथंबोर में चौहान राजवंश की राजधानी किस प्रकार की वास्तुकला के लिए प्रसिद्ध है?",
+    "A_en": "Temple architecture", "A_hi": "मंदिर वास्तुकला",
+    "B_en": "Fort architecture", "B_hi": "किला वास्तुकला",
+    "C_en": "Palace architecture", "C_hi": "महल वास्तुकला",
+    "D_en": "Garden architecture", "D_hi": "बगीचा वास्तुकला",
+    "answer": "B",
+    "explanation_en": "Ranthambore Fort, the capital of the Chauhan dynasty
