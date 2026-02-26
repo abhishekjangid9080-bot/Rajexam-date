@@ -1,0 +1,22 @@
+[
+ {
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthani Sahitya: Prachin, Madhyakalin aur Aadhunik Sahityakar",
+  "question_en": "Who is credited with writing the epic poem \"Raso\" which narrates the heroic deeds of Maharana Pratap?",
+  "question_hi": "महाराणा प्रताप के वीरगाथा को वर्णित करने वाले महाकाव्य \"रसो\" के लेखक कौन हैं?",
+  "A_en": "Suryamal Jaiswal", "A_hi": "सूर्यमाल जैसवाल",
+  "B_en": "Kanhaiyalal", "B_hi": "कन्हैयालाल",
+  "C_en": "Madhav", "C_hi": "मधव",
+  "D_en": "Shivlal", "D_hi": "शिवलाल",
+  "answer": "A",
+  "explanation_en": "Suryamal Jaiswal, a 16th‑century poet from Mewar, composed the epic \"Raso\" detailing Maharana Pratap’s valor.",
+  "explanation_hi": "सूर्यमाल जैसवाल, मेवाड़ के 16वीं शताब्दी के कवि, ने महाराणा प्रताप की वीरगाथा को वर्णित करने वाला महाकाव्य \"रसो\" लिखा।"
+ },
+ {
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthani Sahitya: Prachin, Madhyakalin aur Aadhunik Sahityakar",
+  "question_en": "Which ancient Rajasthani literary genre is a collection of heroic ballads and tales?",
+  "question_hi": "प्राचीन राजस्थानी साहित्यिक विधा कौन सी है जिसमें वीरगाथाएँ और कथाएँ एकत्रित की जाती हैं?",
+  "A_en": "Khyat", "A_hi": "ख्यात",
+  "B_en": "Raas", "B_hi": "रस",
+  "C_en":
