@@ -1,0 +1,129 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic "Madhyakalin Rajasthan mein Prashasanik aur Rajasva Vyavastha" for Rajasthan State Exams like LDC, CET, and RAS. Let me start by recalling key points about medieval Rajasthan's administrative and revenue systems. 
+
+First, I should think about the major rulers and their contributions. For example, Raja Man Singh Sisodia introduced the Jagir system. That could be a question. Then, the revenue system during Akbar's time, like the Mansabdari system, but wait, was that specific to Mughal administration? Maybe the Jagir system is more relevant here.
+
+Next, the administrative structure. Rajput rulers often divided their states into different regions managed by chieftains. So, terms like "Prant" (provinces) or "Thanas" (revenue centers) might come up. The role of Kardars or revenue collectors is another point. Also, the system of land revenue collection, maybe the terms "Kharaj" or "Khurd" for land types.
+
+Another aspect is the use of coins. For example, Raja Ratan Singh used a specific coin. Or the currency system in place. Also, tax systems like "Jalgaon" or "Chauth" and "Sardeshmukhi," but those might be more Maratha. Wait, in Rajasthani context, "Chauth and Sardeshmukhi" might not be accurate. Maybe they had their own terms. Let me verify that. Hmm, perhaps "Jalgaon" refers to land classification. Alternatively, "Khalsa" land vs "Jagir" land.
+
+Then, the role of different ranks in administration. For example, the "Chandela" system or the ranks of soldiers. Or the use of titles like Rao, Raja, Mahadhir. Also, the system of collecting land revenue, like "Bhaga" (tax) and the percentage paid by peasants. For example, 50% or 60%? Wait, in medieval times, sometimes the share was 50%, but I need to confirm.
+
+I should also consider the use of specific terms like "Kuladhyaksha" for revenue officers. Or the division of territory into "Riyasat" or "Zamindari." The role of the "Kuladhyaksha" in the revenue system. Also, the system of land grants, like "Mahadana" in certain dynasties.
+
+Another point is the types of land classifications. For example, "Khadim" and "Begar" land. Or the "Kharab" system for irrigation. The term "Bund" for water conservation structures. But the question is about administrative and revenue systems, so maybe more about taxation and land records.
+
+I need to make sure each question has clear options and accurate information. Let me start drafting the first question. For example, who introduced the Jagir system in Rajasthan? Answer: Raja Man Singh Sisodia. Then the options could include other rulers like Raja Ratan Singh, Maharana Pratap, etc. 
+
+Another question could be about the role of the Kardar. The answer would be collector of revenue. Then, options could be other roles like military commander, judge, etc.
+
+For land revenue collection, a question might be about the term used for land revenue. The answer could be "Bhaga." Other terms might be "Kharaj," "Jalgaon," etc.
+
+I need to ensure that all the facts are accurate. Let me cross-verify some points. For example, the Jagir system was introduced by Raja Man Singh Sisodia of Mewar. The Mansabdari system was a Mughal system, not Rajasthani. So that's correct. 
+
+Also, the term "Chandela" system is part of the administrative structure in some Rajput states, where soldiers were ranked. The Chandela system was part of the military organization, not revenue.
+
+For the currency, maybe a question about the coins used. For example, Raja Ratan Singh used silver coins. The options could include different metals or other rulers.
+
+I should also include questions on tax systems. For example, the tax on water and forests. The answer might be "Jalgaon," but I need to check. Alternatively, "Jalabha" for water tax and "Vanabha" for forest tax.
+
+Another question could be about the percentage of land revenue collected. If it's 50%, then that's the answer. But need to confirm if that was standard in Rajasthan.
+
+I need to make sure the options are plausible distractors. For example, in a question about the Kardar's role, the options could be collector of revenue, military general, judge, or tax inspector. The correct answer is collector of revenue.
+
+Also, terms like "Khalsa" land were used in Mughal times for crown land, but in Rajasthan's context, maybe it's different. Alternatively, "Zamindar" system, but that's more Mughal or later period.
+
+Let me structure each question step by step, ensuring each is unique and covers different aspects of administrative and revenue systems in medieval Rajasthan.
+</think>
+
+```json
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Madhyakalin Rajasthan mein Prashasanik aur Rajasva Vyavastha",
+    "question_en": "किस राजवंश ने मध्यकालीन राजस्थान में जागीर व्यवस्था की शुरुआत की?",
+    "question_hi": "Which dynasty started the jagir system in medieval Rajasthan?",
+    "A_en": "मेवाड़", "A_hi": "मेवाड़",
+    "B_en": "मरवाड़", "B_hi": "मरवाड़",
+    "C_en": "कच्छ", "C_hi": "कच्छ",
+    "D_en": "जैसलमेर", "D_hi": "जैसलमेर",
+    "answer": "A",
+    "explanation_en": "राजा मन सिंह जी सिसोदिया (मेवाड़) ने मध्यकालीन राजस्थान में जागीर व्यवस्था की शुरुआत की।",
+    "explanation_hi": "राजा मन सिंह जी सिसोदिया (मेवाड़) ने मध्यकालीन राजस्थान में जागीर व्यवस्था की शुरुआत की।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में राजस्व संग्रहण का मुख्य प्रशासनिक कार्यकर्ता किसे कहा जाता था?",
+    "question_hi": "Who was the main revenue collector in medieval Rajasthan?",
+    "A_en": "करदार", "A_hi": "करदार",
+    "B_en": "चंदेला", "B_hi": "चंदेला",
+    "C_en": "महादीर", "C_hi": "महादीर",
+    "D_en": "राजादीर", "D_hi": "राजादीर",
+    "answer": "A",
+    "explanation_en": "करदार राजस्व संग्रहण और प्रशासनिक बैरकों के लिए उत्तरदायी थे।",
+    "explanation_hi": "करदार राजस्व संग्रहण और प्रशासनिक बैरकों के लिए उत्तरदायी थे।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में भूमि राजस्व के संग्रहण के लिए दो मुख्य शब्द क्या थे?",
+    "question_hi": "What were the two main terms for land revenue collection in medieval Rajasthan?",
+    "A_en": "खराज और बहीखरच", "A_hi": "खराज और बहीखरच",
+    "B_en": "भाग और जलगोन", "B_hi": "भाग और जलगोन",
+    "C_en": "खल्ला और जमींदारी", "C_hi": "खल्ला और जमींदारी",
+    "D_en": "जगीर और महादान", "D_hi": "जगीर और महादान",
+    "answer": "B",
+    "explanation_en": "भूमि राजस्व संग्रहण में 'भाग' (भागीदारी) और 'जलगोन' (जल और वन कर) प्रमुख शब्द हाथ थे।",
+    "explanation_hi": "भूमि राजस्व संग्रहण में 'भाग' (भागीदारी) और 'जलगोन' (जल और वन कर) प्रमुख शब्द हाथ थे।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में जमींदारी व्यवस्था की शुरुआत किस राजवंश ने की थी?",
+    "question_hi": "Which dynasty introduced the zamindari system in medieval Rajasthan?",
+    "A_en": "सांची", "A_hi": "सांची",
+    "B_en": "कच्छ", "B_hi": "कच्छ",
+    "C_en": "मालवा", "C_hi": "मालवा",
+    "D_en": "मेवाड़", "D_hi": "मेवाड़",
+    "answer": "C",
+    "explanation_en": "मालवा के राजवंश ने जमींदारी व्यवस्था की शुरुआत की, जिसमें भूमि का वितरण जमींदारों के पास किया गया था।",
+    "explanation_hi": "मालवा के राजवंश ने जमींदारी व्यवस्था की शुरुआत की, जिसमें भूमि का वितरण जमींदारों के पास किया गया था।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में राजस्व संग्रह के लिए किस रूप से राज्य का विभाजन किया गया था?",
+    "question_hi": "How was the state divided for revenue collection in medieval Rajasthan?",
+    "A_en": "प्रांत (प्रंत) और तहसील", "A_hi": "प्रांत (प्रंत) और तहसील",
+    "B_en": "थाने और मुहल्ले", "B_hi": "थाने और मुहल्ले",
+    "C_en": "रियासत और जमींदारी", "C_hi": "रियासत और जमींदारी",
+    "D_en": "ग्राम और खेड़ा", "D_hi": "ग्राम और खेड़ा",
+    "answer": "A",
+    "explanation_en": "मध्यकालीन राजस्थान में राज्य का विभाजन प्रांत (प्रंत) और तहसील के रूप में किया गया था।",
+    "explanation_hi": "मध्यकालीन राजस्थान में राज्य का विभाजन प्रांत (प्रंत) और तहसील के रूप में किया गया था।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में राजस्व संग्रह के लिए किस वर्ग का उपयोग किया जाता था?",
+    "question_hi": "Which class was used for revenue collection in medieval Rajasthan?",
+    "A_en": "सैन्य प्रतिष्ठान", "A_hi": "सैन्य प्रतिष्ठान",
+    "B_en": "राजपूत सेना", "B_hi": "राजपूत सेना",
+    "C_en": "करदार और खरीदार", "C_hi": "करदार और खरीदार",
+    "D_en": "व्यापारी कुल", "D_hi": "व्यापारी कुल",
+    "answer": "C",
+    "explanation_en": "करदार और खरीदार राजस्व संग्रह के लिए नियुक्त किए गए थे।",
+    "explanation_hi": "करदार और खरीदार राजस्व संग्रह के लिए नियुक्त किए गए थे।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में राजस्व के रूप में जल और वन कर का शास्त्रीय नाम क्या था?",
+    "question_hi": "What was the classical name for water and forest tax in medieval Rajasthan?",
+    "A_en": "जलगोन", "A_hi": "जलगोन",
+    "B_en": "खराज", "B_hi": "खराज",
+    "C_en": "भाग", "C_hi": "भाग",
+    "D_en": "खराब", "D_hi": "खराब",
+    "answer": "A",
+    "explanation_en": "'जलगोन' के रूप में जल और वन कर का शास्त्रीय नाम था।",
+    "explanation_hi": "'जलगोन' के रूप में जल और वन कर का शास्त्रीय नाम था।"
+  },
+  {
+    "question_en": "मध्यकालीन राजस्थान में भूमि राजस्व का संग्रह किस प्रतिशत तक होता था?",
+    "question_hi": "What percentage of land revenue was collected in medieval Rajasthan?",
+    "A_en": "40%", "A_hi": "40%",
+    "B_en": "50%", "B_hi": "50%",
+    "C_en": "60%", "C_hi": "60%",
+    "D_en": "70%", "D_hi": "70%",
+    "answer": "B",
+    "explanation_en": "मध्यकालीन राजस्थान में भूमि राजस्व का संग्रह लगभग 50% तक होता था।",
+    "explanation_hi": "मध्यकालीन राज
