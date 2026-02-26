@@ -1,0 +1,146 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions on the subject of Rajasthan History, specifically focusing on the Rathore (Marwar & Bikaner) and Kachwaha (Amer) dynasties. Let me start by recalling key points about these two royal families. 
+
+First, the Rathore dynasty is prominent in Marwar and Bikaner. I remember that Rao Chandra and Rao Siyaji are significant figures. The Kachwaha dynasty is associated with Amer (Jaipur), and Raja Man Singh I is a key ruler there. Important events include the establishment of Bikaner by Rao Lunkaran, the siege of Chittorgarh by Rao Siyaji, and the contribution of Kachwahas to Mughal administration.
+
+I should structure each question to cover different aspects: key rulers, important events, capitals, and historical contributions. Each question needs four options with one correct answer. I'll make sure the options are plausible and not too obvious. Also, the explanations should be concise and accurate.
+
+Let me start with the first question about the founder of the Rathore dynasty in Marwar. Rao Chandra is the answer. Next, the capital of Bikaner, which is Bikaner city. Then, the ruler who attacked Chittorgarh in 1400 CE was Rao Siyaji. The Kachwaha ruler associated with the Mughals would be Raja Man Singh I, known for his alliance with Akbar. The founder of the Kachwaha dynasty in Amer is Raja Hamir Dev. 
+
+Another question could be about the establishment year of Bikaner, which is 1488. The famous battle where Rathores showed valor might be the Battle of Khanwa in 1527. The Kachwaha ruler who built the Amber Fort is Raja Man Singh I. The Rathore ruler who shifted the capital to Jodhpur is Rao Jodha. Lastly, the Kachwaha ruler who contributed to the Mughal administration during Shah Jahan's reign is Raja Bir Singh Deo.
+
+I need to ensure that all questions are in Hindi and English, and the explanations are clear. Let me check each question for accuracy and format them correctly into the JSON structure as per the example provided. Avoid any markdown and stick strictly to the JSON format without extra text.
+</think>
+
+[
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Who was the founder of the Rathore dynasty in Marwar?",
+"question_hi": "मारवाड़ में राठौड़ राजवंश के संस्थापक कौन थे?",
+"A_en": "Rao Chandra", "A_hi": "राओ चंद्र",
+"B_en": "Rao Siyaji", "B_hi": "राओ सियाजी",
+"C_en": "Rao Lunkaran", "C_hi": "राओ लूंकरान",
+"D_en": "Rao Jodha", "D_hi": "राओ जोधा",
+"answer": "A",
+"explanation_en": "Rao Chandra established the Rathore dynasty in Marwar and laid the foundation for its rule.",
+"explanation_hi": "राओ चंद्र ने मारवाड़ में राठौरों का राजवंश स्थापित किया और इसके शासन की नींव रखी।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which ruler of the Rathore dynasty established the city of Bikaner?",
+"question_hi": "राठौर राजवंश के किस शासक ने बीकानेर शहर की स्थापना की?",
+"A_en": "Rao Chandra", "A_hi": "राओ चंद्र",
+"B_en": "Rao Siyaji", "B_hi": "राओ सियाजी",
+"C_en": "Rao Lunkaran", "C_hi": "राओ लूंकरान",
+"D_en": "Rao Jodha", "D_hi": "राओ जोधा",
+"answer": "C",
+"explanation_en": "Rao Lunkaran founded Bikaner in 1488 CE, making it the capital of the Bikaner state.",
+"explanation_hi": "राओ लूंकरान ने 1488 ईस्वी में बीकानेर की स्थापना की, जिसे बीकानेर राज्य की राजधानी बनाया गया।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which Rathore ruler is known for his attack on Chittorgarh in 1400 CE?",
+"question_hi": "किस राठौर शासक के नेतृत्व में 1400 ईस्वी में चित्तौड़गढ़ पर हमला किया गया था?",
+"A_en": "Rao Chandra", "A_hi": "राओ चंद्र",
+"B_en": "Rao Siyaji", "B_hi": "राओ सियाजी",
+"C_en": "Rao Lunkaran", "C_hi": "राओ लूंकरान",
+"D_en": "Rao Jodha", "D_hi": "राओ जोधा",
+"answer": "B",
+"explanation_en": "Rao Siyaji led the attack on Chittorgarh in 1400 CE, capturing it from the Mewar rulers.",
+"explanation_hi": "1400 ईस्वी में राओ सियाजी ने चित्तौड़गढ़ पर हमला करके उसे मेवाड़ के शासकों से छीन लिया।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which Kachwaha ruler is associated with the Mughal emperor Akbar?",
+"question_hi": "किस कच्छवाहा शासक का मुगल बादशाह अकबर से संबंध है?",
+"A_en": "Raja Man Singh I", "A_hi": "राजा मान सिंह प्रथम",
+"B_en": "Raja Hamir Dev", "B_hi": "राजा हमीर देव",
+"C_en": "Raja Bir Singh Deo", "C_hi": "राजा बीर सिंह देव",
+"D_en": "Raja Prithviraj Chauhan", "D_hi": "राजा प्रताप सिंह चौहान",
+"answer": "A",
+"explanation_en": "Raja Man Singh I was a key ally of Akbar and played a significant role in the Mughal administration.",
+"explanation_hi": "राजा मान सिंह प्रथम अकबर के महत्वपूर्ण सहयोगी थे और मुगल प्रशासन में उल्लेखनीय भूमिका निभाई।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Who established the Kachwaha dynasty in Amer (Jaipur)?",
+"question_hi": "अमेर (जयपुर) में कच्छवाहा राजवंश की स्थापना किसने की?",
+"A_en": "Raja Man Singh I", "A_hi": "राजा मान सिंह प्रथम",
+"B_en": "Raja Hamir Dev", "B_hi": "राजा हमीर देव",
+"C_en": "Raja Bir Singh Deo", "C_hi": "राजा बीर सिंह देव",
+"D_en": "Raja Prithviraj Chauhan", "D_hi": "राजा प्रताप सिंह चौहान",
+"answer": "B",
+"explanation_en": "Raja Hamir Dev founded the Kachwaha dynasty in Amer and fortified the region.",
+"explanation_hi": "राजा हमीर देव ने अमेर में कच्छवाहा राजवंश की स्थापना की और क्षेत्र को सुदृढ़ बनाया।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "In which year was the city of Bikaner established?",
+"question_hi": "बीकानेर शहर की स्थापना किस वर्ष में की गई थी?",
+"A_en": "1488", "A_hi": "1488",
+"B_en": "1502", "B_hi": "1502",
+"C_en": "1448", "C_hi": "1448",
+"D_en": "1527", "D_hi": "1527",
+"answer": "A",
+"explanation_en": "Rao Lunkaran founded Bikaner in 1488 CE, marking the establishment of the city.",
+"explanation_hi": "राओ लूंकरान ने 1488 ईस्वी में बीकानेर की स्थापना की, जो शहर की नींव बनी।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which Rathore ruler shifted the capital to Jodhpur?",
+"question_hi": "किस राठौर शासक ने राजधानी को जोधपुर शिफ्ट कर दिया था?",
+"A_en": "Rao Chandra", "A_hi": "राओ चंद्र",
+"B_en": "Rao Siyaji", "B_hi": "राओ सियाजी",
+"C_en": "Rao Lunkaran", "C_hi": "राओ लूंकरान",
+"D_en": "Rao Jodha", "D_hi": "राओ जोधा",
+"answer": "D",
+"explanation_en": "Rao Jodha shifted the capital from Mandore to Jodhpur in the 15th century.",
+"explanation_hi": "राओ जोधा ने 15वीं शताब्दी में राजधानी को मांडूरा से जोधपुर शिफ्ट कर दिया।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which Kachwaha ruler contributed to the Mughal administration under Shah Jahan?",
+"question_hi": "किस कच्छवाहा शासक ने शाहजहाँ के शासन में मुगल प्रशासन में योगदान दिया?",
+"A_en": "Raja Man Singh I", "A_hi": "राजा मान सिंह प्रथम",
+"B_en": "Raja Hamir Dev", "B_hi": "राजा हमीर देव",
+"C_en": "Raja Bir Singh Deo", "C_hi": "राजा बीर सिंह देव",
+"D_en": "Raja Prithviraj Chauhan", "D_hi": "राजा प्रताप सिंह चौहान",
+"answer": "C",
+"explanation_en": "Raja Bir Singh Deo served in the Mughal administration and was a key figure during Shah Jahan's reign.",
+"explanation_hi": "राजा बीर सिंह देव शाहजहाँ के शासन के दौरान मुगल प्रशासन में एक प्रमुख व्यक्ति थे।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which battle is associated with the Rathore rulers showing valor against the Mughals?",
+"question_hi": "मुगलों के खिलाफ राठौर शासकों के शौर्य के साथ कौन सी लड़ाई संबंधित है?",
+"A_en": "Battle of Khanwa", "A_hi": "खानवा की लड़ाई",
+"B_en": "Battle of Haldighati", "B_hi": "हल्दिघाटी की लड़ाई",
+"C_en": "Battle of Chittorgarh", "C_hi": "चित्तौड़गढ़ की लड़ाई",
+"D_en": "Battle of Saraighat", "D_hi": "सराइघाट की लड़ाई",
+"answer": "A",
+"explanation_en": "The Rathore rulers displayed valor during the Battle of Khanwa in 1527 against the Mughals.",
+"explanation_hi": "राठौर शासकों ने 1527 में खानवा की लड़ाई में मुगलों के खिलाफ शौर्य दिखाया।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Pramukh Rajvansh: Rathore (Marwar & Bikaner), Kachwaha (Amer)",
+"question_en": "Which Kachwaha ruler is credited with the construction of the Amber Fort?",
+"question_hi": "किस कच्छवाहा शासक को आमेर सिंहासन के निर्माण का श्रेय दिया जाता है?",
+"A_en": "Raja Man Singh I", "A_hi": "राजा मान सिंह प्रथम",
+"B_en": "Raja Hamir Dev", "B_hi": "राजा हमीर देव",
+"C_en": "Raja Bir Singh Deo", "C_hi": "राजा बीर सिंह देव",
+"D_en": "Raja Prithviraj Chauhan", "D_hi": "राजा प्रताप सिंह चौहान",
+"answer": "A",
+"explanation_en": "Raja Man Singh I is credited with the construction of the Amber Fort, symbolizing his power and wealth.",
+"explanation_hi": "राजा मान सिंह प्रथम को आमेर सिंहासन के निर्माण का श्रेय दिया जाता है, जो उनकी शक्ति और समृद्धि का प्रतीक है।"
+}
+]
