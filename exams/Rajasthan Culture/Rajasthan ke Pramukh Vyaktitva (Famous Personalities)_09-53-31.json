@@ -1,0 +1,34 @@
+[
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan ke Pramukh Vyaktitva (Famous Personalities)",
+"question_en": "What was the name of Maharana Pratap's famous horse?",
+"question_hi": "Maharana Pratap ke prasiddh ghode ka naam kya tha?",
+"A_en": "Bhanwar", "A_hi": "भँवर",
+"B_en": "Chetak", "B_hi": "चेतक",
+"C_en": "Padmini", "C_hi": "पदमिनी",
+"D_en": "Shakti", "D_hi": "शक्ति",
+"answer": "B",
+"explanation_en": "Chetak was Maharana Pratap's famed warhorse, renowned for its bravery at the Battle of Haldighati.",
+"explanation_hi": "चेतक महाराणा प्रताप का प्रसिद्ध घोड़ा था, जो हल्दीघाटी की लड़ाई में अपनी वीरता के लिए जाना जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan ke Pramukh Vyaktitva (Famous Personalities)",
+"question_en": "Who founded the city of Jaipur?",
+"question_hi": "Jaipur nagar ki sthapna kisne ki?",
+"A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+"B_en": "Maharaja Sawai Jai Singh II", "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+"C_en": "Maharaja Ganga Singh", "C_hi": "महाराजा गंगा सिंह",
+"D_en": "Maharana Udai Singh II", "D_hi": "महाराणा उदय सिंह द्वितीय",
+"answer": "B",
+"explanation_en": "Jaipur was founded in 1727 by Maharaja Sawai Jai Singh II, also known as the 'Star King'.",
+"explanation_hi": "जैपुर 1727 में महाराजा सवाई जय सिंह द्वितीय द्वारा स्थापित किया गया, जिन्हें 'स्टार किंग' के रूप में भी जाना जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan ke Pramukh Vyaktitva (Famous Personalities)",
+"question_en": "Which ruler founded the city of Udaipur?",
+"question_hi": "Udaipur nagar ki sthaapna kisne ki?",
+"A_en": "Maharana Udai Singh II", "A_hi": "महाराणा उदय सिंह द्वितीय",
+"B_en": "Maharaja Sawai Jai Singh II", "B_hi": "महाराजा सवाई जय सिंह द्वितीय
