@@ -1,0 +1,144 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on Mewar, part of Rajasthan History, for various exams. First, I need to recall key facts about Mewar's history. Mewar is a significant region in Rajasthan, known for its royal family, Chauhan dynasty, and historical figures like Rana Pratap.
+
+I should start by listing important aspects: famous rulers, battles, capitals, cultural contributions, and notable events. For example, Rana Sanga was a prominent ruler. The Battle of Haldighati is crucial. Chittorgarh Fort is a key location. Also, the role of Rajputana in Mewar's history.
+
+Now, considering the exam level, the questions should be moderately difficult. They should test knowledge of facts and some understanding of historical context. Need to ensure that the options are plausible but not too tricky. For instance, differentiating between Rana Pratap and Rana Sanga's contributions.
+
+Next, creating questions. Each question needs an English and Hindi version. Let me start with the first one: asking about the founder of Mewar. The answer should be Bappa Rawal. Then, the capital, which is Chittorgarh. The Battle of Haldighati is linked to Rana Pratap. Rana Sanga's role in the Battle of Khanwa. The last ruler of Mewar, Uda Devi's role. The Chauhan dynasty, the Rana title, the famous Rajputana Regiment, and the Chittorgarh Fort's status as a UNESCO site.
+
+Need to format each question in the specified JSON structure. Check that all options are correctly translated. Answers must be accurate. Explanations should clarify the correct choice, maybe adding historical context to reinforce learning. Make sure the difficulty is appropriate for Rajasthan-specific exams, not too basic. Avoid any markdown and ensure the JSON is valid. Let me review each question for accuracy and clarity before finalizing.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Who is considered the founder of Mewar dynasty?",
+    "question_hi": "मेवाड़ राजवंश के संस्थापक कौन माने जाते हैं?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Bappa Rawal", "B_hi": "बप्पा रावल",
+    "C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+    "D_en": "Kumbha", "D_hi": "कुंभा",
+    "answer": "B",
+    "explanation_en": "Bappa Rawal is traditionally considered the founder of the Mewar dynasty, known for his role in repelling the Arab invasion.",
+    "explanation_hi": "बप्पा रावल को मेवाड़ राजवंश के संस्थापक के रूप में माना जाता है, जिनके अरब आक्रमण के खिलाफ लड़ाई के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "What is the capital of Mewar region?",
+    "question_hi": "मेवाड़ क्षेत्र की राजधानी कौन सी है?",
+    "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Jodhpur", "C_hi": "जोधपुर",
+    "D_en": "Rajpipla", "D_hi": "राजपीपला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh was the historical capital of the Mewar region and the Chauhan dynasty.",
+    "explanation_hi": "चित्तौड़गढ़ मेवाड़ क्षेत्र की ऐतिहासिक राजधानी थी और चौहान वंश की राजधानी थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which Mughal ruler defeated Rana Sanga in the Battle of Khanwa?",
+    "question_hi": "खानवा के युद्ध में राणा संगा किस मुग़ल शासक द्वारा हराया गया था?",
+    "A_en": "Babur", "A_hi": "बाबर",
+    "B_en": "Akbar", "B_hi": "अकबर",
+    "C_en": "Humayun", "C_hi": "हुमायूँ",
+    "D_en": "Shah Jahan", "D_hi": "शाहजहाँ",
+    "answer": "A",
+    "explanation_en": "Babur defeated Rana Sanga in the Battle of Khanwa in 1527, marking a significant Mughal victory.",
+    "explanation_hi": "बाबर ने 1527 में खानवा के युद्ध में राणा संगा को हराया, जिसने मुग़ल जीत को महत्वपूर्ण बना दिया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which ruler of Mewar is known for his resistance to the Mughals and fought the Third Battle of Tarain?",
+    "question_hi": "मेवाड़ के किस शासक के खिलाफ मुग़लों का प्रतिरोध करने और तीसरे तराईन के युद्ध में लड़ने के लिए जाना जाता है?",
+    "A_en": "Rana Pratap", "A_hi": "राणा प्रताप",
+    "B_en": "Raja Ratan Singh", "B_hi": "राजा रतन सिंह",
+    "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+    "D_en": "Rana Kumbha", "D_hi": "राणा कुंभा",
+    "answer": "C",
+    "explanation_en": "Rana Sanga resisted Mughal expansion and faced Babur in the Third Battle of Tarain.",
+    "explanation_hi": "राणा संगा मुग़ल विस्तार का प्रतिरोध करते रहे और बाबर के खिलाफ तीसरे तराईन के युद्ध में लड़े।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which fort in Rajasthan is a symbol of Rajput resistance and was central to the Mewar kingdom?",
+    "question_hi": "राजस्थान में कौन सा किला राजपूत प्रतिरोध का प्रतीक है और मेवाड़ राज्य के केंद्र में था?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Kumbhalgarh Fort", "B_hi": "कुंभलगढ़ किला",
+    "C_en": "Ranthambore Fort", "C_hi": "रणथंबोर किला",
+    "D_en": "Jaisalmer Fort", "D_hi": "जैसलमेर किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort symbolizes Rajput resistance and was the heart of the Mewar kingdom.",
+    "explanation_hi": "चित्तौड़गढ़ किला राजपूत प्रतिरोध का प्रतीक है और मेवाड़ राज्य के केंद्र में था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Who was the last ruler of the Mewar kingdom before British colonization?",
+    "question_hi": "ब्रिटिश उपनिवेशवाद से पहले मेवाड़ राज्य के अंतिम शासक कौन थे?",
+    "A_en": "Rana Uday Singh II", "A_hi": "राणा उदय सिंह द्वितीय",
+    "B_en": "Raja Bhim Singh", "B_hi": "राजा भीम सिंह",
+    "C_en": "Rana Jagat Singh II", "C_hi": "राणा जगत सिंह द्वितीय",
+    "D_en": "Rana Lakha", "D_hi": "राणा लखा",
+    "answer": "B",
+    "explanation_en": "Raja Bhim Singh was the last ruler of Mewar before British colonization.",
+    "explanation_hi": "राजा भीम सिंह ब्रिटिश उपनिवेशवाद से पहले मेवाड़ के अंतिम शासक थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which Mewar ruler is associated with the 'Jauhar' (self-sacrifice) of Rajputs during the Mughal conquest?",
+    "question_hi": "मुग़ल विजय के दौरान राजपूतों के 'जवाहर' (आत्मघात) से किस मेवाड़ शासक का नाम जुड़ा है?",
+    "A_en": "Raja Ratan Singh", "A_hi": "राजा रतन सिंह",
+    "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+    "C_en": "Rana Kumbha", "C_hi": "राणा कुंभा",
+    "D_en": "Rana Sanga", "D_hi": "राणा संगा",
+    "answer": "A",
+    "explanation_en": "Raja Ratan Singh of Mewar is associated with the Jauhar performed during the Mughal conquest.",
+    "explanation_hi": "मेवाड़ के राजा रतन सिंह मुग़ल विजय के दौरान जवाहर के साथ जुड़े हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which ruler of Mewar was the maternal uncle of Maharana Pratap?",
+    "question_hi": "महाराणा प्रताप के माता पिता के सात भाई में से कौन सा मेवाड़ का शासक था?",
+    "A_en": "Rana Udai Singh", "A_hi": "राणा उदय सिंह",
+    "B_en": "Rana Kumbha", "B_hi": "राणा कुंभा",
+    "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+    "D_en": "Rana Raimal", "D_hi": "राणा रामाल",
+    "answer": "A",
+    "explanation_en": "Rana Udai Singh was the maternal uncle of Maharana Pratap.",
+    "explanation_hi": "राणा उदय सिंह महाराणा प्रताप के माता पिता के सात भाई थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which battle is associated with the death of Maharana Pratap?",
+    "question_hi": "महाराणा प्रताप की मृत्यु के साथ कौन सा युद्ध जुड़ा है?",
+    "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी का युद्ध",
+    "B_en": "Third Battle of Tarain", "B_hi": "तीसरे तराईन के युद्ध",
+    "C_en": "Battle of Khanwa", "C_hi": "खानवा का युद्ध",
+    "D_en": "Battle of Chittorgarh", "D_hi": "चित्तौड़गढ़ का युद्ध",
+    "answer": "A",
+    "explanation_en": "Maharana Pratap died in the Battle of Haldighati in 1576.",
+    "explanation_hi": "महाराणा प्रताप 1576 में हल्दीघाटी के युद्ध में शहीद हुए।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which Mewar ruler is known for constructing the Lake Pichola in Udaipur?",
+    "question_hi": "उदयपुर में तालाब पिचोला का निर्माण करने वाले मेवाड़ शासक कौन हैं?",
+    "A_en": "Rana Pratap", "A_hi": "राणा प्रताप",
+    "B_en": "Rana Udai Singh II", "B_hi": "राणा उदय सिंह द्वितीय",
+    "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+    "D_en": "Rana Kumbha", "D_hi": "राणा कुंभा",
+    "answer": "B",
+    "explanation_en": "Rana Udai Singh II constructed Lake Pichola in Udaipur, a significant architectural achievement.",
+    "explanation_hi": "राणा उदय सिंह द्वितीय ने उदयपुर में तालाब पिचोला का निर्माण किया, जो एक महत्वपूर्ण स्थापना है।"
+  }
+]
