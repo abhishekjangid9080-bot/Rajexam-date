@@ -1,0 +1,163 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on the topic of "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti" for Rajasthan State Exams, SSC, and Railway. The questions need to be in both Hindi and English, with explanations in both languages as well. The JSON structure is provided, so I need to make sure each question follows that format strictly.
+
+First, I need to recall key points about ancient Rajasthan's society, religion, and culture. Topics might include major dynasties like the Guhilas, Sisodiyas, and Mauryas, important texts like the Rajtarangini, religious practices, festivals, cultural contributions, and notable figures or texts from that era.
+
+Let me start by listing possible questions. For example:
+
+1. Which dynasty was prominent in ancient Rajasthan?
+2. What is the Rajtarangini?
+3. Which language was used in ancient Rajasthan?
+4. Which festival was significant in ancient Rajasthan?
+5. Who was a notable king of the Guhila dynasty?
+6. Which religious text is associated with Rajasthan?
+7. What was the main social structure?
+8. Which art form was prominent?
+9. What role did temples play?
+10. Which script was used for writing in that era?
+
+Now, for each question, I need to create four options, two correct answers, and explanations in both languages. I must ensure the options are plausible but have one correct answer. Also, the difficulty should be set according to Rajasthan's exam standards, which might require some knowledge of local history and culture.
+
+I should verify each fact to avoid errors. For instance, the Guhila dynasty was prominent, Rajtarangini is by Kalhana, and the Rajavali is a notable text. The Sisodiya ruler was Rana Pratap, but that's a later period. Wait, the user specified "Prachin" Rajasthan, which is ancient, so maybe earlier dynasties like the Mauryas or Guhilas. Wait, the Guhila dynasty is from around 6th century BCE, so perhaps that's considered ancient here. Also, the Rajavali is a Jain text, so important for religion in Rajasthan.
+
+I need to ensure that the options include some common misconceptions. For example, in the question about the Rajtarangini, options might include other texts like Rajashekhara's works or other historical records. For the language question, Sanskrit and Prakrit were used, so options should have those.
+
+For each explanation, I need to be concise and accurate. For example, when explaining the Rajtarangini, mention that it's a historical text by Kalhana, written in Sanskrit, detailing the history of the region.
+
+Also, the answer letters (A, B, C, D) must correspond correctly. I'll check each question to ensure the correct answer is in the right spot.
+
+Let me start drafting each question, making sure the translations are accurate and follow the testbook style. Once all 10 are drafted, I'll convert them into the specified JSON format, ensuring all keys are present and the structure is correct.
+</think>
+
+[
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which dynasty ruled ancient Rajasthan during the Mauryan period?",
+"question_hi": "मौर्य काल में प्राचीन राजस्थान किस राजवंश द्वारा शासित किया जाता था?",
+"A_en": "Mauryan Dynasty", "A_hi": "मौर्य राजवंश",
+"B_en": "Guhila Dynasty", "B_hi": "गुहिला राजवंश",
+"C_en": "Sisodiya Dynasty", "C_hi": "सिसोदिया राजवंश",
+"D_en": "Chauhan Dynasty", "D_hi": "चौहान राजवंश",
+"answer": "A",
+"explanation_en": "The Maurya Empire controlled Rajasthan during the Mauryan period (4th-2nd century BCE).",
+"explanation_hi": "मौर्य साम्राज्य ने मौर्य काल (4वीं-2वीं शताब्दी ई.पू.) में राजस्थान का नियंत्रण किया।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which ancient text mentions the social structure of Rajput clans in Rajasthan?",
+"question_hi": "राजस्थान के राजपूत क्षत्रियों के सामाजिक संरचना के बारे में कौन-सा प्राचीन ग्रंथ बताता है?",
+"A_en": "Rajtarangini", "A_hi": "राजतरंगिणी",
+"B_en": "Rajavali", "B_hi": "राजवली",
+"C_en": "Harshacharita", "C_hi": "हर्षचरित",
+"D_en": "Brihatkatha", "D_hi": "बृहत्कथा",
+"answer": "B",
+"explanation_en": "Rajavali, a Jain text from the 12th century, documents the social and political structure of Rajput clans in Rajasthan.",
+"explanation_hi": "राजवली, 12वीं शताब्दी का जैन ग्रंथ, राजस्थान में राजपूत क्षत्रियों के सामाजिक और राजनीतिक संरचना की बात करता है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "What was the primary language used in administration during ancient Rajasthan?",
+"question_hi": "प्राचीन राजस्थान में प्रशासन में प्रयोग होने वाली मुख्य भाषा क्या थी?",
+"A_en": "Sanskrit", "A_hi": "संस्कृत",
+"B_en": "Pali", "B_hi": "पाली",
+"C_en": "Prakrit", "C_hi": "प्राकृत",
+"D_en": "Ardhamagadhi", "D_hi": "अर्द्धमगधी",
+"answer": "A",
+"explanation_en": "Sanskrit was the primary language of administration and religious texts in ancient Rajasthan.",
+"explanation_hi": "प्राचीन राजस्थान में प्रशासन और धार्मिक ग्रंथों की मुख्य भाषा संस्कृत थी।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which festival was celebrated in ancient Rajasthan to honor water?",
+"question_hi": "प्राचीन राजस्थान में पानी के सम्मान में कौन-सा त्योहार मनाया जाता था?",
+"A_en": "Diwali", "A_hi": "दिवाली",
+"B_en": "Rath Yatra", "B_hi": "रथ यात्रा",
+"C_en": "Gangaur", "C_hi": "गंगौर",
+"D_en": "Teej", "D_hi": "तीज",
+"answer": "D",
+"explanation_en": "Teej was an ancient festival in Rajasthan dedicated to water and fertility worship.",
+"explanation_hi": "तीज राजस्थान में पानी और उपजाऊता के सम्मान में मनाया जाने वाला प्राचीन त्योहार था।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which script was used to write Jain texts in ancient Rajasthan?",
+"question_hi": "प्राचीन राजस्थान में जैन ग्रंथों को लिखने के लिए किस लिपि का प्रयोग किया जाता था?",
+"A_en": "Brahmi", "A_hi": "ब्राह्मी",
+"B_en": "Kharosthi", "B_hi": "खरोष्ठी",
+"C_en": "Sharada", "C_hi": "शारदा",
+"D_en": "Gupta", "D_hi": "गुप्ता",
+"answer": "A",
+"explanation_en": "Brahmi script was used for writing Jain texts in ancient Rajasthan, as part of broader Indian practices.",
+"explanation_hi": "प्राचीन राजस्थान में जैन ग्रंथों के लेखन के लिए ब्राह्मी लिपि का उपयोग किया जाता था, जो भारतीय परंपरा का हिस्सा था।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which of the following is a prominent ancient temple in Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन-सा राजस्थान में एक प्रमुख प्राचीन मंदिर है?",
+"A_en": "Chand Baori", "A_hi": "चंद बावड़ी",
+"B_en": "Karni Mata Temple", "B_hi": "करणी माता मंदिर",
+"C_en": "Maharaja Pratap Singh Museum", "C_hi": "महाराजा प्रताप सिंह संग्रहालय",
+"D_en": "Birla Mandir", "D_hi": "बीरला मंदिर",
+"answer": "B",
+"explanation_en": "Karni Mata Temple in Deshnoke is an ancient temple dedicated to the goddess Karni Mata.",
+"explanation_hi": "देशनोके में करणी माता मंदिर माता करणी माता के समर्पित प्राचीन मंदिर है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "What was the primary purpose of stepwells in ancient Rajasthan?",
+"question_hi": "प्राचीन राजस्थान में बावड़ियों का मुख्य उद्देश्य क्या था?",
+"A_en": "Festival Celebrations", "A_hi": "त्योहार के उत्सव",
+"B_en": "Water Storage", "B_hi": "पानी के भंडारण",
+"C_en": "Religious Ceremonies", "C_hi": "धार्मिक कार्यक्रम",
+"D_en": "Agricultural Irrigation", "D_hi": "कृषि सिंचाई",
+"answer": "B",
+"explanation_en": "Stepwells (baoris) were primarily constructed for water storage and conservation in arid regions of Rajasthan.",
+"explanation_hi": "बावड़ियां मुख्य रूप से राजस्थान के शुष्क क्षेत्रों में पानी के भंडारण और संरक्षण के लिए निर्मित की गईं।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which of the following is a notable Jain text from ancient Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन-सा प्राचीन राजस्थान का एक प्रमुख जैन ग्रंथ है?",
+"A_en": "Rajtarangini", "A_hi": "राजतरंगिणी",
+"B_en": "Rajavali", "B_hi": "राजवली",
+"C_en": "Harshacharita", "C_hi": "हर्षचरित",
+"D_en": "Brihatkatha", "D_hi": "बृहत्कथा",
+"answer": "B",
+"explanation_en": "Rajavali is a 12th-century Jain text that provides insights into the social and political history of Rajasthan.",
+"explanation_hi": "राजवली 12वीं शताब्दी का जैन ग्रंथ है, जो राजस्थान के सामाजिक और राजनीतिक इतिहास की बात करता है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "Which ancient Rajasthan region was known for its unique architecture with stepwells and palaces?",
+"question_hi": "कौन-सा प्राचीन राजस्थान क्षेत्र बावड़ियों और महलों की अद्वितीय स्थापत्य कला के लिए जाना जाता था?",
+"A_en": "Mewar", "A_hi": "मेवाड़",
+"B_en": "Marwar", "B_hi": "मारवाड़",
+"C_en": "Shekhawati", "C_hi": "शेखावाटी",
+"D_en": "Bharatpur", "D_hi": "भरतपुर",
+"answer": "C",
+"explanation_en": "Shekhawati region is renowned for its stepwells, havelis, and fresco paintings from ancient times.",
+"explanation_hi": "शेखावाटी क्षेत्र प्राचीन समय से बावड़ियों, हवेलियों और फ्रेस्को चित्रों के लिए प्रसिद्ध है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Prachin Rajasthan ka Samaj, Dharm aur Sanskriti",
+"question_en": "What was the primary role of temples in ancient Rajasthan society?",
+"question_hi": "प्राचीन राजस्थान समाज में मंदिरों की मुख्य भूमिका क्या थी?",
+"A_en": "Economic Center", "A_hi": "आर्थिक केंद्र",
+"B_en": "Educational Institution", "B_hi": "शैक्षणिक संस्थान",
+"C_en": "Religious and Cultural Hub", "C_hi": "धार्मिक और सांस्कृतिक केंद्र",
+"D_en": "Military Base", "D_hi": "सैन्य ठिकाना",
+"answer": "C",
+"explanation_en": "Temples in ancient Rajasthan served as centers for religious, cultural, and social activities.",
+"explanation_hi": "प्राचीन राजस्थान में मंदिर धार्मिक, सांस्कृतिक और सामाजिक गतिविधियों के केंद्र थे।"
+}
+]
