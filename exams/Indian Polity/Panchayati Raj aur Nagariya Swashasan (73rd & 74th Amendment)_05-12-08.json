@@ -1,0 +1,156 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on Indian Polity, specifically focusing on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. The questions need to be in both Hindi and English, with explanations in both languages. The format has to be strict JSON as per the example provided.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment is about Panchayats (rural local government), and the 74th Amendment is about Municipalities (urban local government). Important aspects include reservation of seats for SCs, STs, OBCs, women, the structure of these bodies, their powers, and functions.
+
+I should start by outlining the main topics covered by these amendments. For the 73rd Amendment: establishment of three-tier Panchayat system (Gram Panchayat, Panchayat Samiti, Zila Parishad), reservation of seats, elections, and powers. For the 74th Amendment: similar structure but for urban areas (Nagar Panchayat, Municipal Council, Municipal Corporation), similar reservations, powers, etc.
+
+Now, I need to form questions that test understanding of these points. Let's brainstorm possible questions:
+
+1. Which amendment introduced the Panchayati Raj system? (73rd)
+2. What is the minimum age required to be a member of a Panchayat? (25 years)
+3. Reservation for SC/ST in Panchayats? (At least one-third of the seats)
+4. Who is the head of a Zila Parishad? (Chairperson)
+5. Which amendment deals with urban local bodies? (74th)
+6. Reservation of women in Panchayats? (At least one-third)
+7. What is the tenure of Panchayat? (5 years)
+8. Power of the State Government regarding Panchayats? (Constitutional bodies)
+9. Which level of Panchayat is at the village level? (Gram Panchayat)
+10. What is the minimum population for a Municipal Corporation according to the 74th Amendment? (This might not be directly specified, but maybe a general question about urban bodies.)
+
+Wait, the 74th Amendment doesn't specify a population for Municipal Corporations. Maybe I need to adjust that. Let me verify.
+
+Yes, the 74th Amendment doesn't set a population criteria. Instead, it provides a framework for urban local bodies. So perhaps a better question could be about the structure or functions.
+
+Let me adjust the questions accordingly. For example:
+
+10. What is the minimum age to contest in a Municipal Election? (25 years for Corporations, 21 for Councils)
+
+Also, need to ensure that the questions are distinct and cover various aspects. Let me list out the 10 questions again with their key points.
+
+Once the questions are drafted, I need to write them in both English and Hindi, ensuring the translation is accurate. Then, create four options for each, with the correct answer marked. Explanations in both languages are necessary, explaining why the answer is correct.
+
+Need to check for any factual errors. For example, the 73rd Amendment reserves one-third of the seats for women in Panchayats, not SC/ST. So that needs to be clarified.
+
+Also, the head of Zila Parishad is the Chairperson, not the District Collector. The District Collector is an administrative officer, but the head is elected.
+
+Let me structure each question, ensuring clarity and correctness. Then, convert them into the required JSON format, making sure the Hindi translations are accurate and the options are in the same order as the English options. Finally, validate the explanations.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+    "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संवैधानिक संशोधन पेश किया?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+    "D_en": "75th Amendment", "D_hi": "75वां संशोधन",
+    "answer": "A",
+    "explanation_en": "The 73rd Constitutional Amendment Act, 1992, established the Panchayati Raj system with provisions for rural local governance.",
+    "explanation_hi": "संविधान के 73वें संशोधन अध्यादेश, 1992 ने ग्रामीण स्थानीय शासन के प्रावधानों के साथ पंचायती राज प्रणाली की स्थापना की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest a Panchayat election?",
+    "question_hi": "पंचायत चुनाव में उम्मीदवार बने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment mandates a minimum age of 25 years for contesting Panchayat elections.",
+    "explanation_hi": "73वें संशोधन ने पंचायत चुनाव में उम्मीदवार बनने के लिए 25 वर्ष की न्यूनतम आयु निर्धारित की है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a feature of the 73rd Amendment?",
+    "question_hi": "निम्नलिखित में से कौन 73वें संशोधन की विशेषता नहीं है?",
+    "A_en": "Reservation for SC/ST in Panchayats", "A_hi": "पंचायतों में SC/ST के लिए आरक्षण",
+    "B_en": "Reservation of one-third seats for women", "B_hi": "महिलाओं के लिए एक तिहाई सीटों का आरक्षण",
+    "C_en": "Establishment of a three-tier system", "C_hi": "तीन-स्तरीय प्रणाली की स्थापना",
+    "D_en": "Election of members by direct voting", "D_hi": "अप्रत्यक्ष वोट द्वारा सदस्यों का चुनाव",
+    "answer": "D",
+    "explanation_en": "The 73rd Amendment ensures direct elections for Panchayat members, not indirect voting.",
+    "explanation_hi": "73वें संशोधन ने पंचायत सदस्यों के लिए प्रत्यक्ष चुनाव की गारंटी दी है, अप्रत्यक्ष वोट नहीं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is responsible for the preparation of the Panchayat draft constitution?",
+    "question_hi": "पंचायत संविधान प्रस्ताव की तैयारी के लिए कौन सा निकाय उत्तरदायी है?",
+    "A_en": "District Collector", "A_hi": "जिला कलेक्टर",
+    "B_en": "Zila Parishad", "B_hi": "जिला परिषद",
+    "C_en": "Panchayat Samiti", "C_hi": "पंचायत समिति",
+    "D_en": "Gram Panchayat", "D_hi": "ग्राम पंचायत",
+    "answer": "B",
+    "explanation_en": "The Zila Parishad is responsible for drafting the constitution of the Panchayat system in its district.",
+    "explanation_hi": "जिला परिषद अपने जिले में पंचायत प्रणाली के संविधान के प्रस्ताव की तैयारी के लिए उत्तरदायी है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which amendment introduced the Municipalities system for urban local governance?",
+    "question_hi": "शहरी स्थानीय शासन के लिए नगर पालिका प्रणाली को कौन सा संशोधन पेश किया?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+    "D_en": "75th Amendment", "D_hi": "75वां संशोधन",
+    "answer": "B",
+    "explanation_en": "The 74th Constitutional Amendment Act, 1992, established the Municipalities system for urban governance.",
+    "explanation_hi": "1992 का 74वां संविधान संशोधन अधिनियम शहरी शासन के लिए नगर पालिका प्रणाली की स्थापना करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest a Municipal Corporation election?",
+    "question_hi": "नगर निगम चुनाव में उम्मीदवार बने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 74th Amendment mandates a minimum age of 25 years for contesting Municipal Corporation elections.",
+    "explanation_hi": "74वें संशोधन ने नगर निगम चुनाव में उम्मीदवार बनने के लिए 25 वर्ष की न्यूनतम आयु निर्धारित की है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a key function of the Panchayat Samiti?",
+    "question_hi": "निम्नलिखित में से कौन पंचायत समिति का मुख्य कार्य है?",
+    "A_en": "Preparation of annual budget", "A_hi": "वार्षिक बजट की तैयारी",
+    "B_en": "Implementation of rural development schemes", "B_hi": "ग्रामीण विकास योजनाओं का कार्यान्वयन",
+    "C_en": "Collection of local taxes", "C_hi": "स्थानीय करों के संग्रह",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Panchayat Samiti handles budgeting, rural development, and tax collection as key functions.",
+    "explanation_hi": "पंचायत समिति बजटिंग, ग्रामीण विकास और कर संग्रह के रूप में मुख्य कार्य संभालती है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which level of Panchayat operates at the village level?",
+    "question_hi": "गाँव के स्तर पर कौन सा पंचायत स्तर कार्य करता है?",
+    "A_en": "Zila Parishad", "A_hi": "जिला परिषद",
+    "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+    "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+    "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+    "answer": "C",
+    "explanation_en": "The Gram Panchayat is the grassroots-level body operating at the village level.",
+    "explanation_hi": "ग्राम पंचायत गाँव के स्तर पर कार्य करने वाली नीति निर्माण की इकाई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of the Municipal Corporation?",
+    "question_hi": "निम्नलिखित में से कौन नगर निगम का कार्य नहीं है?",
+    "A_en": "Urban planning", "A_hi": "शहरी योजना",
+    "B_en": "Water supply", "B_hi": "पानी की आपूर्ति",
+    "C_en": "Road maintenance", "C_hi": "सड़क रखरखाव",
+    "D_en": "Land revenue collection", "D_hi": "भूमि कर का संग्रह",
+    "answer": "D",
+    "explanation_en": "Land revenue collection is typically a state government function, not a Municipal Corporation responsibility.",
+    "explanation_hi": "भूमि कर का संग्रह आमतौर पर राज्य सरकार का कार्य है, नगर न
