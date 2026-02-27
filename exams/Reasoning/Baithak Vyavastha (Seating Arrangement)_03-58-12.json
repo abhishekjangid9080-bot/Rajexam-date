@@ -1,0 +1,133 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Seating Arrangement for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. The questions must be in both Hindi and English, with answers and explanations in both languages. The difficulty level should be set appropriately for reasoning questions.
+
+First, I'll recall common seating arrangement problems. These usually involve arranging people around a circle, in a row, or in a specific pattern. The key elements are positions, directions (left/right), and relationships between individuals.
+
+Let me start with a circular arrangement. Maybe eight friends sitting around a circle. I can introduce directions and positions relative to others. For example, if A is third to the left of B, where is C? That way, I can test the candidate's ability to visualize circular seating.
+
+Next, a linear arrangement. Suppose six people are sitting in a row. Questions might involve who sits at the ends or specific positions. For example, if D is not at the extreme end, where could they be? This tests understanding of positions in a line.
+
+I should vary the complexity. Maybe a mix of circular and linear problems. Also, include some problems where the seating is based on given clues that require elimination or deduction. For example, using clues like "E is two seats away from F" to determine positions.
+
+Another idea is to use a combination of directions and positions. For instance, if G is second to the right of H, and H is opposite to I, where is I in a circular arrangement? This adds layers to the problem.
+
+I need to ensure each question has four options, with the correct answer and explanation in both languages. Let me check if the example provided in the instructions matches the required format. Yes, the example has all the necessary fields: subject, topic, question in both languages, options, answer, and explanations.
+
+Now, I'll draft the first question. Let's say eight people are sitting in a circle facing the center. Given some positions, find where a specific person is sitting. The answer should be derived by counting positions clockwise or counterclockwise.
+
+For the second question, maybe a linear arrangement where people are facing north. Clues about who is sitting next to whom can help determine the correct answer.
+
+Third question could involve a mix of left and right directions. For example, if a person is third to the left of another in a circle, determine their relative positions.
+
+Fourth question might involve a more complex setup with multiple clues, requiring step-by-step deduction.
+
+I should make sure the explanations are clear and in simple language, avoiding jargon. Each explanation should logically connect the given information to the answer.
+
+I'll need to create a variety of scenarios to cover different aspects of seating arrangements. Maybe some with people facing different directions (like some facing center and others facing outward in a circular arrangement), but since the topic is general, maybe stick to standard patterns unless specified otherwise.
+
+Let me check the difficulty level. For Rajasthan State Exams and SSC/Railway, the questions should be moderate. They shouldn't be too complex but require some reasoning steps. Each question should be solvable within a minute or two with careful thought.
+
+I need to ensure that the options are not too similar. For example, if the answer is the third person from the left, the options should include other positions that might be confusing but aren't the correct answer.
+
+Also, the explanations should clarify why each option is correct or incorrect. This helps in understanding the reasoning process.
+
+Let me start drafting the questions one by one, ensuring they follow the structure and are in both languages. I'll check for consistency in translation and accuracy in the answer.
+</think>
+
+[
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "Eight friends sit around a circular table facing the center. If A is 2nd to the left of B, and B is opposite to C, what is C's position relative to A?",
+"question_hi": "आठ दोस्त केंद्र की ओर मुख करके एक वृत्ताकार मेज के चारों ओर बैठे हैं। यदि A, B के बायें दूसरा है, और B, C के विपरीत है, तो C की स्थिति A के संबंध में क्या है?",
+"A_en": "2nd to the right", "A_hi": "दायें दूसरा",
+"B_en": "3rd to the left", "B_hi": "बायें तीसरा",
+"C_en": "Opposite to A", "C_hi": "A के विपरीत",
+"D_en": "Immediate right", "D_hi": "ठीक दायें",
+"answer": "D",
+"explanation_en": "If A is 2nd left of B and B is opposite to C, then C must be immediately right of A in a circular arrangement.",
+"explanation_hi": "यदि A, B के बायें दूसरा है और B, C के विपरीत है, तो C, A के ठीक दायें होगा एक वृत्ताकार व्यवस्था में।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "Six people sit in a row facing north. D is not at either end. E is to the immediate right of F. If F is third from the left, where is E?",
+"question_hi": "छह व्यक्ति उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। D किसी भी छोर पर नहीं है। E, F के ठीक दायें है। यदि F बायें से तीसरा है, तो E कहाँ है?",
+"A_en": "Fourth from left", "A_hi": "बायें से चौथा",
+"B_en": "Third from right", "B_hi": "दायें से तीसरा",
+"C_en": "Second from left", "C_hi": "बायें से दूसरा",
+"D_en": "Cannot be determined", "D_hi": "निर्धारित नहीं किया जा सकता",
+"answer": "A",
+"explanation_en": "Since F is third from the left and E is immediately right of F, E must be fourth from the left. D's position does not affect this.",
+"explanation_hi": "क्योंकि F बायें से तीसरा है और E, F के ठीक दायें है, E बायें से चौथा होगा। D की स्थिति इस पर कोई प्रभाव नहीं डालती है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "In a circular arrangement of six people, G is 2nd to the right of H. If H is opposite to I, where is G relative to I?",
+"question_hi": "छह व्यक्तियों की एक वृत्ताकार व्यवस्था में, G, H के दायें दूसरा है। यदि H, I के विपरीत है, तो G, I के संबंध में कहाँ है?",
+"A_en": "Opposite to I", "A_hi": "I के विपरीत",
+"B_en": "Immediate left", "B_hi": "ठीक बायें",
+"C_en": "2nd to the left", "C_hi": "बायें दूसरा",
+"D_en": "Immediate right", "D_hi": "ठीक दायें",
+"answer": "C",
+"explanation_en": "If H is opposite I, then G being second to H's right places G two positions left from I in a circle with six people.",
+"explanation_hi": "यदि H, I के विपरीत है, तो H के दायें दूसरा G, छह व्यक्तियों के वृत्त में I के बायें दूसरे स्थान पर होगा।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "Seven friends sit in a row. J is at one end. K is third to the right of J. L is two seats away from K. If M is between L and K, where is M?",
+"question_hi": "सात दोस्त एक पंक्ति में बैठे हैं। J एक छोर पर है। K, J के दायें तीसरा है। L, K से दो सीट दूर है। यदि M, L और K के बीच है, तो M कहाँ है?",
+"A_en": "Fourth from left", "A_hi": "बायें से चौथा",
+"B_en": "Fifth from left", "B_hi": "बायें से पांचवा",
+"C_en": "Third from right", "C_hi": "दायें से तीसरा",
+"D_en": "Immediate left of L", "D_hi": "L के ठीक बायें",
+"answer": "A",
+"explanation_en": "If J is at one end, K is fourth from J (third to right). M must be between K and L, who is two seats away from K, placing M fourth from left.",
+"explanation_hi": "यदि J एक छोर पर है, तो K, J के चौथे स्थान पर (दायें से तीसरा) होगा। L, K से दो सीट दूर है, इसलिए M, L और K के बीच चौथे स्थान पर बायें से होगा।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "In a straight line of five people, N is third from the left. O is to the immediate left of P. Q is not adjacent to anyone. Where is Q?",
+"question_hi": "पांच व्यक्तियों की एक सीधी पंक्ति में, N बायें से तीसरा है। O, P के ठीक बायें है। Q किसी भी व्यक्ति के अगले-बगले नहीं है। Q कहाँ है?",
+"A_en": "Left end", "A_hi": "बायां छोर",
+"B_en": "Right end", "B_hi": "दायां छोर",
+"C_en": "Second from left", "C_hi": "बायें से दूसरा",
+"D_en": "Between N and O", "D_hi": "N और O के बीच",
+"answer": "A",
+"explanation_en": "Q cannot be adjacent to anyone in a line of five, so Q must be at one of the ends. Since N is third, and O is left of P, Q must be at the left end.",
+"explanation_hi": "पांच व्यक्तियों की पंक्ति में Q किसी भी व्यक्ति के अगले-बगले नहीं है, इसलिए Q छोर पर होगा। N तीसरा और O, P के बायें है, इसलिए Q बायें छोर पर होगा।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "Eight people sit around a circular table. R is 3rd to the left of S. T is opposite to R. What is T's position relative to S?",
+"question_hi": "आठ व्यक्ति वृत्ताकार मेज के चारों ओर बैठे हैं। R, S के बायें तीसरा है। T, R के विपरीत है। T की स्थिति S के संबंध में क्या है?",
+"A_en": "2nd to the right", "A_hi": "दायें दूसरा",
+"B_en": "3rd to the left", "B_hi": "बायें तीसरा",
+"C_en": "Immediate left", "C_hi": "ठीक बायें",
+"D_en": "Opposite to S", "D_hi": "S के विपरीत",
+"answer": "A",
+"explanation_en": "If R is 3rd left of S and T is opposite R, then in a circular arrangement with eight people, T must be 2nd right of S.",
+"explanation_hi": "यदि R, S के बायें तीसरा है और T, R के विपरीत है, तो आठ व्यक्तियों के वृत्त में T, S के दायें दूसरे स्थान पर होगा।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "Six friends are sitting in a row. U is at one end. V is not adjacent to U. W is between V and U. Where is W?",
+"question_hi": "छह दोस्त एक पंक्ति में बैठे हैं। U एक छोर पर है। V, U के अगले-बगले नहीं है। W, V और U के बीच है। W कहाँ है?",
+"A_en": "Second from left", "A_hi": "बायें से दूसरा",
+"B_en": "Third from right", "B_hi": "दायें से तीसरा",
+"C_en": "Immediate left of V", "C_hi": "V के ठीक बायें",
+"D_en": "Fourth from left", "D_hi": "बायें से चौथा",
+"answer": "B",
+"explanation_en": "Since U is at one end and W is between V and U, with V not adjacent to U, W must be third from the right in a row of six.",
+"explanation_hi": "क्योंकि U एक छोर पर है और W, V और U के बीच है, जबकि V, U के अगले-बगले नहीं है, तो W छह व्यक्तियों की पंक्ति में दायें से तीसरा होगा।"
+},
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "In a circular arrangement of nine people, X is 4th to the right of Y. Z is opposite to X. What is Z's position relative to Y?",
+"question_hi": "नौ व्यक्तियों की एक वृत्ताकार व्यवस्था में, X, Y के दायें चौथा है। Z, X के विप
