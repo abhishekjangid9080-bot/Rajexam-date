@@ -1,0 +1,35 @@
+[
+{
+"subject": "General Science",
+"topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+"question_en": "What is the atomic number of Hydrogen?",
+"question_hi": "हैडروجين का आम नंबर क्या है।",
+"A_en": "1", "A_hi": "1",
+"B_en": "2", "B_hi": "2",
+"C_en": "3", "C_hi": "3",
+"D_en": "8", "D_hi": "8",
+"answer": "A",
+"explanation_en": "The atomic number of Hydrogen is 1. Hydrogen is the first element in the periodic table and its atomic number represents the number of protons in its nucleus.",
+"explanation_hi": "हैडروجين की आम नंबर 1 है। हैडروجين प्राकृतिक ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार की रेखा ब्लिंग में प्राकृतिक ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार के रेखा ब्लिंग में प्राकृतिक ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार के रेखा ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार के रेखा ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार के रेखा ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार के रेखा ब्लिंग में एक आपूर्ण अधिकार है। अपने आपूर्ण अधिकार के रेखा ब्लिंग में एक आपूर्ण अधिकार है।",
+"description": "आपूर्ण अधिकार के रेखा ब्लिंग में एक आपूर्ण अधिकार है।",
+"question_id": "gsc001",
+"options": [
+{
+"en": "Jodhpur",
+"hi": "जोधपुर",
+"description_en": "Jodhpur is the capital city of Rajasthan state.",
+"description_hi": "जोधपुर राजस्तान के कामय सम्प्लिंग में एक आपण",
+},
+{
+"en": "Jaipur",
+"hi": "जापीर",
+"description_en": "Jaipur is the capital city of Rajasthan.",
+"description_hi": "जापीर राजस्तान कामय सम्प्लिंग में एक आपण",
+},
+{
+"en": "Rajahpur",
+"hi": "राजस्तान कामय सम्प्लिंग में एक्लिंग में एकण",
+"description_en": "Rajahpur is not a valid city in Rajasthan.",
+"description_hi": "राजस्तान कामय समिं एकण में एक्लिं",
+}]
+}
