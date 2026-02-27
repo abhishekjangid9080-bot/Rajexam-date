@@ -1,0 +1,21 @@
+[
+{
+"subject": "General English",
+"topic": "Spotting Errors aur Sentence Improvement",
+"question_en": "Correct the error in the following sentence.",
+"question_hi": "निम्नलिखित विचारकों को समझाना होगा।",
+"A_en": "Correct the error in the following sentence.",
+"A_hi": "निम्निखित विचारकों को समझाना होगा।",
+"B_en": "Spot the errors in the following sentence.",
+"B_hi": "निर्देश दोने वाले विचारकों को समझाना होगा।",
+"C_en": "Correct the errors in the following sentence.",
+"C_hi": "निर्देश दोने वाले विचारकों को समझाना होगा।",
+"D_en": "Spot the errors in the following sentence.",
+"D_hi": "निर्देश दोने वाले विचारकों को समझाना होगा।",
+"answer": "B",
+"explanation_en": "The correct way to frame the question is to ask for identifying and correcting the errors.",
+"explanation_hi": "दोने वाले विचारकों को समझाना और प्रविभूषण की कोशों का मतलाई और प्रविभूषण को समझाना होगा।",
+"explanation_en": "You should explain the errors and provide the corrected sentence.",
+"explanation_hi": "आप को कोशों का मतलाई और प्रविभूषण को समझाना होगा।",
+"explanation_ar": "يجب عليك شرح الأخطاء وتوفير الجملة المصححة.",
+}
