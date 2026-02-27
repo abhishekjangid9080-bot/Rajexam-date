@@ -1,0 +1,74 @@
+[
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the role of gram panchayat according to 73rd Amendment?",
+"question_hi": "73वैम्बिक समयिक के अध्ययन में ग्राम पंचायत क्या करती है।",
+"A_en": "Administration of Gram Panchayat",
+"A_hi": "ग्राम पंचायत का काम",
+"B_en": "Election of Gram Panchayat President",
+"B_hi": "ग्राम पंचायत के निवड़ी केंद्र उपाधिकार",
+"C_en": "Development projects in Gram Panchayat",
+"C_hi": "ग्राम पंचायत के कार्यालय के विकास",
+"D_en": "Administration of Nagar Panchayat",
+"D_hi": "नागर पंचायत के निवड़ी केंद्र",
+"answer": "B",
+"explanation_en": "As per the 73rd Amendment Act, the election of the Gram Panchayat President is carried out at the local level.",
+"explanation_hi": "साधारण सभा और निवड़ी केंद्र के माध्यम सभा के निवड़ी केंद्र",
+"explanation_en": "Under the 73rd Amendment Act, the election of the Gram Panchayat President falls under local governance.",
+"explanation_hi": "73वी सभा माध्यम के निवड़ी केंद्र",
+"explanation_en": "The 73rd Amendment Act ensures that the election of the Gram Panchayat President is carried out locally.",
+"explanation_hi": "73वी सभा माध्यम केंद्र",
+"answer": "B",
+"explanation_en": "In the 73rd Amendment Act, the Gram Panchayat President is elected by the local people.",
+"explanation_hi": "73वी सभा माध्यम केंद्र",
+"explanation_en": "Gram Panchayat President is elected through direct election under the 73rd Amendment Act.",
+"explanation_hi": "73वी सभा माध्यम केंद्र",
+"question_en": "What is the significance of the 73rd Amendment Act in Indian Panchayati Raj system?",
+"question_hi": "भारतीय पंचायत को 73वी सभा माध्यम केंद्र",
+"options_en": [
+{
+"option_text": "Improvement in Panchayati Raj institutions",
+"option_value": "Improvement"
+},
+{
+"option_text": "Strengthening of local self-governance",
+"option_value": "स्थलीय स्वराजशास्त्र केंद्र",
+},
+{
+"option_text": "Enhancement of financial autonomy",
+"option_value": "मूल अन्यामिति केंद्र",
+},
+{
+"option_text": "Facilitating public participation",
+"option_value": "पुलीय संगाँवामिति केंद्र",
+},
+{
+"option_text": "Socio-economic development of Gram Panchayat",
+"option_value": "समुद्र स्वराजशास्ती केंद्र",
+},
+{
+"option_text": "सामुद्र",
+"option_value": "समाजशास्ती",
+},
+{
+"option_text": "सामाजशास्ती",
+"option_value": "सामुद्र",
+},
+{
+"option_text": "सामाजशास्ती",
+"option_value": "सामुद्र",
+},
+{
+"option_text": "सामाजशास्ती",
+"option_value": "सामुद्र",
+},
+{
+"option_text": "सामाजशास्ती",
+"option_value": "सामुद्र",
+},
+{
+"option_text": "सामाजशास्ती",
+"option_value": "सामद्र",
+}
+]
