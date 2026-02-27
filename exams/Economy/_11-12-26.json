@@ -1,0 +1,44 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What is the concept of National Income?",
+"question_hi": "राष्ट्रीय आयाम क्या विभाग है?",
+"A_en": "Gross Domestic Product (GDP)",
+"A_hi": "ग्रॉस दोमेट प्रोडक्शन (GDP)",
+"B_en": "Gross National Product (GNP)",
+"B_hi": "ग्रॉस नेशनल प्रोडक्शन (GNP)",
+"C_en": "National Income",
+"C_hi": "राष्ट्रीय आयाम (NI)",
+"D_en": "Gross Regional Product (GRP)",
+"D_hi": "ग्रॉस रेज़नल प्रोडक्शन (GRP)",
+"answer": "C",
+"explanation_en": "National Income, also known as Gross National Product (GNP), is the total value of all goods and services produced in a country within a specific time period, usually a year. It includes both domestically produced goods and services and services received from other countries.",
+"explanation_hi": "राष्ट्रीय आयाम (NI) - राज्य की प्रतिदिवस के कार्यकारणना समाधि - राज्य के संयुक्त किताबैंक्षण",
+"explanation": "National Income, also known as Gross National Product (GNP), is the total value of all goods and services produced in a country within a specific time period, including domestically produced goods and services as well as services received from other countries.",
+"answer": "C"
+},
+{
+"subject": "Economy",
+"topic": "GDP at Market Price",
+"question_en": "What is the formula to calculate Gainsborough's GDP at Market Price?",
+"question_hi": "गैंडबॉन की मार्क प्रतिदिवस",
+"explanation_en": "GDP at Market Price (Market Value of final goods and services produced) refers to the value of all goods and services produced in a country within a specific time period, excluding the value of capital goods and net taxes but including subsidies. The formula for calculating Gainsborough's GDP at Market Price is:",
+"explanation_hi": "मार्क प्रतिदिवस",
+"answer": "A",
+"options": [
+{
+"option_en": "Gross Domestic Product at Market Price",
+"option_hi": "मार्क डॉमिस्टिक पॉडिक्रॉप्टिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक कॉपॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक कॉपॉडिक डॉमिस्टिक पॉडिक कॉपॉडिक डॉमिस्टिक कॉपॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक कॉपॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक कॉपॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक पॉडिक डॉमिस्टिक डॉमिक डॉमिक पॉडिक डिक डॉमिक डॉमिक डॉमिक डॉमिक डिक डॉमिक डिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक डॉमिक",
+"
+"],
+"question_hi": "राजतमिक डॉमिकतॉमिक डॉमिक डॉमिक",
+"answer": "A",
+"options": [
+{
+"option_en": "Net National Income",
+"option_hi": "नेक डॉमिकतॉमिकतॉमिकतॉमिकतॉमिक",
+"option_hi": "राजतॉमिकतॉमिकतॉमिकतॉमिकतॉमिकतॉमिकतॉमिक",
+"answer": "B",
+"explanation_en": "Net National Income is the total value of all goods and services produced in a country after deducting capital goods and subsidies and including net indirect taxes.",
+"explanation_hi": "नेक डॉमिकतॉमिक डॉमिकतॉमिकतॉमिकतॉमिकतॉमिक
