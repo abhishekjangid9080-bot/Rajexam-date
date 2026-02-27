@@ -1,0 +1,156 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for General Hindi on the topic of Sandhi, Sandhi-Viched, Samas, and Vigrah. The questions should be in both Hindi and English, following the Testbook style. Let me start by recalling the key concepts.
+
+First, Sandhi refers to the combination of two words where the end of the first and the beginning of the second word change. Sandhi-Viched is the reverse, breaking a compound word into its original parts. Samas is the combination of two or more words into a single word, and Vigrah is breaking it down.
+
+I should create a mix of questions. Let me think of some common examples. For Sandhi, words like "Pustakalay" (Pustaka + alay) or "Gupta" (Gu + uta). For Samas, words like "Shikshak" (Shiksha + krit) or "Chandrama" (Chandra + ma). Vigrah would be breaking these into their components.
+
+I need to ensure that the options are tricky but correct. For example, in Sandhi-Viched, the correct split might not be obvious. Also, the explanations should clarify why the correct option is right.
+
+Let me check some standard examples. For Sandhi: "Sampurna" from "Sampurna" (Sam + purna). Wait, no, "Sampurna" is Sam + Purna. So Sandhi here is "Sam + Purna → Sampurna".
+
+For Samas: "Pustakalay" is Samas of Pustaka + alay. But sometimes people might confuse it with Pustak + alay. Wait, no, the correct Sandhi is Pustaka + alay → Pustakalay. So in Sandhi-Viched, splitting into Pustaka and alay.
+
+Another example: "Shikshak" is Shiksha + krit → Shikshak. So the Vigrah should be Shiksha and krit.
+
+Let me create 10 questions covering these aspects. Each question should have four options with one correct answer. The explanations need to be concise but informative.
+
+Wait, maybe include some common mistakes. For example, in Sandhi-Viched, some might think "Chandrama" is Chandra + ma, but actually it's Chandra + ma (with a sandhi). Or "Gupta" is Gu + uta → Gupta (with a sandhi).
+
+Let me draft each question step by step, ensuring that the options are correct and the explanations clarify the rules.
+</think>
+
+[
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'सम + पूर्ण' का संधि-रूप है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'सम + पूर्ण' का संधि-रूप है?",
+        "A_en": "संपूर्ण",
+        "A_hi": "संपूर्ण",
+        "B_en": "सम्पूर्ण",
+        "B_hi": "सम्पूर्ण",
+        "C_en": "संपूर्ण्ण",
+        "C_hi": "संपूर्ण्ण",
+        "D_en": "संपूर्ण्णा",
+        "D_hi": "संपूर्ण्णा",
+        "answer": "B",
+        "explanation_en": "'सम + पूर्ण' में संधि होने पर 'म' अक्षर 'म्प' में परिवर्तित हो जाता है, जिससे 'सम्पूर्ण' शब्द बनता है।",
+        "explanation_hi": "'सम + पूर्ण' में संधि होने पर 'म' अक्षर 'म्प' में परिवर्तित हो जाता है, जिससे 'सम्पूर्ण' शब्द बनता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'गु + उत्तम' का संधि-रूप है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'गु + उत्तम' का संधि-रूप है?",
+        "A_en": "गुत्तम",
+        "A_hi": "गुत्तम",
+        "B_en": "गुत्तम्म",
+        "B_hi": "गुत्तम्म",
+        "C_en": "गुत्तम्मा",
+        "C_hi": "गुत्तम्मा",
+        "D_en": "गुत्तम्मान",
+        "D_hi": "गुत्तम्मान",
+        "answer": "A",
+        "explanation_en": "'गु + उत्तम' में संधि होने पर 'उ' अक्षर कट जाता है और 'गुत्तम' शब्द बनता है।",
+        "explanation_hi": "'गु + उत्तम' में संधि होने पर 'उ' अक्षर कट जाता है और 'गुत्तम' शब्द बनता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'हनि + शर्मा' का संधि-रूप है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'हनि + शर्मा' का संधि-रूप है?",
+        "A_en": "हनिशर्मा",
+        "A_hi": "हनिशर्मा",
+        "B_en": "हनिशर्मा",
+        "B_hi": "हनिशर्मा",
+        "C_en": "हनिश्चर्मा",
+        "C_hi": "हनिश्चर्मा",
+        "D_en": "हनिशंर्मा",
+        "D_hi": "हनिशंर्मा",
+        "answer": "A",
+        "explanation_en": "'हनि + शर्मा' में संधि होने पर 'ि' और 'ा' के मिलने से 'ी' बनता है, जिससे 'हनिशर्मा' शब्द बनता है।",
+        "explanation_hi": "'हनि + शर्मा' में संधि होने पर 'ि' और 'ा' के मिलने से 'ी' बनता है, जिससे 'हनिशर्मा' शब्द बनता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'पुस्तक + आलय' का संधि-रूप है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'पुस्तक + आलय' का संधि-रूप है?",
+        "A_en": "पुस्तकालय",
+        "A_hi": "पुस्तकालय",
+        "B_en": "पुस्तकालय",
+        "B_hi": "पुस्तकालय",
+        "C_en": "पुस्तकालए",
+        "C_hi": "पुस्तकालए",
+        "D_en": "पुस्तकालो",
+        "D_hi": "पुस्तकालो",
+        "answer": "A",
+        "explanation_en": "'पुस्तक + आलय' में संधि होने पर 'क' और 'आ' के मिलने से 'कालय' बनता है, जिससे 'पुस्तकालय' शब्द बनता है।",
+        "explanation_hi": "'पुस्तक + आलय' में संधि होने पर 'क' और 'आ' के मिलने से 'कालय' बनता है, जिससे 'पुस्तकालय' शब्द बनता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'शिक्षा + कृत' का संधि-रूप है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'शिक्षा + कृत' का संधि-रूप है?",
+        "A_en": "शिक्षकृत",
+        "A_hi": "शिक्षकृत",
+        "B_en": "शिक्षकृत",
+        "B_hi": "शिक्षकृत",
+        "C_en": "शिक्षकृत",
+        "C_hi": "शिक्षकृत",
+        "D_en": "शिक्षकृत",
+        "D_hi": "शिक्षकृत",
+        "answer": "A",
+        "explanation_en": "'शिक्षा + कृत' में संधि होने पर 'ा' और 'कृ' के मिलने से 'कृत' बनता है, जिससे 'शिक्षकृत' शब्द बनता है।",
+        "explanation_hi": "'शिक्षा + कृत' में संधि होने पर 'ा' और 'कृ' के मिलने से 'कृत' बनता है, जिससे 'शिक्षकृत' शब्द बनता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'चन्द्र + मान' का संधि-रूप है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'चन्द्र + मान' का संधि-रूप है?",
+        "A_en": "चन्द्रमान",
+        "A_hi": "चन्द्रमान",
+        "B_en": "चन्द्रमान",
+        "B_hi": "चन्द्रमान",
+        "C_en": "चन्द्रमान",
+        "C_hi": "चन्द्रमान",
+        "D_en": "चन्द्रमान",
+        "D_hi": "चन्द्रमान",
+        "answer": "A",
+        "explanation_en": "'चन्द्र + मान' में संधि होने पर 'द्र' और 'मान' के मिलने से 'चन्द्रमान' शब्द बनता है।",
+        "explanation_hi": "'चन्द्र + मान' में संधि होने पर 'द्र' और 'मान' के मिलने से 'चन्द्रमान' शब्द बनता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'हनि + शर्मा' का संधि-विच्छेद है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'हनिशर्मा' का संधि-विच्छेद है?",
+        "A_en": "हनि + शर्मा",
+        "A_hi": "हनि + शर्मा",
+        "B_en": "हनि + शर्मा",
+        "B_hi": "हनि + शर्मा",
+        "C_en": "हनि + शर्मा",
+        "C_hi": "हनि + शर्मा",
+        "D_en": "हनि + शर्मा",
+        "D_hi": "हनि + शर्मा",
+        "answer": "A",
+        "explanation_en": "'हनिशर्मा' में 'ि' और 'ा' के मिलने से 'ी' बना है, इसलिए संधि-विच्छेद 'हनि + शर्मा' होगा।",
+        "explanation_hi": "'हनिशर्मा' में 'ि' और 'ा' के मिलने से 'ी' बना है, इसलिए संधि-विच्छेद 'हनि + शर्मा' होगा।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "Sandhi aur Sandhi-Viched, Samas aur Vigrah",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'संपूर्ण' का संधि-विच्छेद है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'संपूर्ण' का संधि-विच्छेद है?",
+        "A_en": "सम + पूर्ण",
+        "A_hi": "सम + पूर्ण",
+        "B_en": "सम्पूर्ण",
+        "B_hi": "सम्पूर्ण",
+        "C_en": "सम + पूर्ण",
+        "C_hi": "सम + पूर्ण",
+        "D_en": "सम + पूर्ण",
+        "D_hi": "सम + पूर्ण",
+        "answer": "
