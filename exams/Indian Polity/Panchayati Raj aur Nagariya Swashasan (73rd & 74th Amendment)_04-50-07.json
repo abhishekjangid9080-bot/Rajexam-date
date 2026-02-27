@@ -1,0 +1,142 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Indian Polity, specifically about the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. First, I need to recall the key points of these amendments. The 73rd Amendment is about rural local governments, and the 74th is for urban areas. Both were passed in 1992 and 1993, respectively. They aim to decentralize governance by giving more power to local bodies.
+
+I need to ensure that each question tests understanding of the structure, functions, and provisions of these amendments. Let me brainstorm topics: reservation of seats for SCs, STs, and women; the three-tier system in Panchayats; election procedures; financial powers; and the role of the State Election Commission. Also, for the 74th Amendment, similar aspects for urban areas like municipalities.
+
+Now, I should formulate questions that are not too straightforward but still test comprehension. For example, asking about the constitutional amendments, the number of tiers, reserved seats, financial autonomy, and the role of the State Election Commission. Each question needs four options, with the correct one clearly identified. The explanations should reinforce the key points without being too verbose.
+
+I have to be careful with the details. For instance, the 73rd Amendment has provisions for 33% reservation for women, but the 74th does not specify the same. Also, the State Election Commission was established by the 73rd Amendment. I need to verify these points to ensure accuracy.
+
+Let me start drafting each question step by step, making sure the language is clear in both Hindi and English. Double-checking the answer options to avoid any trick questions. Also, ensuring that the difficulty level is appropriate for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Once all 10 are ready, I'll structure them into the required JSON format, keeping the keys and structure consistent with the example provided.
+</think>
+
+[
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "73rd Constitution Amendment Act, 1992, relates to which aspect of governance?",
+"question_hi": "संविधान के 73वें संशोधन अधिनियम, 1992 के संबंध में स्वशासन के किस पहलू से संबंधित है?",
+"A_en": "Urban local self-government", "A_hi": "शहरी स्थानीय स्वशासन",
+"B_en": "Rural local self-government", "B_hi": "ग्रामीण स्थानीय स्वशासन",
+"C_en": "State governments", "C_hi": "राज्य सरकारें",
+"D_en": "Central government", "D_hi": "केंद्र सरकार",
+"answer": "B",
+"explanation_en": "The 73rd Amendment Act, 1992 introduced the system of Panchayati Raj to empower rural local self-government in India.",
+"explanation_hi": "1992 का 73वां संशोधन अधिनियम भारत में ग्रामीण स्थानीय स्वशासन के लिए पंचायती राज प्रणाली को प्रबल करता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum population required for a village to be eligible for a Panchayat under the 73rd Amendment?",
+"question_hi": "73वें संशोधन के तहत किसी गाँव को पंचायत के योग्य बनाने के लिए न्यूनतम जनसंख्या कितनी होनी चाहिए?",
+"A_en": "2000", "A_hi": "2000",
+"B_en": "2500", "B_hi": "2500",
+"C_en": "500", "C_hi": "500",
+"D_en": "1000", "D_hi": "1000",
+"answer": "A",
+"explanation_en": "The 73rd Amendment Act, 1992 mandates that every village with a population of at least 2000 must have a Panchayat.",
+"explanation_hi": "1992 के 73वें संशोधन अधिनियम के अनुसार 2000 जनसंख्या वाले प्रत्येक गाँव में पंचायत का गठन आवश्यक है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Under the 73rd Amendment, what percentage of seats must be reserved for Scheduled Tribes (STs) in Panchayats?",
+"question_hi": "73वें संशोधन के तहत पंचायतों में अनुसूचित जनजातियों (एसटी) के लिए कितने प्रतिशत सीटों का आरक्षण आवश्यक है?",
+"A_en": "50%", "A_hi": "50%",
+"B_en": "33%", "B_hi": "33%",
+"C_en": "25%", "C_hi": "25%",
+"D_en": "Proportional to their population", "D_hi": "उनकी जनसंख्या के आनुपातिक रूप से",
+"answer": "D",
+"explanation_en": "The 73rd Amendment reserves seats for SCs and STs in proportion to their population in each state, ensuring representation.",
+"explanation_hi": "73वें संशोधन में प्रत्येक राज्य में अनुसूचित जाति के जनसंख्या अनुपात में आरक्षण सुनिश्चित करता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "The 74th Constitution Amendment Act, 1992, focuses on which aspect of governance?",
+"question_hi": "1992 का 74वां संविधान संशोधन अधिनियम स्वशासन के किस पहलू पर केंद्रित है?",
+"A_en": "Rural local self-government", "A_hi": "ग्रामीण स्थानीय स्वशासन",
+"B_en": "Urban local self-government", "B_hi": "शहरी स्थानीय स्वशासन",
+"C_en": "State governments", "C_hi": "राज्य सरकारें",
+"D_en": "Central government", "D_hi": "केंद्र सरकार",
+"answer": "B",
+"explanation_en": "The 74th Amendment Act, 1992 established urban local self-government systems like municipalities and municipal corporations.",
+"explanation_hi": "1992 का 74वां संशोधन अधिनियम नगर पालिकाओं आदि शहरी स्थानीय स्वशासन प्रणालियों की स्थापना करता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which constitutional amendment introduced the provision of reservations for women in Panchayats?",
+"question_hi": "पंचायतों में महिलाओं के लिए आरक्षण का प्रावधान किस संविधान संशोधन द्वारा शामिल किया गया था?",
+"A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+"B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+"C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+"D_en": "75th Amendment", "D_hi": "75वां संशोधन",
+"answer": "A",
+"explanation_en": "The 73rd Amendment Act, 1992 mandated a minimum of 33% reservation for women in all levels of Panchayats.",
+"explanation_hi": "1992 के 73वें संशोधन अधिनियम द्वारा पंचायतों के सभी स्तरों में महिलाओं के लिए 33% आरक्षण आवश्यक किया गया था।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum age for candidates contesting Panchayat elections?",
+"question_hi": "पंचायत चुनाव में उम्मीदवार बनने के लिए न्यूनतम आयु सीमा क्या है?",
+"A_en": "18 years", "A_hi": "18 वर्ष",
+"B_en": "21 years", "B_hi": "21 वर्ष",
+"C_en": "25 years", "C_hi": "25 वर्ष",
+"D_en": "30 years", "D_hi": "30 वर्ष",
+"answer": "B",
+"explanation_en": "The 73rd Amendment Act, 1992 sets the minimum age at 21 years for contesting Panchayat elections.",
+"explanation_hi": "1992 का 73वां संशोधन अधिनियम पंचायत चुनाव में उम्मीदवार बनने के लिए न्यूनतम आयु 21 वर्ष तय करता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which body conducts elections to Panchayats?",
+"question_hi": "पंचायतों के चुनाव किस निकाय द्वारा आयोजित किए जाते हैं?",
+"A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+"B_en": "Election Commission of India", "B_hi": "भारत चुनाव आयोग",
+"C_en": "Union Public Service Commission", "C_hi": "संघ लोक सेवा आयोग",
+"D_en": "State Public Service Commission", "D_hi": "राज्य लोक सेवा आयोग",
+"answer": "A",
+"explanation_en": "The State Election Commission was established by the 73rd Amendment to conduct Panchayat elections.",
+"explanation_hi": "73वें संशोधन द्वारा राज्य चुनाव आयोग की स्थापना पंचायत चुनाव आयोजित करने के लिए की गई थी।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum duration of a Panchayat's term according to the 73rd Amendment?",
+"question_hi": "73वें संशोधन के अनुसार एक पंचायत की अवधि कितने वर्ष तक होती है?",
+"A_en": "3 years", "A_hi": "3 साल",
+"B_en": "4 years", "B_hi": "4 साल",
+"C_en": "5 years", "C_hi": "5 साल",
+"D_en": "6 years", "D_hi": "6 साल",
+"answer": "C",
+"explanation_en": "The 73rd Amendment Act, 1992 stipulates a five-year term for Panchayats.",
+"explanation_hi": "1992 के 73वें संशोधन अधिनियम में पंचायतों के लिए पांच साल की अवधि निर्धारित की गई है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following is NOT a function of Panchayats as per the 73rd Amendment?",
+"question_hi": "निम्नलिखित में से कौन-सा पंचायतों का कार्य 73वें संशोधन के अनुसार नहीं है?",
+"A_en": "Maintenance of public health", "A_hi": "सार्वजनिक स्वास्थ्य का रखरखाव",
+"B_en": "Implementation of social welfare schemes", "B_hi": "सामाजिक कल्याण योजनाओं का क्रियान्वयन",
+"C_en": "Collecting income tax", "C_hi": "आयकर वसूली",
+"D_en": "Rural development projects", "D_hi": "ग्रामीण विकास परियोजनाएं",
+"answer": "C",
+"explanation_en": "Panchayats do not have the authority to collect income tax, which is a central government function.",
+"explanation_hi": "आयकर वसूली केंद्र सरकार का कार्य है, जिसे पंचायतों के स्वशासन के कार्यों में शामिल नहीं किया गया है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum number of members required to form a Panchayat?",
+"question_hi": "एक पंचायत के गठन के लिए सदस्यों की न्यूनतम संख्या कितनी होनी चाहिए?",
+"A_en": "3", "A_hi": "3",
+"B_en": "5", "B_hi": "5",
+"C_en": "7", "C_hi": "7",
+"D_en": "10", "D_hi": "10",
+"answer": "B",
+"explanation_en": "The 73rd Amendment Act, 1992 requires a Panchayat to have at least five members to function.",
+"explanation_hi": "1992 के 73वें संशोधन अधिनियम के अनुसार पं
