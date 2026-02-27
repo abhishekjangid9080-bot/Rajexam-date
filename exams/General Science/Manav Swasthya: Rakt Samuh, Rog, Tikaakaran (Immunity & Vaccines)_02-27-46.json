@@ -1,0 +1,97 @@
+[
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "What is the process of cellular respiration?",
+"question_hi": "विभागी पर्यवहार क्या है।",
+"A_en": "Photosynthesis", "A_hi": "फोटॉसिस्ट्यून",
+"B_en": "Transpiration", "B_hi": "ट्रानस्पियरवाली",
+"C_en": "Habitat and Adaptation", "C_hi": "धन्यां और संतुलन",
+"D_en": "Cellular Respiration", "D_hi": "विभागी पर्यवहार",
+"answer": "D",
+"explanation_en": "Cellular Respiration is the process by which cells in living organisms take in oxygen and release carbon dioxide as a byproduct. It is the main process of energy production in organisms. ",
+"explanation_hi": "विभागी पर्यवहार योग्य प्रणालिक अनुभवन्तरित खर्चरण द्वारा विभागी पर्यवहार",
+"explanation_en": "Cellular respiration is the process of converting glucose into energy within cells of living organisms.\nIt occurs in mitochondria and involves the breakdown of glucose to produce ATP (Adenosine Triphosphate), which is the main energy currency of cells.",
+"explanation_hi": "विभागी पर्यवहार एंट्राकिस्टप",
+"question_en": "Which of the following is not a type of cellular respiration?",
+"question_hi": "निवार विभागी पर्यवहार तरंग",
+"options": [
+{
+"option": "Photosynthesis",
+"option_en": "पोटिस्टप",
+"option_hi": "फोटोस्टप",
+"option_is": "सप्टेंस्टप"
+},
+{
+"option": "Cytokinesis",
+"option_en": "स्टाइकोन्यासिक",
+"option_hi": "स्टाइकोन्यासिक",
+"option_is": "स्टाइकोन्यासिक"
+},
+{
+"option": "Phototropism",
+"option_en": "पोटोट्रोपटिस्टप",
+"option_hi": "पोटोट्रोपटिस्टप",
+"option_is": "पोटोट्रोपटिस्टप"
+},
+{
+"option": "Cytokinesis",
+"option_en": "स्टाइकोन्यासिक",
+"option_hi": "स्टाइकोन्यासिक",
+"option_is": "स्टाइकोन्यासिक"
+},
+{
+"option": "Adaptation",
+"option_en": "एडाटस्टेंट",
+"option_hi": "एडाटस्टेंट",
+"option_is": "एडाटस्टेंट"
+},
+{
+"option": "Hemocytosis",
+"option_en": "हीमाक्टोस्टीस्ट",
+"option_hi": "हेमाक्टोस्टीस्ट",
+"option_is": "हीमाक्टोस्टीस्ट",
+},
+{
+"option": "Nutrient Absorption",
+"option_en": "नुतिमा अब्स्ट्रोपिक",
+"option_hi": "नुतिमा अब्स्ट्रोपिक",
+"option_is": "नुतिमा अब्स्ट्रोपिक",
+},
+{
+"option": "Digestion",
+"option_en": "डिजेस्ट",
+"option_hi": "डिजेस्ट",
+"option_is": "डिजेस्ट",
+},
+{
+"option": "Vitamin D",
+"option_en": "विटिमा।",
+"option_hi": "विटिमा।",
+"option_is": "विटिमा।"
+},
+{
+"option": "Food Pyramid",
+"option_en": "फिमा।",
+"option_hi": "फिमा।",
+"option_is": "फिमा।"
+},
+{
+"option": "Blood Group",
+"option_en": "बलिमा।",
+"option_hi": "बलिमा।",
+"option_is": "बलिमा।"
+},
+{
+"option": "Seed Germination",
+"option_en": "स।",
+"option_hi": "सिमा।",
+"option_is": "सिमा।"
+},
+{
+"option": "Heart Attack",
+"option_en": "हिमा।",
+"option_hi": "हिमा।",
+"option_is": "हिमा।"
+}
+]
