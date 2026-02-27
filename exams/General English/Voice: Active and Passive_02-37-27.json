@@ -1,0 +1,68 @@
+[
+{
+"subject": "General English",
+"topic": "Voice: Active and Passive",
+"question_en": "Which is the active voice of the following sentence?",
+"question_hi": "प्रातिपद्य: \"मुझे प्राप्त करने के लिए मुझे कोई प्रश्न नहीं",
+"A_en": "Who gave me the information?",
+"A_hi": "कौन मुझे जानकारी दी।",
+"B_en": "Which information was given to me?",
+"B_hi": "मुझे कौन कहा जानकारी?",
+"C_en": "From where did I get the information?",
+"C_hi": "मैं जानकारी किसे प्राप्त करने के लिए क्या प्रश्न है।",
+"D_en": "When did I get the information?",
+"D_hi": "जानकारी क्या मैं प्राप्त करने के लिए क्या प्रश्न है।",
+"question_en": "Which sentence is passive voice?",
+"question_hi": "पाठी संवादी क्या प्रश्न है।",
+"options": [
+{
+"option_value": "A",
+"option_description_en": "Who was given the information?",
+"option_description_hi": "जानकारी के लिए क्या प्रश्न है।",
+"option_value_hi": "A",
+"option_description_hi": "जानकारी के लिए क्या प्रश्न है।",
+"option_value_en": "B"
+},
+{
+"option_value": "B",
+"option_description_en": "When was the information provided?",
+"option_description_hi": "जानकारी के लिए क्या प्रश्न है।",
+"option_value_hi": "B",
+"option_value_en": "B"
+},
+{
+"option_value": "C",
+"option_description_en": "Where was the information received?",
+"option_description_hi": "जानकारी के लिए क्या प्रश्न है।",
+"option_value_hi": "C",
+"option_value_en": "C"
+},
+{
+"option_value": "D",
+"option_description_en": "What is the subject of the sentence?",
+"option_description_hi": "जानकारी के लिए क्या विषय है।",
+"option_value_hi": "D",
+"option_value_en": "D"
+},
+{
+"option_value": "E",
+"option_description_en": "Who is the doer of the sentence?",
+"option_description_hi": "जानकारी के लिए क्या कामयों करने वाला है।",
+"option_value_hi": "E",
+"option_value_en": "E"
+},
+{
+"option_value": "F",
+"option_description_en": "When was the information given?",
+"option_description_hi": "जानकारी के लिए क्या मांगा किया गया है।",
+"option_value_hi": "F",
+"option_value_en": "F"
+},
+{
+"option_value": "G",
+"option_description_en": "Where was the information received?",
+"option_description_hi": "जानकारी के लिए क्या जाना किया गया गया है।",
+"option_value_hi": "G",
+"option_value_en": "G"
+}
+]
