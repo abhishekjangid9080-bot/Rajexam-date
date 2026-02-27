@@ -1,0 +1,130 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the topic "Bhartiya Arthvyavastha ka Swaroop aur Vikas" under Economics for Rajasthan exams like LDC, CET, RAS, and also for SSC and Railway NTPC. Let me start by recalling key concepts related to the structure and development of the Indian economy.
+
+First, I should identify important subtopics. This might include economic planning, GDP composition, sectors (primary, secondary, tertiary), economic reforms, agricultural reforms, industrial growth, service sector growth, challenges like poverty and unemployment, recent economic policies, and maybe some historical context like pre and post-independence economic structures.
+
+I need to ensure that the questions are in both Hindi and English, following the Testbook style. Each question must have four options in both languages, with the answer and explanations in both languages as well. The difficulty level should be appropriate for the mentioned exams, so not too easy or too hard.
+
+Let me brainstorm some possible questions. For example, one could be about the share of the service sector in India's GDP. Another might be about the year of economic reforms in 1991. Questions on the largest contributor to GDP, the role of agriculture, or the objectives of Five-Year Plans. Also, topics like the Human Development Index (HDI) ranking for India, the concept of inclusive growth, or the definition of per capita income.
+
+I need to verify the accuracy of the data for each question. For instance, confirming the current GDP composition percentages from recent reports. Also, ensuring that the years for economic reforms are correct. For example, the economic liberalization started in 1991 due to the balance of payment crisis.
+
+Another angle could be the difference between developed and developing economies in the context of India. Or the impact of demonetization in 2016. Also, the role of public sector undertakings (PSUs) in India's industrial sector.
+
+I should check for any recent developments, like the GDP growth rate for the latest fiscal year, or the status of India's ranking in terms of economic indicators. Also, the contribution of different states to the national economy might be a point, but maybe that's too specific.
+
+Each question must be clear and unambiguous. The options should be plausible but with one clear correct answer. The explanations should be concise and directly address the question.
+
+Now, structuring each question in the required JSON format. Let's start drafting one by one, making sure to alternate between different subtopics to cover the breadth of the topic. Ensuring that the Hindi translations are accurate and the options are correctly labeled in both languages. Also, the answer key and explanations must be in both languages.
+
+For example, the first question could be about the year of economic reforms. The answer is 1991. The options might be 1990, 1991, 1992, 1993. The explanation would state that 1991 was the year when India initiated economic liberalization.
+
+Another question could ask about the primary sector's contribution to GDP, which is around 15-20%. The options could be 15%, 30%, 50%, 70%. The correct answer is 15%.
+
+I need to create ten such questions, each covering different aspects, ensuring that they are of moderate difficulty suitable for the target exams. Also, checking that the explanations clarify why the correct answer is right and maybe why the other options are incorrect.
+
+Now, I'll proceed to draft each question step by step, ensuring they meet all the given instructions and formatting requirements.
+</think>
+
+[
+{
+  "subject": "Economy",
+  "topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+  "question_en": "भारत के स्थूल घरेलू उत्पाद (GDP) का विकास दर किस वर्ष सर्वाधिक रहा है?",
+  "question_hi": "भारत के स्थूल घरेलू उत्पाद (GDP) का विकास दर किस वर्ष सर्वाधिक रहा है?",
+  "A_en": "2010-11",
+  "A_hi": "2010-11",
+  "B_en": "2012-13",
+  "B_hi": "2012-13",
+  "C_en": "2016-17",
+  "C_hi": "2016-17",
+  "D_en": "2004-05",
+  "D_hi": "2004-05",
+  "answer": "C",
+  "explanation_en": "2016-17 में भारत के स्थूल घरेलू उत्पाद (GDP) की विकास दर 7.1% थी, जो उच्चतम दर रही है।",
+  "explanation_hi": "2016-17 में भारत के स्थूल घरेलू उत्पाद (GDP) की विकास दर 7.1% थी, जो उच्चतम दर रही है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+  "question_en": "भारतीय अर्थव्यवस्था की प्रमुख सेवा क्षेत्र के लिए एक उदाहरण क्या है?",
+  "question_hi": "भारतीय अर्थव्यवस्था की प्रमुख सेवा क्षेत्र के लिए एक उदाहरण क्या है?",
+  "A_en": "कृषि",
+  "A_hi": "कृषि",
+  "B_en": "उद्योग",
+  "B_hi": "उद्योग",
+  "C_en": "बैंकिंग और वित्त",
+  "C_hi": "बैंकिंग और वित्त",
+  "D_en": "मनोरंजन उद्योग",
+  "D_hi": "मनोरंजन उद्योग",
+  "answer": "C",
+  "explanation_en": "बैंकिंग और वित्त क्षेत्र भारतीय अर्थव्यवस्था के सेवा क्षेत्र की प्रमुख शाखा है जो स्थूल घरेलू उत्पाद में बड़ी हिस्सेदारी रखता है।",
+  "explanation_hi": "बैंकिंग और वित्त क्षेत्र भारतीय अर्थव्यवस्था के सेवा क्षेत्र की प्रमुख शाखा है जो स्थूल घरेलू उत्पाद में बड़ी हिस्सेदारी रखता है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+  "question_en": "भारत के अर्थव्यवस्था में कृषि क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा कितना है?",
+  "question_hi": "भारत के अर्थव्यवस्था में कृषि क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा कितना है?",
+  "A_en": "5%",
+  "A_hi": "5%",
+  "B_en": "14%",
+  "B_hi": "14%",
+  "C_en": "28%",
+  "C_hi": "28%",
+  "D_en": "40%",
+  "D_hi": "40%",
+  "answer": "B",
+  "explanation_en": "कृषि क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा लगभग 14% है, जो अब धीरे-धीरे घट रहा है।",
+  "explanation_hi": "कृषि क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा लगभग 14% है, जो अब धीरे-धीरे घट रहा है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+  "question_en": "भारत में आर्थिक सुधारों के आरंभ के समय किस समस्या का सामना करना पड़ा था?",
+  "question_hi": "भारत में आर्थिक सुधारों के आरंभ के समय किस समस्या का सामना करना पड़ा था?",
+  "A_en": "आतंकवाद",
+  "A_hi": "आतंकवाद",
+  "B_en": "बेरोजगारी",
+  "B_hi": "बेरोजगारी",
+  "C_en": "बचत घाटा और अकेले भुगतान संतुलन संकट",
+  "C_hi": "बचत घाटा और अकेले भुगतान संतुलन संकट",
+  "D_en": "महामारी",
+  "D_hi": "महामारी",
+  "answer": "C",
+  "explanation_en": "1991 में भारत के आर्थिक सुधारों के शुरुआत के समय बचत घाटा और एकल भुगतान संतुलन संकट का सामना करना पड़ा था।",
+  "explanation_hi": "1991 में भारत के आर्थिक सुधारों के शुरुआत के समय बचत घाटा और एकल भुगतान संतुलन संकट का सामना करना पड़ा था।"
+},
+{
+  "subject": "Economy",
+  "topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+  "question_en": "भारत के अर्थव्यवस्था में सेवा क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा कितना है?",
+  "question_hi": "भारत के अर्थव्यवस्था में सेवा क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा कितना है?",
+  "A_en": "25%",
+  "A_hi": "25%",
+  "B_en": "40%",
+  "B_hi": "40%",
+  "C_en": "55%",
+  "C_hi": "55%",
+  "D_en": "65%",
+  "D_hi": "65%",
+  "answer": "C",
+  "explanation_en": "भारत के सेवा क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा लगभग 55% है, जो अर्थव्यवस्था का सबसे बड़ा योगदान देता है।",
+  "explanation_hi": "भारत के सेवा क्षेत्र का स्थूल घरेलू उत्पाद में हिस्सा लगभग 55% है, जो अर्थव्यवस्था का सबसे बड़ा योगदान देता है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+  "question_en": "भारत में आर्थिक सुधारों के प्रमुख उद्देश्य निम्नलिखित में से कौन-सा नहीं है?",
+  "question_hi": "भारत में आर्थिक सुधारों के प्रमुख उद्देश्य निम्नलिखित में से कौन-सा नहीं है?",
+  "A_en": "लचीले बाजार की ओर अर्थव्यवस्था का अभिगमन",
+  "A_hi": "लचीले बाजार की ओर अर्थव्यवस्था का अभिगमन",
+  "B_en": "सार्वजनिक क्षेत्र के विकास को बढ़ावा देना",
+  "B_hi": "सार्वजनिक क्षेत्र के विकास को बढ़ावा देना",
+  "C_en": "विदेशी निवेश को सुविधा प्रदान करना",
+  "C_hi": "विदेशी निवेश को सुविधा प्रदान करना",
+  "D_en": "कर के बोझ को कम करना",
+  "D_hi": "कर के बोझ को कम करना",
+  "answer": "B",
+  "explanation_en": "आर्थिक सुधारों के प्रमुख उद्देश्य लचीले बाजार की ओर अर्थव्यवस्था का अभिगमन, विदेशी निवेश को सुविधा प्रदान करना और कर के बोझ को कम करना हैं, लेकिन सार्वजनिक क्षेत्र के विकास को बढ़ावा देना इनके उद्देश्य नहीं है।",
+  "explanation_hi": "आर्थिक सुधारों के प्रमुख उद्देश्य लचीले बाजार की ओर अर्थव्यवस्था का अभिगमन, विदेशी निवेश को सुविधा प्रदान करना और कर के बोझ को कम करन
