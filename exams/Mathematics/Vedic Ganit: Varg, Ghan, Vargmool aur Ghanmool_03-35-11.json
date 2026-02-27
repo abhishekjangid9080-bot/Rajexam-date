@@ -1,0 +1,175 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Vedic Mathematics topics like squares, cubes, square roots, and cube roots for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Let me start by recalling the key concepts in Vedic Math for these areas. 
+
+First, squares: Vedic methods like Ekadhikena Purvena or Yavadunam can be used for specific cases. For example, squaring numbers ending with 5. Then cubes, maybe using the Anurupyena method for nearby numbers. Square roots and cube roots might involve estimation or specific sutras.
+
+I need to ensure the questions cover a range of difficulty levels. Some might be direct calculations, others might require applying the right method. Let me brainstorm some questions. 
+
+1. Squaring a number ending with 5, like 35². Using the trick 35*(3+1) = 35*4 = 140, then 5²=25, so 1225.
+2. Cube of 12 using the formula (a+b)³. Maybe split into 10+2.
+3. Square root of a perfect square, like 729. Since 27²=729.
+4. Cube root of a number, such as 343, which is 7³.
+5. Square of a number near a base, like 98² using (100-2)².
+6. Cube of a number using the Anurupyena method, maybe 13³.
+7. Square root estimation for a non-perfect square, but maybe exact using Vedic steps.
+8. Cube root of a larger number, like 1728.
+9. Applying the Yavadunam method for squaring numbers slightly above or below a base.
+10. Combining two methods for a complex problem, like squaring 102.
+
+Now, I need to structure each question with options in Hindi and English, ensuring the answer is correct and explanations are clear. Let me check each question for accuracy and difficulty. Also, ensure that the options are plausible but only one is correct. For example, in squares, other options could be common mistakes. 
+
+Wait, for the first question, 35² is 1225. Other options might be 1225, 1220, 1230, 1215. The correct answer is A. 
+
+Cube of 12 is 1728. Options could be 1728, 1700, 1750, 1730. Answer is A.
+
+Square root of 729 is 27. Options might include 27, 25, 28, 26. Answer is A.
+
+Cube root of 343 is 7. Options could be 7, 8, 6, 9. Answer is A.
+
+For 98² using base 100, it's (100-2)² = 10000 - 400 +4 = 9604. So options would be 9604, 9600, 9596, 9610. Answer is A.
+
+Cube of 13 is 2197. Options: 2197, 2200, 2180, 2170. Answer A.
+
+Square root of 1296 is 36. Options: 36, 34, 35, 37. Answer A.
+
+Cube root of 1728 is 12. Options: 12, 11, 13, 14. Answer A.
+
+Using Yavadunam for 102²: 102+2=104, 2²=4, so 10404. Options: 10404, 10400, 10410, 10390. Answer A.
+
+Square of 99 using base 100: (100-1)²=9801. Options: 9801, 9800, 9799, 9802. Answer A.
+
+That covers 10 questions. Now, I need to write them in JSON format with the required structure, making sure explanations are in both languages and answers are correctly labeled. Also, check that the options are in Hindi and English as per the example. Let me verify each one for accuracy and correct formatting.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "What is the square of 35 using Vedic Mathematics?",
+    "question_hi": "वैदिक गणित के उपयोग से 35 का वर्ग क्या है?",
+    "A_en": "1225", "A_hi": "1225",
+    "B_en": "1215", "B_hi": "1215",
+    "C_en": "1200", "C_hi": "1200",
+    "D_en": "1300", "D_hi": "1300",
+    "answer": "A",
+    "explanation_en": "Using the Ekadhikena Purvena method for numbers ending with 5: (35)² = 35*(3+1) followed by 25 = 1225.",
+    "explanation_hi": "5 अंकों वाली संख्याओं के लिए एकाधिकेन पूर्वेन विधि का उपयोग करके: (35)² = 35*(3+1) के बाद 25 = 1225।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "Find the cube of 12 using Vedic methods.",
+    "question_hi": "वैदिक विधियों का उपयोग करके 12 का घन ज्ञात करें।",
+    "A_en": "1728", "A_hi": "1728",
+    "B_en": "1700", "B_hi": "1700",
+    "C_en": "1750", "C_hi": "1750",
+    "D_en": "1730", "D_hi": "1730",
+    "answer": "A",
+    "explanation_en": "Using the (a+b)³ formula: (10+2)³ = 1000 + 600 + 120 + 8 = 1728.",
+    "explanation_hi": "(a+b)³ सूत्र का उपयोग करके: (10+2)³ = 1000 + 600 + 120 + 8 = 1728।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "What is the square root of 729?",
+    "question_hi": "729 का वर्गमूल क्या है?",
+    "A_en": "27", "A_hi": "27",
+    "B_en": "25", "B_hi": "25",
+    "C_en": "28", "C_hi": "28",
+    "D_en": "26", "D_hi": "26",
+    "answer": "A",
+    "explanation_en": "27² = 729, so √729 = 27.",
+    "explanation_hi": "27² = 729, इसलिए √729 = 27।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "Find the cube root of 343.",
+    "question_hi": "343 का घनमूल ज्ञात कीजिए।",
+    "A_en": "7", "A_hi": "7",
+    "B_en": "8", "B_hi": "8",
+    "C_en": "6", "C_hi": "6",
+    "D_en": "9", "D_hi": "9",
+    "answer": "A",
+    "explanation_en": "7³ = 343, so ∛343 = 7.",
+    "explanation_hi": "7³ = 343, इसलिए ∛343 = 7।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "Calculate (98)² using the base method.",
+    "question_hi": "बेस विधि का उपयोग करके (98)² की गणना करें।",
+    "A_en": "9604", "A_hi": "9604",
+    "B_en": "9600", "B_hi": "9600",
+    "C_en": "9596", "C_hi": "9596",
+    "D_en": "9610", "D_hi": "9610",
+    "answer": "A",
+    "explanation_en": "Using (100-2)² = 10000 - 400 + 4 = 9604.",
+    "explanation_hi": "(100-2)² = 10000 - 400 + 4 = 9604।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "Find the cube of 13 using Vedic techniques.",
+    "question_hi": "वैदिक तकनीकों का उपयोग करके 13 का घन ज्ञात करें।",
+    "A_en": "2197", "A_hi": "2197",
+    "B_en": "2200", "B_hi": "2200",
+    "C_en": "2180", "C_hi": "2180",
+    "D_en": "2170", "D_hi": "2170",
+    "answer": "A",
+    "explanation_en": "Using the formula (10+3)³ = 1000 + 900 + 270 + 27 = 2197.",
+    "explanation_hi": "(10+3)³ = 1000 + 900 + 270 + 27 = 2197।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "What is the square root of 1296?",
+    "question_hi": "1296 का वर्गमूल क्या है?",
+    "A_en": "36", "A_hi": "36",
+    "B_en": "34", "B_hi": "34",
+    "C_en": "35", "C_hi": "35",
+    "D_en": "37", "D_hi": "37",
+    "answer": "A",
+    "explanation_en": "36² = 1296, so √1296 = 36.",
+    "explanation_hi": "36² = 1296, इसलिए √1296 = 36।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "Find the cube root of 1728.",
+    "question_hi": "1728 का घनमूल ज्ञात कीजिए।",
+    "A_en": "12", "A_hi": "12",
+    "B_en": "11", "B_hi": "11",
+    "C_en": "13", "C_hi": "13",
+    "D_en": "14", "D_hi": "14",
+    "answer": "A",
+    "explanation_en": "12³ = 1728, so ∛1728 = 12.",
+    "explanation_hi": "12³ = 1728, इसलिए ∛1728 = 12।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "What is the square of 102 using Yavadunam Sutra?",
+    "question_hi": "यवदूनम् सूत्र का उपयोग करके 102 का वर्ग क्या है?",
+    "A_en": "10404", "A_hi": "10404",
+    "B_en": "10400", "B_hi": "10400",
+    "C_en": "10410", "C_hi": "10410",
+    "D_en": "10390", "D_hi": "10390",
+    "answer": "A",
+    "explanation_en": "Using Yavadunam Sutra: 102 + 2 = 104, 2² = 4 → 10404.",
+    "explanation_hi": "यवदूनम् सूत्र का उपयोग करके: 102 + 2 = 104, 2² = 4 → 10404।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+    "question_en": "Calculate (99)² using the base method.",
+    "question_hi": "बेस विधि का उपयोग करके (99)² की गणना करें।",
+    "A_en": "9801", "A_hi": "9801",
+    "B_en": "9800", "B_hi": "9800",
+    "C_en": "9799", "C_hi": "9799",
+    "D_en": "9802", "D_hi": "9802",
+    "answer": "A",
+    "explanation_en": "Using (100-1)² = 10000 - 200 + 1 = 9801.",
+    "explanation_hi": "(100-1)² = 10000 - 200 + 1 = 9801।"
+  }
+]
