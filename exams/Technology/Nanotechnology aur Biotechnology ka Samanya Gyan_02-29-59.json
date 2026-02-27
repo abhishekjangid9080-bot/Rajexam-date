@@ -1,0 +1,75 @@
+[
+{
+"subject": "Technology",
+"topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+"question_en": "What is the concept behind nanotechnology?",
+"question_hi": "नान्तिकारी और बीविकेअपारी क्या है?",
+"A_en": "Molecular engineering", "A_hi": "मूल्यविकीय योजना",
+"B_en": "Bioinformatics", "B_hi": "बीएयू इन्फॉम",
+"C_en": "Microelectronics", "C_hi": "मिकोरेलेकॉन्स",
+"D_en": "Nanotechnology", "D_hi": "नान्तिकारी",
+"answer": "D",
+"explanation_en": "The correct answer is Nanotechnology. Nanotechnology is the study and manipulation of matter at the atomic and molecular level, typically involving materials with dimensions of 1 to 100 nanometers. It has a wide range of applications in various fields including electronics, medicine, and environmental science.",
+"explanation_hi": "सही उत्तरा नान्तिकारी है। नान्तिकारी विश्व मानक और अन्तर्जीवी अभिपूर्व और प्रवेश समाधिती इन कारखंड क्या वैश्व मानक और एन्ट्रियल अभिपूर्व और प्रवेश समाधिती इन कारखंड क्या वैश्व मानक अभिपूर्व और प्रवेश समाधिती इन कारखंड क्या वैश्व मानक अभिपूर्व और प्रवेश समाधिती इन कारखंड क्या वैश्व मानक अभिपूर्व और प्रवेश समाधिती इन कारखंड क्या वैश्व मानक अभिपूर्व और प्रवेश समाधिती इन कारखंड",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधान क्या वैश्व मानक अभिपूर्व और प्रवेश समाधिती इन कारखंड",
+"options_en": [
+{
+"option": "Jodhpur",
+"option_value": "Jodhpur",
+"option_en": "Jodhpur",
+"option_hi": "जोधपुर"
+},
+{
+"option": "Kota",
+"option_value": "Kota",
+"option_en": "Kota",
+"option_hi": "कोटा"
+},
+{
+"option": "Ajmer",
+"option_value": "Ajmer",
+"option_en": "Ajmer",
+"option_hi": "अजमी"
+},
+{
+"option": "Bikaner",
+"option_value": "Bikaner",
+"option_en": "Bikaner",
+"option_hi": "बिकानेर"
+}
+],
+"options_hi": [
+{
+"option": "Jodhpur",
+"option_value": "Jodhpur",
+"option_en": "Jodhpur",
+"option_hi": "जोधपुर"
+},
+{
+"option": "Kota",
+"option_value": "Kota",
+"option_en": "Kota",
+"option_hi": "कोटा"
+},
+{
+"option": "Ajmer",
+"option_value": "Ajmer",
+"option_en": "Ajmer",
+"option_hi": "अजमी"
+},
+{
+"option": "Bikaner",
+"option_value": "Bikaner",
+"option_en": "Bikaner",
+"option_hi": "बिकानेर"
+}
+],
+"answer": "D",
+"explanation_en": "Bikaner is the correct answer because it is a city in Rajasthan and these four options (Jodhpur, Kota, Ajmer, Bikaner) are cities of Rajasthan. So, among these options, Bikaner is the correct answer.",
+"explanation_hi": "बिकानेर हिन कानेर हिन कानेर",
+"difficulty": "मतमियर",
+"difficulty_en": "Medium"
+}
+}
+]
