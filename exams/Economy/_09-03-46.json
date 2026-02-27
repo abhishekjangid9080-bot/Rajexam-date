@@ -1,0 +1,215 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs for Rajasthan State Exams like LDC, CET, RAS, and also for SSC and Railway (NTPC) in the subject of Economy. The instructions specify that each question must be in both Hindi and English, following a specific JSON format. 
+
+First, I need to identify the topic. Wait, the user left the topic blank. Hmm, that's an issue. But maybe they just forgot to specify. Since the subject is Economy, I'll assume a general economy topic unless there's a specific area mentioned. Maybe they want a mix of different economic concepts relevant to these exams.
+
+Next, I should recall common economic topics covered in such exams—like Indian economy, economic policies, RBI, fiscal policy, national income, etc. Since these are state-level exams, perhaps include some Rajasthan-specific economic aspects too, but the example given uses a general question (capital of Rajasthan), so maybe stick to broader topics.
+
+Each question needs to have the subject, topic, question in English and Hindi, four options in both languages, the correct answer, and explanations in both languages. The difficulty level should be set according to economy standards. Also, the JSON structure is strict, so I must ensure each object follows the example provided.
+
+I need to make sure the Hindi translation is accurate and matches the English version. The options should be plausible distractors but clearly wrong except the correct one. The explanations should be concise and directly answer why the correct answer is right.
+
+Let me start brainstorming questions. For example, questions about GDP, economic indicators, government schemes, RBI functions, etc. Let's say the first question is about the main source of income for the Indian government. The answer would be taxes. Another could be about the central bank of India, which is RBI. Then, maybe a question on economic planning in India, like the Planning Commission. Also, questions about national income accounting, fiscal policy, and important economic reforms.
+
+I need to ensure that each question is properly formatted, with correct option labels (A, B, C, D) and that the answer key uses the letter. The explanations should clarify why the correct answer is correct. Also, check for consistency in translation. For example, if the English question is about GDP, the Hindi should be सकल घरेलू उत्पाद.
+
+Wait, the user mentioned "Topic:" is empty. Should I assign a topic to each question? The example has the topic as empty. Maybe the topic is not required, so I can leave it as an empty string. Alternatively, maybe each question can have a different topic. But the user hasn't specified, so perhaps it's better to leave it as an empty string as in the example.
+
+Now, checking the example given: the topic is empty. So I'll follow that. Each question will have the subject as Economy, topic as an empty string.
+
+I need to create 10 questions. Let's outline them:
+
+1. Main source of government revenue (Taxes)
+2. Central bank of India (RBI)
+3. Economic planning body (Planning Commission)
+4. GDP definition
+5. Economic reform year (1991)
+6. National Income measurement (GDP)
+7. Fiscal deficit meaning
+8. Disinvestment purpose
+9. Economic indicator (GDP)
+10. Financial inclusion scheme (PMJDY)
+
+For each of these, I need to create the question in both languages, options, answer, and explanations. Let's start drafting each one, ensuring that translations are accurate and that the difficulty is appropriate for the exams mentioned.
+
+For example, the first question: What is the main source of government revenue? The options would be Taxes, Subsidies, Loans, etc. The correct answer is Taxes. The explanation in English and Hindi would explain that taxes are the primary source.
+
+I need to make sure that all questions are unique and cover different aspects of economics. Also, check for any possible errors in the options. For instance, in the question about the central bank, RBI is correct, while other options like SEBI (regulates securities) or IRDA (insurance) are distractors.
+
+Another point: The user wants the JSON in the specified format. So after creating each question, I'll structure it into the JSON array, ensuring that all keys are present and correct. Also, check that the answer letters match the correct options.
+
+Finally, validate the JSON to ensure it's correctly formatted without any syntax errors. That's crucial because any mistake here could cause issues when the user uses the data.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "What is the primary source of government revenue in India?",
+    "question_hi": "भारत में सरकार की आय का मुख्य स्रोत क्या है?",
+    "A_en": "Taxes",
+    "A_hi": "कर",
+    "B_en": "Borrowing",
+    "B_hi": "ऋण",
+    "C_en": "Disinvestment",
+    "C_hi": "अपने सामान को बेचना",
+    "D_en": "Fees and fines",
+    "D_hi": "शुल्क और जुर्माना",
+    "answer": "A",
+    "explanation_en": "Taxes are the main source of revenue for the government of India.",
+    "explanation_hi": "कर भारत सरकार की आय का मुख्य स्रोत है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "Which of the following is the central bank of India?",
+    "question_hi": "इनमें से कौन भारत का केंद्रीय बैंक है?",
+    "A_en": "Reserve Bank of India",
+    "A_hi": "भारतीय रिजर्व बैंक",
+    "B_en": "State Bank of India",
+    "B_hi": "भारतीय राज्य बैंक",
+    "C_en": "National Bank for Agriculture and Rural Development",
+    "C_hi": "कृषि और ग्रामीण विकास के लिए राष्ट्रीय बैंक",
+    "D_en": "Punjab National Bank",
+    "D_hi": "पंजाब राष्ट्रीय बैंक",
+    "answer": "A",
+    "explanation_en": "Reserve Bank of India is the central bank of India.",
+    "explanation_hi": "भारतीय रिजर्व बैंक भारत का केंद्रीय बैंक है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "What does GDP stand for?",
+    "question_hi": "जीडीपी का फुल फॉर्म क्या है?",
+    "A_en": "Gross Domestic Product",
+    "A_hi": "सकल घरेलू उत्पाद",
+    "B_en": "Gross Domestic Profit",
+    "B_hi": "सकल घरेलू लाभ",
+    "C_en": "Global Domestic Product",
+    "C_hi": "वैश्विक घरेलू उत्पाद",
+    "D_en": "Gross Domestic Process",
+    "D_hi": "सकल घरेलू प्रक्रिया",
+    "answer": "A",
+    "explanation_en": "GDP stands for Gross Domestic Product.",
+    "explanation_hi": "जीडीपी का फुल फॉर्म सकल घरेलू उत्पाद है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "In which year did India liberalise its economy?",
+    "question_hi": "भारत अर्थव्यवस्था को किस वर्ष छोटे कर दिया गया था?",
+    "A_en": "1980",
+    "A_hi": "1980",
+    "B_en": "1991",
+    "B_hi": "1991",
+    "C_en": "2001",
+    "C_hi": "2001",
+    "D_en": "2011",
+    "D_hi": "2011",
+    "answer": "B",
+    "explanation_en": "India liberalised its economy in 1991.",
+    "explanation_hi": "भारत ने अपनी अर्थव्यवस्था को 1991 में छोटा किया था।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "Which of the following is a measure of national income?",
+    "question_hi": "इनमें से कौन राष्ट्रीय आय का माप है?",
+    "A_en": "GDP",
+    "A_hi": "जीडीपी",
+    "B_en": "GNP",
+    "B_hi": "जीएनपी",
+    "C_en": "Both A and B",
+    "C_hi": "A और B दोनों",
+    "D_en": "None of the above",
+    "D_hi": "उपरोक्त में से कोई नहीं",
+    "answer": "C",
+    "explanation_en": "GDP and GNP are both measures of national income.",
+    "explanation_hi": "जीडीपी और जीएनपी दोनों राष्ट्रीय आय के माप हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "What does fiscal deficit represent?",
+    "question_hi": "वित्तीय घाटा क्या प्रतिनिधित्व करता है?",
+    "A_en": "Difference between government expenditure and revenue",
+    "A_hi": "सरकार के व्यय और आय के बीच अंतर",
+    "B_en": "Difference between total assets and liabilities",
+    "B_hi": "कुल संपत्तियों और देनदारियों के बीच अंतर",
+    "C_en": "Difference between exports and imports",
+    "C_hi": "निर्यात और आयात के बीच अंतर",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "A",
+    "explanation_en": "Fiscal deficit represents the difference between government expenditure and revenue.",
+    "explanation_hi": "वित्तीय घाटा सरकार के व्यय और आय के बीच अंतर को दर्शाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "What is the primary objective of disinvestment in public sector undertakings?",
+    "question_hi": "सार्वजनिक क्षेत्र के उपक्रमों में अपने सामान बेचने का मुख्य उद्देश्य क्या है?",
+    "A_en": "To raise capital",
+    "A_hi": "पूंजी जुटाना",
+    "B_en": "To reduce government debt",
+    "B_hi": "सरकार के ऋण को कम करना",
+    "C_en": "To privatize the sector",
+    "C_hi": "क्षेत्र का निजीकरण",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "Disinvestment aims to raise capital, reduce government debt, and privatize the sector.",
+    "explanation_hi": "अपने सामान को बेचने का उद्देश्य पूंजी जुटाना, सरकार के ऋण को कम करना और क्षेत्र का निजीकरण होता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "Which of the following is an economic indicator?",
+    "question_hi": "इनमें से कौन एक आर्थिक संकेतक है?",
+    "A_en": "GDP",
+    "A_hi": "जीडीपी",
+    "B_en": "Inflation rate",
+    "B_hi": "मुद्रास्फीति की दर",
+    "C_en": "Unemployment rate",
+    "C_hi": "बेरोजगारी की दर",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "GDP, inflation rate, and unemployment rate are all economic indicators.",
+    "explanation_hi": "जीडीपी, मुद्रास्फीति की दर और बेरोजगारी की दर सभी आर्थिक संकेतक हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "What is the primary goal of the Make in India initiative?",
+    "question_hi": "मेक इन इंडिया अभियान का मुख्य उद्देश्य क्या है?",
+    "A_en": "To promote foreign investment",
+    "A_hi": "विदेशी निवेश को बढ़ावा देना",
+    "B_en": "To boost manufacturing",
+    "B_hi": "उत्पादन को बढ़ाना",
+    "C_en": "To reduce unemployment",
+    "C_hi": "बेरोजगारी को कम करना",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "Make in India aims to promote foreign investment, boost manufacturing, and reduce unemployment.",
+    "explanation_hi": "मेक इन इंडिया विदेशी निवेश को बढ़ावा देने, उत्पादन को बढ़ाने और बेरोजगारी को कम करने का उद्देश्य रखता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "",
+    "question_en": "Which of the following is a key component of India's financial inclusion strategy?",
+    "question_hi": "इनमें से कौन भारत की वित्तीय समावेशन रणनीति का मुख्य घटक है?",
+    "A_en": "Pradhan Mantri Jan Dhan Yojana",
+    "A_hi": "प्रधान मंत्री जन धन योजना",
+    "B_en": "National Rural Health Mission",
+    "B_hi": "राष्ट्रीय ग्रामीण स्वास्थ्य मिशन",
+    "C_en": "Swachh Bharat Mission",
+    "C_hi": "स्वच्छ भारत मिशन",
+    "D_en": "Ayushman Bharat",
+    "D_hi": "आयुष्मान भारत",
+    "answer": "A",
+    "explanation_en": "Pradhan Mantri Jan Dhan Yojana is a key component of India's financial inclusion strategy.",
+    "explanation_hi": "प्रधान मंत्री जन धन योजना भारत की वित्तीय समावेशन रणनीति का मुख्य घटक है।"
+  }
+]
