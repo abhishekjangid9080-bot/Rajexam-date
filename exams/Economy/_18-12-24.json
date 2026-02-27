@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Macroeconomics",
+"question_en": "What is the definition of Gross Domestic Product (GDP)?",
+"question_hi": "गृहप्रदेश में उत्पादन क्या है।",
+"A_en": "GDP is the total value of all goods and services produced within a country's borders.",
+"A_hi": "गृहप्रदेश में उत्पादन के माध्यमिक आधारित अनुमान एक देश के अंतरालों के अनुमान है।",
+"B_en": "GDP is the total value of all goods and services produced within a country's borders.",
+"B_hi": "गृहप्रदेश के अंतरालों के अनुमान है।",
+"C_en": "GDP is the sum of all consumer prices in a country.",
+"C_hi": "गृहप्रदेश के विभिज्ञान के अनुमान है।",
+"D_en": "GDP is the total value of all goods and services produced within a country's borders, excluding prices.",
+"D_hi": "गृहप्रदेश के अनुमान है।",
+"answer": "D",
+"explanation_en": "GDP measures the total value of goods and services produced within a country, without considering prices. It gives an overview of a country's economic activity.",
+"explanation_hi": "गृहप्रदेश के अनुमान समानता में गृहप्रदेश के अनुमान है।",
+}
+]
