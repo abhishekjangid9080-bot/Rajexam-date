@@ -1,0 +1,118 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the Fifth Schedule of the Indian Constitution related to Scheduled Areas and Tribal Administration. The user provided an example of the JSON structure, so I'll make sure to follow that closely.
+
+First, I'll recall the key points about the Fifth Schedule. It deals with the administration of Scheduled Areas in states other than those in the Sixth Schedule (which are in the Northeast). The Fifth Schedule is administered by the state governments, while the Sixth Schedule is under the President's administration. The Fifth Schedule areas are mainly in states like Madhya Pradesh, Chhattisgarh, Odisha, etc. It includes provisions for a Tribal Advisory Council, which is a constitutional body. The Sixth Schedule has Autonomous District Councils, which are statutory. The Fifth Schedule also allows for the use of local languages in administration and education.
+
+Now, I'll start drafting questions. The first question should test understanding of which states are covered under the Fifth Schedule. Then, I need questions on the difference between Fifth and Sixth Schedules, the role of the Tribal Advisory Council, the appointment of the Tribal Commissioner, and provisions like the use of local languages. I should also include questions on who administers these areas, the maximum number of members in the Tribal Advisory Council, and whether the Fifth Schedule includes the Northeastern states. Each question must have four options with one correct answer. I'll make sure the explanations are accurate and concise. Let me check each question to ensure clarity and correctness.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Which of the following states does NOT fall under the jurisdiction of the Fifth Schedule?",
+    "question_hi": "निम्नलिखित में से कौन-सा राज्य पांचवीं अनुसूची के अधिकार क्षेत्र में नहीं आता है?",
+    "A_en": "Madhya Pradesh", "A_hi": "मध्य प्रदेश",
+    "B_en": "Odisha", "B_hi": "ओडिशा",
+    "C_en": "Chhattisgarh", "C_hi": "छत्तीसगढ़",
+    "D_en": "Gujarat", "D_hi": "गुजरात",
+    "answer": "D",
+    "explanation_en": "The Fifth Schedule applies to all states except those in the Sixth Schedule (North-Eastern states). Gujarat is not part of the Fifth Schedule.",
+    "explanation_hi": "पांचवीं अनुसूची उन राज्यों पर लागू होती है जो छठवीं अनुसूची (उत्तर-पूर्वी राज्य) में शामिल नहीं होते हैं। गुजरात पांचवीं अनुसूची के अधिकार क्षेत्र में नहीं आता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "What is the primary function of the Tribal Advisory Council constituted under the Fifth Schedule?",
+    "question_hi": "पांचवीं अनुसूची के तहत गठित जनजातीय परामर्शक परिषद का मुख्य कार्य क्या है?",
+    "A_en": "To manage tribal land ownership", "A_hi": "जनजातीय भूमि स्वामित्व का प्रबंधन करना",
+    "B_en": "To advise the Governor on tribal matters", "B_hi": "गवर्नर को जनजातीय मामलों में सलाह देना",
+    "C_en": "To implement central government policies in tribal areas", "C_hi": "केंद्र सरकार की नीतियों का जनजातीय क्षेत्रों में लागू करना",
+    "D_en": "To recruit tribal candidates for government jobs", "D_hi": "सरकारी नौकरियों में जनजातीय उम्मीदवारों की भर्ती करना",
+    "answer": "B",
+    "explanation_en": "The Tribal Advisory Council advises the Governor on all matters relating to tribal areas covered under the Fifth Schedule.",
+    "explanation_hi": "जनजातीय परामर्शक परिषद पांचवीं अनुसूची के तहत आने वाले जनजातीय क्षेत्रों में गवर्नर को सभी मामलों में सलाह देती है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Under the Fifth Schedule, who administers the Scheduled Areas?",
+    "question_hi": "पांचवीं अनुसूची के तहत अनुसूचित क्षेत्रों का प्रशासन कौन करता है?",
+    "A_en": "President of India", "A_hi": "भारत के राष्ट्रपति",
+    "B_en": "Governor of the State", "B_hi": "राज्य के राज्यपाल",
+    "C_en": "State Government", "C_hi": "राज्य सरकार",
+    "D_en": "Union Government", "D_hi": "केंद्र सरकार",
+    "answer": "C",
+    "explanation_en": "The Fifth Schedule areas are administered by the respective State Governments, unlike the Sixth Schedule which is administered by the President.",
+    "explanation_hi": "पांचवीं अनुसूची के क्षेत्र राज्य सरकारों द्वारा प्रशासित किए जाते हैं, जबकि छठवीं अनुसूची का प्रशासन राष्ट्रपति द्वारा किया जाता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "What is the maximum number of members that the Tribal Advisory Council can have?",
+    "question_hi": "जनजातीय परामर्शक परिषद में अधिकतम सदस्यों की संख्या कितनी हो सकती है?",
+    "A_en": "20", "A_hi": "20",
+    "B_en": "30", "B_hi": "30",
+    "C_en": "40", "C_hi": "40",
+    "D_en": "50", "D_hi": "50",
+    "answer": "B",
+    "explanation_en": "The Tribal Advisory Council under the Fifth Schedule can have a maximum of 30 members, all nominated by the Governor.",
+    "explanation_hi": "पांचवीं अनुसूची के तहत जनजातीय परामर्शक परिषद में अधिकतम 30 सदस्य हो सकते हैं, जो सभी राज्यपाल द्वारा नियुक्त होते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Which of the following is NOT a provision of the Fifth Schedule?",
+    "question_hi": "निम्नलिखित में से कौन-सा पांचवीं अनुसूची का प्रावधान नहीं है?",
+    "A_en": "Formation of Tribal Advisory Council", "A_hi": "जनजातीय परामर्शक परिषद का गठन",
+    "B_en": "Use of local languages in administration", "B_hi": "प्रशासन में स्थानीय भाषाओं का उपयोग",
+    "C_en": "Establishment of Autonomous District Councils", "C_hi": "स्वशासित जिला परिषदों की स्थापना",
+    "D_en": "Prohibition of sale of tribal land without consent", "D_hi": "जनजातीय भूमि के बिना सहमति पर बिक्री पर प्रतिबंध",
+    "answer": "C",
+    "explanation_en": "Autonomous District Councils are part of the Sixth Schedule, not the Fifth Schedule.",
+    "explanation_hi": "स्वशासित जिला परिषदें छठवीं अनुसूची का भाग हैं, पांचवीं अनुसूची का नहीं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Who is appointed as the Tribal Commissioner under the Fifth Schedule?",
+    "question_hi": "पांचवीं अनुसूची के तहत जनजातीय आयुक्त के रूप में किसे नियुक्त किया जाता है?",
+    "A_en": "Chief Minister", "A_hi": "मुख्यमंत्री",
+    "B_en": "Governor", "B_hi": "राज्यपाल",
+    "C_en": "Union Home Minister", "C_hi": "केंद्रीय गृह मंत्री",
+    "D_en": "An independent person nominated by the Governor", "D_hi": "राज्यपाल द्वारा नियुक्त एक स्वतंत्र व्यक्ति",
+    "answer": "D",
+    "explanation_en": "The Tribal Commissioner under the Fifth Schedule is an independent person nominated by the Governor, typically a person familiar with tribal customs and problems.",
+    "explanation_hi": "पांचवीं अनुसूची के तहत जनजातीय आयुक्त एक स्वतंत्र व्यक्ति होता है, जिसे राज्यपाल द्वारा नियुक्त किया जाता है, अक्सर जनजातीय परंपराओं और समस्याओं से परिचित व्यक्ति।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Which of the following statements about the Fifth Schedule is correct?",
+    "question_hi": "निम्नलिखित में से कौन-सा पांचवीं अनुसूची के बारे में सही कथन है?",
+    "A_en": "It covers all the northeastern states of India", "A_hi": "यह भारत के सभी उत्तर-पूर्वी राज्यों पर लागू होती है",
+    "B_en": "It allows the use of English as the official language in tribal areas", "B_hi": "यह जनजातीय क्षेत्रों में अंग्रेजी को आधिकारिक भाषा के रूप में उपयोग की अनुमति देती है",
+    "C_en": "It mandates the protection of tribal land rights", "C_hi": "यह जनजातीय भूमि अधिकारों की सुरक्षा को अनिवार्य करती है",
+    "D_en": "It restricts the entry of non-tribal people into Scheduled Areas", "D_hi": "यह अनुसूचित क्षेत्रों में अजनजातीय लोगों के प्रवेश पर प्रतिबंध लगाती है",
+    "answer": "C",
+    "explanation_en": "The Fifth Schedule includes provisions for the protection of tribal land rights and prohibits the sale of tribal land without consent.",
+    "explanation_hi": "पांचवीं अनुसूची में जनजातीय भूमि अधिकारों की सुरक्षा और अनुमति के बिना जनजातीय भूमि की बिक्री पर प्रतिबंध के प्रावधान होते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Under the Fifth Schedule, the protection of tribal land is primarily under which constitutional article?",
+    "question_hi": "पांचवीं अनुसूची के तहत जनजातीय भूमि की सुरक्षा मुख्य रूप से किस संविधान अनुच्छेद के अंतर्गत है?",
+    "A_en": "Article 244", "A_hi": "अनुच्छेद 244",
+    "B_en": "Article 245", "B_hi": "अनुच्छेद 245",
+    "C_en": "Article 246", "C_hi": "अनुच्छेद 246",
+    "D_en": "Article 247", "D_hi": "अनुच्छेद 247",
+    "answer": "A",
+    "explanation_en": "The protection of tribal land is primarily governed by Article 244 of the Indian Constitution, which establishes the Fifth Schedule.",
+    "explanation_hi": "जनजातीय भूमि की सुरक्षा भारतीय संविधान के अनुच्छेद 244 के अंतर्गत आती है, जो पांचवीं अनुसूची की स्थापना करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Anusuchit Kshetra aur Janjatiya Prashasan (Fifth Schedule)",
+    "question_en": "Which of the following is a unique feature of the Fifth Schedule compared to the Sixth Schedule?",
+    "question_hi": "छठवीं अनुसूची के मुकाब
