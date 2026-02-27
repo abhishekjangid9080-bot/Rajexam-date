@@ -1,0 +1,16 @@
+[
+{
+"subject": "Mathematics",
+"topic": "Samay-Duri (Time, Speed & Distance)",
+"question_en": "A train covers a distance of 100 km in 2 hours at a constant speed. What is its speed?",
+"question_hi": "एक टेरेन 100 किमी को सुन्नून 2 घंटे की ताजीवी से पूरी दूरी को कितने किमी?",
+"A_en": "50 kmph", "A_hi": "पांचों की ताजीवी",
+"B_en": "60 kmph", "B_hi": "राजस्थान के पांचों की ताजीवी",
+"C_en": "40 kmph", "C_hi": "दीवानें की ताजीवी",
+"D_en": "80 kmph", "D_hi": "पांचों की ताजीवी",
+"answer": "C",
+"explanation_en": "According to the given information, the train travels at a speed of 40 kmph.",
+"explanation_hi": "उत्तरारख के पांचों की ताजीवी",
+"explanation_ar": "وفقًا للمعلومات المعطاة, سرعة القطار هي 40 كم/ساعة.",
+}
+]
