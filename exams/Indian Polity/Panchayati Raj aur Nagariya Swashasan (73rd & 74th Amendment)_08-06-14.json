@@ -1,0 +1,145 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. First, I need to recall the key points of these amendments.
+
+The 73rd Amendment Act, 1992, deals with Panchayati Raj institutions. It provides for constitutional status and powers to the local self-government in rural areas. Key points include the establishment of Gram Panchayats at the village level, Panchayat Samitis at the block level, and Zila Parishads at the district level. It mandates regular elections, reservation for SCs, STs, and women, and their participation in local governance.
+
+The 74th Amendment Act, 1992, focuses on urban local bodies, like municipalities. It aims to strengthen urban governance by providing constitutional status to these bodies. It includes provisions for elections, representation of SCs, STs, and women, and functions related to urban planning and infrastructure.
+
+Now, I need to frame 10 questions covering important aspects of both amendments. Each question should have four options, correct answers, and explanations in both Hindi and English. The difficulty level should be appropriate for exams like LDC, CET, RAS, SSC, and Railway. I need to ensure the questions test understanding of key provisions, differences between the two amendments, and specific details like reservation percentages, levels of governance, and functions assigned.
+
+Let me start by listing possible topics for each question. For example, the year of implementation, the levels of Panchayats, reservation percentages, functions transferred, the role of the State Election Commission, and the difference between rural and urban local bodies. I should also include questions on the number of amendments, the minimum age for membership, and the role of the state government in these systems.
+
+I need to make sure the options are plausible and the correct answers are accurate. For instance, the 73rd Amendment was implemented in 1993, not 1992. The reservation for women in Panchayats is 1/3rd, which is 33%. The functions of urban local bodies include urban planning, sanitation, and water supply. The State Election Commission is responsible for conducting panchayat elections, not the State Government or District Collector.
+
+Each question should be clear and unambiguous. The explanations should reinforce the correct information and clarify why other options are incorrect. For example, when asking about the reservation for SCs and STs, the answer is 1/4th, but the options might include 1/3rd (which is for women) or 1/5th to confuse. The explanation should specify the exact reservation percentages from the amendments.
+
+Also, the structure must follow the provided JSON format strictly. Each question must have subject, topic, question in both languages, four options in both languages, the correct answer, and explanations in both languages. The language should be precise, avoiding any markdown formatting and ensuring that the JSON is valid.
+
+After drafting each question, I'll cross-verify the facts to avoid errors. For example, confirming that the minimum age for becoming a member of a Panchayat is 21 years, and the term is 5 years. Similarly, checking that the 74th Amendment deals with urban local bodies and that the functions listed are indeed part of the transferred responsibilities.
+
+Finally, I need to ensure that the questions cover a range of difficulty, from straightforward facts to more analytical aspects, such as the difference between the two amendments or the role of specific bodies. This will test the candidates' comprehensive understanding of the topics.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which article of the Indian Constitution provides constitutional status to Urban Local Bodies (ULBs)?",
+    "question_hi": "भारतीय संविधान के किस अनुच्छेद द्वारा शहरी स्थानीय निकायों (ULBs) को संवैधानिक स्थिति प्रदान की गई?",
+    "A_en": "Article 243P", "A_hi": "अनुच्छेद 243P",
+    "B_en": "Article 243W", "B_hi": "अनुच्छेद 243W",
+    "C_en": "Article 243Q", "C_hi": "अनुच्छेद 243Q",
+    "D_en": "Article 243X", "D_hi": "अनुच्छेद 243X",
+    "answer": "B",
+    "explanation_en": "The 74th Constitutional Amendment Act, 1992 introduced Article 243W to provide constitutional status to Urban Local Bodies (ULBs).",
+    "explanation_hi": "1992 के संविधान संशोधन अध्यादेश, 74वें ने शहरी स्थानीय निकायों (ULBs) को संवैधानिक स्थिति प्रदान करने के लिए अनुच्छेद 243W को पेश किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to be a member of a Panchayat?",
+    "question_hi": "पंचायत का सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "21 years", "A_hi": "21 वर्ष",
+    "B_en": "25 years", "B_hi": "25 वर्ष",
+    "C_en": "18 years", "C_hi": "18 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act, 1992 sets the minimum age at 21 years to be a member of a Panchayat.",
+    "explanation_hi": "1992 के 73वें संशोधन अध्यादेश ने पंचायत के सदस्य के रूप में 21 वर्ष की न्यूनतम आयु निर्धारित की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of Urban Local Bodies (ULBs)?",
+    "question_hi": "निम्नलिखित में से कौन-सा शहरी स्थानीय निकायों (ULBs) के कार्यों में से नहीं है?",
+    "A_en": "Urban planning", "A_hi": "शहरी योजना",
+    "B_en": "Water supply", "B_hi": "पानी की आपूर्ति",
+    "C_en": "Fire services", "C_hi": "अग्निशमन सेवाएं",
+    "D_en": "Law and order", "D_hi": "कानून व सुव्यवस्था",
+    "answer": "D",
+    "explanation_en": "Law and order is the responsibility of the State Government, not ULBs.",
+    "explanation_hi": "कानून और व्यवस्था राज्य सरकार की जिम्मेदारी है, न कि ULBs की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for women in Panchayats?",
+    "question_hi": "पंचायतों में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+    "A_en": "33%", "A_hi": "33%",
+    "B_en": "25%", "B_hi": "25%",
+    "C_en": "50%", "C_hi": "50%",
+    "D_en": "40%", "D_hi": "40%",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act reserves one-third (33.3%) of all seats in Panchayats for women.",
+    "explanation_hi": "1992 के 73वें संशोधन अध्यादेश ने पंचायतों में महिलाओं के लिए एक तिहाई (33.3%) सभी सीटों का आरक्षण किया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Who is responsible for conducting elections to the Panchayats?",
+    "question_hi": "पंचायतों के चुनाव कराने की जिम्मेदारी किस पर है?",
+    "A_en": "State Government", "A_hi": "राज्य सरकार",
+    "B_en": "State Election Commission", "B_hi": "राज्य चुनाव आयोग",
+    "C_en": "District Collector", "C_hi": "जिला अधिकारी",
+    "D_en": "Local Panchayat", "D_hi": "स्थानीय पंचायत",
+    "answer": "B",
+    "explanation_en": "The State Election Commission is constitutionally mandated to conduct elections to the Panchayats.",
+    "explanation_hi": "राज्य चुनाव आयोग को संविधान द्वारा पंचायतों के चुनाव कराने की आवश्यकता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many levels of Panchayats are constitutionally recognized?",
+    "question_hi": "कानून के अनुसार पंचायतों के कितने स्तर मान्य हैं?",
+    "A_en": "2", "A_hi": "2",
+    "B_en": "3", "B_hi": "3",
+    "C_en": "4", "C_hi": "4",
+    "D_en": "5", "D_hi": "5",
+    "answer": "B",
+    "explanation_en": "The Constitution recognizes three levels: Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district).",
+    "explanation_hi": "संविधान तीन स्तरों को मान्यता देता है: ग्राम पंचायत (गांव), पंचायत समिति (ब्लॉक), और जिला परिषद (जिला)।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which amendment act introduced the concept of 'Gram Sabha'?",
+    "question_hi": "किस संशोधन अध्यादेश ने 'ग्राम सभा' की अवधारणा को पेश किया?",
+    "A_en": "73rd Amendment Act", "A_hi": "73वें संशोधन अध्यादेश",
+    "B_en": "74th Amendment Act", "B_hi": "74वें संशोधन अध्यादेश",
+    "C_en": "72nd Amendment Act", "C_hi": "72वें संशोधन अध्यादेश",
+    "D_en": "71st Amendment Act", "D_hi": "71वें संशोधन अध्यादेश",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act introduced the Gram Sabha as a permanent institution at the village level.",
+    "explanation_hi": "1992 के 73वें संशोधन अध्यादेश ने ग्राम सभा को गांव के स्तर पर एक स्थायी संस्था के रूप में पेश किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term period of a Panchayat?",
+    "question_hi": "पंचायत की स्थायित्व अवधि क्या है?",
+    "A_en": "4 years", "A_hi": "4 वर्ष",
+    "B_en": "5 years", "B_hi": "5 वर्ष",
+    "C_en": "6 years", "C_hi": "6 वर्ष",
+    "D_en": "3 years", "D_hi": "3 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment Act fixes the term of Panchayats at five years.",
+    "explanation_hi": "1992 के 73वें संशोधन अध्यादेश ने पंचायतों के स्थायित्व को पांच वर्षों पर तय किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function assigned to Urban Local Bodies (ULBs)?",
+    "question_hi": "निम्नलिखित में से कौन-सा शहरी स्थानीय निकायों (ULBs) को सौंपा गया कार्य नहीं है?",
+    "A_en": "Public health", "A_hi": "सार्वजनिक स्वास्थ्य",
+    "B_en": "Land records", "B_hi": "भूमि रिकॉर्ड",
+    "C_en": "Solid waste management", "C_hi": "ठोस अपशिष्ट प्रबंधन",
+    "D_en": "Urban development", "D_hi": "शहरी विकास",
+    "answer": "B",
+    "explanation_en": "Land records maintenance is typically a state government function, not ULBs.",
+    "explanation_hi": "भूमि रिकॉर्ड की देखरेख आमतौर पर राज्य सरकार का कार्य है, न कि ULBs का।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for Scheduled Castes (SCs) and Scheduled Tribes (STs) in Panchayats?",
+    "question_hi": "पंचायतों में अनुसूचित जातियों (एससी) और अनुसूचित जनजातियों (एसट
