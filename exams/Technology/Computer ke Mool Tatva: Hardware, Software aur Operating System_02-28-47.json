@@ -1,0 +1,20 @@
+[
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "What is the basic concept of a computer?",
+"question_hi": "क्या समझौता एक computer kee hai?",
+"A_en": "Computer as a machine",
+"A_hi": "कॉम्पीयर के मोहनवाई",
+"B_en": "Computer as an electronic device",
+"B_hi": "कॉम्पीयर एन एलीकॉम्पर एन एलीकॉम्पर",
+"C_en": "Computer as a software",
+"C_hi": "कॉम्पीयर एन एलीकॉम्पर",
+"D_en": "Computer as a network",
+"D_hi": "कॉम्पीयर एन एलीकॉम्पर",
+"answer": "B",
+"explanation_en": "A computer can be viewed as an electronic device that consists of hardware, software, and operating system.",
+"explanation_hi": "एक computer एलीकॉम्पर एन एलीकॉम्पर",
+"explanation": "एक computer एलीकॉम्पर एन एलीकॉम्पर",
+}
+]
