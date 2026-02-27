@@ -1,0 +1,200 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan's economy, covering Agriculture, Industry, and Services. The questions need to be in both Hindi and English, with explanations. The JSON structure example provided is clear, but I need to make sure each question follows the format strictly.
+
+First, I'll brainstorm topics within the three sectors. For Agriculture, maybe focus on crops, irrigation, or government schemes. Industries could include minerals, textiles, or tourism. Services might cover IT, healthcare, or education.
+
+Let me start with Agriculture. Rajasthan's main crops? Maybe wheat, millet, cotton. Wait, a question about the most important crop in Rajasthan. The answer would be wheat. Then options like millet, cotton, and another crop. Need to check if wheat is indeed the top. Also, irrigation projects like Chambal, Sardar Sarovar. A question on the largest irrigation project could be good.
+
+Next, Industries. Rajasthan is rich in minerals like marble, limestone. Maybe a question on the main mineral. Also, industries like handicrafts, textiles. The Jaipur Foot is a famous product. A question on that could work. Textile hubs like Kota or Jodhpur? Kota is known for its textiles. Also, gem and jewelry industries in Rajasthan, maybe Rajkot? Wait, Rajkot is in Gujarat. Maybe Udaipur or Jaipur? Need to verify.
+
+For Services, IT parks in Rajasthan. Jaipur has one, as well as Udaipur. Tourism is a big service sector. Which is the largest employer? Tourism? Healthcare or education? Need to find accurate data. Also, Rajasthan's largest software technology park is in Jaipur.
+
+I need to ensure each question has four options, one correct. The explanations should be concise. Avoid any ambiguity. Check for the latest data, like recent schemes or statistics. For example, the government's schemes like "Rajasthan Krishi Kosh" or "Har Khet Ko Pani" for irrigation.
+
+Wait, the example question was about the capital, but the task is about the economy. So all questions must be related to Rajasthan's economic sectors. Let me verify each point. For instance, Rajasthan's percentage of agricultural land. I recall it's around 60%, but need to confirm. Also, the state's largest source of revenue—might be services, but need to check.
+
+Another angle: employment distribution. Which sector employs the most? Services in India generally, but Rajasthan might have a significant portion in services due to tourism. Or maybe agriculture still employs the most. Need to verify.
+
+I should also include a question on the state's mineral resources and their contribution to the economy. For example, which mineral contributes the most revenue? Maybe marble.
+
+Let me outline the questions:
+
+1. Agriculture: Main crop?
+2. Irrigation project?
+3. Government scheme for farmers?
+4. Largest mineral?
+5. Textile industry hub?
+6. Famous product (Jaipur Foot)?
+7. IT park location?
+8. Employment sector?
+9. Major service sector contributor?
+10. Largest source of state revenue?
+
+Now, for each, create options in both languages. Ensure the correct answer is accurate. For example, Rajasthan's largest irrigation project is Chambal. The correct answer for the mineral question is marble. For the Jaipur Foot, it's a prosthetic limb, but the question should state it's a product from Rajasthan.
+
+Need to check if all the facts are correct. For instance, Rajasthan produces 40% of India's marble. Also, the "Har Khet Ko Pani" is a scheme for irrigation. The Jaipur Foot is indeed from Jaipur. The Sardar Sarovar Project is on the Narmada River, but does it provide irrigation to Rajasthan? Yes, part of the project benefits Rajasthan.
+
+For the IT park question, Jaipur has the Rajasthan Software Technology Park. The largest service sector employer in Rajasthan is tourism. The largest source of revenue might be services, but need to check. Alternatively, agriculture contributes significantly, but revenue could be from services. Need to confirm.
+
+Another point: Rajasthan's per capita income compared to other states. Not sure if that's necessary. Maybe focus on the given sectors.
+
+I think I have a good set of questions. Now, structure each into the JSON format with proper Hindi translations. Ensure explanations are correct and in both languages. Double-check the answers for accuracy.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which crop contributes the most to Rajasthan's agricultural output?",
+    "question_hi": "राजस्थान की कृषि उत्पादन में कौन सी फसल सबसे अधिक योगदान देती है?",
+    "A_en": "Wheat",
+    "A_hi": "गेहूं",
+    "B_en": "Millet",
+    "B_hi": "ज्वार",
+    "C_en": "Cotton",
+    "C_hi": "कपास",
+    "D_en": "Soybean",
+    "D_hi": "सोयाबीन",
+    "answer": "A",
+    "explanation_en": "Wheat is the dominant crop in Rajasthan due to its adaptability to arid conditions and government support.",
+    "explanation_hi": "राजस्थान में गेहूं मरुस्थलीय परिस्थितियों के अनुकूलता और सरकारी समर्थन के कारण प्रमुख फसल है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which of the following is Rajasthan's largest irrigation project?",
+    "question_hi": "निम्न में से कौन राजस्थान का सबसे बड़ा सिंचाई परियोजना है?",
+    "A_en": "Chambal River Project",
+    "A_hi": "चम्बल नदी परियोजना",
+    "B_en": "Sardar Sarovar Project",
+    "B_hi": "सरदार सरोवर परियोजना",
+    "C_en": "Bhakra Nangal Project",
+    "C_hi": "भakra नंगल परियोजना",
+    "D_en": "Mahi Sankari Project",
+    "D_hi": "मही संकड़ी परियोजना",
+    "answer": "A",
+    "explanation_en": "The Chambal River Project, spanning Rajasthan and Madhya Pradesh, is the largest irrigation project in Rajasthan.",
+    "explanation_hi": "चम्बल नदी परियोजना, जो राजस्थान और मध्य प्रदेश के बीच है, राजस्थान की सबसे बड़ी सिंचाई परियोजना है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which mineral contributes the most to Rajasthan's mineral revenue?",
+    "question_hi": "राजस्थान की खनन आय में कौन सा खनिज सबसे अधिक योगदान देता है?",
+    "A_en": "Limestone",
+    "A_hi": "चूना पत्थर",
+    "B_en": "Marble",
+    "B_hi": "संगमरमर",
+    "C_en": "Bauxite",
+    "C_hi": "बॉक्साइट",
+    "D_en": "Zinc",
+    "D_hi": "जस्ता",
+    "answer": "B",
+    "explanation_en": "Marble is the primary mineral revenue contributor in Rajasthan due to its vast deposits and global demand.",
+    "explanation_hi": "राजस्थान में संगमरमर के विशाल भंडार और वैश्विक मांग के कारण यह खनन आय का प्रमुख योगदानकर्ता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which city is known as the Textile Capital of Rajasthan?",
+    "question_hi": "कौन सा शहर राजस्थान की वस्त्र उद्योग राजधानी के रूप में जाना जाता है?",
+    "A_en": "Jaipur",
+    "A_hi": "जयपुर",
+    "B_en": "Kota",
+    "B_hi": "कोटा",
+    "C_en": "Barmer",
+    "C_hi": "बाड़मेर",
+    "D_en": "Jodhpur",
+    "D_hi": "जोधपुर",
+    "answer": "B",
+    "explanation_en": "Kota is renowned for its handloom textiles and contributes significantly to Rajasthan's textile industry.",
+    "explanation_hi": "कोटा हाथ से बुने गए वस्त्रों के लिए प्रसिद्ध है और राजस्थान के वस्त्र उद्योग में महत्वपूर्ण योगदान देता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which of the following is a flagship product of Rajasthan's handicraft industry?",
+    "question_hi": "निम्न में से कौन राजस्थान के कारीगर उद्योग का प्रमुख उत्पाद है?",
+    "A_en": "Jaipur Foot",
+    "A_hi": "जयपुर फुट",
+    "B_en": "Blue Pottery",
+    "B_hi": "नीली मिट्टी के बर्तन",
+    "C_en": "Bandhani",
+    "C_hi": "बन्दनी",
+    "D_en": "All of the above",
+    "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "All the listed items are iconic products of Rajasthan's handicraft industry, known globally.",
+    "explanation_hi": "सभी उल्लिखित वस्तुएं राजस्थान के कारीगर उद्योग के प्रतीक हैं और वैश्विक रूप से प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which sector contributes the most to Rajasthan's GDP?",
+    "question_hi": "राजस्थान के जीडीपी में सबसे अधिक योगदान कौन सा सेक्टर देता है?",
+    "A_en": "Agriculture",
+    "A_hi": "कृषि",
+    "B_en": "Industry",
+    "B_hi": "उद्योग",
+    "C_en": "Services",
+    "C_hi": "सेवा",
+    "D_en": "All contribute equally",
+    "D_hi": "सभी बराबर योगदान देते हैं",
+    "answer": "C",
+    "explanation_en": "The services sector, including tourism and IT, is the largest contributor to Rajasthan's GDP.",
+    "explanation_hi": "पर्यटन और आईटी सहित सेवा क्षेत्र राजस्थान के जीडीपी में सबसे अधिक योगदान देता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which of the following is Rajasthan's largest software technology park?",
+    "question_hi": "निम्न में से कौन राजस्थान का सबसे बड़ा सॉफ्टवेयर तकनीकी पार्क है?",
+    "A_en": "Jaipur",
+    "A_hi": "जयपुर",
+    "B_en": "Udaipur",
+    "B_hi": "उदयपुर",
+    "C_en": "Kota",
+    "C_hi": "कोटा",
+    "D_en": "Bhilwara",
+    "D_hi": "भीलवाड़ा",
+    "answer": "A",
+    "explanation_en": "The Rajasthan Software Technology Park in Jaipur is the largest IT hub in the state.",
+    "explanation_hi": "जयपुर में राजस्थान सॉफ्टवेयर तकनीकी पार्क राज्य का सबसे बड़ा आईटी हब है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "What percentage of Rajasthan's population is engaged in agriculture?",
+    "question_hi": "राजस्थान की आबादी का कितना प्रतिशत कृषि में लगा हुआ है?",
+    "A_en": "30%",
+    "A_hi": "30%",
+    "B_en": "45%",
+    "B_hi": "45%",
+    "C_en": "60%",
+    "C_hi": "60%",
+    "D_en": "75%",
+    "D_hi": "75%",
+    "answer": "B",
+    "explanation_en": "Approximately 45% of Rajasthan's population depends on agriculture for livelihood.",
+    "explanation_hi": "लगभग 45% राजस्थान की आबादी जीविका के लिए कृषि पर निर्भर है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which government scheme provides financial assistance to small and marginal farmers in Rajasthan?",
+    "question_hi": "राजस्थान में सीमांत और श्रमिक किसानों को वित्तीय सहायता प्रदान करने वाली सरकारी योजना कौन सी है?",
+    "A_en": "Har Khet Ko Pani",
+    "A_hi": "हर कदम को पानी",
+    "B_en": "Rajasthan Krishi Kosh",
+    "B_hi": "राजस्थान कृषि कोष",
+    "C_en": "MSP Scheme",
+    "C_hi": "एमएसपी योजना",
+    "D_en": "All of the above",
+    "D_hi": "उपरोक्त सभी",
+    "answer": "B",
+    "explanation_en": "The Rajasthan Krishi Kosh provides financial aid to small and marginal farmers for agricultural development.",
+    "explanation_hi": "राजस्थान कृषि कोष सीमांत और श्रमिक किसानों को कृषि विकास के लिए वित्तीय सहायता प्रदान करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan
