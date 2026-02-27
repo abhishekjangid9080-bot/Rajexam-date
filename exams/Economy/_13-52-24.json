@@ -1,0 +1,23 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What is the formula to calculate the gross domestic product (GDP)?",
+"question_hi": "गृहशिक्षा (GDP) को किस पाठ के लिए प्रतिलिपि कैसे प्राप्त होती है?",
+"A_en": "GDP formula is GDP = C + I + G + (X - M)",
+"A_hi": "GDP प्राप्त होती है किसी स्थानीय मान के लिए?",
+"B_en": "GDP formula is GDP = NNP (Adjusted Net National Product)",
+"B_hi": "GDP प्राप्त होती है किसी पूर्वक न्यायदेश (उपस्थान की विश्लेख के लिए?",
+"C_en": "The formula for calculating the gross domestic product (GDP) is GDP = C + I + G + (X - M)",
+"C_hi": "ग्रॉसन देशीय उत्पन्ने के लिए?",
+"D_en": "The formula for calculating the national income is NNP = C + I + G + (X - M)",
+"D_hi": "राज्य की मंगाई के लिए?",
+"E_en": "The formula for calculating the unemployment rate is UR = (EA - EC) / EA",
+"E_hi": "अंचार्याई के लिए?",
+"F_en": "The formula for calculating the inflation rate is Inflation = (P1 - P0) / P0",
+"F_hi": "वर्षितरण के लिए?",
+"G_en": "The formula for calculating the unemployment rate is UR = (EA - EC) / EA",
+"G_hi": "अंचार्याई के लिए?",
+"H_en": "The formula for calculating the inflation rate is Inflation = (P1 - P0) / P0",
+"H_hi": "वर्षितरण के लिए?"
+]
