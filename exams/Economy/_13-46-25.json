@@ -1,0 +1,77 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What is the difference between GDP and GNP?",
+"question_hi": "GDP और GNP के बीमा और प्रमाण क्या हैं?",
+"A_en": "GDP is the total value of goods and services produced in a country, while GNP is the value produced by the residents of a country.",
+"A_hi": "GDP एक देश में निर्माण करते हैं जैसे कि GNP देश के अंतर्गत मूल प्रदेश के सबसे निर्माण करते हैं जैसे कि GDP देश के प्रमाणशक्ति को विस्तेतर करना क्या है?",
+"options_en": [
+{
+"option": "GDP",
+"option_text": "Gross Domestic Product"
+},
+{
+"option": "GNP",
+"option_text": "Gross National Product"
+},
+{
+"option": "GNP at PPP",
+"option_text": "Gross National Product at PPP"
+},
+{
+"option": "GNI",
+"option_text": "Gross National Income"
+},
+{
+"option": "GNP at Current Prices",
+"option_text": "Gross National Product at Current Prices"
+}
+],
+"options_hi": [
+{
+"option": "GDP",
+"option_text": "गैरों कों की उपयोग कितर्वात विश्लेखर क्या है?",
+"option_text_hi": "गैरों की उपयोग की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GNP",
+"option_text": "गैरों की मूल विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GNP at PPP",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GNP at Current Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP at Current Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP at Constant Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP per Capita",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP per Capita at Constant Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP per Capita at Current Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP per Capita at Nominal Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+},
+{
+"option": "GDP per Capita at Constant Prices at Current Prices",
+"option_text": "गैरों की विश्लेखर की जयां क्या है?",
+}
+]
