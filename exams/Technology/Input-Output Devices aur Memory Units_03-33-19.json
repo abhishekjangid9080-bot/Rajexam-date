@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Input-Output Devices and Memory Units for Rajasthan State Exams, SSC, and Railway exams. Let's start by listing key topics. Input devices include keyboard, mouse, scanner, etc. Output devices are monitor, printer, speaker. Memory units cover primary (RAM, ROM) and secondary storage (HDD, SSD). Also, maybe touch on concepts like input vs output distinctions, memory measurement units like GB, TB.
+
+First question: What is an input device? Options could be Keyboard, Monitor, Speaker, Printer. Answer is Keyboard.
+
+Second: Which is not an output device? Printer, Plotter, Microphone, Projector. The answer is Microphone.
+
+Third: 1 GB equals how much? 2^30 bytes, 1000^3 bytes, 1024 KB, 1000 MB. Correct is 2^30.
+
+Fourth: Which is secondary storage? RAM, Cache, SSD, ROM. Answer is SSD.
+
+Fifth: Touchscreen is which type? Input, Output, Both, Neither. Both.
+
+Sixth: What's the fastest memory? RAM, Cache, HDD, SSD. Cache is fastest.
+
+Seventh: Which is volatile? ROM, HDD, RAM, SSD. RAM is volatile.
+
+Eighth: Dot matrix printer is what type? Impact, Non-impact, Laser, Inkjet. Impact.
+
+Ninth: 1 TB is equal to? 1024 GB, 1000 GB, 1024 MB, 1000 MB. 1024 GB.
+
+Tenth: Which is a pointing device? Joystick, Keyboard, Mouse, Scanner. Joystick is pointing.
+
+Now, translate all questions and options to Hindi. Ensure explanations are accurate. Check for any errors in the technical terms. Make sure the difficulty level is appropriate for the target exams. Use the JSON structure provided, matching each part correctly.
+</think>
+
+[
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is an input device?",
+  "question_hi": "निम्न में से कौन एक इनपुट डिवाइस है?",
+  "A_en": "Keyboard", "A_hi": "कीबोर्ड",
+  "B_en": "Monitor", "B_hi": "मॉनिटर",
+  "C_en": "Speaker", "C_hi": "स्पीकर",
+  "D_en": "Printer", "D_hi": "प्रिंटर",
+  "answer": "A",
+  "explanation_en": "A keyboard is an input device used to enter data into a computer.",
+  "explanation_hi": "एक कीबोर्ड डेटा कम्प्यूटर में दर्ज करने के लिए एक इनपुट डिवाइस है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is not an output device?",
+  "question_hi": "निम्न में से कौन एक आउटपुट डिवाइस नहीं है?",
+  "A_en": "Printer", "A_hi": "प्रिंटर",
+  "B_en": "Plotter", "B_hi": "प्लॉटर",
+  "C_en": "Microphone", "C_hi": "माइक्रोफोन",
+  "D_en": "Projector", "D_hi": "प्रोजेक्टर",
+  "answer": "C",
+  "explanation_en": "A microphone is an input device for recording sound.",
+  "explanation_hi": "एक माइक्रोफोन ध्वनि रिकॉर्ड करने के लिए एक इनपुट डिवाइस है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "How many bytes are in 1 GB?",
+  "question_hi": "1 जीबी में कितने बाइट होते हैं?",
+  "A_en": "2^30 bytes", "A_hi": "2^30 बाइट",
+  "B_en": "1000^3 bytes", "B_hi": "1000^3 बाइट",
+  "C_en": "1024 KB", "C_hi": "1024 किलोबाइट",
+  "D_en": "1000 MB", "D_hi": "1000 मेगाबाइट",
+  "answer": "A",
+  "explanation_en": "1 GB equals 2^30 bytes in binary terms.",
+  "explanation_hi": "1 जीबी बाइनरी टर्म में 2^30 बाइट के बराबर होता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of these is a secondary storage device?",
+  "question_hi": "इनमें से कौन एक द्वितीयक भंडारण डिवाइस है?",
+  "A_en": "RAM", "A_hi": "रैम",
+  "B_en": "Cache", "B_hi": "कैश",
+  "C_en": "SSD", "C_hi": "एसएसडी",
+  "D_en": "ROM", "D_hi": "रोम",
+  "answer": "C",
+  "explanation_en": "SSD is a secondary storage device for long-term data retention.",
+  "explanation_hi": "एसएसडी लंबे समय तक डेटा संग्रह के लिए एक द्वितीयक भंडारण डिवाइस है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "A touchscreen is primarily considered a:",
+  "question_hi": "एक टचस्क्रीन मुख्य रूप से किस प्रकार की डिवाइस मानी जाती है?",
+  "A_en": "Input device", "A_hi": "इनपुट डिवाइस",
+  "B_en": "Output device", "B_hi": "आउटपुट डिवाइस",
+  "C_en": "Both input and output device", "C_hi": "दोनों इनपुट और आउटपुट डिवाइस",
+  "D_en": "Neither input nor output device", "D_hi": "न इनपुट और न आउटपुट डिवाइस",
+  "answer": "C",
+  "explanation_en": "A touchscreen serves both input and output functions.",
+  "explanation_hi": "एक टचस्क्रीन दोनों इनपुट और आउटपुट कार्य करती है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is the fastest memory?",
+  "question_hi": "निम्न में से कौन सी सबसे तेज़ मेमोरी है?",
+  "A_en": "RAM", "A_hi": "रैम",
+  "B_en": "Cache", "B_hi": "कैश",
+  "C_en": "HDD", "C_hi": "एचडीडी",
+  "D_en": "SSD", "D_hi": "एसएसडी",
+  "answer": "B",
+  "explanation_en": "Cache memory is the fastest type of memory in a computer.",
+  "explanation_hi": "कैश मेमोरी कम्प्यूटर में सबसे तेज़ मेमोरी होती है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which type of memory is volatile?",
+  "question_hi": "कौन सी मेमोरी वोलेटाइल है?",
+  "A_en": "ROM", "A_hi": "रोम",
+  "B_en": "HDD", "B_hi": "एचडीडी",
+  "C_en": "RAM", "C_hi": "रैम",
+  "D_en": "SSD", "D_hi": "एसएसडी",
+  "answer": "C",
+  "explanation_en": "RAM is volatile and loses data when power is off.",
+  "explanation_hi": "रैम वोलेटाइल होती है और बिजली बंद होने पर डेटा खो देती है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which printer type uses impact printing?",
+  "question_hi": "कौन सा प्रिंटर टाइप इम्पैक्ट प्रिंटिंग का उपयोग करता है?",
+  "A_en": "Dot matrix", "A_hi": "डॉट मैट्रिक्स",
+  "B_en": "Inkjet", "B_hi": "इंकजेट",
+  "C_en": "Laser", "C_hi": "लेजर",
+  "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+  "answer": "A",
+  "explanation_en": "Dot matrix printers use impact to create characters on paper.",
+  "explanation_hi": "डॉट मैट्रिक्स प्रिंटर्स कागज पर अक्षरों की रचना करने के लिए इम्पैक्ट का उपयोग करते हैं।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "How many gigabytes are in 1 terabyte?",
+  "question_hi": "1 टेराबाइट में कितने गीगाबाइट होते हैं?",
+  "A_en": "1024 GB", "A_hi": "1024 जीबी",
+  "B_en": "1000 GB", "B_hi": "1000 जीबी",
+  "C_en": "1024 MB", "C_hi": "1024 मेगाबाइट",
+  "D_en": "1000 MB", "D_hi": "1000 मेगाबाइट",
+  "answer": "A",
+  "explanation_en": "1 TB equals 1024 GB in binary calculations.",
+  "explanation_hi": "1 टीबी बाइनरी कैलकुलेशन में 1024 जीबी के बराबर होता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is a pointing device?",
+  "question_hi": "निम्न में से कौन एक पॉइंटिंग डिवाइस है?",
+  "A_en": "Joystick", "A_hi": "जॉयस्टिक",
+  "B_en": "Keyboard", "B_hi": "कीबोर्ड",
+  "C_en": "Mouse", "C_hi": "माउस",
+  "D_en": "Scanner", "D_hi": "स्कैनर",
+  "answer": "A",
+  "explanation_en": "A joystick is used for controlling movement in games and applications.",
+  "explanation_hi": "जॉयस्टिक गेमों और एप्लिकेशन में गति को नियंत्रित करने के लिए उपयोग किया जाता है।"
+}
+]
