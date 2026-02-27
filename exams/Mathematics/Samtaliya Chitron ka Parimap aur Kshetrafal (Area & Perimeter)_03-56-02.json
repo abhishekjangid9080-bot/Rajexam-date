@@ -1,0 +1,196 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Area and Perimeter of Plane Figures for Rajasthan State Exams, SSC, and Railway exams. The questions need to be in both Hindi and English, following the provided JSON structure. 
+
+First, I need to recall the key concepts related to area and perimeter. Common shapes include rectangles, squares, triangles, and circles. Maybe also composite figures. Difficulty level should be moderate to match the target exams.
+
+I'll start by creating questions on basic formulas. For example, a question on the perimeter of a rectangle. Then, maybe one on the area of a triangle. Including some word problems would be good, like finding the area when given perimeter and sides.
+
+Wait, the user mentioned Rajasthan State Exams. Perhaps including a problem related to a local context, like a park or a field in Rajasthan. That could make the questions more relatable.
+
+I need to ensure that the questions are in Hindi and English. The options should be labeled A, B, C, D, each with both languages. The answers and explanations too. Also, checking for any possible mistakes in the calculations.
+
+Let me outline the 10 questions. Maybe start with a square's perimeter, then area of a rectangle, then a triangle's area, a circle's circumference, a composite shape, real-life problem like fencing a garden, cost calculation, etc. Each question should test a different aspect. 
+
+For each question, I need to create plausible distractors. For example, if the correct answer is 24 cm for perimeter, options could include 20, 24, 28, 30. Mistakes often come from confusing area and perimeter, so including those as options helps.
+
+After drafting the questions, I need to verify the calculations again. For instance, area of a triangle is 1/2 * base * height. If base is 10 cm and height is 6 cm, area should be 30 cm². Let me check that.
+
+Also, the explanations should be concise but informative. For example, explaining why a certain option is correct by restating the formula used.
+
+I need to make sure the JSON structure is correct. Each entry has subject, topic, question in both languages, options, answer key, and explanations. No markdown, just raw JSON. Let me double-check the example provided to ensure alignment.
+
+Alright, let's start creating each question step by step, ensuring they cover different concepts and difficulty levels. Let's confirm each calculation as we go to avoid errors.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "A square has a perimeter of 28 cm. What is its area?",
+    "question_hi": "एक वर्ग का परिमाप 28 सेमी है। इसका क्षेत्रफल क्या होगा?",
+    "A_en": "49 cm²",
+    "A_hi": "49 वर्ग सेमी",
+    "B_en": "56 cm²",
+    "B_hi": "56 वर्ग सेमी",
+    "C_en": "64 cm²",
+    "C_hi": "64 वर्ग सेमी",
+    "D_en": "36 cm²",
+    "D_hi": "36 वर्ग सेमी",
+    "answer": "A",
+    "explanation_en": "Perimeter of square = 4 × side. Side = 28/4 = 7 cm. Area = side² = 49 cm².",
+    "explanation_hi": "वर्ग का परिमाप = 4 × भुजा। भुजा = 28/4 = 7 सेमी। क्षेत्रफल = भुजा² = 49 वर्ग सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "The area of a rectangle is 150 cm². If its length is 15 cm, what is its breadth?",
+    "question_hi": "एक आयत का क्षेत्रफल 150 वर्ग सेमी है। यदि इसकी लंबाई 15 सेमी है, तो इसकी चौड़ाई क्या है?",
+    "A_en": "10 cm",
+    "A_hi": "10 सेमी",
+    "B_en": "12 cm",
+    "B_hi": "12 सेमी",
+    "C_en": "8 cm",
+    "C_hi": "8 सेमी",
+    "D_en": "9 cm",
+    "D_hi": "9 सेमी",
+    "answer": "A",
+    "explanation_en": "Area = Length × Breadth. Breadth = Area / Length = 150/15 = 10 cm.",
+    "explanation_hi": "क्षेत्रफल = लंबाई × चौड़ाई। चौड़ाई = क्षेत्रफल / लंबाई = 150/15 = 10 सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "What is the perimeter of a triangle with sides 5 cm, 7 cm, and 10 cm?",
+    "question_hi": "5 सेमी, 7 सेमी और 10 सेमी भुजाओं वाले त्रिभुज का परिमाप क्या है?",
+    "A_en": "12 cm",
+    "A_hi": "12 सेमी",
+    "B_en": "22 cm",
+    "B_hi": "22 सेमी",
+    "C_en": "18 cm",
+    "C_hi": "18 सेमी",
+    "D_en": "15 cm",
+    "D_hi": "15 सेमी",
+    "answer": "B",
+    "explanation_en": "Perimeter = sum of all sides = 5 + 7 + 10 = 22 cm.",
+    "explanation_hi": "परिमाप = सभी भुजाओं का योग = 5 + 7 + 10 = 22 सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "A circle has a radius of 7 cm. What is its circumference?",
+    "question_hi": "एक वृत्त की त्रिज्या 7 सेमी है। इसकी परिधि क्या है?",
+    "A_en": "44 cm",
+    "A_hi": "44 सेमी",
+    "B_en": "22 cm",
+    "B_hi": "22 सेमी",
+    "C_en": "154 cm",
+    "C_hi": "154 सेमी",
+    "D_en": "14 cm",
+    "D_hi": "14 सेमी",
+    "answer": "A",
+    "explanation_en": "Circumference = 2πr = 2 × (22/7) × 7 = 44 cm.",
+    "explanation_hi": "परिधि = 2πr = 2 × (22/7) × 7 = 44 सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "A rectangular garden is 20 m long and 15 m wide. What is its area?",
+    "question_hi": "एक आयताकार बगीचा 20 मीटर लंबा और 15 मीटर चौड़ा है। इसका क्षेत्रफल क्या है?",
+    "A_en": "300 m²",
+    "A_hi": "300 वर्ग मीटर",
+    "B_en": "250 m²",
+    "B_hi": "250 वर्ग मीटर",
+    "C_en": "350 m²",
+    "C_hi": "350 वर्ग मीटर",
+    "D_en": "200 m²",
+    "D_hi": "200 वर्ग मीटर",
+    "answer": "A",
+    "explanation_en": "Area = Length × Breadth = 20 × 15 = 300 m².",
+    "explanation_hi": "क्षेत्रफल = लंबाई × चौड़ाई = 20 × 15 = 300 वर्ग मीटर।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "The perimeter of a square is 40 cm. What is its diagonal?",
+    "question_hi": "एक वर्ग का परिमाप 40 सेमी है। इसका विकर्ण क्या है?",
+    "A_en": "10√2 cm",
+    "A_hi": "10√2 सेमी",
+    "B_en": "8√2 cm",
+    "B_hi": "8√2 सेमी",
+    "C_en": "12√2 cm",
+    "C_hi": "12√2 सेमी",
+    "D_en": "6√2 cm",
+    "D_hi": "6√2 सेमी",
+    "answer": "A",
+    "explanation_en": "Side = 40/4 = 10 cm. Diagonal = side√2 = 10√2 cm.",
+    "explanation_hi": "भुजा = 40/4 = 10 सेमी। विकर्ण = भुजा√2 = 10√2 सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "A triangle has a base of 6 cm and height of 4 cm. What is its area?",
+    "question_hi": "एक त्रिभुज का आधार 6 सेमी और ऊँचाई 4 सेमी है। इसका क्षेत्रफल क्या है?",
+    "A_en": "12 cm²",
+    "A_hi": "12 वर्ग सेमी",
+    "B_en": "24 cm²",
+    "B_hi": "24 वर्ग सेमी",
+    "C_en": "6 cm²",
+    "C_hi": "6 वर्ग सेमी",
+    "D_en": "8 cm²",
+    "D_hi": "8 वर्ग सेमी",
+    "answer": "A",
+    "explanation_en": "Area = ½ × base × height = ½ × 6 × 4 = 12 cm².",
+    "explanation_hi": "क्षेत्रफल = ½ × आधार × ऊँचाई = ½ × 6 × 4 = 12 वर्ग सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "A rectangular field is 100 m long and 60 m wide. What is the cost of fencing it at ₹15 per meter?",
+    "question_hi": "एक आयताकार मैदान 100 मीटर लंबा और 60 मीटर चौड़ा है। इसे ₹15 प्रति मीटर के भाव से घेरने का खरच क्या होगा?",
+    "A_en": "₹4800",
+    "A_hi": "₹4800",
+    "B_en": "₹4500",
+    "B_hi": "₹4500",
+    "C_en": "₹5400",
+    "C_hi": "₹5400",
+    "D_en": "₹5100",
+    "D_hi": "₹5100",
+    "answer": "A",
+    "explanation_en": "Perimeter = 2(Length + Breadth) = 2(100 + 60) = 320 m. Cost = 320 × 15 = ₹4800.",
+    "explanation_hi": "परिमाप = 2(लंबाई + चौड़ाई) = 2(100 + 60) = 320 मीटर। खरच = 320 × 15 = ₹4800।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "What is the area of a circle with diameter 14 cm?",
+    "question_hi": "14 सेमी व्यास वाले वृत्त का क्षेत्रफल क्या है?",
+    "A_en": "154 cm²",
+    "A_hi": "154 वर्ग सेमी",
+    "B_en": "616 cm²",
+    "B_hi": "616 वर्ग सेमी",
+    "C_en": "44 cm²",
+    "C_hi": "44 वर्ग सेमी",
+    "D_en": "308 cm²",
+    "D_hi": "308 वर्ग सेमी",
+    "answer": "A",
+    "explanation_en": "Radius = 14/2 = 7 cm. Area = πr² = (22/7) × 7 × 7 = 154 cm².",
+    "explanation_hi": "त्रिज्या = 14/2 = 7 सेमी। क्षेत्रफल = πr² = (22/7) × 7 × 7 = 154 वर्ग सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Samtaliya Chitron ka Parimap aur Kshetrafal (Area & Perimeter)",
+    "question_en": "A rhombus has diagonals of 10 cm and 8 cm. What is its area?",
+    "question_hi": "एक समचतुर्भुज के विकर्ण 10 सेमी और 8 सेमी हैं। इसका क्षेत्रफल क्या है?",
+    "A_en": "40 cm²",
+    "A_hi": "40 वर्ग सेमी",
+    "B_en": "80 cm²",
+    "B_hi": "80 वर्ग सेमी",
+    "C_en": "20 cm²",
+    "C_hi": "20 वर्ग सेमी",
+    "D_en": "60 cm²",
+    "D_hi": "60 वर्ग सेमी",
+    "answer": "A",
+    "explanation_en": "Area = (d₁ × d₂)/2 = (10 × 8)/2 = 40 cm².",
+    "explanation_hi": "क्षेत्रफल = (d₁ × d₂)/2 = (10 × 8)/2 = 40 वर्ग सेमी।"
+  }
+]
