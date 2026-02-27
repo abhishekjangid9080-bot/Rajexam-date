@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of General Science, specifically "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)" for Rajasthan State Exams, SSC, and Railway NTPC. Let me start by recalling the key points related to blood groups, diseases, immunization, and vaccines.
+
+First, for blood groups, I should cover the basic types (A, B, AB, O), Rh factor, universal donors and recipients, and maybe blood transfusion compatibility. Then, diseases could include common ones like malaria, dengue, polio, measles, etc., and their causes, symptoms, or prevention. For vaccines, important ones are BCG, DPT, polio vaccine, MMR, hepatitis B, etc., along with the diseases they prevent. Also, concepts like active vs passive immunity, herd immunity, and vaccine development methods (live attenuated, inactivated, subunit, etc.) might be relevant.
+
+I need to ensure the questions are in Hindi and English, with both options in both languages. The answers should be accurate, and explanations should clarify the correct choice. Let me think of the first question on blood groups. Maybe about the universal donor. Then a question on the Rh factor. Next, a disease caused by a virus versus bacteria. Then a question on which vaccine is given at birth. Maybe the BCG vaccine for TB. Another question could be about the first successful vaccine. Edward Jenner's smallpox vaccine. Then a question on the disease prevented by MMR. The next could be about the component of blood responsible for clotting. Platelets. Then a question on which disease is eradicated. Smallpox. Another question on passive immunity transfer from mother to child through placenta. Finally, the disease caused by Plasmodium, which is malaria.
+
+Let me check each question for clarity and correctness. For example, the universal donor is O negative, and universal recipient is AB positive. MMR vaccine prevents measles, mumps, rubella. BCG is for TB. Smallpmod was eradicated. Passive immunity is via IgG. Platelets are for clotting. Plasmodium causes malaria. Make sure all the options are plausible and the correct answer is unambiguous. Also, the explanations should be concise but informative. I need to structure each question in JSON format as per the example, making sure the keys are correct and the translations are accurate. Let me proceed to draft each question step by step, ensuring they cover a range of difficulty and topics within the given subject.
+</think>
+
+[
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "Which blood group is considered the 'universal donor'?",
+"question_hi": "कौन सा रक्त समूह 'सार्वभौमिक दाता' माना जाता है?",
+"A_en": "O Negative", "A_hi": "O नकारात्मक",
+"B_en": "AB Positive", "B_hi": "AB सकारात्मक",
+"C_en": "A Positive", "C_hi": "A सकारात्मक",
+"D_en": "B Negative", "D_hi": "B नकारात्मक",
+"answer": "A",
+"explanation_en": "O Negative blood can be given to any blood group patient in emergencies.",
+"explanation_hi": "तत्काल आपातकाल में O नकारात्मक रक्त किसी भी रक्त समूह के रोगी को दिया जा सकता है।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "What is the full form of Rh factor in blood groups?",
+"question_hi": "रक्त समूहों में Rh कारक का पूरा नाम क्या है?",
+"A_en": "Rhesus factor", "A_hi": "रेसस कारक",
+"B_en": "Red Hemoglobin", "B_hi": "लाल हीमोग्लोबिन",
+"C_en": "Red Hydration", "C_hi": "लाल पानी संतृप्ति",
+"D_en": "Reticulate Hemoglobin", "D_hi": "रेटिकुलेट हीमोग्लोबिन",
+"answer": "A",
+"explanation_en": "Rh stands for Rhesus, referring to the Rhesus monkey where this factor was first identified.",
+"explanation_hi": "Rh का पूरा नाम Rhesus है, जिसे पहली बार रेसस बंदर में पहचाना गया था।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "Which vaccine is given immediately after birth?",
+"question_hi": "जन्म के तुरंत बाद कौन सी टीका दी जाती है?",
+"A_en": "BCG", "A_hi": "BCG",
+"B_en": "Polio", "B_hi": "पोलियो",
+"C_en": "Hepatitis B", "C_hi": "हेपेटाइटिस B",
+"D_en": "MMR", "D_hi": "MMR",
+"answer": "A",
+"explanation_en": "BCG (Bacillus Calmette-Guérin) vaccine is administered to newborns to prevent tuberculosis.",
+"explanation_hi": "BCG (बैसिलस कैल्मेट-गुएरिन) टीका जन्म के बाद नवजात शिशुओं को फेमेन में रोकथाम के लिए दिया जाता है।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "Which disease is caused by Plasmodium parasites?",
+"question_hi": "प्लास्मोडियम परजीवियों के कारण कौन सी बीमारी होती है?",
+"A_en": "Malaria", "A_hi": "मलेरिया",
+"B_en": "Dengue", "B_hi": "डेंगू",
+"C_en": "Cholera", "C_hi": "हैजा",
+"D_en": "Typhoid", "D_hi": "टाइफॉइड",
+"answer": "A",
+"explanation_en": "Plasmodium parasites are transmitted through mosquito bites and cause malaria.",
+"explanation_hi": "प्लास्मोडियम परजीवी मच्छर के काटने से फैलते हैं और मलेरिया का कारण बनते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "What is the primary component of blood responsible for clotting?",
+"question_hi": "रक्त के जमाव के लिए उत्तरदायी मुख्य घटक क्या है?",
+"A_en": "Red Blood Cells", "A_hi": "लाल रक्त कोशिकाएँ",
+"B_en": "White Blood Cells", "B_hi": "श्वेत रक्त कोशिकाएँ",
+"C_en": "Platelets", "C_hi": "प्लेटलेट्स",
+"D_en": "Plasma", "D_hi": "प्लाज्मा",
+"answer": "C",
+"explanation_en": "Platelets (thrombocytes) are crucial for blood clotting during injuries.",
+"explanation_hi": "प्लेटलेट्स (थ्रोम्बोसाइट्स) चोट के दौरान रक्त जमाव के लिए आवश्यक होते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "Which vaccine prevents Measles, Mumps, and Rubella?",
+"question_hi": "कौन सी टीका मसूड़ा, काली खाँसी और रूबेला को रोकती है?",
+"A_en": "BCG", "A_hi": "BCG",
+"B_en": "MMR", "B_hi": "MMR",
+"C_en": "Polio", "C_hi": "पोलियो",
+"D_en": "Hepatitis A", "D_hi": "हेपेटाइटिस A",
+"answer": "B",
+"explanation_en": "The MMR vaccine protects against Measles, Mumps, and Rubella.",
+"explanation_hi": "MMR टीका मसूड़ा, काली खाँसी और रूबेला के खिलाफ संरक्षण प्रदान करती है।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "What is the term for immunity acquired through vaccination?",
+"question_hi": "टीकाकरण के माध्यम से प्राप्त प्रतिरक्षा का शब्द क्या है?",
+"A_en": "Active immunity", "A_hi": "सक्रिय प्रतिरक्षा",
+"B_en": "Passive immunity", "B_hi": "निष्क्रिय प्रतिरक्षा",
+"C_en": "Innate immunity", "C_hi": "आनुवंशिक प्रतिरक्षा",
+"D_en": "Adaptive immunity", "D_hi": "अनुकूलित प्रतिरक्षा",
+"answer": "A",
+"explanation_en": "Active immunity develops when the body produces antibodies after vaccination or infection.",
+"explanation_hi": "सक्रिय प्रतिरक्षा तब विकसित होती है जब शरीर टीकाकरण या संक्रमण के बाद एंटीबॉडी उत्पन्न करता है।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "Which disease was the first to be eradicated through vaccination?",
+"question_hi": "टीकाकरण के माध्यम से पहली बार कौन सी बीमारी उन्मूलन की गई थी?",
+"A_en": "Polio", "A_hi": "पोलियो",
+"B_en": "Smallpox", "B_hi": "चेचक",
+"C_en": "Tuberculosis", "C_hi": "क्षय रोग",
+"D_en": "Diphtheria", "D_hi": "डिफ्थीरिया",
+"answer": "B",
+"explanation_en": "Smallpox was declared eradicated in 1980 after a global vaccination campaign.",
+"explanation_hi": "1980 में वैश्विक टीकाकरण अभियान के बाद चेचक की घोषणा उन्मूलन कर दिया गया था।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "How is passive immunity transferred from mother to child?",
+"question_hi": "माँ से बच्चे में निष्क्रिय प्रतिरक्षा कैसे हस्तांतरित होती है?",
+"A_en": "Through vaccination", "A_hi": "टीकाकरण के माध्यम से",
+"B_en": "Through breast milk", "B_hi": "दूध के माध्यम से",
+"C_en": "Across the placenta", "C_hi": "गर्भाशय के माध्यम से",
+"D_en": "Both B and C", "D_hi": "B और C दोनों",
+"answer": "D",
+"explanation_en": "Antibodies from the mother pass to the fetus through the placenta and to the newborn via breast milk.",
+"explanation_hi": "माँ के एंटीबॉडी गर्भाशय के माध्यम से भ्रूण तक और दूध के माध्यम से नवजात शिशु तक पहुंचते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+"question_en": "Which blood group is the 'universal recipient'?",
+"question_hi": "कौन सा रक्त समूह 'सार्वभौमिक ग्रहीता' है?",
+"A_en": "O Negative", "A_hi": "O नकारात्मक",
+"B_en": "AB Positive", "B_hi": "AB सकारात्मक",
+"C_en": "A Positive", "C_hi": "A सकारात्मक",
+"D_en": "B Negative", "D_hi": "B नकारात्मक",
+"answer": "B",
+"explanation_en": "AB Positive blood group can receive blood from any other blood group.",
+"explanation_hi": "AB सकारात्मक रक्त समूह किसी भी अन्य रक्त समूह से रक्त प्राप्त कर सकता है।"
+}
+]
