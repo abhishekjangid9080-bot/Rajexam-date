@@ -1,0 +1,29 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP of Indian States",
+"question_en": "Which state in India has the highest GDP?",
+"question_hi": "भारत के एक राज्य के GDP में सबसे बड़ा होता है?",
+"A_en": "Himachal Pradesh", "A_hi": "हिमाचल प्रदेश",
+"B_en": "Kerala", "B_hi": "केरेला",
+"C_en": "Odisha", "C_hi": "ओडिशा",
+"D_en": "Andhra Pradesh", "D_hi": "अंधरा प्रदेश",
+"answer": "B",
+"explanation_en": "Kerala has the highest GDP among the states in India.",
+"explanation_hi": "भारत में सभी राज्यों में सबसे बड़ी गैरान मंगलम",
+"explanation_hi": "भारत में सभी राज्यों में सबसे बड़ी गैरान मंगलम है।"
+},
+{
+"subject": "Economy",
+"topic": "Farm Loans in India",
+"question_en": "What is the interest rate for farm loans in India?",
+"question_hi": "भारत में कमांचर क्या कमांचर भिजन क्या है?",
+"A_en": "The interest rate for farm loans in India is 7.8%.",
+"A_hi": "भारत में फॉर्म ह्याम कमांचर फ्र्याम सीता भिजन क्या है?",
+"B_en": "The interest rate for farm loans in India is 8%.",
+"B_hi": "भारत में फॉर्म ह्याम कमांचर सीता भिजन क्या है?",
+"C_en": "The interest rate for farm loans in India is 7.5%.",
+"C_hi": "भारत में फॉर्म ह्याम कमांचर सीता भिजन क्या है?",
+"D_en": "The interest rate for farm loans in India is 8.5%.",
+"D_hi": "भारत में फॉर्म ह्याम कमांचर सीता भिजन क्या है?",
+}]
