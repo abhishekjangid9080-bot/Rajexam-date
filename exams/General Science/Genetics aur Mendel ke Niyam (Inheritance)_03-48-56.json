@@ -1,0 +1,151 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Genetics and Mendel's Laws for exams like Rajasthan State Exams, SSC, and Railway NTPC. Let's start by recalling the key concepts in Mendelian genetics. The topics should cover basic principles like dominant and recessive traits, monohybrid crosses, Punnett squares, Mendel's laws of segregation and independent assortment, and maybe some basic problems on phenotype and genotype ratios.
+
+First, the first question could be about Mendel's work with pea plants. I'll ask which trait he studied. The answer would be something like flower color, plant height, etc. Let me check the options. The options need to be in both Hindi and English. Let's make sure the options are accurate. For example, Mendel studied 7 characteristics, including seed shape, flower color, plant height, etc. So maybe the question is "Which of the following traits did Mendel study in his experiments?" The correct answer would be "All of the above" if multiple options are correct.
+
+Next, the second question could be about the law of segregation. I need to phrase it in a way that the answer is clear. The law states that alleles separate during gamete formation. So the question might be "According to Mendel's Law of Segregation, what happens to the alleles during gamete formation?" The answer would be that they separate, so the options should present this correctly in both languages.
+
+Third question: Mendel's law of independent assortment. Which statement correctly describes it? The options should mention the independent assortment of alleles during gamete formation, not linked genes. So the correct answer would be about different genes assorting independently.
+
+Fourth question: A monohybrid cross between two heterozygous parents (Aa x Aa). The expected phenotypic ratio is 3:1. The question could ask about the ratio, and the options would need to clarify between genotypic and phenotypic ratios. So the answer is 3:1 for phenotype.
+
+Fifth question: What is a test cross? It's between an individual with a dominant phenotype and a homozygous recessive individual. The options should reflect that. So the correct answer would be crossing to determine genotype.
+
+Sixth question: If a heterozygous individual (Aa) is crossed with a homozygous recessive (aa), what is the expected phenotypic ratio? Using a Punnett square, it's 1:1. So the answer is 1:1.
+
+Seventh question: What is the probability of a child having a specific genotype if both parents are carriers of a recessive allele (Aa x Aa)? The chance of the child being homozygous recessive (aa) is 25%. The options should include 25%, so the answer is 25%.
+
+Eighth question: Which term describes the genetic makeup of an organism? The answer is genotype. The options need to include genotype, phenotype, etc.
+
+Ninth question: In a dihybrid cross, if the parents are heterozygous for both traits (AaBb x AaBb), what is the expected phenotypic ratio? The typical 9:3:3:1 ratio for independent assortment.
+
+Tenth question: What is the term for the observable characteristics of an organism? The answer is phenotype. So the options should include that.
+
+Now, I need to ensure all questions are in both Hindi and English, with accurate translations. Also, explanations should be concise and correct. Check that each question has four options, with one correct answer. The difficulty level should be appropriate for the target exams, not too complex but covering fundamental concepts. Make sure the JSON structure matches the example provided, with all required fields and correct formatting. Avoid any markdown and only output the JSON.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "Which of the following traits did Mendel study in his experiments?",
+    "question_hi": "मेंडल अपने प्रयोगों में निम्नलिखित में से किस लक्षण का अध्ययन करते थे?",
+    "A_en": "Flower color", "A_hi": "पुष्प का रंग",
+    "B_en": "Seed shape", "B_hi": "बीज का आकार",
+    "C_en": "Plant height", "C_hi": "पौधे की ऊँचाई",
+    "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "Mendel studied seven traits in pea plants, including flower color, seed shape, and plant height.",
+    "explanation_hi": "मेंडल ने मटर के पौधों में सात लक्षणों का अध्ययन किया, जिनमें पुष्प का रंग, बीज का आकार और पौधे की ऊँचाई शामिल थे।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "According to Mendel's Law of Segregation, what happens to the alleles during gamete formation?",
+    "question_hi": "मेंडल के अलगाव के नियम के अनुसार, युग्मक निर्माण के दौरान बाधाओं में क्या होता है?",
+    "A_en": "They remain together", "A_hi": "वे एक साथ रहते हैं",
+    "B_en": "They separate", "B_hi": "वे अलग हो जाते हैं",
+    "C_en": "They mutate", "C_hi": "वे परिवर्तित हो जाते हैं",
+    "D_en": "They combine randomly", "D_hi": "वे यादृच्छिक रूप से संयोजित हो जाते हैं",
+    "answer": "B",
+    "explanation_en": "Mendel's Law of Segregation states that alleles separate during gamete formation.",
+    "explanation_hi": "मेंडल का अलगाव का नियम बताता है कि बाधाओं के युग्मक बनने के दौरान अलग हो जाते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "Mendel's Law of Independent Assortment applies to which of the following?",
+    "question_hi": "मेंडल का स्वतंत्र संयोजन का नियम निम्नलिखित में से किस पर लागू होता है?",
+    "A_en": "Linked genes", "A_hi": "संबंधित जीन",
+    "B_en": "Allosteric enzymes", "B_hi": "अल्लोस्टेरिक एंजाइम",
+    "C_en": "Different genes", "C_hi": "अलग-अलग जीन",
+    "D_en": "Chromosomes", "D_hi": "गुणसूत्र",
+    "answer": "C",
+    "explanation_en": "The Law of Independent Assortment states that alleles for different genes assort independently during gamete formation.",
+    "explanation_hi": "स्वतंत्र संयोजन का नियम बताता है कि अलग-अलग जीन के लिए बाधाओं का युग्मक बनने के दौरान स्वतंत्र रूप से संयोजन होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the phenotypic ratio in a monohybrid cross between two heterozygous parents (Aa x Aa)?",
+    "question_hi": "दो असमान लक्षण वाले माता-पिता (Aa x Aa) के बीच एकल संकर के संकरण में फीनोटाइपिक अनुपात क्या होता है?",
+    "A_en": "1:2:1", "A_hi": "1:2:1",
+    "B_en": "3:1", "B_hi": "3:1",
+    "C_en": "1:1", "C_hi": "1:1",
+    "D_en": "2:1", "D_hi": "2:1",
+    "answer": "B",
+    "explanation_en": "In a monohybrid cross, the phenotypic ratio is 3:1 for dominant to recessive traits.",
+    "explanation_hi": "एकल संकर के संकरण में फीनोटाइपिक अनुपात प्रभावी से अप्रभावी लक्षण में 3:1 होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is a test cross used to determine?",
+    "question_hi": "परीक्षण संकर का उपयोग किसका निर्धारण करने के लिए किया जाता है?",
+    "A_en": "Phenotype", "A_hi": "फीनोटाइप",
+    "B_en": "Genotype", "B_hi": "जीनोटाइप",
+    "C_en": "Chromosome number", "C_hi": "गुणसूत्र संख्या",
+    "D_en": "Gene mutation", "D_hi": "जीन की उत्परिवर्तन",
+    "answer": "B",
+    "explanation_en": "A test cross is used to determine the genotype of an individual with a dominant phenotype.",
+    "explanation_hi": "परीक्षण संकर का उपयोग एक प्रभावी फीनोटाइप वाले व्यक्ति के जीनोटाइप का निर्धारण करने के लिए किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "If a heterozygous individual (Aa) is crossed with a homozygous recessive individual (aa), what is the phenotypic ratio?",
+    "question_hi": "यदि एक असमान लक्षण वाला व्यक्ति (Aa) एक समान अप्रभावी व्यक्ति (aa) के साथ संकर हो, तो फीनोटाइपिक अनुपात क्या होगा?",
+    "A_en": "1:1", "A_hi": "1:1",
+    "B_en": "3:1", "B_hi": "3:1",
+    "C_en": "1:2:1", "C_hi": "1:2:1",
+    "D_en": "2:1", "D_hi": "2:1",
+    "answer": "A",
+    "explanation_en": "The cross between Aa and aa results in a 1:1 phenotypic ratio.",
+    "explanation_hi": "Aa और aa के बीच के संकर से फीनोटाइपिक अनुपात 1:1 होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the probability of a child having a recessive trait if both parents are carriers (Aa x Aa)?",
+    "question_hi": "यदि दोनों माता-पिता वाहक हैं (Aa x Aa), तो बच्चे के अप्रभावी लक्शण होने की संभावना क्या है?",
+    "A_en": "25%", "A_hi": "25%",
+    "B_en": "50%", "B_hi": "50%",
+    "C_en": "75%", "C_hi": "75%",
+    "D_en": "100%", "D_hi": "100%",
+    "answer": "A",
+    "explanation_en": "The probability is 25% for the child to inherit the recessive trait.",
+    "explanation_hi": "बच्चे के अप्रभावी लक्शण प्राप्त करने की संभावना 25% होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "Which term describes the genetic makeup of an organism?",
+    "question_hi": "निम्नलिखित में से कौन सा शब्द एक जीव के आनुवंशिक संगठन का वर्णन करता है?",
+    "A_en": "Phenotype", "A_hi": "फीनोटाइप",
+    "B_en": "Genotype", "B_hi": "जीनोटाइप",
+    "C_en": "Allele", "C_hi": "बाधा",
+    "D_en": "Chromosome", "D_hi": "गुणसूत्र",
+    "answer": "B",
+    "explanation_en": "Genotype refers to the genetic makeup of an organism.",
+    "explanation_hi": "जीनोटाइप एक जीव के आनुवंशिक संगठन को संदर्भित करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "In a dihybrid cross (AaBb x AaBb), what is the expected phenotypic ratio?",
+    "question_hi": "एक द्विसंकर संकरण (AaBb x AaBb) में अपेक्षित फीनोटाइपिक अनुपात क्या होगा?",
+    "A_en": "9:3:3:1", "A_hi": "9:3:3:1",
+    "B_en": "3:1", "B_hi": "3:1",
+    "C_en": "1:2:1", "C_hi": "1:2:1",
+    "D_en": "1:1:1:1", "D_hi": "1:1:1:1",
+    "answer": "A",
+    "explanation_en": "The phenotypic ratio in a dihybrid cross is 9:3:3:1 for independent assortment.",
+    "explanation_hi": "द्विसंकर संकरण में फीनोटाइपिक अनुपात स्वतंत्र संयोजन के लिए 9:3:3:1 होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What term is used for the observable characteristics of an organism?",
+    "question_hi": "एक जीव के दृश्यमान लक्षणों के लिए किस शब्द का उपयोग किया जाता है?",
+    "A_en": "Genotype", "A_hi": "जीनोटाइप",
+    "B_en
