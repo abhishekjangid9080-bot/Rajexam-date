@@ -1,0 +1,213 @@
+<think>
+Okay, let's tackle this query. The user wants 10 high-quality MCQs on Analogy and Classification in Reasoning for Rajasthan exams, SSC, and Railway. The instructions are to create questions in both Hindi and English, following a specific JSON structure.
+
+First, I need to ensure I understand the subjects. Analogy questions involve identifying relationships between pairs, while Classification is about grouping items based on common traits. For each question, I'll create a question in English and Hindi, four options in both languages, the correct answer, and explanations in both languages.
+
+I should start by brainstorming different types of analogies and classifications. For example, for Analogy, maybe something like animal to habitat, or synonyms. For Classification, maybe identifying the odd one out based on a category.
+
+Let me think of the first question. Maybe a simple analogy: Dog : Puppy. The answer would be Cat : Kitten. Then create that in both languages. Then another analogy with numbers, like 3 : 27. The relationship here is cube. So next could be 2 : 8. Then another one like Bird : Sky, so Fish : Water.
+
+For Classification, maybe three items that are types of a category and one that isn't. For example, Apple, Banana, Orange, Grapes – all fruits, but maybe include a vegetable like Carrot. Or for a classification question: Pen, Pencil, Eraser, Book – here Book is the odd one out because it's not a writing instrument.
+
+I need to make sure the questions are at the appropriate difficulty level for the exams mentioned. Also, check that the explanations clearly explain the relationship or classification reason.
+
+Let me list out possible questions:
+
+1. Analogy: Dog : Puppy :: Cat : ?
+2. Analogy: 3 : 27 :: 2 : ?
+3. Analogy: Bird : Sky :: Fish : ?
+4. Classification: Apple, Banana, Orange, Carrot
+5. Analogy: Book : Shelf :: Clothes : ?
+6. Classification: Pen, Pencil, Eraser, Book
+7. Analogy: Cricket : Bat :: Hockey : ?
+8. Classification: Square, Rectangle, Triangle, Sphere
+9. Analogy: Teacher : School :: Doctor : ?
+10. Classification: Cow, Goat, Hen, Cat
+
+Now, translate each question into Hindi, ensuring the options are correctly translated. For example, Dog : Puppy in Hindi would be कुत्ता : वल्हन. The answer options for the first question would be Kitten, Cub, Lamb, etc., which in Hindi are किशोर, भेड़, बछड़ा, etc.
+
+For explanations, I need to clearly state the relationship. For example, in the first question, the explanation is that a puppy is a young dog, so a kitten is a young cat.
+
+I'll need to verify that each question follows the JSON structure exactly, with all required fields and proper language. Also, ensure that the answer choices are in the correct order and that the correct answer is marked properly.
+
+Let me check each question for accuracy. For example, in the classification question with Square, Rectangle, Triangle, Sphere – Sphere is the odd one as it's 3D, others are 2D shapes. The explanation should clarify that.
+
+Also, for the Teacher : School :: Doctor : ? analogy, the answer is Hospital, which in Hindi is अस्पताल. The options should include other places like Office, College, etc.
+
+I need to make sure there are no typos in the translations and that the terms used are appropriate for the exams. Since these are for Rajasthan exams, some terms might be specific but in the given context, standard terms should suffice.
+
+Once all questions are drafted, I'll format them into the JSON structure as specified, ensuring that each entry has the correct keys and values, and that the explanations are in both languages.
+</think>
+
+[
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Dog : Puppy :: Cat : ?",
+    "question_hi": "कुत्ता : वल्हन :: बिल्ली : ?",
+    "A_en": "Kitten",
+    "A_hi": "किशोर",
+    "B_en": "Cub",
+    "B_hi": "भेड़",
+    "C_en": "Lamb",
+    "C_hi": "बछड़ा",
+    "D_en": "Calf",
+    "D_hi": "बछड़ा",
+    "answer": "A",
+    "explanation_en": "Puppy is the young of a dog, similarly kitten is the young of a cat.",
+    "explanation_hi": "वल्हन कुत्ते का बच्चा होता है, इसी तरह किशोर बिल्ली का बच्चा होता है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "3 : 27 :: 2 : ?",
+    "question_hi": "3 : 27 :: 2 : ?",
+    "A_en": "6",
+    "A_hi": "6",
+    "B_en": "8",
+    "B_hi": "8",
+    "C_en": "9",
+    "C_hi": "9",
+    "D_en": "18",
+    "D_hi": "18",
+    "answer": "B",
+    "explanation_en": "3^3 = 27, similarly 2^3 = 8.",
+    "explanation_hi": "3 का घन 27 होता है, इसी तरह 2 का घन 8 होता है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Bird : Sky :: Fish : ?",
+    "question_hi": "पक्षी : आकाश :: मछली : ?",
+    "A_en": "Water",
+    "A_hi": "जल",
+    "B_en": "Sand",
+    "B_hi": "रेत",
+    "C_en": "Air",
+    "C_hi": "हवा",
+    "D_en": "Grass",
+    "D_hi": "घास",
+    "answer": "A",
+    "explanation_en": "Birds fly in the sky, similarly fish swim in water.",
+    "explanation_hi": "पक्षी आकाश में उड़ते हैं, इसी तरह मछली जल में तैरती है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Which of the following is the odd one out?",
+    "question_hi": "निम्नलिखित में से कौन सा असंगत है?",
+    "A_en": "Apple",
+    "A_hi": "सेब",
+    "B_en": "Banana",
+    "B_hi": "केला",
+    "C_en": "Orange",
+    "C_hi": "नारंगी",
+    "D_en": "Carrot",
+    "D_hi": "गाजर",
+    "answer": "D",
+    "explanation_en": "Apple, Banana, and Orange are fruits, while Carrot is a vegetable.",
+    "explanation_hi": "सेब, केला और नारंगी फल हैं, जबकि गाजर एक सब्जी है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Book : Shelf :: Clothes : ?",
+    "question_hi": "पुस्तक : शेल्फ :: कपड़े : ?",
+    "A_en": "Cupboard",
+    "A_hi": "कपड़ा ढेर",
+    "B_en": "Wardrobe",
+    "B_hi": "रेकर्डर",
+    "C_en": "Drawer",
+    "C_hi": "ड्राेवर",
+    "D_en": "Bag",
+    "D_hi": "बैग",
+    "answer": "B",
+    "explanation_en": "Books are stored on a shelf, similarly clothes are stored in a wardrobe.",
+    "explanation_hi": "पुस्तकें शेल्फ पर रखी जाती हैं, इसी तरह कपड़े रेकर्डर में रखे जाते हैं।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Cricket : Bat :: Hockey : ?",
+    "question_hi": "क्रिकेट : बैट :: हॉकी : ?",
+    "A_en": "Stick",
+    "A_hi": "छड़ी",
+    "B_en": "Ball",
+    "B_hi": "गेंद",
+    "C_en": "Net",
+    "C_hi": "जाल",
+    "D_en": "Glove",
+    "D_hi": "ग्लव्स",
+    "answer": "A",
+    "explanation_en": "A bat is used to hit in cricket, similarly a stick is used in hockey.",
+    "explanation_hi": "क्रिकेट में बैट का उपयोग प्रहार करने के लिए किया जाता है, इसी तरह हॉकी में छड़ी का उपयोग किया जाता है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Which of the following is the odd one out?",
+    "question_hi": "निम्नलिखित में से कौन सा असंगत है?",
+    "A_en": "Square",
+    "A_hi": "वर्ग",
+    "B_en": "Rectangle",
+    "B_hi": "आयत",
+    "C_en": "Triangle",
+    "C_hi": "त्रिभुज",
+    "D_en": "Sphere",
+    "D_hi": "गोला",
+    "answer": "D",
+    "explanation_en": "Square, Rectangle, and Triangle are 2D shapes, while Sphere is a 3D shape.",
+    "explanation_hi": "वर्ग, आयत और त्रिभुज 2D आकृतियाँ हैं, जबकि गोला एक 3D आकृति है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Teacher : School :: Doctor : ?",
+    "question_hi": "अध्यापक : विद्यालय :: चिकित्सक : ?",
+    "A_en": "Hospital",
+    "A_hi": "अस्पताल",
+    "B_en": "Office",
+    "B_hi": "कार्यालय",
+    "C_en": "College",
+    "C_hi": "कॉलेज",
+    "D_en": "Library",
+    "D_hi": "पुस्तकालय",
+    "answer": "A",
+    "explanation_en": "A teacher works in a school, similarly a doctor works in a hospital.",
+    "explanation_hi": "एक अध्यापक विद्यालय में कार्य करता है, इसी तरह एक चिकित्सक अस्पताल में कार्य करता है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "Which of the following is the odd one out?",
+    "question_hi": "निम्नलिखित में से कौन सा असंगत है?",
+    "A_en": "Pen",
+    "A_hi": "पेन",
+    "B_en": "Pencil",
+    "B_hi": "पेंसिल",
+    "C_en": "Eraser",
+    "C_hi": "रबड़",
+    "D_en": "Book",
+    "D_hi": "पुस्तक",
+    "answer": "D",
+    "explanation_en": "Pen, Pencil, and Eraser are writing tools, while Book is not directly used for writing.",
+    "explanation_hi": "पेन, पेंसिल और रबड़ लिखने के उपकरण हैं, जबकि पुस्तक लिखने के लिए सीधे उपयोग नहीं की जाती है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Analogy (Sadrishyata) aur Classification",
+    "question_en": "5 : 125 :: 4 : ?",
+    "question_hi": "5 : 125 :: 4 : ?",
+    "A_en": "64",
+    "A_hi": "64",
+    "B_en": "81",
+    "B_hi": "81",
+    "C_en": "16",
+    "C_hi": "16",
+    "D_en": "121",
+    "D_hi": "121",
+    "answer": "A",
+    "explanation_en": "5^3 = 125, similarly 4^3 = 64.",
+    "explanation_hi": "5 का घन 125 होता है, इसी तरह 4 का घन 64 होता है।"
+  }
+]
