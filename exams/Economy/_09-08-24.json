@@ -1,0 +1,18 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is money supply in economics?",
+"question_hi": "आईस्टोमेशन में मैनेस्पॉपियन क्या है ?",
+"A_en": "Cash Money", "A_hi": "समाप्त मैनेस्पॉपियन",
+"B_en": "Checkable Deposits", "B_hi": "भर्तिमान",
+"C_en": "Neutral Money", "C_hi": "नेत्रियन",
+"D_en": "Money Demand", "D_hi": "मैनेस्पॉपियन कल्पना",
+"answer": "B",
+"explanation_en": "Checkable Deposits are a type of money supply in economics, where individuals can demand their money to be paid by a bank. In Hindi, this can be explained as \"भर्तिमान\", known as \"Checkable Deposits\".",
+"explanation_hi": "भर्तिमान एक आईस्टोमेशन के एक प्रकार है, जहां व्यक्तियां bank से मैनेस्ट को ग्राह्यां की तैयारी विवरण है।",
+"B": "Checkable Deposits",
+"C": "नेत्रियां की तैयारी विवरण है।",
+"D": "मैनेस्ट को ग्राह्यां की तैयारी विवरण है।"
+}
+]
