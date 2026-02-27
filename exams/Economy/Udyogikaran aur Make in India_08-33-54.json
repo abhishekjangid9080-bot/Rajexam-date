@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "Udyogikaran aur Make in India",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान की अधिकारी भाषा क्या है।",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "English", "B_hi": "अंग्रेजी",
+"C_en": "Marathi", "C_hi": "मराठी",
+"D_en": "Tamil", "D_hi": "तामिल",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान मैंड़िया राज्य की अधिकारी भाषा है।",
+}
+]
