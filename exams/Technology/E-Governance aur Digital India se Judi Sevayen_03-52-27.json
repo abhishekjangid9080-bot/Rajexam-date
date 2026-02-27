@@ -1,0 +1,132 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on E-Governance and Digital India services for Rajasthan State Exams, SSC, and Railway NTPC. The questions need to be in both Hindi and English, following the Testbook style. The JSON structure is provided as an example, so I need to make sure each question adheres to that format.
+
+First, I need to recall key points about E-Governance and Digital India initiatives. Topics could include specific services like e-Seva Kendras, digital payment systems, government portals, and related technologies. I should ensure that each question tests understanding of these services and their purposes.
+
+Next, I have to balance the difficulty level. Since the exams mentioned are competitive, the questions should be of moderate to high difficulty. For example, questions might require knowing the difference between various digital platforms or specific schemes under Digital India.
+
+I need to create unique questions that cover different aspects. Let's brainstorm some areas: benefits of e-governance, platforms like MyGov, e-Kranti, e-Courts, DigiLocker, and initiatives like BHIM app, UPI, e-Sign, etc. Also, Rajiv Gandhi Grameen Vikas Yojana and other state-specific services in Rajasthan might be relevant.
+
+Now, structuring each question. Each should have a question in both languages, four options (A-D) in both languages, the correct answer, and explanations in both languages. I must ensure that the translation is accurate and that the options are plausible but distinct.
+
+Let me start with the first question. What's a key objective of Digital India? The answer would be digital infrastructure. Then, options could include other goals like rural development or education, but the correct answer is infrastructure. Next question: e-Seva Kendras provide... The answer is integrated citizen services. Other options might be separate services or non-related services.
+
+For the third question, the BHIM app is an example of a digital payment platform. Options like e-wallets, online banking, or investment apps are possible. Fourth question: DigiLocker is used for... The answer is storing documents. Other options might be financial transactions or communication.
+
+Fifth question: e-Courts project aims to digitize the judiciary. Options include education, health, or agriculture. Sixth: e-Kranti is related to digital initiatives in public services. Correct answer is education, health, etc. Seventh: E-Sign is for... Authentication. Other options could be file sharing or encryption.
+
+Eighth: MyGov portal is for citizen participation. Options like job searches or tax filing. Ninth: Rajiv Gandhi Grameen Vikas Yojana is for rural development. Tenth: UPI is a payment system. Options include wallets or investment platforms.
+
+I need to verify each fact. For example, BHIM is indeed a digital payment app. DigiLocker is for document storage. e-Courts is about the judiciary. e-Kranti covers education, health, agriculture. MyGov is for citizen engagement. UPI is a payment system.
+
+Now, translating all parts into Hindi accurately. For instance, "e-Seva Kendras" remains the same in Hindi. "Digital India" is "डिजिटल भारत". Ensure that the translations are precise to avoid confusion.
+
+Finally, check the JSON structure. Each question should have the required fields with correct nesting. No markdown, just raw JSON. Also, ensure that the answer letters (A, B, C, D) are consistent and that explanations are clear in both languages.
+
+Let me review each question for clarity and correctness. Make sure there are 10 questions, each with distinct topics. Avoid repetition. Ensure that explanations correctly justify the answers without ambiguity. Once all are verified, compile the JSON accordingly.
+</think>
+
+[
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "Which of the following is a primary objective of the Digital India initiative?",
+        "question_hi": "निम्नलिखित में से कौन डिजिटल भारत पहल का मुख्य उद्देश्य है?",
+        "A_en": "Providing free mobile phones to citizens", "A_hi": "नागरिकों को मुफ्त मोबाइल फोन प्रदान करना",
+        "B_en": "Establishing digital infrastructure", "B_hi": "डिजिटल बुनियादी ढांचा स्थापित करना",
+        "C_en": "Promoting e-commerce in rural areas", "C_hi": "ग्रामीण क्षेत्रों में ई-कॉमर्स को बढ़ावा देना",
+        "D_en": "Digitizing historical records", "D_hi": "ऐतिहासिक रिकॉर्ड्स को डिजिटल बनाना",
+        "answer": "B",
+        "explanation_en": "Digital India focuses on creating digital infrastructure to enhance governance and services.", "explanation_hi": "डिजिटल भारत शासन और सेवाओं को बेहतर बनाने के लिए डिजिटल बुनियादी ढांचा बनाने पर केंद्रित है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "What is the purpose of e-Seva Kendras in Rajasthan?",
+        "question_hi": "राजस्थान में ई-सेवा केंद्रों का उद्देश्य क्या है?",
+        "A_en": "Providing online education", "A_hi": "ऑनलाइन शिक्षा प्रदान करना",
+        "B_en": "Offering integrated citizen services", "B_hi": "एकीकृत नागरिक सेवाएं प्रदान करना",
+        "C_en": "Facilitating agricultural loans", "C_hi": "कृषि ऋण सुविधा प्रदान करना",
+        "D_en": "Promoting tourism online", "D_hi": "ऑनलाइन पर्यटन को बढ़ावा देना",
+        "answer": "B",
+        "explanation_en": "e-Seva Kendras are designed to deliver integrated citizen services under one roof.", "explanation_hi": "ई-सेवा केंद्र एक छत्र के तहत एकीकृत नागरिक सेवाएं प्रदान करने के लिए डिज़ाइन किए गए हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "Which of the following is a digital payment platform promoted by the Indian government?",
+        "question_hi": "निम्नलिखित में से कौन सा भारतीय सरकार द्वारा प्रोत्साहित डिजिटल भुगतान प्लेटफॉर्म है?",
+        "A_en": "BHIM", "A_hi": "भीम",
+        "B_en": "Paytm", "B_hi": "पे-टम",
+        "C_en": "Google Pay", "C_hi": "गूगल पे",
+        "D_en": "PhonePe", "D_hi": "फोनपे",
+        "answer": "A",
+        "explanation_en": "BHIM (Bharat Interface for Money) is a government-promoted digital payment app.", "explanation_hi": "भीम (भारत इंटरफेस फॉर मनी) एक सरकार द्वारा प्रोत्साहित डिजिटल भुगतान ऐप है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "What is the primary function of the DigiLocker service?",
+        "question_hi": "डिजिलॉकर सेवा का मुख्य कार्य क्या है?",
+        "A_en": "Providing cloud storage for personal files", "A_hi": "व्यक्तिगत फाइलों के लिए क्लाउड स्टोरेज प्रदान करना",
+        "B_en": "Storing verified digital documents", "B_hi": "सत्यापित डिजिटल दस्तावेजों का भंडारण करना",
+        "C_en": "Facilitating online banking", "C_hi": "ऑनलाइन बैंकिंग सुविधा कराना",
+        "D_en": "Issuing e-passports", "D_hi": "ई-पासपोर्ट जारी करना",
+        "answer": "B",
+        "explanation_en": "DigiLocker stores verified documents like certificates and IDs for easy access.", "explanation_hi": "डिजिलॉकर प्रमाणपत्र और सीडी के रूप में सत्यापित दस्तावेजों का भंडारण आसानी से पहुंच के लिए करता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "Which initiative under Digital India focuses on digitizing court records?",
+        "question_hi": "डिजिटल भारत के तहत न्यायालय के रिकॉर्ड को डिजिटल करने पर कौन सी पहल ध्यान केंद्रित करती है?",
+        "A_en": "e-Courts Project", "A_hi": "ई-कोर्ट्स परियोजना",
+        "B_en": "e-Kranti", "B_hi": "ई-क्रांति",
+        "C_en": "e-Governance Mission", "C_hi": "ई-शासन मिशन",
+        "D_en": "e-Health Program", "D_hi": "ई-स्वास्थ्य कार्यक्रम",
+        "answer": "A",
+        "explanation_en": "The e-Courts Project aims to digitize court records and improve judicial efficiency.", "explanation_hi": "ई-कोर्ट्स परियोजना न्यायालय के रिकॉर्ड को डिजिटल करने और न्यायिक दक्षता में सुधार करने का लक्ष्य रखती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "What does the term 'e-Kranti' refer to under the Digital India program?",
+        "question_hi": "डिजिटल भारत कार्यक्रम के तहत 'ई-क्रांति' शब्द का अर्थ क्या है?",
+        "A_en": "Digital literacy in rural areas", "A_hi": "ग्रामीण क्षेत्रों में डिजिटल साक्षरता",
+        "B_en": "Digital transformation in public services", "B_hi": "सार्वजनिक सेवाओं में डिजिटल परिवर्तन",
+        "C_en": "E-commerce expansion", "C_hi": "ई-कॉमर्स विस्तार",
+        "D_en": "Online education portals", "D_hi": "ऑनलाइन शिक्षा पोर्टल",
+        "answer": "B",
+        "explanation_en": "e-Kranti refers to transforming public services through digital means.", "explanation_hi": "ई-क्रांति सार्वजनिक सेवाओं को डिजिटल साधनों के माध्यम से परिवर्तित करने को संदर्भित करता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "Which service allows citizens to sign digital documents online securely?",
+        "question_hi": "कौन सी सेवा नागरिकों को सुरक्षित रूप से ऑनलाइन डिजिटल दस्तावेज़ पर हस्ताक्षर करने की अनुमति देती है?",
+        "A_en": "e-Sign", "A_hi": "ई-साइन",
+        "B_en": "DigiLocker", "B_hi": "डिजिलॉकर",
+        "C_en": "MyGov", "C_hi": "माईगव",
+        "D_en": "e-Courts", "D_hi": "ई-कोर्ट्स",
+        "answer": "A",
+        "explanation_en": "e-Sign is a secure digital signature service for official documents.", "explanation_hi": "ई-साइन औपचारिक दस्तावेजों के लिए सुरक्षित डिजिटल हस्ताक्षर सेवा है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "What is the main goal of the MyGov portal?",
+        "question_hi": "माईगव पोर्टल का मुख्य लक्ष्य क्या है?",
+        "A_en": "Providing online banking services", "A_hi": "ऑनलाइन बैंकिंग सेवाएं प्रदान करना",
+        "B_en": "Facilitating citizen participation in governance", "B_hi": "शासन में नागरिक भागीदारी सुविधा देना",
+        "C_en": "Digital certification of educational degrees", "C_hi": "शैक्षिक डिग्रियों का डिजिटल प्रमाणीकरण",
+        "D_en": "Issuing e-health records", "D_hi": "ई-स्वास्थ्य रिकॉर्ड जारी करना",
+        "answer": "B",
+        "explanation_en": "MyGov encourages citizens to participate in policy discussions and governance.", "explanation_hi": "माईगव नीति चर्चाओं और शासन में नागरिकों को भाग लेने के लिए प्रोत्साहित करता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "E-Governance aur Digital India se Judi Sevayen",
+        "question_en": "Which initiative provides free digital literacy training to rural citizens?",
+        "question_hi": "कौन सी पहल ग्रामीण नागरिकों को मुफ्त डिजिटल साक्षरता प्रशिक्षण प्रदान करती है?",
+        "A_en": "Rajiv Gandhi Grameen Vikas Yojana", "A_hi": "राजीव गांधी ग्रामीण विकास योजना",
+        "B_en": "Digital India Literacy Mission", "B_hi": "डिजिटल
