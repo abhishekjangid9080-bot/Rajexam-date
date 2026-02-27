@@ -1,0 +1,122 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Budget, Banking, and Public Finance for Rajasthan State Exams, SSC, and Railway exams. Let's start by breaking down the subject into key areas. 
+
+First, the budget process in India: maybe a question about the different types of budgets (balanced, surplus, deficit), the presentation date, and the role of the Finance Minister. Then, banking concepts like the Reserve Bank of India's functions, different types of bank accounts (savings, current, fixed), and monetary policy tools such as CRR, SLR, Repo Rate.
+
+Public Finance might include concepts like indirect vs. direct taxes, the role of the Finance Commission, and the difference between revenue and capital expenditure. Also, important acts like the Fiscal Responsibility and Budget Management Act. 
+
+I should ensure that each question is clear and has four options. The options need to be in both Hindi and English. The answer explanations should be concise but informative. Let me check if I'm covering all the key points and making sure the difficulty level is appropriate for these exams. Maybe include some current events if possible, like recent budget highlights. Also, avoid any ambiguity in the questions. Let me start drafting each question one by one, ensuring they follow the required JSON structure and language.
+</think>
+
+[
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "किस अधिनियम के तहत भारत में बजट तैयार करने के नियम निर्धारित किए गए हैं?",
+  "question_hi": "किस अधिनियम के तहत भारत में बजट तैयार करने के नियम निर्धारित किए गए हैं?",
+  "A_en": "The Fiscal Responsibility and Budget Management Act", "A_hi": "वित्तीय उत्तरदायित्व एवं बजट प्रबंधन अधिनियम",
+  "B_en": "The Finance Act", "B_hi": "वित्त अधिनियम",
+  "C_en": "The Budget and Finance Act", "C_hi": "बजट एवं वित्त अधिनियम",
+  "D_en": "The Public Finance Act", "D_hi": "सार्वजनिक वित्त अधिनियम",
+  "answer": "A",
+  "explanation_en": "The Fiscal Responsibility and Budget Management Act (FRBM) establishes the framework for fiscal discipline and transparency in budgeting.",
+  "explanation_hi": "वित्तीय उत्तरदायित्व एवं बजट प्रबंधन अधिनियम (FRBM) बजटिंग में वित्तीय नियमितता और पारदर्शिता का ढांचा स्थापित करता है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "निम्नलिखित में से कौन सा बैंकिंग संस्थान भारत में मुद्रा नियंत्रण का प्रमुख कार्य करता है?",
+  "question_hi": "निम्नलिखित में से कौन सा बैंकिंग संस्थान भारत में मुद्रा नियंत्रण का प्रमुख कार्य करता है?",
+  "A_en": "State Bank of India", "A_hi": "भारतीय राज्य बैंक",
+  "B_en": "Reserve Bank of India", "B_hi": "भारतीय रिजर्व बैंक",
+  "C_en": "National Bank for Agriculture and Rural Development", "C_hi": "कृषि और ग्रामीण विकास राष्ट्रीय बैंक",
+  "D_en": "Bank of Baroda", "D_hi": "बारोडा बैंक",
+  "answer": "B",
+  "explanation_en": "The Reserve Bank of India is the central bank of India responsible for monetary policy and maintaining price stability.",
+  "explanation_hi": "भारतीय रिजर्व बैंक भारत का केंद्रीय बैंक है जो मौद्रिक नीति और मूल्य स्थिरता बनाए रखने के लिए उत्तरदायी है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "भारत के केंद्रीय बजट किस तारीख को प्रस्तुत किया जाता है?",
+  "question_hi": "भारत के केंद्रीय बजट किस तारीख को प्रस्तुत किया जाता है?",
+  "A_en": "Last Friday of February", "A_hi": "फरवरी का अंतिम शुक्रवार",
+  "B_en": "First Friday of February", "B_hi": "फरवरी का पहला शुक्रवार",
+  "C_en": "Last Friday of January", "C_hi": "जनवरी का अंतिम शुक्रवार",
+  "D_en": "First Friday of January", "D_hi": "जनवरी का पहला शुक्रवार",
+  "answer": "A",
+  "explanation_en": "The Union Budget of India is traditionally presented on the last working day of February, which is usually a Friday.",
+  "explanation_hi": "भारत का संघ बजट परंपरागत रूप से फरवरी के अंतिम कार्यदिवस पर प्रस्तुत किया जाता है, जो आमतौर पर शुक्रवार होता है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "निम्नलिखित में से कौन सा भारतीय बजट का एक अभिन्न अंग है?",
+  "question_hi": "निम्नलिखित में से कौन सा भारतीय बजट का एक अभिन्न अंग है?",
+  "A_en": "Revenue Budget", "A_hi": "राजस्व बजट",
+  "B_en": "Capital Budget", "B_hi": "कैपिटल बजट",
+  "C_en": "Both A and B", "C_hi": "A और B दोनों",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "C",
+  "explanation_en": "The Indian Budget consists of two parts: Revenue Budget (for day-to-day expenses) and Capital Budget (for long-term investments).",
+  "explanation_hi": "भारतीय बजट में दो भाग होते हैं: राजस्व बजट (दिन-प्रतिदिन खर्च के लिए) और पूंजी बजट (दीर्घकालिक निवेश के लिए)।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "निम्नलिखित में से कौन सा बैंकिंग संस्थान भारत में वित्तीय समावेशन को बढ़ावा देने के लिए महत्वपूर्ण भूमिका निभाता है?",
+  "question_hi": "निम्नलिखित में से कौन सा बैंकिंग संस्थान भारत में वित्तीय समावेशन को बढ़ावा देने के लिए महत्वपूर्ण भूमिका निभाता है?",
+  "A_en": "Regional Rural Banks", "A_hi": "क्षेत्रीय ग्रामीण बैंक",
+  "B_en": "Nationalized Banks", "B_hi": "राष्ट्रीयकृत बैंक",
+  "C_en": "Cooperative Banks", "C_hi": "सहकारी बैंक",
+  "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+  "answer": "D",
+  "explanation_en": "Regional Rural Banks, Nationalized Banks, and Cooperative Banks collectively contribute to financial inclusion in India.",
+  "explanation_hi": "क्षेत्रीय ग्रामीण बैंक, राष्ट्रीयकृत बैंक और सहकारी बैंक एक साथ भारत में वित्तीय समावेशन में योगदान देते हैं।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "निम्नलिखित में से कौन सा एक अप्रत्यक्ष कर है?",
+  "question_hi": "निम्नलिखित में से कौन सा एक अप्रत्यक्ष कर है?",
+  "A_en": "Income Tax", "A_hi": "आयकर",
+  "B_en": "Corporate Tax", "B_hi": "कंपनी कर",
+  "C_en": "Goods and Services Tax (GST)", "C_hi": "वस्तु एवं सेवा कर (GST)",
+  "D_en": "Wealth Tax", "D_hi": "संपत्ति कर",
+  "answer": "C",
+  "explanation_en": "Goods and Services Tax (GST) is an indirect tax applied on the supply of goods and services.",
+  "explanation_hi": "वस्तु एवं सेवा कर (GST) वस्तुओं और सेवाओं की आपूर्ति पर लागू अप्रत्यक्ष कर है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "भारत के वित्त मंत्रालय द्वारा प्रस्तुत बजट में किस वित्तीय वर्ष के लिए आय और खर्च का अनुमान शामिल होता है?",
+  "question_hi": "भारत के वित्त मंत्रालय द्वारा प्रस्तुत बजट में किस वित्तीय वर्ष के लिए आय और खर्च का अनुमान शामिल होता है?",
+  "A_en": "Current Financial Year", "A_hi": "वर्तमान वित्तीय वर्ष",
+  "B_en": "Next Financial Year", "B_hi": "अगला वित्तीय वर्ष",
+  "C_en": "Previous Financial Year", "C_hi": "पिछला वित्तीय वर्ष",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "The Union Budget presents estimates of revenue and expenditure for the upcoming financial year.",
+  "explanation_hi": "संघ बजट आगामी वित्तीय वर्ष के लिए राजस्व और खर्च के अनुमान को प्रस्तुत करता है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "निम्नलिखित में से कौन सा एक मौद्रिक नीति उपकरण है?",
+  "question_hi": "निम्नलिखित में से कौन सा एक मौद्रिक नीति उपकरण है?",
+  "A_en": "Open Market Operations", "A_hi": "खुले बाजार कार्यान्वयन",
+  "B_en": "Cash Reserve Ratio (CRR)", "B_hi": "नकद जमा अनुपात (CRR)",
+  "C_en": "Statutory Liquidity Ratio (SLR)", "C_hi": "नियमानुसार तरलता अनुपात (SLR)",
+  "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+  "answer": "D",
+  "explanation_en": "Open Market Operations, CRR, and SLR are all tools used in monetary policy to control money supply.",
+  "explanation_hi": "खुले बाजार कार्यान्वयन, CRR और SLR सभी मौद्रिक नीति के उपकरण हैं जिनका उपयोग मुद्रा आपूर्ति नियंत्रित करने के लिए किया जाता है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+  "question_en": "भारत में लोक वित्त के अनुसार, कौन सा कर्ज विदेशी ऋण कहलाता है?",
+  "question_hi": "भारत में लोक वित्त के अनुसार, कौन सा कर्ज विदेशी ऋण कहलाता है?",
+  "A_en": "Bonds issued by public sector units", "A_hi": "सार्वजनिक क्षेत्र इकाइयों द्वारा जारी बॉन्ड",
+  "
