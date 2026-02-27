@@ -1,0 +1,162 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions on the topic of Panchayati Raj and Nagariya Swashasan, specifically focusing on the 73rd and 74th Amendments to the Indian Constitution. Let me start by recalling the key points of these amendments.
+
+The 73rd Amendment Act, 1992, relates to Panchayati Raj institutions. It mandates the establishment of Panchayats at the village, intermediate, and district levels. It provides for regular elections, reservation of seats for SCs, STs, and OBCs, and women. The 74th Amendment Act, 1992, is about urban local bodies, similar to the 73rd but for urban areas. Both amendments aim to decentralize governance and ensure grassroots democracy.
+
+First question: What is the minimum age required to be a member of a Panchayat? I remember it's 21 years, as per the 73rd Amendment. So the options would include 18, 21, 25, etc. The answer is B (21).
+
+Second question: Which constitutional amendment introduced the 73rd and 74th Amendments? The answer is the 73rd and 74th Amendment Acts, 1992. So the options would be 1992, 1990, 1995, etc. Answer is A (1992).
+
+Third question: Reservation for women in Panchayats is at least... The 73rd Amendment requires at least one-third reservation for women. So options are 33%, 25%, 50%, etc. Answer is C (33%).
+
+Fourth question: Which level of government is responsible for Panchayats? The answer is state government as per the 73rd Amendment. Options include state, central, local, etc. Answer is A (state).
+
+Fifth question: How many seats are reserved for Scheduled Tribes in Panchayats? The reservation is proportional to their population. So options like proportionate, 20%, 15%, etc. Answer is D (proportionate).
+
+Sixth question: Which of the following is not a function of Panchayats? Functions include land distribution, rural development, etc. So options might include defense, which is a state subject. Answer is B.
+
+Seventh question: The 74th Amendment Act deals with... Urban local bodies. Options include Panchayats, urban, both, etc. Answer is C (urban).
+
+Eighth question: The minimum age to be a member of a Municipal Corporation under 74th Amendment is 25. Options include 21, 25, 30, etc. Answer is B (25).
+
+Ninth question: Reservation for SCs and STs in urban local bodies is... One-third. Same as women's reservation. Answer is C (33%).
+
+Tenth question: Which body is responsible for municipal development? The answer is the state government. Options include state, central, local, etc. Answer is A.
+
+Now, I need to translate all these questions and options into Hindi. Make sure the explanations are concise and accurate. Check for any factual errors. Ensure that the answers align with the amendments' provisions. Also, verify that the difficulty level is appropriate for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Avoid any technical jargon that might confuse the students. Finally, structure the JSON correctly without any markdown, using the provided example format.
+</think>
+
+```json
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to be a member of a Panchayat?",
+        "question_hi": "पंचायत में सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act, 1992 mandates the minimum age to be 21 years for Panchayat membership.",
+        "explanation_hi": "73वें संविधान संशोधन अधिनियम, 1992 पंचायत सदस्यता के लिए न्यूनतम आयु 21 वर्ष निर्धारित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the 73rd and 74th Amendments?",
+        "question_hi": "73वें और 74वें संशोधनों को कौन सा संविधान संशोधन पेश किया?",
+        "A_en": "1992", "A_hi": "1992",
+        "B_en": "1990", "B_hi": "1990",
+        "C_en": "1995", "C_hi": "1995",
+        "D_en": "1989", "D_hi": "1989",
+        "answer": "A",
+        "explanation_en": "The 73rd and 74th Amendment Acts were introduced in 1992.",
+        "explanation_hi": "73वें और 74वें संशोधन अधिनियम 1992 में पेश किए गए थे।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum reservation for women in Panchayats?",
+        "question_hi": "पंचायतों में महिलाओं के लिए न्यूनतम आरक्षण क्या है?",
+        "A_en": "25%", "A_hi": "25%",
+        "B_en": "33%", "B_hi": "33%",
+        "C_en": "50%", "C_hi": "50%",
+        "D_en": "10%", "D_hi": "10%",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment mandates at least one-third reservation for women in Panchayats.",
+        "explanation_hi": "73वें संशोधन में पंचायतों में महिलाओं के लिए न्यूनतम एक-तिहाई आरक्षण आवश्यक है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which level of government is responsible for Panchayats?",
+        "question_hi": "पंचायतों के लिए कौन सा सरकारी स्तर उत्तरदायी है?",
+        "A_en": "State Government", "A_hi": "राज्य सरकार",
+        "B_en": "Central Government", "B_hi": "केंद्र सरकार",
+        "C_en": "Local Government", "C_hi": "स्थानीय सरकार",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment Act assigns responsibility for Panchayats to the State Government.",
+        "explanation_hi": "73वें संशोधन अधिनियम पंचायतों के लिए राज्य सरकार को उत्तरदायी बनाता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "How are seats reserved for Scheduled Tribes in Panchayats?",
+        "question_hi": "पंचायतों में अनुसूचित जनजातियों के लिए सीटें कैसे आरक्षित हैं?",
+        "A_en": "33%", "A_hi": "33%",
+        "B_en": "20%", "B_hi": "20%",
+        "C_en": "15%", "C_hi": "15%",
+        "D_en": "Proportionate to their population", "D_hi": "उनकी आबादी के अनुपात में",
+        "answer": "D",
+        "explanation_en": "Seats for Scheduled Tribes are reserved in proportion to their population in the area as per the 73rd Amendment.",
+        "explanation_hi": "73वें संशोधन के अनुसार अनुसूचित जनजातियों के लिए क्षेत्र में उनकी आबादी के अनुपात में सीटें आरक्षित की जाती हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is not a function of Panchayats?",
+        "question_hi": "निम्नलिखित में से कौन पंचायतों का कार्य नहीं है?",
+        "A_en": "Rural development", "A_hi": "ग्रामीण विकास",
+        "B_en": "Defense", "B_hi": "सुरक्षा",
+        "C_en": "Land distribution", "C_hi": "भूमि वितरण",
+        "D_en": "Sanitation", "D_hi": "स्वच्छता",
+        "answer": "B",
+        "explanation_en": "Defense is a state subject and not under the purview of Panchayats.",
+        "explanation_hi": "सुरक्षा राज्य विषय है और पंचायतों के अधिकार में नहीं आता।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What does the 74th Amendment Act deal with?",
+        "question_hi": "74वें संशोधन अधिनियम किसके संबंध में है?",
+        "A_en": "Panchayats", "A_hi": "पंचायतें",
+        "B_en": "Urban local bodies", "B_hi": "शहरी स्थानीय निकाय",
+        "C_en": "Both A and B", "C_hi": "A और B दोनों",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment Act focuses on urban local bodies like Municipal Corporations.",
+        "explanation_hi": "74वें संशोधन अधिनियम शहरी स्थानीय निकायों जैसे नगर निगम पर केंद्रित है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age to be a member of a Municipal Corporation under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत नगर निगम के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "25 years", "B_hi": "25 वर्ष",
+        "C_en": "30 years", "C_hi": "30 वर्ष",
+        "D_en": "21 years", "D_hi": "21 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment Act sets the minimum age at 25 years for Municipal Corporation membership.",
+        "explanation_hi": "74वें संशोधन अधिनियम नगर निगम सदस्यता के लिए न्यूनतम आयु 25 वर्ष निर्धारित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the reservation for SCs and STs in urban local bodies?",
+        "question_hi": "शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षण क्या है?",
+        "A_en": "10%", "A_hi": "10%",
+        "B_en": "25%", "B_hi": "25%",
+        "C_en": "33%", "C_hi": "33%",
+        "D_en": "50%", "D_hi": "50%",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment mandates at least one-third reservation for SCs and STs in urban local bodies.",
+        "explanation_hi": "74वें संशोधन में शहरी स्थानीय निकायों में अनुसूचित जाति और जनजाति के लिए न्यूनतम एक-तिहाई आरक्षण आवश्यक है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for municipal development?",
+        "question_hi": "नगर विकास के लिए कौन सा शरीर उत्तरदायी है?",
+        "A_en": "State Government", "A_hi": "राज्य सरकार",
+        "B_en": "Central Government", "B_hi": "केंद्र सरकार",
+        "C_en": "Local Government", "C_hi": "स्थानीय सरकार",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "The State Government is responsible for municipal development as per the 74th Amendment.",
+        "explanation_hi": "74वें संशोधन के अनुसार नगर विकास के लिए राज्य सरकार उत्तरदायी है।"
+    }
+]
+```
