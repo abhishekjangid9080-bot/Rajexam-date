@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Oxidation, Reduction, and Catalysts for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling the key concepts for each topic.
+
+First, oxidation and reduction. Oxidation is the loss of electrons, reduction is the gain. Sometimes it's about oxygen gain or hydrogen loss. Maybe start with a question differentiating oxidation and reduction. Then, a question about oxidizing and reducing agents. For example, in a reaction, which substance gets oxidized or reduced.
+
+Next, catalysts. Catalysts speed up reactions without being consumed. Homogeneous vs. heterogeneous. Maybe a question about the role of a catalyst in a specific reaction, like the Haber process or contact process. Also, how catalysts affect activation energy.
+
+I should ensure the questions cover different aspects: definitions, examples, roles in reactions, and maybe some common catalysts used in industrial processes. The difficulty should be moderate, suitable for general science exams. Let me check each question for clarity and accuracy. Make sure the options are distinct and the explanations are clear in both English and Hindi. Also, avoid any technical jargon that's too complex for the target audience. Let me start drafting each question one by one, ensuring each follows the specified JSON format.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Oxidation ka arth kya hota hai?",
+    "question_hi": "ऑक्सीकरण का अर्थ क्या है?",
+    "A_en": "Electron gain", "A_hi": "इलेक्ट्रॉन का लाभ",
+    "B_en": "Electron loss", "B_hi": "इलेक्ट्रॉन का नुकसान",
+    "C_en": "Decrease in oxidation number", "C_hi": "ऑक्सीकरण संख्या में कमी",
+    "D_en": "Increase in hydrogen content", "D_hi": "हाइड्रोजन सामग्री में वृद्धि",
+    "answer": "B",
+    "explanation_en": "Oxidation is defined as the loss of electrons or an increase in oxidation state.",
+    "explanation_hi": "ऑक्सीकरण को इलेक्ट्रॉनों का नुकसान या ऑक्सीकरण अवस्था में वृद्धि के रूप में परिभाषित किया गया है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Reduction me kya hota hai?",
+    "question_hi": "अपचयन में क्या होता है?",
+    "A_en": "Gain of oxygen", "A_hi": "ऑक्सीजन का लाभ",
+    "B_en": "Loss of hydrogen", "B_hi": "हाइड्रोजन का नुकसान",
+    "C_en": "Gain of electrons", "C_hi": "इलेक्ट्रॉन का लाभ",
+    "D_en": "Increase in oxidation number", "D_hi": "ऑक्सीकरण संख्या में वृद्धि",
+    "answer": "C",
+    "explanation_en": "Reduction involves the gain of electrons or a decrease in oxidation state.",
+    "explanation_hi": "अपचयन में इलेक्ट्रॉनों का लाभ या ऑक्सीकरण अवस्था में कमी होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Ek utprerak kya karta hai?",
+    "question_hi": "एक उत्प्रेरक क्या करता है?",
+    "A_en": "Increases reaction rate", "A_hi": "अभिक्रिया दर में वृद्धि",
+    "B_en": "Decreases reaction rate", "B_hi": "अभिक्रिया दर में कमी",
+    "C_en": "Consumes during reaction", "C_hi": "अभिक्रिया के दौरान खपत होता है",
+    "D_en": "Changes equilibrium position", "D_hi": "साम्य स्थिति में परिवर्तन",
+    "answer": "A",
+    "explanation_en": "A catalyst increases the rate of a chemical reaction without being consumed in the process.",
+    "explanation_hi": "एक उत्प्रेरक रासायनिक अभिक्रिया की दर में वृद्धि करता है बिना अपने को अभिक्रिया में खपाए।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Haber process me kis utprerak ka prayog hota hai?",
+    "question_hi": "हैबर प्रक्रम में किस उत्प्रेरक का उपयोग किया जाता है?",
+    "A_en": "Iron", "A_hi": "लोहा",
+    "B_en": "Nickel", "B_hi": "निकेल",
+    "C_en": "Vanadium oxide", "C_hi": "वैनेडियम ऑक्साइड",
+    "D_en": "Platinum", "D_hi": "प्लैटिनम",
+    "answer": "A",
+    "explanation_en": "Iron is used as a catalyst in the Haber process for ammonia synthesis.",
+    "explanation_hi": "हैबर प्रक्रम में अमोनिया संश्लेषण के लिए लोहे का उपयोग उत्प्रेरक के रूप में किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Oxidizing agent me kya hota hai?",
+    "question_hi": "ऑक्सीकारक में क्या होता है?",
+    "A_en": "Get oxidized", "A_hi": "ऑक्सीकृत होता है",
+    "B_en": "Get reduced", "B_hi": "अपचयित होता है",
+    "C_en": "Donate electrons", "C_hi": "इलेक्ट्रॉन दान करता है",
+    "D_en": "Accept protons", "D_hi": "प्रोटॉन स्वीकृत करता है",
+    "answer": "B",
+    "explanation_en": "An oxidizing agent undergoes reduction during a redox reaction.",
+    "explanation_hi": "एक ऑक्सीकारक रेडॉक्स अभिक्रिया के दौरान अपचयन प्राप्त करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Kis utprerak ka prayog contact process me hota hai?",
+    "question_hi": "किस उत्प्रेरक का उपयोग कॉन्टैक्ट प्रक्रम में किया जाता है?",
+    "A_en": "Iron", "A_hi": "लोहा",
+    "B_en": "Nickel", "B_hi": "निकेल",
+    "C_en": "Vanadium oxide", "C_hi": "वैनेडियम ऑक्साइड",
+    "D_en": "Platinum", "D_hi": "प्लैटिनम",
+    "answer": "C",
+    "explanation_en": "Vanadium oxide is used as a catalyst in the contact process for sulfuric acid production.",
+    "explanation_hi": "सल्फ्यूरिक अम्ल उत्पादन के लिए कॉन्टैक्ट प्रक्रम में वैनेडियम ऑक्साइड का उपयोग उत्प्रेरक के रूप में किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Redox reaction me kya hota hai?",
+    "question_hi": "रेडॉक्स अभिक्रिया में क्या होता है?",
+    "A_en": "Only oxidation occurs", "A_hi": "केवल ऑक्सीकरण होता है",
+    "B_en": "Only reduction occurs", "B_hi": "केवल अपचयन होता है",
+    "C_en": "Both oxidation and reduction occur", "C_hi": "ऑक्सीकरण और अपचयन दोनों होते हैं",
+    "D_en": "No electron transfer", "D_hi": "कोई इलेक्ट्रॉन हस्तांतरण नहीं होता",
+    "answer": "C",
+    "explanation_en": "Redox reactions involve both oxidation and reduction processes occurring simultaneously.",
+    "explanation_hi": "रेडॉक्स अभिक्रियाएँ एक साथ ऑक्सीकरण और अपचयन प्रक्रमों को शामिल करती हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Catalyst kaise reaction rate badhate hai?",
+    "question_hi": "उत्प्रेरक अभिक्रिया दर कैसे बढ़ाते हैं?",
+    "A_en": "By increasing activation energy", "A_hi": "एक्टिवेशन ऊर्जा में वृद्धि करके",
+    "B_en": "By decreasing activation energy", "B_hi": "एक्टिवेशन ऊर्जा में कमी करके",
+    "C_en": "By changing reaction mechanism", "C_hi": "अभिक्रिया तंत्र में परिवर्तन करके",
+    "D_en": "By consuming reactants", "D_hi": "अभिकारकों को खपाकर",
+    "answer": "B",
+    "explanation_en": "Catalysts lower the activation energy required for a reaction, increasing the reaction rate.",
+    "explanation_hi": "उत्प्रेरक एक अभिक्रिया के लिए आवश्यक एक्टिवेशन ऊर्जा को कम करके अभिक्रिया दर को बढ़ाते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Kis reaction me oxidation aur reduction dono hoti hai?",
+    "question_hi": "किस अभिक्रिया में ऑक्सीकरण और अपचयन दोनों होते हैं?",
+    "A_en": "Combustion of carbon", "A_hi": "कार्बन का दहन",
+    "B_en": "Melting of ice", "B_hi": "बर्फ का पिघलना",
+    "C_en": "Evaporation of water", "C_hi": "पानी का वाष्पीकरण",
+    "D_en": "Dissolution of salt", "D_hi": "नमक का विलयन",
+    "answer": "A",
+    "explanation_en": "Combustion reactions typically involve both oxidation and reduction processes.",
+    "explanation_hi": "दहन अभिक्रियाएँ आमतौर पर ऑक्सीकरण और अपचयन प्रक्रमों को शामिल करती हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+    "question_en": "Homogeneous catalyst kya hai?",
+    "question_hi": "समांग उत्प्रेरक क्या है?",
+    "A_en": "Catalyst in same phase as reactants", "A_hi": "अभिकारकों के समान अवस्था वाला उत्प्रेरक",
+    "B_en": "Catalyst in different phase from reactants", "B_hi": "अभिकारकों से अलग अवस्था वाला उत्प्रेरक",
+    "C_en": "Catalyst that changes phase", "C_hi": "अवस्था बदलने वाला उत्प्रेरक",
+    "D_en": "Catalyst that absorbs heat", "D_hi": "ऊष्मा अवशोषित करने वाला उत्प्रेरक",
+    "answer": "A",
+    "explanation_en": "Homogeneous catalysts are in the same phase (e.g., liquid) as the reactants.",
+    "explanation_hi": "समांग उत्प्रेरक अभिकारकों के समान अवस्था (जैसे, द्रव) में होते हैं।"
+  }
+]
