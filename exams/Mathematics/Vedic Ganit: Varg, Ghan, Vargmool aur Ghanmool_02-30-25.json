@@ -1,0 +1,88 @@
+[
+{
+"subject": "Mathematics",
+"topic": "Vedic Mathematics: Varg, Ghan, Vargmool and Ghanmool",
+"question_en": "How many Varga divisions are there in Vedic Mathematics?",
+"question_hi": "वैदिक जानवरी में कितने अनुपालन के विभागों की जानवरी में विभाग के लिए उपयोग करने के लिए उपयोग करने के लिए उपयोग करने के लिए",
+"question_hi": "वैदिक जानवरी में कितने अनुपालन के लिए उपयोग करने के लिए",
+"A_en": "In Vedic Mathematics, how many parts are there in a Ghan? Use Varga for calculations.",
+"A_hi": "वैदिक जानवरी में कितने अनुपालन के लिए",
+"question_en": "What is the concept of Varga in Vedic Mathematics? How Varga is used for calculations?",
+"question_hi": "वैदिक जानवरी में वर्ग (Varga) क्या वाक्या भिचान्ने वाक्या भिचाने वाक्या भिचाने वाक्या",
+"A_en": "A Varga is a concept in Vedic Mathematics where sixteen parts are divided. How is Varga used for calculations?",
+"A_hi": "वैदिक जानवर्ग (Varga) एक वाक्या संक्षिति (भिचाने वाक्या)",
+"question_en": "How are sixteen parts divided in Vedic Mathematics? What is the significance of Vedic Mathematics Varshik Shakti (भिचाने वाक्या)",
+"question_hi": "वैदिक जानवर्ग (वाक्या) को कैस्त्या भिचानने वाक्या",
+"options": [
+{
+"option_en": "संभागी",
+"option_hi": "संभागी",
+"option_explain_en": "Division of parts into twelve parts",
+"option_explain_hi": "संभागी - 12 प्रतिशां की वाक्या",
+"option_correct": "संभागी",
+"A_en": "संभागी",
+"A_hi": "संभागी",
+},
+{
+"option_en": "स्पदानुत्त्रिया",
+"option_hi": "स्पदानुत्रिया",
+"option_explain_en": "Division of parts into six parts",
+"option_explain_hi": "स्पदानुत्रिया - पांत्रिया",
+"option_correct": "स्पदानुत्रिया",
+"A_en": "स्पदानुत्रिया",
+"A_hi": "स्पदानुत्रिया",
+},
+{
+"option_en": "स्पदानुत्रिया",
+"option_hi": "स्पदानुत्रिया",
+"option_explain_en": "Division of parts into eight parts",
+"option_explain_hi": "स्पदानुत्रिया - वर्ष्या",
+"option_correct": "स्पदानुत्रिया",
+"A_en": "स्पदानुत्रिया",
+"A_hi": "स्पदानुत्रिया",
+},
+{
+"option_en": "स्पदानुत्रिया",
+"option_hi": "स्पदानुत्रिया",
+"option_explain_en": "Varga division into four parts",
+"option_explain_hi": "वर्ष्न्रिया",
+"option_correct": "स्पदानुत्रिया",
+"A_en": "स्पदानुत्रिया",
+"A_hi": "स्पदानुत्रिया",
+"question_en": "How many parts are there in Varga?",
+"question_hi": "वर्ष्नुत्रिया",
+"question_en": "How many parts are there in Varga?",
+"question_hi": "वर्ष्नुत्रिया",
+"A_en": "Part",
+"A_hi": "वर्ष्नुत्रिया",
+"question_en": "How many parts are there in Varga?",
+"question_hi": "वर्ष्न्रिया",
+"options": [
+{
+{
+"option_en": "Paksh",
+"option_hi": "पकष््ष्नुत्रिया",
+{
+"option_en": "Paksh",
+"option_hi": "पक्ष्न्रिया",
+{
+"option_en": "Paksh",
+"option_hi": "पक्ष््रिया",
+"answer_en": "Paksh",
+"answer_hi": "पक्ष््रिया",
+"question_en": "How many parts are there in Paksh?",
+"question_hi": "पक््ष्रिया",
+},
+{
+"option_en": "Astron",
+"option_hi": "अर्ष्रिया",
+"answer_en": "Six",
+"answer_hi": "अर्ष््रिया",
+"question_en": "How many parts are there in Astron?",
+"question_hi": "अर्ष्रिया",
+}
+],
+"A_en": "अर्ष्रिया",
+"A_hi": "अर्ष्रिया",
+}
+]
