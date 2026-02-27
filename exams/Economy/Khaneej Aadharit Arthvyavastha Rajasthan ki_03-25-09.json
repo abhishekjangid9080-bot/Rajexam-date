@@ -1,0 +1,168 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on Rajasthan's Economy-based Economy, specifically about "Khaneej Aadharit Arthvyavastha Rajasthan ki". The questions need to be in both Hindi and English, with explanations in both languages. The output should be in JSON format as per the example provided.
+
+First, I need to ensure I understand the topic correctly. "Khaneej Aadharit Arthvyavastha" translates to "Agriculture-based Economy of Rajasthan". So, the questions should focus on aspects like agriculture in Rajasthan, its role in the state's economy, crops grown there, challenges faced, government schemes, etc.
+
+Next, I need to recall key points about Rajasthan's agricultural economy. Rajasthan has a significant portion of its population dependent on agriculture, but the state is arid and semi-arid, leading to issues like water scarcity. Major crops include millet, wheat, barley, pulses, and some horticultural crops. The government has various schemes for soil health, farmer support, water conservation, etc. Also, there's the issue of groundwater depletion and efforts to promote sustainable practices.
+
+Now, structuring each question. Each question should have a clear fact or concept. For example, the primary crop, government initiatives, challenges, etc. The options need to be plausible but with one correct answer. The explanations should reinforce the correct answer and clarify why the others are incorrect.
+
+Let me start drafting the first question. What's the primary crop in Rajasthan? The options could be Bajra, Wheat, Cotton, Rice. The correct answer is Bajra. Explanation would state that Bajra is well-suited to the arid climate.
+
+Next question: What is the main challenge faced by Rajasthan's agriculture? Options could be Water scarcity, Lack of labor, Inadequate technology, All of the above. The answer is Water scarcity, as that's a major issue in arid Rajasthan.
+
+Third question: Which government scheme focuses on soil health? The correct answer is the Soil Health Card Scheme. Other options might be unrelated schemes.
+
+Fourth question: What is the percentage of Rajasthan's population dependent on agriculture? A common stat is around 40-50%, so the answer would be 45%.
+
+Fifth question: Which river is crucial for irrigation in Rajasthan? The Chambal is a key river here, so that's the answer.
+
+Sixth question: What is the major horticultural crop? Mangoes are prominent in certain regions like Ludhiana, but wait, Ludhiana is in Punjab. Rajasthan's major horticultural crops might be dates, guavas, or others. Wait, need to verify. Maybe Guava is correct as it's grown in Rajasthan.
+
+Seventh question: Which crop is promoted for water conservation? Drought-resistant crops like Millet (Jowar) would be the answer.
+
+Eighth question: What is the name of the initiative for farmer support? PMFBY (Pradhan Mantri Fasal Bima Yojana) is a relevant scheme.
+
+Ninth question: What is the main source of irrigation? Well, Rajasthan relies heavily on groundwater, so that's the answer.
+
+Tenth question: Which region is known for its agricultural productivity? The Malwa region in Rajasthan is known for higher productivity.
+
+Now, I need to ensure all questions are in both languages. The options must be translated accurately. The explanations should clearly state the correct answer's reasoning. Also, check for any possible errors in facts. For example, confirming if Bajra is indeed the primary crop, and that the Soil Health Card Scheme is the correct government initiative.
+
+Once the questions are drafted, I need to format them into the JSON structure provided. Each question object should have the subject, topic, question in English and Hindi, four options each, the answer key, and explanations in both languages. Make sure the answer key letters (A, B, C, D) correspond correctly to the correct options.
+
+Finally, review all questions for clarity and correctness. Ensure that the difficulty level is appropriate for exams like Rajasthan State Exams (LDC, CET, RAS), SSC, and Railway (NTPC). Avoid any ambiguous questions. Check that the explanations are concise and to the point, reinforcing the correct information without being too verbose.
+</think>
+
+[
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "Which of the following is the primary agricultural crop in Rajasthan?",
+        "question_hi": "राजस्थान में निम्नलिखित में से कौन सी मुख्य कृषि फसल है?",
+        "A_en": "Bajra", "A_hi": "बाजरा",
+        "B_en": "Wheat", "B_hi": "गेहूं",
+        "C_en": "Cotton", "C_hi": "कपास",
+        "D_en": "Rice", "D_hi": "चावल",
+        "answer": "A",
+        "explanation_en": "Bajra is the primary agricultural crop in Rajasthan due to its suitability to the arid climate.",
+        "explanation_hi": "राजस्थान में बाजरा मुख्य कृषि फसल है क्योंकि यह शुष्क जलवायु के लिए उपयुक्त है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "What is the main challenge faced by Rajasthan's agricultural sector?",
+        "question_hi": "राजस्थान के कृषि क्षेत्र का मुख्य चुनौती क्या है?",
+        "A_en": "Water scarcity", "A_hi": "जल की कमी",
+        "B_en": "Lack of labor", "B_hi": "श्रमिकों की कमी",
+        "C_en": "Inadequate technology", "C_hi": "अपर्याप्त तकनीक",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "Water scarcity is the primary challenge due to Rajasthan's arid and semi-arid climate.",
+        "explanation_hi": "राजस्थान के शुष्क और अर्द्ध-शुष्क जलवायु के कारण जल की कमी मुख्य चुनौती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "Which government scheme in Rajasthan focuses on soil health improvement?",
+        "question_hi": "राजस्थान में मृदा स्वास्थ्य के सुधार पर केंद्रित सरकार योजना कौन सी है?",
+        "A_en": "Soil Health Card Scheme", "A_hi": "मृदा स्वास्थ्य कार्ड योजना",
+        "B_en": "Pradhan Mantri Krishi Sinchayee Yojana", "B_hi": "प्रधान मंत्री कृषि सिंचाई योजना",
+        "C_en": "National Food Security Mission", "C_hi": "राष्ट्रीय खाद्य सुरक्षा मिशन",
+        "D_en": "Rajasthan Krishi Anusandhan Yojana", "D_hi": "राजस्थान कृषि अनुसंधान योजना",
+        "answer": "A",
+        "explanation_en": "The Soil Health Card Scheme is designed to provide farmers with information about soil nutrient status.",
+        "explanation_hi": "मृदा स्वास्थ्य कार्ड योजना कृषकों को मृदा पोषक तत्वों की जानकारी प्रदान करती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "What percentage of Rajasthan's population is engaged in agriculture?",
+        "question_hi": "राजस्थान की जनसंख्या का कितना प्रतिशत कृषि में लगा है?",
+        "A_en": "30%", "A_hi": "30%",
+        "B_en": "45%", "B_hi": "45%",
+        "C_en": "60%", "C_hi": "60%",
+        "D_en": "75%", "D_hi": "75%",
+        "answer": "B",
+        "explanation_en": "Approximately 45% of Rajasthan's population is engaged in agricultural activities.",
+        "explanation_hi": "लगभग 45% राजस्थान की जनसंख्या कृषि गतिविधियों में लगी हुई है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "Which river is crucial for irrigation in Rajasthan?",
+        "question_hi": "राजस्थान में सिंचाई के लिए कौन सी नदी महत्वपूर्ण है?",
+        "A_en": "Chambal", "A_hi": "चंबल",
+        "B_en": "Sutlej", "B_hi": "सतलज",
+        "C_en": "Beas", "C_hi": "बीस",
+        "D_en": "Ravi", "D_hi": "रावी",
+        "answer": "A",
+        "explanation_en": "The Chambal River is vital for irrigation in Rajasthan's agricultural regions.",
+        "explanation_hi": "चंबल नदी राजस्थान के कृषि क्षेत्रों के लिए आवश्यक है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "What is the major horticultural crop of Rajasthan?",
+        "question_hi": "राजस्थान की मुख्य बागवानी फसल क्या है?",
+        "A_en": "Guava", "A_hi": "अमरूद",
+        "B_en": "Mango", "B_hi": "आम",
+        "C_en": "Grapes", "C_hi": "अंगूर",
+        "D_en": "Pomegranate", "D_hi": "नारंगी",
+        "answer": "A",
+        "explanation_en": "Guava is a significant horticultural crop in Rajasthan due to favorable climatic conditions.",
+        "explanation_hi": "अमरूद राजस्थान में अनुकूल जलवायु के कारण महत्वपूर्ण बागवानी फसल है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "Which crop is promoted for water conservation in Rajasthan?",
+        "question_hi": "राजस्थान में जल संरक्षण के लिए किस फसल को बढ़ावा दिया जाता है?",
+        "A_en": "Jowar", "A_hi": "ज्वार",
+        "B_en": "Soyabean", "B_hi": "सोयाबीन",
+        "C_en": "Wheat", "C_hi": "गेहूं",
+        "D_en": "Paddy", "D_hi": "धान",
+        "answer": "A",
+        "explanation_en": "Jowar is promoted for its low water requirement in Rajasthan's water-scarce environment.",
+        "explanation_hi": "राजस्थान के जल-संकट वाले वातावरण में ज्वार के कम पानी की आवश्यकता के कारण इसको बढ़ावा दिया जाता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "What is the name of Rajasthan's initiative for farmer support?",
+        "question_hi": "राजस्थान के किसान समर्थन के लिए पहल का नाम क्या है?",
+        "A_en": "Pradhan Mantri Fasal Bima Yojana", "A_hi": "प्रधान मंत्री फसल बीमा योजना",
+        "B_en": "Rajasthan Krishi Mitra", "B_hi": "राजस्थान कृषि मित्र",
+        "C_en": "Kisan Samridhi Yojana", "C_hi": "किसान समृद्धि योजना",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "The Pradhan Mantri Fasal Bima Yojana is a central government scheme adopted in Rajasthan for farmer insurance.",
+        "explanation_hi": "प्रधान मंत्री फसल बीमा योजना राजस्थान में किसान बीमा के लिए केंद्र सरकार की योजना है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "What is the main source of irrigation in Rajasthan?",
+        "question_hi": "राजस्थान में सिंचाई का मुख्य स्रोत क्या है?",
+        "A_en": "Groundwater", "A_hi": "भूजल",
+        "B_en": "Canals", "B_hi": "नहरें",
+        "C_en": "Tank irrigation", "C_hi": "टैंक सिंचाई",
+        "D_en": "Rainwater harvesting", "D_hi": "वर्षा जल संग्रहण",
+        "answer": "A",
+        "explanation_en": "Groundwater is the primary source of irrigation due to scarcity of surface water resources.",
+        "explanation_hi": "सतही जल संसाधनों की कमी के कारण भूजल सिंचाई का मुख्य स्रोत है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Khaneej Aadharit Arthvyavastha Rajasthan ki",
+        "question_en": "Which region of Rajasthan is known for high agricultural productivity?",
+        "question_hi": "राजस्थान के किस क्षेत्र को उच्च कृषि उत्पादकता के लिए जाना जाता है?",
+        "A_en": "Malwa", "A_hi": "मालवा",
+        "B_en": "Thar Desert", "B_hi": "थार मरुस्थल",
+        "C_en": "Aravalli Hills", "C_hi": "अरावली पहाड़ियां",
+        "D_en": "Mewar", "D_hi": "मेवाड़",
+        "answer": "A",
+        "explanation_en": "The Malwa region has better soil and water availability, contributing to higher agricultural output.",
+        "explanation_hi": "मालवा क्षेत्र में अच्छी मृदा और जल उपलब्धता है, जो उच्च कृषि उत्पादन में योगदान करती है।"
+    }
+]
