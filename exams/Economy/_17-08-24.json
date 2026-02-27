@@ -1,0 +1,21 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What is the primary contributor to India's Gross Domestic Product (GDP)?",
+"question_hi": "भारत के ग्रॉस डोमेन प्रॉपर्ट (GDP) का प्रमुख उत्पादक क्या है?",
+"A_en": "Services",
+"A_hi": "सेवाएं",
+"B_en": "Agriculture",
+"B_hi": "आर्थिक प्रणाली के बार्म्यान्स",
+"C_en": "Industry",
+"C_hi": "भारत में इंडीजन",
+"D_en": "GDP per Capita",
+"D_hi": "वर्ग के प्रमोजन",
+"answer": "A",
+"explanation_en": "In India, the primary contributor to the GDP is the service sector.",
+"explanation_hi": "भारत में GDP के मुख्य विभाग GDP ki main रूपयेंवर्ग",
+"explanation_exam_format": "MCQ format के समाध्यान",
+"exam_percentage": "Exam के प्रतिरोध",
+}
+]
