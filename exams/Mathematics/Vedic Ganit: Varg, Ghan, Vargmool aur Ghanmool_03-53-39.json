@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Vedic Mathematics topics like squares, cubes, square roots, and cube roots. The user wants them in both Hindi and English, similar to Testbook's style. Let me start by recalling the key concepts.
+
+First, squares and cubes. Maybe start with a question on the square of a number using Vedic methods, like 999 squared. The Vedic trick for numbers close to 1000 is subtracting and squaring. For example, 999² = (1000 - 1)² = 998001. That's a good one.
+
+Next, cube of a number. Let's take 102³. Using the formula (a + b)³ where a=100 and b=2. But maybe an easier Vedic method. The cube of 102 is 1061208. Need to verify that calculation.
+
+Square roots. Maybe a question asking for √15876. The square root is 126, since 126² = 15876. That's straightforward.
+
+Cube roots. For example, ³√10648. The cube root is 22 because 22³ = 10648. That's a good one.
+
+Another square question: 995 squared. Using the formula (1000 - 5)², which is 990025.
+
+Cube of 105. Since 105³ = 1,157,625. Let me check that again. 105*105=11025, 11025*105=1157625. Yes.
+
+Square root of 11025 is 105. Correct.
+
+Cube root of 132651. 51³ is 132651. So that's another one.
+
+Another square root question: 15876. Wait, I already used that. Maybe 1764? √1764 is 42. 42*42=1764. Yes.
+
+Cube root of 1728. That's 12, since 12³=1728.
+
+Wait, let me make sure each question is unique and covers different numbers. Also, ensure the options are plausible. For example, in the square root question for 15876, options might be 126, 124, 128, etc.
+
+Need to structure each question with the correct answer and explanations in both languages. Let me list out all 10 questions with their correct answers first, then create plausible wrong options. Ensure that the difficulty level is moderate, suitable for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. The explanations should be concise but accurate, explaining the Vedic method or the calculation involved.
+</think>
+
+[
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the square of 999 using Vedic method?",
+        "question_hi": "वैदिक विधि के उपयोग से 999 का वर्ग क्या है?",
+        "A_en": "998001", "A_hi": "998001",
+        "B_en": "990001", "B_hi": "990001",
+        "C_en": "997001", "C_hi": "997001",
+        "D_en": "996001", "D_hi": "996001",
+        "answer": "A",
+        "explanation_en": "Using the Vedic method (1000 - 1)² = 1000² - 2×1000×1 + 1² = 998001.",
+        "explanation_hi": "वैदिक विधि का उपयोग करके (1000 - 1)² = 1000² - 2×1000×1 + 1² = 998001।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the cube of 102 using Vedic method?",
+        "question_hi": "वैदिक विधि के उपयोग से 102 का घन क्या है?",
+        "A_en": "1061208", "A_hi": "1061208",
+        "B_en": "1071208", "B_hi": "1071208",
+        "C_en": "1051208", "C_hi": "1051208",
+        "D_en": "1081208", "D_hi": "1081208",
+        "answer": "A",
+        "explanation_en": "Using the Vedic method (100 + 2)³ = 100³ + 3×100²×2 + 3×100×2² + 2³ = 1061208.",
+        "explanation_hi": "वैदिक विधि का उपयोग करके (100 + 2)³ = 100³ + 3×100²×2 + 3×100×2² + 2³ = 1061208।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the square root of 15876?",
+        "question_hi": "15876 का वर्गमूल क्या है?",
+        "A_en": "126", "A_hi": "126",
+        "B_en": "124", "B_hi": "124",
+        "C_en": "128", "C_hi": "128",
+        "D_en": "120", "D_hi": "120",
+        "answer": "A",
+        "explanation_en": "126² = 15876, so the square root of 15876 is 126.",
+        "explanation_hi": "126² = 15876, इसलिए 15876 का वर्गमूल 126 है।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the cube root of 10648?",
+        "question_hi": "10648 का घनमूल क्या है?",
+        "A_en": "22", "A_hi": "22",
+        "B_en": "24", "B_hi": "24",
+        "C_en": "20", "C_hi": "20",
+        "D_en": "28", "D_hi": "28",
+        "answer": "A",
+        "explanation_en": "22³ = 10648, so the cube root of 10648 is 22.",
+        "explanation_hi": "22³ = 10648, इसलिए 10648 का घनमूल 22 है।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the square of 995 using Vedic method?",
+        "question_hi": "वैदिक विधि के उपयोग से 995 का वर्ग क्या है?",
+        "A_en": "990025", "A_hi": "990025",
+        "B_en": "991025", "B_hi": "991025",
+        "C_en": "989025", "C_hi": "989025",
+        "D_en": "992025", "D_hi": "992025",
+        "answer": "A",
+        "explanation_en": "Using the Vedic method (1000 - 5)² = 1000² - 2×1000×5 + 5² = 990025.",
+        "explanation_hi": "वैदिक विधि का उपयोग करके (1000 - 5)² = 1000² - 2×1000×5 + 5² = 990025।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the cube of 105 using Vedic method?",
+        "question_hi": "वैदिक विधि के उपयोग से 105 का घन क्या है?",
+        "A_en": "1157625", "A_hi": "1157625",
+        "B_en": "1167625", "B_hi": "1167625",
+        "C_en": "1147625", "C_hi": "1147625",
+        "D_en": "1137625", "D_hi": "1137625",
+        "answer": "A",
+        "explanation_en": "Using the Vedic method (100 + 5)³ = 100³ + 3×100²×5 + 3×100×5² + 5³ = 1157625.",
+        "explanation_hi": "वैदिक विधि का उपयोग करके (100 + 5)³ = 100³ + 3×100²×5 + 3×100×5² + 5³ = 1157625।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the square root of 11025?",
+        "question_hi": "11025 का वर्गमूल क्या है?",
+        "A_en": "105", "A_hi": "105",
+        "B_en": "100", "B_hi": "100",
+        "C_en": "110", "C_hi": "110",
+        "D_en": "108", "D_hi": "108",
+        "answer": "A",
+        "explanation_en": "105² = 11025, so the square root of 11025 is 105.",
+        "explanation_hi": "105² = 11025, इसलिए 11025 का वर्गमूल 105 है।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the cube root of 132651?",
+        "question_hi": "132651 का घनमूल क्या है?",
+        "A_en": "51", "A_hi": "51",
+        "B_en": "53", "B_hi": "53",
+        "C_en": "55", "C_hi": "55",
+        "D_en": "57", "D_hi": "57",
+        "answer": "A",
+        "explanation_en": "51³ = 132651, so the cube root of 132651 is 51.",
+        "explanation_hi": "51³ = 132651, इसलिए 132651 का घनमूल 51 है।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the square of 101 using Vedic method?",
+        "question_hi": "वैदिक विधि के उपयोग से 101 का वर्ग क्या है?",
+        "A_en": "10201", "A_hi": "10201",
+        "B_en": "10301", "B_hi": "10301",
+        "C_en": "10101", "C_hi": "10101",
+        "D_en": "10401", "D_hi": "10401",
+        "answer": "A",
+        "explanation_en": "Using the Vedic method (100 + 1)² = 100² + 2×100×1 + 1² = 10201.",
+        "explanation_hi": "वैदिक विधि का उपयोग करके (100 + 1)² = 100² + 2×100×1 + 1² = 10201।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Vedic Ganit: Varg, Ghan, Vargmool aur Ghanmool",
+        "question_en": "What is the cube root of 1728?",
+        "question_hi": "1728 का घनमूल क्या है?",
+        "A_en": "12", "A_hi": "12",
+        "B_en": "10", "B_hi": "10",
+        "C_en": "14", "C_hi": "14",
+        "D_en": "16", "D_hi": "16",
+        "answer": "A",
+        "explanation_en": "12³ = 1728, so the cube root of 1728 is 12.",
+        "explanation_hi": "12³ = 1728, इसलिए 1728 का घनमूल 12 है।"
+    }
+]
