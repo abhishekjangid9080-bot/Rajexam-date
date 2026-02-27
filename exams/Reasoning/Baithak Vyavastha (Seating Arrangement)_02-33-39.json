@@ -1,0 +1,73 @@
+[
+{
+"subject": "Reasoning",
+"topic": "Baithak Vyavastha (Seating Arrangement)",
+"question_en": "How are the following people seated in a row?",
+"question_hi": "यहां वर्तमानियों को रोड़ में कैसे बनेगे?",
+"A_en": "First, fourth, and the one in the middle.",
+"A_hi": "पहले, दर्शनियों के साथ मध्य में सेवाएं स्थित होंगे।",
+"B_en": "Second, third, and the one sitting next to the teacher.",
+"B_hi": "शामिल विचारचरण, पहले और शिक्षक के स्थित होंगे।",
+"C_en": "First, the one facing north, and the one facing east.",
+"C_hi": "प्रत्यक्षम प्राकृति के स्थित होंगे।",
+"D_en": "Third, the one sitting in the middle, and the one seated next to the teacher.",
+"D_hi": "इन स्थित होंगे।",
+"E_en": "Second, the one facing north and south.",
+"E_hi": "प्राकृति के स्थित होंगे।",
+"F_en": "First, the one sitting next to the teacher and the one facing south.",
+"F_hi": "शीत और प्राकृति के स्थित होंगे।"
+},
+{
+"subject": "Reasoning",
+"topic": "Bahtek Vyavastha",
+"question_en": "How many seats are occupied in total?",
+"question_hi": "सभागों की साधारणी कितिहोंकी साधारणी",
+"A_en": "10",
+"A_hi": "10",
+"B_en": "11",
+"B_hi": "11",
+"C_en": "12",
+"C_hi": "12",
+"D_en": "13",
+"D_hi": "13",
+"E_en": "15",
+"E_hi": "15",
+"F_en": "18",
+"F_hi": "18",
+"G_en": "20",
+"G_hi": "20",
+"H_en": "25",
+"H_hi": "25",
+"I_en": "30",
+"I_hi": "30",
+"J_en": "35",
+"J_hi": "35",
+"K_en": "40",
+"K_hi": "40",
+"L_en": "45",
+"L_hi": "45",
+"M_en": "50",
+"M_hi": "50",
+"N_en": "55",
+"N_hi": "55",
+"options": [
+{
+"option": "K",
+"value": "40"
+},
+{
+"option": "L",
+"value": "45"
+},
+{
+"option": "M",
+"value": "50"
+}
+],
+"answer": "45",
+"explanation_en": "There are 10 rows and 2 columns in the seating arrangement. In each row, there are 5 seats, and in each column, there are 4 seats. So, the total number of seats is (10 x 4) + (2 x 5) = 40 + 10 = 50. But among the given options, only 45 seats are available. The correct answer is 45.",
+"explanation_hi": "10 रणियों और दो चित्रण में जमीनों का कुलूम है 10 x 4 + 2 x 5 = 40 + 10 = 50, लेके विभिन प्राप्त मैयाँ कों के मान पौनेखीयाँ आं प्रापना कैयाँ कुलूम है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैयाँ प्रापना कुलूम है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैयाँ प्रापना कुलूम है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैयाँ प्रापना कुलूम है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैयाँ प्रापना कु॥म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैयाँ प्रापना कु॥म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैया परापना कु॥म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैया प्रापना कु॥म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकैया परापना कु॥म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क््म है 10 x 4 + 2 x 5 = 40 + 10 = 50 जोकै परापना क्््म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50 जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50",
+जै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50, जोकै परापना क्म है 10 x 4 + 2 x 5 = 40 + 10 = 50",
+"
+}
+]
