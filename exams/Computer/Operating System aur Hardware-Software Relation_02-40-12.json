@@ -1,0 +1,23 @@
+[
+{
+"subject": "Computer",
+"topic": "Operating System aur Hardware-Software Relation",
+"question_en": "What is the main function of an operating system?",
+"question_hi": "ऑपरेशन सिस्टम का मुख्य कार्य क्या होता है।",
+"A_en": "Control software applications",
+"A_hi": "सिस्टम कार्य करते हैं",
+"B_en": "Manage computer hardware",
+"B_hi": "कंप्यूटर कार्य करते हैं",
+"C_en": "Provide user interface and support",
+"C_hi": "वर्तमान और सहायता करते हैं",
+"D_en": "Monitor software applications and allocate resources",
+"D_hi": "सिस्टम कार्य करते हैं",
+"answer": "B",
+"explanation_en": "The main function of an operating system is to manage computer hardware and provide support to user applications.",
+"explanation_hi": "ऑपरेशन सिस्टम कार्य करते हैं कंप्यूटर कार्य और उपयोगी करते हैं",
+"explanation_en": "The operating system manages computer hardware and provides support to user applications.",
+"explanation_hi": "ऑपरेशन सिस्टम कार्य करते हैं कंप्यूटर कार्य और उपयोगी करते हैं",
+"answer": "B",
+"explanation_en": "Operating systems manage computer hardware and provide support for user applications.",
+"explanation_hi": "ऑपरेशन सिस्टम कार्य और उपयोगी करते हैं",
+]
