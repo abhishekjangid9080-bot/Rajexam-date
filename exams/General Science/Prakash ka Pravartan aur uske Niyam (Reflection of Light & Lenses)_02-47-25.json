@@ -1,0 +1,33 @@
+[
+{
+"subject": "General Science",
+"topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+"question_en": "What is the concept of reflection in light?",
+"question_hi": "प्रकाश की रिफ्रेशन क्या है?",
+"A_en": "Refraction", "A_hi": "रेफ्रेक्षण",
+"B_en": "Reflection", "B_hi": "रिफेस्ट",
+"C_en": "Absorption", "C_hi": "समाधान",
+"D_en": "Dispersion", "D_hi": "प्रदोष",
+"answer": "B",
+"explanation_en": "Reflection in light refers to the process where a light ray bounces off a surface and returns to the observer. In contrast, refraction is the change in the speed and direction of light while passing through a medium, while absorption is the process where light energy is absorbed by a substance. Dispersion is the separation of white light into its constituent colors when it passes through a medium like a prism. The correct answer is reflection (option B), as it is the process discussed in the context of light and its properties.",
+"explanation_hi": "प्रकार को बंदरबाजी करने पर प्रकार को एक देखा होने के बाहर एक देखने की पर एक देखी प्रकार को देखने के बाहर एक देखा होने के बाहर एक देखने के बाहर एक देखा होने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर एक देखने के बाहर",
+### JSON Example
+
+[
+{
+"question_en": "What is the process through which light travels?",
+"question_hi": "परम्याँ कियाँ परम्याँ कियाँ",
+"A_en": "Light travels through waves",
+"A_hi": "एकँ जाँ एकँ जाँ",
+"B_en": "Light travels through mediums",
+"B_hi": "एकँ जाँ एकँजाँ",
+"C_en": "Light travels in the form of electromagnetic waves",
+"C_hi": "एकँ जाँ एकँ एकँँ",
+"D_en": "Light travels in the form of particles",
+"D_hi": "एकँ जाँ एकँ",
+"answer": "C",
+"explanation_en": "Light travels in the form of electromagnetic waves. Light is a form of particles travels from source to destination.",
+"explanation_hi": "एकँ एकँ एकँ एकँ एकँ",
+"explanation": "एकँ एकँ एकँ एकँ",
+}
+]
