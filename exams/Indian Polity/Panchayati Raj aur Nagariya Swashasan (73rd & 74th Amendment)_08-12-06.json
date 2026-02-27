@@ -1,0 +1,127 @@
+<think>
+Okay, let's start by understanding the user's request. They want me to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, specifically focusing on the 73rd and 74th Amendments to the Indian Constitution. The questions need to be in both Hindi and English, following the Testbook style, and structured in a specific JSON format. 
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment deals with Panchayati Raj institutions, while the 74th Amendment relates to urban local bodies. Important aspects include the constitutional status, reservations for SC/ST and women, powers and functions, financial provisions, and the structure of these institutions.
+
+I should start by brainstorming possible question areas. For the 73rd Amendment, topics might include the constitutional article number, the year it was enacted, reservations, and the structure of Panchayats. For the 74th Amendment, similar points apply but related to urban governance. Also, distinguishing between the two amendments, their primary focus, and the constitutional provisions.
+
+Next, I need to formulate questions that test understanding of these points. Each question should have four options, with one correct answer. The options must be in both Hindi and English. The explanations should clarify why the correct answer is right and why the others are incorrect.
+
+I have to ensure that the difficulty level is appropriate for exams like Rajasthan LDC, CET, RAS, SSC, and Railway. This means the questions should not be too basic but also not overly complex. They should require a solid understanding of the topic but not obscure details.
+
+Let me start drafting questions. The first question could be about the constitutional article under which the 73rd Amendment was enacted. The answer is Article 243. Then maybe a question on the year of enactment, which is 1992 for both amendments. Another question could be about the reservation of seats for women, which is 1/3rd. For the 74th Amendment, perhaps a question on the name of the committee that recommended urban local bodies—Bharat Nehru Committee. 
+
+I need to check if I'm mixing up the amendments correctly. The 73rd is for rural and 74th for urban. Also, the number of elected representatives in urban areas is not fixed, but the 74th Amendment mandates a minimum of 5000 population for a Nagar Panchayat. 
+
+Another point is the financial provisions. Both amendments mention the establishment of funds—Panchayat Funds and Municipal Funds. The 73rd Amendment includes a provision for the term of office, which is five years. 
+
+I should also include a question comparing the two amendments, like which one deals with urban governance. The 74th Amendment is the answer here. Additionally, the maximum number of local bodies under the 73rd Amendment is three tiers, while the 74th has three types: Nagar Nigam, Nagar Panchayat, and Municipal Board.
+
+Wait, the 73rd Amendment has three tiers: Gram Panchayat, Panchayat Samiti, and Zila Parishad. The 74th has three types of urban local bodies. Need to make sure that's clear in the questions.
+
+I also need to verify that all the facts are correct. For example, the year of enactment for both amendments is 1992, but they were passed in 1993. Wait, actually, the 73rd Amendment was passed in 1992 and came into effect in 1993. Similarly for the 74th. So the questions should mention 1992 as the year of enactment. 
+
+Another point is the reservation for Scheduled Castes and Scheduled Tribes, which is determined by the state legislature, not the central government. That could be a trick question. Also, the constitutional provision for the Panchayats to prepare plans for economic development is under their functions.
+
+Now, structuring the JSON. Each question must have subject, topic, question in both languages, options in both languages, the answer, and explanations in both languages. Need to ensure that the Hindi translations are accurate and in proper Hindi script.
+
+Let me draft each question step by step, making sure there's no repetition and covering all key points. Also, check that the options are plausible distractors but not too obvious. For example, in the question about the year, including 1993 as a distractor might confuse someone who confuses the enactment year with the effective date.
+
+After drafting all 10 questions, I'll review them to ensure they meet the requirements, check for any errors in facts or formatting, and verify that the explanations are clear and concise. This should cover the necessary aspects of the 73rd and 74th Amendments in the Indian Polity, suitable for the target exams.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Indian Constitution provides constitutional status to Panchayati Raj institutions under the 73rd Constitutional Amendment?",
+        "question_hi": "भारतीय संविधान के किस अनुच्छेद से 73वें संविधान संशोधन के तहत पंचायती राज संस्थानों को संवैधानिक दर्जा दिया गया है?",
+        "A_en": "Article 243", "A_hi": "अनुच्छेद 243",
+        "B_en": "Article 244", "B_hi": "अनुच्छेद 244",
+        "C_en": "Article 245", "C_hi": "अनुच्छेद 245",
+        "D_en": "Article 246", "D_hi": "अनुच्छेद 246",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act (1992) granted constitutional status to Panchayati Raj institutions under Article 243.",
+        "explanation_hi": "73वें संविधान संशोधन अध्यादेश (1992) ने अनुच्छेद 243 के तहत पंचायती राज संस्थानों को संवैधानिक दर्जा दिया।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which year marks the enactment of the 73rd and 74th Constitutional Amendments?",
+        "question_hi": "73वें और 74वें संविधान संशोधन को किस वर्ष में अधिनियमित किया गया था?",
+        "A_en": "1990", "A_hi": "1990",
+        "B_en": "1991", "B_hi": "1991",
+        "C_en": "1992", "C_hi": "1992",
+        "D_en": "1993", "D_hi": "1993",
+        "answer": "C",
+        "explanation_en": "The 73rd and 74th Constitutional Amendments were enacted in 1992 to decentralize power to local bodies.",
+        "explanation_hi": "73वें और 74वें संविधान संशोधन 1992 में अधिनियमित किए गए थे जिससे स्थानीय निकायों में शक्ति का विकेंद्रीकरण किया गया।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats is reserved for women in Panchayati Raj institutions as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार पंचायती राज संस्थानों में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+        "A_en": "One-third", "A_hi": "एक-तिहाई",
+        "B_en": "One-fourth", "B_hi": "एक-चौथाई",
+        "C_en": "One-fifth", "C_hi": "एक-पांचवां",
+        "D_en": "One-half", "D_hi": "आधा",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates a one-third reservation for women in all elected posts at the village and higher levels.",
+        "explanation_hi": "73वें संशोधन में गांव और उच्च स्तर पर सभी निर्वाचित पदों में महिलाओं के लिए एक-तिहाई आरक्षण का प्रावधान है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which committee was appointed to recommend the structure of urban local bodies, leading to the 74th Constitutional Amendment?",
+        "question_hi": "74वें संविधान संशोधन के लिए शहरी स्थानीय निकायों की संरचना के सुझाव देने वाली कमेटी कौन-सी थी?",
+        "A_en": "Balwant Rai Mehta Committee", "A_hi": "बलवंत राय मेहता समिति",
+        "B_en": "Bharat Nehru Committee", "B_hi": "भारत नेहरू समिति",
+        "C_en": "Ashok Mehta Committee", "C_hi": "अशोक मेहता समिति",
+        "D_en": "L.M. Singhvi Committee", "D_hi": "एल.एम. सिंघवी समिति",
+        "answer": "B",
+        "explanation_en": "The Bharat Nehru Committee (1985) proposed the structure for urban local bodies, which culminated in the 74th Constitutional Amendment.",
+        "explanation_hi": "भारत नेहरू समिति (1985) ने शहरी स्थानीय निकायों की संरचना के प्रस्ताव किए, जिसके फलस्वरूप 74वें संविधान संशोधन का निर्माण हुआ।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under the 74th Amendment, which of the following is NOT a recognized urban local government body?",
+        "question_hi": "74वें संशोधन के तहत निम्नलिखित में से कौन-सा शहरी स्थानीय शासन निकाय के रूप में मान्यता प्राप्त नहीं है?",
+        "A_en": "Municipal Corporation", "A_hi": "नगर निगम",
+        "B_en": "Municipal Council", "B_hi": "नगर परिषद",
+        "C_en": "Nagar Panchayat", "C_hi": "नगर पंचायत",
+        "D_en": "Gram Panchayat", "D_hi": "ग्राम पंचायत",
+        "answer": "D",
+        "explanation_en": "Gram Panchayat is a rural institution under the 73rd Amendment, while Municipal Corporation, Municipal Council, and Nagar Panchayat are urban bodies under the 74th Amendment.",
+        "explanation_hi": "ग्राम पंचायत 73वें संशोधन के तहत एक ग्रामीण संस्था है, जबकि नगर निगम, नगर परिषद और नगर पंचायत 74वें संशोधन के तहत शहरी निकाय हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum population required for a Nagar Panchayat according to the 74th Amendment?",
+        "question_hi": "74वें संशोधन के अनुसार नगर पंचायत के लिए न्यूनतम आबादी कितनी होनी चाहिए?",
+        "A_en": "10,000", "A_hi": "10,000",
+        "B_en": "20,000", "B_hi": "20,000",
+        "C_en": "50,000", "C_hi": "50,000",
+        "D_en": "1 lakh", "D_hi": "1 लाख",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment specifies that a Nagar Panchayat must have a minimum population of 20,000.",
+        "explanation_hi": "74वें संशो�न में निर्धारित है कि नगर पंचायत की न्यूनतम जनसंख्या 20,000 होनी चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a constitutional requirement for the establishment of a Panchayat according to the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सा 73वें संशोधन के अनुसार एक पंचायत की स्थापना के लिए संवैधानिक आवश्यकता है?",
+        "A_en": "Minimum population of 10,000", "A_hi": "10,000 की न्यूनतम जनसंख्या",
+        "B_en": "Minimum area of 100 sq km", "B_hi": "100 वर्ग किमी का न्यूनतम क्षेत्र",
+        "C_en": "Minimum number of 100 households", "C_hi": "100 परिवारों की न्यूनतम संख्या",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment does not prescribe specific population, area, or household criteria for establishing a Panchayat.",
+        "explanation_hi": "73वें संशोधन में पंचायत की स्थापना के लिए जनसंख्या, क्षेत्र या परिवारों के लिए कोई विशिष्ट मानदंड निर्धारित नहीं किए गए हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur
