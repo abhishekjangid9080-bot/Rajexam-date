@@ -1,0 +1,33 @@
+[
+{
+"subject": "Economy",
+"topic": "Agriculture in Rajasthan",
+"question_en": "What is the major crop grown in Rajasthan?",
+"question_hi": "राजस्थान में बीजन क्या सफलतापूर्वक जानकारी दो।",
+"A_en": "Wheat", "A_hi": "शेरी",
+"B_en": "Cotton", "B_hi": "कॉट्टन",
+"C_en": "Potato", "C_hi": "टमाट",
+"D_en": "Pulses", "D_hi": "पुंजली",
+"answer": "B",
+"explanation_en": "Cotton is a major crop grown in Rajasthan and contributes significantly to the state's economy.",
+"explanation_hi": "राजस्थान में कॉट्टन एक मेहनता पूर्वक विशेषता दें।"
+},
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary industry of Rajasthan?",
+"question_hi": "राजस्थान का प्रमों का उपयोग",
+"A_en": "Textile industry",
+"A_hi": "टैक्सियल इन्ड्स",
+"B_en": "Agriculture",
+"B_hi": "कामवाचकर",
+"C_en": "Mineral resources",
+"C_hi": "मीनर रेसर",
+"D_en": "Tourism",
+"D_hi": "टुइयन",
+"answer": "B",
+"explanation_en": "Rajasthan is predominantly an agrarian state, with agriculture being its primary industry.",
+"explanation_hi": "राजस्थान एक स्नैया राज्य है, जहां कामवाचकर विभिज्ञान",
+"explanation_hi": "Rajasthan is predominantly an agrarian state, with agriculture being its primary industry."
+}
+]
