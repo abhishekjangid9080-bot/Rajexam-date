@@ -1,0 +1,17 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary industry of Rajasthan?",
+"question_hi": "राजस्थान का प्रबंधक स्वामीनियम है।",
+"A_en": "Textile", "A_hi": "टेक्स्टिल",
+"B_en": "Mineral", "B_hi": "मिनियान",
+"C_en": "Agriculture", "C_hi": "आगमन",
+"D_en": "Information Technology", "D_hi": "समाचार पत्रिका",
+"answer": "C",
+"explanation_en": "Rajasthan is known for its rich agricultural heritage. The primary industry of the state is agriculture.",
+"explanation_hi": "राजस्थान महज आगमन का स्वामीनियाना का विभाग",
+"C_explanation_en": "Rajasthan is known for its rich agricultural heritage. The primary industry of the state is agriculture.",
+"C_explanation_hi": "राजस्थान महज आगमन का स्वामियाना का विभाग",
+}
+]
