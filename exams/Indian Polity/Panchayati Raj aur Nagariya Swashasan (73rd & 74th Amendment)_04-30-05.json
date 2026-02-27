@@ -1,0 +1,144 @@
+<think>
+Okay, let's start by understanding the task. The user wants 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, specifically the 73rd and 74th Amendments. The questions need to be in both Hindi and English, following the Testbook style. The JSON structure provided is an example, so I need to strictly adhere to that format.
+
+First, I'll recall key points about the 73rd and 74th Amendments. The 73rd Amendment is about Panchayati Raj institutions, and the 74th relates to Urban Local Bodies. Important aspects include the number of listed subjects, reservation of seats, and constitutional provisions. I need to create questions that test knowledge on these areas.
+
+For each question, I'll need to ensure that the options are in both languages and that the correct answer is accurate. The explanations should clearly justify why the correct option is right. Let me list out possible topics: listed subjects in the 73rd Amendment (like agriculture, land), reservation for SC/ST, powers of the Gram Sabha, the number of listed subjects in the 74th Amendment (urban areas), composition of urban bodies, etc.
+
+Now, I'll start drafting questions. The first question could be about the year of the 73rd Amendment. The answer is 1992. Next, the number of subjects in the 73rd Amendment's list—probably 29. Then, the reservation of seats for women in the 73rd Amendment—33%. The 74th Amendment's year is also 1992. The number of listed subjects for urban bodies is 18. Functions of urban bodies include water supply, sanitation. The Gram Sabha's role as a supervisory body. The minimum age for Panchayat membership is 21. The state government's power to reduce the 5-year term. The 74th Amendment's Schedule listing urban tasks. The constitutional article for the 74th Amendment is Article 243T.
+
+I need to check each point for accuracy. For example, the 73rd Amendment came in 1992, adding 29 subjects. Reservations are 33% for women. The 74th Amendment also in 1992, 18 subjects. Gram Sabha is a supervisory body. State can reduce the term by 6 months. Article 243T for the 74th Amendment. The options should be plausible with common mistakes, like mixing up the numbers 29 and 18. Explanations should clearly state the correct answer and maybe correct a common misconception.
+
+Now, structuring each question with the required JSON format, ensuring Hindi and English options, correct answers, and explanations. I'll make sure the order varies the topics to cover different aspects of the amendments. Double-checking all facts to avoid errors, such as confirming the exact number of listed subjects and the correct articles. Once done, the JSON should be valid and meet all the user's instructions.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "73rd Constitutional Amendment Act came into force in which year?",
+    "question_hi": "73वें संविधान संशोधन अधिनियम किस वर्ष प्रवर्तन में आया था?",
+    "A_en": "1992", "A_hi": "1992",
+    "B_en": "1993", "B_hi": "1993",
+    "C_en": "1991", "C_hi": "1991",
+    "D_en": "1990", "D_hi": "1990",
+    "answer": "A",
+    "explanation_en": "The 73rd Constitutional Amendment Act was enacted in 1992 to empower Panchayati Raj institutions.",
+    "explanation_hi": "73वां संविधान संशोधन अधिनियम 1992 में अधिनियमित किया गया था ताकि पंचायत राज संस्थानों को सशक्त बनाया जा सके।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many subjects are listed in the 73rd Amendment's Schedule?",
+    "question_hi": "73वें संशोधन की सूची में कितने विषयों का शामिल किया गया है?",
+    "A_en": "28", "A_hi": "28",
+    "B_en": "29", "B_hi": "29",
+    "C_en": "30", "C_hi": "30",
+    "D_en": "31", "D_hi": "31",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment lists 29 subjects, including agriculture, land, and rural development.",
+    "explanation_hi": "73वें संशोधन में शामिल किए गए 29 विषय हैं, जिनमें कृषि, भूमि और ग्रामीण विकास शामिल हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for women in the 73rd Amendment?",
+    "question_hi": "73वें संशोधन में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+    "A_en": "30%", "A_hi": "30%",
+    "B_en": "33%", "B_hi": "33%",
+    "C_en": "35%", "C_hi": "35%",
+    "D_en": "40%", "D_hi": "40%",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment mandates a 33% reservation for women in all elected Panchayat bodies.",
+    "explanation_hi": "73वें संशोधन में प्रत्येक चुनावी पंचायत निकाय में महिलाओं के लिए 33% सीटों का आरक्षण अनिवार्य किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body acts as a 'Gram Sabha' under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत कौन सा निकाय 'ग्राम सभा' के रूप में कार्य करता है?",
+    "A_en": "Panchayat Samiti", "A_hi": "पंचायत समिति",
+    "B_en": "Zila Parishad", "B_hi": "जिला परिषद्",
+    "C_en": "All adult residents in a village", "C_hi": "एक गांव में सभी वयस्क निवासियों",
+    "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+    "answer": "C",
+    "explanation_en": "The Gram Sabha under the 73rd Amendment includes all adult residents of a village as its members.",
+    "explanation_hi": "73वें संशोधन के तहत ग्राम सभा एक गांव के सभी वयस्क निवासियों के सदस्य होते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest a Panchayat election?",
+    "question_hi": "पंचायत चुनाव में उम्मीदवार बनने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment sets the minimum age for contesting a Panchayat election at 21 years.",
+    "explanation_hi": "73वें संशोधन में पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु 21 वर्ष निर्धारित की गई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of a Panchayat?",
+    "question_hi": "निम्नलिखित में से कौन सा पंचायत का कार्य नहीं है?",
+    "A_en": "Rural development", "A_hi": "ग्रामीण विकास",
+    "B_en": "Land records maintenance", "B_hi": "भूमि रिकॉर्ड का रखरखाव",
+    "C_en": "Urban sanitation", "C_hi": "शहरी स्वच्छता",
+    "D_en": "Agricultural planning", "D_hi": "कृषि योजना",
+    "answer": "C",
+    "explanation_en": "Urban sanitation falls under the jurisdiction of Urban Local Bodies (74th Amendment), not Panchayats.",
+    "explanation_hi": "शहरी स्वच्छता शहरी स्थानीय निकायों (74वें संशोधन) के अधिकार में आती है, न कि पंचायतों के।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many subjects are listed in the 74th Amendment's Schedule?",
+    "question_hi": "74वें संशोधन की सूची में कितने विषयों का शामिल किया गया है?",
+    "A_en": "18", "A_hi": "18",
+    "B_en": "19", "B_hi": "19",
+    "C_en": "20", "C_hi": "20",
+    "D_en": "21", "D_hi": "21",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment lists 18 subjects related to urban governance, such as water supply and housing.",
+    "explanation_hi": "74वें संशोधन में शहरी शासन से संबंधित 18 विषयों को शामिल किया गया है, जिसमें पानी की आपूर्ति और आवास शामिल है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a function of a Municipal Corporation?",
+    "question_hi": "निम्नलिखित में से कौन एक नगर निगम का कार्य है?",
+    "A_en": "Agriculture", "A_hi": "कृषि",
+    "B_en": "Rural infrastructure", "B_hi": "ग्रामीण बुनियादी ढांचा",
+    "C_en": "Water supply", "C_hi": "पानी की आपूर्ति",
+    "D_en": "Forest management", "D_hi": "वन प्रबंधन",
+    "answer": "C",
+    "explanation_en": "Municipal Corporations (under 74th Amendment) manage urban services like water supply and sanitation.",
+    "explanation_hi": "नगर निगम (74वें संशोधन के अंतर्गत) पानी की आपूर्ति और स्वच्छता जैसी शहरी सेवाओं का प्रबंधन करते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the maximum term of office for a Panchayat?",
+    "question_hi": "पंचायत के कार्यकाल की अधिकतम अवधि क्या है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment provides for a 5-year term for Panchayat bodies, extendable by up to six months.",
+    "explanation_hi": "73वें संशोधन में पंचायत निकायों के लिए 5 वर्ष का कार्यकाल निर्धारित किया गया है, जिसे छह महीने तक बढ़ाया जा सकता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under which constitutional article is the 74th Amendment enacted?",
+    "question_hi": "74वें संशोधन किस संविधान अनुच्छेद के तहत पारित किया गया है?",
+    "A_en": "Article 243T", "A_hi": "अनुच्छेद 243टी",
+    "B_en": "Article 243N", "B_hi": "अनुच्छेद 243एन",
+    "C_en": "Article 243P", "C_hi": "अनुच्छेद 243पी",
+    "D_en": "Article 243Q", "D_hi": "अनुच्छेद 243क्यू",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment is enshrined in Article 243T of the Indian Constitution, dealing with Urban Local Bodies.",
+    "explanation_hi": "74वें संशोधन को भारतीय संविधान के
