@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Acids, Bases, and Salts for Rajasthan State Exams, SSC, and Railway. Let me start by recalling the key concepts related to this topic. Acids, bases, and salts are fundamental in chemistry. I should cover their properties, reactions, examples, and maybe some practical applications.
+
+First question: Maybe ask about the definition or a property. For example, which of the following is a characteristic of acids? Options could include tasting sour, turning blue litmus red, etc. But I need to make sure the options are in both Hindi and English. Let me check the example given. The example uses a question about Rajasthan's capital, with options in both languages. So each question must have the question and four options in both languages.
+
+Second question: Maybe about common acids and bases. Like, which is a strong acid? Options like HCl, CH3COOH, H2CO3. Or maybe natural indicators like litmus from which plant? Probably lichen.
+
+Third question: Reactivity series or reactions with metals. For example, reaction of acids with metals produces hydrogen gas. Or maybe neutralization reaction products.
+
+Fourth question: pH scale. What is the pH of a neutral solution? 7. Maybe options around that.
+
+Fifth question: Uses of bases. For example, sodium hydroxide (NaOH) is used in making soaps.
+
+Sixth question: Common salts and their uses. Like NaCl for food preservation.
+
+Seventh question: Indicators. Which is a natural indicator? Turmeric, litmus, etc.
+
+Eighth question: Acids in daily life. For example, citric acid in lemon.
+
+Ninth question: Reaction between an acid and a base. Neutralization producing salt and water.
+
+Tenth question: Properties of bases. Bitter taste, feel slippery, etc.
+
+Now, I need to structure each question in the required JSON format. Ensure that the question and options are in both Hindi and English. Also, the answer and explanation in both languages. Let's start drafting each one step by step, checking for clarity and correctness. Avoid any technical jargon that's too advanced for the target exams. Make sure the questions are of moderate difficulty, suitable for these competitive exams.
+</think>
+
+[
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "Which of the following is a strong acid?",
+  "question_hi": "निम्न में से कौन सा एक मजबूत अम्ल है?",
+  "A_en": "Citric acid", "A_hi": "नारंगी अम्ल",
+  "B_en": "Acetic acid", "B_hi": "एसिटिक एसिड",
+  "C_en": "Hydrochloric acid", "C_hi": "हाइड्रोक्लोरिक अम्ल",
+  "D_en": "Carbonic acid", "D_hi": "कार्बोनिक अम्ल",
+  "answer": "C",
+  "explanation_en": "Hydrochloric acid is a strong acid as it completely dissociates in water.",
+  "explanation_hi": "हाइड्रोक्लोरिक अम्ल एक मजबूत अम्ल है क्योंकि यह पानी में पूरी तरह वियोजित हो जाता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "Which natural indicator is obtained from lichen?",
+  "question_hi": "लिचेन से प्राप्त प्राकृतिक सूचक कौन सा है?",
+  "A_en": "Litmus", "A_hi": "लिटमस",
+  "B_en": "Turmeric", "B_hi": "हल्दी",
+  "C_en": "Rose petals", "C_hi": "गुलाब के फूल",
+  "D_en": "Vanilla extract", "D_hi": "वेनिला एक्स्ट्रैक्ट",
+  "answer": "A",
+  "explanation_en": "Litmus is a natural indicator obtained from lichen and is used to test acids and bases.",
+  "explanation_hi": "लिटमस लिचेन से प्राप्त एक प्राकृतिक सूचक है और इसका उपयोग अम्ल और क्षार की जांच करने के लिए किया जाता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "What is the product of a neutralization reaction between an acid and a base?",
+  "question_hi": "एक अम्ल और एक क्षार के बीच उदासीनकरण अभिक्रिया का उत्पाद क्या है?",
+  "A_en": "Salt and water", "A_hi": "नमक और पानी",
+  "B_en": "Acid and base", "B_hi": "अम्ल और क्षार",
+  "C_en": "Gas and water", "C_hi": "गैस और पानी",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "Neutralization reaction between an acid and a base produces salt and water.",
+  "explanation_hi": "एक अम्ल और एक क्षार के बीच उदासीनकरण अभिक्रिया नमक और पानी उत्पन्न करती है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "Which of the following is a base?",
+  "question_hi": "निम्न में से कौन एक क्षार है?",
+  "A_en": "HCl", "A_hi": "एचसीएल",
+  "B_en": "NaOH", "B_hi": "एनएचओएच",
+  "C_en": "CH3COOH", "C_hi": "सीएच3सीओओएच",
+  "D_en": "CO2", "D_hi": "सीओ2",
+  "answer": "B",
+  "explanation_en": "NaOH (Sodium hydroxide) is a strong base.",
+  "explanation_hi": "एनएचओएच (सोडियम हाइड्रॉक्साइड) एक मजबूत क्षार है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "What is the pH of a neutral solution at 25°C?",
+  "question_hi": "25°C पर एक उदासीन घोल का pH क्या है?",
+  "A_en": "0", "A_hi": "0",
+  "B_en": "7", "B_hi": "7",
+  "C_en": "14", "C_hi": "14",
+  "D_en": "5", "D_hi": "5",
+  "answer": "B",
+  "explanation_en": "The pH of a neutral solution is 7 at 25°C.",
+  "explanation_hi": "एक उदासीन घोल का pH 25°C पर 7 होता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "Which gas is released when an acid reacts with a metal?",
+  "question_hi": "जब एक अम्ल एक धातु के साथ अभिक्रिया करता है तो कौन सी गैस निकलती है?",
+  "A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+  "B_en": "Hydrogen", "B_hi": "हाइड्रोजन",
+  "C_en": "Carbon dioxide", "C_hi": "कार्बन डाइऑक्साइड",
+  "D_en": "Nitrogen", "D_hi": "नाइट्रोजन",
+  "answer": "B",
+  "explanation_en": "Hydrogen gas is released when an acid reacts with a metal.",
+  "explanation_hi": "जब एक अम्ल एक धातु के साथ अभिक्रिया करता है तो हाइड्रोजन गैस निकलती है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "Which of the following is a common salt?",
+  "question_hi": "निम्न में से कौन एक सामान्य लवण है?",
+  "A_en": "NaCl", "A_hi": "एनएसीएल",
+  "B_en": "H2SO4", "B_hi": "एच2एसओ4",
+  "C_en": "NaOH", "C_hi": "एनएचओएच",
+  "D_en": "CH3COOH", "D_hi": "सीएच3सीओओएच",
+  "answer": "A",
+  "explanation_en": "NaCl is table salt, a common example of a salt.",
+  "explanation_hi": "एनएसीएल टेबल नमक है, जो नमक का एक सामान्य उदाहरण है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "What is the color of phenolphthalein in an acidic solution?",
+  "question_hi": "एक अम्लीय घोल में फिनॉल्फथलीन का रंग क्या होता है?",
+  "A_en": "Pink", "A_hi": "गुलाबी",
+  "B_en": "Colorless", "B_hi": "रंगहीन",
+  "C_en": "Blue", "C_hi": "नीला",
+  "D_en": "Yellow", "D_hi": "पीला",
+  "answer": "B",
+  "explanation_en": "Phenolphthalein is colorless in acidic solutions and turns pink in basic solutions.",
+  "explanation_hi": "फिनॉल्फथलीन अम्लीय घोलों में रंगहीन होता है और क्षारीय घोलों में गुलाबी हो जाता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "Which acid is present in vinegar?",
+  "question_hi": "सिरके में कौन सा अम्ल मौजूद होता है?",
+  "A_en": "Citric acid", "A_hi": "नारंगी अम्ल",
+  "B_en": "Acetic acid", "B_hi": "एसिटिक एसिड",
+  "C_en": "Tartaric acid", "C_hi": "टारटरिक एसिड",
+  "D_en": "Lactic acid", "D_hi": "लैक्टिक एसिड",
+  "answer": "B",
+  "explanation_en": "Vinegar contains acetic acid as its main component.",
+  "explanation_hi": "सिरका अपने मुख्य घटक के रूप में एसिटिक एसिड को शामिल करता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+  "question_en": "What is the nature of a solution that turns blue litmus red?",
+  "question_hi": "एक घोल की प्रकृति क्या है जो नीले लिटमस को लाल कर देता है?",
+  "A_en": "Acidic", "A_hi": "अम्लीय",
+  "B_en": "Basic", "B_hi": "क्षारीय",
+  "C_en": "Neutral", "C_hi": "उदासीन",
+  "D_en": "None of these", "D_hi": "इनमें से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "Acidic solutions turn blue litmus paper red.",
+  "explanation_hi": "अम्लीय घोल नीले लिटमस कागज को लाल बना देते हैं।"
+}
+]
