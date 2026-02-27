@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Reflection of Light and Lenses for Rajasthan State Exams, SSC, and Railway NTPC. Let me start by recalling the key concepts related to reflection and lenses. 
+
+First, the laws of reflection: angle of incidence equals angle of reflection, and the incident ray, reflected ray, and normal lie in the same plane. That could be a good first question. Then types of mirrors—plane, concave, convex. Their properties and uses. For example, concave mirrors in torches, convex in rear-view mirrors.
+
+Next, lenses. Convex lenses converge light, used in magnifying glasses. Concave diverge. The power of a lens is measured in dioptres. The lens formula and magnification might be important. Also, applications like in spectacles for myopia and hypermetropia.
+
+I need to ensure each question is in both Hindi and English. The options should be clear, with one correct answer. The explanations should be concise but informative. Let me think of different angles: definitions, laws, applications, numerical problems. Wait, the user mentioned difficulty level as General Science, so maybe some numericals but not too complex.
+
+Let me brainstorm questions. For example, the first question about the laws of reflection. Second, types of mirrors. Third, image formation by concave mirrors. Fourth, convex mirrors' use. Fifth, lenses types. Sixth, power of a lens. Seventh, magnification. Eighth, applications of concave mirrors. Ninth, correction of eye defects. Tenth, the relationship between focal length and radius of curvature.
+
+I need to make sure that the options are plausible but only one is correct. For instance, in the question about convex mirrors used in vehicles, the correct answer is convex, so the options should include other types to confuse. Also, check for any possible errors in the options. Let me verify each point for accuracy. For example, the power of a lens is indeed 1/focal length in meters. Concave lenses are used for myopia. Convex for hypermetropia. The focal length of a concave mirror is positive? Wait, in the sign conventions, concave mirrors have positive focal length when using the standard sign convention. Hmm, maybe I should phrase it in terms of the mirror's curvature.
+
+Also, the radius of curvature is twice the focal length (R = 2f). That's a standard formula. Need to ensure that question is clear. Let me structure each question step by step, making sure the translations are accurate in Hindi. Avoid any ambiguity. For example, "A concave mirror can form a real and inverted image" is true when the object is beyond the focal point. But if the object is between the focus and the mirror, the image is virtual. So the question should specify the condition. Maybe phrase it as "Under what condition does a concave mirror form a real and inverted image?" But the user might want a more straightforward question. Let me check the example given. The example question is about the capital, so maybe the user expects simple factual questions. Let me proceed with that in mind.
+
+I need to create 10 such questions, ensuring they cover various aspects of reflection and lenses. Let me start drafting each one, keeping the answers and explanations in mind. Also, the JSON structure must be strictly followed. Double-checking for any typos in the translations and the scientific accuracy. Alright, let's get started.
+</think>
+
+[
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "Which of the following is the correct law of reflection?",
+  "question_hi": "निम्नलिखित में से कौन प्रवर्तन का सही नियम है?",
+  "A_en": "Angle of incidence is greater than angle of reflection", "A_hi": "प्रक्षेप कोण प्रतिबिम्ब कोण से अधिक होता है",
+  "B_en": "Angle of incidence is less than angle of reflection", "B_hi": "प्रक्षेप कोण प्रतिबिम्ब कोण से कम होता है",
+  "C_en": "Angle of incidence is equal to angle of reflection", "C_hi": "प्रक्षेप कोण प्रतिबिम्ब कोण के बराबर होता है",
+  "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+  "answer": "C",
+  "explanation_en": "The law of reflection states that the angle of incidence is equal to the angle of reflection.",
+  "explanation_hi": "प्रवर्तन के नियम में कहा गया है कि प्रक्षेप कोण प्रतिबिम्ब कोण के बराबर होता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "A concave mirror can form a real and inverted image when the object is placed at:",
+  "question_hi": "अवतल दर्पण किस स्थिति में वास्तविक और उल्टा प्रतिबिम्ब बना सकता है?",
+  "A_en": "Between pole and focus", "A_hi": "ध्रुव और फोकस के बीच",
+  "B_en": "At focus", "B_hi": "फोकस पर",
+  "C_en": "Beyond the center of curvature", "C_hi": "वक्रता केंद्र से आगे",
+  "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+  "answer": "C",
+  "explanation_en": "When the object is placed beyond the center of curvature in a concave mirror, the image formed is real, inverted, and smaller.",
+  "explanation_hi": "जब एक वस्तु अवतल दर्पण के वक्रता केंद्र से आगे रखी जाती है, तो बना हुआ प्रतिबिम्ब वास्तविक, उल्टा और छोटा होता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "Which type of lens is used to correct myopia (nearsightedness)?",
+  "question_hi": "मायोपिया (निकट दृष्टि) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+  "A_en": "Convex lens", "A_hi": "उत्तल लेंस",
+  "B_en": "Concave lens", "B_hi": "अवतल लेंस",
+  "C_en": "Cylindrical lens", "C_hi": "बेलनाकार लेंस",
+  "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "Concave lenses are used to correct myopia by diverging the light rays before they enter the eye.",
+  "explanation_hi": "मायोपिया को ठीक करने के लिए अवतल लेंस का उपयोग किया जाता है, जो आंख में प्रवेश करने से पहले प्रकाश किरणों को अपसारित करता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "The focal length of a plane mirror is:",
+  "question_hi": "एक समतल दर्पण की फोकल लंबाई होती है:",
+  "A_en": "Infinity", "A_hi": "अनंत",
+  "B_en": "Zero", "B_hi": "शून्य",
+  "C_en": "Equal to its radius", "C_hi": "इसकी त्रिज्या के बराबर",
+  "D_en": "Half of its radius", "D_hi": "इसकी त्रिज्या का आधा",
+  "answer": "A",
+  "explanation_en": "The focal length of a plane mirror is considered to be at infinity because parallel rays reflected from it remain parallel.",
+  "explanation_hi": "समतल दर्पण की फोकल लंबाई अनंत मानी जाती है क्योंकि इससे प्रतिबिम्बित समानांतर किरणें अपरिवर्तित रहती हैं।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "Which mirror is used in the headlight of a car?",
+  "question_hi": "कार के हेडलाइट में किस दर्पण का उपयोग किया जाता है?",
+  "A_en": "Convex mirror", "A_hi": "उत्तल दर्पण",
+  "B_en": "Concave mirror", "B_hi": "अवतल दर्पण",
+  "C_en": "Plane mirror", "C_hi": "समतल दर्पण",
+  "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "Concave mirrors are used in car headlights because they converge light to form a strong beam.",
+  "explanation_hi": "कार के हेडलाइट में अवतल दर्पण का उपयोग किया जाता है क्योंकि वे प्रकाश को एकत्रित करके मजबूत किरण पुंज बनाते हैं।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "The power of a lens is measured in:",
+  "question_hi": "लेंस की क्षमता का मापन किसमें किया जाता है?",
+  "A_en": "Watts", "A_hi": "वॉट",
+  "B_en": "Dioptres", "B_hi": "डायोप्टर्स",
+  "C_en": "Lux", "C_hi": "लक्स",
+  "D_en": "Lumens", "D_hi": "ल्यूमेन्स",
+  "answer": "B",
+  "explanation_en": "The power of a lens is measured in dioptres, which is the reciprocal of the focal length in meters.",
+  "explanation_hi": "लेंस की क्षमता डायोप्टर में मापी जाती है, जो मीटर में फोकल लंबाई के व्युत्क्रम होता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "If the radius of curvature of a mirror is 20 cm, its focal length is:",
+  "question_hi": "यदि किसी दर्पण की वक्रता त्रिज्या 20 सेमी है, तो इसकी फोकल लंबाई होगी:",
+  "A_en": "10 cm", "A_hi": "10 सेमी",
+  "B_en": "20 cm", "B_hi": "20 सेमी",
+  "C_en": "40 cm", "C_hi": "40 सेमी",
+  "D_en": "5 cm", "D_hi": "5 सेमी",
+  "answer": "A",
+  "explanation_en": "The focal length is half the radius of curvature (f = R/2). So, 20 cm / 2 = 10 cm.",
+  "explanation_hi": "फोकल लंबाई वक्रता त्रिज्या की आधी होती है (f = R/2)। अतः 20 सेमी / 2 = 10 सेमी।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "Which mirror is used in rear-view mirrors of vehicles?",
+  "question_hi": "वाहनों के पीछे के दृश्य दर्पण में किस दर्पण का उपयोग किया जाता है?",
+  "A_en": "Concave mirror", "A_hi": "अवतल दर्पण",
+  "B_en": "Convex mirror", "B_hi": "उत्तल दर्पण",
+  "C_en": "Plane mirror", "C_hi": "समतल दर्पण",
+  "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "Convex mirrors are used in rear-view mirrors due to their wide field of view.",
+  "explanation_hi": "उत्तल दर्पण अपने चौड़े दृष्टि क्षेत्र के कारण वाहनों के पीछे के दृश्य दर्पण में उपयोग किए जाते हैं।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "The magnification produced by a plane mirror is:",
+  "question_hi": "समतल दर्पण द्वारा उत्पादित आवर्धन होता है:",
+  "A_en": "Zero", "A_hi": "शून्य",
+  "B_en": "1", "B_hi": "1",
+  "C_en": "More than 1", "C_hi": "1 से अधिक",
+  "D_en": "Less than 1", "D_hi": "1 से कम",
+  "answer": "B",
+  "explanation_en": "A plane mirror produces an image of the same size as the object, resulting in a magnification of 1.",
+  "explanation_hi": "समतल दर्पण वस्तु के आकार के बराबर प्रतिबिम्ब बनाता है, जिसके कारण आवर्धन 1 होता है।"
+},
+{
+  "subject": "General Science",
+  "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+  "question_en": "A convex lens forms a virtual image when the object is placed:",
+  "question_hi": "एक उत्तल लेंस एक आभासी प्रतिबिम्ब बनाता है जब वस्तु रखी जाती है:",
+  "A_en": "At the focal point", "A_hi": "फोकल बिंदु पर",
