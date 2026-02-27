@@ -1,0 +1,185 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality MCQs on MS Office Basics for various exams like Rajasthan State Exams, SSC, and Railway. The questions need to be in both Hindi and English, and strictly in the provided JSON format. 
+
+First, I need to cover Word, Excel, and PowerPoint. Let me break down the topics. For Word, maybe questions on formatting, features like headers/footers, or specific tools like Find and Replace. For Excel, functions like SUM, VLOOKUP, freezing panes, or sorting. PowerPoint could include slide transitions, master slides, or animation effects.
+
+I should ensure the difficulty is appropriate. Since it's for state exams, the questions shouldn't be too advanced but should test understanding of basic concepts. Also, the answer options need to be plausible, with only one correct answer.
+
+Let me start with Word. First question: What is the default file extension for Word documents? The answer is .docx. Then for Excel, maybe a question on the SUM function. PowerPoint: Slide transitions. 
+
+Wait, need to make sure each question is distinct and covers different aspects. Let me check if I'm repeating topics. Next, maybe headers and footers in Word. For Excel, sorting options. Then functions like COUNT. PowerPoint's master slide. Maybe a question on Find and Replace. Excel's VLOOKUP. PowerPoint's animation effects. Word's word count feature. 
+
+I need to translate each question into Hindi accurately. Also, the explanations should be concise. Let me verify the correct answers for each. For example, VLOOKUP's purpose is to search vertically, so the correct answer is searching data in a column. 
+
+Wait, one of the options might be tricky. Like in the VLOOKUP question, the options should include related functions like HLOOKUP to test understanding. Also, ensure that the answer labels (A, B, C, D) are correctly assigned.
+
+Double-check the JSON structure. Each entry must have subject, topic, question in both languages, four options each, answer, and explanations. No markdown, just raw JSON. Make sure the order of the questions is logical and covers all three MS Office components adequately.
+
+Okay, compiling all 10 questions now, ensuring variety and covering all required areas without overlap. Check for any possible errors in the explanations. For example, when talking about freezing panes in Excel, the correct answer is the Freeze Panes option under the View tab. 
+
+Lastly, ensure that the JSON syntax is correct, with commas and brackets properly placed. No trailing commas. Once done, validate the JSON structure to avoid any formatting issues.
+</think>
+
+[
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "Which of the following is the default file extension for a Word document?",
+    "question_hi": "निम्नलिखित में से कौन सा एमएस वर्ड दस्तावेज़ के लिए डिफ़ॉल्ट फ़ाइल एक्सटेंशन है?",
+    "A_en": ".docx",
+    "A_hi": ".docx",
+    "B_en": ".xlsx",
+    "B_hi": ".xlsx",
+    "C_en": ".pptx",
+    "C_hi": ".pptx",
+    "D_en": ".txt",
+    "D_hi": ".txt",
+    "answer": "A",
+    "explanation_en": "MS Word uses .docx as the default file extension for documents created in newer versions.",
+    "explanation_hi": "एमएस वर्ड नए संस्करणों में बनाए गए दस्तावेज़ के लिए फ़ाइल के डिफ़ॉल्ट एक्सटेंशन के रूप में .docx का उपयोग करता है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "What is the purpose of the 'Find and Replace' feature in MS Word?",
+    "question_hi": "एमएस वर्ड में 'फाइंड एंड रिप्लेस' फीचर का उद्देश्य क्या है?",
+    "A_en": "To delete text",
+    "A_hi": "टेक्स्ट हटाने के लिए",
+    "B_en": "To locate and replace specific text",
+    "B_hi": "विशिष्ट टेक्स्ट ढूंढे और प्रतिस्थापित करें",
+    "C_en": "To add images",
+    "C_hi": "छवियाँ जोड़ने के लिए",
+    "D_en": "To change font size",
+    "D_hi": "फॉन्ट साइज़ बदलने के लिए",
+    "answer": "B",
+    "explanation_en": "The 'Find and Replace' feature allows users to locate specific text or phrases and replace them with new text efficiently.",
+    "explanation_hi": "'फाइंड एंड रिप्लेस' फीचर उपयोगकर्ताओं को विशिष्ट टेक्स्ट या शब्दों को ढूंढे और उन्हें नए टेक्स्ट से कुशलतापूर्वक प्रतिस्थापित करने की अनुमति देता है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "Which function in Excel is used to add a range of numbers?",
+    "question_hi": "एक्सेल में संख्याओं की एक श्रृंखला को जोड़ने के लिए किस फंक्शन का उपयोग किया जाता है?",
+    "A_en": "COUNT",
+    "A_hi": "COUNT",
+    "B_en": "SUM",
+    "B_hi": "SUM",
+    "C_en": "AVERAGE",
+    "C_hi": "AVERAGE",
+    "D_en": "MAX",
+    "D_hi": "MAX",
+    "answer": "B",
+    "explanation_en": "The SUM function in Excel is designed to add all the numbers in a specified range of cells.",
+    "explanation_hi": "एक्सेल में SUM फंक्शन निर्दिष्ट सेल रेंज में सभी संख्याओं को जोड़ने के लिए डिज़ाइन किया गया है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "In PowerPoint, which tab is used to apply slide transitions?",
+    "question_hi": "पॉवरपॉइंट में, स्लाइड ट्रांज़िशन लागू करने के लिए किस टैब का उपयोग किया जाता है?",
+    "A_en": "Home",
+    "A_hi": "होम",
+    "B_en": "Insert",
+    "B_hi": "इंसर्ट",
+    "C_en": "Transitions",
+    "C_hi": "ट्रांज़िशन्स",
+    "D_en": "Design",
+    "D_hi": "डिज़ाइन",
+    "answer": "C",
+    "explanation_en": "The 'Transitions' tab in PowerPoint provides options to apply slide transitions between slides.",
+    "explanation_hi": "पॉवरपॉइंट में 'ट्रांज़िशन्स' टैब स्लाइडों के बीच स्लाइड ट्रांज़िशन लागू करने के विकल्प प्रदान करता है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "What is the shortcut key to create a new document in MS Word?",
+    "question_hi": "एमएस वर्ड में एक नए दस्तावेज़ को बनाने की शॉर्टकट कुंजी क्या है?",
+    "A_en": "Ctrl + N",
+    "A_hi": "Ctrl + N",
+    "B_en": "Ctrl + O",
+    "B_hi": "Ctrl + O",
+    "C_en": "Ctrl + S",
+    "C_hi": "Ctrl + S",
+    "D_en": "Ctrl + P",
+    "D_hi": "Ctrl + P",
+    "answer": "A",
+    "explanation_en": "Ctrl + N is the shortcut key to create a new document in MS Word.",
+    "explanation_hi": "Ctrl + N एमएस वर्ड में एक नए दस्तावेज़ को बनाने की शॉर्टकट कुंजी है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "Which Excel feature allows sorting data in ascending or descending order?",
+    "question_hi": "एक्सेल की कौन सी सुविधा आरोही या अवरोही क्रम में डेटा को सॉर्ट करने की अनुमति देती है?",
+    "A_en": "Filter",
+    "A_hi": "फ़िल्टर",
+    "B_en": "Sort",
+    "B_hi": "सॉर्ट",
+    "C_en": "Format",
+    "C_hi": "फॉर्मेट",
+    "D_en": "Pivot Table",
+    "D_hi": "पिवट टेबल",
+    "answer": "B",
+    "explanation_en": "The 'Sort' feature in Excel allows users to arrange data in ascending or descending order based on specific columns.",
+    "explanation_hi": "एक्सेल में 'सॉर्ट' सुविधा उपयोगकर्ताओं को विशिष्ट स्तंभों के आधार पर डेटा को आरोही या अवरोही क्रम में व्यवस्थित करने की अनुमति देती है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "In PowerPoint, where can you find the option to add a slide?",
+    "question_hi": "पॉवरपॉइंट में, एक स्लाइड जोड़ने के विकल्प को कहाँ पाया जा सकता है?",
+    "A_en": "Home tab",
+    "A_hi": "होम टैब",
+    "B_en": "Insert tab",
+    "B_hi": "इंसर्ट टैब",
+    "C_en": "Design tab",
+    "C_hi": "डिज़ाइन टैब",
+    "D_en": "Review tab",
+    "D_hi": "रिव्यू टैब",
+    "answer": "A",
+    "explanation_en": "The 'Home' tab in PowerPoint contains the 'New Slide' option to add additional slides to a presentation.",
+    "explanation_hi": "पॉवरपॉइंट में 'होम' टैब में 'न्यू स्लाइड' विकल्प होता है जिसका उपयोग प्रस्तुति में अतिरिक्त स्लाइड जोड़ने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "Which of the following is used to freeze the first row in Excel?",
+    "question_hi": "निम्नलिखित में से किसका उपयोग एक्सेल में पहली पंक्ति को फ्रीज़ करने के लिए किया जाता है?",
+    "A_en": "Split",
+    "A_hi": "स्प्लिट",
+    "B_en": "Freeze Panes",
+    "B_hi": "फ्रीज़ पेन्स",
+    "C_en": "Merge Cells",
+    "C_hi": "सेल्स मर्ज",
+    "D_en": "Group",
+    "D_hi": "ग्रुप",
+    "answer": "B",
+    "explanation_en": "The 'Freeze Panes' option under the 'View' tab is used to keep specific rows or columns visible while scrolling.",
+    "explanation_hi": "'व्यू' टैब के तहत 'फ्रीज़ पेन्स' विकल्प का उपयोग स्क्रॉल करते समय विशिष्ट पंक्तियों या स्तंभों को दृश्यमान रखने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "What does the 'Word Count' feature in MS Word do?",
+    "question_hi": "एमएस वर्ड में 'वर्ड काउंट' फीचर क्या करता है?",
+    "A_en": "Counts characters only",
+    "A_hi": "केवल अक्षर गिनती करता है",
+    "B_en": "Counts words, characters, and paragraphs",
+    "B_hi": "शब्दों, अक्षरों और पैराग्राफ की गिनती करता है",
+    "C_en": "Counts images",
+    "C_hi": "छवियों की गिनती करता है",
+    "D_en": "Counts tables",
+    "D_hi": "टेबल की गिनती करता है",
+    "answer": "B",
+    "explanation_en": "The 'Word Count' feature provides statistics for words, characters, paragraphs, and more in a document.",
+    "explanation_hi": "'वर्ड काउंट' फीचर दस्तावेज़ में शब्दों, अक्षरों, पैराग्राफ और अन्य जानकारी का सांख्यिकीय विश्लेषण प्रदान करता है।"
+  },
+  {
+    "subject": "Technology",
+    "topic": "MS Office (Word, Excel, PowerPoint) Basics",
+    "question_en": "In Excel, what is the purpose of the VLOOKUP function?",
+    "question_hi": "एक्सेल में, VLOOKUP फंक्शन का उद्देश्य क्या है?",
+    "A_en": "To search data vertically in a column",
+    "A_hi": "एक स्तंभ में डेटा की ऊर्ध्वाधर खोज करने के लिए",
+    "B_en": "To search data horizontally in a row",
+    "B_hi":
