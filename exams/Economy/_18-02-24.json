@@ -1,0 +1,31 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान के अधिकांश भाषा क्या है।",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मराठी",
+"C_en": "Gujarati", "C_hi": "गुजराती",
+"D_en": "Tamil", "D_hi": "टाम",
+"answer": "D",
+"explanation_en": "Tamil is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान के अधिकांश भाषा टाम है।"
+},
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the main source of tourism in Rajasthan?",
+"question_hi": "राजस्थान की प्रमोट्स्ट मतलब प्रायश क्या राजस्थान में विविध मतलब प्रायश निष्ट क्या है।",
+"A_en": "Urban Development",
+"A_hi": "संघ विकार",
+"B_en": "Cultural Heritage",
+"B_hi": "कला जन्मनी",
+"C_en": "Natural Beauty",
+"C_hi": "पत्रांचावली",
+"D_en": "Agriculture",
+"D_hi": "क़र्नी का प्रयोग",
+"answer": "C",
+"explanation_en": "Natural Beauty is the main attraction for tourism in Rajasthan.",
+"explanation_hi": "राजस्थान में पत्रांचावली का प्रयोग यूनाली का प्रयोग",
+}
