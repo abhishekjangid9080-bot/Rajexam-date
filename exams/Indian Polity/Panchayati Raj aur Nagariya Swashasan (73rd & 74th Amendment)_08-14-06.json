@@ -1,0 +1,143 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan (73rd and 74th Amendments) for Rajasthan State Exams, SSC, and Railway NTPC. Let me start by recalling the key points of these amendments.
+
+The 73rd Amendment in 1992 relates to Panchayati Raj, ensuring local self-government in rural areas. It mandates a three-tier structure: Gram Panchayat, Panchayat Samiti, and Zila Parishad. Women's reservation is 1/3 of the seats, and there's a provision for a nyaya panchayat for dispute resolution.
+
+The 74th Amendment in 1992 focuses on urban local bodies, like Municipalities and Municipal Corporations. It emphasizes local governance in urban areas, with similar structures but tailored for cities. There's also a 1/3 reservation for women here.
+
+Now, I need to frame questions that test understanding of these amendments. Let me list possible areas:
+
+1. Year of amendments.
+2. Structure of Panchayat and Nagar Palika.
+3. Reservation percentages.
+4. Key provisions like nyaya panchayats.
+5. Role of State Finance Commission.
+6. Duration of Panchayat terms.
+7. Disqualifications.
+8. Functions of Zila Parishad.
+9. Differences between 73rd and 74th.
+10. Role of Municipal Corporations.
+
+Let me check each point for accuracy. For example, the 73rd Amendment indeed provides 1/3 reservation for women in both elected posts and offices of chairpersons. The 74th Amendment also mandates 1/3 reservation. The State Finance Commission under 73rd Amendment reviews financial resources and makes recommendations. The term of Panchayat is five years.
+
+Now, I need to structure each question in both Hindi and English, with four options each. The answers should be accurate, and explanations should clarify the correct answer. I have to ensure that the difficulty level is appropriate for the exams mentioned, so some questions might be a bit tricky but not too obscure.
+
+Let me start drafting each question step by step, making sure that the options are plausible and the correct answer is clearly the right one. I'll also verify each fact to avoid errors. For example, the State Election Commission for Panchayats is established under the 73rd Amendment, and the term "Gram Sabha" refers to the assembly of all registered voters in a village.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment provides for the establishment of Panchayati Raj institutions in India?",
+        "question_hi": "भारत में पंचायती राज संस्थाओं की स्थापना के लिए कौन सा संविधान संशोधन प्रदान करता है?",
+        "A_en": "72nd Amendment", "A_hi": "72वां संशोधन",
+        "B_en": "73rd Amendment", "B_hi": "73वां संशोधन",
+        "C_en": "74th Amendment", "C_hi": "74वां संशोधन",
+        "D_en": "75th Amendment", "D_hi": "75वां संशोधन",
+        "answer": "B",
+        "explanation_en": "The 73rd Constitutional Amendment Act of 1992 established the framework for Panchayati Raj institutions.",
+        "explanation_hi": "1992 का संविधान संशोधन अध्यादेश 73वां पंचायती राज संस्थाओं के लिए ढांचा स्थापित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Zila Parishad under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन सा 73वें संशोधन के तहत जिला परिषद का कार्य नहीं है?",
+        "A_en": "Planning for rural development", "A_hi": "ग्रामीण विकास के लिए योजना बनाना",
+        "B_en": "Maintenance of primary education", "B_hi": "प्राथमिक शिक्षा का रखरखाव",
+        "C_en": "Providing urban sanitation", "C_hi": "शहरी स्वच्छता प्रदान करना",
+        "D_en": "Implementation of health programs", "D_hi": "स्वास्थ्य कार्यक्रमों का क्रियान्वयन",
+        "answer": "C",
+        "explanation_en": "The Zila Parishad focuses on rural areas, while urban sanitation is under Municipal Corporations governed by the 74th Amendment.",
+        "explanation_hi": "जिला परिषद ग्रामीण क्षेत्रों पर केंद्रित होती है, जबकि शहरी स्वच्छता नगर निगमों के अधीन होती है जो 74वें संशोधन के अधीन हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest a Panchayat election?",
+        "question_hi": "पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment mandates a minimum age of 21 years to contest Panchayat elections.",
+        "explanation_hi": "73वें संशोधन में पंचायत चुनाव में भाग लेने के लिए 21 वर्ष की न्यूनतम आयु निर्धारित की गई है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for the delimitation of electoral constituencies for Panchayats?",
+        "question_hi": "पंचायतों के चुनावी निर्वाचन क्षेत्रों की परिसीमन कौन सा निकाय करता है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Election Commission of India", "B_hi": "भारतीय चुनाव आयोग",
+        "C_en": "State Legislative Assembly", "C_hi": "राज्य विधान सभा",
+        "D_en": "Zila Parishad", "D_hi": "जिला परिषद",
+        "answer": "A",
+        "explanation_en": "The State Election Commission, established under the 73rd Amendment, handles delimitation of Panchayat constituencies.",
+        "explanation_hi": "73वें संशोधन के तहत स्थापित राज्य चुनाव आयोग पंचायत निर्वाचन क्षेत्रों की परिसीमन का अधिकार धारक है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats in Panchayats is reserved for women as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार पंचायतों में महिलाओं के लिए कितना प्रतिशत सीट आरक्षित है?",
+        "A_en": "One-third", "A_hi": "एक-तिहाई",
+        "B_en": "One-fourth", "B_hi": "एक-चौथाई",
+        "C_en": "One-fifth", "C_hi": "एक-पांचवा",
+        "D_en": "Half", "D_hi": "आधा",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates a one-third reservation for women in all elected positions of Panchayats.",
+        "explanation_hi": "73वें संशोधन में पंचायतों की सभी निर्वाचित पदों में महिलाओं के लिए एक-तिहाई सीटों का आरक्षण अनिवार्य कर दिया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of the Gram Sabha under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन 73वें संशोधन के तहत ग्राम सभा का कार्य है?",
+        "A_en": "Approving the annual budget of the Gram Panchayat", "A_hi": "ग्राम पंचायत के वार्षिक बजट को स्वीकृति देना",
+        "B_en": "Election of the Sarpanch", "B_hi": "सरपंच का चुनाव",
+        "C_en": "Providing legal aid to villagers", "C_hi": "ग्रामीणों को कानूनी सहायता प्रदान करना",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "A",
+        "explanation_en": "The Gram Sabha approves the annual budget of the Gram Panchayat and participates in its planning.",
+        "explanation_hi": "ग्राम सभा ग्राम पंचायत के वार्षिक बजट को स्वीकृति देती है और इसके नियोजन में भाग लेती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the term of office for a Panchayat as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार पंचायत का कार्यकाल कितना होता है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment Act, 1992, stipulates a five-year term for Panchayats, unless dissolved earlier.",
+        "explanation_hi": "1992 के संशोधन अध्यादेश 73वें में पंचायतों के लिए पाँच वर्ष का कार्यकाल निर्धारित किया गया है, जब तक कि अग्रिम में इसे भंग न कर दिया जाए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for the preparation of electoral rolls for Panchayat elections?",
+        "question_hi": "पंचायत चुनावों के लिए निर्वाचन रोल तैयार करने के लिए कौन सा निकाय उत्तरदायी है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Gram Sabha", "B_hi": "ग्राम सभा",
+        "C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+        "D_en": "District Collector", "D_hi": "जिला अधिकारी",
+        "answer": "A",
+        "explanation_en": "The State Election Commission, established under the 73rd Amendment, prepares electoral rolls for Panchayat elections.",
+        "explanation_hi": "73वें संशोधन के तहत स्थापित राज्य चुनाव आयोग पंचायत चुनावों के लिए निर्वाचन रोल तैयार करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a feature of the 74th Amendment?",
+        "question_hi": "निम्नलिखित में से कौन 74वें संशोधन की विशेषता नहीं है?",
+        "A_en": "Reservation of seats for women in Municipalities", "A_hi": "नगर परिषद में महिलाओं के लिए सीटों का आरक्षण",
+        "B_en": "Establishment of Municipal Corporations in urban areas", "B_hi": "शहरी क्षेत्रों में नगर निगमों की स्थापना",
+        "C_en": "Gram Sabha as the foundation of Panchayati Raj", "C_hi": "ग्राम सभा पंचायती राज के नींव के रूप में",
+        "D_en": "State Finance Commission for reviewing financial resources", "D_hi": "राज्य वित्त आयोग के वित्तीय संसाधनों की समीक्षा के लिए",
+        "answer": "C",
+        "explanation_en": "The Gram Sabha is a feature of
