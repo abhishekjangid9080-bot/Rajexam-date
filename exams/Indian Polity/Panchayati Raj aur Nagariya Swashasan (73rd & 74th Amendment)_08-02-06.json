@@ -1,0 +1,169 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan (73rd and 74th Amendments) in Indian Polity. The user wants the questions and options in both Hindi and English, formatted in JSON as per the given example. Let me start by recalling the key points related to these amendments.
+
+First, the 73rd Amendment Act, 1992, relates to Panchayati Raj institutions, while the 74th Amendment Act, 1992, deals with Urban Local Bodies. Both amendments aim to strengthen local governance by devolving power to local bodies.
+
+For the 73rd Amendment, important points include the three-tier structure at the village, block, and district levels, reservation for SCs, STs, and women, and the requirement for Gram Sabha. The 74th Amendment covers municipalities, reservation for SCs, STs, and women, and the role of state governments in their functioning.
+
+I should frame questions on these aspects. Let me think of possible areas: the constitutional amendments themselves, the structure of Panchayati Raj and Nagariya Swashasan, reservation details, functions, and the role of state governments.
+
+Each question must have four options, with one correct answer. The explanations should clarify why the correct option is right and why others are not. Let me start drafting each question step by step.
+
+1. Question on which amendment deals with Panchayati Raj. Options could be other amendments like 71st, 72nd, 73rd, 74th. Answer is 73rd.
+
+2. Which one is not part of the Panchayati Raj structure: Gram Panchayat, Block, District, or State. The correct is District as the three tiers are Village, Block, District. Wait, no, the three tiers are Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district). So the tiers are village, block, district. So the answer is State, which is not a tier.
+
+3. Reservation for SCs/STs and women under 73rd Amendment. Options could be 1/3, 1/2, 1/4, 2/3. The correct is 1/3 for SCs/STs and at least 1/3 for women.
+
+4. The 74th Amendment relates to Urban Local Bodies, so the question could be which amendment deals with Nagariya Swashasan. Options similar to the first question.
+
+5. Which of the following is not a function of Panchayats? Options might include land distribution, law and order, education, health. Law and order is not under their purview.
+
+6. The role of the State Election Commission in relation to Panchayats, as per 73rd Amendment. The answer is they conduct elections.
+
+7. The minimum age for membership in a Panchayat: 18 or 21? The correct is 18.
+
+8. Reservation for SC/ST in urban local bodies under 74th Amendment. Similar to 73rd, it's 1/5th or 1/3rd. Wait, the 73rd has 1/3rd reservation for SC/ST. For 74th, it's 1/5th. Need to confirm.
+
+Wait, the 73rd Amendment provides for reservation of not less than one-third of the total number of seats for women. For SC and ST, it's 1/5th of the seats in each Panchayat. Similarly, for the 74th Amendment, urban local bodies also have reservations for SCs, STs, and women. The percentage for SC/ST might be same as 73rd, but need to check.
+
+9. Who is the head of the Gram Panchayat? Sarpanch, so the question can be about the head of village level body.
+
+10. What is the tenure of a Panchayat? Typically five years. Similarly for municipalities under 74th.
+
+Now, I need to structure each question with proper English and Hindi translation. The options should be in both languages. The explanations must be concise and clear.
+
+I need to ensure that the questions are of varying difficulty but within the scope of the topic. Also, avoid overlapping or similar questions. Check for any possible errors in facts. For example, the 73rd Amendment came in 1992, 74th same year. Panchayats have three tiers, municipalities also three tiers: Nagar Panchayat, Municipal Council, Municipal Corporation.
+
+Let me start writing each question step by step, making sure the translations are accurate and the options are correctly ordered with the correct answer labeled.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the system of Panchayati Raj in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान संशोधन प्रतिष्ठित किया गया था?",
+        "A_en": "73rd Amendment",
+        "A_hi": "73वां संशोधन",
+        "B_en": "72nd Amendment",
+        "B_hi": "72वां संशोधन",
+        "C_en": "74th Amendment",
+        "C_hi": "74वां संशोधन",
+        "D_en": "71st Amendment",
+        "D_hi": "71वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992, established the system of Panchayati Raj in India.",
+        "explanation_hi": "1992 में भारत में पंचायती राज प्रणाली की स्थापना 73वें संविधान संशोधन अधिनियम के द्वारा की गई थी।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a tier of the Panchayati Raj system?",
+        "question_hi": "निम्नलिखित में से कौन-सा पंचायती राज प्रणाली का एक स्तर नहीं है?",
+        "A_en": "Gram Panchayat",
+        "A_hi": "ग्राम पंचायत",
+        "B_en": "Panchayat Samiti",
+        "B_hi": "पंचायत समिति",
+        "C_en": "Zila Parishad",
+        "C_hi": "जिला परिषद",
+        "D_en": "State Council",
+        "D_hi": "राज्य परिषद",
+        "answer": "D",
+        "explanation_en": "The three tiers of the Panchayati Raj system are Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district). The State Council is not a part of this system.",
+        "explanation_hi": "पंचायती राज प्रणाली के तीन स्तर हैं: ग्राम पंचायत (गांव), पंचायत समिति (ब्लॉक) और जिला परिषद (जिला)। राज्य परिषद इस प्रणाली का हिस्सा नहीं है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum reservation for Scheduled Castes/Scheduled Tribes in Panchayats under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अंतर्गत पंचायतों में अनुसूचित जाति/अनुसूचित जनजाति के लिए न्यूनतम आरक्षण क्या है?",
+        "A_en": "One-third (1/3)",
+        "A_hi": "एक-तिहाई (1/3)",
+        "B_en": "One-fourth (1/4)",
+        "B_hi": "एक-चौथाई (1/4)",
+        "C_en": "One-fifth (1/5)",
+        "C_hi": "एक-पांचवा (1/5)",
+        "D_en": "None of the above",
+        "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "C",
+        "explanation_en": "Under the 73rd Amendment, the reservation for Scheduled Castes/Scheduled Tribes in Panchayats is at least one-fifth (1/5) of the total seats.",
+        "explanation_hi": "73वें संशोधन के अंतर्गत पंचायतों में अनुसूचित जाति/जनजाति के लिए न्यूनतम एक-पांचवा (1/5) आरक्षण है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced provisions for Urban Local Bodies (ULBs)?",
+        "question_hi": "कौन सा संविधान संशोधन नगरीय स्थानीय शासन (ULBs) के लिए प्रावधान पेश करता है?",
+        "A_en": "74th Amendment",
+        "A_hi": "74वां संशोधन",
+        "B_en": "73rd Amendment",
+        "B_hi": "73वां संशोधन",
+        "C_en": "72nd Amendment",
+        "C_hi": "72वां संशोधन",
+        "D_en": "71st Amendment",
+        "D_hi": "71वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 74th Constitutional Amendment Act, 1992, introduced provisions for the Urban Local Bodies (ULBs) like municipalities, municipal corporations, and Nagar Panchayats.",
+        "explanation_hi": "1992 में 74वें संविधान संशोधन अधिनियम ने नगर पालिकाएं, नगर निगम और नगर पंचायतों जैसे नगरीय स्थानीय शासन के लिए प्रावधान शामिल किए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum reservation for women in Panchayats under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अंतर्गत पंचायतों में महिलाओं के लिए न्यूनतम आरक्षण क्या है?",
+        "A_en": "One-third (1/3)",
+        "A_hi": "एक-तिहाई (1/3)",
+        "B_en": "One-fourth (1/4)",
+        "B_hi": "एक-चौथाई (1/4)",
+        "C_en": "One-fifth (1/5)",
+        "C_hi": "एक-पांचवा (1/5)",
+        "D_en": "None of the above",
+        "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates a minimum reservation of one-third (1/3) of the total seats for women in Panchayats.",
+        "explanation_hi": "73वें संशोधन में पंचायतों में महिलाओं के लिए कुल सीटों के एक-तिहाई का न्यूनतम आरक्षण अनिवार्य है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Who is the head of a Gram Sabha?",
+        "question_hi": "ग्राम सभा का मुखिया कौन होता है?",
+        "A_en": "Sarpanch",
+        "A_hi": "सरपंच",
+        "B_en": "Panchayat Secretary",
+        "B_hi": "पंचायत सचिव",
+        "C_en": "Gram Panchayat",
+        "C_hi": "ग्राम पंचायत",
+        "D_en": "None of the above",
+        "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "D",
+        "explanation_en": "The Gram Sabha is a body of all registered voters in a village and does not have a head. The Sarpanch leads the Gram Panchayat, not the Gram Sabha.",
+        "explanation_hi": "ग्राम सभा एक गांव में सभी पंजीकृत मतदाताओं का एक निकाय है और इसका कोई मुखिया नहीं होता। सरपंच ग्राम पंचायत का नेता होता है, ग्राम सभा का नहीं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to be a member of a Panchayat?",
+        "question_hi": "पंचायत के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "21 years",
+        "A_hi": "21 वर्ष",
+        "B_en": "25 years",
+        "B_hi": "25 वर्ष",
+        "C_en": "18 years",
+        "C_hi": "18 वर्ष",
+        "D_en": "30 years",
+        "D_hi": "30 वर्ष",
+        "answer": "C",
+        "explanation_en": "The minimum age required to be a member of a Panchayat is 18 years as per the 73rd Amendment.",
+        "explanation_hi": "73वें संशोधन के अनुसार पंचायत के सदस्य बनने के लिए न्यूनतम आयु 18 वर्ष है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the State Election Commission?",
+        "question_hi": "निम्नलिखित में से कौन-सा राज्य चुनाव आयोग का कार्य नहीं है?",
+        "A_en": "Conducting Panchayat elections",
+        "A_hi": "पंचायत चुनावों का आयोजन करना",
+        "B_en": "Conducting Lok Sabha elections",
+        "B_hi": "लोक सभा चुनावों का आयोजन क
