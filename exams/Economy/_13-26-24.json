@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP at current prices",
+"question_en": "What is the Gross Domestic Product (GDP) of India in 2020-21 at current prices?",
+"question_hi": "2020-21 में भारत का ग्रॉस अंडिया (GDP) क्या था?",
+"A_en": "Rs. 241.35 trillion",
+"A_hi": "रूसलेम 241,350,000,000,000 (रूसलेम)",
+"B_en": "Rs. 239.59 trillion",
+"B_hi": "रूसलेम 239,590,000,000,000 (रूसलेम)",
+"C_en": "Rs. 245.5 trillion",
+"C_hi": "रूसलेम 245,500,000,000,000 (रूसलेम)",
+"D_en": "Rs. 240.2 trillion",
+"D_hi": "रूसलेम 240,200,000,000,000 (रूसलेम)",
+"answer": "B",
+"explanation_en": "The Gross Domestic Product (GDP) of India in 2020-21 was around Rs. 239.59 trillion (in روبية الهند).",
+"explanation_hi": "India's GDP in 2020-21 was approximately Rs. 239.59 trillion (in روبية الهند).",
+"explanation_ar": "بلغ الناتج المحلي الإجمالي (GDP) للهند في الفترة من 2020-21 حوالي Rs. 239,590,000,000,000 (بعملة الروبية الهندية).",
+}
