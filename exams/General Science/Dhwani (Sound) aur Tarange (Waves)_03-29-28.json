@@ -1,0 +1,144 @@
+<think>
+Okay, let's tackle this query. The user wants 10 high-quality MCQs on Sound and Waves for Rajasthan exams, SSC, and Railways. First, I need to recall the key concepts related to sound and waves. Topics like characteristics of sound (pitch, loudness, quality), types of waves (mechanical vs electromagnetic), speed of sound in different mediums, echo, resonance, Doppler effect, and wave properties like amplitude, frequency, wavelength.
+
+Next, I have to present each question in both Hindi and English. The options also need to be in both languages. Ensuring the difficulty level is appropriate for general science exams. Let me start with basic questions first. For example, the first question could be about the SI unit of frequency. The answer is Hertz, which is straightforward.
+
+Then, moving to the nature of sound waves. They are mechanical and longitudinal, which is a common point of confusion with electromagnetic waves. Next, factors affecting loudness—amplitude is correct. The speed of sound in different mediums: solid vs gas. Echo conditions require the minimum distance from the source. 
+
+Resonance example, like tuning a radio. Doppler effect in sound, such as a moving ambulance. The relationship between wavelength and frequency (inversely proportional). Human hearing range (20 Hz to 20,000 Hz). Lastly, a question on infrasound and ultrasound, which are below and above the human hearing range.
+
+I need to make sure the explanations are concise in both languages. Also, check for any possible errors in translation. Let me structure each question with the required JSON format, ensuring the answer is correctly marked and explanations are accurate. Let me count the questions to confirm there are 10 and that they cover a good range of the topic without overlapping too much. That should cover it.
+</think>
+
+[
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "Which of the following is the SI unit of frequency?",
+        "question_hi": "निम्न में से कौन आवृत्ति की SI इकाई है?",
+        "A_en": "Hertz", "A_hi": "हर्ट्ज़",
+        "B_en": "Meter", "B_hi": "मीटर",
+        "C_en": "Second", "C_hi": "सेकंड",
+        "D_en": "Newton", "D_hi": "न्यूटन",
+        "answer": "A",
+        "explanation_en": "Hertz is the SI unit of frequency, defined as cycles per second.",
+        "explanation_hi": "हर्ट्ज़ आवृत्ति की SI इकाई है, जिसकी परिभाषा प्रति सेकंड चक्रों के रूप में की गई है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "Sound waves are examples of which type of wave?",
+        "question_hi": "ध्वनि तरंगें किस प्रकार की तरंगों के उदाहरण हैं?",
+        "A_en": "Transverse waves", "A_hi": "अनुप्रस्थ तरंगें",
+        "B_en": "Longitudinal waves", "B_hi": "अनुदैर्घ्य तरंगें",
+        "C_en": "Electromagnetic waves", "C_hi": "विद्युत चुम्बकीय तरंगें",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "B",
+        "explanation_en": "Sound waves are longitudinal waves where particles vibrate parallel to the direction of wave propagation.",
+        "explanation_hi": "ध्वनि तरंगें अनुदैर्घ्य तरंगें होती हैं जहाँ कण तरंग प्रसार की दिशा के समानांतर कंपित होते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "What determines the loudness of a sound?",
+        "question_hi": "एक ध्वनि की प्रबलता निर्धारित करने वाला कारक क्या है?",
+        "A_en": "Frequency", "A_hi": "आवृत्ति",
+        "B_en": "Amplitude", "B_hi": "आयाम",
+        "C_en": "Wavelength", "C_hi": "तरंगदैर्घ्य",
+        "D_en": "Speed", "D_hi": "गति",
+        "answer": "B",
+        "explanation_en": "Loudness is determined by the amplitude of the sound wave.",
+        "explanation_hi": "प्रबलता ध्वनि तरंग के आयाम द्वारा निर्धारित होती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "In which medium does sound travel fastest?",
+        "question_hi": "ध्वनि किस माध्यम में सबसे तेज़ यात्रा करती है?",
+        "A_en": "Air", "A_hi": "हवा",
+        "B_en": "Water", "B_hi": "पानी",
+        "C_en": "Steel", "C_hi": "इस्पात",
+        "D_en": "Vacuum", "D_hi": "शून्यता",
+        "answer": "C",
+        "explanation_en": "Sound travels fastest in solids like steel due to close packing of particles.",
+        "explanation_hi": "ठोसों (जैसे इस्पात) में कणों के घने पैकिंग के कारण ध्वनि सबसे तेज़ यात्रा करती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "What is the minimum distance required to hear an echo clearly?",
+        "question_hi": "एक प्रतार्थना (प्रतिध्वनि) को स्पष्ट रूप से सुनाने के लिए न्यूनतम दूरी क्या है?",
+        "A_en": "10 meters", "A_hi": "10 मीटर",
+        "B_en": "17 meters", "B_hi": "17 मीटर",
+        "C_en": "34 meters", "C_hi": "34 मीटर",
+        "D_en": "50 meters", "D_hi": "50 मीटर",
+        "answer": "B",
+        "explanation_en": "The minimum distance required is approximately 17 meters to allow the reflected sound to reach the ear after a noticeable time delay.",
+        "explanation_hi": "प्रतिध्वनि को स्पष्ट रूप से सुनाने के लिए लगभग 17 मीटर की न्यूनतम दूरी आवश्यक है ताकि परावर्तित ध्वनि कान तक पहुँचे।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "Which phenomenon explains why the pitch of a sound changes when its source is moving towards an observer?",
+        "question_hi": "जब एक ध्वनि के स्रोत का एक प्रेक्षक की ओर गति होती है तो इसके अवर्ण में क्या परिवर्तन होता है, इस परिघटना को क्या समझाता है?",
+        "A_en": "Resonance", "A_hi": "अनुनाद",
+        "B_en": "Doppler effect", "B_hi": "डॉप्लर प्रभाव",
+        "C_en": "Refraction", "C_hi": "अपवर्तन",
+        "D_en": "Diffraction", "D_hi": "विवर्तन",
+        "answer": "B",
+        "explanation_en": "The Doppler effect describes the change in pitch due to the relative motion between the source and observer.",
+        "explanation_hi": "डॉप्लर प्रभाव स्रोत और प्रेक्षक के बीच सापेक्ष गति के कारण अवर्ण में परिवर्तन का वर्णन करता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "What is the frequency range of audible sound for humans?",
+        "question_hi": "मनुष्यों के लिए सुनाई देने वाली ध्वनि की आवृत्ति श्रेणी क्या है?",
+        "A_en": "20 Hz to 20,000 Hz", "A_hi": "20 हर्ट्ज़ से 20,000 हर्ट्ज़ तक",
+        "B_en": "10 Hz to 10,000 Hz", "B_hi": "10 हर्ट्ज़ से 10,000 हर्ट्ज़ तक",
+        "C_en": "50 Hz to 50,000 Hz", "C_hi": "50 हर्ट्ज़ से 50,000 हर्ट्ज़ तक",
+        "D_en": "100 Hz to 100,000 Hz", "D_hi": "100 हर्ट्ज़ से 1,00,000 हर्ट्ज़ तक",
+        "answer": "A",
+        "explanation_en": "Human ears can perceive sounds in the range of 20 Hz to 20,000 Hz.",
+        "explanation_hi": "मानव कान 20 हर्ट्ज़ से 20,000 हर्ट्ज़ की श्रेणी में ध्वनियों को सुन सकते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "Which of the following is an example of resonance?",
+        "question_hi": "निम्न में से कौन अनुनाद का उदाहरण है?",
+        "A_en": "A tuning fork vibrating when a nearby fork is struck", "A_hi": "एक स्वरित्र जो जब निकटवर्ती स्वरित्र को मारा जाता है तो कंपित होता है",
+        "B_en": "An echo in a large room", "B_hi": "बड़े कमरे में प्रतार्थना",
+        "C_en": "Light bending around a corner", "C_hi": "कोने के चारों ओर प्रकाश का झुकाव",
+        "D_en": "Sound traveling faster in water", "D_hi": "पानी में ध्वनि की तेज़ यात्रा",
+        "answer": "A",
+        "explanation_en": "Resonance occurs when an object vibrates at the same frequency as another object, amplifying the sound.",
+        "explanation_hi": "जब एक वस्तु दूसरी वस्तु की समान आवृत्ति पर कंपित होती है, तो अनुनाद होता है, जिससे ध्वनि बढ़ जाती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "What is the relationship between the wavelength and frequency of a sound wave?",
+        "question_hi": "एक ध्वनि तरंग की तरंगदैर्घ्य और आवृत्ति के बीच क्या संबंध है?",
+        "A_en": "They are directly proportional", "A_hi": "इनके सीधे आनुपातिक होते हैं",
+        "B_en": "They are inversely proportional", "B_hi": "इनके विलोमनुपाती होते हैं",
+        "C_en": "No relationship", "C_hi": "कोई संबंध नहीं",
+        "D_en": "They are equal", "D_hi": "इनके बराबर होते हैं",
+        "answer": "B",
+        "explanation_en": "Wavelength and frequency are inversely proportional (v = fλ).",
+        "explanation_hi": "तरंगदैर्घ्य और आवृत्ति विलोमनुपाती होते हैं (v = fλ)।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Dhwani (Sound) aur Tarange (Waves)",
+        "question_en": "Which type of sound has a frequency below 20 Hz?",
+        "question_hi": "कौन से प्रकार की ध्वनि में 20 हर्ट्ज़ के नीचे की आवृत्ति होती है?",
+        "A_en": "Infrasound", "A_hi": "अतिसूक्ष्मध्वनि",
+        "B_en": "Ultrasonic sound", "B_hi": "अल्ट्रासोनिक ध्वनि",
+        "C_en": "Audible sound", "C_hi": "श्रव्य ध्वनि",
+        "D_en": "X-ray sound", "D_hi": "एक्स-रे ध्वनि",
+        "answer": "A",
+        "explanation_en": "Infrasound refers to sound waves with frequencies below the human hearing range.",
+        "explanation_hi": "अतिसूक्ष्मध्वनि मनुष्य की श्रव्य सीमा से नीचे आवृत्ति के ध्वनि तरंगों को इंगित करता है।"
+    }
+]
