@@ -1,0 +1,216 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions (MCQs) on GST (Goods and Services Tax) in Economics. The questions should cover both English and Hindi, following the given JSON structure. Let's start by recalling key concepts about GST, like its introduction, structure, impact on businesses, taxation before GST, etc.
+
+First, I should list key topics under GST. Topics could include: introduction of GST, its structure (CGST, SGST, IGST), benefits, challenges, tax rates, impact on economy, comparison with old tax system, compliance requirements, exemptions, etc. 
+
+For each question, I need two versions: English and Hindi. The options should also be in both languages. The answer should be one letter from A to D, and explanations in both languages. 
+
+Let me think of the first question. Maybe about the implementation date of GST in India. The correct answer is July 1, 2017. The options could include dates like 2014, 2015, and a year after, like 2019. 
+
+Second question could be about the different types of GST taxes. CGST, SGST, IGST, and maybe UGST as an option. The correct answer is the first three. 
+
+Third question might ask about the primary objective of GST. Options could be reducing tax burden, simplifying tax structure, increasing government revenue, or reducing corruption. The answer is simplifying the tax structure. 
+
+Fourth question: What is the rate for essential goods under GST? Maybe options like 0%, 5%, 12%, etc. The correct answer is 0%. 
+
+Fifth question: Impact of GST on small businesses. Options could be increased compliance burden, reduced tax burden, no impact, or increased competition. The answer is increased compliance. 
+
+Sixth question: What does IGST stand for? Options include different acronyms, correct one is Integrated Goods and Services Tax. 
+
+Seventh question: Which sector saw a significant increase in tax collection after GST? Maybe manufacturing, agriculture, real estate, or services. The answer is manufacturing. 
+
+Eighth question: What is a major challenge in the implementation of GST? Options could be complexity in tax slabs, lack of awareness, high compliance costs, or all of the above. Correct answer is all of the above. 
+
+Ninth question: Which of the following is not a tax subsumed under GST? Options include excise duty, service tax, customs duty, or wealth tax. The answer is wealth tax. 
+
+Tenth question: How many tax slabs are there in GST? Options like 4, 5, 6, or 7. The correct answer is 5. 
+
+Now, translating all these into Hindi. Need to ensure that the translations are accurate and match the English versions. For explanations, they should clearly state why the answer is correct. 
+
+Check the JSON structure example provided. Each question must have subject, topic, question in both languages, options, answer, and explanations. Ensure the answer is in the correct format (A, B, C, D). 
+
+Wait, the example shows the answer as a letter. So for each question, the answer field should be one of these letters. Make sure the options are correctly labeled. 
+
+Also, ensure that the difficulty level is set for Economics. So questions should test understanding of concepts, not just recall. 
+
+Need to verify facts for accuracy. For example, the implementation date of GST was indeed July 1, 2017. The rate for essential goods is 0%. The correct taxes under GST are CGST, SGST, IGST. The main objective was to create a unified tax system. 
+
+Double-check each question to avoid any factual errors. Maybe the tax slabs in GST are 0%, 5%, 12%, 18%, 28%, which makes five slabs. 
+
+Also, the explanation for each answer should be concise but clear. 
+
+Make sure that the JSON format is strictly followed, with all required keys present and correct. No extra text or formatting. 
+
+Finally, review all questions to ensure they are clear, options are correct, and there's no repetition. Each question should cover a different aspect of GST to provide a comprehensive quiz.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "When was GST implemented in India?",
+    "question_hi": "भारत में GST कब लागू किया गया था?",
+    "A_en": "July 1, 2017",
+    "A_hi": "1 जुलाई, 2017",
+    "B_en": "October 1, 2017",
+    "B_hi": "1 अक्टूबर, 2017",
+    "C_en": "April 1, 2018",
+    "C_hi": "1 अप्रैल, 2018",
+    "D_en": "January 1, 2019",
+    "D_hi": "1 जनवरी, 2019",
+    "answer": "A",
+    "explanation_en": "GST was implemented in India on July 1, 2017, replacing the previous indirect tax system.",
+    "explanation_hi": "भारत में GST को 1 जुलाई 2017 को लागू किया गया था, जो पिछली अप्रत्यक्ष कर प्रणाली को बदल दिया।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "Which of the following taxes are subsumed under GST?",
+    "question_hi": "निम्नलिखित में से कौन से कर GST के अंतर्गत समाहित हैं?",
+    "A_en": "Excise Duty and Service Tax",
+    "A_hi": "उत्पाद शुल्क और सेवा कर",
+    "B_en": "VAT and Sales Tax",
+    "B_hi": "VAT और बिक्री कर",
+    "C_en": "All of the above",
+    "C_hi": "उपरोक्त सभी",
+    "D_en": "None of the above",
+    "D_hi": "इनमें से कोई नहीं",
+    "answer": "C",
+    "explanation_en": "GST subsumed multiple taxes including Excise Duty, Service Tax, VAT, and Sales Tax.",
+    "explanation_hi": "GST में उत्पाद शुल्क, सेवा कर, VAT और बिक्री कर सभी शामिल कर लिए गए थे।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "What is the primary objective of GST?",
+    "question_hi": "GST का मुख्य उद्देश्य क्या है?",
+    "A_en": "To increase tax burden on consumers",
+    "A_hi": "उपभोक्ताओं पर कर बोझ बढ़ाना",
+    "B_en": "To simplify the tax structure",
+    "B_hi": "कर ढांचा सरल बनाना",
+    "C_en": "To reduce the number of tax slabs",
+    "C_hi": "कर स्लैब की संख्या कम करना",
+    "D_en": "To eliminate tax exemptions",
+    "D_hi": "कर छूट को समाप्त करना",
+    "answer": "B",
+    "explanation_en": "The primary objective of GST is to create a unified, simplified, and transparent tax system.",
+    "explanation_hi": "GST का मुख्य उद्देश्य एक एकीकृत, सरल और आत्मनिर्भर कर प्रणाली बनाना है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "What is the tax rate for essential goods under GST?",
+    "question_hi": "GST के तहत आवश्यक वस्तुओं पर कितना कर लगता है?",
+    "A_en": "0%",
+    "A_hi": "0%",
+    "B_en": "5%",
+    "B_hi": "5%",
+    "C_en": "12%",
+    "C_hi": "12%",
+    "D_en": "28%",
+    "D_hi": "28%",
+    "answer": "A",
+    "explanation_en": "Essential goods like food grains, milk, and vegetables are taxed at 0% under GST.",
+    "explanation_hi": "प्रमुख वस्तुएं जैसे अनाज, दूध और सब्जियां GST के अंतर्गत 0% कर लगाए जाते हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "What is the full form of IGST?",
+    "question_hi": "IGST का पूर्ण रूप क्या है?",
+    "A_en": "Indian Goods and Services Tax",
+    "A_hi": "भारतीय वस्तु और सेवा कर",
+    "B_en": "Integrated Goods and Services Tax",
+    "B_hi": "एकीकृत वस्तु और सेवा कर",
+    "C_en": "International Goods and Services Tax",
+    "C_hi": "अंतरराष्ट्रीय वस्तु और सेवा कर",
+    "D_en": "Inclusive Goods and Services Tax",
+    "D_hi": "समाहित वस्तु और सेवा कर",
+    "answer": "B",
+    "explanation_en": "IGST stands for Integrated Goods and Services Tax, applied on inter-state transactions.",
+    "explanation_hi": "IGST का पूर्ण रूप एकीकृत वस्तु और सेवा कर है, जो अंतर-राज्य लेनदेन पर लागू होता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "Which of the following is not a challenge in GST implementation?",
+    "question_hi": "निम्नलिखित में से कौन GST के क्रियान्वयन में चुनौती नहीं है?",
+    "A_en": "High compliance costs for small businesses",
+    "A_hi": "छोटे व्यवसायों के लिए उच्च अनुपालन लागत",
+    "B_en": "Lack of digital infrastructure",
+    "B_hi": "डिजिटल बुनियादी ढांचे की कमी",
+    "C_en": "Simplified tax filing process",
+    "C_hi": "सरल कर जमा करने की प्रक्रिया",
+    "D_en": "Complex tax slabs",
+    "D_hi": "जटिल कर स्लैब",
+    "answer": "C",
+    "explanation_en": "GST simplified tax filing, making it easier for businesses to comply.",
+    "explanation_hi": "GST ने कर जमा करने की प्रक्रिया को सरल बना दिया, जिससे व्यवसायों के लिए अनुपालन आसान हुआ।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Text): Avdharna aur Prabhav",
+    "question_en": "How many central tax components are there in GST?",
+    "question_hi": "GST में केंद्रीय कर घटकों की संख्या कितनी है?",
+    "A_en": "1",
+    "A_hi": "1",
+    "B_en": "2",
+    "B_hi": "2",
+    "C_en": "3",
+    "C_hi": "3",
+    "D_en": "4",
+    "D_hi": "4",
+    "answer": "C",
+    "explanation_en": "GST has three main components: CGST (Central GST), SGST (State GST), and IGST (Integrated GST).",
+    "explanation_hi": "GST में तीन मुख्य घटक हैं: CGST (केंद्रीय GST), SGST (राज्य GST) और IGST (एकीकृत GST)।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "What is the standard tax rate for luxury goods under GST?",
+    "question_hi": "GST के अंतर्गत लक्जरी वस्तुओं पर मानक कर दर क्या है?",
+    "A_en": "5%",
+    "A_hi": "5%",
+    "B_en": "12%",
+    "B_hi": "12%",
+    "C_en": "18%",
+    "C_hi": "18%",
+    "D_en": "28%",
+    "D_hi": "28%",
+    "answer": "D",
+    "explanation_en": "Luxury goods like cars and premium alcohol are taxed at 28% under GST.",
+    "explanation_hi": "लक्जरी वस्तुएं जैसे कारें और प्रीमियम शराब GST के अंतर्गत 28% कर लगाए जाते हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "Which of the following is a benefit of GST?",
+    "question_hi": "निम्नलिखित में से कौन GST का लाभ है?",
+    "A_en": "Increased tax burden on consumers",
+    "A_hi": "उपभोक्ताओं पर अधिक कर बोझ",
+    "B_en": "Elimination of tax cascading",
+    "B_hi": "कर अतिचढ़ाव का समाप्त होना",
+    "C_en": "Reduced government revenue",
+    "C_hi": "कम सरकारी आय",
+    "D_en": "Increased compliance costs",
+    "D_hi": "उच्च अनुपालन लागत",
+    "answer": "B",
+    "explanation_en": "GST eliminated the cascading effect of taxes, reducing the overall tax burden on goods and services.",
+    "explanation_hi": "GST ने करों के अतिचढ़ाव को समाप्त कर दिया, जिससे वस्तुओं और सेवाओं पर कुल कर बोझ कम हुआ।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "GST (Goods and Services Tax): Avdharna aur Prabhav",
+    "question_en": "How many tax slabs are there in the GST structure?",
+    "question_hi": "GST ढांचे में कितने कर स्लैब हैं?",
+    "A_en": "3",
+    "A_hi": "3",
+    "B_en": "4",
+    "B_hi": "4",
+    "C_en": "5",
+    "C_hi": "5",
+    "D_en": "6",
+    "D_hi": "6",
+    "answer": "C",
+    "explanation_en": "The GST structure has five tax slabs: 0%, 5%, 12%, 18%, and 28%.",
+    "explanation_hi": "GST ढांचे में पांच कर स्लैब हैं: 0%, 5%, 12%, 18%, और 28
