@@ -1,0 +1,150 @@
+<think>
+Okay, let's tackle this task. I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments. The user wants the questions in both Hindi and English, following a specific JSON format.
+
+First, I should recall the key points of the 73rd and 74th Amendments. The 73rd Amendment is about Panchayati Raj, introducing three-tier systems at the village, intermediate, and district levels. It mandates elections, reservations for SCs, STs, and women, and defines powers like land reform and social justice. The 74th Amendment deals with urban local governance, establishing municipalities with similar structural elements.
+
+Next, I need to structure each question with two languages. The subjects should be Indian Polity. Each question must have four options (A to D), with correct answers and explanations in both languages. The difficulty should be moderate, suitable for exams like LDC, CET, RAS, etc.
+
+Let me brainstorm possible questions. Start with the constitutional amendment years. Then move to tiers in both systems, reservation details, powers conferred, constitutional provisions, and roles of various bodies. Also include differences between the two amendments and key articles involved.
+
+I need to ensure that the options are plausible but distinct. For example, for the year of the 73rd Amendment, options could be 1992, 1989, etc. For reservations, mention percentages accurately like 33% for women. Check for correct articles, like Article 243 for Panchayats.
+
+I should also verify facts. For example, the 74th Amendment was in 1992 as well. The Gram Sabha's role is defined under the 73rd Amendment. The Municipal Councils under 74th deal with urban areas.
+
+Make sure explanations are concise and explain why the correct answer is right and not the others. Avoid any technical jargon but stay precise. Double-check all data for accuracy to avoid any mistakes that could confuse students.
+
+Finally, format everything into the required JSON structure, ensuring proper Hindi and English translations for each part. Check for consistency in the structure and that all fields are filled correctly. No markdown, just raw JSON. Align the answers correctly and ensure explanations are clear in both languages.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the three-tier Panchayati Raj system?",
+        "question_hi": "कौन सा संवैधानिक संशोधन तीन-स्तरीय पंचायती राज प्रणाली प्रस्तुत करता है?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+        "C_en": "71st Amendment", "C_hi": "71वां संशोधन",
+        "D_en": "72nd Amendment", "D_hi": "72वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act of 1992 established a three-tier Panchayati Raj system at the village, intermediate, and district levels.",
+        "explanation_hi": "1992 के 73वें संवैधानिक संशोधन अध्यादेश ने गांव, मध्यवर्ती और जिला स्तरों पर तीन-स्तरीय पंचायती राज प्रणाली स्थापित की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age to contest in a Panchayat election?",
+        "question_hi": "पंचायत चुनाव में निर्वाचित होने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "21 years", "A_hi": "21 वर्ष",
+        "B_en": "25 years", "B_hi": "25 वर्ष",
+        "C_en": "18 years", "C_hi": "18 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates that the minimum age to contest in a Panchayat election is 21 years.",
+        "explanation_hi": "73वें संशोधन में पंचायत चुनाव में निर्वाचित होने के लिए न्यूनतम आयु 21 वर्ष निर्धारित की गई है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Constitution provides for the establishment of Gram Sabha?",
+        "question_hi": "संविधान के किस अनुच्छेद में ग्राम सभा की स्थापना का प्रावधान है?",
+        "A_en": "Article 243", "A_hi": "अनुच्छेद 243",
+        "B_en": "Article 244", "B_hi": "अनुच्छेद 244",
+        "C_en": "Article 243A", "C_hi": "अनुच्छेद 243ए",
+        "D_en": "Article 243B", "D_hi": "अनुच्छेद 243बी",
+        "answer": "C",
+        "explanation_en": "Article 243A of the Constitution specifies the establishment of Gram Sabha as a permanent institution in every village.",
+        "explanation_hi": "संविधान के अनुच्छेद 243ए में प्रत्येक गांव में ग्राम सभा की स्थापना के लिए निर्धारित किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats are reserved for women in Panchayats?",
+        "question_hi": "पंचायतों में महिलाओं के लिए कितना प्रतिशत सीट आरक्षित है?",
+        "A_en": "30%", "A_hi": "30%",
+        "B_en": "33%", "B_hi": "33%",
+        "C_en": "40%", "C_hi": "40%",
+        "D_en": "50%", "D_hi": "50%",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment reserves at least one-third of all seats in Panchayats for women.",
+        "explanation_hi": "73वें संशोधन में पंचायतों में सभी सीटों के कम से कम एक-तिहाई भाग को महिलाओं के लिए आरक्षित किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a power conferred on Panchayats under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सी 73वें संशोधन के तहत पंचायतों पर अधिकार नहीं है?",
+        "A_en": "Land reform", "A_hi": "भूमि सुधार",
+        "B_en": "Social justice", "B_hi": "सामाजिक न्याय",
+        "C_en": "Urban development", "C_hi": "शहरी विकास",
+        "D_en": "Economic development", "D_hi": "आर्थिक विकास",
+        "answer": "C",
+        "explanation_en": "Urban development is the responsibility of municipalities under the 74th Amendment, not Panchayats.",
+        "explanation_hi": "शहरी विकास 74वें संशोधन के तहत पंचायतों की जिम्मेदारी नहीं है, बल्कि नगरपालिकाओं की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of a Panchayat?",
+        "question_hi": "एक पंचायत का कार्यकाल कितना होता है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment mandates a five-year term for Panchayats, with elections held periodically.",
+        "explanation_hi": "73वें संशोधन में पंचायतों के लिए पांच वर्ष का कार्यकाल निर्धारित किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which amendment introduced the concept of Municipal Councils?",
+        "question_hi": "किस संशोधन ने नगर परिषद की अवधारणा पेश की?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+        "C_en": "75th Amendment", "C_hi": "75वां संशोधन",
+        "D_en": "76th Amendment", "D_hi": "76वां संशोधन",
+        "answer": "B",
+        "explanation_en": "The 74th Constitutional Amendment Act of 1992 established Municipal Councils for urban local governance.",
+        "explanation_hi": "1992 के 74वें संवैधानिक संशोधन अध्यादेश ने शहरी स्थानीय शासन के लिए नगर परिषद की स्थापना की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum population for a town to be considered a municipality under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत नगरपालिका माने जाने के लिए शहर की न्यूनतम जनसंख्या कितनी होनी चाहिए?",
+        "A_en": "10,000", "A_hi": "10,000",
+        "B_en": "15,000", "B_hi": "15,000",
+        "C_en": "20,000", "C_hi": "20,000",
+        "D_en": "25,000", "D_hi": "25,000",
+        "answer": "A",
+        "explanation_en": "The 74th Amendment defines a municipality for towns with a population of at least 10,000.",
+        "explanation_hi": "74वें संशोधन में नगरपालिका के लिए न्यूनतम 10,000 जनसंख्या वाले शहरों को परिभाषित किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of a Municipality under the 74th Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सा 74वें संशोधन के तहत नगरपालिका का कार्य नहीं है?",
+        "A_en": "Urban planning", "A_hi": "शहरी योजना",
+        "B_en": "Public health", "B_hi": "सार्वजनिक स्वास्थ्य",
+        "C_en": "Agricultural development", "C_hi": "कृषि विकास",
+        "D_en": "Water supply", "D_hi": "पानी की आपूर्ति",
+        "answer": "C",
+        "explanation_en": "Agricultural development is primarily the domain of Panchayats, not Municipalities.",
+        "explanation_hi": "कृषि विकास मुख्य रूप से पंचायतों के शासन के अंतर्गत है, नगरपालिकाओं का नहीं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the maximum age limit for the head of a Panchayat?",
+        "question_hi": "पंचायत के प्रमुख के लिए अधिकतम आयु सीमा क्या है?",
+        "A_en": "50 years", "A_hi": "50 वर्ष",
+        "B_en": "55 years", "B_hi": "55 वर्ष",
+        "C_en": "60 years", "C_hi": "60 वर्ष",
+        "D_en": "65 years", "D_hi": "65 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment does not specify a maximum age limit for the head of a Panchayat.",
+        "explanation_hi": "73वें संशोधन में पंचायत के प्रमुख के लिए अधिकतम आयु सीमा निर्धारित नहीं की गई है।"
+    }
+]
