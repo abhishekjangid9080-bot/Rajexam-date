@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary sector in India?",
+"question_hi": "भारत में प्रधानी कार्यक्रम क्या है?",
+"A_en": "Agriculture", "A_hi": "क़रीबी",
+"B_en": "Industry", "B_hi": "इंडस्ट्री",
+"C_en": "Services", "C_hi": "सेवाएं",
+"D_en": "Mining", "D_hi": "खेती",
+"answer": "A",
+"explanation_en": "In India, the primary sector represents agriculture and allied activities.\n(National Biodiversity Act 2002 defines agriculture as \"any activity and/or value addition through processes involving interconversion of natural resources into goods and services for meeting human wants\")",
+"explanation_hi": "भारत में प्रधानी कार्यक्रम क्या है?\n(नागरिक संतुलकरण के अनुसार, भारत की प्रधानी कार्यक्रम मैंने मंत्री की विभाग है।\nइसकी योजने के अनुसार, भारत की प्रधानी कार्यक्रम मैंने मंत्री की विभाग है।",
+"D": "भारत में संतुलकर्षण की विभाग है।\nइसको स्पष्ट करें।",
+"A": "भारत में संतुलकर्षण की विभाग है।\nइसको स्पष्ट करें।",
+"B": "भारत में संतुलकर्षण की विभाग है।\nइसको स्पष्ट करें।",
+"C": "भारत में संतुलकर्षण की विभाग है।\nइसको स्पष्ट करें।",
+"E": "भारत में संतुलकर्षण की विभाग है।\nइसको स्पष्ट करें।"
+}
+]
