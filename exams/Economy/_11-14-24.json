@@ -1,0 +1,16 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary product of Udaipur?",
+"question_hi": "उदयपुर का मुख्य उपयोग क्या है।",
+"A_en": "Textiles", "A_hi": "टेक्स्टिकल्स",
+"B_en": "Agriculture", "B_hi": "कार्यालय",
+"C_en": "Mineral Resources", "C_hi": "समूह मिनरेल रेसर्स",
+"D_en": "Museum", "D_hi": "मुस्यादार्थ",
+"answer": "B",
+"explanation_en": "Udaipur is well-known for its agricultural products and industries.",
+"explanation_hi": "उदयपुर के कार्यालय के विकार और इंडीज़न करने की जानकारी है।",
+"explanation_hi": "उदयपुर का विकार और इंडीज़न करने की जानकारी है।"
+}
+]
