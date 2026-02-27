@@ -1,0 +1,166 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Urban Self-Governance (73rd & 74th Amendments) in Indian Polity. Let me start by recalling the key points covered by these amendments.
+
+The 73rd Amendment Act, 1992 deals with Panchayati Raj institutions. It introduced a three-tier structure: Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level. The 74th Amendment Act, 1992 is about urban local governments, establishing Municipal Corporations, Municipal Councils, and Nagar Panchayats. Both amendments reserve seats for Scheduled Castes, Scheduled Tribes, and women, with specific provisions for their representation.
+
+Now, each question should be in Hindi and English. The options need to be in both languages as well. Let me start by listing possible questions.
+
+1. The 73rd and 74th Amendments are related to which of the following? The answer would be Panchayati Raj and Urban Self-Governance.
+
+2. Reservation of seats for SCs and STs is mandatory in which of these bodies? The answer would be both Panchayats and Municipalities, as per the amendments.
+
+3. The minimum age required to contest for a seat in a Panchayat is? The 73rd Amendment sets it at 25 years for Panchayats and 25 for urban bodies under 74th, but wait, for Panchayats it's 25 for members and 30 for Presidents/Chairpersons. Wait, need to confirm. The 73rd Amendment Act, 1992: The minimum age for contesting elections to a Panchayat is 25 years for any office except the Chairperson, who must be at least 30 years. For urban bodies under 74th, the minimum age is 25 for any office except the Mayor/Councilor, which might be similar. So a question could be about the age for Panchayat members.
+
+4. What is the tenure of Panchayats and Municipalities as per these amendments? It's five years.
+
+5. Which of the following is not a function of a Panchayat? The answer would be something like lawmaking, as Panchayats have limited functions.
+
+6. The 73rd Amendment Act was passed in which year? 1992.
+
+7. The 74th Amendment Act was passed in the same year as 73rd, 1992.
+
+8. How many tiers are there in the Panchayati Raj system? Three: Gram Panchayat, Panchayat Samiti, Zila Parishad.
+
+9. The chairperson of a Zila Parishad is known as? It's the District Panchayat President or similar, but the exact term might be District Panchayat Chairperson.
+
+10. The reservation for women in Panchayats and Municipalities is at least? 1/3rd of the seats.
+
+Now, I need to structure each question with options in both languages, the correct answer, and explanations. Let me check each point for accuracy. For example, the reservation for women is indeed at least one-third in both Panchayats and Municipalities per the amendments. The tenure is five years unless sooner dissolved. The three-tier structure is correct. The passing year is 1992 for both. The minimum age for contesting is 25 for Panchayats (excluding Chairperson) and similar for urban bodies. The chairperson of Zila Parishad might be called the Pramukh or President; need to confirm. Also, the functions of Panchayats include planning, implementation, and execution of development schemes, but not lawmaking.
+
+Let me also ensure that the options are plausible and not too obvious. For example, in the question about the number of tiers, options could include two, three, four, five. For the reservation, options might be 25%, 33%, 50%, etc. I need to make sure that the explanations are concise and accurate, and that the options in Hindi are correctly translated without any translation errors.
+</think>
+
+```json
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a provision of the 73rd Constitutional Amendment Act?",
+    "question_hi": "निम्नलिखित में से कौन सा 73वें संविधान संशोधन अधिनियम का प्रावधान नहीं है?",
+    "A_en": "Three-tier system of Panchayati Raj",
+    "A_hi": "ग्रामीण स्वशासन की तीन स्तरीय प्रणाली",
+    "B_en": "Reservation of seats for SC/ST",
+    "B_hi": "एससी/एसटी के लिए सीटों का आरक्षण",
+    "C_en": "Minimum age for contesting elections is 25 years",
+    "C_hi": "चुनाव में भाग लेने की न्यूनतम आयु 25 वर्ष है",
+    "D_en": "Panchayats can make laws on fundamental rights",
+    "D_hi": "पंचायत अधिकारों के आधारभूत अधिकारों पर कानून बना सकती है",
+    "answer": "D",
+    "explanation_en": "The 73rd Amendment does not grant Panchayats the power to make laws on fundamental rights. Their functions are limited to rural development and governance.",
+    "explanation_hi": "73वें संशोधन के तहत पंचायतों को मौलिक अधिकारों पर कानून बनाने की शक्ति नहीं दी गई है। उनके कार्य ग्रामीण विकास और प्रशासन तक सीमित हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest elections to a Panchayat?",
+    "question_hi": "पंचायत चुनाव में भाग लेने के लिए आवश्यक न्यूनतम आयु क्या है?",
+    "A_en": "18 years",
+    "A_hi": "18 वर्ष",
+    "B_en": "21 years",
+    "B_hi": "21 वर्ष",
+    "C_en": "25 years",
+    "C_hi": "25 वर्ष",
+    "D_en": "30 years",
+    "D_hi": "30 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment Act sets the minimum age at 25 years for contesting Panchayat elections, except for the Chairperson who must be at least 30 years old.",
+    "explanation_hi": "73वें संशोधन अधिनियम में पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु 25 वर्ष निर्धारित की गई है, छायाची के लिए इसके अतिरिक्त कम से कम 30 वर्ष आयु आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is responsible for the implementation of the 73rd and 74th Amendments?",
+    "question_hi": "73वें और 74वें संशोधनों के कार्यान्वयन के लिए कौन सा निकाय उत्तरदायी है?",
+    "A_en": "State Governments",
+    "A_hi": "राज्य सरकारें",
+    "B_en": "Central Government",
+    "B_hi": "केंद्र सरकार",
+    "C_en": "Panchayat and Municipal Councils",
+    "C_hi": "पंचायत और नगर परिषद",
+    "D_en": "Gram Sabha",
+    "D_hi": "ग्राम सभा",
+    "answer": "A",
+    "explanation_en": "The implementation of the 73rd and 74th Amendments is the responsibility of the respective State Governments, as per constitutional provisions.",
+    "explanation_hi": "73वें और 74वें संशोधनों के कार्यान्वयन की जिम्मेदारी संविधान के अनुसार विभिन्न राज्य सरकारों की है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the reservation for women in Panchayats and Municipalities?",
+    "question_hi": "पंचायतों और नगर परिषदों में महिलाओं के लिए आरक्षण क्या है?",
+    "A_en": "25%",
+    "A_hi": "25%",
+    "B_en": "33%",
+    "B_hi": "33%",
+    "C_en": "50%",
+    "C_hi": "50%",
+    "D_en": "75%",
+    "D_hi": "75%",
+    "answer": "B",
+    "explanation_en": "The 73rd and 74th Amendments mandate a minimum reservation of one-third (33%) of seats for women in Panchayats and Municipalities.",
+    "explanation_hi": "73वें और 74वें संशोधन महिलाओं के लिए पंचायतों और नगर परिषदों में सीटों के एक-तिहाई (33%) आरक्षण करने की आवश्यकता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a function of a Zila Parishad?",
+    "question_hi": "निम्नलिखित में से कौन सा जिला परिषद का कार्य है?",
+    "A_en": "Lawmaking for the district",
+    "A_hi": "जिला के लिए कानून बनाना",
+    "B_en": "Maintenance of public health and sanitation",
+    "B_hi": "सार्वजनिक स्वास्थ्य और स्वच्छता की देखरेख",
+    "C_en": "Administration of state judiciary",
+    "C_hi": "राज्य न्यायालय का प्रशासन",
+    "D_en": "Collection of central taxes",
+    "D_hi": "केंद्रीय कर की वसूली",
+    "answer": "B",
+    "explanation_en": "Zila Parishad is responsible for functions like public health, sanitation, and rural development, not lawmaking or tax collection.",
+    "explanation_hi": "जिला परिषद सार्वजनिक स्वास्थ्य, स्वच्छता और ग्रामीण विकास जैसे कार्यों के लिए उत्तरदायी है, कानून बनाने या कर वसूली के लिए नहीं है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "The 74th Amendment Act deals with the organization of which type of governance?",
+    "question_hi": "74वें संशोधन अधिनियम निम्नलिखित में से किस प्रकार के स्वशासन के संगठन के साथ निपटता है?",
+    "A_en": "Urban Local Self-Governance",
+    "A_hi": "शहरी स्व-शासन",
+    "B_en": "Rural Self-Governance",
+    "B_hi": "ग्रामीण स्व-शासन",
+    "C_en": "Forest Administration",
+    "C_hi": "वन प्रशासन",
+    "D_en": "Indigenous Tribal Councils",
+    "D_hi": "आदिवासी सभाएं",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment Act of 1992 is focused on urban local self-governance, establishing Municipal Corporations and Nagar Panchayats.",
+    "explanation_hi": "1992 का 74वां संशोधन अधिनियम शहरी स्व-शासन पर केंद्रित है, नगर निगम और नगर पंचायतों की स्थापना करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the tenure of a Zila Parishad?",
+    "question_hi": "जिला परिषद का कार्यकाल क्या है?",
+    "A_en": "3 years",
+    "A_hi": "3 वर्ष",
+    "B_en": "4 years",
+    "B_hi": "4 वर्ष",
+    "C_en": "5 years",
+    "C_hi": "5 वर्ष",
+    "D_en": "6 years",
+    "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The tenure of Zila Parishad, as per the 73rd Amendment, is five years unless dissolved earlier.",
+    "explanation_hi": "73वें संशोधन के अनुसार जिला परिषद का कार्यकाल पांच वर्ष है, जब तक कि इसे पहले ही समाप्त नहीं कर दिया जाता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a part of the three-tier Panchayati Raj system?",
+    "question_hi": "निम्नलिखित में से कौन तीन स्तरीय पंचायती राज प्रणाली का हिस्सा नहीं है?",
+    "A_en": "Gram Panchayat",
+    "A_hi": "ग्राम पंचायत",
+    "B_en": "Panchayat Samiti",
+    "B_hi": "पंचायत समिति",
+    "C_en": "Zila Parishad",
+    "C_hi": "जिला परिषद",
+    "D_en": "Gram Sabha",
+    "D_hi
