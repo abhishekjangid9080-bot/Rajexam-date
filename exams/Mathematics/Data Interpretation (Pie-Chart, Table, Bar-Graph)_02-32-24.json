@@ -1,0 +1,21 @@
+[
+{
+"subject": "Mathematics",
+"topic": "Data Interpretation (Pie-Chart, Table, Bar-Graph)",
+"question_en": "How many candidates appeared in the CET exam from Rajasthan in 2020?",
+"question_hi": "2020 में CET परीक्षा के लिए राजस्थान के कितने उम्मेदार थे?",
+"A_en": "3500",
+"A_hi": "3500",
+"B_en": "3600",
+"B_hi": "3600",
+"C_en": "3700",
+"C_hi": "3700",
+"D_en": "3400",
+"D_hi": "3400",
+"answer": "B",
+"explanation_en": "According to the given pie chart, the percentage share of Rajasthan candidates in the CET exam is 36%. Now, to find the number of candidates, we can use the formula: (36/100) * Total number of candidates. In 2020, the total number of candidates is not mentioned, so we can assume it as a variable (let's say X). So, the equation will be: (36/100) * X = B. Solving for X, we get X = (B * 100) / 36. Given that B = 3600, X = (3600 * 100) / 36 = 3600.",
+"explanation_hi": "दिए गए प्रश्न को डीटा को वालों की प्रतिशत प्रश्न को समझें। प्रश्न को मजाने के लिए अन्तर्यांचे प्रतिशत समझें। वालों की प्रतिशत समझें।",
+"D_en": "Understand the data as per the given question.",
+"D_hi": "उत्तर्यांचे प्रश्न समझें।",
+"question_en": "In a certain exam, the ratio of male to female candidates is 3:2. If the number of male candidates is 1200, then find the number of female candidates.",
+"question_hi": "एक तरफेचे प्रश्न समझें। जब बाहर मार्यांच्यांचे प्रश्न समझें। मिण्यांच्यांचे प्रश्न समझें। जब बाहून प्रत्यांची संखली प्रश्न समझेंच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांचींच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांचंच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्यांच्या
