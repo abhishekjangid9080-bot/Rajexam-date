@@ -1,0 +1,31 @@
+[
+{
+"subject": "Economy",
+"topic": "Principles of Economics",
+"question_en": "What is macroeconomics?",
+"question_hi": "मैक्रॉनॉकॉम क्या है?",
+"A_en": "Business Management",
+"A_hi": "बैंकिंग एंड प्रॉपर्टी",
+"B_en": "Political Science",
+"B_hi": "पोलिटिक विज्ञान",
+"C_en": "Economics",
+"C_hi": "कॉमर्नोज़ेनिक",
+"D_en": "Mathematics",
+"D_hi": "मैटेंशिया",
+"answer": "C",
+"explanation_en": "Macroeconomics is a branch of economics that deals with the performance, behavior, and decisions of an economy as a whole, rather than individual firms or households. It focuses on issues such as national output, employment, inflation, and growth. In Hindi, it can be translated as 'मल्लीन इकोनोज़ेनिक', which can be translated into 'कॉमर्नोज़ेनिक' in Hindi. कॉमर्नोज़ेनिक is a term that refers to the study of economics on a macro level, similar to the English term 'Macroeconomics.'",
+"explanation_hi": "कॉमर्नोज़ेनिक" विशेषता में यह अनुवाद के विभाग का विश्वबूंग का अनुवाद कर्नोज़ेनिक अनुवाद का अनुवाद कर्नोज़ेनिक अनुवाद क्या अनुवाद का अनुवाद कर्नोज़ेनिक अनुवाद का अनुवाद अनुवाद क्याम्याद अनुवाद का अनुवाद अनुवाद अनुवाद का अनुवाद अनुवाद अनुवाद अनुवाद अनुवाद अनुवाद अनुवाद अनुवाद अनुवाद अनुवाद",
+"options": [
+{
+"option_en": "क्याम्याद अनुवाद अनुवाद अनुवाद अनुवाद",
+"option_hi": "क्याम्याद अनुवाद अनुवाद अनुवाद अनुवाद",
+"answer": "क्याम्याद अनुवाद अनुवाद अनुवाद अनुवाद",
+"explanation_en": "क्याम्याद अनुवाद",
+"explanation_hi": "क्याम्याद अनुवाद अनुवाद",
+"correct_option": "क्याम्याद अनुवाद अनुवाद अनुवाद",
+}
+],
+"subject": "Economy",
+"topic": "Concepts of Macroeconomics"
+}
+]
