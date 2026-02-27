@@ -1,0 +1,148 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the subject of Technology, focusing on Databases, Email, URL, and Web Browsers. The questions should be in both Hindi and English, following the Testbook style. The difficulty level should be appropriate for exams like Rajasthan State Exams, SSC, and Railway NTPC. Let me start by brainstorming topics for each area.
+
+First, for Databases: I can cover basic concepts like primary key, types of databases, SQL vs NoSQL, or normalization. Maybe a question on primary key definition.
+
+Next, Email: Topics could include components of an email address, protocols like SMTP, POP3, IMAP, or security aspects like encryption.
+
+URL: Structure of a URL, its components like protocol, domain, path, query parameters. Maybe a question on identifying the protocol part.
+
+Web Browsers: Features like bookmarks, cache, incognito mode, default search engines. A question on browser cache or how incognito works.
+
+I need to ensure that each question has four options, with the correct answer labeled correctly. Also, explanations should clarify why the correct answer is right and why others are wrong. Let me check if I have enough topics covered in each category. Maybe 2-3 questions per topic to cover all areas. Need to verify the accuracy of the facts, like which protocols are used for sending emails (SMTP) vs receiving (POP3, IMAP). Also, for URLs, the structure is protocol://domain/path?query#fragment. 
+
+I should also consider common mistakes students might make, like confusing HTTP with HTTPS, or not knowing the difference between a primary key and a foreign key. For Web Browsers, maybe a question on how bookmarks are stored or the purpose of cookies. Need to make sure the options are plausible but distinct. Let me start drafting each question step by step, ensuring that the Hindi translation is accurate and matches the English question. Also, check that the explanations are concise and helpful. Alright, let's put this all together into the JSON format as specified.
+</think>
+
+[
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "किस डेटाबेस तत्व को पंक्तियों और स्तम्भों में व्यवस्थित किया गया है?",
+"question_hi": "Which database element is organized in rows and columns?",
+"A_en": "Table", "A_hi": "टेबल",
+"B_en": "Query", "B_hi": "क्वेरी",
+"C_en": "Form", "C_hi": "फॉर्म",
+"D_en": "Report", "D_hi": "रिपोर्ट",
+"answer": "A",
+"explanation_en": "A database table is structured in rows and columns to store data systematically.",
+"explanation_hi": "एक डेटाबेस टेबल पंक्तियों और स्तम्भों में व्यवस्थित होता है ताकि डेटा व्यवस्थित तरीके से संग्रहीत हो सके।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "ईमेल पते में एक्सेस पॉइंट किस संकेत से अलग किया जाता है?",
+"question_hi": "In an email address, which symbol separates the local part from the domain?",
+"A_en": "@", "A_hi": "@",
+"B_en": ":", "B_hi": ":",
+"C_en": "#", "C_hi": "#",
+"D_en": "!", "D_hi": "!",
+"answer": "A",
+"explanation_en": "The '@' symbol is used to separate the local part and domain in an email address.",
+"explanation_hi": "ईमेल पते में '@' चिह्न का उपयोग स्थानीय भाग और डोमेन को अलग करने के लिए किया जाता है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "एक URL में 'http' क्या दर्शाता है?",
+"question_hi": "What does 'http' in a URL represent?",
+"A_en": "HyperText Transfer Protocol", "A_hi": "हाइपरटेक्स्ट ट्रांस्फर प्रोटोकॉल",
+"B_en": "HyperText Markup Language", "B_hi": "हाइपरटेक्स्ट मार्कअप लैंग्वेज",
+"C_en": "HyperText Protocol", "C_hi": "हाइपरटेक्स्ट प्रोटोकॉल",
+"D_en": "HyperText Media Protocol", "D_hi": "हाइपरटेक्स्ट मीडिया प्रोटोकॉल",
+"answer": "A",
+"explanation_en": "'http' stands for HyperText Transfer Protocol, which is the foundation of data communication on the web.",
+"explanation_hi": "'http' का अर्थ हाइपरटेक्स्ट ट्रांस्फर प्रोटोकॉल से है, जो वेब पर डेटा संचार की आधारभूत बात है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "कौन-सा वेब ब्राउज़र मूल रूप से माइक्रोसॉफ्ट द्वारा विकसित किया गया है?",
+"question_hi": "Which web browser is originally developed by Microsoft?",
+"A_en": "Chrome", "A_hi": "क्रोम",
+"B_en": "Firefox", "B_hi": "फायरफॉक्स",
+"C_en": "Edge", "C_hi": "एज",
+"D_en": "Safari", "D_hi": "सफारी",
+"answer": "C",
+"explanation_en": "Microsoft Edge is the successor to Internet Explorer, developed by Microsoft.",
+"explanation_hi": "माइक्रोसॉफ्ट एज इंटरनेट एक्सप्लोरर का उत्तराधिकारी है, जिसका विकास माइक्रोसॉफ्ट द्वारा किया गया है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "ईमेल भेजने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+"question_hi": "Which protocol is used to send emails?",
+"A_en": "POP3", "A_hi": "पीओपी3",
+"B_en": "IMAP", "B_hi": "आईएमएपी",
+"C_en": "SMTP", "C_hi": "एसएमटीपी",
+"D_en": "FTP", "D_hi": "एफटीपी",
+"answer": "C",
+"explanation_en": "SMTP (Simple Mail Transfer Protocol) is used to send emails from a client to a server.",
+"explanation_hi": "एसएमटीपी (सिम्पल मेल ट्रांसफर प्रोटोकॉल) क्लाइंट से सर्वर तक ईमेल भेजने के लिए उपयोग किया जाता है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "एक वेब ब्राउज़र में 'बुकमार्क' का उपयोग क्या है?",
+"question_hi": "What is the purpose of 'bookmarks' in a web browser?",
+"A_en": "To save web pages for offline viewing", "A_hi": "ऑफलाइन देखने के लिए वेब पृष्ठ बचाने के लिए",
+"B_en": "To quickly access favorite websites", "B_hi": "पसंदीदा वेबसाइटों तक त्वरित एक्सेस के लिए",
+"C_en": "To store user login credentials", "C_hi": "उपयोगकर्ता लॉगिन लेख को संग्रहीत करने के लिए",
+"D_en": "To compress web pages", "D_hi": "वेब पृष्ठ को संपीड़ित करने के लिए",
+"answer": "B",
+"explanation_en": "Bookmarks allow users to save the URLs of frequently visited websites for quick access.",
+"explanation_hi": "बुकमार्क उपयोगकर्ताओं को अक्सर जाने वाली वेबसाइटों के URL बचाने देते हैं ताकि त्वरित एक्सेस हो सके।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "एक डेटाबेस में 'प्राथमिक कुंजी' का क्या उद्देश्य होता है?",
+"question_hi": "What is the purpose of a 'primary key' in a database?",
+"A_en": "To allow duplicate records", "A_hi": "डुप्लिकेट रिकॉर्ड अनुमति देने के लिए",
+"B_en": "To uniquely identify each record", "B_hi": "प्रत्येक रिकॉर्ड को अद्वितीय रूप से पहचानने के लिए",
+"C_en": "To increase data size", "C_hi": "डेटा आकार बढ़ाने के लिए",
+"D_en": "To encrypt data", "D_hi": "डेटा एन्क्रिप्शन के लिए",
+"answer": "B",
+"explanation_en": "A primary key uniquely identifies each record in a database table.",
+"explanation_hi": "एक प्राथमिक कुंजी डेटाबेस टेबल में प्रत्येक रिकॉर्ड को अद्वितीय रूप से पहचानती है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "एक वेब ब्राउज़र के 'इनकॉग्निटो मोड' का क्या उद्देश्य होता है?",
+"question_hi": "What is the purpose of a web browser's 'incognito mode'?",
+"A_en": "To delete browsing history permanently", "A_hi": "ब्राउज़िंग इतिहास को स्थाई रूप से हटाने के लिए",
+"B_en": "To increase internet speed", "B_hi": "इंटरनेट गति बढ़ाने के लिए",
+"C_en": "To store cookies securely", "C_hi": "कुकीज को सुरक्षित रूप से संग्रहीत करने के लिए",
+"D_en": "To access blocked websites", "D_hi": "ब्लॉक्ड वेबसाइटों तक पहुंचने के लिए",
+"answer": "A",
+"explanation_en": "Incognito mode prevents the browser from saving browsing history, cookies, and temporary files.",
+"explanation_hi": "इनकॉग्निटो मोड ब्राउज़र को ब्राउज़िंग इतिहास, कुकीज और अस्थायी फ़ाइलों को सहेजे नहीं देता है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "किस तकनीक का उपयोग ईमेल सुरक्षा के लिए लगभग हमेशा किया जाता है?",
+"question_hi": "Which technique is commonly used for email security?",
+"A_en": "Firewall", "A_hi": "फायरवॉल",
+"B_en": "Encryption", "B_hi": "एन्क्रिप्शन",
+"C_en": "Antivirus", "C_hi": "एंटीवायरस",
+"D_en": "Proxy", "D_hi": "प्रॉक्सी",
+"answer": "B",
+"explanation_en": "Email encryption ensures that only the intended recipient can read the message content.",
+"explanation_hi": "ईमेल एन्क्रिप्शन सुनिश्चित करता है कि केवल निर्दिष्ट प्राप्तकर्ता ही संदेश के महत्व को पढ़ सकता है।"
+},
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "एक URL में 'www' का अर्थ क्या है?",
+"question_hi": "What does 'www' in a URL mean?",
+"A_en": "World Wide Web", "A_hi": "वर्ल्ड वाइड वेब",
+"B_en": "Web World Wide", "B_hi": "वेब वर्ल्ड वाइड",
+"C_en": "World Wide Webmaster", "C_hi": "वर्ल्ड वाइड वेबमास्टर",
+"D_en": "Web World Work", "D_hi": "वेब वर्ल्ड वर्क",
+"answer": "A",
+"explanation_en": "'www' stands for World Wide Web, which is the system of interlinked hypertext documents.",
+"explanation_hi": "'www' का अर्थ वर्ल्ड वाइड वेब से है, जो आपस में जुड़े हाइपरटेक्स्ट दस्तावेजों की प्रणाली है।"
+}
+]
