@@ -1,0 +1,176 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on the topic of RBI and Monetary Policy for various Indian exams like Rajasthan's LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following a specific JSON structure. 
+
+First, I need to recall key points about RBI's role in monetary policy. Topics could include objectives of monetary policy, tools used by RBI like CRR, SLR, Repo Rate, Reverse Repo Rate, inflation targeting, MPC, etc. Each question should test understanding of these concepts.
+
+I should start by brainstorming possible questions. For example, the primary objective of RBI's monetary policy, who is the current Governor of RBI, what is the role of CRR, how does the repo rate affect the economy, etc. For each question, I need four options where one is correct. The explanations should clearly state why the correct answer is right and why others are not.
+
+I need to ensure the difficulty level is appropriate for the target exams. Since these exams often have a moderate to challenging level, the questions shouldn't be too basic but also not too obscure. For example, knowing that the Monetary Policy Committee (MPC) is the correct body for setting the repo rate is a good balance.
+
+Now, translating each question into Hindi without losing the nuance is important. For technical terms like CRR, SLR, they are usually the same in Hindi, but others like inflation targeting might be translated as "मुद्रास्फीति लक्ष्यीकरण". 
+
+I should also verify the latest information, like the current Governor of RBI (as of 2023, it's Shaktikanta Das), and the composition of the MPC (6 members, 3 from RBI). Accuracy is crucial here to avoid errors.
+
+Each question in the JSON structure needs to have subject, topic, question in both languages, four options in both languages, the correct answer, and explanations in both languages. I need to check that the options are plausible, with one correct and three distractors. The explanations should clarify the correct answer's relevance and why others are incorrect.
+
+Let me start listing possible questions. For example:
+
+1. Primary objective of RBI's monetary policy.
+2. Current Governor of RBI.
+3. Role of CRR in controlling money supply.
+4. Purpose of Repo Rate.
+5. Function of SLR.
+6. Inflation targeting as an objective.
+7. Number of members in MPC.
+8. Role of Reverse Repo Rate.
+9. Full form of MPC.
+10. How does RBI manage inflation?
+
+For each of these, I'll formulate the question, options, and explanations. Ensuring that the options are clear and the explanations concise but informative. Also, making sure that the Hindi translation is accurate and matches the terminology used in the exams.
+
+After drafting, I'll review each question for clarity and correctness. For instance, confirming that the Repo Rate is used to influence borrowing costs, the Reverse Repo Rate is for absorbing liquidity, and the CRR is the percentage of deposits kept in cash. Also, checking that the explanations correctly state the functions of each tool.
+
+Finally, structuring all into the required JSON format without any markdown, ensuring proper commas and brackets. Double-checking the answer keys to avoid any mix-up between letters (A, B, C, D). Making sure the explanations in both languages are consistent with the correct answer.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "What is the primary objective of the Reserve Bank of India (RBI) in formulating monetary policy?",
+    "question_hi": "रिजर्व बैंक ऑफ इंडिया (RBI) मौद्रिक नीति निर्धारित करते समय मुख्य उद्देश्य क्या है?",
+    "A_en": "To control inflation",
+    "A_hi": "मुद्रास्फीति को नियंत्रित करना",
+    "B_en": "To maintain price stability",
+    "B_hi": "मूल्य स्थिरता बनाए रखना",
+    "C_en": "To regulate foreign exchange",
+    "C_hi": "विदेशी विनिमय को नियंत्रित करना",
+    "D_en": "To manage government debt",
+    "D_hi": "सरकारी ऋण का प्रबंधन करना",
+    "answer": "B",
+    "explanation_en": "The primary objective of RBI's monetary policy is to maintain price stability, which indirectly helps in controlling inflation.",
+    "explanation_hi": "RBI की मौद्रिक नीति का मुख्य उद्देश्य मूल्य स्थिरता बनाए रखना है, जो मुद्रास्फीति को नियंत्रित करने में सीधा सहायता करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Which of the following is the main tool used by RBI to control liquidity in the economy?",
+    "question_hi": "निम्नलिखित में से कौन-सा RBI द्वारा अर्थव्यवस्था में तरलता नियंत्रित करने का मुख्य उपकरण है?",
+    "A_en": "Cash Reserve Ratio (CRR)",
+    "A_hi": "नकद भंडार अनुपात (CRR)",
+    "B_en": "Statutory Liquidity Ratio (SLR)",
+    "B_hi": "कानूनी तरलता अनुपात (SLR)",
+    "C_en": "Repo Rate",
+    "C_hi": "रेपो दर",
+    "D_en": "Marginal Standing Facility (MSF)",
+    "D_hi": "कोनीय खड़े सुविधा (MSF)",
+    "answer": "C",
+    "explanation_en": "Repo Rate is the main tool used by RBI to regulate liquidity. It influences the borrowing costs of banks, thereby affecting money supply.",
+    "explanation_hi": "रेपो दर RBI द्वारा तरलता नियंत्रित करने का मुख्य उपकरण है। यह बैंकों के उधार लेने के खरच को प्रभावित करती है, जिससे पैसा की आपूर्ति में परिवर्तन होता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "What is the role of the Statutory Liquidity Ratio (SLR) in RBI's monetary policy?",
+    "question_hi": "कानूनी तरलता अनुपात (SLR) की RBI की मौद्रिक नीति में क्या भूमिका है?",
+    "A_en": "To determine interest rates",
+    "A_hi": "ब्याज दरों निर्धारित करना",
+    "B_en": "To control the flow of credit",
+    "B_hi": "क्रेडिट के प्रवाह को नियंत्रित करना",
+    "C_en": "To maintain foreign exchange reserves",
+    "C_hi": "विदेशी विनिमय भंडार बनाए रखना",
+    "D_en": "To manage inflation",
+    "D_hi": "मुद्रास्फीति का प्रबंधन करना",
+    "answer": "B",
+    "explanation_en": "SLR ensures that banks maintain a certain percentage of deposits in liquid assets, thus controlling credit flow in the economy.",
+    "explanation_hi": "SLR बैंकों को जमा का एक निश्चित प्रतिशत तरल संपत्ति में रखने को नियंत्रित करता है, जिससे अर्थव्यवस्था में क्रेडिट के प्रवाह को नियंत्रित किया जाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Who is the current Governor of the Reserve Bank of India (RBI)?",
+    "question_hi": "वर्तमान में रिजर्व बैंक ऑफ इंडिया (RBI) के गवर्नर कौन हैं?",
+    "A_en": "Shaktikanta Das",
+    "A_hi": "शक्तिकांत दास",
+    "B_en": "Urjit Patel",
+    "B_hi": "उर्जित पटेल",
+    "C_en": "Raghuram Rajan",
+    "C_hi": "रघुराम राजन",
+    "D_en": "Duvvuri Subbarao",
+    "D_hi": "दुव्वुरी सबरूवो",
+    "answer": "A",
+    "explanation_en": "Shaktikanta Das is the current Governor of RBI, appointed in December 2018.",
+    "explanation_hi": "शक्तिकांत दास RBI के वर्तमान गवर्नर हैं, जिन्हें दिसंबर 2018 में नियुक्त किया गया था।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "What is the function of the Marginal Standing Facility (MSF)?",
+    "question_hi": "कोनीय खड़े सुविधा (MSF) का कार्य क्या है?",
+    "A_en": "To provide short-term liquidity to banks",
+    "A_hi": "बैंकों को अल्पकालिक तरलता प्रदान करना",
+    "B_en": "To regulate foreign exchange",
+    "B_hi": "विदेशी विनिमय को नियंत्रित करना",
+    "C_en": "To fix the base rate",
+    "C_hi": "मूल दर निर्धारित करना",
+    "D_en": "To manage government debt",
+    "D_hi": "सरकारी ऋण का प्रबंधन करना",
+    "answer": "A",
+    "explanation_en": "MSF allows banks to borrow overnight from RBI at a fixed rate, providing emergency liquidity.",
+    "explanation_hi": "MSF बैंकों को रिजर्व बैंक से रात्रि उधार लेने की अनुमति देता है, जो तुरंत तरलता प्रदान करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Which of the following is NOT a function of the Reserve Bank of India (RBI)?",
+    "question_hi": "निम्नलिखित में से कौन-सा रिजर्व बैंक ऑफ इंडिया (RBI) का कार्य नहीं है?",
+    "A_en": "To issue currency",
+    "A_hi": "मुद्रा का जारी करना",
+    "B_en": "To manage foreign exchange reserves",
+    "B_hi": "विदेशी विनिमय भंडार का प्रबंधन करना",
+    "C_en": "To act as the government's banker",
+    "C_hi": "सरकार के बैंकर के रूप में कार्य करना",
+    "D_en": "To collect taxes",
+    "D_hi": "कर एकत्र करना",
+    "answer": "D",
+    "explanation_en": "RBI does not collect taxes; this is a function of the government's revenue departments.",
+    "explanation_hi": "RBI कर एकत्र नहीं करता है; यह सरकार के आयकर विभाग का कार्य है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "What is the role of the Cash Reserve Ratio (CRR) in RBI's monetary policy?",
+    "question_hi": "नकद भंडार अनुपात (CRR) की RBI की मौद्रिक नीति में क्या भूमिका है?",
+    "A_en": "To determine fiscal policy",
+    "A_hi": "वित्तीय नीति निर्धारित करना",
+    "B_en": "To control money supply",
+    "B_hi": "पैसा की आपूर्ति नियंत्रित करना",
+    "C_en": "To fix income tax rates",
+    "C_hi": "आयकर दरों को तय करना",
+    "D_en": "To regulate the stock market",
+    "D_hi": "स्टॉक बाजार को नियंत्रित करना",
+    "answer": "B",
+    "explanation_en": "CRR requires banks to hold a percentage of their cash in RBI, thereby controlling the money supply in the economy.",
+    "explanation_hi": "CRR बैंकों को RBI में अपने नकद का एक प्रतिशत रखने को आवश्यक बनाता है, जिससे अर्थव्यवस्था में पैसे की आपूर्ति नियंत्रित होती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "What is the purpose of the Reverse Repo Rate in monetary policy?",
+    "question_hi": "मौद्रिक नीति में विपरीत रेपो दर का उद्देश्य क्या है?",
+    "A_en": "To increase public spending",
+    "A_hi": "सार्वजनिक खर्च बढ़ाना",
+    "B_en": "To absorb excess liquidity",
+    "B_hi": "अतिरिक्त तरलता अवशोषित करना",
+    "C_en": "To lower inflation",
+    "C_hi": "मुद्रास्फीति कम करना",
+    "D_en": "To increase bank profits",
+    "D_hi": "बैंक लाभ बढ़ाना",
+    "answer": "B",
+    "explanation_en": "Reverse Repo Rate allows RBI to absorb excess liquidity from the banking system by borrowing from banks.",
+    "explanation_hi": "विपरीत रेपो दर RBI को अतिरिक्त तरलता को बैंकों से उधार लेकर अवशोषित करने की अनुमति देती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Which committee is responsible for setting
