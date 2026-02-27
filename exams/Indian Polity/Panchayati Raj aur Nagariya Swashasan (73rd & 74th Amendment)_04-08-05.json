@@ -1,0 +1,185 @@
+<think>
+Okay, let's tackle this query. The user wants 10 high-quality MCQs on Indian Polity, specifically on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. The instructions are clear: each question must have both Hindi and English, options in both languages, and explanations in both. The output should be in a strict JSON format without any extra text.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment deals with Panchayati Raj institutions, while the 74th is about urban local bodies like municipalities. Important aspects include the establishment of three-tier systems, reservation of seats, powers and functions, financial provisions, etc.
+
+Now, I need to create 10 questions. Let's start brainstorming topics. For example, the constitutional amendments, structure of Panchayats (three tiers: Gram Panchayat, Block, District), reservation for SCs, STs, OBCs and women, the role of State Finance Commissions, the powers given to urban local bodies under the 74th Amendment, etc.
+
+Each question should be unique and cover different aspects. Let me think of possible questions. Maybe the first question can be about the constitutional amendment year. The 73rd was in 1992, and the 74th in 1992 as well. Wait, both were passed in 1992 but ratified later. Need to confirm the exact years. The 73rd Amendment came into force on April 24, 1993, and the 74th on June 1, 1993. So the passage year is 1992, but effective from 1993. That's a common point of confusion.
+
+Next, the structure of the Panchayat system: Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zilla Parishad at the district level. For the 74th Amendment, the urban structure includes Nagar Panchayat, Municipal Council, and Municipal Corporation. So a question on the three-tier system could be good.
+
+Reservation of seats for SCs, STs, and OBCs under 73rd Amendment, with at least one-third for women. Also, the requirement for a State Finance Commission to be constituted within three years. For the 74th Amendment, subjects listed in the 12th Schedule of the Constitution, which include urban planning, public health, etc.
+
+Another point is the powers given to urban local bodies: they have the authority to prepare town planning schemes, levy taxes, and manage local infrastructure. Also, the concept of 'Gram Sabha' as the foundation of the Panchayati Raj system.
+
+Now, ensuring that each question is clear and the options are plausible. For example, a question on the constitutional amendment year could have options like 1990, 1992, 1993, 1995. The correct answer is 1992 for both amendments.
+
+I need to make sure the explanations are concise and accurate. Also, the Hindi translations should be precise to avoid ambiguity.
+
+Let me outline the 10 questions:
+
+1. Year of the 73rd and 74th Amendments.
+2. Three-tier system under 73rd Amendment.
+3. Reservation of seats for women.
+4. Reservation for SCs/STs/OBCs.
+5. Role of State Finance Commission.
+6. Subjects listed in 12th Schedule (74th Amendment).
+7. Powers of urban local bodies.
+8. Gram Sabha's role.
+9. Duration of Panchayat elections.
+10. Composition of a Gram Panchayat.
+
+Now, drafting each question with options in both languages. For example, the first question: "Which constitutional amendment introduced the Panchayati Raj system?" Options would be 73rd, 74th, 72nd, 75th. The answer is 73rd. Then the Hindi version: "कौन सा संविधान संशोधन पंचायती राज निकाय को लागू करता है?" Same options translated.
+
+I need to ensure all terms are correctly translated. For example, "State Finance Commission" becomes "राज्य वित्त आयोग".
+
+Also, checking for any possible errors. For instance, the 74th Amendment deals with urban, so a question on the 12th Schedule would be part of that. The 12th Schedule lists the responsibilities of urban local bodies.
+
+Each explanation should clarify why the correct answer is right. For example, explaining that the 73rd Amendment provides for three tiers and the 74th for urban.
+
+Now, structuring all 10 questions in JSON format, making sure the keys match the example provided. Each question object must have subject, topic, question in both languages, options in both, answer as a letter, and explanations in both languages.
+
+Finally, verifying the JSON syntax for correctness—commas, brackets, quotes, and proper escaping if needed. Since the user wants raw JSON without any extra text, I need to ensure that the output is just the JSON array.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment introduced the three-tier Panchayati Raj system in India?",
+    "question_hi": "भारत में तीन स्तरीय पंचायती राज निकाय के प्रतिष्ठापन के लिए कौन सा संविधान संशोधन प्रस्तावित किया गया था?",
+    "A_en": "72nd Amendment",
+    "A_hi": "72वां संशोधन",
+    "B_en": "73rd Amendment",
+    "B_hi": "73वां संशोधन",
+    "C_en": "74th Amendment",
+    "C_hi": "74वां संशोधन",
+    "D_en": "75th Amendment",
+    "D_hi": "75वां संशोधन",
+    "answer": "B",
+    "explanation_en": "The 73rd Constitutional Amendment Act of 1992 established the three-tier Panchayati Raj system at the village, block, and district levels.",
+    "explanation_hi": "1992 के 73वें संविधान संशोधन अधिनियम ने गांव, ब्लॉक और जिला स्तरों पर तीन स्तरीय पंचायती राज निकाय की स्थापना की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under the 73rd Amendment, how many seats are reserved for women in local self-government bodies?",
+    "question_hi": "73वें संशोधन के तहत स्थानीय स्वशासन निकायों में महिलाओं के लिए कितनी सीटें आरक्षित हैं?",
+    "A_en": "One-third",
+    "A_hi": "एक-तिहाई",
+    "B_en": "Half",
+    "B_hi": "आधा",
+    "C_en": "One-fourth",
+    "C_hi": "एक-चौथाई",
+    "D_en": "None",
+    "D_hi": "कोई नहीं",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates at least one-third of the seats in Panchayats to be reserved for women.",
+    "explanation_hi": "73वें संशोधन में पंचायतों में महिलाओं के लिए एक-तिहाई सीटों के आरक्षण की आवश्यकता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which schedule of the Indian Constitution lists the powers and duties of urban local self-government bodies?",
+    "question_hi": "भारतीय संविधान के किस अनुसूची में शहरी स्वशासन निकायों की शक्तियां और कर्तव्य सूचीबद्ध हैं?",
+    "A_en": "Eleventh Schedule",
+    "A_hi": "ग्यारहवीं अनुसूची",
+    "B_en": "Twelfth Schedule",
+    "B_hi": "बारहवीं अनुसूची",
+    "C_en": "Tenth Schedule",
+    "C_hi": "दसवीं अनुसूची",
+    "D_en": "Thirteenth Schedule",
+    "D_hi": "तेरहवीं अनुसूची",
+    "answer": "B",
+    "explanation_en": "The Twelfth Schedule under the 74th Amendment enumerates 18 subjects related to urban governance.",
+    "explanation_hi": "74वें संशोधन के तहत बारहवीं अनुसूची में शहरी शासन से संबंधित 18 विषयों की सूची दी गई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age for becoming a member of a Panchayat?",
+    "question_hi": "पंचायत के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "20 years",
+    "A_hi": "20 वर्ष",
+    "B_en": "25 years",
+    "B_hi": "25 वर्ष",
+    "C_en": "18 years",
+    "C_hi": "18 वर्ष",
+    "D_en": "30 years",
+    "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment sets the minimum age for Panchayat membership at 25 years.",
+    "explanation_hi": "पंचायत सदस्यता के लिए 73वें संशोधन ने 25 वर्ष की न्यूनतम आयु निर्धारित की है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How often is the State Finance Commission (SFC) required to be constituted under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत राज्य वित्त आयोग (एसएफसी) कब तक गठित करने की आवश्यकता होती है?",
+    "A_en": "Every 5 years",
+    "A_hi": "प्रत्येक 5 वर्षों में",
+    "B_en": "Every 3 years",
+    "B_hi": "प्रत्येक 3 वर्षों में",
+    "C_en": "Every 10 years",
+    "C_hi": "प्रत्येक 10 वर्षों में",
+    "D_en": "Every year",
+    "D_hi": "प्रत्येक वर्ष",
+    "answer": "A",
+    "explanation_en": "The State Finance Commission must be constituted every 5 years to review the financial position of Panchayats.",
+    "explanation_hi": "पंचायतों की वित्तीय स्थिति की समीक्षा के लिए राज्य वित्त आयोग को हर 5 वर्षों में गठित करना आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is not a function of a Nagar Panchayat?",
+    "question_hi": "नगर पंचायत का कौन सा कार्य नहीं है?",
+    "A_en": "Urban planning",
+    "A_hi": "शहरी योजना",
+    "B_en": "Public health",
+    "B_hi": "सामाजिक स्वास्थ्य",
+    "C_en": "Law and order",
+    "C_hi": "कानून और शांति बनाए रखना",
+    "D_en": "Sanitation",
+    "D_hi": "स्वच्छता",
+    "answer": "C",
+    "explanation_en": "Maintenance of law and order is the responsibility of the police, not the Nagar Panchayat.",
+    "explanation_hi": "कानून और शांति की देखरेख पुलिस की जिम्मेदारी है, नगर पंचायत की नहीं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for members of a Panchayat?",
+    "question_hi": "पंचायत के सदस्यों के कार्यकाल का काल क्या है?",
+    "A_en": "3 years",
+    "A_hi": "3 वर्ष",
+    "B_en": "5 years",
+    "B_hi": "5 वर्ष",
+    "C_en": "4 years",
+    "C_hi": "4 वर्ष",
+    "D_en": "2 years",
+    "D_hi": "2 वर्ष",
+    "answer": "B",
+    "explanation_en": "Panchayat members serve a term of 5 years, as per the 73rd Constitutional Amendment.",
+    "explanation_hi": "73वें संविधान संशोधन के अनुसार पंचायत सदस्यों का कार्यकाल 5 वर्ष होता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum number of members required to constitute a Gram Sabha?",
+    "question_hi": "ग्राम सभा की अधिनियमिता के लिए न्यूनतम सदस्यों की संख्या क्या है?",
+    "A_en": "10",
+    "A_hi": "10",
+    "B_en": "20",
+    "B_hi": "20",
+    "C_en": "30",
+    "C_hi": "30",
+    "D_en": "40",
+    "D_hi": "40",
+    "answer": "A",
+    "explanation_en": "A Gram Sabha must have at least 10 members to be constituted.",
+    "explanation_hi": "ग्राम सभा की अधिनियमिता के लिए न्यूनतम 10 सदस्यों की आवश्यकता होती है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd &
