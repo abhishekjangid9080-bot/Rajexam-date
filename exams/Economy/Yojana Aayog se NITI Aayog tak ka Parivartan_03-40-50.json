@@ -1,0 +1,128 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on the topic of the transition from Yojana Aayog to NITI Aayog. The subject is Economy, and the target exams are Rajasthan State exams like LDC, CET, RAS, as well as SSC and Railway. The questions need to be in both Hindi and English, with explanations in both languages as well. The output should be in the specified JSON format.
+
+First, I need to recall the key points about Yojana Aayog and NITI Aayog. Yojana Aayog was established in 1953, and NITI Aayog replaced it in 2015. Important aspects include the shift from a planning body to a policy think tank, the role of states in NITI, the introduction of the Three-Year Action Agenda, and the current chairperson.
+
+I should start by listing out the main differences between the two organizations. For example, Yojana Aayog was a statutory body, while NITI is a non-statutory, non-constitutional body. Also, NITI has a more consultative approach and involves states more actively.
+
+Next, I need to frame questions around these points. Each question should have four options, with one correct answer. The options need to be in both Hindi and English. The explanations should clarify why the correct answer is right.
+
+Let me think of the first question: When was Yojana Aayog established? The answer would be 1953. The options can include other years, like 1950, 1960, 1947. Then another question about the year NITI Aayog was formed (2015). Another question could be about the current chairperson, which is the Prime Minister, so Narendra Modi. 
+
+Another point is the shift from a planning to a policy advisory role. A question could ask the main objective of NITI Aayog, with the correct answer being to promote cooperative federalism. Also, the Three-Year Action Agenda is a key feature of NITI, so a question on that too.
+
+I need to make sure that the Hindi and English versions are accurate. For example, "Yojana Aayog" in Hindi is the same, but "NITI Aayog" is also "नीति आयोग". The term "Three-Year Action Agenda" should be translated correctly as "तीन-वर्षीय कार्य योजना".
+
+I should also check for any possible errors in the facts. For instance, confirming the role of the Prime Minister as the Chairperson of NITI Aayog. Also, ensuring that the statutory status of Yojana Aayog is correctly presented as a statutory body, while NITI is not.
+
+Now, structuring each question with the correct options and explanations. Let me think of 10 distinct questions. Maybe start with establishment years, then move to the current chairperson, objectives, features like Three-Year Action Agenda, the nature of the body (statutory vs. non-statutory), the name of the agenda, the shift in focus from planning to policy, the role of states, and maybe the number of members in NITI Aayog.
+
+Wait, the number of members in NITI might be a trickier question. I should confirm that NITI has a Governing Council with all Chief Ministers, so the correct answer would be "All Chief Ministers of States and Union Territories" as members.
+
+I need to ensure that each question is distinct and covers different aspects. Also, the difficulty level should be set for an Economy exam, so the questions shouldn't be too trivial but not too obscure either.
+
+Let me verify each point for accuracy. For example, the first question: Yojana Aayog was set up in 1953 under the Planning Commission. NITI Aayog was established on January 1, 2015. The Prime Minister is the Chairperson. The main objective of NITI is to foster cooperative federalism. The Three-Year Action Agenda replaced the Five-Year Plans. The body is non-statutory, whereas the Planning Commission was statutory.
+
+Another question could be about the shift from a planning to a policy-oriented approach. Also, the introduction of the Three-Year Perspective Plan in NITI Aayog. 
+
+Now, I need to phrase each question clearly, ensuring that the options are plausible but incorrect. For example, when asking about the role of NITI, incorrect options might include "To formulate Five-Year Plans" since that was the role of the Planning Commission. The correct answer would be something like "To promote cooperative federalism through consultative processes."
+
+I should also make sure that the explanations correctly justify the answers, perhaps highlighting the key differences between the two bodies.
+
+Finally, check the JSON structure to ensure all fields are present and correctly formatted. Each question should have the subject, topic, question in both languages, options A-D in both languages, the correct answer, and explanations in both languages. The answer should be in uppercase (like "B" for the second option) and the options should be labeled A through D.
+
+Once all questions are drafted, I'll review them for clarity, accuracy, and adherence to the specified format.
+</think>
+
+```json
+[
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What was the original name of the body established in 1953, now known as NITI Aayog?",
+        "question_hi": "1953 में स्थापित, जिसे अब नीति आयोग के नाम से जाना जाता है, उसका मूल नाम क्या था?",
+        "A_en": "Planning Commission", "A_hi": "नियोजन आयोग",
+        "B_en": "Yojana Aayog", "B_hi": "योजना आयोग",
+        "C_en": "Economic Planning Commission", "C_hi": "आर्थिक नियोजन आयोग",
+        "D_en": "Development Commission", "D_hi": "विकास आयोग",
+        "answer": "B",
+        "explanation_en": "The body established in 1953 was initially named Yojana Aayog, which later evolved into NITI Aayog in 2015.",
+        "explanation_hi": "1953 में स्थापित आयोग का मूल नाम योजना आयोग था, जिसे 2015 में नीति आयोग के रूप में बदल दिया गया।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "Which year marks the replacement of Yojana Aayog by NITI Aayog?",
+        "question_hi": "योजना आयोग के स्थान पर नीति आयोग किस वर्ष में लागू किया गया था?",
+        "A_en": "2014", "A_hi": "2014",
+        "B_en": "2015", "B_hi": "2015",
+        "C_en": "2016", "C_hi": "2016",
+        "D_en": "2017", "D_hi": "2017",
+        "answer": "B",
+        "explanation_en": "The Planning Commission (Yojana Aayog) was replaced by NITI Aayog on January 1, 2015.",
+        "explanation_hi": "नियोजन आयोग (योजना आयोग) को 1 जनवरी, 2015 को नीति आयोग द्वारा बदल दिया गया था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What is the role of NITI Aayog compared to the former Planning Commission?",
+        "question_hi": "पूर्व के नियोजन आयोग की तुलना में नीति आयोग का कार्य क्या है?",
+        "A_en": "Formulate Five-Year Plans", "A_hi": "पांच-वर्षीय योजनाएं बनाना",
+        "B_en": "Advisory body for policy formulation", "B_hi": "नीति बनाने में सलाहकार निकाय",
+        "C_en": "Oversee state budget execution", "C_hi": "राज्य के बजट के कार्यान्वयन की देखरेख",
+        "D_en": "Monitor international trade agreements", "D_hi": "अंतरराष्ट्रीय व्यापार समझौतों की निगरानी",
+        "answer": "B",
+        "explanation_en": "NITI Aayog functions as an advisory body promoting cooperative federalism, unlike the Planning Commission which focused on centralized planning.",
+        "explanation_hi": "नीति आयोग एक सलाहकार निकाय के रूप में कार्य करता है जो सह-कार्यकारी चारोतर्यता को बढ़ावा देता है, जबकि नियोजन आयोग केंद्रित नियोजन पर ध्यान केंद्रित करता था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What is the primary objective of NITI Aayog's Three-Year Action Agenda?",
+        "question_hi": "नीति आयोग की तीन-वर्षीय कार्य योजना का प्राथमिक उद्देश्य क्या है?",
+        "A_en": "Replace Five-Year Plans", "A_hi": "पांच-वर्षीय योजनाओं को बदलना",
+        "B_en": "Promote state-led development", "B_hi": "राज्य-नेतृत्व वाले विकास को बढ़ावा देना",
+        "C_en": "Monitor global economic trends", "C_hi": "ग्लोबल आर्थिक प्रवृत्तियों की निगरानी करना",
+        "D_en": "Enforce national economic policies", "D_hi": "राष्ट्रीय आर्थिक नीतियों को लागू करना",
+        "answer": "A",
+        "explanation_en": "The Three-Year Action Agenda replaces the Five-Year Plans to allow more flexibility and adaptability in policy implementation.",
+        "explanation_hi": "तीन-वर्षीय कार्य योजना पांच-वर्षीय योजनाओं को बदलकर नीति के कार्यान्वयन में अधिक लचीलापन और अनुकूलन की अनुमति देती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "Who is the current Chairperson of NITI Aayog?",
+        "question_hi": "वर्तमान नीति आयोग के कार्यवाहक अध्यक्ष कौन हैं?",
+        "A_en": "President of India", "A_hi": "भारत के राष्ट्रपति",
+        "B_en": "Prime Minister of India", "B_hi": "भारत के प्रधान मंत्री",
+        "C_en": "Governor of Rajasthan", "C_hi": "राजस्थान के राज्यपाल",
+        "D_en": "Chief Justice of India", "D_hi": "भारत के मुख्य न्यायाधीश",
+        "answer": "B",
+        "explanation_en": "The Prime Minister of India serves as the ex-officio Chairperson of NITI Aayog.",
+        "explanation_hi": "भारत के प्रधान मंत्री नीति आयोग के कार्यवाहक अध्यक्ष होते हैं।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "Which of the following is a feature of NITI Aayog not present in the Planning Commission?",
+        "question_hi": "निम्नलिखित में से कौन-सा नीति आयोग की विशेषता है जो नियोजन आयोग में उपस्थित नहीं थी?",
+        "A_en": "Centralized planning approach", "A_hi": "केंद्रित नियोजन दृष्टिकोण",
+        "B_en": "Consultative process with states", "B_hi": "राज्यों के साथ बैठक के माध्यम से चर्चा",
+        "C_en": "Five-Year Plan formulation", "C_hi": "पांच-वर्षीय योजना निर्माण",
+        "D_en": "Statutory body status", "D_hi": "कानूनी निकाय की अवस्था",
+        "answer": "B",
+        "explanation_en": "NITI Aayog emphasizes a consultative process with all state governments, which was not a key feature of the Planning Commission.",
+        "explanation_hi": "नीति आयोग सभी राज्य सरकारों के साथ चर्चा के माध्यम से कार्य करता है, जो नियोजन आयोग की विशेषता नहीं थी।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What is the main difference between the Planning Commission and NITI Aayog in terms of structure?",
+        "question_hi": "नियोजन आयोग और नीति आयोग के बीच संरचना के संदर्भ में मुख्य अंतर क्या है?",
+        "A_en": "NITI is a constitutional body", "A_hi": "नीति आयोग एक संवैधानिक निकाय है",
+        "B_en": "NITI has a smaller advisory team", "B_hi": "नीति आयोग में छोटा सलाहकार दल है",
+        "C_en": "NITI is a non-statutory body", "C_hi": "नीति आयोग एक गैर-कानूनी निकाय है",
+        "D_en": "NITI lacks state representation", "D_hi": "नीति आयोग में राज्यों के प्रतिनिधित्व की कमी है",
+        "answer": "C",
+        "explanation_en": "The Planning Commission was a statutory body, whereas NITI Aayog is a non-statutory and non-constitutional body.",
+        "explanation_hi": "न
