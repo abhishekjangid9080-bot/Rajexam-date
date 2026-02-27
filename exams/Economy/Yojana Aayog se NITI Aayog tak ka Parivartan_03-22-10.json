@@ -1,0 +1,154 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of "Yojana Aayog to NITI Aayog Transition" for exams like Rajasthan LDC, CET, RAS, SSC, Railway NTPC. Let me start by recalling the key points about Yojana Aayog and its transformation into NITI Aayog. 
+
+First, Yojana Aayog was established in 1957 as the Planning Commission. It was responsible for formulating five-year plans. Then, in 2015, the Planning Commission was replaced by NITI Aayog. The full form of NITI Aayog is the National Institution for Transforming India. The transition was part of the government's move towards cooperative federalism.
+
+I should cover the establishment dates of both bodies, the reasons for the transition, the structure (like the ex-officio chairman being the PM), key functions like policy formulation and monitoring, and any significant reports or initiatives introduced by NITI Aayog. Also, include the role of the Chief Executive Officer and the difference between the two bodies in terms of their approach and objectives.
+
+Let me list the possible questions. For example: When was Yojana Aayog renamed as NITI Aayog? What was the role of the Planning Commission? Who is the ex-officio chairman of NITI Aayog? What are the key functions of NITI Aayog? What is the significance of the transition from Planning Commission to NITI Aayog? Also, include some specific initiatives like the Three-Year Action Agenda or the role of the Chief Executive Officer.
+
+I need to ensure that the options are plausible and the correct answers are accurate. For each question, I should write explanations in both English and Hindi. Also, make sure the difficulty level is appropriate for the target exams, not too easy or too hard. Check for any historical inaccuracies. For example, confirming the exact year of transition (2015) and the full form of NITI. Also, mention that the Planning Commission was replaced by NITI Aayog through an executive order, not an act.
+
+Let me verify some facts. The Planning Commission was established in 1950, but Yojana Aayog was a later term. Wait, no—Yojana Aayog was the Hindi name for the Planning Commission. The Planning Commission existed from 1950 to 2015, and then NITI Aayog was formed. So, the question about when Yojana Aayog was renamed to NITI Aayog would be 2015. Also, the Chief Executive Officer is a key position in NITI Aayog, appointed by the PM, and the current CEO is Amitabh Kant.
+
+Another point: The shift from a centrally planned approach to cooperative federalism is a key reason for the transition. NITI Aayog emphasizes collaboration between states and the center, unlike the previous top-down approach.
+
+I need to structure 10 questions covering these aspects. Let me outline each question with the topic and possible options. For example:
+
+1. When was Yojana Aayog renamed to NITI Aayog? (2015)
+2. What was the role of the Planning Commission? (Formulate five-year plans)
+3. Who is the ex-officio chairman of NITI Aayog? (Prime Minister)
+4. What is the full form of NITI Aayog? (National Institution for Transforming India)
+5. Which initiative is associated with NITI Aayog? (Three-Year Action Agenda)
+6. What is the role of the Chief Executive Officer in NITI Aayog? (Overall administrative authority)
+7. How does NITI Aayog differ from the Planning Commission? (Cooperative federalism vs. top-down)
+8. What is the significance of the transition in 2015? (Shift to collaborative approach)
+9. Which of the following is not a function of NITI Aayog? (Implementing state policies)
+10. When was the Planning Commission established? (1950)
+
+For each question, create options in both Hindi and English, ensuring clarity. The explanations should reinforce the correct answer and sometimes explain why other options are incorrect.
+
+I need to make sure the JSON structure is correct, with all fields present. Also, check for any spelling mistakes in the Hindi terms. For example, "योजना आयोग" for Yojana Aayog, "नीति आयोग" for NITI Aayog. 
+
+Once all questions are drafted, I'll format them into the required JSON structure, ensuring each object has the correct keys and nested options. Let me proceed step by step, verifying each question's accuracy and correctness before finalizing the JSON output.
+</think>
+
+[
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "When was Yojana Aayog renamed to NITI Aayog?",
+        "question_hi": "योजना आयोग को नीति आयोग के रूप में कब बदला गया?",
+        "A_en": "2014",
+        "A_hi": "2014",
+        "B_en": "2015",
+        "B_hi": "2015",
+        "C_en": "2016",
+        "C_hi": "2016",
+        "D_en": "2017",
+        "D_hi": "2017",
+        "answer": "B",
+        "explanation_en": "Yojana Aayog was renamed to NITI Aayog in January 2015 by the Government of India.",
+        "explanation_hi": "योजना आयोग को भारत सरकार ने जनवरी 2015 में नीति आयोग के रूप में बदल दिया गया था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What was the primary role of Yojana Aayog before its transformation?",
+        "question_hi": "योजना आयोग के परिवर्तन से पहले उसका मुख्य कार्य क्या था?",
+        "A_en": "Implementing state policies",
+        "A_hi": "राज्य नीतियों को लागू करना",
+        "B_en": "Formulating Five-Year Plans",
+        "B_hi": "पांच वर्षीय योजनाओं का निर्माण",
+        "C_en": "Managing national defense",
+        "C_hi": "राष्ट्रीय रक्षा का प्रबंधन",
+        "D_en": "Overseeing foreign trade",
+        "D_hi": "विदेशी व्यापार की देखरेख",
+        "answer": "B",
+        "explanation_en": "Yojana Aayog (Planning Commission) was primarily responsible for formulating Five-Year Plans to guide economic development in India.",
+        "explanation_hi": "योजना आयोग (योजना आयोग) मुख्य रूप से भारत में आर्थिक विकास के मार्गदर्शन के लिए पांच वर्षीय योजनाओं का निर्माण करता था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "Who is the ex-officio Chairman of NITI Aayog?",
+        "question_hi": "नीति आयोग के पदेन अध्यक्ष कौन हैं?",
+        "A_en": "Prime Minister of India",
+        "A_hi": "भारत के प्रधान मंत्री",
+        "B_en": "Governor of RBI",
+        "B_hi": "आरबीआई के गवर्नर",
+        "C_en": "Finance Minister",
+        "C_hi": "वित्त मंत्री",
+        "D_en": "Chairman of Planning Commission",
+        "D_hi": "योजना आयोग के अध्यक्ष",
+        "answer": "A",
+        "explanation_en": "The Prime Minister of India is the ex-officio Chairman of NITI Aayog, overseeing its functions and policies.",
+        "explanation_hi": "भारत के प्रधान मंत्री नीति आयोग के पदेन अध्यक्ष होते हैं और उसके कार्यों एवं नीतियों की देखरेख करते हैं।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What is the full form of NITI Aayog?",
+        "question_hi": "नीति आयोग का पूरा नाम क्या है?",
+        "A_en": "National Institute for Technology and Innovation",
+        "A_hi": "तकनीक और नवाचार के लिए राष्ट्रीय संस्थान",
+        "B_en": "National Institution for Transforming India",
+        "B_hi": "भारत के परिवर्तन के लिए राष्ट्रीय संस्थान",
+        "C_en": "National Initiative for Technological Advancement",
+        "C_hi": "प्रौद्योगिकी उन्नयन के लिए राष्ट्रीय पहल",
+        "D_en": "National Infrastructure and Technology Authority",
+        "D_hi": "उपकरण एवं प्रौद्योगिकी प्राधिकरण के लिए राष्ट्रीय",
+        "answer": "B",
+        "explanation_en": "NITI Aayog stands for National Institution for Transforming India, which promotes cooperative federalism.",
+        "explanation_hi": "नीति आयोग का पूरा नाम भारत के परिवर्तन के लिए राष्ट्रीय संस्थान है, जो सहयोगात्मक राज्य लोकतंत्र को बढ़ावा देता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "What initiative is associated with NITI Aayog for monitoring state performance?",
+        "question_hi": "नीति आयोग द्वारा राज्यों के प्रदर्शन की निगरानी के लिए कौन सी पहल से जुड़ा है?",
+        "A_en": "Three-Year Action Agenda",
+        "A_hi": "तीन वर्षीय कार्य योजना",
+        "B_en": "National Development Council",
+        "B_hi": "राष्ट्रीय विकास परिषद",
+        "C_en": "Annual Plan Formulation",
+        "C_hi": "वार्षिक योजना निर्माण",
+        "D_en": "Five-Year Plan Review",
+        "D_hi": "पांच वर्षीय योजना का समीक्षा",
+        "answer": "A",
+        "explanation_en": "NITI Aayog introduced the Three-Year Action Agenda to monitor and evaluate state-level development plans.",
+        "explanation_hi": "नीति आयोग ने तीन वर्षीय कार्य योजना को पेश किया जिसके माध्यम से राज्य स्तर की विकास योजनाओं की निगरानी और मूल्यांकन किया जाता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "Who is appointed as the Chief Executive Officer (CEO) of NITI Aayog?",
+        "question_hi": "नीति आयोग के मुख्य कार्यकारी अधिकारी (सीईओ) के रूप में किसे नियुक्त किया जाता है?",
+        "A_en": "Prime Minister",
+        "A_hi": "प्रधान मंत्री",
+        "B_en": "Finance Secretary",
+        "B_hi": "वित्त सचिव",
+        "C_en": "Governor of RBI",
+        "C_hi": "आरबीआई के गवर्नर",
+        "D_en": "President of India",
+        "D_hi": "भारत के राष्ट्रपति",
+        "answer": "B",
+        "explanation_en": "The Chief Executive Officer (CEO) of NITI Aayog is appointed by the Prime Minister and oversees day-to-day operations.",
+        "explanation_hi": "नीति आयोग के मुख्य कार्यकारी अधिकारी (सीईओ) को प्रधान मंत्री द्वारा नियुक्त किया जाता है और वे दिन-प्रतिदिन के कार्यों की देखरेख करते हैं।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Yojana Aayog se NITI Aayog tak ka Parivartan",
+        "question_en": "Which of the following is a key difference between Yojana Aayog and NITI Aayog?",
+        "question_hi": "योजना आयोग और नीति आयोग के बीच निम्नलिखित में से कौन सा एक मुख्य अंतर है?",
+        "A_en": "NITI Aayog focuses on centralized planning",
+        "A_hi": "नीति आयोग केंद्रीकृत योजना पर ध्यान केंद्रित करता है",
+        "B_en": "NITI Aayog promotes cooperative federalism",
+        "B_hi": "नीति आयोग सहयोगात्मक राज्य लोकतंत्र को बढ़ावा देता है",
+        "C_en": "Yojana Aayog had no role in economic policies",
+        "C_hi": "योजना आयोग के आर्थिक नीतियों में कोई भूमिका नहीं थी",
+        "D_en": "NITI Aayog is not involved in state development",
+        "D_hi": "नीति आयोग राज्य विकास में शामिल नहीं है",
+        "answer": "B",
+        "explanation_en": "NITI Aayog promotes cooperative federalism, ensuring collaboration between the central government and states, unlike the top-down approach of Yojana Aayog.",
+        "explanation_hi": "नीति आयोग मुख्य रूप से केंद्र सरकार और राज्यों के बीच सहयोग को सुनिश्चित करता है, जो योजना आयोग के
