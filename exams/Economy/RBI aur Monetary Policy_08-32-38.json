@@ -1,0 +1,68 @@
+[
+{
+"subject": "Economy",
+"topic": "RBI and Monetary Policy",
+"question_en": "What is the role of RBI in regulating the money supply in the economy?",
+"question_hi": "RBI के लिए एक राज्य में नौकर का भाग क्या है?",
+"A_en": "Monetary policy formulation",
+"A_hi": "नौकरी का भाग मूल्यवर्धन का प्रभावों को उत्तराखंड को तिथियों के एनएमपी का विभिन्न",
+"B_en": "Monetary policy implementation",
+"B_hi": "नौकरी को उत्तराखंड के एनएमपी को अनुकुचरण",
+"C_en": "Research and Development in Economics",
+"C_hi": "राजनी और शास्त्री के अनुसूचकरण",
+"D_en": "Economic Indicators and Analysis",
+"D_hi": "राज्य मंत्रालय के अनुकुचरण",
+"question_en": "What is the primary role of the Reserve Bank of India in managing the country's monetary policy?",
+"question_hi": "राज्य के मूल मूल प्रायक्षण",
+"options": [
+{
+"option_id": 1,
+"option_text": "रैलेन के मूल",
+"answer_en": "Reserve Bank of India is the central bank of India and plays a crucial role in managing the country's monetary policy."
+},
+{
+"option_id": 2,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The primary role of the Reserve Bank of India is to regulate the money supply and maintain price stability in the economy."
+},
+{
+"option_id": 3,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The Reserve Bank of India determines interest rates and issues banknotes to control inflation and promote economic growth."
+},
+{
+"option_id": 4,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The Reserve Bank of India manages the liquidity of the financial system and regulates المصرفية institutions."
+},
+{
+"option_id": 5,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The Reserve Bank of India supervises and regulates the financial sector to promote financial stability."
+},
+{
+"option_id": 6,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The Reserve Bank of India conducts monetary transactions and provides banking services to the government and public sector banks."
+},
+{
+"option_id": 7,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The primary role of the Reserve Bank of India is to ensure price stability and maintain financial stability."
+},
+{
+"option_id": 8,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The Reserve Bank of India formulates monetary policy and issues banknotes."
+},
+{
+"option_id": 9,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The Reserve Bank of India is responsible for maintaining the stability of currency and banknotes."
+},
+{
+"option_id": 10,
+"option_text": "राज्य मैन के मूल",
+"answer_en": "The key function of the Reserve Bank of India is to regulate the banking system and control inflation."
+}
+]
