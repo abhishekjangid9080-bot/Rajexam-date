@@ -1,0 +1,176 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Acids, Bases, and Salts for Rajasthan exams and similar ones. Let me start by recalling the key concepts. First, the basic definitions: Acids turn blue litmus red, bases turn red litmus blue. Then there are indicators like litmus, phenolphthalein, and methyl orange. The pH scale is important too, with acids having a pH less than 7 and bases above 7. Neutral is 7.
+
+Next, common acids and bases. Acids could be like HCl, H2SO4, acetic acid. Bases include NaOH, Ca(OH)2. Salts are products of acid-base reactions. Neutralization reaction is a key point here. Also, the concept of strength: strong vs weak acids and bases. Maybe include some everyday examples like lemon juice (citric acid), soap (bases), and vinegar (acetic acid).
+
+Wait, some questions might test the understanding of how indicators work. For example, phenolphthalein is colorless in acids and pink in bases. Methyl orange turns red in acids and yellow in bases. Need to make sure those are correct.
+
+Oh, and common salts like sodium chloride, sodium carbonate. Their uses and properties. Also, the process of electrolysis in the context of salts. Maybe a question about how common salt is obtained from seawater.
+
+Another point is the reactivity of metals with acids, producing hydrogen gas. So a question about which metal reacts with acid to produce gas, like magnesium with HCl.
+
+I should also consider the types of salts. Normal salts, acid salts, basic salts. But maybe that's too detailed for a general science exam. Keep it basic.
+
+Let me think of possible questions. 
+
+1. Which indicator turns red in an acidic solution? Litmus, phenolphthalein, methyl orange, or universal indicator. Answer: Litmus.
+
+2. What is the pH of a neutral solution? 7, it's straightforward.
+
+3. Which of the following is a strong acid? HCl, acetic acid, H2CO3, citric acid. Answer: HCl.
+
+4. What is the product of an acid-base reaction? Salt and water. Neutralization.
+
+5. Which metal reacts with dilute HCl to produce hydrogen gas? Mg, Cu, Au, Ag. Mg is reactive.
+
+6. Which of these is a base? Sodium hydroxide, carbonic acid, sulfuric acid, acetic acid. NaOH is a base.
+
+7. What is the color of phenolphthalein in a basic solution? Pink. It's colorless in acidic.
+
+8. Which of the following is a natural indicator? Litmus, universal, methyl orange, phenolphthalein. Litmus from lichen.
+
+9. What is the common name for sodium bicarbonate? Baking powder or baking soda. Baking soda is correct.
+
+10. Which acid is present in gastric juice? Hydrochloric acid. Stomach produces HCl.
+
+Now, I need to frame these in both Hindi and English, ensuring the options are correctly translated. Also, check for any possible confusion in the options. For example, in question 3, making sure the other options are actually weak acids. Acetic is a weak acid, carbonic is weak, citric is weak. So HCl is the strong one.
+
+For question 9, sodium bicarbonate is baking soda, while baking powder is a mix of bicarbonate and an acid. So need to clarify that.
+
+Also, in question 10, the acid in stomach is HCl, not others. Need to confirm that.
+
+Let me verify each point and then structure the JSON accordingly, making sure the order and options are correct. Also, explanations should be concise and accurate.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "Which indicator turns red in an acidic solution?",
+    "question_hi": "कौन सा सूचक अम्लीय विलयन में लाल हो जाता है?",
+    "A_en": "Litmus", "A_hi": "लिटमस",
+    "B_en": "Phenolphthalein", "B_hi": "फिनॉल्फथेलीन",
+    "C_en": "Methyl Orange", "C_hi": "मिथाइल ऑरेंज",
+    "D_en": "Universal Indicator", "D_hi": "सार्वभौमिक सूचक",
+    "answer": "A",
+    "explanation_en": "Litmus paper turns red in acidic solutions and blue in basic solutions.",
+    "explanation_hi": "लिटमस पत्र अम्लीय घोल में लाल और क्षारीय घोल में नीला हो जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "What is the pH of a neutral solution?",
+    "question_hi": "उदासीन विलयन का pH मान क्या होता है?",
+    "A_en": "7", "A_hi": "7",
+    "B_en": "14", "B_hi": "14",
+    "C_en": "0", "C_hi": "0",
+    "D_en": "1", "D_hi": "1",
+    "answer": "A",
+    "explanation_en": "A neutral solution has a pH of 7, such as pure water.",
+    "explanation_hi": "एक उदासीन विलयन का pH मान 7 होता है, जैसे कि शुद्ध पानी।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "Which of the following is a strong acid?",
+    "question_hi": "निम्नलिखित में से कौन एक मजबूत अम्ल है?",
+    "A_en": "Hydrochloric acid", "A_hi": "हाइड्रोक्लोरिक अम्ल",
+    "B_en": "Acetic acid", "B_hi": "एसीटिक अम्ल",
+    "C_en": "Carbonic acid", "C_hi": "कार्बोनिक अम्ल",
+    "D_en": "Citric acid", "D_hi": "साइट्रिक अम्ल",
+    "answer": "A",
+    "explanation_en": "Hydrochloric acid (HCl) is a strong acid that completely dissociates in water.",
+    "explanation_hi": "हाइड्रोक्लोरिक अम्ल (HCl) एक मजबूत अम्ल है जो पानी में पूरी तरह से अपघटित हो जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "What is the product of an acid-base reaction?",
+    "question_hi": "एक अम्ल-क्षारक अभिक्रिया का उत्पाद क्या होता है?",
+    "A_en": "Salt and water", "A_hi": "लवण और पानी",
+    "B_en": "Acid and base", "B_hi": "अम्ल और क्षारक",
+    "C_en": "Only water", "C_hi": "केवल पानी",
+    "D_en": "Only salt", "D_hi": "केवल लवण",
+    "answer": "A",
+    "explanation_en": "An acid-base reaction produces a salt and water through neutralization.",
+    "explanation_hi": "एक अम्ल-क्षारक अभिक्रिया उदासीनीकरण के माध्यम से लवण और पानी उत्पन्न करती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "Which metal reacts with dilute HCl to produce hydrogen gas?",
+    "question_hi": "कौन सी धातु तनु HCl के साथ अभिक्रिया करके हाइड्रोजन गैस उत्पन्न करती है?",
+    "A_en": "Magnesium", "A_hi": "मैग्नीशियम",
+    "B_en": "Copper", "B_hi": "तांबा",
+    "C_en": "Gold", "C_hi": "सोना",
+    "D_en": "Silver", "D_hi": "चांदी",
+    "answer": "A",
+    "explanation_en": "Magnesium reacts with dilute hydrochloric acid to produce hydrogen gas and magnesium chloride.",
+    "explanation_hi": "मैग्नीशियम तनु हाइड्रोक्लोरिक अम्ल के साथ अभिक्रिया करके हाइड्रोजन गैस और मैग्नीशियम क्लोराइड उत्पन्न करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "Which of the following is a base?",
+    "question_hi": "निम्नलिखित में से कौन एक क्षारक है?",
+    "A_en": "Sodium hydroxide", "A_hi": "सोडियम हाइड्रॉक्साइड",
+    "B_en": "Carbonic acid", "B_hi": "कार्बोनिक अम्ल",
+    "C_en": "Sulfuric acid", "C_hi": "सल्फ्यूरिक अम्ल",
+    "D_en": "Acetic acid", "D_hi": "एसीटिक अम्ल",
+    "answer": "A",
+    "explanation_en": "Sodium hydroxide (NaOH) is a strong base that dissociates completely in water.",
+    "explanation_hi": "सोडियम हाइड्रॉक्साइड (NaOH) एक मजबूत क्षारक है जो पानी में पूरी तरह से अपघटित हो जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "What is the color of phenolphthalein in a basic solution?",
+    "question_hi": "क्षारीय विलयन में फिनॉल्फथेलीन का रंग क्या होता है?",
+    "A_en": "Colorless", "A_hi": "रंगहीन",
+    "B_en": "Pink", "B_hi": "गुलाबी",
+    "C_en": "Yellow", "C_hi": "पीला",
+    "D_en": "Red", "D_hi": "लाल",
+    "answer": "B",
+    "explanation_en": "Phenolphthalein turns pink in basic solutions and remains colorless in acidic solutions.",
+    "explanation_hi": "फिनॉल्फथेलीन क्षारीय घोल में गुलाबी रंग हो जाता है और अम्लीय घोल में रंगहीन रहता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "Which of the following is a natural indicator?",
+    "question_hi": "निम्नलिखित में से कौन एक प्राकृतिक सूचक है?",
+    "A_en": "Litmus", "A_hi": "लिटमस",
+    "B_en": "Universal Indicator", "B_hi": "सार्वभौमिक सूचक",
+    "C_en": "Methyl Orange", "C_hi": "मिथाइल ऑरेंज",
+    "D_en": "Phenolphthalein", "D_hi": "फिनॉल्फथेलीन",
+    "answer": "A",
+    "explanation_en": "Litmus is a natural indicator derived from lichen.",
+    "explanation_hi": "लिटमस एक प्राकृतिक सूचक है जो लिचेन से प्राप्त होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "What is the common name for sodium bicarbonate?",
+    "question_hi": "सोडियम बाइकार्बोनेट का सामान्य नाम क्या है?",
+    "A_en": "Baking powder", "A_hi": "बेकिंग पाउडर",
+    "B_en": "Baking soda", "B_hi": "बेकिंग सोडा",
+    "C_en": "Soda lime", "C_hi": "सोडा लाइम",
+    "D_en": "Washing soda", "D_hi": "वॉशिंग सोडा",
+    "answer": "B",
+    "explanation_en": "Sodium bicarbonate is commonly known as baking soda.",
+    "explanation_hi": "सोडियम बाइकार्बोनेट का सामान्य नाम बेकिंग सोडा है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Amal, Kshar aur Namak (Acids, Bases & Salts)",
+    "question_en": "Which acid is present in gastric juice?",
+    "question_hi": "गैस्ट्रिक रस में कौन सा अम्ल उपस्थित होता है?",
+    "A_en": "Hydrochloric acid", "A_hi": "हाइड्रोक्लोरिक अम्ल",
+    "B_en": "Citric acid", "B_hi": "साइट्रिक अम्ल",
+    "C_en": "Acetic acid", "C_hi": "एसीटिक अम्ल",
+    "D_en": "Carbonic acid", "D_hi": "कार्बोनिक अम्ल",
+    "answer": "A",
+    "explanation_en": "Hydrochloric acid is the primary acid in gastric juice, aiding digestion.",
+    "explanation_hi": "हाइड्रोक्लोरिक अम्ल गैस्ट्रिक रस में पाया जाने वाला मुख्य अम्ल है जो पाचन में सहायता करता है।"
+  }
+]
