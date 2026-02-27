@@ -1,0 +1,140 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions on Calendar, Clock, and Logical Puzzles for Rajasthan State Exams, SSC, and Railway exams. Let's start by breaking down each topic.
+
+First, for the Calendar section, I should include questions about calculating odd days, determining the day of the week for a given date, and maybe some leap year problems. For example, a question like "What was the day on 15th August 1947?" is classic.
+
+Next, Clock problems usually involve calculating angles between the hour and minute hands, or finding the time when the hands coincide. A common type is figuring out how many times the hands overlap in a day. Also, questions about the reflex angle between hands at specific times.
+
+Logical Puzzles can be a bit trickier. They might involve arranging people in order based on given clues, solving seating arrangements, or age-related problems. Maybe a question where you have to determine the correct age of a person based on their statements.
+
+I need to ensure each question has options in both Hindi and English. The answers and explanations must be accurate. Let me check an example for the calendar: if the question is about 15th August 1947, the correct day is Friday. How to calculate that? Count the number of odd days up to 1947, considering leap years.
+
+For the clock angle question: At 3:15, the minute hand is at 3 (15 minutes), and the hour hand is a quarter of the way between 3 and 4. Each hour is 30 degrees, so 3*30 + 0.25*30 = 97.5 degrees. The angle between them is 0 degrees because the minute hand catches up to the hour hand exactly.
+
+Wait, no. At 3:15, the hour hand moves. Each minute, the hour hand moves 0.5 degrees. So in 15 minutes, it moves 7.5 degrees. So the hour hand is at 3*30 + 7.5 = 97.5 degrees. The minute hand is at 90 degrees (15*6). The difference is 7.5 degrees. But the reflex angle would be 360 - 7.5 = 352.5, but maybe the question is asking for the smaller angle, which is 7.5. So the answer is 7.5 degrees, but options should be in the correct format.
+
+For logical puzzles, maybe a problem where three people have different ages, and based on their statements, you have to figure out the correct age. Or a seating arrangement where people are sitting around a table and you have to determine their positions based on clues.
+
+I need to make sure the difficulty is appropriate for these exams. Some questions can be straightforward, others a bit more complex. Also, check for any possible errors in the calculations or logic. Let me draft each question step by step, ensuring the Hindi and English versions are accurate. For example, a question about how many times the hands of a clock form a straight line in a day—answer is 22 times. Wait, actually, how many times do they form a straight line? They overlap 22 times a day, but forming a straight line can be when they are opposite (180 degrees) or overlapping. So in 12 hours, they form a straight line 11 times (6 times overlapping and 5 times opposite?), so total 22 times in 24 hours. Wait, actually, the hands form a straight line 22 times in a day. So maybe that's a good question.
+
+Another example: If today is Monday, what will be the day after 61 days? 61 divided by 7 is 8 weeks and 5 days, so 5 days after Monday is Saturday.
+
+Let me start creating each question, making sure the options are in both languages and the explanations are clear. Also, check that the answer options don't have any typos. For instance, in a question about the angle at a certain time, the options should be numerical. For logical puzzles, the options should be logical answers based on the given scenario.
+
+I need to cover each sub-topic adequately: calendar, clock, and logical puzzles. Maybe 3-4 questions each. Let's start with the first one.
+</think>
+
+[
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "15 अगस्त 1947 को कौन सा दिन था?",
+"question_hi": "15 अगस्त 1947 को कौन सा दिन था?",
+"A_en": "Friday", "A_hi": "शुक्रवार",
+"B_en": "Saturday", "B_hi": "शनिवार",
+"C_en": "Sunday", "C_hi": "रविवार",
+"D_en": "Monday", "D_hi": "सोमवार",
+"answer": "A",
+"explanation_en": "1947 के लिए कुल विषम दिन 0 हैं, इसलिए 15 अगस्त 1947 को शुक्रवार था।",
+"explanation_hi": "1947 के लिए कुल विषम दिन 0 हैं, इसलिए 15 अगस्त 1947 को शुक्रवार था।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "एक घड़ी में, 3:15 बजे के समय घंटे और मिनट के याचक के बीच कितने डिग्री का कोण बनता है?",
+"question_hi": "एक घड़ी में, 3:15 बजे के समय घंटे और मिनट के याचक के बीच कितने डिग्री का कोण बनता है?",
+"A_en": "0°", "A_hi": "0°",
+"B_en": "7.5°", "B_hi": "7.5°",
+"C_en": "15°", "C_hi": "15°",
+"D_en": "22.5°", "D_hi": "22.5°",
+"answer": "B",
+"explanation_en": "3:15 पर, मिनट की सुई 3 (90°) पर होती है, जबकि घंटे की सुई 3 के बराबर 7.5° आगे होती है। अंतर 7.5° होता है।",
+"explanation_hi": "3:15 पर, मिनट की सुई 3 (90°) पर होती है, जबकि घंटे की सुई 3 के बराबर 7.5° आगे होती है। अंतर 7.5° होता है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "एक व्यक्ति ने कहा, 'मुझे 21 वर्ष बाद अपनी उम्र के दोगुना याद है।' उसकी वर्तमान आयु क्या है?",
+"question_hi": "एक व्यक्ति ने कहा, 'मुझे 21 वर्ष बाद अपनी उम्र के दोगुना याद है।' उसकी वर्तमान आयु क्या है?",
+"A_en": "14 years", "A_hi": "14 वर्ष",
+"B_en": "21 years", "B_hi": "21 वर्ष",
+"C_en": "28 years", "C_hi": "28 वर्ष",
+"D_en": "42 years", "D_hi": "42 वर्ष",
+"answer": "D",
+"explanation_en": "माना वर्तमान उम्र x है। x + 21 = 2x → x = 21. लेकिन यह गलत है। सही समीकरण: x + 21 = 2(x - 21) → x = 42.",
+"explanation_hi": "माना वर्तमान उम्र x है। x + 21 = 2x → x = 21. लेकिन यह गलत है। सही समीकरण: x + 21 = 2(x - 21) → x = 42."
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "किसी महीने के 1 तारीख को रविवार है। यह महीना किस दिन समाप्त होगा?",
+"question_hi": "किसी महीने के 1 तारीख को रविवार है। यह महीना किस दिन समाप्त होगा?",
+"A_en": "Friday", "A_hi": "शुक्रवार",
+"B_en": "Saturday", "B_hi": "शनिवार",
+"C_en": "Sunday", "C_hi": "रविवार",
+"D_en": "Monday", "D_hi": "सोमवार",
+"answer": "B",
+"explanation_en": "31 दिन = 4 सप्ताह + 3 दिन। रविवार + 3 दिन = शनिवार।",
+"explanation_hi": "31 दिन = 4 सप्ताह + 3 दिन। रविवार + 3 दिन = शनिवार।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "एक घड़ी के संकेतक एक दिन में कितनी बार सीधी रेखा में होते हैं?",
+"question_hi": "एक घड़ी के संकेतक एक दिन में कितनी बार सीधी रेखा में होते हैं?",
+"A_en": "11", "A_hi": "11",
+"B_en": "22", "B_hi": "22",
+"C_en": "33", "C_hi": "33",
+"D_en": "44", "D_hi": "44",
+"answer": "B",
+"explanation_en": "12 घंटे में 11 बार, 24 घंटे में 22 बार।",
+"explanation_hi": "12 घंटे में 11 बार, 24 घंटे में 22 बार।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "अगर आज मंगलवार है, तो 61 दिन बाद कौन सा दिन होगा?",
+"question_hi": "अगर आज मंगलवार है, तो 61 दिन बाद कौन सा दिन होगा?",
+"A_en": "Saturday", "A_hi": "शनिवार",
+"B_en": "Sunday", "B_hi": "रविवार",
+"C_en": "Monday", "C_hi": "सोमवार",
+"D_en": "Tuesday", "D_hi": "मंगलवार",
+"answer": "A",
+"explanation_en": "61 ÷ 7 = 8 सप्ताह + 5 दिन। मंगलवार + 5 = शनिवार।",
+"explanation_hi": "61 ÷ 7 = 8 सप्ताह + 5 दिन। मंगलवार + 5 = शनिवार।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "तीन छात्र A, B, C हैं। B, A से छोटा है, लेकिन C से बड़ा है। सबसे छोटा कौन है?",
+"question_hi": "तीन छात्र A, B, C हैं। B, A से छोटा है, लेकिन C से बड़ा है। सबसे छोटा कौन है?",
+"A_en": "A", "A_hi": "A",
+"B_en": "B", "B_hi": "B",
+"C_en": "C", "C_hi": "C",
+"D_en": "None", "D_hi": "कोई नहीं",
+"answer": "C",
+"explanation_en": "B < A और B > C → C सबसे छोटा है।",
+"explanation_hi": "B < A और B > C → C सबसे छोटा है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "एक घड़ी में, 6:00 बजे के समय घंटे और मिनट के संकेतक के बीच कोण क्या होता है?",
+"question_hi": "एक घड़ी में, 6:00 बजे के समय घंटे और मिनट के संकेतक के बीच कोण क्या होता है?",
+"A_en": "90°", "A_hi": "90°",
+"B_en": "120°", "B_hi": "120°",
+"C_en": "150°", "C_hi": "150°",
+"D_en": "180°", "D_hi": "180°",
+"answer": "D",
+"explanation_en": "6:00 बजे दोनों संकेतक 6 और 12 पर होते हैं, जो 180° का कोण बनाते हैं।",
+"explanation_hi": "6:00 बजे दोनों संकेतक 6 और 12 पर होते हैं, जो 180° का कोण बनाते हैं।"
+},
+{
+"subject": "Reasoning",
+"topic": "Calendar, Clock aur Logical Puzzle",
+"question_en": "एक व्यक्ति ने कहा, 'दो बच्चों की उम्र का गुणनफल 21 है। बड़ा बच्चा छोटे बच्चे से 4 वर्ष बड़ा है।' बड़े बच्चे की आयु क्या है?",
+"question_hi": "एक व्यक्ति ने कहा, 'दो बच्चों की उम्र का गुणनफल 21 है। बड़ा बच्चा छोटे बच्चे से 4 वर्ष बड़ा है।' बड़े बच्चे की आयु क्या है?",
+"A_en": "3 years", "A_hi": "3 वर्ष",
+"B_en": "7 years", "B_hi": "7 वर्ष",
+"C_en": "21 years", "C_hi": "21 वर्ष",
+"D_en
