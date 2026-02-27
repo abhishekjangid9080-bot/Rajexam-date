@@ -1,0 +1,85 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the largest contributor to India's GDP?",
+"question_hi": "भारत का आरंभ में सरकार द्वारा ही इनका विभाग किस राज्य को समझाएं।",
+"A_en": "Andhra Pradesh",
+"A_hi": "अंधरा प्रादेशिका",
+"B_en": "Tamil Nadu",
+"B_hi": "तमिलनाडु",
+"C_en": "Gujarat",
+"C_hi": "गुजरात",
+"D_en": "Uttar Pradesh",
+"D_hi": "उत्तर प्रदेश",
+"answer": "C",
+"explanation_en": "Gujarat is the state in India where government expenditure contributes the largest share to its GDP.",
+"explanation_hi": "गुजरात भारत में विभाग की कर्मचारी सेवा का सबसे बड़े मंत्रों का भाग योजना भारत में क्या विभाग को क्या तिथि के मान्यां को क्या भारत में क्या विभाग को भारत में क्या विभाग को भारत में क्या विभाग को भारत में भारत में क्या विभाग को भारत में भारत में भारत में क्या विभाग को भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में भारत में",
+"question_hi": "भारत में भारत में भारत में भारत में भारत में भारत में भारत में",
+"options": [
+{
+"option_index": 1,
+"option_en": "भारत में भारत में भारत में",
+"option_hi": "भारत में भारत में",
+"answer_index": 1,
+"answer_en": "भारत में भारत में",
+"answer_hi": "भारत में भारत में",
+"explanation_en": "Government expenditure contributes the highest to the GDP of India.",
+"explanation_hi": "राष्ट्र योगीत भारत में भारत में",
+}
+],
+"question_en": "Which sector contributes the maximum to India's GDP?",
+"question_hi": "किस्तां भारत में",
+"options": [
+{
+"option_index": 1,
+"option_en": "Service Sector",
+"option_hi": "स्वयानिक",
+"answer_index": 1,
+"answer_en": "Service Sector",
+"answer_hi": "स्वयानिक",
+"explanation_en": "The service sector contributes the maximum to India's GDP.",
+"explanation_hi": "स्वयानिक भारत में",
+}
+{
+"option_index": 2,
+"option_en": "Manufacturing Sector",
+"option_hi": "तरिक",
+"answer_index": 2,
+"answer_en": "Manufacturing Sector",
+"answer_hi": "तरिक",
+"explanation_en": "The manufacturing sector contributes a significant portion of India's GDP.",
+"explanation_hi": "तरिक भारत में",
+},
+{
+"option_index": 3,
+"option_en": "Agriculture Sector",
+"option_hi": "पिक",
+"answer_index": 3,
+"answer_en": "Agriculture Sector",
+"answer_hi": "पिक",
+"explanation_en": "Agriculture sector plays a vital role in India's economy.",
+"explanation_hi": "पिक भारत में",
+}
+{
+"option_index": 4,
+"option_en": "Information Technology",
+"option_hi": "टिक",
+"answer_index": 4,
+"answer_en": "Information Technology",
+"answer_hi": "टिक",
+"explanation_en": "IT sector contributes to GDP growth.",
+"explanation_hi": "टिक भारत में",
+},
+{
+"option_index": 5,
+"option_en": "Education",
+"option_hi": "टिक",
+"answer_index": 5,
+"answer_en": "Education",
+"answer_hi": "टिक",
+"explanation_en": "Education sector plays a key role in human development.",
+"explanation_hi": "टिक भारत में",
+}
+]
+]
