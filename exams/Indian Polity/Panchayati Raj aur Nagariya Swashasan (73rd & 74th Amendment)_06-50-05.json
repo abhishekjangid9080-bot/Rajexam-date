@@ -1,0 +1,113 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments. Let me start by recalling the key points from these amendments. 
+
+The 73rd Amendment Act, 1992, deals with Panchayati Raj institutions. It established a three-tier system: Gram Panchayat, Panchayat Samiti, and Zila Parishad. It also guarantees 50% reservation for women in these bodies. The elections are to be conducted by the state election commission. The 74th Amendment Act, 1992, is about Urban Local Governments, setting up Municipal Corporations, Municipal Councils, and Nagar Panchayats for urban areas.
+
+Now, I should think of various aspects to cover in the questions. For example, the constitutional provisions, the structure of the institutions, reservations, powers, election processes, and the difference between the 73rd and 74th Amendments.
+
+Let me start with the first question. Maybe about the constitutional amendment related to Panchayati Raj. The answer is 73rd. Then another about Urban Local Governments being 74th. Next, the reservation for women is 50% in 73rd. The election process is handled by the state election commission. The three tiers in Panchayati Raj. The minimum population for a Panchayat as per 73rd. The powers of the Panchayats in the 73rd Amendment. The reservation for SCs and STs. Differences between the two amendments. And maybe a question about the maximum term for a Panchayat. 
+
+I need to ensure that each question has four options, with the correct answer clearly marked. The explanations should clarify why the correct answer is right and why others are not. Also, the Hindi and English versions should be consistent. Let me check each point again to avoid errors. For example, the 74th Amendment deals with urban areas, so the question should not mix it with rural. Also, the 73rd Amendment requires a minimum population of 2000 for a Gram Panchayat. The term of office is five years. 
+
+Wait, the term for Panchayats is five years, but in the 74th Amendment, the term for urban bodies is also five years. Maybe a question comparing the two. Another point is the establishment of the State Election Commission for conducting Panchayat elections. 
+
+I should make sure that the questions are not overlapping and cover various aspects. Also, the difficulty level should be moderate to high, suitable for exams like Rajasthan LDC, CET, RAS, SSC, and Railway. Each question needs a clear and precise explanation in both languages. Let me draft each question step by step, ensuring accuracy and clarity.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "73rd Constitutional Amendment Act, 1992 is related to which of the following?",
+    "question_hi": "73वें संविधान संशोधन अधिनियम, 1992 निम्नलिखित में से किस से संबंधित है?",
+    "A_en": "Formation of Urban Local Governments", "A_hi": "नगरीय स्थानीय सरकारों के निर्माण",
+    "B_en": "Formation of Panchayati Raj Institutions", "B_hi": "पंचायती राज संस्थानों के निर्माण",
+    "C_en": "Reservation of seats for SC/ST in Parliament", "C_hi": "संसद में अनुसूचित जाति/अनुसूचित जनजाति के लिए सीटों के आरक्षण",
+    "D_en": "Amendment in the Constitution of India for the judiciary", "D_hi": "न्यायपालिका के लिए भारत के संविधान में संशोधन",
+    "answer": "B",
+    "explanation_en": "The 73rd Constitutional Amendment Act, 1992 established the framework for Panchayati Raj Institutions (PRIs) at the grassroots level, including their structure, powers, and election procedures.",
+    "explanation_hi": "73वें संविधान संशोधन अधिनियम, 1992 ने जमीनी स्तर पर पंचायती राज संस्थानों (पीआरआई) के लिए ढांचा स्थापित किया, जिसमें उनकी संरचना, शक्तियां और चुनाव प्रक्रियाएँ शामिल थीं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum population required for a Gram Panchayat under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत एक ग्राम पंचायत के लिए न्यूनतम जनसंख्या क्या है?",
+    "A_en": "500", "A_hi": "500",
+    "B_en": "1000", "B_hi": "1000",
+    "C_en": "2000", "C_hi": "2000",
+    "D_en": "5000", "D_hi": "5000",
+    "answer": "C",
+    "explanation_en": "Under the 73rd Amendment Act, a Gram Panchayat is formed for every 2000 people or if the population is less than 2000, the district council may form one Gram Panchayat for multiple villages.",
+    "explanation_hi": "73वें संशोधन अधिनियम के तहत, प्रत्येक 2000 लोगों के लिए एक ग्राम पंचायत बनाई जाती है या यदि जनसंख्या 2000 से कम है, तो जिला परिषद एक ग्राम पंचायत के लिए कई गांवों को जोड़ सकती है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a key feature of the 74th Constitutional Amendment Act, 1992?",
+    "question_hi": "निम्नलिखित में से कौन सा 74वें संविधान संशोधन अधिनियम, 1992 की मुख्य विशेषता है?",
+    "A_en": "Reservation of 50% seats for women", "A_hi": "महिलाओं के लिए 50% सीटों का आरक्षण",
+    "B_en": "Establishment of State Election Commission", "B_hi": "राज्य चुनाव आयोग की स्थापना",
+    "C_en": "Formation of Urban Local Governments", "C_hi": "नगरीय स्थानीय सरकारों के निर्माण",
+    "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+    "answer": "C",
+    "explanation_en": "The 74th Amendment Act, 1992 primarily focuses on the establishment of Urban Local Governments (Municipal Corporations, Municipal Councils, and Nagar Panchayats) to manage urban areas effectively.",
+    "explanation_hi": "74वें संशोधन अधिनियम, 1992 नगरीय स्थानीय सरकारों (नगर निगम, नगर परिषद और नगर पंचायतों) की स्थापना पर ध्यान केंद्रित करता है ताकि शहरी क्षेत्रों के प्रबंधन को प्रभावी ढंग से किया जा सके।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under the 73rd Amendment, what is the reservation percentage for women in local bodies?",
+    "question_hi": "73वें संशोधन के तहत स्थानीय निकायों में महिलाओं के लिए आरक्षण का प्रतिशत क्या है?",
+    "A_en": "33%", "A_hi": "33%",
+    "B_en": "40%", "B_hi": "40%",
+    "C_en": "50%", "C_hi": "50%",
+    "D_en": "60%", "D_hi": "60%",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment Act mandates a 50% reservation for women in all local self-government bodies, including Gram Panchayats, Panchayat Samitis, and Zila Parishads.",
+    "explanation_hi": "73वें संशोधन अधिनियम से सभी स्वशासित स्थानीय निकायों, जैसे ग्राम पंचायत, पंचायत समिति और जिला परिषद, में महिलाओं के लिए 50% आरक्षण आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment provides for the establishment of Nagar Panchayats for areas with population between 10,000 to 50,000?",
+    "question_hi": "10,000 से 50,000 जनसंख्या वाले क्षेत्रों के लिए नगर पंचायतों की स्थापना के लिए कौन सा संविधान संशोधन प्रदान करता है?",
+    "A_en": "73rd Amendment", "A_hi": "73वें संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वें संशोधन",
+    "C_en": "72nd Amendment", "C_hi": "72वें संशोधन",
+    "D_en": "75th Amendment", "D_hi": "75वें संशोधन",
+    "answer": "B",
+    "explanation_en": "The 74th Constitutional Amendment Act, 1992 introduces the concept of Nagar Panchayats for semi-urban areas with populations between 10,000 and 50,000 to ensure effective governance.",
+    "explanation_hi": "74वें संविधान संशोधन अधिनियम, 1992 ने 10,000 से 50,000 जनसंख्या वाले अर्द्ध-शहरी क्षेत्रों के लिए नगर पंचायतों की अवधारणा पेश की ताकि प्रभावी शासन सुनिश्चित किया जा सके।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for members of a Panchayat established under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत स्थापित एक पंचायत के सदस्यों का कार्यकाल क्या है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "Under the 73rd Amendment, the term of office for all members of a Panchayat is five years, after which fresh elections are held.",
+    "explanation_hi": "73वें संशोधन के तहत, पंचायत के सभी सदस्यों का कार्यकाल पांच वर्ष होता है, जिसके बाद ताजगोही चुनाव होते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of a Nagar Panchayat?",
+    "question_hi": "निम्नलिखित में से कौन एक नगर पंचायत का कार्य नहीं है?",
+    "A_en": "Water supply and sanitation", "A_hi": "पानी की आपूर्ति और स्वच्छता",
+    "B_en": "Urban planning and development", "B_hi": "शहरी योजना और विकास",
+    "C_en": "Collection of property tax", "C_hi": "संपत्ति कर के आकलन",
+    "D_en": "Conduct of elections at the national level", "D_hi": "राष्ट्रीय स्तर पर चुनाव का आयोजन",
+    "answer": "D",
+    "explanation_en": "Nagar Panchayats are responsible for local governance functions such as water supply, sanitation, and urban planning. Conducting national elections is the role of the Election Commission of India.",
+    "explanation_hi": "नगर पंचायतें पानी की आपूर्ति, स्वच्छता और शहरी योजना जैसे स्थानीय शासन के कार्यों के लिए उत्तरदायी हैं। राष्ट्रीय चुनावों का आयोजन भारत के चुनाव आयोग की जिम्मेदारी है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under the 74th Amendment, who is responsible for the delimitation of constituencies for urban local bodies?",
+    "question_hi": "74व
