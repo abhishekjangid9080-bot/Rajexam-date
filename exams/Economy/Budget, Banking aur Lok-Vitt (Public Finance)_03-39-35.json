@@ -1,0 +1,169 @@
+<think>
+Okay, let's tackle this task. The user needs 10 high-quality MCQs on the topic of Budget, Banking, and Public Finance for Rajasthan State Exams, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style. The output should be a JSON array with specific structure.
+
+First, I need to recall key concepts related to budgets, banking, and public finance. Topics might include types of budgets, fiscal policies, banking terms, government revenues, and expenditures. Since it's for Rajasthan exams, including some local context might help, but I'm not sure if necessary. Maybe stick to general Indian concepts unless specific to Rajasthan.
+
+Each question should have a clear correct answer and plausible distractors. Let me brainstorm some questions. 
+
+1. Definition of a balanced budget. Options: Balanced, Surplus, Deficit, Zero-based. Correct answer is Balanced. But wait, sometimes balanced budget is when revenue equals expenditure. Surplus is when revenue exceeds. So the question could be about which term refers to revenue equal to expenditure. That's a good start.
+
+2. Which bank issues currency in India? Reserve Bank of India. That's a standard question. Distractors could be other banks like SBI, NABARD, etc.
+
+3. Direct taxes vs indirect taxes. Example: Income tax is direct. Distractors might include GST, excise, etc. So the question could be which is a direct tax.
+
+4. Fiscal deficit definition. It's when government expenditure exceeds its revenue. So the question would ask which situation leads to fiscal deficit. Distractors could be related to other deficits like revenue deficit, primary deficit.
+
+5. Role of the finance commission. It recommends the distribution of taxes between center and states. That's a key point for public finance.
+
+6. Which is a non-tax revenue source for the government? Options like fines, fees, interest, grants. Grants might be a distractor, but non-tax could include interest on loans, fees for services, etc.
+
+7. What is the primary objective of a budget? Options: Economic growth, Price stability, All of the above. Since budgets aim for multiple goals, "All of the above" is correct.
+
+8. Which of the following is a component of the public debt? National debt, internal loans, external loans. So the correct answer is all of these.
+
+9. When the government's expenditure exceeds its revenue, it is called a deficit. So the question is straightforward.
+
+10. Purpose of the Union Budget. It outlines the government's financial plan, including revenue and expenditure estimates. The options could include this as correct.
+
+Now, translating these into both languages. Ensure the Hindi translations are accurate and match the English terms. For example, "balanced budget" is "संतुलित बजट" in Hindi. Need to be careful with technical terms to avoid confusion.
+
+Check the difficulty level. Since it's for State and Central exams, the questions should be moderate, testing understanding of basic concepts. Avoid very complex or niche topics unless they're standard in the syllabus.
+
+Answers must be correct and explanations concise. For example, in question 2, the Reserve Bank of India issues currency notes, so the explanation should state that clearly.
+
+Make sure the JSON structure is correct, with all keys present. Each question object should have subject, topic, question in both languages, options A-D in both, answer, and explanations in both languages.
+
+Let me verify each question for accuracy. For example, in question 5, the Finance Commission's role is to recommend the distribution of revenue between center and states. That's a key point from the Indian Constitution.
+
+Also, check for any possible errors in the options. For instance, in question 3, the direct tax is income tax, so the other options like GST are indirect.
+
+Once all questions are drafted, validate the JSON to ensure no syntax errors. Use proper commas, brackets, and quotation marks. Since the user wants raw JSON without any extra text, the response must be clean.
+</think>
+
+[
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "Which of the following is the correct definition of a balanced budget?",
+        "question_hi": "निम्नलिखित में से कौन संतुलित बजट की सही परिभाषा है?",
+        "A_en": "When government revenue is equal to its expenditure", "A_hi": "जब सरकारी आय उसके खरच से बराबर हो",
+        "B_en": "When government expenditure exceeds its revenue", "B_hi": "जब सरकारी खरच उसकी आय से अधिक हो",
+        "C_en": "When government revenue exceeds its expenditure", "C_hi": "जब सरकारी आय उसके खरच से अधिक हो",
+        "D_en": "When government expenditure is zero", "D_hi": "जब सरकारी खरच शून्य हो",
+        "answer": "A",
+        "explanation_en": "A balanced budget occurs when government revenue equals its expenditure.",
+        "explanation_hi": "जब सरकारी आय उसके खरच से बराबर होती है, तब संतुलित बजट कहलाता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "Which bank is responsible for issuing currency notes in India?",
+        "question_hi": "भारत में मुद्रा नोट जारी करने के लिए कौन सा बैंक उत्तरदायी है?",
+        "A_en": "State Bank of India", "A_hi": "भारतीय राज्य बैंक",
+        "B_en": "Reserve Bank of India", "B_hi": "भारतीय रिजर्व बैंक",
+        "C_en": "National Bank for Agriculture and Rural Development", "C_hi": "कृषि और ग्रामीण विकास का राष्ट्रीय बैंक",
+        "D_en": "Nabard", "D_hi": "नाबार्ड",
+        "answer": "B",
+        "explanation_en": "The Reserve Bank of India is authorized to issue currency notes in India.",
+        "explanation_hi": "भारतीय रिजर्व बैंक को भारत में मुद्रा नोट जारी करने का अधिकार है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "Which of the following is a direct tax?",
+        "question_hi": "निम्नलिखित में कौन सी प्रत्यक्ष कर है?",
+        "A_en": "Goods and Services Tax (GST)", "A_hi": "वस्तु एवं सेवा कर (जीएसटी)",
+        "B_en": "Income Tax", "B_hi": "आयकर",
+        "C_en": "Excise Duty", "C_hi": "उत्पाद शुल्क",
+        "D_en": "Sales Tax", "D_hi": "बिक्री कर",
+        "answer": "B",
+        "explanation_en": "Income Tax is collected directly from individuals or organizations based on their income.",
+        "explanation_hi": "आयकर व्यक्ति या संगठनों की आय के आधार पर प्रत्यक्ष रूप से वसूल किया जाता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "What is fiscal deficit?",
+        "question_hi": "वित्तीय घाटा क्या है?",
+        "A_en": "Excess of government expenditure over revenue", "A_hi": "सरकारी खरचे आय से अधिक होना",
+        "B_en": "Excess of government revenue over expenditure", "B_hi": "सरकारी आय खरचे से अधिक होना",
+        "C_en": "Equal government expenditure and revenue", "C_hi": "बराबर सरकारी खरचे और आय",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "A",
+        "explanation_en": "Fiscal deficit occurs when government expenditure exceeds its revenue.",
+        "explanation_hi": "जब सरकारी खरचा आय से अधिक होता है, तो वित्तीय घाटा होता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "Which of the following is the responsibility of the Finance Commission?",
+        "question_hi": "निम्नलिखित में से कौन वित्त आयोग की जिम्मेदारी है?",
+        "A_en": "To recommend the distribution of taxes between the Union and States", "A_hi": "केंद्र और राज्यों के बीच कर वितरण के तरीका की सिफारिश करना",
+        "B_en": "To manage the Reserve Bank of India", "B_hi": "भारतीय रिजर्व बैंक का प्रबंधन करना",
+        "C_en": "To issue currency notes", "C_hi": "मुद्रा नोट जारी करना",
+        "D_en": "To regulate foreign trade", "D_hi": "विदेशी व्यापार की नियमन करना",
+        "answer": "A",
+        "explanation_en": "The Finance Commission recommends the distribution of taxes and financial resources between the Union and States.",
+        "explanation_hi": "वित्त आयोग केंद्र और राज्यों के बीच कर और वित्तीय संसाधनों के वितरण की सिफारिश करता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "Which of the following is a non-tax revenue source for the government?",
+        "question_hi": "निम्नलिखित में से कौन सरकार का एक कर-रहित आय स्रोत है?",
+        "A_en": "Taxes", "A_hi": "कर",
+        "B_en": "Fees and fines", "B_hi": "शुल्क और जुर्माना",
+        "C_en": "Grants from foreign governments", "C_hi": "विदेशी सरकारों से अनुदान",
+        "D_en": "Interest income", "D_hi": "ब्याज आय",
+        "answer": "B",
+        "explanation_en": "Fees and fines are examples of non-tax revenue sources.",
+        "explanation_hi": "शुल्क और जुर्माना कर-रहित आय के उदाहरण हैं।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "What is the primary objective of a government budget?",
+        "question_hi": "सरकारी बजट का प्रमुख उद्देश्य क्या है?",
+        "A_en": "To reduce unemployment", "A_hi": "बेरोजगारी कम करना",
+        "B_en": "To achieve economic growth", "B_hi": "आर्थिक विकास को प्राप्त करना",
+        "C_en": "To maintain price stability", "C_hi": "मूल्य स्थिरता बनाए रखना",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "A government budget aims to reduce unemployment, promote economic growth, and maintain price stability.",
+        "explanation_hi": "सरकारी बजट बेरोजगारी कम करने, आर्थिक विकास को बढ़ावा देने और मूल्य स्थिरता बनाए रखने के उद्देश्य से तैयार किया जाता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "Which of the following is a component of public debt?",
+        "question_hi": "निम्नलिखित में से कौन सार्वजनिक ऋण का एक घटक है?",
+        "A_en": "National debt", "A_hi": "राष्ट्रीय ऋण",
+        "B_en": "Internal loans", "B_hi": "आंतरिक ऋण",
+        "C_en": "External loans", "C_hi": "बाह्य ऋण",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Public debt includes national debt, internal loans, and external loans.",
+        "explanation_hi": "सार्वजनिक ऋण में राष्ट्रीय ऋण, आंतरिक ऋण और बाह्य ऋण शामिल होते हैं।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "When government expenditure exceeds its revenue, it is called a ______.",
+        "question_hi": "जब सरकारी खरचा आय से अधिक हो जाता है, तो इसे ______ कहा जाता है।",
+        "A_en": "Surplus budget", "A_hi": "अधिशेष बजट",
+        "B_en": "Deficit budget", "B_hi": "निर्धन बजट",
+        "C_en": "Balanced budget", "C_hi": "संतुलित बजट",
+        "D_en": "Zero-based budget", "D_hi": "शून्य आधारित बजट",
+        "answer": "B",
+        "explanation_en": "A deficit budget occurs when expenditure exceeds revenue.",
+        "explanation_hi": "जब खरचा आय से अधिक होता है, तब निर्धन बजट होता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Budget, Banking aur Lok-Vitt (Public Finance)",
+        "question_en": "What is the purpose of the Union Budget?",
+        "question_hi": "संघ बजट का उद्देश्य क्या है?",
+        "A_en": "To announce new laws", "A_hi": "नए कानूनों की घोषणा करना",
+        "B_en": "To outline government policies", "B_hi": "सरकारी नीतियों का रूपरेखा तैयार करना",
+        "C_en": "To present revenue and expenditure estimates", "C_hi": "आय और खरचे के अनुमान प्रस्तुत करना",
+        "D_en": "All of the above", "D
