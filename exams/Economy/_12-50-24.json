@@ -1,0 +1,30 @@
+[
+{
+"subject": "Economy",
+"topic": "Government Policies and Programmes",
+"question_en": "Which of the following policies was introduced by the Modi government to promote economic growth?",
+"question_hi": "मोदी सरकार ने किस नियमित कार्यक्रम को भारत के वृद्धि प्रबोध के लिए प्रस्तुति की विवरण करने के लिए एक नंबर कार्यक्रम",
+"options": [
+{
+"option_text_en": "GST (Goods and Services Tax)",
+"option_text_hi": "ग्रुप सीटेंट (विश्वविद्यापूर्व (गोपाल) नियमित रचना",
+"option_text_hi": "गोपाल नियमित रचना",
+"option_correct": "A"
+},
+{
+"option_text_en": "National Income",
+"option_text_hi": "भारतीय आर्थ",
+"option_correct": "B"
+},
+{
+"option_text_en": "Micro, Small and Medium Enterprises (MSME)",
+"option_text_hi": "माइक्रो, मेड और मेडिया सीटेंट (MSME)",
+"option_correct": "C"
+},
+{
+"option_text_en": "Farmers' Welfare",
+"option_text_hi": "भुजरे वैलेंट कायामीट (फॉर्मेंट वैलेंट)",
+"option_correct": "D"
+}
+]
+]
