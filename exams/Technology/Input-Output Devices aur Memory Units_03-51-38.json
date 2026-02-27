@@ -1,0 +1,152 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Input-Output Devices and Memory Units in Technology, suitable for Rajasthan State Exams, SSC, and Railway exams. The questions and answers need to be in both Hindi and English, following the Testbook style. The JSON structure is provided, and the output should strictly adhere to that format without any extra text.
+
+First, I need to brainstorm topics under Input-Output Devices and Memory Units. For Input Devices, things like keyboard, mouse, scanner, microphone come to mind. Output devices could include monitor, printer, speakers, projectors. For memory units, I should cover primary (RAM, ROM) and secondary (HDD, SSD, USB drives) storage. Also, concepts like cache memory, virtual memory, and units like KB, MB, GB, TB are important.
+
+Next, I need to create questions that test understanding. For example, identifying which is an input device, which is output, differentiating between RAM and ROM, memory unit conversions. I should ensure that each question has four options, with one correct answer. The explanations should clarify why the correct answer is right and why others are wrong.
+
+Now, checking for possible mistakes. I need to make sure that the questions are clear and unambiguous. For example, a question about the fastest memory might confuse cache vs RAM. I have to confirm technical accuracy. Also, units conversion questions should be correct in their conversions.
+
+Let me start drafting each question one by one. For the first question, maybe ask about an input device. The options could be a printer (output), mouse (input), monitor (output), keyboard (input). Then the correct answers would be B and D. Wait, but each question should have one correct answer. So perhaps ask which is an input device and provide options where only one is correct. For example, Mouse as B, others as output or other devices.
+
+For memory units, a question about the correct order from smallest to largest: KB, MB, GB, TB. That's a common question. Then another about which is not a storage device, like a printer. Also, a question about volatile memory being RAM.
+
+I need to alternate between Hindi and English in the questions but ensure the answer options are correctly translated. Also, the explanations need to be concise in both languages.
+
+Let me verify each question's correctness. For example, a question asking which is an output device: options like scanner (input), speaker (output), keyboard (input), mouse (input). So the answer is speaker. Another question: which is a secondary storage device. HDD is the answer. Another on the fastest memory: cache is faster than RAM. Also, a question about which is not a memory unit, like pixel. That's a good one.
+
+I need to ensure that all 10 questions cover different aspects without repetition. After drafting, I'll check the JSON structure to make sure each entry has the required fields and the translations are accurate. Also, confirm that the answer letters (A, B, C, D) match the correct options. Finally, validate the explanations to ensure they correctly justify the answers.
+</think>
+
+[
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is an input device?",
+  "question_hi": "निम्नलिखित में से कौन एक इनपुट डिवाइस है?",
+  "A_en": "Printer", "A_hi": "प्रिंटर",
+  "B_en": "Mouse", "B_hi": "माउस",
+  "C_en": "Monitor", "C_hi": "मॉनिटर",
+  "D_en": "Speaker", "D_hi": "स्पीकर",
+  "answer": "B",
+  "explanation_en": "A mouse is a pointing input device used to control the cursor on the screen.",
+  "explanation_hi": "माउस स्क्रीन पर कर्सर को नियंत्रित करने के लिए एक पॉइंटिंग इनपुट डिवाइस है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is a secondary storage device?",
+  "question_hi": "निम्नलिखित में से कौन एक द्वितीयक भंडारण डिवाइस है?",
+  "A_en": "RAM", "A_hi": "RAM",
+  "B_en": "ROM", "B_hi": "ROM",
+  "C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+  "D_en": "Cache Memory", "D_hi": "कैश मेमोरी",
+  "answer": "C",
+  "explanation_en": "A hard disk is a secondary storage device used for long-term data storage.",
+  "explanation_hi": "हार्ड डिस्क लंबे समय तक डेटा संग्रहित करने के लिए एक द्वितीयक भंडारण डिवाइस है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which memory is fastest in a computer?",
+  "question_hi": "कम्प्यूटर में कौन सी मेमोरी सबसे तेज होती है?",
+  "A_en": "RAM", "A_hi": "RAM",
+  "B_en": "ROM", "B_hi": "ROM",
+  "C_en": "Cache Memory", "C_hi": "कैश मेमोरी",
+  "D_en": "Hard Disk", "D_hi": "हार्ड डिस्क",
+  "answer": "C",
+  "explanation_en": "Cache memory is the fastest memory in a computer as it is used to store frequently accessed data.",
+  "explanation_hi": "कैश मेमोरी कम्प्यूटर में सबसे तेज होती है क्योंकि इसका उपयोग अक्सर एक्सेस किए गए डेटा को संग्रहीत करने के लिए किया जाता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is not a memory unit?",
+  "question_hi": "निम्नलिखित में से कौन एक मेमोरी इकाई नहीं है?",
+  "A_en": "TB", "A_hi": "टीबी",
+  "B_en": "PB", "B_hi": "पीबी",
+  "C_en": "GB", "C_hi": "जीबी",
+  "D_en": "Pixel", "D_hi": "पिक्सेल",
+  "answer": "D",
+  "explanation_en": "Pixel refers to a single point in a digital image and is not a unit of memory.",
+  "explanation_hi": "पिक्सेल एक डिजिटल छवि में एक एकल बिंदु को संदर्भित करता है और यह मेमोरी की इकाई नहीं है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is an output device?",
+  "question_hi": "निम्नलिखित में से कौन एक आउटपुट डिवाइस है?",
+  "A_en": "Keyboard", "A_hi": "कीबोर्ड",
+  "B_en": "Scanner", "B_hi": "स्कैनर",
+  "C_en": "Projector", "C_hi": "प्रोजेक्टर",
+  "D_en": "Microphone", "D_hi": "माइक्रोफोन",
+  "answer": "C",
+  "explanation_en": "A projector is an output device that displays images or videos on a large surface.",
+  "explanation_hi": "एक प्रोजेक्टर एक आउटपुट डिवाइस है जो छवियों या वीडियो को बड़ी सतह पर प्रदर्शित करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which memory is non-volatile?",
+  "question_hi": "कौन सी मेमोरी अवाष्पीकरणीय (नॉन-वोलेटाइल) है?",
+  "A_en": "RAM", "A_hi": "RAM",
+  "B_en": "ROM", "B_hi": "ROM",
+  "C_en": "Cache", "C_hi": "कैश",
+  "D_en": "Secondary Storage", "D_hi": "द्वितीयक स्टोरेज",
+  "answer": "B",
+  "explanation_en": "ROM (Read-Only Memory) is non-volatile, retaining data even when power is off.",
+  "explanation_hi": "ROM (रीड-ओनली मेमोरी) अवाष्पीकरणीय है, जोकि शक्ति बंद होने पर भी डेटा को बरकरार रखता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is a correct order of memory units from smallest to largest?",
+  "question_hi": "निम्नलिखित में से कौन मेमोरी इकाइयों का सही क्रम छोटे से बड़े तक है?",
+  "A_en": "KB < MB < GB < TB", "A_hi": "केबी < एमबी < जीबी < टीबी",
+  "B_en": "GB < MB < KB < TB", "B_hi": "जीबी < एमबी < केबी < टीबी",
+  "C_en": "MB < KB < GB < TB", "C_hi": "एमबी < केबी < जीबी < टीबी",
+  "D_en": "TB < GB < MB < KB", "D_hi": "टीबी < जीबी < एमबी < केबी",
+  "answer": "A",
+  "explanation_en": "The correct order of memory units is KB < MB < GB < TB.",
+  "explanation_hi": "मेमोरी इकाइयों का सही क्रम केबी < एमबी < जीबी < टीबी है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which device is used to convert voice into digital signal?",
+  "question_hi": "किस डिवाइस का उपयोग आवाज को डिजिटल सिग्नल में बदलने के लिए किया जाता है?",
+  "A_en": "Speaker", "A_hi": "स्पीकर",
+  "B_en": "Microphone", "B_hi": "माइक्रोफोन",
+  "C_en": "Headphone", "C_hi": "हेडफोन",
+  "D_en": "Scanner", "D_hi": "स्कैनर",
+  "answer": "B",
+  "explanation_en": "A microphone converts voice into digital signals for input into a computer.",
+  "explanation_hi": "माइक्रोफोन कम्प्यूटर में इनपुट के लिए आवाज को डिजिटल सिग्नल में बदलता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "Which of the following is not an output device?",
+  "question_hi": "निम्नलिखित में से कौन एक आउटपुट डिवाइस नहीं है?",
+  "A_en": "Printer", "A_hi": "प्रिंटर",
+  "B_en": "Plotter", "B_hi": "प्लॉटर",
+  "C_en": "Scanner", "C_hi": "स्कैनर",
+  "D_en": "Projector", "D_hi": "प्रोजेक्टर",
+  "answer": "C",
+  "explanation_en": "A scanner is an input device used to digitize physical documents.",
+  "explanation_hi": "स्कैनर डिजिटल रूप देने के लिए भौतिक दस्तावेजों को इनपुट करने का एक डिवाइस है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Input-Output Devices aur Memory Units",
+  "question_en": "What is the volatile memory in a computer?",
+  "question_hi": "कम्प्यूटर में वाष्पीकरणीय (वोलेटाइल) मेमोरी क्या है?",
+  "A_en": "RAM", "A_hi": "RAM",
+  "B_en": "ROM", "B_hi": "ROM",
+  "C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+  "D_en": "SSD", "D_hi": "एसएसडी",
+  "answer": "A",
+  "explanation_en": "RAM is volatile memory, meaning it loses data when the power is turned off.",
+  "explanation_hi": "RAM वाष्पीकरणीय मेमोरी है, जिसका अर्थ है कि इसमें डेटा शक्ति बंद करने पर खो जाता है।"
+}
+]
