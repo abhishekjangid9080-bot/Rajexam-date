@@ -1,0 +1,149 @@
+<think>
+Okay, let's start by understanding the user's request. They want me to create 10 high-quality MCQs in both Hindi and English for General Science topics related to Oxidation, Reduction, and Catalysts. The questions should be suitable for exams like Rajasthan State Exams, SSC, and Railway.
+
+First, I need to recall key concepts. Oxidation and reduction are opposite processes. Oxidation can be loss of electrons or oxygen, while reduction is gain of electrons or hydrogen. Catalysts are substances that speed up reactions without being consumed. There's also the concept of oxidizing and reducing agents. For example, in a reaction, the oxidizing agent is reduced, and the reducing agent is oxidized. Catalysts can be homogeneous or heterogeneous.
+
+Now, for each question, I need to create two versions in Hindi and English. The structure must follow the provided JSON format. Let me start brainstorming possible questions. 
+
+Question 1: What is oxidation? Options could be about electron loss, oxygen gain, etc. The correct answer is electron loss or oxygen gain.
+
+Question 2: What is reduction? Similar structure but correct answer is electron gain or oxygen loss.
+
+Question 3: Catalyst in a reaction... Options about whether it increases rate, is consumed, etc. Correct answer is it increases rate without being consumed.
+
+Question 4: Which is a reducing agent? Maybe options like H2, O2, etc. H2 is a reducing agent as it donates electrons.
+
+Question 5: Which is an oxidizing agent? O2 would be correct here.
+
+Question 6: Catalyst in industrial process example, like Haber process uses iron.
+
+Question 7: Effect of catalyst on activation energy. It lowers the activation energy.
+
+Question 8: What happens to a catalyst in a reaction? It remains unchanged.
+
+Question 9: Which process involves oxidation? Rusting of iron involves oxidation.
+
+Question 10: Which reaction is a redox reaction? Combustion of methane involves both oxidation and reduction.
+
+Now, I need to translate these into Hindi, ensuring the terms are correctly translated. For example, "oxidation" is "ऑक्सीकरण", "reduction" is "अपचयन", and "catalyst" is "उत्प्रेरक". 
+
+I should also check for any possible errors. For example, in question 4, H2 is a reducing agent because it donates electrons. O2 is an oxidizing agent. In the Haber process, iron is the catalyst. Activation energy is lowered by catalysts. Redox reactions involve both oxidation and reduction. 
+
+Each explanation must be concise and accurate. For example, explaining that a catalyst provides an alternative pathway with lower activation energy. Ensuring that the options are plausible and the correct answer is clearly the best choice. No overlapping options and each question should test understanding of the key concepts. 
+
+Double-checking the JSON structure as per the example provided. Making sure all fields are included: subject, topic, question in both languages, options in both, answer, explanations in both. Also, the answer should be in uppercase letter corresponding to the correct option. 
+
+Once all 10 questions are drafted, I'll verify them again for accuracy and correctness. Ensuring that the Hindi translations are accurate and the scientific terms are properly used. Finally, formatting the JSON correctly without any syntax errors.
+</think>
+
+[
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "Which process is defined as the loss of electrons by a substance?",
+        "question_hi": "कौन सी प्रक्रिया किसी पदार्थ द्वारा इलेक्ट्रॉनों के नुकसान के रूप में परिभाषित की जाती है?",
+        "A_en": "Oxidation", "A_hi": "ऑक्सीकरण",
+        "B_en": "Reduction", "B_hi": "अपचयन",
+        "C_en": "Catalysis", "C_hi": "उत्प्रेरण",
+        "D_en": "Neutralization", "D_hi": "उदासीनकरण",
+        "answer": "A",
+        "explanation_en": "Oxidation is the process where a substance loses electrons, often involving oxygen gain or hydrogen loss.",
+        "explanation_hi": "ऑक्सीकरण वह प्रक्रिया है जहाँ कोई पदार्थ इलेक्ट्रॉनों को खो देता है, जिसमें ऑक्सीजन के लाभ या हाइड्रोजन की हानि हो सकती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "Which of the following is an example of a reducing agent?",
+        "question_hi": "निम्नलिखित में से कौन एक अपचायक का उदाहरण है?",
+        "A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+        "B_en": "Hydrogen", "B_hi": "हाइड्रोजन",
+        "C_en": "Chlorine", "C_hi": "क्लोरीन",
+        "D_en": "Nitrogen", "D_hi": "नाइट्रोजन",
+        "answer": "B",
+        "explanation_en": "Hydrogen is a reducing agent because it donates electrons in chemical reactions, reducing other substances.",
+        "explanation_hi": "हाइड्रोजन एक अपचायक है क्योंकि रासायनिक अभिक्रियाओं में यह इलेक्ट्रॉन दान करता है, दूसरे पदार्थों को अपचयित करता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "What role does a catalyst play in a chemical reaction?",
+        "question_hi": "रासायनिक अभिक्रिया में उत्प्रेरक की क्या भूमिका होती है?",
+        "A_en": "Increases the rate of reaction", "A_hi": "अभिक्रिया की दर में वृद्धि करता है",
+        "B_en": "Decreases the energy of products", "B_hi": "उत्पादों की ऊर्जा में कमी करता है",
+        "C_en": "Becomes consumed in the reaction", "C_hi": "अभिक्रिया में उपभोग हो जाता है",
+        "D_en": "Changes the equilibrium position", "D_hi": "संतुलन स्थिति को बदलता है",
+        "answer": "A",
+        "explanation_en": "A catalyst increases the rate of a chemical reaction by providing an alternative reaction pathway with lower activation energy.",
+        "explanation_hi": "एक उत्प्रेरक एक रासायनिक अभिक्रिया की दर बढ़ाता है, कम सक्रियण ऊर्जा वाले वैकल्पिक अभिक्रिया मार्ग प्रदान करके।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "In the reaction 2Fe + 3Cl₂ → 2FeCl₃, which substance is oxidized?",
+        "question_hi": "अभिक्रिया 2Fe + 3Cl₂ → 2FeCl₃ में कौन सा पदार्थ ऑक्सीकृत होता है?",
+        "A_en": "Iron (Fe)", "A_hi": "लौह (Fe)",
+        "B_en": "Chlorine (Cl₂)", "B_hi": "क्लोरीन (Cl₂)",
+        "C_en": "Both Fe and Cl₂", "C_hi": "Fe और Cl₂ दोनों",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "A",
+        "explanation_en": "Iron (Fe) is oxidized as its oxidation state increases from 0 to +3, while chlorine is reduced.",
+        "explanation_hi": "लौह (Fe) ऑक्सीकृत होता है क्योंकि इसकी ऑक्सीकरण अवस्था 0 से +3 में बढ़ जाती है, जबकि क्लोरीन अपचयित होती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "What is the function of a catalyst in the Haber process?",
+        "question_hi": "हेबर प्रक्रिया में उत्प्रेरक का कार्य क्या है?",
+        "A_en": "Increases the yield of ammonia", "A_hi": "अमोनिया के उत्पादन को बढ़ाता है",
+        "B_en": "Decreases the temperature required", "B_hi": "आवश्यक तापमान को कम करता है",
+        "C_en": "Speeds up the reaction", "C_hi": "अभिक्रिया को तेज करता है",
+        "D_en": "Changes the chemical equilibrium", "D_hi": "रासायनिक संतुलन को बदलता है",
+        "answer": "C",
+        "explanation_en": "In the Haber process, iron is used as a catalyst to speed up the reaction between nitrogen and hydrogen to form ammonia.",
+        "explanation_hi": "हेबर प्रक्रिया में, लौह एक उत्प्रेरक के रूप में प्रयोग किया जाता है, जो नाइट्रोजन और हाइड्रोजन के बीच अभिक्रिया को तेज करता है और अमोनिया बनाता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "Which of the following statements about catalysts is true?",
+        "question_hi": "उत्प्रेरकों के बारे में निम्नलिखित में से कौन सा कथन सत्य है?",
+        "A_en": "They are consumed in the reaction", "A_hi": "वे अभिक्रिया में उपभोग हो जाते हैं",
+        "B_en": "They increase the activation energy", "B_hi": "वे सक्रियण ऊर्जा बढ़ाते हैं",
+        "C_en": "They provide an alternative reaction pathway", "C_hi": "वे वैकल्पिक अभिक्रिया मार्ग प्रदान करते हैं",
+        "D_en": "They change the stoichiometry of the reaction", "D_hi": "वे अभिक्रिया की रूपांकन बदलते हैं",
+        "answer": "C",
+        "explanation_en": "Catalysts work by providing an alternative reaction pathway with lower activation energy, not by being consumed or changing stoichiometry.",
+        "explanation_hi": "उत्प्रेरक उपभोग होने या रूपांकन बदले बिना कम सक्रियण ऊर्जा वाले वैकल्पिक अभिक्रिया मार्ग प्रदान करके काम करते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "Which of the following is an example of a heterogeneous catalyst?",
+        "question_hi": "निम्नलिखित में से कौन एक विषम उत्प्रेरक का उदाहरण है?",
+        "A_en": "Enzymes", "A_hi": "एंजाइम",
+        "B_en": "Platinum in catalytic converters", "B_hi": "उत्प्रेरक रूपांतरक में प्लैटिनम",
+        "C_en": "Hydrogen peroxide", "C_hi": "हाइड्रोजन परॉक्साइड",
+        "D_en": "Sodium hydroxide", "D_hi": "सोडियम हाइड्रॉक्साइड",
+        "answer": "B",
+        "explanation_en": "Platinum in catalytic converters is a heterogeneous catalyst as it exists in a different phase (solid) than the reactants (gases).",
+        "explanation_hi": "उत्प्रेरक रूपांतरक में प्लैटिनम एक विषम उत्प्रेरक है क्योंकि यह अभिकारकों (गैसों) की तुलना में अलग अवस्था (ठोस) में मौजूद होता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "What happens to the activation energy when a catalyst is added?",
+        "question_hi": "जब एक उत्प्रेरक मिलाया जाता है तो सक्रियण ऊर्जा पर क्या प्रभाव पड़ता है?",
+        "A_en": "Increases", "A_hi": "बढ़ जाती है",
+        "B_en": "Decreases", "B_hi": "कम हो जाती है",
+        "C_en": "Remains the same", "C_hi": "समान रहती है",
+        "D_en": "Becomes zero", "D_hi": "शून्य हो जाती है",
+        "answer": "B",
+        "explanation_en": "A catalyst lowers the activation energy required for a reaction to proceed, making the reaction faster.",
+        "explanation_hi": "एक उत्प्रेरक अभिक्रिया को आगे बढ़ाने के लिए आवश्यक सक्रियण ऊर्जा कम करता है, जिससे अभिक्रिया तेज हो जाती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Oxidation, Reduction aur Utprerak (Catalysts)",
+        "question_en": "Which process involves both oxidation and reduction?",
+        "question_hi": "कौन सी प्रक्रिया ऑक्सीकरण और अपचयन दोनों को शामिल करती है?",
+        "A_en": "Photosynthesis", "A_hi": "प्रकाश संश्लेष
