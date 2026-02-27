@@ -1,0 +1,57 @@
+[
+{
+"subject": "Economy",
+"topic": "Financial Markets",
+"question_en": "What is the primary function of a stock exchange?",
+"question_hi": "स्टॉक एक्सेन का मुख्य कार्य क्या है?",
+"A_en": "Education",
+"A_hi": "शिक्षा",
+"B_en": "Retail Sales",
+"B_hi": "रेटल सेल्स",
+"C_en": "Job Boards",
+"C_hi": "कार्य बोर्ड्स",
+"D_en": "Stock Exchanges",
+"D_hi": "स्टॉक एक्सेंट",
+"answer": "D",
+"explanation_en": "A stock exchange is an institution where securities, such as stocks and bonds, are bought and sold. The primary function of a stock exchange is to facilitate trading in these financial instruments between buyers and sellers.",
+"explanation_hi": "स्टॉक एक्सेंट एन इनस्टॉक एक्सेंट एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन इनस्टॉक एन",
+
+"answer": "D",
+"explanation_en": "During financial transactions, a stock exchange acts as a platform where buyers and sellers meet to trade shares and other securities.",
+"explanation_hi": "मिले निक एन बन मिलेन एन बन",
+"question_en": "What is the role of a stock exchange in financial market?",
+"question_hi": "एन बन एन मारिले बन एन मारिले एन बन एन",
+"options_en": [
+{
+"option": "A",
+"option_text": "Financial Institutions",
+"option_value": "एन एन एन बन एन",
+"option_expl": "एन बन एन एन बन",
+"option": "B",
+"option_text": "Individual Investors",
+"option_value": "एन एन बन एन एन",
+"option_expl": "एन एन बन एन एन बन",
+"option": "C",
+"option_text": "Business and Industry",
+"option_value": "एन एन बन एन एन बन",
+"option_expl": "एन एन बन एन एन"
+"option": "D",
+"option_text": "Government and Corporations",
+"option_value": "एन एन बन एन बन",
+"option_expl": "एन एन बन एन बन एन एन"
+]
+"answer": "D"
+],
+"explanation_en": "A stock exchange facilitates the buying and selling of shares and other securities among investors.",
+"explanation_hi": "एन बन एन बन एन बन एन बन एन",
+"question_en": "What is the primary role of a stock exchange?",
+"question_hi": "एन बन एन बन एन बन",
+एन बन एन बन एन बन,
+"answer": "D",
+"explanation_en": "The primary role of a stock exchange is to facilitate trade in securities.",
+"explanation_hi": "एन बन एन बन एन बन",
+"answer": "D",
+"explanation_en": "Stock exchanges are important in facilitates financial transactions",
+"explanation_hi": "एन बन एन बन एन बन",
+]}
+}
