@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "Government Policies and Programmes",
+"question_en": "Which of the following policies is implemented by the Government of Rajasthan for the development of rural areas?",
+"question_hi": "राजस्थान के राजनीतिक नियमित कार्यक्रमों और कार्यक्रमों का विवरण",
+"A_en": "Rajasthan Rural Development Programme",
+"A_hi": "राजस्थान के क्षेत्रों का विकास प्रणाली",
+"B_en": "Rajasthan Rural Electrification Scheme",
+"B_hi": "राजस्थान के हिली भवन प्रणाली",
+"C_en": "Rajasthan Ryot Welfare Scheme",
+"C_hi": "राजस्थान र्योति स्वास्थान परिवार प्रणाली",
+"D_en": "Rajasthan Rural Employment Guarantee Scheme",
+"D_hi": "राजस्थान कर्मांगा कार्य समाधि प्रणाली",
+"answer": "C",
+"explanation_en": "The Rajasthan Ryot Welfare Scheme focuses on providing various welfare schemes to the farmers and rural communities in Rajasthan.",
+"explanation_hi": "राजस्थान र्योति विकार प्रणाली",
+"explanation": "विकार प्रणाली",
+}
+]
