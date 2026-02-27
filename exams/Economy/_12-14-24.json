@@ -1,0 +1,24 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What is the formula to calculate the GDP?",
+"question_hi": "GDP को कैसे प्रतिविद्या और विकास के प्रतिरोध के लिए कौन सी प्रार्थना कार्यक्रम होता है?",
+"A_en": "Formula: GDP = C + I + G + (X - M)",
+"A_hi": "प्रार्थना कार्यक्रम: GDP = C + I + G + (X - M)",
+"B_en": "GDP = NIPA",
+"B_hi": "GDP = NIPA",
+"C_en": "GDP = GDP of Industries + GDP of Agriculture + GDP of Services + GDP of Trade",
+"C_hi": "GDP = संयुक्त करमंदित करने के लिए प्रतिरोध: GDP = C + I + G + (X - M)",
+"D_en": "GDP formula for Industries: GDP = Value of Production in Industries + Value of Production in Agriculture + Value of Production in Services + Value of Exports - Value of Imports",
+"D_hi": "संयुक्त करने के लिए GDP की प्रतिरोध: GDP = संयुक्त करने के लिए GDP = संयुक्त करने के लिए GDP = Value of Industries Output + Value of Agriculture Output + Value of Services Output + Exports - Imports",
+"E_en": "GDP formula for Agriculture: GDP = Value of Agriculture Output",
+"E_hi": "जल्यामीयंत करने के लिए GDP = जल्यामींत करने के लिए GDP = Value of Agriculture Output",
+"F_en": "GDP formula for Services: GDP = Value of Services Output",
+"F_hi": "सेवाओतर्करण के लिए GDP = सेवाओतर्करण के लिए GDP = Value of Services Output",
+"G_en": "GDP formula for Trade: GDP = Value of Exports - Value of Imports",
+"G_hi": "प्राप्ति के लिए GDP = प्राप्ति के लिए GDP = Value of Exports - Value of Imports",
+"H_en": "GDP formula for Industries: GDP = Value of Industries Output + Value of Agriculture Output + Value of Services Output + Value of Trade",
+"H_hi": "सेवाओतर्करण के लिए GDP = सेवाओतर्करण के लिए GDP = Value of Industries Output + Value of Agriculture Output + Value of Services Output + Value of Trade"
+}
+]
