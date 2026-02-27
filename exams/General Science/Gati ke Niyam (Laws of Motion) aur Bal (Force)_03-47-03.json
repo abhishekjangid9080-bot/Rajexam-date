@@ -1,0 +1,129 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Gati ke Niyam (Laws of Motion) and Bal (Force) in General Science for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling the key concepts related to Newton's Laws of Motion and types of forces. 
+
+First, Newton's three laws are fundamental. The first law is about inertia, the second relates force, mass, and acceleration (F=ma), and the third is action-reaction pairs. Then there are different types of forces like gravitational, frictional, applied force, tension, normal force, etc. Also, concepts like inertia of rest, motion, and direction might be important.
+
+I should ensure that each question tests a specific concept. Let me brainstorm possible questions. For example, a question on which law explains why a passenger leans forward when a bus stops suddenly. That would be the first law. Another could be about the formula F=ma for the second law. The third law might involve action-reaction examples like a book on a table.
+
+I need to cover various aspects: identifying the correct law, real-life applications, and distinguishing between different types of forces. Also, some questions might test the understanding of inertia or momentum. For each question, the options should be plausible but distinct. Let me make sure the questions are in both Hindi and English as per the instructions. The explanations should clearly state why the correct answer is right and why others are wrong. Let me check if all the terms are correctly translated. For example, "Bal" in Hindi translates to "Force" in English. 
+
+Wait, the topic is "Gati ke Niyam (Laws of Motion) aur Bal (Force)", so the questions should cover both laws of motion and types of forces. Let me ensure that each question is from this combined topic. Also, the difficulty level should be appropriate for the target exams, not too easy or too hard. I need to avoid any technical jargon that's beyond the syllabus. Examples should be relatable, like a car moving, a ball being kicked, etc. Let me think of 10 such scenarios. Maybe start with the basic questions first, then move to application-based. Also, some questions can be about identifying the correct law based on a scenario. Let me verify each question for clarity and correctness. The JSON structure should be strictly followed, with all the required fields: subject, topic, question in both languages, options, answer, and explanations. The answer should correspond to the correct option letter. Alright, let me draft each question step by step, making sure they cover different aspects of the topic without overlapping too much.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "Which law of motion states that an object will remain at rest or in uniform motion unless acted upon by an external force?",
+    "question_hi": "गति का कौन सा नियम यह बताता है कि एक वस्तु विराम अवस्था में या समान गति पर रहेगी जब तक कि बाहरी बल द्वारा उसे प्रभावित न किया जाए?",
+    "A_en": "First Law", "A_hi": "पहला नियम",
+    "B_en": "Second Law", "B_hi": "दूसरा नियम",
+    "C_en": "Third Law", "C_hi": "तीसरा नियम",
+    "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+    "answer": "A",
+    "explanation_en": "Newton's First Law, also known as the Law of Inertia, states that an object will remain at rest or in uniform motion unless acted upon by an external force.",
+    "explanation_hi": "न्यूटन का पहला नियम, जिसे जड़ता का नियम कहा जाता है, बताता है कि एक वस्तु विराम या समान गति में रहेगी जब तक कि कोई बाहरी बल उस पर कार्य न करे।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "What is the SI unit of force?",
+    "question_hi": "बल की SI इकाई क्या है?",
+    "A_en": "Newton", "A_hi": "न्यूटन",
+    "B_en": "Joule", "B_hi": "जूल",
+    "C_en": "Watt", "C_hi": "वाट",
+    "D_en": "Pascal", "D_hi": "पास्कल",
+    "answer": "A",
+    "explanation_en": "The SI unit of force is the Newton (N), named after Sir Isaac Newton.",
+    "explanation_hi": "बल की SI इकाई न्यूटन (N) है, जिसका नाम सर आइजैक न्यूटन पर रखा गया है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "When a bus suddenly stops, passengers tend to move forward. Which law explains this phenomenon?",
+    "question_hi": "जब एक बस अचानक रूक जाती है, तो यात्री आगे की ओर खिसक जाते हैं। यह दृष्टिकोण किस नियम द्वारा समझाया जाता है?",
+    "A_en": "First Law", "A_hi": "पहला नियम",
+    "B_en": "Second Law", "B_hi": "दूसरा नियम",
+    "C_en": "Third Law", "C_hi": "तीसरा नियम",
+    "D_en": "Law of Gravitation", "D_hi": "गुरुत्वाकर्षण का नियम",
+    "answer": "A",
+    "explanation_en": "Newton's First Law (Law of Inertia) explains that passengers tend to maintain their state of motion even when the bus stops suddenly.",
+    "explanation_hi": "न्यूटन का पहला नियम (जड़ता का नियम) बताता है कि यात्री अपनी गति की स्थिति को बरकरार रखने की प्रवृत्ति रखते हैं भले ही बस अचानक रूक जाए।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "Which of the following is an example of Newton's Third Law of Motion?",
+    "question_hi": "निम्नलिखित में से कौन सा न्यूटन के गति के तृतीय नियम का एक उदाहरण है?",
+    "A_en": "A ball rolling on the ground eventually stops", "A_hi": "जमीन पर गुल्ला लुढ़के रहता है और आखिरकर क्यों रुक जाता है",
+    "B_en": "A rocket propelling itself into space", "B_hi": "अंतरिक्ष में एक रॉकेट स्वयं को आगे धकेलता है",
+    "C_en": "A person pushing a wall and moving backward", "C_hi": "एक व्यक्ति दीवार को धक्का देता है और पीछे की ओर चलता है",
+    "D_en": "A car accelerating on a straight road", "D_hi": "एक सीधे रास्ते पर चलते हुए एक कार का त्वरित होना",
+    "answer": "B",
+    "explanation_en": "Newton's Third Law states that for every action, there is an equal and opposite reaction. A rocket engine produces action by expelling gas, resulting in an opposite reaction that propels the rocket forward.",
+    "explanation_hi": "न्यूटन का तीसरा नियम बताता है कि प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है। एक रॉकेट इंजन गैस निकालकर क्रिया उत्पन्न करता है, जिससे रॉकेट आगे धकेला जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "What is the formula to calculate force according to Newton's Second Law?",
+    "question_hi": "न्यूटन के द्वितीय नियम के अनुसार बल की गणना करने का सूत्र क्या है?",
+    "A_en": "F = m/a", "A_hi": "F = m/a",
+    "B_en": "F = m * a", "B_hi": "F = m * a",
+    "C_en": "F = a/m", "C_hi": "F = a/m",
+    "D_en": "F = m + a", "D_hi": "F = m + a",
+    "answer": "B",
+    "explanation_en": "Newton's Second Law states that force is equal to mass multiplied by acceleration (F = m * a).",
+    "explanation_hi": "न्यूटन का दूसरा नियम बताता है कि बल द्रव्यमान और त्वरण के गुणनफल के बराबर होता है (F = m * a)।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "Which force is responsible for a ball to return to the ground when thrown upwards?",
+    "question_hi": "ऊपर की ओर फेंके जाने पर एक गेंद को पृथ्वी पर लौटाने के लिए कौन सा बल उत्तरदायी है?",
+    "A_en": "Frictional Force", "A_hi": "घर्षण बल",
+    "B_en": "Gravitational Force", "B_hi": "गुरुत्वाकर्षण बल",
+    "C_en": "Magnetic Force", "C_hi": "चुंबकीय बल",
+    "D_en": "Electrostatic Force", "D_hi": "विद्युत बल",
+    "answer": "B",
+    "explanation_en": "Gravitational force pulls the ball back towards the Earth when it is thrown upwards.",
+    "explanation_hi": "ऊपर की ओर फेंके जाने पर गुरुत्वाकर्षण बल गेंद को पृथ्वी की ओर खींचता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "When a book is placed on a table, the table exerts an upward force to balance the downward force of gravity. What is this upward force called?",
+    "question_hi": "जब एक पुस्तक मेज पर रखी जाती है, तो मेज नीचे की ओर गुरुत्वाकर्षण के बराबर ऊपर की ओर बल लगाता है। यह ऊपर की ओर बल क्या कहलाता है?",
+    "A_en": "Normal Force", "A_hi": "सामान्य बल",
+    "B_en": "Tension Force", "B_hi": "तनाव बल",
+    "C_en": "Gravitational Force", "C_hi": "गुरुत्वाकर्षण बल",
+    "D_en": "Frictional Force", "D_hi": "घर्षण बल",
+    "answer": "A",
+    "explanation_en": "The normal force is the upward force exerted by the surface to balance the downward gravitational force.",
+    "explanation_hi": "सामान्य बल सतह द्वारा नीचे की ओर गुरुत्वाकर्षण बल के बराबर ऊपर की ओर बल होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "Which of the following is a non-contact force?",
+    "question_hi": "निम्नलिखित में से कौन सा एक संपर्क बिना बल है?",
+    "A_en": "Muscular Force", "A_hi": "मांसपेशीय बल",
+    "B_en": "Frictional Force", "B_hi": "घर्षण बल",
+    "C_en": "Magnetic Force", "C_hi": "चुंबकीय बल",
+    "D_en": "Applied Force", "D_hi": "लगाया गया बल",
+    "answer": "C",
+    "explanation_en": "Magnetic force is a non-contact force that acts at a distance without physical contact.",
+    "explanation_hi": "चुंबकीय बल एक संपर्क बिना बल है जो भौतिक संपर्क के बिना दूरी पर कार्य करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+    "question_en": "What determines the inertia of an object?",
+    "question_hi": "किसी वस्तु की जड़ता का निर्धारण किसके द्वारा होता है?",
+    "A_en": "Speed", "A_hi": "गति",
+    "B_en": "Mass", "B_hi": "द्रव्यमान",
+    "C_en": "Acceleration", "C_hi": "त्वरण",
+    "D_en": "Force", "D_hi": "बल",
+    "answer": "B",
+    "explanation_en": "The inertia of an object depends on its mass; the greater the mass, the greater the inertia.",
+    "explanation_hi": "एक वस्तु की जड़ता उसके द्रव्यमान पर निर्भर करती है; जितना अधिक द्रव्यमान, उतनी अधिक जड
