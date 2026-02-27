@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthan ke Lok Devta: Panch-Peer aur Anya Pramukh Devta",
+    "question_en": "Where is the main shrine of the Panch-Peer saints located?",
+    "question_hi": "पंच-पीर संतों का मुख्य तीर्थ कहाँ स्थित है?",
+    "A_en": "Panchpana, Jaipur",
+    "A_hi": "पंचपना, जयपुर",
+    "B_en": "Jodhpur",
+    "B_hi": "जोधपुर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Bikaner",
+    "D_hi": "बीकानेर",
+    "answer": "A",
+    "explanation_en": "The Panch-Peer shrine is situated in Panchpana village near Jaipur, attracting devotees from across Rajasthan.",
+    "explanation_hi": "पंच-पीर संतों का मुख्य तीर्थ पंचपना गांव में स्थित है, जो जयपुर के निकट है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthan ke Lok Devta: Panch-Peer aur Anya Pramukh Devta",
+    "question_en": "Which of the following is NOT one of the Panch-Peer saints?",
+    "question_hi": "निम्नलिखित में से कौन सा पंच-पीर संतों में नहीं आता?",
+    "A_en": "Swami Pahari",
+    "A_hi": "स्वामी पहरी",
+    "B_en": "Guru Ghasidas",
+    "B_hi": "गुरु घासिदास",
+    "C_en": "Baba Sawan",
+    "C_hi": "बाबा सवंत",
+    "D_en": "Swami Narsinh",
+    "D_hi": "स्वामी नारसिंह",
+    "answer": "D",
+    "explanation_en": "Swami Narsinh is not part of the traditional Panch-Peer group; the other three are recognized saints.",
+    "explanation_hi": "स्वामी नारसिंह पंच-पीर संतों में नहीं आते; शेष तीन संत पारंपरिक रूप से मान्य हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic":
