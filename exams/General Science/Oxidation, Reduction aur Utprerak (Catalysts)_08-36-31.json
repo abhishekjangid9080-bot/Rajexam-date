@@ -1,0 +1,21 @@
+[
+{
+"subject": "General Science",
+"topic": "Oxidation, Reduction aur Utprekar (Catalysts)",
+"question_en": "What is the correct term for the process of adding electrons to a molecule?",
+"question_hi": "एक मूल्य को प्रक्रिया क्या है?",
+"A_en": "Anode", "A_hi": "आय्य",
+"B_en": "Cathode", "B_hi": "कैट्डोड",
+"C_en": "Redox reaction", "C_hi": "रेड्युच्यांक प्रकार की प्रक्षेपार",
+"D_en": "Oxidation", "D_hi": "प्रकृति",
+"answer": "D",
+"explanation_en": "The correct term for the process of adding electrons to a molecule is oxidation.\nOxidation is the gain of electrons by a molecule.\nExample: The oxidation of iron to iron(III) ions involves the loss of two electrons.",
+"explanation_hi": "एक मूल्य को प्रकृति के अनुपूर्ण की प्रकृति के अनुपूर्ण की प्रकृति",
+"question_hi": "प्रकृति को प्रकृति के अनुपूर्ण की प्रकृति",
+"answer": "D",
+"explanation_hi": "प्रकृति को प्रकृति अनुपूर्ण की प्रकृति",
+"question_en": "What is the term for the process of adding electrons to a molecule?",
+"answer": "D",
+"explanation_en": "The correct term for the process of adding electrons to a molecule is oxidation.\nOxidation is the loss of electrons by a molecule.\nExample: The oxidation of iron to iron(III) ions involves the loss of two electrons."
+}
+]
