@@ -1,0 +1,208 @@
+<think>
+Okay, let me start by understanding the task. The user wants me to create 10 high-quality multiple-choice questions (MCQs) on the topic of Probability Fundamentals for exams like Rajasthan's LDC, CET, RAS, SSC, and Railway NTPC. Each question needs to be in both Hindi and English, with the options labeled correctly. The JSON structure example provided is in Testbook style, so I need to follow that format strictly. 
+
+First, I'll recall the basic concepts of probability that are essential for these exams. Topics might include probability definitions, sample space, events, types of events (mutually exclusive, independent), probability calculations, and maybe some real-life examples. I should ensure the questions cover these areas and vary in difficulty, from basic to a bit more complex but still within the scope of the stated level.
+
+For each question, I need to create a clear question in both languages. The options should be in Hindi and English, with the correct answer labeled. The explanations should also be in both languages. Let me start by brainstorming possible questions.
+
+1. **Basic Probability Definition:** A question asking for the probability of an event when a die is thrown. For example, the probability of getting an even number. The sample space is 6 outcomes, favorable is 3 (2,4,6). So, answer is 1/2.
+
+2. **Mutually Exclusive Events:** Ask which events cannot occur together. Maybe use examples like rolling a die and getting an even and odd number. These are mutually exclusive.
+
+3. **Probability of Complementary Events:** If the probability of an event is P, then the probability of its complement is 1-P. Use a simple example like flipping a coin.
+
+4. **Impossible Event Probability:** What is the probability of getting a number greater than 6 on a die? Answer is 0.
+
+5. **Certain Event Probability:** Probability of getting a number less than 7 on a die is 1.
+
+6. **Probability of Selecting a Specific Card:** From a standard deck, what's the chance of drawing a king? There are 4 kings in 52 cards, so 1/13.
+
+7. **Independent Events:** Two events where the outcome of one doesn't affect the other. Example: tossing a coin and rolling a die. Probability of both happening is product of individual probabilities.
+
+8. **Probability of Two Independent Events:** Example: flipping a coin twice. Probability of getting heads both times is 1/2 * 1/2 = 1/4.
+
+9. **Probability of At Least One Event Occurring:** For two events, using the formula P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Example: rolling a die and getting a number less than 4 or an even number.
+
+10. **Probability of Drawing a Heart or a King from a Deck:** These are not mutually exclusive since there's a king of hearts. So, apply the formula.
+
+Now, I need to structure each of these into questions with options in both languages. Ensure that the options are tricky but correct. For example, in the first question, options might include 1/6 (wrong), 1/2 (correct), 1/3 (wrong), etc.
+
+I should also check that the explanations are concise and correct. For instance, in the first question, explain that there are 3 even numbers out of 6 possible outcomes.
+
+Once the questions are drafted, I'll format them into the required JSON structure, making sure all keys are present and the translations are accurate. I'll avoid any markdown and ensure the JSON is valid. Also, check that the difficulty level is appropriate for the target exams, not too complex but covering the fundamentals.
+</think>
+
+```json
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "If a fair die is rolled, what is the probability of getting an even number?",
+    "question_hi": "एक न्यायसंगत पासा फेंके जाने पर सम संख्या प्राप्त करने की प्रायिकता क्या है?",
+    "A_en": "1/3",
+    "A_hi": "1/3",
+    "B_en": "1/6",
+    "B_hi": "1/6",
+    "C_en": "1/2",
+    "C_hi": "1/2",
+    "D_en": "2/3",
+    "D_hi": "2/3",
+    "answer": "C",
+    "explanation_en": "There are 3 even numbers (2, 4, 6) out of 6 possible outcomes.",
+    "explanation_hi": "6 संभावित परिणामों में से 3 सम संख्याएँ (2, 4, 6) होती हैं।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "Which of the following events are mutually exclusive?",
+    "question_hi": "निम्नलिखित में से कौन-सी घटनाएँ परस्पर अपवर्जी हैं?",
+    "A_en": "Rolling a 2 and rolling an even number",
+    "A_hi": "2 फेंकना और एक सम संख्या फेंकना",
+    "B_en": "Rolling an even number and rolling an odd number",
+    "B_hi": "एक सम संख्या फेंकना और एक विषम संख्या फेंकना",
+    "C_en": "Rolling a 3 and rolling a number less than 4",
+    "C_hi": "3 फेंकना और 4 से कम संख्या फेंकना",
+    "D_en": "Rolling a 5 and rolling a number greater than 4",
+    "D_hi": "5 फेंकना और 4 से अधिक संख्या फेंकना",
+    "answer": "B",
+    "explanation_en": "An even number and an odd number cannot occur simultaneously.",
+    "explanation_hi": "एक सम संख्या और एक विषम संख्या एक साथ घटित नहीं हो सकती है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "What is the probability of getting a head when a fair coin is tossed?",
+    "question_hi": "एक न्यायसंगत सिक्के को उछाले जाने पर चित के आने की प्रायिकता क्या है?",
+    "A_en": "1",
+    "A_hi": "1",
+    "B_en": "0",
+    "B_hi": "0",
+    "C_en": "1/2",
+    "C_hi": "1/2",
+    "D_en": "1/4",
+    "D_hi": "1/4",
+    "answer": "C",
+    "explanation_en": "A fair coin has two equally likely outcomes: head and tail.",
+    "explanation_hi": "एक न्यायसंगत सिक्का दो समान रूप से संभावित परिणामों के साथ होता है: चित और पट।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "What is the probability of drawing a king from a standard deck of 52 cards?",
+    "question_hi": "52 पत्तों की एक मानक डेक से राजा निकालने की प्रायिकता क्या है?",
+    "A_en": "1/13",
+    "A_hi": "1/13",
+    "B_en": "1/26",
+    "B_hi": "1/26",
+    "C_en": "1/4",
+    "C_hi": "1/4",
+    "D_en": "1/52",
+    "D_hi": "1/52",
+    "answer": "A",
+    "explanation_en": "There are 4 kings in a deck of 52 cards.",
+    "explanation_hi": "52 पत्तों की एक डेक में 4 राजा होते हैं।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "If the probability of an event A is 0.3, what is the probability of its complement?",
+    "question_hi": "यदि किसी घटना A की प्रायिकता 0.3 है, तो उसके पूरक की प्रायिकता क्या है?",
+    "A_en": "0.3",
+    "A_hi": "0.3",
+    "B_en": "0.7",
+    "B_hi": "0.7",
+    "C_en": "1.0",
+    "C_hi": "1.0",
+    "D_en": "0.0",
+    "D_hi": "0.0",
+    "answer": "B",
+    "explanation_en": "The probability of a complement is 1 minus the probability of the event.",
+    "explanation_hi": "पूरक की प्रायिकता 1 में से घटना की प्रायिकता घटाकर प्राप्त की जाती है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "What is the probability of getting a number less than 4 when rolling a fair die?",
+    "question_hi": "एक न्यायसंगत पासा फेंके जाने पर 4 से कम संख्या प्राप्त करने की प्रायिकता क्या है?",
+    "A_en": "1/2",
+    "A_hi": "1/2",
+    "B_en": "1/3",
+    "B_hi": "1/3",
+    "C_en": "1/4",
+    "C_hi": "1/4",
+    "D_en": "2/3",
+    "D_hi": "2/3",
+    "answer": "A",
+    "explanation_en": "Numbers less than 4 (1, 2, 3) out of 6 possible outcomes.",
+    "explanation_hi": "4 से कम संख्याएँ (1, 2, 3) होती हैं।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "If two coins are tossed, what is the probability of getting exactly one head?",
+    "question_hi": "यदि दो सिक्के उछाले जाते हैं, तो एक चित प्राप्त करने की प्रायिकता क्या है?",
+    "A_en": "1/2",
+    "A_hi": "1/2",
+    "B_en": "1/4",
+    "B_hi": "1/4",
+    "C_en": "1/3",
+    "C_hi": "1/3",
+    "D_en": "1/8",
+    "D_hi": "1/8",
+    "answer": "A",
+    "explanation_en": "Possible outcomes: HH, HT, TH, TT. Two outcomes have exactly one head.",
+    "explanation_hi": "संभावित परिणाम: HH, HT, TH, TT. दो परिणामों में एक चित होता है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "What is the probability of getting a sum of 7 when two fair dice are rolled?",
+    "question_hi": "जब दो न्यायसंगत पासा फेंके जाते हैं, तो 7 के योग प्राप्त करने की प्रायिकता क्या है?",
+    "A_en": "1/6",
+    "A_hi": "1/6",
+    "B_en": "1/36",
+    "B_hi": "1/36",
+    "C_en": "1/12",
+    "C_hi": "1/12",
+    "D_en": "1/2",
+    "D_hi": "1/2",
+    "answer": "A",
+    "explanation_en": "There are 6 combinations that sum to 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1).",
+    "explanation_hi": "7 के योग वाले 6 संयोजन हैं: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1)."
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "If a card is drawn from a standard deck, what is the probability of drawing a heart or a king?",
+    "question_hi": "52 पत्तों की एक मानक डेक से एक पत्ता निकाला जाता है, तो हार्ट या राजा निकालने की प्रायिकता क्या है?",
+    "A_en": "1/4",
+    "A_hi": "1/4",
+    "B_en": "4/13",
+    "B_hi": "4/13",
+    "C_en": "1/13",
+    "C_hi": "1/13",
+    "D_en": "1/52",
+    "D_hi": "1/52",
+    "answer": "B",
+    "explanation_en": "There are 13 hearts and 3 additional kings (excluding the king of hearts). Total favorable outcomes: 16.",
+    "explanation_hi": "13 हार्ट और 3 अतिरिक्त राजा (हार्ट के राजा को छोड़कर) हैं। कुल अनुकूल परिणाम: 16।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Prayikta (Probability) ki Mool Avdharna",
+    "question_en": "What is the probability that a randomly selected number from 1 to 10 is even?",
+    "question_hi": "1 से 10 तक की एक संख्या के यादृच्छिक रूप से चयन करने पर उसके सम होने की प्रायिकता क्या है?",
+    "A_en": "1/5",
+    "A_hi": "1/5",
+    "B_en": "1/2",
+    "B_hi": "1/2",
+    "C_en": "3/5",
+    "C_hi": "3/5",
+    "D_en": "2/5",
+    "D_hi": "2/5",
+    "answer": "B",
+    "explanation_en": "There are 5 even numbers (2,4,6,8,10) out of 10 numbers.",
+    "explanation_hi": "10 संख्याओं में से 5 सम संख्याएँ (2,4,6,8,10) हैं।"
+  }
+]
+```
