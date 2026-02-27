@@ -1,0 +1,22 @@
+[
+{
+"subject": "Economy",
+"topic": "Public Sector Undertakings",
+"question_en": "Which of the following is a Public Sector Undertaking in India?",
+"question_hi": "भारत में कौन से भागीय सेवा करने की कोई खोजबानी है?",
+"A_en": "National Aluminium Company",
+"A_hi": "नागरीक एल्यूँम कंपनी",
+"B_en": "Bharat Petroleum Corporation Limited",
+"B_hi": "भारत पेट्रोलियम कंपनी",
+"C_en": "Hindustan Petroleum Corporation Limited",
+"C_hi": "हिंदूस्टन पेट्रोलियम कंपनी",
+"D_en": "National Fertilizers Limited",
+"D_hi": "राज्य फीटीज लिम्ड",
+"answer": "D",
+"explanation_en": "National Fertilizers Limited is a Public Sector undertaking in India.",
+"explanation_hi": "राज्य फीटीज लिम्ड, भारत में एनटरपेय सीटीज लिम्ड है।",
+"explanation_hi": "भारत में National Fertilizers Limited, एनटरपेय सीटीज लिम्ड है।",
+"explanation_en": "National Fertilizers Limited is a Public Sector undertaking in India.",
+"explanation_hi": "भारत में National Fertilizers Limited, एनटरपेय सीटीज लिम्ड है।",
+}
+]
