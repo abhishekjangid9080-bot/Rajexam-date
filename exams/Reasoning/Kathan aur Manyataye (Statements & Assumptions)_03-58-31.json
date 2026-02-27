@@ -1,0 +1,134 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Kathan aur Manyataye (Statements & Assumptions) in Reasoning. The questions should be suitable for Rajasthan State Exams like LDC, CET, RAS, as well as SSC and Railway (NTPC). 
+
+First, I should recall what Statements and Assumptions are. In Reasoning, a Statement is a sentence that is either true or false, and an Assumption is a premise or proposition that is taken for granted. The task here is to identify the assumptions underlying the given statements.
+
+Each question will have a statement, and the options will present possible assumptions. The user needs to determine which assumption is implicit in the statement. The answer should be the correct option, and the explanation should clarify why that assumption is correct.
+
+Let me start by brainstorming some statements. For example, if a government policy is announced to improve education, an assumption could be that the current education system has flaws. I need to make sure that the statements are varied and cover different scenarios relevant to the exams mentioned.
+
+I should also ensure that the questions are in both Hindi and English, following the Testbook style. Each question will have four options, and the answer will be one of them. The explanations need to be clear and concise, explaining why the correct assumption is valid.
+
+Let me check the JSON structure provided. The example includes subject, topic, question in both languages, options labeled A to D, answer, and explanations. I need to adhere strictly to this format. Also, the difficulty level should be set appropriately for a Reasoning section.
+
+Now, I'll start creating the questions one by one, making sure that each one tests the understanding of identifying assumptions from the given statements. I'll vary the context of the statements to include different areas like government policies, public announcements, advertisements, etc., which are common in such exams.
+
+I need to be careful to avoid any overlap in the options and ensure that the correct assumption is unambiguously correct. Also, the distractors (incorrect options) should be plausible but incorrect. After drafting each question, I'll write the explanation to justify the correct answer.
+
+Finally, I'll review all the questions to ensure they meet the required standards and format, and that the Hindi translations are accurate and natural-sounding. Once satisfied, I'll compile them into the JSON array as specified.
+</think>
+
+[
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "A government announced a new policy to provide free textbooks to all students. Which assumption is implicit in the statement?",
+    "question_hi": "एक सरकार ने सभी छात्रों को मुफ्त पाठ्यपुस्तकें प्रदान करने की एक नई नीति की घोषणा की। कथन में कौन सा मान्यता अंतर्निहित है?",
+    "A_en": "The current education system lacks proper textbooks.",
+    "A_hi": "वर्तमान शिक्षा प्रणाली में उचित पाठ्यपुस्तकों की कमी है।",
+    "B_en": "The policy will not affect private schools.",
+    "B_hi": "इस नीति से निजी स्कूलों पर कोई प्रभाव नहीं पड़ेगा।",
+    "C_en": "Students prefer digital books over printed ones.",
+    "C_hi": "छात्र प्रिंटिड पुस्तकों की तुलना में डिजिटल पुस्तकों को पसंद करते हैं।",
+    "D_en": "The government has sufficient funds for this policy.",
+    "D_hi": "सरकार के पास इस नीति के लिए पर्याप्त धन उपलब्ध है।",
+    "answer": "A",
+    "explanation_en": "The statement implies that providing free textbooks is necessary, which assumes that the current system lacks them.",
+    "explanation_hi": "कथन में यह अंतर्निहित है कि मुफ्त पाठ्यपुस्तकें प्रदान करना आवश्यक है, जो यह मानता है कि वर्तमान प्रणाली में इनकी कमी है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "An advertisement says, 'Our smartphones are the most durable in the market.' Which assumption is correct?",
+    "question_hi": "'हमारे स्मार्टफोन बाजार में सबसे टिकाऊ हैं।' यह विज्ञापन किस मान्यता पर आधारित है?",
+    "A_en": "Durability is a key factor for smartphone buyers.",
+    "A_hi": "टिकाऊपन फोन खरीदारों के लिए एक महत्वपूर्ण कारक है।",
+    "B_en": "Other brands do not focus on durability.",
+    "B_hi": "अन्य ब्रैंड टिकाऊपन पर ध्यान नहीं देते हैं।",
+    "C_en": "The smartphone market is highly competitive.",
+    "C_hi": "स्मार्टफोन बाजार उच्चतम प्रतिस्पर्धी है।",
+    "D_en": "The company has tested all other brands.",
+    "D_hi": "कंपनी ने सभी अन्य ब्रैंडों का परीक्षण कर लिया है।",
+    "answer": "A",
+    "explanation_en": "The claim of durability implies that buyers consider durability important when purchasing smartphones.",
+    "explanation_hi": "टिकाऊपन का दावा यह मानता है कि खरीदार फोन खरीदने के समय टिकाऊपन को महत्वपूर्ण मानते हैं।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "A teacher said, 'Students must submit their assignments on time.' What assumption is implied?",
+    "question_hi": "एक शिक्षक ने कहा, 'छात्रों को अपने कार्य समय पर समर्पित करने चाहिए।' कौन सी मान्यता अंतर्निहित है?",
+    "A_en": "Late submissions are not accepted by the teacher.",
+    "A_hi": "शिक्षक देर से समर्पित कार्य स्वीकार नहीं करते हैं।",
+    "B_en": "All students have the same deadlines.",
+    "B_hi": "सभी छात्रों के पास समान अंतिम तिथि है।",
+    "C_en": "Students are capable of completing assignments on time.",
+    "C_hi": "छात्र समय पर कार्य पूरा करने में सक्षम हैं।",
+    "D_en": "The teacher has no other responsibilities.",
+    "D_hi": "शिक्षक के पास कोई अन्य जिम्मेदारियाँ नहीं हैं।",
+    "answer": "C",
+    "explanation_en": "The statement assumes that students can meet deadlines, hence the instruction to submit on time.",
+    "explanation_hi": "कथन यह मानता है कि छात्र अंतिम तिथि पर कार्य पूरा कर सकते हैं, इसलिए समय पर समर्पित करने के निर्देश दिए गए हैं।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "A public health campaign states, 'Wearing masks prevents the spread of viruses.' Which assumption is implicit?",
+    "question_hi": "एक जनस्वास्थ्य अभियान कहता है, 'मास्क पहनने से वायरस के प्रसार की रोकथाम होती है।' कौन सी मान्यता अंतर्निहित है?",
+    "A_en": "Masks are the only way to prevent virus spread.",
+    "A_hi": "मास्क वायरस के प्रसार को रोकने का एकमात्र तरीका है।",
+    "B_en": "Everyone has access to masks.",
+    "B_hi": "सभी के पास मास्क पहुँच है।",
+    "C_en": "Virus transmission is a serious public health issue.",
+    "C_hi": "वायरस का संचरण एक गंभीर जनस्वास्थ्य मुद्दा है।",
+    "D_en": "Masks are comfortable to wear in all weather.",
+    "D_hi": "मास्क सभी मौसम में पहनने में आरामदायक होते हैं।",
+    "answer": "C",
+    "explanation_en": "The campaign assumes that virus transmission is a significant concern, hence promoting masks as a solution.",
+    "explanation_hi": "अभियान यह मानता है कि वायरस का संचरण एक महत्वपूर्ण चिंता है, इसलिए मास्क को एक हल के रूप में बढ़ावा दिया जा रहा है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "A company claims, 'Our product reduces hair fall.' What assumption is made here?",
+    "question_hi": "'हमारा उत्पाद बाल झड़ने को कम करता है।' इस दावा में कौन सी मान्यता है?",
+    "A_en": "Hair fall is a common problem among people.",
+    "A_hi": "बाल झड़ना लोगों में एक सामान्य समस्या है।",
+    "B_en": "The product has no side effects.",
+    "B_hi": "उत्पाद में कोई दुष्प्रभाव नहीं है।",
+    "C_en": "The company has conducted research on hair fall.",
+    "C_hi": "कंपनी ने बाल झड़ने पर अनुसंधान किया है।",
+    "D_en": "All users have the same hair type.",
+    "D_hi": "सभी उपयोगकर्ताओं के पास एक ही तरह के बाल हैं।",
+    "answer": "A",
+    "explanation_en": "The claim assumes that hair fall is a prevalent issue, making the product relevant.",
+    "explanation_hi": "दावा यह मानता है कि बाल झड़ना एक प्रचलित समस्या है, जिससे उत्पाद की प्रासंगिकता बढ़ जाती है।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "A political leader announced, 'We will build a new airport to boost tourism.' What is the underlying assumption?",
+    "question_hi": "एक राजनीतिक नेता ने घोषणा की, 'हम नए हवाई अड्डे का निर्माण करेंगे ताकि पर्यटन को बढ़ावा दिया जा सके।' अंतर्निहित मान्यता क्या है?",
+    "A_en": "The current airport is overcrowded.",
+    "A_hi": "वर्तमान हवाई अड्डा भीड़भाड़ से भरा हुआ है।",
+    "B_en": "Tourism is a key economic driver in the region.",
+    "B_hi": "पर्यटन क्षेत्र में अर्थव्यवस्था का एक महत्वपूर्ण गतिशील है।",
+    "C_en": "The new airport will be funded by foreign investors.",
+    "C_hi": "नया हवाई अड्डा विदेशी निवेशकों द्वारा वित्त पोषित होगा।",
+    "D_en": "Building airports is the only way to boost tourism.",
+    "D_hi": "हवाई अड्डे बनाना पर्यटन बढ़ावा देने का एकमात्र तरीका है।",
+    "answer": "B",
+    "explanation_en": "The announcement assumes that improving infrastructure (airports) will directly boost tourism.",
+    "explanation_hi": "घोषणा यह मानती है कि बुनियादी ढांचे (हवाई अड्डा) में सुधार पर्यटन को सीधे बढ़ावा देगा।"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Kathan aur Manyataye (Statements & Assumptions)",
+    "question_en": "A news article states, 'Vaccination is the best way to end the pandemic.' What assumption is implied?",
+    "question_hi": "एक समाचार लेख कहता है, 'टीकाकरण महामारी को समाप्त करने का सबसे अच्छा तरीका है।' कौन सी मान्यता अंतर्निहित है?",
+    "A_en": "The pandemic is caused by a virus.",
+    "A_hi": "महामारी एक वायरस द्वारा होती है।",
+    "B_en": "People will accept the vaccine without hesitation.",
+    "B_hi": "लोग टीका बिना संकोच के स्वीकार करेंगे।",
+    "C_en": "The government has produced enough vaccines.",
+    "C_hi": "सरकार द्वारा पर्याप्त टीका उत्पादित कर लिए ग
