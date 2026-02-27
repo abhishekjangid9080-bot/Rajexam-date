@@ -1,0 +1,166 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the subject "Technology" under the topic "Soochna Prodyogiki (IT): Networking aur Cyber Security". The questions must be in both Hindi and English, with all options in both languages. The JSON structure must be strictly followed, and only the raw JSON should be outputted. 
+
+First, I should start by brainstorming key areas within Networking and Cyber Security relevant to exams like Rajasthan State Exams, SSC, and Railway. Topics might include network types (LAN, WAN), protocols (TCP/IP), security concepts (firewalls, encryption), cyber threats (phishing, malware), and security measures (antivirus, two-factor authentication).
+
+For each question, the question itself and the four options need to be translated into both languages. The answer and explanations should also be in both languages. The difficulty level should be moderate to high, suitable for competitive exams. 
+
+Let me outline the first question. Maybe start with a basic network concept. For example, the question could be about different types of networks. The options could be LAN, MAN, WAN, and PAN. The answer is LAN for a local area network. The explanation would clarify that LAN is used for small areas like home or office.
+
+Next, think about protocols. TCP/IP is fundamental. A question asking which protocol ensures reliable delivery. The options could be TCP, UDP, HTTP, FTP. The correct answer is TCP. Explanation would explain that TCP is connection-oriented and reliable.
+
+Moving to security concepts. Firewalls are essential. A question about what a firewall does. Options could be block unauthorized access, encrypt data, backup data, prevent viruses. Correct answer is block unauthorized access. Explanation would mention that firewalls monitor and control incoming/outgoing traffic based on security rules.
+
+Cyber threats: Phishing is a common threat. A question asking what phishing is. Options could be stealing info via fake emails, virus spread, hardware damage, etc. Correct answer is the first option. Explanation clarifies that phishing uses deceptive emails to get sensitive info.
+
+Security measures: Two-factor authentication. A question asking what it adds. Options could be an extra layer, faster login, free software, etc. Correct answer is the extra layer. Explanation states that it requires two forms of verification.
+
+Encryption: Question about what encryption does. Options include securing data, increasing speed, compressing, etc. Answer is securing data. Explanation that encryption converts data into code to prevent unauthorized access.
+
+Malware types: Ransomware is a type that encrypts data. A question asking which malware locks files. Options include ransomware, spyware, adware, trojan. Correct answer is ransomware. Explanation that it encrypts files and demands payment.
+
+Network devices: What device connects multiple networks? Router is correct. Options are router, modem, switch, hub. Explanation that routers connect different networks.
+
+Email security: What's a good practice to avoid phishing? Answer is not clicking suspicious links. Options include using strong passwords, sharing passwords, etc.
+
+Lastly, a question about SSL/TLS. What does HTTPS do? Secure communication. Options include encryption, speed, etc. Correct answer is encryption. Explanation that HTTPS uses SSL/TLS for secure data transfer.
+
+Now, I need to translate each of these questions into Hindi. Ensure that the translations are accurate and maintain the same options. Check that all explanations are clear and in both languages. Verify that the JSON structure is correct, with all required fields. Make sure the answer letters (A, B, C, D) correspond correctly. Avoid any markdown formatting and only output the raw JSON.
+</think>
+
+[
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which of the following is a network security device that controls incoming and outgoing network traffic?",
+  "question_hi": "निम्नलिखित में से कौन आने वाले और जाने वाले नेटवर्क ट्रैफ़िक को नियंत्रित करने वाला एक नेटवर्क सुरक्षा उपकरण है?",
+  "A_en": "Switch", 
+  "A_hi": "स्विच",
+  "B_en": "Firewall",
+  "B_hi": "फायरवॉल",
+  "C_en": "Hub",
+  "C_hi": "हब",
+  "D_en": "Repeater",
+  "D_hi": "रिपीटर",
+  "answer": "B",
+  "explanation_en": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+  "explanation_hi": "एक फायरवॉल एक नेटवर्क सुरक्षा प्रणाली है जो पूर्व निर्धारित सुरक्षा नियमों के आधार पर आने वाले और जाने वाले नेटवर्क ट्रैफ़िक को नियंत्रित और निगरह करती है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What does SSL stand for in the context of secure communication?",
+  "question_hi": "सुरक्षित संचार के संदर्भ में SSL का विस्तार क्या है?",
+  "A_en": "Secure Socket Layer", 
+  "A_hi": "सुरक्षित सॉकेट परत",
+  "B_en": "Secure Service Layer",
+  "B_hi": "सुरक्षित सेवा परत",
+  "C_en": "Service Security Layer",
+  "C_hi": "सेवा सुरक्षा परत",
+  "D_en": "Secure System Layer",
+  "D_hi": "सुरक्षित सिस्टम परत",
+  "answer": "A",
+  "explanation_en": "SSL (Secure Socket Layer) is a protocol used to establish secure connections between web browsers and servers.",
+  "explanation_hi": "SSL (सुरक्षित सॉकेट परत) एक प्रोटोकॉल है जिसका उपयोग वेब ब्राउज़र और सर्वर के बीच सुरक्षित संयोजन स्थापित करने के लिए किया जाता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which type of cyber attack involves stealing sensitive information by masquerading as a trustworthy entity?",
+  "question_hi": "कौन से साइबर हमले में संवेदनशील जानकारी हर्षित करके विश्वसनीय सत्ता के रूप में झूठे तौर पर उपस्थिति बनाई जाती है?",
+  "A_en": "Phishing", 
+  "A_hi": "फिशिंग",
+  "B_en": "Malware",
+  "B_hi": "मैलवेयर",
+  "C_en": "Denial of Service (DoS)",
+  "C_hi": "सेवा की नकारात्मकता (DoS)",
+  "D_en": "Brute Force Attack",
+  "D_hi": "ब्रूट फोर्स हमला",
+  "answer": "A",
+  "explanation_en": "Phishing attacks involve tricking individuals into revealing sensitive information by pretending to be a legitimate entity such as a bank or email service.",
+  "explanation_hi": "फिशिंग हमले में व्यक्तियों को बैंक या ईमेल सेवा जैसे वैध इकाई के झूठे रूप में संवेदनशील जानकारी प्रकट करवाया जाता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which protocol is used to securely exchange data over the internet?",
+  "question_hi": "इंटरनेट पर संचार के लिए सुरक्षित डेटा आदान-प्रदान करने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+  "A_en": "HTTP", 
+  "A_hi": "HTTP",
+  "B_en": "HTTPS",
+  "B_hi": "HTTPS",
+  "C_en": "FTP",
+  "C_hi": "FTP",
+  "D_en": "SMTP",
+  "D_hi": "SMTP",
+  "answer": "B",
+  "explanation_en": "HTTPS (HyperText Transfer Protocol Secure) is a protocol used to securely transfer data over the internet by encrypting it.",
+  "explanation_hi": "HTTPS (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल सुरक्षित) एक प्रोटोकॉल है जिसका उपयोग इंटरनेट पर डेटा के सुरक्षित आदान-प्रदान के लिए इसे एन्क्रिप्ट करके किया जाता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What is the primary purpose of a Virtual Private Network (VPN)?",
+  "question_hi": "वर्चुअल प्राइवेट नेटवर्क (VPN) का प्रमुख उद्देश्य क्या है?",
+  "A_en": "To increase internet speed", 
+  "A_hi": "इंटरनेट गति बढ़ाना",
+  "B_en": "To provide secure remote access to a network",
+  "B_hi": "एक नेटवर्क में सुरक्षित दूरस्थ पहुंच प्रदान करना",
+  "C_en": "To connect multiple devices in a home network",
+  "C_hi": "एक घरेलू नेटवर्क में कई उपकरणों को जोड़ना",
+  "D_en": "To monitor local network traffic",
+  "D_hi": "स्थानीय नेटवर्क ट्रैफ़िक की निगरानी करना",
+  "answer": "B",
+  "explanation_en": "A Virtual Private Network (VPN) creates a secure, encrypted connection over a public network, allowing remote users to access a private network securely.",
+  "explanation_hi": "एक वर्चुअल प्राइवेट नेटवर्क (VPN) एक सार्वजनिक नेटवर्क पर सुरक्षित, एन्क्रिप्टेड कनेक्शन बनाता है, जिससे दूरस्थ उपयोगकर्ता एक निजी नेटवर्क को सुरक्षित रूप से एक्सेस कर सकते हैं।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which of the following is a type of malware that replicates itself to spread to other computers?",
+  "question_hi": "निम्नलिखित में से कौन एक ऐसा मैलवेयर है जो अपनी प्रतिलिपि बनाकर अन्य कंप्यूटरों में फैलता है?",
+  "A_en": "Spyware", 
+  "A_hi": "स्पाइवेयर",
+  "B_en": "Ransomware",
+  "B_hi": "रेंसमवेयर",
+  "C_en": "Virus",
+  "C_hi": "वायरस",
+  "D_en": "Trojan Horse",
+  "D_hi": "ट्रोजन हॉर्स",
+  "answer": "C",
+  "explanation_en": "A computer virus is a type of malware that duplicates itself by modifying other programs and inserting its code into them.",
+  "explanation_hi": "एक कंप्यूटर वायरस ऐसा मैलवेयर है जो अन्य प्रोग्राम में अपना कोड डालकर अपनी प्रतिलिपि बनाकर फैलता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What does the term '2FA' stand for in cybersecurity?",
+  "question_hi": "साइबर सुरक्षा में '2FA' शब्द का विस्तार क्या है?",
+  "A_en": "Two-Factor Authentication", 
+  "A_hi": "द्वि-कारक प्रमाणन",
+  "B_en": "Two-Factor Authorization",
+  "B_hi": "द्वि-कारक अधिकृत करण",
+  "C_en": "Two-Factor Access",
+  "C_hi": "द्वि-कारक पहुँच",
+  "D_en": "Two-Factor Approval",
+  "D_hi": "द्वि-कारक स्वीकृति",
+  "answer": "A",
+  "explanation_en": "Two-Factor Authentication (2FA) is a security process in which users provide two different authentication factors to verify themselves.",
+  "explanation_hi": "द्वि-कारक प्रमाणन (2FA) एक सुरक्षा प्रक्रिया है जिसमें उपयोगकर्ता अपनी पहचान सत्यापित करने के लिए दो अलग-अलग प्रमाणन कारक प्रदान करते हैं।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which of the following is a common method to prevent unauthorized access to a computer system?",
+  "question_hi": "निम्नलिखित में से कौन सा कंप्यूटर सिस्टम में अनधिकृत प्रवेश को रोकने का एक सामान्य तरीका है?",
+  "A_en": "Using strong passwords", 
+  "A_hi": "मजबूत पासवर्ड का उपयोग करना",
+  "B_en": "Disabling the firewall",
+  "B_hi": "फायरवॉल को बंद कर देना",
+  "C_en": "Opening unknown email attachments",
+  "C_hi": "अज्ञात ईमेल अनुबंध खोलना",
+  "D_en": "Sharing login credentials publicly",
+  "D_hi": "लॉगिन अनुमति जारी करना",
+  "answer": "A",
+  "explanation_en": "Using strong and unique passwords is a fundamental method to secure accounts from unauthorized access.",
+  "explanation_hi": "मजबू
