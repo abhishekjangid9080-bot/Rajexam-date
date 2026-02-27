@@ -1,0 +1,193 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Physical and Chemical Changes in General Science, specifically for Rajasthan State Exams, SSC, and Railway (NTPC). The questions need to be in both Hindi and English, following the Testbook style. The JSON structure must be strict, with explanations in both languages.
+
+First, I need to recall the key differences between physical and chemical changes. Physical changes involve changes in physical properties without altering the chemical composition, like melting ice or tearing paper. Chemical changes involve a chemical reaction, resulting in new substances, like burning wood or rusting iron.
+
+I should ensure that each question tests this understanding. Let me start by listing possible topics: examples of physical and chemical changes, indicators of chemical changes (gas production, color change, temperature change), and maybe some common experiments.
+
+Next, I need to create 10 questions. Each question should have four options, with the correct answer and explanations in both languages. Let me brainstorm some questions.
+
+1. Burning of paper is a chemical change. Why? Because it produces ash and smoke, new substances.
+2. Melting of ice is physical because it's just a state change.
+3. Rusting of iron is chemical as it forms iron oxide.
+4. Breaking glass is physical since it's just shape change.
+5. Fermentation of grapes is chemical, producing alcohol.
+6. Mixing salt and water is physical, dissolving without new substances.
+7. Digestion is chemical as enzymes break down food into new substances.
+8. Boiling water is physical, just changing state.
+9. Burning a matchstick is chemical due to combustion.
+10. Churning milk into curd is chemical as it involves acid production.
+
+Now, I need to verify each question for accuracy. For example, in question 5, fermentation is a chemical change because it's a biochemical process producing ethanol and CO2. Similarly, curdling of milk (question 10) is a chemical change because the proteins denature.
+
+I must ensure options are clear and unambiguous. For example, in question 3, the answer is chemical change, so the options should have other physical changes as distractors.
+
+Explanations should be concise but sufficient. For instance, explaining that chemical changes produce new substances, whereas physical changes do not.
+
+Check for any possible errors. For example, in question 6, mixing salt and water is a physical change because the salt can be recovered by evaporation, no new substance is formed.
+
+Now, translate all parts into Hindi. The Hindi translations should be accurate and in proper Hindi script. Avoid transliteration. Ensure the explanations are clear in Hindi as well.
+
+Once all questions are drafted, structure them into the required JSON format. Ensure each question object follows the structure: subject, topic, question in both languages, options in both languages, answer, and explanations in both languages.
+
+Check for consistency in numbering and answer keys. Make sure the answer is correctly labeled as A, B, C, or D in each case.
+
+Finally, validate the JSON structure to ensure there are no syntax errors. Each question should be a separate object within the array, and all keys should be present and correctly formatted.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a physical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा भौतिक परिवर्तन है?",
+    "A_en": "Burning of paper",
+    "A_hi": "कागज का जलना",
+    "B_en": "Melting of ice",
+    "B_hi": "बर्फ का पिघलना",
+    "C_en": "Rusting of iron",
+    "C_hi": "लोहे का जंग लगना",
+    "D_en": "Fermentation of grapes",
+    "D_hi": "अंगूर का सड़ना",
+    "answer": "B",
+    "explanation_en": "Melting of ice is a physical change as it only changes the state of water without forming new substances.",
+    "explanation_hi": "बर्फ का पिघलना एक भौतिक परिवर्तन है क्योंकि इसमें पानी की अवस्था में परिवर्तन होता है लेकिन नए पदार्थ का निर्माण नहीं होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a chemical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा रासायनिक परिवर्तन है?",
+    "A_en": "Breaking of glass",
+    "A_hi": "कांच का टूटना",
+    "B_en": "Dissolving sugar in water",
+    "B_hi": "पानी में चीनी घोलना",
+    "C_en": "Digestion of food",
+    "C_hi": "भोजन का पाचन",
+    "D_en": "Cutting of wood",
+    "D_hi": "लकड़ी को काटना",
+    "answer": "C",
+    "explanation_en": "Digestion of food is a chemical change as it involves breaking down complex molecules into simpler ones through chemical reactions.",
+    "explanation_hi": "भोजन का पाचन एक रासायनिक परिवर्तन है क्योंकि इसमें जटिल अणुओं को रासायनिक अभिक्रियाओं द्वारा सरल अणुओं में तोड़ दिया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following indicates a chemical change?",
+    "question_hi": "निम्नलिखित में से कौन रासायनिक परिवर्तन का संकेत देता है?",
+    "A_en": "Change in size",
+    "A_hi": "आकार में परिवर्तन",
+    "B_en": "Change in color",
+    "B_hi": "रंग में परिवर्तन",
+    "C_en": "Change in shape",
+    "C_hi": "आकृति में परिवर्तन",
+    "D_en": "Change in temperature",
+    "D_hi": "तापमान में परिवर्तन",
+    "answer": "B",
+    "explanation_en": "Change in color is a common indicator of a chemical change, as new substances are often formed with different colors.",
+    "explanation_hi": "रंग में परिवर्तन एक रासायनिक परिवर्तन का सामान्य संकेतक है, क्योंकि अक्सर नए पदार्थ भिन्न रंग के होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is NOT a physical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा भौतिक परिवर्तन नहीं है?",
+    "A_en": "Boiling of water",
+    "A_hi": "पानी का उबलना",
+    "B_en": "Freezing of water",
+    "B_hi": "पानी का जमना",
+    "C_en": "Burning of coal",
+    "C_hi": "कोयले का जलना",
+    "D_en": "Inflating a balloon",
+    "D_hi": "गुब्बारा फुलाना",
+    "answer": "C",
+    "explanation_en": "Burning of coal is a chemical change as it produces new substances like carbon dioxide.",
+    "explanation_hi": "कोयले का जलना एक रासायनिक परिवर्तन है क्योंकि इसमें कार्बन डाइऑक्साइड जैसे नए पदार्थ उत्पन्न होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a chemical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा रासायनिक परिवर्तन है?",
+    "A_en": "Evaporation of alcohol",
+    "A_hi": "अल्कोहल का वाष्पीकरण",
+    "B_en": "Melting of wax",
+    "B_hi": "मोम का पिघलना",
+    "C_en": "Formation of curd from milk",
+    "C_hi": "दूध से दही बनना",
+    "D_en": "Stretching of rubber",
+    "D_hi": "रबर का खींचना",
+    "answer": "C",
+    "explanation_en": "Formation of curd from milk is a chemical change as it involves irreversible chemical reactions.",
+    "explanation_hi": "दूध से दही बनना एक रासायनिक परिवर्तन है क्योंकि इसमें अपरिवर्तनीय रासायनिक अभिक्रियाएँ होती हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a physical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा भौतिक परिवर्तन है?",
+    "A_en": "Respiration in living beings",
+    "A_hi": "जीवित प्राणियों में श्वसन",
+    "B_en": "Photosynthesis in plants",
+    "B_hi": "पौधों में प्रकाश-संश्लेषण",
+    "C_en": "Melting of butter",
+    "C_hi": "मक्खन का पिघलना",
+    "D_en": "Ripening of fruits",
+    "D_hi": "फलों का पकना",
+    "answer": "C",
+    "explanation_en": "Melting of butter is a physical change as it only alters the physical state without forming new substances.",
+    "explanation_hi": "मक्खन का पिघलना एक भौतिक परिवर्तन है क्योंकि इसमें भौतिक अवस्था में परिवर्तन होता है लेकिन नए पदार्थ का निर्माण नहीं होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a chemical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा रासायनिक परिवर्तन है?",
+    "A_en": "Cutting paper into small pieces",
+    "A_hi": "कागज को छोटे टुकड़ों में काटना",
+    "B_en": "Breaking a pencil",
+    "B_hi": "पेंसिल को तोड़ना",
+    "C_en": "Burning of magnesium ribbon",
+    "C_hi": "मैग्नीशियम रिबन का जलना",
+    "D_en": "Melting of chocolate",
+    "D_hi": "चॉकलेट का पिघलना",
+    "answer": "C",
+    "explanation_en": "Burning of magnesium ribbon is a chemical change as it forms magnesium oxide, a new substance.",
+    "explanation_hi": "मैग्नीशियम रिबन का जलना एक रासायनिक परिवर्तन है क्योंकि इसमें मैग्नीशियम ऑक्साइड, एक नए पदार्थ का निर्माण होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a physical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा भौतिक परिवर्तन है?",
+    "A_en": "Cooking of food",
+    "A_hi": "भोजन का पकना",
+    "B_en": "Ripening of fruits",
+    "B_hi": "फलों का पकना",
+    "C_en": "Boiling of egg",
+    "C_hi": "अंडे का उबलना",
+    "D_en": "Freezing of water",
+    "D_hi": "पानी का जमना",
+    "answer": "D",
+    "explanation_en": "Freezing of water is a physical change as it changes the state of water without forming new substances.",
+    "explanation_hi": "पानी का जमना एक भौतिक परिवर्तन है क्योंकि इसमें पानी की अवस्था में परिवर्तन होता है लेकिन नए पदार्थ का निर्माण नहीं होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Bhautik aur Rasayanik Parivartan (Physical & Chemical Changes)",
+    "question_en": "Which of the following is a chemical change?",
+    "question_hi": "निम्नलिखित में से कौन-सा रासायनिक परिवर्तन है?",
+    "A_en": "Molding of clay",
+    "A_hi": "मिट्टी का आकार देना",
+    "B_en": "Bending a metal wire",
+    "B_hi": "धातु के तार को मुड़ना",
+    "C_en": "Fermentation of sugar",
+    "C_hi": "चीनी की किण्वन",
+    "D_en": "Melting of metal",
+    "D_hi": "धातु का पिघलना",
+    "answer": "C",
+    "explanation_en": "Fermentation of sugar is a chemical change as it produces new substances like ethanol and carbon dioxide.",
+    "explanation_hi": "चीनी की किण्वन एक रासायनिक परिवर्तन है क्योंकि इसमें एथेनॉल और कार्बन डाइऑक्साइड जैसे नए पदार्थों का उत्पादन होता है।"
+  },
+  {
+    "subject
