@@ -1,0 +1,136 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Indian Polity, specifically focusing on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. The user wants the questions and options in both Hindi and English, similar to the Testbook style. Let me start by recalling the key points of these amendments. 
+
+The 73rd Amendment Act, 1992, deals with Panchayati Raj institutions. It provides for the constitution of Panchayats at the village, intermediate, and district levels. Reservation of seats for SCs, STs, and OBCs is a key feature. Also, elections to these bodies are to be conducted regularly, and they have certain powers and authority as per the State Legislature.
+
+The 74th Amendment Act, 1992, is about urban local governments, such as municipalities. It establishes municipalities in urban areas and outlines their powers and responsibilities. Similar to the 73rd Amendment, it includes provisions for reservations and regular elections.
+
+I need to ensure that the questions cover important aspects like the constitutional amendments, structure, powers, reservations, elections, and functions of these institutions. Let me brainstorm possible questions and their answers. For example, which article deals with the 73rd and 74th Amendments? What is the minimum age for contesting panchayat elections? What are the functions of municipalities under the 74th Amendment?
+
+I should also make sure to include the correct answers and clear explanations in both languages. The options should be plausible but distinct, avoiding any ambiguity. Let me check each question for accuracy and relevance to the topic. Also, ensure that the difficulty level is appropriate for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Avoid using any technical jargon that might confuse the candidates. Finally, structure the JSON correctly as per the provided example, ensuring all fields are present and properly formatted.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which Constitutional Amendment Act provides for the establishment of Panchayati Raj institutions?",
+    "question_hi": "कौन सा संविधान संशोधन अधिनियम पंचायती राज संस्थानों की स्थापना के लिए प्रावधान करता है?",
+    "A_en": "73rd Amendment Act, 1992", "A_hi": "73वीं अनुसूची संशोधन अधिनियम, 1992",
+    "B_en": "74th Amendment Act, 1992", "B_hi": "74वीं अनुसूची संशोधन अधिनियम, 1992",
+    "C_en": "71st Amendment Act, 1992", "C_hi": "71वीं अनुसूची संशोधन अधिनियम, 1992",
+    "D_en": "72nd Amendment Act, 1992", "D_hi": "72वीं अनुसूची संशोधन अधिनियम, 1992",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act of 1992 established the Panchayati Raj institutions across India.",
+    "explanation_hi": "1992 के 73वें संशोधन अधिनियम ने भारत भर में पंचायती राज संस्थानों की स्थापना की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under which Article of the Constitution are the provisions for Panchayati Raj institutions described?",
+    "question_hi": "संविधान के किस अनुच्छेद में पंचायती राज संस्थानों के बारे में प्रावधान दिए गए हैं?",
+    "A_en": "Article 243", "A_hi": "अनुच्छेद 243",
+    "B_en": "Article 244", "B_hi": "अनुच्छेद 244",
+    "C_en": "Article 245", "C_hi": "अनुच्छेद 245",
+    "D_en": "Article 246", "D_hi": "अनुच्छेद 246",
+    "answer": "A",
+    "explanation_en": "Article 243 of the Constitution outlines the structure, powers, and functions of Panchayati Raj institutions.",
+    "explanation_hi": "संविधान के अनुच्छेद 243 में पंचायती राज संस्थानों की संरचना, शक्तियां और कार्यों का वर्णन किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest an election to a Panchayat?",
+    "question_hi": "किसी पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु कितनी होनी चाहिए?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "21 years is the minimum age required to contest a Panchayat election.",
+    "explanation_hi": "पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु 21 वर्ष होनी चाहिए।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of Panchayati Raj institutions?",
+    "question_hi": "निम्नलिखित में से कौन-सा पंचायती राज संस्थानों का कार्य नहीं है?",
+    "A_en": "Implementation of social welfare programs", "A_hi": "सामाजिक कल्याण कार्यक्रमों का कार्यान्वयन",
+    "B_en": "Collection of local taxes", "B_hi": "स्थानीय करों का संग्रह",
+    "C_en": "Maintenance of national highways", "C_hi": "राष्ट्रीय राजमार्गों की देखरेख",
+    "D_en": "Development of rural infrastructure", "D_hi": "ग्रामीण बुनियादी ढांचे का विकास",
+    "answer": "C",
+    "explanation_en": "Maintenance of national highways is not a function of Panchayati Raj institutions.",
+    "explanation_hi": "राष्ट्रीय राजमार्गों की देखरेख पंचायती राज संस्थानों का कार्य नहीं है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest an election to a Municipal Corporation?",
+    "question_hi": "किसी नगर निगम के चुनाव में भाग लेने के लिए न्यूनतम आयु कितनी होनी चाहिए?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "C",
+    "explanation_en": "25 years is the minimum age required to contest a Municipal Corporation election.",
+    "explanation_hi": "नगर निगम के चुनाव में भाग लेने के लिए न्यूनतम आयु 25 वर्ष होनी चाहिए।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which Constitutional Amendment Act provides for the establishment of Municipalities?",
+    "question_hi": "कौन सा संविधान संशोधन अधिनियम नगर पालिकाओं की स्थापना के लिए प्रावधान करता है?",
+    "A_en": "73rd Amendment Act, 1992", "A_hi": "73वीं अनुसूची संशोधन अधिनियम, 1992",
+    "B_en": "74th Amendment Act, 1992", "B_hi": "74वीं अनुसूची संशोधन अधिनियम, 1992",
+    "C_en": "71st Amendment Act, 1992", "C_hi": "71वीं अनुसूची संशोधन अधिनियम, 1992",
+    "D_en": "72nd Amendment Act, 1992", "D_hi": "72वीं अनुसूची संशोधन अधिनियम, 1992",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act of 1992 established the Municipalities in urban areas.",
+    "explanation_hi": "1992 के 74वें संशोधन अधिनियम ने शहरी क्षेत्रों में नगर पालिकाओं की स्थापना की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for Scheduled Castes and Scheduled Tribes in Panchayati Raj institutions?",
+    "question_hi": "पंचायती राज संस्थानों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए कितने प्रतिशत आसन आरक्षित हैं?",
+    "A_en": "10%", "A_hi": "10%",
+    "B_en": "20%", "B_hi": "20%",
+    "C_en": "30%", "C_hi": "30%",
+    "D_en": "Depends on population proportion", "D_hi": "जनसंख्या अनुपात पर निर्भर करता है",
+    "answer": "D",
+    "explanation_en": "Seats for SCs and STs are reserved in proportion to their population in the area.",
+    "explanation_hi": "अनुसूचित जातियों और अनुसूचित जनजातियों के आसन उनके क्षेत्र की जनसंख्या के अनुपात में आरक्षित होते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under the 73rd Amendment, at which levels are Panchayats established?",
+    "question_hi": "73वें संशोधन के तहत पंचायतें किस स्तर पर स्थापित की जाती हैं?",
+    "A_en": "Village level only", "A_hi": "केवल ग्राम स्तर पर",
+    "B_en": "District level only", "B_hi": "केवल जिला स्तर पर",
+    "C_en": "Village, Block, and District levels", "C_hi": "ग्राम, ब्लॉक और जिला स्तर पर",
+    "D_en": "State level only", "D_hi": "केवल राज्य स्तर पर",
+    "answer": "C",
+    "explanation_en": "Panchayats are established at the village, intermediate (block), and district levels under the 73rd Amendment.",
+    "explanation_hi": "73वें संशोधन के अंतर्गत पंचायतों की स्थापना ग्राम, अंतरमध्य (ब्लॉक) और जिला स्तर पर की जाती है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the tenure of office for members of a Panchayat?",
+    "question_hi": "पंचायत के सदस्यों की कार्यकाल कितना होता है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The tenure for Panchayat members is 5 years.",
+    "explanation_hi": "पंचायत के सदस्यों की कार्यकाल 5 वर्ष होता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a function of Municipalities under the 74th Amendment?",
+    "question_hi": "निम्नलिखित में से कौन सा 74वें संशोधन के तहत नगर पालिकाओं का कार्य है?",
+    "A_en": "Urban planning and development", "A_hi": "शहरी नियोजन और
