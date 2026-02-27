@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What is the primary contributor to India's GDP?",
+"question_hi": "भारत के आर्थिक विकास के आधारित विभिन्न प्रमोजन क्या है?",
+"A_en": "Agriculture",
+"A_hi": "आग्रह",
+"B_en": "Industry",
+"B_hi": "भारत के इंडीस",
+"C_en": "Services",
+"C_hi": "सेवाएं",
+"D_en": "Commerce",
+"D_hi": "बैंकिंग",
+"answer": "C",
+"explanation_en": "Services sector contributes significantly to India's GDP. It plays a crucial role in the country's economy by providing various services to the society.",
+"explanation_hi": "भारत के आर्थिक विकास के निधि क्या है?",
+"explanation_hi": "आर्थिक विकास के निधि क्या है? यह राज्य के विकास में कुछ में सहमत है।",
+"explanation_en": "The employment sector in the economic sector in India is crucial. It contributes significantly to the country's economy by providing various job opportunities to the society."
+}
