@@ -1,0 +1,87 @@
+[
+{
+"subject": "Technology",
+"topic": "MS Office (Word, Excel, PowerPoint) Basics",
+"question_en": "What is the primary function of Microsoft Word?",
+"question_hi": "Microsoft Word का मूल कार्य क्या है?",
+"A_en": "Printing", "A_hi": "प्रिंटिंग",
+"B_en": "Spreadsheets", "B_hi": "टेबल्स",
+"C_en": "Presentations", "C_hi": "प्रीसेंटर्न्स",
+"D_en": "Database Management", "D_hi": "डेटाबेस एन्ज़ाइम्ट",
+"answer": "C",
+"explanation_en": "Microsoft Word is primarily used for creating and editing documents, while Microsoft Excel is used for managing data in spreadsheets and Microsoft PowerPoint is used for creating presentations.",
+"explanation_hi": "Microsoft Word डॉक्टर्स के लिए बनना और संपाठीवित करना मंत्रालय, Microsoft Excel डॉक्टरी के लिए डेटा संचालन मैन करना मंत्रालय, Microsoft PowerPoint के लिए प्रदेशन मैन करना",
+"question_hi": "Microsoft Word एपर्स, Microsoft Excel डॉक्टरी, Microsoft PowerPoint के लिए प्रदेशन मैन करना",
+"answer": "C",
+"explanation_hi": "Microsoft Word एपर्स, Microsoft Excel डॉक्टरी, Microsoft PowerPoint के लिए प्रदेशन मैन करना",
+"question_hi": "MS Word, MS Excel, MS PowerPoint kaise प्रदेशन करना चाहिएगे",
+"answer": "C",
+"explanation_hi": "इसे समझने के लिएगे",
+"question_hi": "MS Word, MS Excel, MS PowerPoint की समझना",
+"answer": "B",
+"explanation_hi": "MS Word के लिएगे",
+"question_hi": "Word, Excel, PowerPoint के विभिज्ञान",
+"answer": "A",
+"explanation_hi": "प्रश्न के लिएगे",
+},
+{
+"subject": "Technology",
+"topic": "MS Office (Word, Excel, PowerPoint)",
+"question_en": "Which of the following is used for creating presentations?",
+"question_hi": "निवेशन के लिएकेंसे",
+"options": [
+{
+"option_en": "C",
+"option_hi": "C",
+"option_number": 2
+},
+{
+"option_en": "D",
+"option_hi": "D",
+"option_number": 3
+},
+{
+"option_en": "E",
+"option_hi": "E",
+"option_number": 4
+},
+{
+"option_en": "F",
+"option_hi": "F",
+"option_number": 5
+}
+],
+"answer": "F",
+"explanation_en": "Microsoft PowerPoint is used for creating presentations.",
+"explanation_hi": "Microsoft PowerPoint प्रेसियण करना केंसे।",
+},
+{
+"subject": "Technology",
+"topic": "MS Office (Word, Excel, PowerPoint)",
+"question_en": "Which software is used for creating and editing documents?",
+"question_hi": "डॉक्टरेसेंसे",
+"options": [
+{
+"option_en": "C",
+"option_hi": "C",
+"option_number": 2
+},
+{
+"option_en": "D",
+"option_hi": "D",
+"option_number": 3
+},
+{
+"option_en": "E",
+"option_hi": "E",
+"option_number": 4
+},
+{
+"option_en": "F",
+"option_hi": "F",
+"option_number": 5
+}
+],
+"answer": "E",
+"explanation_en": "Microsoft Word is used for creating and editing documents.\nMicrosoft Excel is used for managing and analyzing data.\nMicrosoft PowerPoint is used for creating slideshows.",
+"explanation_hi": "Microsoft Word डॉक्टरेसेंसेंसेंसे।\nMicrosoft Excel केंसेंसेंसेंसेंसेंसेंसेंसेंसेंसे।\nMicrosoft PowerPoint डॉक्टरेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंससेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंससेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंससेंसेंसेंसेंसेंसेंसेंसेंससेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसेंसें
