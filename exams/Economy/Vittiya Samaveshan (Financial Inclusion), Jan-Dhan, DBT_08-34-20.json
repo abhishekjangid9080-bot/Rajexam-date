@@ -1,0 +1,78 @@
+[
+{
+"subject": "Economy",
+"topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+"question_en": "What is the primary objective of the Jan Dhan Yojana?",
+"question_hi": "जन धन योजना का मुख्य विधान क्या है?",
+"A_en": "To promote financial literacy",
+"A_hi": "फिनेशनल लिपीकरण के लिए",
+"B_en": "To reduce financial exclusion",
+"B_hi": "डिक्यूलिक शास्त्रिकिया स्वामी के लिए",
+"C_en": "To promote financial inclusion",
+"C_hi": "फिनेशनल कलाना",
+"D_en": "To increase microfinance",
+"D_hi": "माध्यम व्यूमिन्स के लिए",
+"answer": "C",
+"explanation_en": "The primary objective of the Jan Dhan Yojana is to promote financial inclusion. It aims to provide financial services to all sections of the society, including those who were earlier excluded from the formal banking sector. Thus, option C (फिनेशनल कलाना) is the correct answer.",
+"explanation_hi": "जन धान योजना का मुख्या के लिए है किस्तान का मुख्या के लिए है। यह समाजवादी का मानना करती है। यह समाजवादी का मानना करती है।",
+"answer": "C",
+"explanation_en": "The primary objective of Jan Dhan Yojana is to include the unbanked sections of the society in the banking system. Therefore, option C (समाजवादी का मानना) is correct.",
+"explanation_hi": "जन धान योजना का मुख्या करती है समाजवादी का मानना करती है।",
+"question_en": "What is the main objective of the Jan Dhan Yojana?",
+"question_hi": "जन धान योजना का मुख्या करती है।",
+"answers": [
+{
+"id": 1,
+"question": "What is the main objective of the Jan Dhan Yojana?",
+"options": [
+{
+"id": 1,
+"option": "समाजवादी का मानना",
+"answer": 1
+},
+{
+"id": 2,
+"option": "व्यापी क्रेडिंग",
+"answer": 0
+},
+{
+"id": 3,
+"option": "बिलायन का मानना",
+"answer": 1
+},
+{
+"id": 4,
+"option": "आर्थ विकार का मानना",
+"answer": 2
+}
+],
+"answer": 1
+},
+{
+"id": 2,
+"question": "Which among the following is a scheme for the welfare of Economically Weaker Sections?",
+"options": [
+{
+"id": 5,
+"option": "राज्य की स्थान",
+"answer": 2
+},
+{
+"id": 6,
+"option": "श्रेष्टिक के लिएंट की सेवार्यामंड",
+"answer": 1
+},
+{
+"id": 7,
+"option": "बाबिलायन की सेवार्यामंड",
+"answer": 0
+},
+{
+"id": 8,
+"option": "राज्य की स्वार्यामंड",
+"answer": 1
+}
+],
+"answer": 1
+}
+]
