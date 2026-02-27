@@ -1,0 +1,47 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary industry of Rajasthan?",
+"question_hi": "राजस्थान का प्रथमी राज्यीय कार्य क्या है।",
+"A_en": "Textile",
+"A_hi": "प्रातिरोधी",
+"B_en": "Agriculture",
+"B_hi": "कार्य",
+"C_en": "Mineral Resources",
+"C_hi": "मन्त्रों",
+"D_en": "Traditional Crafts",
+"D_hi": "कालेजानें",
+"answer": "B",
+"explanation_en": "Rajasthan is predominantly known for its rich agricultural land and traditional crafts. Agriculture plays a major role in the state's economy.",
+"explanation_hi": "राजस्थान में सभी विभागों se सम्बंधित है। यह राजस्थान का बैंक महत्वमेंसे बढ़ित है।",
+"explanation_en": "Agriculture plays a significant role in the economy of Rajasthan. The state is also known for its rich mineral resources and traditional crafts.",
+"explanation_hi": "राजस्थान में आर्थित ही संरक्षार्थ में सम्बंधित है। यह राज्य में सम्बंधित होंगे राज्य का कौरताता है।",
+"question_en": "Which sector is heavily dependent on agriculture in Rajasthan?",
+"question_hi": "राजस्थान में कौरता क्या से पहले है।",
+"options": [
+{
+"option_number": 1,
+"option_text_en": "Industry",
+"option_text_hi": "संयुक्तिकानी",
+"correct_answer": 1
+},
+{
+"option_number": 2,
+"option_text_en": "Services",
+"option_text_hi": "स्वर्ग",
+"correct_answer": 2
+},
+{
+"option_number": 3,
+"option_text_en": "Tourism",
+"option_text_hi": "टॉयरिम",
+"correct_answer": 3
+},
+{
+"option_number": 4,
+"option_text_en": "Agriculture",
+"option_text_hi": "स्पदी",
+"correct_answer": 4
+}
+]
