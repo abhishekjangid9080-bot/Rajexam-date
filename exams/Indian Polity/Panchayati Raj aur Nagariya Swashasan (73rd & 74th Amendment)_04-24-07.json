@@ -1,0 +1,131 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Urban Governance (73rd and 74th Amendments) in Indian Polity. The user wants the questions in both Hindi and English, following the Testbook style, and in a strict JSON format. Let's start by recalling key points about the 73rd and 74th Amendments.
+
+First, the 73rd Amendment Act, 1992, is related to Panchayati Raj institutions. It provides for the constitution of Panchayats at the village, intermediate, and district levels. It mandates regular elections, reservation of seats for SCs, STs, and OBCs, and the inclusion of women. The 74th Amendment Act, 1992, deals with urban local bodies, like municipal corporations, municipalities, and nagar panchayats. It aims to strengthen urban governance by constitutionalizing their structure and functions.
+
+Now, for each question, I need to ensure that both Hindi and English translations are accurate. The answer options should be clear, and explanations should be concise. Let me brainstorm possible questions.
+
+1. **Constitutional Basis**: Which amendments provide constitutional status to Panchayats and Urban Local Bodies? The answer is 73rd and 74th. So the first question can be about this.
+
+2. **Reservation**: The 73rd Amendment mandates the reservation of seats for women. The minimum percentage is 1/3 (33.33%). That could be another question.
+
+3. **Structure of Panchayats**: The three-tier system—village, intermediate, district. Need to confirm the exact terms in Hindi.
+
+4. **Election Frequency**: Panchayats should be elected every 5 years, with the possibility of dissolution before that. So a question on the term period.
+
+5. **State Election Commissions**: Established under 73rd Amendment. Who administers them? The Governor of the State.
+
+6. **Functions of Urban Local Bodies**: Under 74th Amendment, their functions include urban planning, sanitation, etc. Need to list possible functions and pick one.
+
+7. **Reservation for SC/ST**: Both amendments require a minimum reservation of 1/4th for SCs and STs. Wait, actually, the 73rd Amendment specifies 1/4th for SCs and STs combined, and the 74th has a similar provision. So a question can ask about the percentage.
+
+8. **Constitutional Provisions**: The 73rd Amendment is under Article 243B. Maybe a question about the constitutional article.
+
+9. **Disqualification Grounds**: The grounds for disqualifying a member can include conviction for corrupt practices. Need to check exact terms.
+
+10. **Financial Provisions**: The 73rd Amendment mandates that the State Finance Commission must be constituted every 5 years to recommend financial resources for Panchayats.
+
+Now, translating each of these into questions, ensuring options are in both languages, and answers are accurate. Also, checking for any possible errors, like mixing up 73rd and 74th in certain aspects. For example, the reservation for women is under the 73rd Amendment, while the 74th has similar provisions but might have different details. Need to verify each point for accuracy. Once that's done, structure the JSON accordingly, making sure the format matches the provided example. Let me proceed step by step.
+</think>
+
+```json
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment provides constitutional status to urban local bodies?",
+        "question_hi": "कौन सा संवैधानिक संशोधन शहरी स्थानीय निकायों को संवैधानिक दर्जा प्रदान करता है?",
+        "A_en": "73rd Amendment Act, 1992", "A_hi": "73वीं अनुच्छेद संशोधन अधिनियम, 1992",
+        "B_en": "74th Amendment Act, 1992", "B_hi": "74वीं अनुच्छेद संशोधन अधिनियम, 1992",
+        "C_en": "75th Amendment Act, 1994", "C_hi": "75वीं अनुच्छेद संशोधन अधिनियम, 1994",
+        "D_en": "76th Amendment Act, 1996", "D_hi": "76वीं अनुच्छेद संशोधन अधिनियम, 1996",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment Act, 1992, provides constitutional status to urban local bodies such as municipal corporations, municipalities, and nagar panchayats.",
+        "explanation_hi": "74वीं अनुच्छेद संशोधन अधिनियम, 1992, शहरी स्थानीय निकायों, जैसे नगर निगम, मुनिसिपलिटी और नगर पंचायतों को संवैधानिक दर्जा प्रदान करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum percentage of seats reserved for women in local self-governance bodies under the 73rd Amendment?",
+        "question_hi": "73वीं अनुच्छेद के तहत स्थानीय स्वशासन निकायों में महिलाओं के लिए आरक्षित आसनों का न्यूनतम प्रतिशत क्या है?",
+        "A_en": "33%", "A_hi": "33%",
+        "B_en": "25%", "B_hi": "25%",
+        "C_en": "50%", "C_hi": "50%",
+        "D_en": "10%", "D_hi": "10%",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates a minimum reservation of one-third (33.33%) of seats for women in local self-governance bodies.",
+        "explanation_hi": "73वीं अनुच्छेद महिलाओं के लिए स्थानीय स्वशासन निकायों में आसनों के न्यूनतम एक तिहाई (33.33%) का आरक्षण आवश्यक करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is not a function of urban local bodies as per the 74th Amendment?",
+        "question_hi": "74वीं अनुच्छेद के अनुसार निम्नलिखित में से कौन-सा शहरी स्थानीय निकायों का कार्य नहीं है?",
+        "A_en": "Urban planning", "A_hi": "शहरी योजना",
+        "B_en": "Sanitation", "B_hi": "स्वच्छता",
+        "C_en": "Law and order", "C_hi": "कानून और व्यवस्था",
+        "D_en": "Public health", "D_hi": "जन स्वास्थ्य",
+        "answer": "C",
+        "explanation_en": "Law and order is primarily the responsibility of the state government, not urban local bodies.",
+        "explanation_hi": "कानून और व्यवस्था राज्य सरकार की जिम्मेदारी है, शहरी स्थानीय निकायों का कार्य नहीं है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "The 73rd Amendment Act, 1992, was enacted to strengthen:",
+        "question_hi": "73वीं अनुच्छेद संशोधन अधिनियम, 1992 को किसको मजबूत करने के लिए लागू किया गया था?",
+        "A_en": "Urban Local Bodies", "A_hi": "शहरी स्थानीय निकाय",
+        "B_en": "Panchayati Raj Institutions", "B_hi": "पंचायती राज संस्थान",
+        "C_en": "Gram Panchayats", "C_hi": "ग्राम पंचायत",
+        "D_en": "Municipal Corporations", "D_hi": "नगर निगम",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act, 1992, was enacted to strengthen the Panchayati Raj Institutions by establishing a three-tier system and ensuring democratic participation.",
+        "explanation_hi": "73वीं अनुच्छेद संशोधन अधिनियम, 1992 को तीन स्तरीय प्रणाली स्थापित करके पंचायती राज संस्थानों को मजबूत करने के लिए लागू किया गया था और लोकतांत्रिक भागीदारी सुनिश्चित की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Indian Constitution deals with the reservation of seats for Scheduled Castes and Scheduled Tribes in urban local bodies?",
+        "question_hi": "भारतीय संविधान का कौन-सा अनुच्छेद शहरी स्थानीय निकायों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए आसनों के आरक्षण का उल्लेख करता है?",
+        "A_en": "Article 243T", "A_hi": "अनुच्छेद 243टी",
+        "B_en": "Article 243D", "B_hi": "अनुच्छेद 243डी",
+        "C_en": "Article 243P", "C_hi": "अनुच्छेद 243पी",
+        "D_en": "Article 243M", "D_hi": "अनुच्छेद 243एम",
+        "answer": "A",
+        "explanation_en": "Article 243T of the Indian Constitution mandates the reservation of seats for Scheduled Castes and Scheduled Tribes in urban local bodies.",
+        "explanation_hi": "भारतीय संविधान का अनुच्छेद 243टी शहरी स्थानीय निकायों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए आसनों के आरक्षण का आवश्यकता करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "The term of a Panchayat is:",
+        "question_hi": "एक पंचायत की अवधि क्या होती है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The term of a Panchayat is five years, as per the 73rd Constitutional Amendment Act.",
+        "explanation_hi": "73वीं संवैधानिक संशोधन अधिनियम के अनुसार पंचायत की अवधि पांच वर्ष होती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Who administers the State Election Commission established under the 73rd Amendment?",
+        "question_hi": "73वीं अनुच्छेद के तहत स्थापित राज्य निर्वाचन आयोग को कौन शासित करता है?",
+        "A_en": "President of India", "A_hi": "भारत के राष्ट्रपति",
+        "B_en": "Prime Minister", "B_hi": "प्रधान मंत्री",
+        "C_en": "Governor of the State", "C_hi": "राज्य का राज्यपाल",
+        "D_en": "Chief Justice of the State", "D_hi": "राज्य के मुख्य न्यायाधीश",
+        "answer": "C",
+        "explanation_en": "The State Election Commission is administered by the Governor of the State, as per the provisions of the 73rd Amendment.",
+        "explanation_hi": "73वीं अनुच्छेद के प्रावधानों के अनुसार राज्य निर्वाचन आयोग का प्रशासन राज्य के राज्यपाल द्वारा किया जाता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of the State Finance Commission under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सा 73वीं अनुच्छेद के तहत राज्य वित्त आयोग का कार्य है?",
+        "A_en": "Recommend financial resources for panchayats", "A_hi": "पंचायतों के लिए वित्तीय संसाधनों की अनुशंसा करना",
+        "B_en": "Conduct elections for municipalities", "B_hi": "मुनिसिपलिटी के लिए चुनाव करवाना",
+        "C_en": "Frame laws for urban planning", "C_hi": "शहरी योजना के लिए कानून ब
