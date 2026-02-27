@@ -1,0 +1,152 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Information Technology, specifically Networking and Cyber Security for Rajasthan State Exams, SSC, and Railway. Let me start by recalling key concepts in these areas. 
+
+First, for Networking, topics could include OSI model layers, types of networks (LAN, MAN, WAN), network devices like routers and switches, IP addressing, protocols (TCP/IP, HTTP), and network topologies. For Cyber Security, topics might involve threats like phishing, malware types (virus, worm, trojan), encryption methods, firewalls, and security protocols.
+
+I should ensure the questions are in Hindi and English, with options in both languages. Each question must have a clear answer and explanation in both languages. The difficulty level should be suitable for exams like LDC, CET, RAS, etc., so not too basic but not overly complex.
+
+Let me start with the first question. Maybe about the OSI model layers. Which layer handles encryption? That's the Presentation layer. The options can be different layers. Then another on network devices: Router operates at which layer? That's the Network layer. 
+
+Next, a question on network types: LAN vs MAN vs WAN. For Cyber Security, a question on phishing could be good. Also, SSL/TLS protocols for secure communication. Another on firewalls and their functions. Malware types like worms vs viruses. 
+
+I need to make sure each question is clear and the options are distinct. Let me check each question's correctness. For example, the question on network topology: Star topology's advantage is centralized management. 
+
+Also, include something on IP addresses: classes or IPv4 vs IPv6. Maybe a question on DNS. 
+
+Wait, 10 questions. Let me list them out step by step, ensuring coverage of both Networking and Cyber Security topics. Each with correct explanations. Need to avoid any technical inaccuracies. 
+
+Once the questions are drafted, I'll structure them into the required JSON format, making sure the Hindi translations are accurate. Check for any repetition or overlapping topics. Ensure the answers are correct and explanations are concise.
+</think>
+
+[
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which layer of the OSI model is responsible for data encryption?",
+  "question_hi": "OSI मॉडल की कौन सी परत डेटा के एन्क्रिप्शन के लिए जिम्मेदार है?",
+  "A_en": "Presentation Layer", "A_hi": "प्रस्तुति परत",
+  "B_en": "Transport Layer", "B_hi": "परिवहन परत",
+  "C_en": "Session Layer", "C_hi": "सत्र परत",
+  "D_en": "Network Layer", "D_hi": "नेटवर्क परत",
+  "answer": "A",
+  "explanation_en": "The Presentation Layer handles encryption and decryption of data.",
+  "explanation_hi": "प्रस्तुति परत डेटा के एन्क्रिप्शन और डीक्रिप्शन का संचालन करती है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which device operates at the Network Layer of the OSI model?",
+  "question_hi": "कौन सा उपकरण OSI मॉडल की नेटवर्क परत पर कार्य करता है?",
+  "A_en": "Switch", "A_hi": "स्विच",
+  "B_en": "Router", "B_hi": "रूटर",
+  "C_en": "Bridge", "C_hi": "ब्रिज",
+  "D_en": "Hub", "D_hi": "हब",
+  "answer": "B",
+  "explanation_en": "A Router operates at the Network Layer to direct data packets between networks.",
+  "explanation_hi": "एक रूटर नेटवर्क परत पर कार्य करता है और नेटवर्कों के बीच डेटा पैकेट्स को निर्देशित करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What is the primary purpose of a firewall in cybersecurity?",
+  "question_hi": "साइबर सुरक्षा में फायरवॉल का मुख्य उद्देश्य क्या है?",
+  "A_en": "To encrypt data", "A_hi": "डेटा को एन्क्रिप्ट करना",
+  "B_en": "To monitor network traffic", "B_hi": "नेटवर्क ट्रैफ़िक की निगरानी करना",
+  "C_en": "To prevent unauthorized access", "C_hi": "अनधिकृत पहुंच से रोकना",
+  "D_en": "To compress files", "D_hi": "फाइल्स को संपीड़ित करना",
+  "answer": "C",
+  "explanation_en": "A firewall primarily prevents unauthorized access to a network or system.",
+  "explanation_hi": "एक फायरवॉल मुख्य रूप से नेटवर्क या सिस्टम में अनधिकृत पहुंच से रोकता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which type of network covers a large geographical area, such as a city or country?",
+  "question_hi": "शहर या देश जैसे बड़े भौगोलिक क्षेत्र को कवर करने वाला नेटवर्क किस प्रकार का होता है?",
+  "A_en": "LAN", "A_hi": "लैन",
+  "B_en": "MAN", "B_hi": "मैन",
+  "C_en": "WAN", "C_hi": "वैन",
+  "D_en": "PAN", "D_hi": "पैन",
+  "answer": "C",
+  "explanation_en": "A Wide Area Network (WAN) spans large geographical areas like countries or continents.",
+  "explanation_hi": "वाइड एरिया नेटवर्क (वैन) देश या महाद्वीपों जैसे बड़े भौगोलिक क्षेत्रों को कवर करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What is the main function of DNS in networking?",
+  "question_hi": "नेटवर्किंग में DNS का मुख्य कार्य क्या है?",
+  "A_en": "Assigning IP addresses", "A_hi": "IP पतों के आवंटन",
+  "B_en": "Translating domain names to IP addresses", "B_hi": "डोमेन नामों को IP पतों में अनुवादित करना",
+  "C_en": "Encrypting data", "C_hi": "डेटा के एन्क्रिप्शन",
+  "D_en": "Routing data packets", "D_hi": "डेटा पैकेटों का रूटिंग",
+  "answer": "B",
+  "explanation_en": "DNS translates human-readable domain names into machine-readable IP addresses.",
+  "explanation_hi": "DNS मानव-पठनीय डोमेन नामों को मशीन द्वारा पढ़े जाने योग्य IP पतों में बदल देता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which of the following is a common type of cyber attack?",
+  "question_hi": "निम्नलिखित में से कौन सा एक सामान्य प्रकार का साइबर हमला है?",
+  "A_en": "Phishing", "A_hi": "फिशिंग",
+  "B_en": "Encryption", "B_hi": "एन्क्रिप्शन",
+  "C_en": "Firewall", "C_hi": "फायरवॉल",
+  "D_en": "Router", "D_hi": "रूटर",
+  "answer": "A",
+  "explanation_en": "Phishing is a cyber attack where attackers trick users into revealing sensitive information.",
+  "explanation_hi": "फिशिंग एक साइबर हमला है जिसमें हमलावर उपयोगकर्ताओं को संवेदनशील जानकारी उजागर करने में धोखा देते हैं।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What is the primary advantage of using a star network topology?",
+  "question_hi": "स्टार नेटवर्क टॉपोलॉजी का उपयोग करने में मुख्य लाभ क्या है?",
+  "A_en": "High speed", "A_hi": "उच्च गति",
+  "B_en": "Centralized management", "B_hi": "केंद्रीकृत प्रबंधन",
+  "C_en": "Low cost", "C_hi": "कम लागत",
+  "D_en": "Easy scalability", "D_hi": "सरल स्केलिंग",
+  "answer": "B",
+  "explanation_en": "Star topology provides centralized management and fault isolation.",
+  "explanation_hi": "स्टार टॉपोलॉजी केंद्रीकृत प्रबंधन और त्रुटि अलगाव प्रदान करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which of the following is a secure communication protocol used on the internet?",
+  "question_hi": "इंटरनेट पर उपयोग किये जाने वाले सुरक्षित संचार प्रोटोकॉल कौन है?",
+  "A_en": "HTTP", "A_hi": "एचटीटीपी",
+  "B_en": "FTP", "B_hi": "एफटीपी",
+  "C_en": "SSL/TLS", "C_hi": "एसएसएल/टीएलएस",
+  "D_en": "SMTP", "D_hi": "एसएमटीपी",
+  "answer": "C",
+  "explanation_en": "SSL/TLS is used to secure data transmission between a client and server.",
+  "explanation_hi": "एसएसएल/टीएलएस एक्लाइंट और सर्वर के बीच डेटा संचार को सुरक्षित करने के लिए उपयोग किया जाता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "What is the purpose of a 'worm' in cybersecurity?",
+  "question_hi": "साइबर सुरक्षा में 'वर्म' का उद्देश्य क्या है?",
+  "A_en": "To steal data", "A_hi": "डेटा चोरी करना",
+  "B_en": "To replicate itself and spread", "B_hi": "खुद को पुनरावृत्ति करें और फैलें",
+  "C_en": "To encrypt files", "C_hi": "फाइल्स को एन्क्रिप्ट करना",
+  "D_en": "To create a firewall", "D_hi": "एक फायरवॉल बनाना",
+  "answer": "B",
+  "explanation_en": "A worm is a type of malware that replicates itself to spread across networks.",
+  "explanation_hi": "वर्म एक प्रकार का मैलवेयर है जो अपनी प्रतिकृति बनाकर नेटवर्कों में फैलता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Soochna Prodyogiki (IT): Networking aur Cyber Security",
+  "question_en": "Which of the following is a valid IPv4 address format?",
+  "question_hi": "निम्नलिखित में से कौन एक वैध IPv4 पता प्रारूप है?",
+  "A_en": "192.168.1.256", "A_hi": "192.168.1.256",
+  "B_en": "10.20.30.40", "B_hi": "10.20.30.40",
+  "C_en": "255.255.255.0", "C_hi": "255.255.255.0",
+  "D_en": "2001:0db8:85a3::8a2e:0370:7334", "D_hi": "2001:0db8:85a3::8a2e:0370:7334",
+  "answer": "B",
+  "explanation_en": "A valid IPv4 address consists of four numbers separated by dots, each ranging from 0 to 255.",
+  "explanation_hi": "एक वैध IPv4 पता डॉट से अलग चार संख्याओं से मिलकर बना होता है, हर एक 0 से 255 के बीच होता है।"
+}
+]
