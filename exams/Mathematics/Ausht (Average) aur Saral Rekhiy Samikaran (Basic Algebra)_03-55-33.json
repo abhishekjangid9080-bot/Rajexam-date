@@ -1,0 +1,143 @@
+<think>
+Okay, let's tackle this task. I need to create 10 high-quality MCQ questions on the topic of Average and Basic Algebra for exams like Rajasthan State Exams, SSC, and Railway. The user wants the questions in both Hindi and English, with all the options and explanations in both languages. The JSON structure is provided, so I need to follow that strictly.
+
+First, I'll start with the subject and topic. Subject is Mathematics, topic is Average and Basic Algebra. Now, for each question, I need to come up with a unique problem. Let me think about different types of average problems and algebraic equations.
+
+For the first question, maybe a simple average calculation. Like the average age of a group. Then, maybe a problem where the average changes when someone is replaced. For algebra, perhaps solving linear equations with one variable. Another could be finding numbers based on given conditions. 
+
+Let me outline the questions:
+
+1. Average age of a group with some people replaced.
+2. Average score calculation after some scores are removed.
+3. Linear equation involving two numbers.
+4. Average of consecutive even numbers.
+5. Equation involving the sum and difference of two numbers.
+6. Average of multiple numbers with missing data.
+7. Equation with three variables and given ratios.
+8. Average speed calculation for a journey.
+9. Solving a linear equation with fractions.
+10. Average of numbers with some conditions.
+
+Now, translating these into Hindi. Need to ensure the translation is accurate and matches the English version. Also, options should be in the same order in both languages. Then, explanations in both languages as well. Let me check each question for clarity and difficulty level. Since it's for state exams, problems should be moderate to high difficulty but not too complex. 
+
+For example, question 1: Average age decreases when someone leaves and another joins. Need to set up the equation correctly. Let me verify the math. If the average age decreases by 2 years, and the group has 10 people, the total age decreases by 20. So the new person's age is 50 - 20 = 30? Wait, no. The original average was 30, new average is 28. Total age was 300, becomes 280. So the new person is 280 - (300 - 40) = 280 - 260 = 20? Wait, original total age is 10*30=300. The person who left was 40, so remaining total is 300-40=260. The new person's age is 280 (new average) - 260 = 20. So answer is 20. That makes sense.
+
+Another question: Average of 5 numbers is 25, average of first 2 is 20, average of next 2 is 30. Find the 5th number. Total of 5 numbers is 125. First two: 40, next two: 60. Total of first four is 100. So fifth is 25. That's correct.
+
+For the equation questions, maybe something like 3x + 5 = 20. Solve for x. That's straightforward. Or two equations leading to a solution. Let me check the algebra steps. For example, 2x + 3 = 5x - 1. Subtract 2x from both sides: 3 = 3x -1. Add 1: 4 = 3x. x=4/3. That's a valid answer.
+
+Now, translating each question into Hindi. Use appropriate terms like "औसत" for average, "रैखिक समीकरण" for linear equation. Ensure the options are correctly translated. Also, check that the answers match in both languages.
+
+Need to make sure that each question has distinct options and no two options have the same value. Also, explanations should clarify the steps taken to reach the answer. For example, in the average speed question, using the formula total distance over total time. 
+
+Let me go through each question step by step, verify the calculations, and ensure that the answer is correct. Then, structure the JSON accordingly. Also, check for any typos or formatting issues. The final JSON should be valid and follow the provided structure exactly.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "The average age of 10 people in a group is 30 years. If a person aged 40 leaves and another person joins, the average age drops to 28 years. What is the age of the new person?",
+    "question_hi": "एक समूह में 10 लोगों की औसत आयु 30 वर्ष है। यदि 40 वर्ष का एक व्यक्ति छोड़ देता है और एक अन्य व्यक्ति शामिल हो जाता है, तो औसत आयु 28 वर्ष हो जाती है। नए व्यक्ति की आयु क्या है?",
+    "A_en": "20 years", "A_hi": "20 वर्ष",
+    "B_en": "25 years", "B_hi": "25 वर्ष",
+    "C_en": "30 years", "C_hi": "30 वर्ष",
+    "D_en": "35 years", "D_hi": "35 वर्ष",
+    "answer": "A",
+    "explanation_en": "Total age before = 10 × 30 = 300. Total age after = 10 × 28 = 280. The difference is 20. The new person's age = 280 - (300 - 40) = 20 years.",
+    "explanation_hi": "पहले कुल आयु = 10 × 30 = 300। बाद की कुल आयु = 10 × 28 = 280। अंतर 20 है। नए व्यक्ति की आयु = 280 - (300 - 40) = 20 वर्ष।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "The average of 5 numbers is 25. The average of the first two numbers is 20, and the average of the next two numbers is 30. What is the fifth number?",
+    "question_hi": "पांच संख्याओं का औसत 25 है। पहले दो संख्याओं का औसत 20 है और अगली दो संख्याओं का औसत 30 है। पांचवीं संख्या क्या है?",
+    "A_en": "25", "A_hi": "25",
+    "B_en": "30", "B_hi": "30",
+    "C_en": "35", "C_hi": "35",
+    "D_en": "40", "D_hi": "40",
+    "answer": "A",
+    "explanation_en": "Total of 5 numbers = 5 × 25 = 125. Total of first two = 40, next two = 60. Fifth number = 125 - (40 + 60) = 25.",
+    "explanation_hi": "पांच संख्याओं का कुल योग = 5 × 25 = 125। पहले दो का कुल योग = 40, अगले दो का कुल योग = 60। पांचवीं संख्या = 125 - (40 + 60) = 25।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "Solve for x: 3x + 5 = 20",
+    "question_hi": "x के लिए हल करें: 3x + 5 = 20",
+    "A_en": "5", "A_hi": "5",
+    "B_en": "4", "B_hi": "4",
+    "C_en": "3", "C_hi": "3",
+    "D_en": "6", "D_hi": "6",
+    "answer": "A",
+    "explanation_en": "Subtract 5 from both sides: 3x = 15. Divide by 3: x = 5.",
+    "explanation_hi": "दोनों पक्षों में 5 घटाएं: 3x = 15। 3 से विभाजित करें: x = 5।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "The average of five consecutive even numbers is 16. What is the smallest number?",
+    "question_hi": "पांच क्रमागत सम संख्याओं का औसत 16 है। सबसे छोटी संख्या क्या है?",
+    "A_en": "10", "A_hi": "10",
+    "B_en": "12", "B_hi": "12",
+    "C_en": "14", "C_hi": "14",
+    "D_en": "16", "D_hi": "16",
+    "answer": "B",
+    "explanation_en": "Let the numbers be x, x+2, x+4, x+6, x+8. Average = (5x + 20)/5 = x + 4 = 16. So x = 12.",
+    "explanation_hi": "माना संख्याएँ x, x+2, x+4, x+6, x+8 हैं। औसत = (5x + 20)/5 = x + 4 = 16। इसलिए x = 12।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "The sum of two numbers is 50 and their difference is 10. What is the larger number?",
+    "question_hi": "दो संख्याओं का योग 50 है और उनका अंतर 10 है। बड़ी संख्या क्या है?",
+    "A_en": "25", "A_hi": "25",
+    "B_en": "30", "B_hi": "30",
+    "C_en": "40", "C_hi": "40",
+    "D_en": "35", "D_hi": "35",
+    "answer": "B",
+    "explanation_en": "Let the numbers be x and y. x + y = 50 and x - y = 10. Adding equations: 2x = 60 ⇒ x = 30.",
+    "explanation_hi": "माना संख्याएँ x और y हैं। x + y = 50 और x - y = 10। समीकरण जोड़ने पर: 2x = 60 ⇒ x = 30।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "The average of three numbers is 20. The first number is twice the second, and the third is thrice the second. What is the first number?",
+    "question_hi": "तीन संख्याओं का औसत 20 है। पहली संख्या दूसरी की दुगुनी है और तीसरी दूसरी की तीन गुनी है। पहली संख्या क्या है?",
+    "A_en": "10", "A_hi": "10",
+    "B_en": "20", "B_hi": "20",
+    "C_en": "30", "C_hi": "30",
+    "D_en": "40", "D_hi": "40",
+    "answer": "C",
+    "explanation_en": "Let second number be x. First = 2x, third = 3x. Total = 2x + x + 3x = 6x = 60 ⇒ x = 10. First number = 2x = 20.",
+    "explanation_hi": "माना दूसरी संख्या x है। पहली = 2x, तीसरी = 3x। कुल योग = 2x + x + 3x = 6x = 60 ⇒ x = 10। पहली संख्या = 2x = 20।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "A man travels 24 km at 4 km/h and 24 km at 6 km/h. What is his average speed?",
+    "question_hi": "एक आदमी 4 किमी/घंटा की गति से 24 किमी और 6 किमी/घंटा की गति से 24 किमी यात्रा करता है। उसकी औसत गति क्या है?",
+    "A_en": "4.5 km/h", "A_hi": "4.5 किमी/घंटा",
+    "B_en": "4.8 km/h", "B_hi": "4.8 किमी/घंटा",
+    "C_en": "5 km/h", "C_hi": "5 किमी/घंटा",
+    "D_en": "5.5 km/h", "D_hi": "5.5 किमी/घंटा",
+    "answer": "B",
+    "explanation_en": "Total distance = 48 km. Total time = 24/4 + 24/6 = 6 + 4 = 10 h. Average speed = 48/10 = 4.8 km/h.",
+    "explanation_hi": "कुल दूरी = 48 किमी। कुल समय = 24/4 + 24/6 = 6 + 4 = 10 घंटे। औसत गति = 48/10 = 4.8 किमी/घंटा।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ausht (Average) aur Saral Rekhiy Samikaran (Basic Algebra)",
+    "question_en": "The average of 8 numbers is 15. If each number is multiplied by 2, what is the new average?",
+    "question_hi": "आठ संख्याओं का औसत 15 है। यदि प्रत्येक संख्या को 2 से गुणा कर दिया जाए, तो नया औसत क्या होगा?",
+    "A_en": "20", "A_hi": "20",
+    "B_en": "30", "B_hi": "30",
+    "C_en": "40", "C_hi": "40",
+    "D_en": "50", "D_hi": "50",
+    "answer": "B",
+    "explanation_en": "Original total = 8 × 15 = 120. New total = 120 × 2 = 240. New average = 240/8 = 30.",
+    "explanation_hi": "मूल कुल योग = 8 × 15 = 120। नया कुल योग = 120 × 2 = 240। नया औसत = 240/8 = 30।"
+  },
+  {
+    "subject": "Mathematics",
+    "
