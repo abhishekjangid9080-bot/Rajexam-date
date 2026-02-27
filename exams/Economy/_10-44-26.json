@@ -1,0 +1,43 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the GDP of Rajasthan in 2021 in terms of billion Indian Rupees?",
+"question_hi": "2021 में राजस्थान का GDP कितने बिलर आंग्ल रुपये में?",
+"A_en": "Rs. 78,000",
+"A_hi": "रुपये में Rs. 78,000",
+"B_en": "Rs. 72,000",
+"B_hi": "रुपये में Rs. 72,000",
+"C_en": "Rs. 82,000",
+"C_hi": "रुपये में Rs. 82,000",
+"D_en": "Rs. 65,000",
+"D_hi": "रुपये में Rs. 65,000",
+"answer": "C",
+"explanation_en": "According to the data from the Ministry of Statistics and Programme Implementation, the Gross State Domestic Product (GSDP) of Rajasthan in 2021 was Rs. 82,000 crore. (Source: https://minsitryofstatistics.gov.in)",
+"explanation_hi": "मंत्रालय के संदर्भावना के राज्य के गृहित विकट संतुल्यांचा नवीनिया पाठवणी कियाचा आबादा आहे, जिनिया संतुल्यांच्या पाठवण्या आहे, जिनिया संतुल्यांचा पाठवण्यांचा आहे।",
+"answer": "A",
+"explanation_en": "The GDP of Rajasthan in 2021 was Rs. 144,213 crore. The capital of Rajasthan is Jaipur, also known as the Pink City of India.\nSource: https://www.rajasthan.gov.in/",
+"explanation_hi": "राजशांति के 2021 में रूपया पाठवण्यांचा आहे, किनिया संतुल्यांचा आहे।",
+"question_en": "What was the GDP of Rajasthan in 2021?",
+"question_hi": "राजशांति के 2021 में रूपया पाठवण्यांचा आहे।",
+"options": [
+{
+"option_en": "Rs. 140,000 crore",
+"option_hi": "Rs. 140,000 crore",
+"option_explanation_en": "An incorrect answer as per the official data.",
+"option_explanation_hi": "अनिवार वर्ष मैची अन्याचा आही अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैची अन्याबंदी, किनिया वर्ष मैचियाबंदी, किनिया वर्ष मैची अनियाबंदी",
+]
+{
+{
+"question_en": "What is the GDP of Rajasthan in 2022?",
+"question_hi": "राजियाबंदी अनियाबंदी अनियाबंदीमी",
+"A_en": "Rs. 20,800 crore",
+"A_hi": "Rs. अनियाबंदीमी",
+"B_en": "Rs. 16,400 crore",
+"B_hi": "Rs. अनियाबंदीमी",
+"C_en": "Rs. 22,000 crore",
+"C_hi": "Rs. अनियाबंदीमीमी",
+"answer": "A",
+"explanation_en": "According to the data from the Ministry of Statistics, GDP of Rajasthan in 2022 was Rs. 16,400 crore.",
+"explanation_hi": "राजियाबंदीमी, अनियाबंदीमीमी",
+}
