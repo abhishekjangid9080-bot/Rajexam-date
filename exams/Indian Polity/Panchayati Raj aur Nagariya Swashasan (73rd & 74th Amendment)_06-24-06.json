@@ -1,0 +1,166 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Indian Polity, specifically about the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. The questions need to be in both Hindi and English, with explanations in both languages as well. The JSON structure is crucial here, so I need to make sure each question follows the example provided.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment deals with Panchayati Raj institutions, while the 74th Amendment is about urban local bodies. Important aspects include the constitutional status given to these bodies, their structure, powers, and the functions they perform. I should also remember the years they were passed—1992 for both. 
+
+Now, I need to think of different aspects to form questions. The number of tiers in Panchayati Raj, the reservation for SC/ST, the election process, the role of the State Election Commission, the functions of these bodies, and the constitutional articles involved are all potential topics. 
+
+For each question, I need to frame it in English and Hindi. The options should be accurate and not too tricky. For example, the first question could be about the constitutional article. The 73rd Amendment is Article 243B, so that's a good starting point. 
+
+I have to ensure that the correct answer is clear and the options are plausible distractors. For instance, when asking about the number of tiers in Panchayati Raj, the correct answer is three (Village, Block, District), so the other options should be numbers close to that. 
+
+Another point is the functions of the State Election Commission. It conducts elections for Panchayats and Municipalities. The options should include related functions and maybe some that are not directly related, like conducting Lok Sabha elections, which is the responsibility of the Election Commission of India. 
+
+I also need to check for any common misconceptions. For example, the 74th Amendment deals with urban bodies, so questions about the types of urban local bodies (Municipal Corporations, Municipal Councils, etc.) and their functions. 
+
+Each explanation should succinctly explain why the correct answer is right and clarify common mistakes. For example, explaining that the 73rd Amendment is for rural and the 74th for urban, which might be confused. 
+
+I need to make sure the Hindi translations are accurate and use the correct terminology. Terms like 'Panchayati Raj' and 'Nagariya Swashasan' should be correctly translated. 
+
+Let me start drafting the questions one by one, ensuring a variety of topics covered under the two amendments. Check for each question's difficulty level to be appropriate for Rajasthan exams, which usually test understanding of constitutional provisions and their implications. 
+
+After creating the questions, I'll structure them into the JSON format as specified, ensuring all keys are present and the order matches the example. Finally, validate the JSON to avoid any syntax errors.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Indian Constitution deals with the establishment of Panchayati Raj institutions?",
+        "question_hi": "भारतीय संविधान के किस अनुच्छेद में पंचायती राज संस्थाओं की स्थापना के बारे में बताया गया है?",
+        "A_en": "Article 243B",
+        "A_hi": "अनुच्छेद 243बी",
+        "B_en": "Article 244",
+        "B_hi": "अनुच्छेद 244",
+        "C_en": "Article 243G",
+        "C_hi": "अनुच्छेद 243जी",
+        "D_en": "Article 243P",
+        "D_hi": "अनुच्छेद 243पी",
+        "answer": "A",
+        "explanation_en": "Article 243B of the Indian Constitution establishes the Panchayati Raj institutions, providing constitutional status to rural self-government.",
+        "explanation_hi": "भारतीय संविधान का अनुच्छेद 243बी पंचायती राज संस्थाओं की स्थापना करता है और ग्रामीण स्वशासन को संवैधानिक दर्जा देता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to be a member of a Panchayat?",
+        "question_hi": "पंचायत के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years",
+        "A_hi": "18 वर्ष",
+        "B_en": "25 years",
+        "B_hi": "25 वर्ष",
+        "C_en": "30 years",
+        "C_hi": "30 वर्ष",
+        "D_en": "21 years",
+        "D_hi": "21 वर्ष",
+        "answer": "D",
+        "explanation_en": "The Constitution Act of 1992 (73rd Amendment) set the minimum age for Panchayat membership at 21 years.",
+        "explanation_hi": "1992 के संविधान अध्यादेश (73वीं संशोधन) में पंचायत के सदस्य बनने के लिए न्यूनतम आयु 21 वर्ष निर्धारित की गई है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the State Election Commission as per the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सा 73वीं संशोधन के अनुसार राज्य चुनाव आयोग का कार्य नहीं है?",
+        "A_en": "Conducting elections to Panchayats",
+        "A_hi": "पंचायतों के चुनाव कराना",
+        "B_en": "Conducting Lok Sabha elections",
+        "B_hi": "लोकसभा चुनाव कराना",
+        "C_en": "Ensuring free and fair elections",
+        "C_hi": "नियत्रित एवं निष्पक्ष चुनाव सुनिश्चित करना",
+        "D_en": "Providing legal advice on electoral matters",
+        "D_hi": "चुनावी मामलों पर कानूनी परामर्श प्रदान करना",
+        "answer": "B",
+        "explanation_en": "The State Election Commission conducts Panchayat elections and ensures fair processes, but Lok Sabha elections are the responsibility of the Election Commission of India.",
+        "explanation_hi": "राज्य चुनाव आयोग पंचायत चुनाव कराता है और निष्पक्ष प्रक्रिया सुनिश्चित करता है, लेकिन लोकसभा चुनाव भारतीय चुनाव आयोग की जिम्मेदारी है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the concept of urban local self-government in India?",
+        "question_hi": "भारत में नगरीय स्वशासन की अवधारणा किस संविधान संशोधन द्वारा पेश की गई थी?",
+        "A_en": "73rd Amendment",
+        "A_hi": "73वीं संशोधन",
+        "B_en": "74th Amendment",
+        "B_hi": "74वीं संशोधन",
+        "C_en": "71st Amendment",
+        "C_hi": "71वीं संशोधन",
+        "D_en": "72nd Amendment",
+        "D_hi": "72वीं संशोधन",
+        "answer": "B",
+        "explanation_en": "The 74th Constitutional Amendment Act, 1992, introduced urban local self-government structures like Municipal Corporations.",
+        "explanation_hi": "1992 के 74वीं संविधान संशोधन अधिनियम ने नगर निगम जैसे नगरीय स्वशासन संरचनाओं को पेश किया।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the reservation percentage for Scheduled Castes and Scheduled Tribes in Panchayat bodies as per the 73rd Amendment?",
+        "question_hi": "73वीं संशोधन के अनुसार पंचायत संस्थाओं में अनुसूचित जाति और अनुसूचित जनजातियों के लिए आरक्षण प्रतिशत क्या है?",
+        "A_en": "15%",
+        "A_hi": "15%",
+        "B_en": "25%",
+        "B_hi": "25%",
+        "C_en": "30%",
+        "C_hi": "30%",
+        "D_en": "The percentage depends on their population in the state",
+        "D_hi": "प्रतिशत राज्य में उनकी आबादी पर निर्भर करता है",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment mandates reservation in Panchayats based on the proportion of SC/ST populations in the respective states.",
+        "explanation_hi": "73वीं संशोधन में पंचायतों में अनुसूचित जाति/जनजाति के आरक्षण के लिए उनकी आबादी के अनुपात पर आधारित आरक्षण आवश्यक किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of the Urban Local Bodies under the 74th Amendment?",
+        "question_hi": "74वीं संशोधन के तहत नगरीय स्वशासन संस्थाओं का कौन-सा कार्य है?",
+        "A_en": "Providing primary education",
+        "A_hi": "प्राथमिक शिक्षा प्रदान करना",
+        "B_en": "Managing urban infrastructure",
+        "B_hi": "नगरीय बुनियादी ढांचा प्रबंधन करना",
+        "C_en": "Maintaining law and order",
+        "C_hi": "कानून और व्यवस्था का रखरखाव करना",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment assigns roles like urban infrastructure management to Municipal Corporations and similar bodies.",
+        "explanation_hi": "74वीं संशोधन नगर निगम और अनुरूप संस्थाओं को नगरीय बुनियादी ढांचा प्रबंधन जैसे कार्य देता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "How many tiers of Panchayati Raj institutions are mandated by the 73rd Amendment?",
+        "question_hi": "73वीं संशोधन द्वारा पंचायती राज संस्थाओं के कितने स्तर अनिवार्य किए गए हैं?",
+        "A_en": "Two",
+        "A_hi": "दो",
+        "B_en": "Three",
+        "B_hi": "तीन",
+        "C_en": "Four",
+        "C_hi": "चार",
+        "D_en": "Five",
+        "D_hi": "पांच",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment mandates a three-tier system: Gram Panchayat (Village), Panchayat Samiti (Block), and Zila Parishad (District).",
+        "explanation_hi": "73वीं संशोधन तीन स्तरीय प्रणाली को अनिवार्य करता है: ग्राम पंचायत (गांव), पंचायत समिति (ब्लॉक) और जिला परिषद (जिला)।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which year did the 73rd and 74th Amendments to the Indian Constitution come into force?",
+        "question_hi": "भारतीय संविधान के 73वीं और 74वीं संशोधन किस वर्ष बलबूता हुए थे?",
+        "A_en": "1991",
+        "A_hi": "1991",
+        "B_en": "1992",
+        "B_hi": "1992",
+        "C_en": "1993",
+        "C_hi": "1993",
+        "D_en": "1994",
+        "D_hi": "1994",
+        "answer": "B",
+        "explanation_en": "Both the 73rd and 74th Amendments were enacted in 1992 to strengthen local self-governance in rural and urban areas.",
+        "explanation_hi": "1992 में 73वीं और 74वीं संशोधन ग्रामीण और नगरीय क्षेत्रों में स्वशासन को मजबूत करने के लिए अधिनियमित किए गए थे।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum population required for a village to have a Panchayat according to the 73rd Amendment?",
+        "question_hi": "73वीं संशोधन क
