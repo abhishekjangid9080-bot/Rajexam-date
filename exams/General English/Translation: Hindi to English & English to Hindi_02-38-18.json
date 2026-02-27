@@ -1,0 +1,15 @@
+[
+{
+"subject": "General English",
+"topic": "Translation: Hindi to English & English to Hindi",
+"question_en": "What is the meaning of the word 'टीकारण' in English?",
+"question_hi": "टीकारण की शब्दों में अर्थ क्या है?",
+"A_en": "Verdict", "A_hi": "दर्ता",
+"B_en": "Charge", "B_hi": "कलापूर्वज",
+"C_en": "Proof", "C_hi": "भाग्य",
+"D_en": "Decision", "D_hi": "निष्कार",
+"answer": "D",
+"explanation_en": "टीकारण (Tikaaran) refers to a decision or judgement in English.",
+"explanation_hi": "टीकारण (Tikaaran) एक निष्कार या निष्कार के अर्थ है।"
+}
+]
