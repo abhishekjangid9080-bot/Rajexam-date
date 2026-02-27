@@ -1,0 +1,134 @@
+<think>
+Okay, let's start by understanding the task. The user wants 10 high-quality MCQs on Poverty, Unemployment, and Inclusive Growth in Economics for Rajasthan State Exams and others like SSC, Railway. The questions need to be in both Hindi and English, with explanations in both languages as well. The JSON structure is provided, so I need to follow that strictly.
+
+First, I'll brainstorm topics under Poverty, Unemployment, and Inclusive Growth. Poverty measurement methods like the Tendulkar committee, unemployment types such as disguised unemployment, inclusive growth strategies like the 12th Five Year Plan, and government schemes like MGNREGA are good starting points.
+
+Next, for each question, I need to ensure the options are plausible. For example, when asking about the committee for poverty estimation, the correct answer is Tendulkar, and other options could be Dandekar, Lakdawala, or C. Rangarajan. But wait, the Rangarajan committee is more recent, so maybe include that as a distractor.
+
+For unemployment, the types include disguised unemployment (which is common in India, especially in agriculture), so I'll need to define that. The question should ask for the term used for when people are employed but working less than full capacity.
+
+Inclusive growth strategies might include focusing on MSMEs, education, and social inclusion. The 12th Five Year Plan emphasized inclusive growth, so that's a good fact to include.
+
+Government schemes like MGNREGA are crucial here. The question on MGNREGA's primary objective should highlight employment guarantee, and other options could be poverty alleviation, education, or health.
+
+Now, I have to make sure each question is in both languages. Translating the terms accurately is important. For example, "Disguised unemployment" in Hindi is "लुक्का बेरोजगारी". Also, the explanations must be clear and concise in both languages.
+
+I need to check the difficulty level. Since it's for competitive exams, the questions shouldn't be too easy. Including some specific facts, like the year the Tendulkar committee was established, adds challenge.
+
+Let me verify each fact. The Tendulkar committee was indeed appointed in 2005, and the method is still used in some states. The MGNREGA is under the Ministry of Rural Development. The 12th Five Year Plan (2012-17) did focus on inclusive growth.
+
+I should also include a question on the poverty line calculation, which considers per capita expenditure. The correct answer is the poverty line method. For unemployment in India, the main type is indeed disguised unemployment in the agricultural sector.
+
+Each option should be distractors that are plausible but incorrect. For example, in the question about inclusive growth strategies, including options like focusing on urban areas only would be a good distractor.
+
+Finally, I'll structure each question in JSON, ensuring the keys are correct and the order matches the example. Double-checking the answer labels (A, B, C, D) and explanations to avoid typos. Making sure the Hindi translations are accurate and match the context.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which committee was appointed in India to estimate the poverty line in 2005?",
+    "question_hi": "2005 में भारत में गरीबी रेखा का अनुमान लगाने के लिए किस समिति की नियुक्ति की गई थी?",
+    "A_en": "C. Rangarajan Committee", "A_hi": "सी. रंगराजन समिति",
+    "B_en": "Dandekar-Tak Committee", "B_hi": "दंडेकर-तक समिति",
+    "C_en": "Tendulkar Committee", "C_hi": "तेंदुलकर समिति",
+    "D_en": "Lakdawala Committee", "D_hi": "लक्दवाला समिति",
+    "answer": "C",
+    "explanation_en": "The Tendulkar Committee was appointed in 2005 to estimate the poverty line in India using a methodology based on per capita consumption expenditure.",
+    "explanation_hi": "तेंदुलकर समिति की 2005 में भारत में गरीबी रेखा का अनुमान लगाने के लिए नियुक्ति की गई थी, जिसमें प्रति व्यक्ति खपत व्यय पर आधारित एक विधि का उपयोग किया गया था।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "What is the primary objective of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)?",
+    "question_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (MNREGA) का प्रमुख उद्देश्य क्या है?",
+    "A_en": "Poverty Alleviation", "A_hi": "गरीबी उन्मूलन",
+    "B_en": "Skill Development", "B_hi": "कौशल विकास",
+    "C_en": "Employment Guarantee", "C_hi": "रोजगार गारंटी",
+    "D_en": "Healthcare Improvement", "D_hi": "स्वास्थ्य लाभ में सुधार",
+    "answer": "C",
+    "explanation_en": "MGNREGA's primary objective is to provide guaranteed employment to rural households, ensuring at least 100 days of unskilled manual employment per household.",
+    "explanation_hi": "MNREGA का प्रमुख उद्देश्य ग्रामीण परिवारों को निश्चित रोजगार प्रदान करना है, जिसमें हर परिवार के लिए कम से कम 100 दिनों के अकुशल श्रमिक रोजगार की गारंटी है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following is NOT a type of unemployment in India?",
+    "question_hi": "निम्नलिखित में से कौन-सा भारत में बेरोजगारी का प्रकार नहीं है?",
+    "A_en": "Seasonal Unemployment", "A_hi": "मौसमी बेरोजगारी",
+    "B_en": "Disguised Unemployment", "B_hi": "लुक्का बेरोजगारी",
+    "C_en": "Structural Unemployment", "C_hi": "संरचनात्मक बेरोजगारी",
+    "D_en": "Technical Unemployment", "D_hi": "तकनीकी बेरोजगारी",
+    "answer": "D",
+    "explanation_en": "Technical unemployment is not a recognized type of unemployment. Common types include seasonal, disguised, and structural unemployment.",
+    "explanation_hi": "तकनीकी बेरोजगारी एक स्वीकृत प्रकार की बेरोजगारी नहीं है। सामान्य प्रकार में मौसमी, लुक्का और संरचनात्मक बेरोजगारी शामिल है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following is a measure of inclusive growth?",
+    "question_hi": "निम्नलिखित में से कौन-सा समावेशी विकास का एक मापन है?",
+    "A_en": "GDP Growth Rate", "A_hi": "जीडीपी वृद्धि दर",
+    "B_en": "Per Capita Income", "B_hi": "प्रति व्यक्ति आय",
+    "C_en": "Human Development Index (HDI)", "C_hi": "मानव विकास सूचकांक (एचडीआई)",
+    "D_en": "Employment to Population Ratio", "D_hi": "रोजगार-जनसंख्या अनुपात",
+    "answer": "C",
+    "explanation_en": "The Human Development Index (HDI) measures inclusive growth by considering life expectancy, education, and per capita income.",
+    "explanation_hi": "मानव विकास सूचकांक (एचडीआई) समावेशी विकास को आयु, शिक्षा और प्रति व्यक्ति आय को ध्यान में रखकर मापता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "What is the term used for employment where a person is employed but working less than full capacity?",
+    "question_hi": "जब कोई व्यक्ति काम कर रहा हो लेकिन पूर्ण क्षमता से कम काम कर रहा हो, तो उसके लिए उपयोग किया जाने वाला शब्द क्या है?",
+    "A_en": "Underemployment", "A_hi": "अपूर्ण रोजगार",
+    "B_en": "Seasonal Unemployment", "B_hi": "मौसमी बेरोजगारी",
+    "C_en": "Disguised Unemployment", "C_hi": "लुक्का बेरोजगारी",
+    "D_en": "Structural Unemployment", "D_hi": "संरचनात्मक बेरोजगारी",
+    "answer": "A",
+    "explanation_en": "Underemployment refers to a situation where a person is employed but not utilizing their full potential or working fewer hours than desired.",
+    "explanation_hi": "अपूर्ण रोजगार एक ऐसी स्थिति है जिसमें कोई व्यक्ति काम कर रहा हो लेकिन अपनी पूरी क्षमता का उपयोग नहीं कर रहा हो या अपनी इच्छा से कम घंटे काम कर रहा हो।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following is NOT a cause of poverty in India?",
+    "question_hi": "निम्नलिखित में से कौन-सा भारत में गरीबी का कारण नहीं है?",
+    "A_en": "Population Explosion", "A_hi": "आबादी विस्फोट",
+    "B_en": "Land Inequality", "B_hi": "जमीन का असमानता",
+    "C_en": "High Literacy Rate", "C_hi": "उच्च नौकरशाहत दर",
+    "D_en": "Unemployment", "D_hi": "बेरोजगारी",
+    "answer": "C",
+    "explanation_en": "A high literacy rate reduces poverty, while population explosion, land inequality, and unemployment contribute to it.",
+    "explanation_hi": "उच्च शिक्षा दर गरीबी को कम करती है, जबकि जनसंख्या विस्फोट, भूमि असमानता और बेरोजगारी उसके कारण हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following is a key component of the 12th Five Year Plan (2012-17) for inclusive growth?",
+    "question_hi": "समावेशी विकास के लिए 12वीं पंचवर्षीय योजना (2012-17) का कौन-सा घटक महत्वपूर्ण है?",
+    "A_en": "Urban Development", "A_hi": "शहरी विकास",
+    "B_en": "Focus on MSMEs", "B_hi": "एमएसएमई पर ध्यान",
+    "C_en": "Education for All", "C_hi": "सभी के लिए शिक्षा",
+    "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "The 12th Five Year Plan emphasized inclusive growth through urban development, MSME focus, and universal education initiatives.",
+    "explanation_hi": "12वीं पंचवर्षीय योजना शहरी विकास, एमएसएमई पर ध्यान देने और सभी के लिए शिक्षा के पहलों के माध्यम से समावेशी विकास पर जोर देती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "What is the primary method used to calculate the poverty line in India?",
+    "question_hi": "भारत में गरीबी रेखा की गणना करने की मुख्य विधि क्या है?",
+    "A_en": "Income Method", "A_hi": "आय विधि",
+    "B_en": "Poverty Line Method", "B_hi": "गरीबी रेखा विधि",
+    "C_en": "Asset-Based Method", "C_hi": "संपत्ति-आधारित विधि",
+    "D_en": "Consumption Method", "D_hi": "खपत विधि",
+    "answer": "B",
+    "explanation_en": "The poverty line in India is calculated using the Poverty Line Method, which determines the minimum calorie requirement for a family.",
+    "explanation_hi": "भारत में गरीबी रेखा गरीबी रेखा विधि का उपयोग करके गणना की जाती है, जो एक परिवार के लिए न्यूनतम कैलोरी आवश्यकता को निर्धारित करती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi
