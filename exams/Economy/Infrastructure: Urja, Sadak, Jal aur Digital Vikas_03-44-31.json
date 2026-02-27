@@ -1,0 +1,141 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions on the topic of Infrastructure: Energy, Roads, Water, and Digital Development in the Economy for Rajasthan State Exams, SSC, and Railway exams. Let me start by breaking down each sub-topic.
+
+First, Energy. I should consider renewable energy sources in Rajasthan, like solar and wind. Maybe a question on the largest solar park in the state. Then, Roads. Rajasthan has several major highways. The Delhi-Jaipur Expressway or the NH-8 could be topics. Water infrastructure might include major dams like the Chambal or Sardar Sarovar. Digital development could involve initiatives like Rajasthan's digital literacy programs or e-governance projects.
+
+Next, I need to ensure the questions are in both Hindi and English. Each question must have four options with the correct answer and explanations in both languages. The difficulty should be moderate, suitable for competitive exams. I should check for accuracy, like the exact names of projects or correct data.
+
+Wait, for the energy question, the correct answer is the Solar Park in Bhadla. I need to confirm if that's the largest. Then for roads, the Chittorgarh–Bhilwara Expressway is a recent project. For water, the Chambal Dam is significant. Digital initiatives like "BharatNet" for rural connectivity. Also, Rajasthan's Smart City Mission is part of digital development. Maybe include the number of smart cities in Rajasthan. Another question on the National Highway with the longest length in Rajasthan. The NH-8 is the longest. For the 10th question, the state's renewable energy target, like 10 GW by 2022.
+
+I need to make sure all the facts are correct. Let me verify each point. Bhadla Solar Park is indeed the largest in India. The Chittorgarh–Bhilwara Expressway is under construction. Chambal Dam is correct. Rajasthan has seven smart cities. NH-8 (Delhi–Mumbai) passes through Rajasthan and is the longest in the state. The 10 GW renewable target by 2022 was set by the Rajasthan government. Also, the "Mera Suraj" scheme for solar energy distribution. The "Rajiv Gandhi Digital Saksharta Abhiyan" for digital literacy. The "Rajasthan Digital Governance Framework" for e-governance. Each explanation should clearly justify the correct answer without being too technical. Alright, time to structure each question with the correct options and explanations in both languages.
+</think>
+
+[
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में सबसे बड़ा सौर ऊर्जा पार्क कहाँ स्थित है?",
+  "question_hi": "Where is the largest solar energy park located in Rajasthan?",
+  "A_en": "बाड़मेर", "A_hi": "बाड़मेर",
+  "B_en": "बिकानेर", "B_hi": "बिकानेर",
+  "C_en": "भाड़कोटा", "C_hi": "भाड़कोटा",
+  "D_en": "भरतपुर", "D_hi": "भरतपुर",
+  "answer": "C",
+  "explanation_en": "भाड़कोटा सौर ऊर्जा पार्क राजस्थान में सबसे बड़ा है और भारत में भी शीर्ष पर है।",
+  "explanation_hi": "The Bhadla Solar Park in Rajasthan is the largest in India."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में निर्माणाधीन 'चित्तौड़गढ़-भीलवाड़ा एक्सप्रेसवे' किस परियोजना का हिस्सा है?",
+  "question_hi": "Which project does the Chittorgarh-Bhilwara Expressway under construction in Rajasthan belong to?",
+  "A_en": "एनएच-8", "A_hi": "NH-8",
+  "B_en": "एनएच-12", "B_hi": "NH-12",
+  "C_en": "एनएच-11", "C_hi": "NH-11",
+  "D_en": "एनएच-53", "D_hi": "NH-53",
+  "answer": "C",
+  "explanation_en": "चित्तौड़गढ़-भीलवाड़ा एक्सप्रेसवे एनएच-11 का हिस्सा है जो राजस्थान के शिवपुरी और मैनपुरी को जोड़ता है।",
+  "explanation_hi": "The Chittorgarh-Bhilwara Expressway is part of NH-11 connecting Shivpuri and Mainpuri in Rajasthan."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में सबसे लंबा राष्ट्रीय राजमार्ग (एनएच) कौन सा है?",
+  "question_hi": "Which National Highway (NH) is the longest in Rajasthan?",
+  "A_en": "एनएच-8", "A_hi": "NH-8",
+  "B_en": "एनएच-12", "B_hi": "NH-12",
+  "C_en": "एनएच-11", "C_hi": "NH-11",
+  "D_en": "एनएच-53", "D_hi": "NH-53",
+  "answer": "A",
+  "explanation_en": "एनएच-8 (दिल्ली-मुंबई एक्सप्रेसवे) राजस्थान में सबसे लंबा राष्ट्रीय राजमार्ग है।",
+  "explanation_hi": "NH-8 (Delhi-Mumbai Expressway) is the longest National Highway in Rajasthan."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में चंबल बांध किस नदी पर स्थित है?",
+  "question_hi": "On which river is the Chambal Dam located in Rajasthan?",
+  "A_en": "चंबल", "A_hi": "Chambal",
+  "B_en": "मेज", "B_hi": "Meji",
+  "C_en": "लूनी", "C_hi": "Luni",
+  "D_en": "बनास", "D_hi": "Banas",
+  "answer": "A",
+  "explanation_en": "चंबल बांध चंबल नदी पर स्थित है और राजस्थान की महत्वपूर्ण जल ऊर्जा परियोजनाओं में से एक है।",
+  "explanation_hi": "The Chambal Dam is located on the Chambal River and is one of Rajasthan's key hydropower projects."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान राज्य के डिजिटल विकास के लिए किस योजना के तहत ग्रामीण क्षेत्रों के लिए बुनियादी डेटा सुविधा प्रदान की जा रही है?",
+  "question_hi": "Under which scheme is basic data infrastructure provided to rural areas for digital development in Rajasthan State?",
+  "A_en": "भारत नेट", "A_hi": "BharatNet",
+  "B_en": "मेरा सूरज", "B_hi": "Mera Suraj",
+  "C_en": "राजीव गांधी डिजिटल साक्षरता अभियान", "C_hi": "Rajiv Gandhi Digital Literacy Mission",
+  "D_en": "राजस्थान डिजिटल गवर्नेंस फ्रेमवर्क", "D_hi": "Rajasthan Digital Governance Framework",
+  "answer": "A",
+  "explanation_en": "भारत नेट योजना के तहत ग्रामीण क्षेत्रों में डिजिटल सुविधाओं के लिए बुनियादी ढांचा प्रदान किया जा रहा है।",
+  "explanation_hi": "The BharatNet scheme provides basic digital infrastructure to rural areas."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में स्मार्ट सिटीज अभियान के तहत कितने शहरों का चयन किया गया है?",
+  "question_hi": "How many cities have been selected under the Smart Cities Mission in Rajasthan?",
+  "A_en": "5", "A_hi": "5",
+  "B_en": "6", "B_hi": "6",
+  "C_en": "7", "C_hi": "7",
+  "D_en": "8", "D_hi": "8",
+  "answer": "C",
+  "explanation_en": "राजस्थान में स्मार्ट सिटीज अभियान के तहत 7 शहरों का चयन किया गया है, जिनमें जयपुर, कोटा, बीकानेर आदि शामिल हैं।",
+  "explanation_hi": "Seven cities including Jaipur, Kota, and Bikaner are selected under the Smart Cities Mission in Rajasthan."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में ऊर्जा क्षमता के लिए राज्य सरकार द्वारा निर्धारित 2022 तक का लक्ष्य क्या है?",
+  "question_hi": "What is the target set by the Rajasthan State Government for energy capacity by 2022?",
+  "A_en": "10 GW", "A_hi": "10 गीगावाट",
+  "B_en": "15 GW", "B_hi": "15 गीगावाट",
+  "C_en": "20 GW", "C_hi": "20 गीगावाट",
+  "D_en": "25 GW", "D_hi": "25 गीगावाट",
+  "answer": "A",
+  "explanation_en": "राजस्थान सरकार ने 2022 तक 10 गीगावाट की ऊर्जा क्षमता हासिल करने का लक्ष्य निर्धारित किया है।",
+  "explanation_hi": "The Rajasthan Government set a target of achieving 10 GW of energy capacity by 2022."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में 'मेरा सूरज' योजना किस क्षेत्र से संबंधित है?",
+  "question_hi": "Which sector does the 'Mera Suraj' scheme in Rajasthan relate to?",
+  "A_en": "ऊर्जा", "A_hi": "Energy",
+  "B_en": "जल", "B_hi": "Water",
+  "C_en": "डिजिटल विकास", "C_hi": "Digital Development",
+  "D_en": "सड़क", "D_hi": "Roads",
+  "answer": "A",
+  "explanation_en": "'मेरा सूरज' योजना राजस्थान में सौर ऊर्जा के वितरण से संबंधित है।",
+  "explanation_hi": "The 'Mera Suraj' scheme in Rajasthan is related to the distribution of solar energy."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में जल विकास के लिए कौन सी योजना प्रमुख रूप से शहरी क्षेत्रों में पेय जल की समस्या को सुलझाने के लिए शुरू की गई है?",
+  "question_hi": "Which scheme in Rajasthan is primarily launched to address drinking water issues in urban areas?",
+  "A_en": "जल जीवन हरी योजना", "A_hi": "Jal Jeevan Harri Yojana",
+  "B_en": "महात्मा गांधी नल से जल योजना", "B_hi": "Mahatma Gandhi Nal Se Jal Yojana",
+  "C_en": "राजस्थान जल शक्ति अभियान", "C_hi": "Rajasthan Jal Shakti Abhiyan",
+  "D_en": "हर घर जल योजना", "D_hi": "Har Ghar Jal Yojana",
+  "answer": "D",
+  "explanation_en": "हर घर जल योजना शहरी क्षेत्रों में पेय जल की समस्या को सुलझाने के लिए शुरू की गई है।",
+  "explanation_hi": "The Har Ghar Jal Yojana is launched to address drinking water issues in urban areas."
+},
+{
+  "subject": "Economy",
+  "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+  "question_en": "राजस्थान में डिजिटल शिक्षा के लिए राज्य सरकार द्वारा शुरू की गई योजना कौन सी है?",
+  "question_hi": "What is the scheme launched by the Rajasthan State Government for digital education?",
+  "A_en": "राजस्थान डिजिटल एजुकेशन फ्रेमवर्क", "A_hi": "Rajasthan Digital Education Framework",
+  "B_en": "राजीव गांधी डिजिटल साक्षरता अभियान", "B_hi": "Rajiv Gandhi Digital Literacy Mission",
+  "C_en": "मेरा सूरज शिक्षा योजना", "C_hi": "Mera Suraj Education Scheme",
+  "D_en": "इ-पाठशाला योजना", "D_hi": "e-Patshala Scheme",
+  "answer": "D",
+  "explanation_en": "इ-प
