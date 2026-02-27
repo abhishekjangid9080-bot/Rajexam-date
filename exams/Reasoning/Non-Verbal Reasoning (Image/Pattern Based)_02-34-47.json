@@ -1,0 +1,16 @@
+[
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "What pattern is formed in the given image?",
+"question_hi": "प्रकार क्या उच्चरण दिखाया गया है ?",
+"A_en": "Symmetrical Pattern", "A_hi": "समानता उच्चरण",
+"B_en": "Triangle Shape", "B_hi": "त्रिभुज शैली",
+"C_en": "Circle Pattern", "C_hi": "चंद्र उच्चरण",
+"D_en": "Square Shape", "D_hi": "चरम शैली",
+"answer": "C",
+"explanation_en": "The pattern represented in the image is a round shape, which is a circle pattern.",
+"explanation_hi": "प्रदर्श की दी गई तथाकलाई है, यह चंद्र उच्चरण है।",
+"explanation_hi": "प्रदर्श की तथाकलाई है, यह चंद्र उच्चरण है।"
+}
+]
