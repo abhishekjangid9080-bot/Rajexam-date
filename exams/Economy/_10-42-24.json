@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "Poverty and Economic Development",
+"question_en": "What is the primary cause of poverty?",
+"question_hi": "पॉलिटिक और आरक्षण का प्रमुख कार्य क्या है।",
+"A_en": "Inadequate education",
+"A_hi": "अनाधिकारी की प्रमुख कार्य",
+"B_en": "Lack of employment opportunities",
+"B_hi": "कार्यालय के लिए विभाजित करो",
+"C_en": "Corruption and mismanagement",
+"C_hi": "कॉर्पोर्ट और अनस्प्राप्त करो",
+"D_en": "Medical issues and disabilities",
+"D_hi": "डिस्प्लीजिक और अपकरो",
+"answer": "B",
+"explanation_en": "The primary cause of poverty is often attributed to lack of employment opportunities, which leads to an individual's inability to improve their socio-economic condition.",
+"explanation_hi": "पैंसिक और विक्षिप्राप्त करो",
+"explanation_ar": "أسباب الفقر تعود في كثير من الأحيان إلى نقص فرص العمل، مما يؤدي إلى عجز الأفراد عن تحسين ظروفهم الاقتصادية والاجتماعية."
+}
+]
