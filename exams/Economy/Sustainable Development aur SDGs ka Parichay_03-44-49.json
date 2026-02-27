@@ -1,0 +1,154 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Sustainable Development and SDGs for Rajasthan State Exams, SSC, and Railway exams. The questions need to be in both Hindi and English, following the Testbook style, with explanations in both languages. The output should be in a strict JSON format without any extra text.
+
+First, I need to ensure I understand the subject and topic thoroughly. Sustainable Development and SDGs (Sustainable Development Goals) are part of the UN's agenda for 2030. I should cover key points like the number of SDGs, their specific goals, related initiatives, and perhaps some context about Rajasthan's efforts if relevant.
+
+Let me start brainstorming question topics. The first question could be about the number of SDGs. The answer is 17, so I can create options around that. Next, the year by which the SDGs aim to be achieved, which is 2030. Then, which SDG is related to clean energy, which is Goal 7. Another question could be about eliminating poverty, which is Goal 1. 
+
+I need to ensure that the questions are not too basic. For example, asking about the parent organization of SDGs (UN) or the number of targets. Also, maybe include a question on specific SDG related to gender equality (Goal 5). 
+
+Including some context about Rajasthan's initiatives might be good. For example, which SDG is related to clean water and sanitation (Goal 6), or perhaps a question on SDG 13 for climate action. 
+
+I should also think about common misconceptions. For example, SDGs replaced MDGs in 2015, so a question on that transition. Also, the difference between SDGs and MDGs. 
+
+Each question must have four options with one correct answer. The explanations need to be concise but informative. Let me check the structure again. The JSON should have subject, topic, question in both languages, options, answer, and explanations. 
+
+I need to verify the facts to ensure accuracy. For example, the number of SDGs is 17, 169 targets. The year is 2030. Each goal's number and focus area must be correct. Also, the UN General Assembly adopted the SDGs in 2015. 
+
+Now, let me draft each question step by step, ensuring translation accuracy. For example, in Hindi, "Sustainable Development Goals" is "सतत विकास लक्ष्य" and "SDGs" is "एसडीजी". 
+
+I need to avoid repetition and cover a range of topics within the SDGs. Maybe include a mix of general knowledge and specific details. Also, ensure that the difficulty level is appropriate for the exams mentioned, not too easy but not too obscure. 
+
+Let me start writing each question, making sure the options are plausible and the correct answer is clear. After drafting, I'll review for any errors in facts or translations. Finally, format the JSON correctly without any markdown, as per the user's instructions.
+</think>
+
+[
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "How many Sustainable Development Goals (SDGs) were unanimously adopted by the United Nations in 2015?",
+"question_hi": "सतत विकास लक्ष्यों (SDGs) की संख्या क्या है, जिसे संयुक्त राष्ट्र ने 2015 में सर्वसम्मति से अपनाया गया था?",
+"A_en": "15", "A_hi": "15",
+"B_en": "17", "B_hi": "17",
+"C_en": "20", "C_hi": "20",
+"D_en": "25", "D_hi": "25",
+"answer": "B",
+"explanation_en": "The United Nations adopted 17 Sustainable Development Goals (SDGs) in 2015 to be achieved by 2030.",
+"explanation_hi": "संयुक्त राष्ट्र ने 2015 में 17 सतत विकास लक्ष्यों (SDGs) को अपनाया, जिन्हें 2030 तक प्राप्त करने का लक्ष्य है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which Sustainable Development Goal (SDG) focuses on ending poverty in all its forms?",
+"question_hi": "कौन सा सतत विकास लक्ष्य (SDG) सभी रूपों में गरीबी समाप्त करने पर केंद्रित है?",
+"A_en": "SDG 1", "A_hi": "एसडीजी 1",
+"B_en": "SDG 2", "B_hi": "एसडीजी 2",
+"C_en": "SDG 3", "C_hi": "एसडीजी 3",
+"D_en": "SDG 4", "D_hi": "एसडीजी 4",
+"answer": "A",
+"explanation_en": "SDG 1 aims to end poverty in all its forms and dimensions, including extreme poverty for all people everywhere.",
+"explanation_hi": "एसडीजी 1 का उद्देश्य सभी लोगों के लिए जीवन भर की गरीबी और सभी रूपों में गरीबी समाप्त करना है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "The target year for achieving all Sustainable Development Goals (SDGs) is:",
+"question_hi": "सभी सतत विकास लक्ष्यों (SDGs) प्राप्त करने का लक्षित वर्ष है:",
+"A_en": "2025", "A_hi": "2025",
+"B_en": "2030", "B_hi": "2030",
+"C_en": "2040", "C_hi": "2040",
+"D_en": "2050", "D_hi": "2050",
+"answer": "B",
+"explanation_en": "All 17 SDGs aim to be achieved by the year 2030 as part of the United Nations' 2030 Agenda for Sustainable Development.",
+"explanation_hi": "संयुक्त राष्ट्र के सतत विकास के लिए 2030 के एजेंडा के तहत सभी 17 एसडीजी को 2030 तक प्राप्त करने का लक्ष्य है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which SDG is directly associated with achieving gender equality and empowering all women and girls?",
+"question_hi": "कौन सा एसडीजी सभी महिलाओं और लड़कियों के बीच लिंग समानता और सशक्तिकरण प्राप्त करने से सीधे संबंधित है?",
+"A_en": "SDG 4", "A_hi": "एसडीजी 4",
+"B_en": "SDG 5", "B_hi": "एसडीजी 5",
+"C_en": "SDG 6", "C_hi": "एसडीजी 6",
+"D_en": "SDG 7", "D_hi": "एसडीजी 7",
+"answer": "B",
+"explanation_en": "SDG 5 focuses on achieving gender equality and empowering all women and girls globally.",
+"explanation_hi": "एसडीजी 5 पूर्वी दुनिया में सभी महिलाओं और लड़कियों के बीच लिंग समानता और सशक्तिकरण प्राप्त करने का ध्यान रखता है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which organization is responsible for overseeing the implementation of the Sustainable Development Goals (SDGs)?",
+"question_hi": "सतत विकास लक्ष्यों (SDGs) के कार्यान्वयन की देखरेख करने के लिए कौन सी संगठन जिम्मेदार है?",
+"A_en": "World Bank", "A_hi": "विश्व बैंक",
+"B_en": "United Nations", "B_hi": "संयुक्त राष्ट्र",
+"C_en": "World Health Organization", "C_hi": "विश्व स्वास्थ्य संगठन",
+"D_en": "International Monetary Fund", "D_hi": "अंतर्राष्ट्रीय मुद्रा कोष",
+"answer": "B",
+"explanation_en": "The United Nations is the global organization that oversees the implementation of the 17 SDGs through its 2030 Agenda.",
+"explanation_hi": "संयुक्त राष्ट्र 2030 के एजेंडा के माध्यम से विश्वव्यापी संगठन है जो 17 एसडीजी के कार्यान्वयन की देखरेख करता है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "What is the total number of targets under all Sustainable Development Goals (SDGs)?",
+"question_hi": "सभी सतत विकास लक्ष्यों (SDGs) के तहत लक्ष्यों की कुल संख्या क्या है?",
+"A_en": "169", "A_hi": "169",
+"B_en": "170", "B_hi": "170",
+"C_en": "175", "C_hi": "175",
+"D_en": "180", "D_hi": "180",
+"answer": "A",
+"explanation_en": "There are 169 specific targets across all 17 Sustainable Development Goals to be achieved by 2030.",
+"explanation_hi": "सभी 17 एसडीजी में 2030 तक प्राप्त करने के लिए कुल 169 विशिष्ट लक्ष्य हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which Sustainable Development Goal (SDG) addresses the issue of clean and affordable energy?",
+"question_hi": "कौन सा सतत विकास लक्ष्य (SDG) साफ और सस्ती ऊर्जा की समस्या का समाधान करता है?",
+"A_en": "SDG 6", "A_hi": "एसडीजी 6",
+"B_en": "SDG 7", "B_hi": "एसडीजी 7",
+"C_en": "SDG 8", "C_hi": "एसडीजी 8",
+"D_en": "SDG 9", "D_hi": "एसडीजी 9",
+"answer": "B",
+"explanation_en": "SDG 7 aims to ensure access to affordable, reliable, sustainable, and modern energy for all.",
+"explanation_hi": "एसडीजी 7 का उद्देश्य सभी लोगों के लिए सस्ती, विश्वसनीय, सतत और आधुनिक ऊर्जा की उपलब्धता सुनिश्चित करना है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which SDG emphasizes the importance of responsible consumption and production?",
+"question_hi": "कौन सा एसडीजी जिम्मेदार उपभोग और उत्पादन के महत्व पर बल देता है?",
+"A_en": "SDG 10", "A_hi": "एसडीजी 10",
+"B_en": "SDG 11", "B_hi": "एसडीजी 11",
+"C_en": "SDG 12", "C_hi": "एसडीजी 12",
+"D_en": "SDG 13", "D_hi": "एसडीजी 13",
+"answer": "C",
+"explanation_en": "SDG 12 promotes sustainable consumption and production patterns to reduce environmental impact.",
+"explanation_hi": "एसडीजी 12 पर्यावरण पर प्रभाव को कम करने के लिए सतत उपभोग और उत्पादन पैटर्न को बढ़ावा देता है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which SDG is focused on combating climate change and its impacts?",
+"question_hi": "कौन सा एसडीजी जलवायु परिवर्तन और इसके प्रभावों के खिलाफ ध्यान केंद्रित करता है?",
+"A_en": "SDG 12", "A_hi": "एसडीजी 12",
+"B_en": "SDG 13", "B_hi": "एसडीजी 13",
+"C_en": "SDG 14", "C_hi": "एसडीजी 14",
+"D_en": "SDG 15", "D_hi": "एसडीजी 15",
+"answer": "B",
+"explanation_en": "SDG 13 aims to strengthen resilience and reduce vulnerability to climate-related hazards and natural disasters.",
+"explanation_hi": "एसडीजी 13 का उद्देश्य जलवायु-संबंधी खतरों और प्राकृतिक आपदाओं के खिलाफ प्रतिरोध क्षमता को मजबूत करना है।"
+},
+{
+"subject": "Economy",
+"topic": "Sustainable Development aur SDGs ka Parichay",
+"question_en": "Which SDG is dedicated to promoting sustainable cities and communities?",
+"question_hi": "कौन सा एसडीजी सतत शहरों और समुदायों को बढ़ावा देने पर ध्यान केंद्रित करता है?",
+"A_en": "SDG 10", "A_hi": "एसडीजी 10",
+"B_en": "SDG 11", "B_hi": "एसडीजी 11",
+"C_en": "SDG 12", "C_hi": "एसडीजी 12",
+"D_en": "SDG 13", "D_hi": "एसडीजी 13",
+"answer": "B",
+"explanation_en": "SDG 11 focuses on making cities and human settlements inclusive, safe, resilient, and sustainable.",
+"explanation_hi": "एसडीजी 11 शहरों और मानव बस्तियों को समावेशी, सुरक्षित, प्रतिरोधी और सतत बन
