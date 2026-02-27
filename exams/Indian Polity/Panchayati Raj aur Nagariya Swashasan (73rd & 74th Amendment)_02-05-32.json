@@ -1,0 +1,143 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Indian Polity, specifically about the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. I need to make sure each question is in both Hindi and English, following the Testbook style. The JSON structure is crucial here, so I must adhere strictly to the provided format.
+
+First, I should recall the key points of the 73rd and 74th Amendments. The 73rd Amendment deals with Panchayats (rural local governments), while the 74th is about Nagar Panchayats (urban). Important aspects include the constitutional status, powers granted, election processes, and the three-tier structure. I need to cover these areas in the questions.
+
+Let me brainstorm some topics. Maybe start with the constitutional article numbers, the structure (three tiers for Panchayats), the reservation of seats for SCs/STs, the role of the State Election Commission, the duration of Panchayat terms, the powers of Municipalities, the appointment of a Finance Commission, the functions of Panchayats, the establishment of Municipalities in smaller urban areas, the role of the District Planning Committee, and the powers of both Panchayats and Municipalities.
+
+Each question must have four options, with the correct answer and an explanation in both languages. I need to ensure that the options are plausible and the explanations are concise. Let's start drafting each question one by one, making sure that the Hindi translation is accurate and matches the English meaning. Also, the difficulty level should be set appropriately for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC.
+
+Wait, I need to check the exact details. For example, the 73rd Amendment is in Article 243B to 243O, and the 74th is 243P to 243ZG. The three-tier structure is Gram Panchayat, Panchayat Samiti, and Zila Parishad. Reservations are 1/3 for women. The State Election Commission is responsible for conducting elections. The term is five years. For Municipalities, they can levy taxes and have a three-tier structure as well. The Finance Commission is appointed every five years. The District Planning Committee is for Panchayats, and the Metropolitan Planning Committee is for Municipalities. The 74th Amendment introduced Nagar Panchayats for transitional urban areas.
+
+I should make sure each question is unique and covers different aspects. Let me structure each question with these points. Also, the explanations should clarify why the correct answer is right and why others are wrong. Avoid any ambiguity in options. Now, proceed to create 10 questions based on these points, ensuring the JSON structure is correct and all keys are present. Double-check the Hindi translations for accuracy and clarity.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment provided constitutional status to the Panchayati Raj system?",
+    "question_hi": "कौन सा संविधान संशोधन पंचायती राज प्रणाली को संवैधानिक दर्जा प्रदान करता है?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+    "D_en": "71st Amendment", "D_hi": "71वां संशोधन",
+    "answer": "A",
+    "explanation_en": "The 73rd Constitutional Amendment Act, 1992, provided constitutional status to the Panchayati Raj system.",
+    "explanation_hi": "1992 के 73वें संविधान संशोधन अधिनियम ने पंचायती राज प्रणाली को संवैधानिक दर्जा प्रदान किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many tiers are there in the Panchayati Raj system as per the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार पंचायती राज प्रणाली में कितनी स्तर हैं?",
+    "A_en": "One", "A_hi": "एक",
+    "B_en": "Two", "B_hi": "दो",
+    "C_en": "Three", "C_hi": "तीन",
+    "D_en": "Four", "D_hi": "चार",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment established a three-tier Panchayat system: Gram Panchayat, Panchayat Samiti, and Zila Parishad.",
+    "explanation_hi": "73वें संशोधन ने तीन स्तरों की पंचायत प्रणाली स्थापित की: ग्राम पंचायत, पंचायत समिति और जिला परिषद।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest a Panchayat election?",
+    "question_hi": "पंचायत चुनाव में उम्मीदवार बनने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment specifies a minimum age of 21 years for contesting Panchayat elections.",
+    "explanation_hi": "73वें संशोधन में पंचायत चुनाव में लड़ने के लिए न्यूनतम आयु 21 वर्ष निर्धारित की गई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following reservations is mandatory in Panchayat elections?",
+    "question_hi": "निम्नलिखित में से पंचायत चुनावों में कौन सा आरक्षण अनिवार्य है?",
+    "A_en": "Reservation for SC/ST", "A_hi": "अनुसूचित जाति/जनजाति का आरक्षण",
+    "B_en": "Reservation for OBC", "B_hi": "ओबीसी का आरक्षण",
+    "C_en": "Reservation for women", "C_hi": "महिलाओं का आरक्षण",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment mandates a minimum of one-third reservation for women in all elected bodies of Panchayats.",
+    "explanation_hi": "73वें संशोधन में पंचायतों के सभी निर्वाचित निकायों में महिलाओं के लिए एक-तिहाई आरक्षण अनिवार्य है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Who is responsible for conducting Panchayat elections?",
+    "question_hi": "पंचायत चुनावों के संचालन के लिए कौन उत्तरदायी है?",
+    "A_en": "State Government", "A_hi": "राज्य सरकार",
+    "B_en": "Election Commission of India", "B_hi": "भारत चुनाव आयोग",
+    "C_en": "State Election Commission", "C_hi": "राज्य चुनाव आयोग",
+    "D_en": "District Collector", "D_hi": "जिला अधिकारी",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment established independent State Election Commissions to conduct Panchayat elections.",
+    "explanation_hi": "73वें संशोधन ने पंचायत चुनावों के संचालन के लिए स्वतंत्र राज्य चुनाव आयोग स्थापित किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the tenure of a Panchayat?",
+    "question_hi": "पंचायत की कार्यकाल कितना होता है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment stipulates a five-year term for Panchayats, unless dissolved earlier.",
+    "explanation_hi": "73वें संशोधन में पंचायतों के लिए पांच वर्ष का कार्यकाल निर्धारित किया गया है, जब तक कि इसे पहले से हटा दिया जाए।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Who presides over the meeting of the Gram Sabha?",
+    "question_hi": "ग्राम सभा की बैठक किसके अध्यक्षता में होती है?",
+    "A_en": "Sarpanch", "A_hi": "सरपंच",
+    "B_en": "Up-Sarpanch", "B_hi": "उप-सरपंच",
+    "C_en": "Gram Panchayat Secretary", "C_hi": "ग्राम पंचायत सचिव",
+    "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+    "answer": "A",
+    "explanation_en": "The Sarpanch (Head of the Gram Panchayat) presides over the Gram Sabha meetings.",
+    "explanation_hi": "ग्राम पंचायत के सरपंच (अधिकारी) ग्राम सभा की बैठक की अध्यक्षता करते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is responsible for preparing development plans at the district level?",
+    "question_hi": "जिला स्तर पर विकास योजनाओं की तैयारी के लिए कौन सी इकाई उत्तरदायी है?",
+    "A_en": "Zila Parishad", "A_hi": "जिला परिषद",
+    "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+    "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+    "D_en": "State Finance Commission", "D_hi": "राज्य वित्त आयोग",
+    "answer": "A",
+    "explanation_en": "The Zila Parishad is responsible for preparing integrated development plans at the district level.",
+    "explanation_hi": "जिला परिषद जिला स्तर पर समन्वित विकास योजनाओं की तैयारी के लिए उत्तरदायी है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the constitutional provision for the appointment of a Finance Commission for Panchayats?",
+    "question_hi": "पंचायतों के लिए एक वित्त आयोग के नियुक्ति के लिए संविधान में क्या प्रावधान है?",
+    "A_en": "Every 5 years", "A_hi": "हर 5 वर्ष में",
+    "B_en": "Every 10 years", "B_hi": "हर 10 वर्ष में",
+    "C_en": "Every 15 years", "C_hi": "हर 15 वर्ष में",
+    "D_en": "As needed", "D_hi": "जैसा आवश्यकता हो",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates the appointment of a Finance Commission for Panchayats every five years.",
+    "explanation_hi": "73वें संशोधन में पंचायतों के लिए हर पांच वर्ष में एक वित्त आयोग की नियुक्ति अनिवार्य कर दी गई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which amendment introduced the concept of Municipalities with constitutional status?",
+    "question_hi": "कौन सा संशोधन नगर परिषद के संवैधानिक दर्जा वाले नगर निकायों की अवधारणा का परिचय कराता है?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+    "D_en": "71st Amendment", "D_hi": "71वां संशोधन",
+    "answer": "B",
+    "explanation
