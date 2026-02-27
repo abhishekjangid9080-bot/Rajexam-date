@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Reflection of Light and Lenses for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling the key concepts related to this topic. The main areas are laws of reflection, types of mirrors (plane, concave, convex), image formation by these mirrors, lenses, types of lenses (convex and concave), their uses, and related formulas.
+
+First question: The laws of reflection. I should ask a question on them. The options could be the actual laws or other concepts. The correct answer would be the laws as per the first and second laws.
+
+Second question: About the reflection from a plane mirror. The image formed is virtual, erect, same size, laterally inverted. The options can include other possibilities like real image, inverted, etc.
+
+Third question: Concave mirror uses. They are used in torches, solar furnaces, etc. The options can list other uses like magnifying glass which is a convex lens.
+
+Fourth question: Convex mirror's property. They form images that are virtual, erect, and diminished. The options can include other types of images.
+
+Fifth question: Convex lens uses. Like magnifying glass, camera lenses. The options can have concave lens uses mixed in.
+
+Sixth question: Focal length. The definition and formula. Convex lens has positive focal length, concave negative. Maybe a question on the power of lenses.
+
+Seventh question: Total internal reflection. Conditions like critical angle, medium density. This is more about the laws but related to reflection.
+
+Eighth question: Image formation by concave lens. They always form virtual, erect, diminished images. The options can include other types.
+
+Ninth question: Corrective lenses for myopia. Concave lenses. Options can include convex for hypermetropia.
+
+Tenth question: Refractive index. The formula n = sin i / sin r or n = c/v. The options can have other incorrect formulas.
+
+Now, I need to structure each question in both Hindi and English. The answers and explanations should be accurate. Also, ensure that the difficulty level is appropriate for the target exams. Avoid any technical jargon that's too complex. Make sure each question tests a specific concept without ambiguity.
+</think>
+
+```json
+[
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "Which of the following is NOT a law of reflection?",
+        "question_hi": "निम्नलिखित में से कौन प्रतिबिंबन का नियम नहीं है?",
+        "A_en": "Angle of incidence equals angle of reflection", "A_hi": "प्रक्षेप कोण प्रतिबिंबन के कोण के बराबर होता है",
+        "B_en": "Incident ray, reflected ray, and normal lie in the same plane", "B_hi": "प्रक्षेपित किरण, प्रतिबिंबित किरण और सामान्य समान तल में होते हैं",
+        "C_en": "Reflection is always real", "C_hi": "प्रतिबिंबन हमेशा वास्तविक होता है",
+        "D_en": "Reflection follows the principle of reversibility", "D_hi": "प्रतिबिंबन प्रतिलोमन के सिद्धांत का पालन करता है",
+        "answer": "C",
+        "explanation_en": "Reflection can be virtual, not always real.",
+        "explanation_hi": "प्रतिबिंबन आभासी हो सकता है, हमेशा वास्तविक नहीं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "A plane mirror forms an image that is ______.",
+        "question_hi": "एक समतल दर्पण ______ प्रतिबिंब बनाता है।",
+        "A_en": "Real and inverted", "A_hi": "वास्तविक और उल्टा",
+        "B_en": "Virtual and laterally inverted", "B_hi": "आभासी और पार्श्व उल्टा",
+        "C_en": "Enlarged", "C_hi": "बड़ा",
+        "D_en": "Diminished", "D_hi": "छोटा",
+        "answer": "B",
+        "explanation_en": "Plane mirrors produce virtual, laterally inverted images.",
+        "explanation_hi": "समतल दर्पण आभासी, पार्श्व उल्टे प्रतिबिंब उत्पन्न करते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "Which mirror is used in torches to produce a parallel beam of light?",
+        "question_hi": "कौन सा दर्पण टॉर्च में प्रकाश की समानांतर किरणों को उत्पन्न करने के लिए उपयोग किया जाता है?",
+        "A_en": "Plane mirror", "A_hi": "समतल दर्पण",
+        "B_en": "Concave mirror", "B_hi": "अवतल दर्पण",
+        "C_en": "Convex mirror", "C_hi": "उत्तल दर्पण",
+        "D_en": "Parabolic mirror", "D_hi": "परवलॉइड दर्पण",
+        "answer": "B",
+        "explanation_en": "Concave mirrors are used to focus light into a parallel beam.",
+        "explanation_hi": "अवतल दर्पण प्रकाश को समानांतर किरणों में फोकस करने के लिए उपयोग किए जाते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "A convex mirror always forms a ______ image.",
+        "question_hi": "एक उत्तल दर्पण हमेशा ______ प्रतिबिंब बनाता है।",
+        "A_en": "Real and inverted", "A_hi": "वास्तविक और उल्टा",
+        "B_en": "Virtual and erect", "B_hi": "आभासी और सीधा",
+        "C_en": "Enlarged", "C_hi": "बड़ा",
+        "D_en": "Diminished", "D_hi": "छोटा",
+        "answer": "B",
+        "explanation_en": "Convex mirrors always produce virtual and erect images.",
+        "explanation_hi": "उत्तल दर्पण हमेशा आभासी और सीधे प्रतिबिंब उत्पन्न करते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "Which lens is used to correct myopia?",
+        "question_hi": "मायोपिया सुधारने के लिए किस लेंस का उपयोग किया जाता है?",
+        "A_en": "Concave lens", "A_hi": "अवतल लेंस",
+        "B_en": "Convex lens", "B_hi": "उत्तल लेंस",
+        "C_en": "Cylindrical lens", "C_hi": "सिलिंड्रिकल लेंस",
+        "D_en": "Prismatic lens", "D_hi": "प्रिज्मातिक लेंस",
+        "answer": "A",
+        "explanation_en": "Concave lenses diverge light to correct myopia.",
+        "explanation_hi": "अवतल लेंस प्रकाश को अपसारित करते हैं और मायोपिया को सुधारते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "The focal length of a convex lens is ______.",
+        "question_hi": "एक उत्तल लेंस की फोकल लंबाई ______ होती है।",
+        "A_en": "Positive", "A_hi": "सकारात्मक",
+        "B_en": "Negative", "B_hi": "नकारात्मक",
+        "C_en": "Zero", "C_hi": "शून्य",
+        "D_en": "Infinite", "D_hi": "अनंत",
+        "answer": "A",
+        "explanation_en": "Convex lenses have positive focal lengths.",
+        "explanation_hi": "उत्तल लेंस में सकारात्मक फोकल लंबाई होती है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "Which phenomenon is responsible for the formation of a rainbow?",
+        "question_hi": "इंद्रधनुष के निर्माण के लिए कौन सी घटना उत्तरदायी है?",
+        "A_en": "Refraction", "A_hi": "अपवर्तन",
+        "B_en": "Reflection", "B_hi": "प्रतिबिंबन",
+        "C_en": "Dispersion", "C_hi": "विक्षेपण",
+        "D_en": "Scattering", "D_hi": "प्रकीर्णन",
+        "answer": "C",
+        "explanation_en": "Dispersion of light into its constituent colors forms a rainbow.",
+        "explanation_hi": "प्रकाश के अपने घटक रंगों में विक्षेपण इंद्रधनुष बनाता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "A concave lens always forms a ______ image.",
+        "question_hi": "एक अवतल लेंस हमेशा ______ प्रतिबिंब बनाता है।",
+        "A_en": "Real and inverted", "A_hi": "वास्तविक और उल्टा",
+        "B_en": "Virtual and erect", "B_hi": "आभासी और सीधा",
+        "C_en": "Enlarged", "C_hi": "बड़ा",
+        "D_en": "Diminished", "D_hi": "छोटा",
+        "answer": "B",
+        "explanation_en": "Concave lenses always produce virtual and erect images.",
+        "explanation_hi": "अवतल लेंस हमेशा आभासी और सीधे प्रतिबिंब उत्पन्न करते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "Which of the following is used in a simple microscope?",
+        "question_hi": "निम्नलिखित में से किसका उपयोग एक सरल सूक्ष्मदर्शी में किया जाता है?",
+        "A_en": "Concave mirror", "A_hi": "अवतल दर्पण",
+        "B_en": "Convex mirror", "B_hi": "उत्तल दर्पण",
+        "C_en": "Concave lens", "C_hi": "अवतल लेंस",
+        "D_en": "Convex lens", "D_hi": "उत्तल लेंस",
+        "answer": "D",
+        "explanation_en": "Convex lenses are used in simple microscopes to magnify objects.",
+        "explanation_hi": "उत्तल लेंस सरल सूक्ष्मदर्शी में वस्तुओं को आवर्धित करने के लिए उपयोग किए जाते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Prakash ka Pravartan aur uske Niyam (Reflection of Light & Lenses)",
+        "question_en": "The refractive index of a medium is defined as ______.",
+        "question_hi": "एक माध्यम का अपवर्तक सूचकांक ______ के रूप में परिभाषित किया जाता है।",
+        "A_en": "Speed of light in vacuum / Speed of light in medium", "A_hi": "शून्य में प्रकाश की गति / माध्यम में प्रकाश की गति",
+        "B_en": "Speed of light in medium / Speed of light in vacuum", "B_hi": "माध्यम में प्रकाश की गति / शून्य में प्रकाश की गति",
+        "C_en": "Sine of angle of incidence / Sine of angle of refraction", "C_hi": "प्रक्षेप कोण की साइन / अपवर्तन कोण की साइन",
+        "D_en": "Both A and C", "D_hi": "A और C दोनों",
+        "answer": "D",
+        "explanation_en": "Refractive index is the ratio of speed of light in vacuum to the speed in the medium or the ratio of sines of angles.",
+        "explanation_hi": "अपवर्तक सूचकांक शून्य में प्रकाश की गति का माध्यम में गति के साथ अनुपात या कोण के साइन के अनुपात होता है।"
+    }
+]
+```
