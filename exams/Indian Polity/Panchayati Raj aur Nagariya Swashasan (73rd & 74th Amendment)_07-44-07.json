@@ -1,0 +1,164 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, specifically focusing on the 73rd and 74th Amendments. Let me start by recalling what these amendments cover. The 73rd Amendment is about Panchayati Raj institutions, and the 74th Amendment is about urban local governments, or Nagar Panchayats. 
+
+First, for each question, I need to ensure that the subject and topic are correctly specified. The subject is Indian Polity, and the topic is as given. Each question should have a question in both Hindi and English, with four options in both languages. The answers and explanations must also be in both languages.
+
+Let me brainstorm possible questions. The first thing that comes to mind is the years these amendments were passed. The 73rd Amendment was in 1992, and the 74th also in 1992. That can be a question. Then, the main objectives of these amendments. The 73rd Amendment aims to strengthen Panchayati Raj institutions, while the 74th Amendment deals with urban local bodies.
+
+Another point is the reservation of seats for SCs, STs, and women. For instance, women must constitute at least one-third of the seats. Also, the 73rd Amendment mandates that states must have a Panchayati Raj system at the village level. The 74th Amendment requires urban local bodies to have a minimum population specified by the state government.
+
+What about the powers and functions? The 73rd Amendment gives Panchayats powers in 29 subjects listed in the Eleventh Schedule. The 74th Amendment lists 18 subjects in the Twelfth Schedule. I should check the exact numbers to be accurate.
+
+Reservation for weaker sections is another key point. Both amendments require reservation for SCs and STs. The 73rd Amendment also includes reservation for women in Panchayats. For the 74th Amendment, urban local bodies must reserve seats for SCs, STs, and women.
+
+The constitutional status is important too. Both amendments added parts and schedules to the Constitution. The 73rd Amendment added Part IX to the Constitution, and the 74th added Part IXA.
+
+Another area is the duration of Panchayats. The 73rd Amendment specifies a five-year term. Similarly, urban local bodies under the 74th Amendment have a five-year term unless dissolved earlier.
+
+The appointment of the head of the Panchayat. The Sarpanch is elected, and the head of the urban local body is the Mayor or Chairperson, depending on the state's laws.
+
+I need to make sure that the questions are not overlapping and cover different aspects. Also, the options should be plausible but incorrect. For example, if the question is about the year, include 1992 as the correct answer, and other years like 1989, 1994, 2000 as distractors.
+
+Now, structuring each question according to the JSON format provided. Each JSON object should have subject, topic, question in English and Hindi, options A-D in both languages, the correct answer, and explanations in both languages.
+
+Let me start drafting the first question about the year of the amendments. Then proceed to objectives, reservations, schedules, constitutional parts, duration, heads, etc. I need to ensure that each question is unique and covers a different aspect of the topic.
+
+I should also verify the exact numbers for the Eleventh and Twelfth Schedules to make sure they are correct. The 73rd Amendment added the Eleventh Schedule with 29 subjects, and the 74th added the Twelfth Schedule with 18 subjects. That's a key detail for a question.
+
+Another point is the powers given to urban local bodies. The 74th Amendment outlines their functions in the Twelfth Schedule, such as town planning, water supply, sanitation, etc.
+
+I need to make sure that the explanations are accurate and concise. For example, if the question is about the reservation of women, the explanation should state that the 73rd Amendment mandates at least one-third of the seats to be reserved for women.
+
+Let me check if there are any common misconceptions or tricky parts. For example, some might confuse the 73rd and 74th Amendments. So, questions that differentiate between the two would be useful.
+
+Also, including a question about the constitutional provision for urban local bodies, ensuring that the 74th Amendment makes it a constitutional right for urban local governments to be established.
+
+Now, compiling all these points into 10 distinct questions. Each question should be clear and unambiguous. Let me start writing them out, ensuring that the JSON structure is followed strictly, without any markdown formatting. Each question and its components must be in both languages, with explanations in both as well.
+
+I need to be careful with the JSON syntax to avoid errors. Using tools or validators could help, but since I'm doing this manually, I'll double-check commas, brackets, and quotation marks.
+
+Finally, reviewing each question for accuracy, clarity, and adherence to the given instructions. Making sure that the difficulty level is appropriate for Indian Polity exams, not too simple but covering essential concepts from the amendments.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "In which year were the 73rd and 74th Constitutional Amendments passed?",
+        "question_hi": "73वीं और 74वीं संवैधानिक संशोधन किस वर्ष पारित किए गए थे?",
+        "A_en": "1992",
+        "A_hi": "1992",
+        "B_en": "1994",
+        "B_hi": "1994",
+        "C_en": "1990",
+        "C_hi": "1990",
+        "D_en": "1989",
+        "D_hi": "1989",
+        "answer": "A",
+        "explanation_en": "The 73rd and 74th Constitutional Amendments were passed in 1992 to strengthen Panchayati Raj and urban local governments.",
+        "explanation_hi": "73वीं और 74वीं संवैधानिक संशोधन 1992 में पारित किए गए थे ताकि पंचायती राज और शहरी स्थानीय सरकारों को मजबूत बनाया जा सके।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum number of subjects listed in the Eleventh Schedule for Panchayat functions?",
+        "question_hi": "पंचायतों के कार्यों के लिए ग्यारहवीं अनुसूची में कम से कम कितने विषय सूचित किए गए हैं?",
+        "A_en": "25",
+        "A_hi": "25",
+        "B_en": "29",
+        "B_hi": "29",
+        "C_en": "27",
+        "C_hi": "27",
+        "D_en": "30",
+        "D_hi": "30",
+        "answer": "B",
+        "explanation_en": "The Eleventh Schedule, added by the 73rd Amendment, lists 29 subjects for which Panchayats have been given powers.",
+        "explanation_hi": "73वीं संशोधन द्वारा जोड़ी गई ग्यारहवीं अनुसूची में पंचायतों के लिए 29 विषय सूचित किए गए हैं जिन पर उनका अधिकार है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of Urban Local Bodies as per the 74th Amendment?",
+        "question_hi": "74वीं संशोधन के अनुसार निम्नलिखित में से कौन-सा शहरी स्थानीय निकायों का कार्य नहीं है?",
+        "A_en": "Town planning",
+        "A_hi": "शहरी नियोजन",
+        "B_en": "Water supply",
+        "B_hi": "जल आपूर्ति",
+        "C_en": "Law and order",
+        "C_hi": "न्याय और व्यवस्था",
+        "D_en": "Sanitation",
+        "D_hi": "स्वच्छता",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment does not grant Urban Local Bodies authority over law and order, which remains a state or central government responsibility.",
+        "explanation_hi": "74वीं संशोधन शहरी स्थानीय निकायों को न्याय और व्यवस्था के अधिकार नहीं देता है, जो अभी भी राज्य या केंद्र सरकार की जिम्मेदारी है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum population required for a Panchayat to be established according to the 73rd Amendment?",
+        "question_hi": "73वीं संशोधन के अनुसार एक पंचायत की स्थापना के लिए न्यूनतम आबादी क्या है?",
+        "A_en": "5000",
+        "A_hi": "5000",
+        "B_en": "3000",
+        "B_hi": "3000",
+        "C_en": "2000",
+        "C_hi": "2000",
+        "D_en": "No minimum population",
+        "D_hi": "न्यूनतम आबादी की कोई अवधारणा नहीं",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment mandates that every state must have a Panchayat system at the village level, with no specified minimum population.",
+        "explanation_hi": "73वीं संशोधन निर्देशित करता है कि प्रत्येक राज्य में ग्रामीण स्तर पर पंचायती राज व्यवस्था होनी चाहिए, जिसमें कोई न्यूनतम जनसंख्या निर्धारित नहीं है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a constitutional requirement for Urban Local Bodies under the 74th Amendment?",
+        "question_hi": "74वीं संशोधन के तहत शहरी स्थानीय निकायों के लिए निम्नलिखित में से कौन-सा संवैधानिक आवश्यकता है?",
+        "A_en": "Reservation of seats for women",
+        "A_hi": "महिलाओं के लिए सीटों का आरक्षण",
+        "B_en": "Reservation of seats for SC/ST",
+        "B_hi": "अनुसूचित जाति/जनजाति के लिए सीटों का आरक्षण",
+        "C_en": "Minimum population requirement",
+        "C_hi": "न्यूनतम जनसंख्या की आवश्यकता",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "The 74th Amendment requires Urban Local Bodies to reserve seats for SCs, STs, women, and have a minimum population as per state laws.",
+        "explanation_hi": "74वीं संशोधन शहरी स्थानीय निकायों के लिए अनुसूचित जाति/जनजाति, महिलाओं के लिए सीटों का आरक्षण और राज्य कानूनों के अनुसार न्यूनतम जनसंख्या की आवश्यकता रखता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the term of office for a Panchayat as per the 73rd Amendment?",
+        "question_hi": "73वीं संशोधन के अनुसार पंचायत की कार्यकाल के लिए कितना अवधि होती है?",
+        "A_en": "5 years",
+        "A_hi": "5 वर्ष",
+        "B_en": "4 years",
+        "B_hi": "4 वर्ष",
+        "C_en": "3 years",
+        "C_hi": "3 वर्ष",
+        "D_en": "6 years",
+        "D_hi": "6 वर्ष",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment stipulates a five-year term for Panchayats, renewable unless dissolved earlier.",
+        "explanation_hi": "73वीं संशोधन पंचायतों के लिए पांच वर्ष का कार्यकाल देता है, जो पहले से हटाया जाने तक नवीनीकृत रहता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a part of the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सा 73वीं संशोधन का भाग नहीं है?",
+        "A_en": "Eleventh Schedule",
+        "A_hi": "ग्यारहवीं अनुसूची",
+        "B_en": "Part IX of the Constitution",
+        "B_hi": "संविधान का भाग IX",
+        "C_en": "Reservation for OBCs",
+        "C_hi": "ओबीसी के लिए आरक्षण",
+        "D_en": "Minimum age of 21 for membership",
+        "D_hi": "सदस्यता के लिए न्यूनतम आयु 21",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment does not include reservation for Other Backward Classes (OBCs) as a constitutional requirement.",
+        "explanation_hi": "73वीं संशोधन अन्य पिछड़ा वर्ग (OBC) के लिए आरक्षण को संवैधानिक आवश्यकता के रूप में शामिल नहीं करता है।"
+    },
+    {
+        "subject": "Indian Polity
