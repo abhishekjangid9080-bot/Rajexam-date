@@ -1,0 +1,160 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs in both Hindi and English for General Science, specifically on Elements, Compounds, and Mixtures. They need the questions to follow the JSON structure provided, with testbook style, and the difficulty level appropriate for Rajasthan State Exams, SSC, and Railway exams. 
+
+First, I need to brainstorm topics related to elements, compounds, and mixtures. Let's start with basic definitions. For example, distinguishing between elements and compounds. Maybe a question on which is an element versus a compound. Then, mixtures can be homogeneous or heterogeneous. 
+
+Next, examples of each category. For elements, copper (Cu) is an element. Water (H2O) is a compound. Air is a mixture. Then, properties: elements can't be broken down chemically, compounds can be broken down into elements, mixtures can be separated physically. 
+
+Another angle could be identifying which of the options is a mixture. Maybe something like salt solution or alloys. Also, alloys are homogeneous mixtures. 
+
+I should also consider common examples students might confuse. For instance, sugar is a compound, not an element. Iron is an element. Maybe a question on which is a compound: CO2, CaO, etc. 
+
+Need to ensure the language is clear and in Hindi and English. Each question should have four options, with one correct answer. The explanations should be concise but sufficient to clarify why the answer is correct.
+
+Let me start drafting questions. First question: Which of the following is an element? Options could be water, copper, salt, air. Copper is an element. Second question: Which is a compound? Water is H2O. Third question: Which is a homogeneous mixture? Air is a homogeneous mixture. Fourth question: Which can be separated by physical means? Mixtures. 
+
+Wait, need to check if all the options are correctly categorized. For example, alloys like steel are mixtures. Also, elements have symbols like O for oxygen. 
+
+Another question: Which is a pure substance? Elements and compounds are pure substances. Mixtures are not. So, a question on pure substances. 
+
+I need to make sure each question is unique and tests different concepts. Let me list out possible questions and their options. Let's see, maybe 10 questions covering elements, compounds, mixtures, examples, properties, separation methods. 
+
+Also, explanations should clarify the correct answer. For example, if the question is about elements, the explanation should state that elements are pure substances made of one type of atom. 
+
+I should check for any possible errors in the options. For example, carbon dioxide is a compound, sodium is an element, air is a mixture. 
+
+Once the questions are drafted, I'll structure them into the required JSON format, making sure all fields are filled. Let me start writing each question step by step, ensuring the Hindi translations are accurate and the options are correctly presented.
+</think>
+
+[
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is an element?",
+"question_hi": "निम्नलिखित में से कौन-सा एक तत्व है?",
+"A_en": "Water", "A_hi": "पानी",
+"B_en": "Copper", "B_hi": "तांबा",
+"C_en": "Salt", "C_hi": "नमक",
+"D_en": "Air", "D_hi": "हवा",
+"answer": "B",
+"explanation_en": "Copper is a pure substance made up of only one type of atom and cannot be broken down into simpler substances.",
+"explanation_hi": "तांबा एक शुद्ध पदार्थ है जो केवल एक प्रकार के परमाणुओं से बना है और इसे सरल पदार्थों में अपघटित नहीं किया जा सकता है।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is a compound?",
+"question_hi": "निम्नलिखित में से कौन-सा एक यौगिक है?",
+"A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+"B_en": "Carbon", "B_hi": "कार्बन",
+"C_en": "Sodium", "C_hi": "सोडियम",
+"D_en": "Carbon dioxide", "D_hi": "कार्बन डाइऑक्साइड",
+"answer": "D",
+"explanation_en": "Carbon dioxide is formed by the chemical combination of carbon and oxygen in a fixed ratio.",
+"explanation_hi": "कार्बन डाइऑक्साइड कार्बन और ऑक्सीजन के रासायनिक संयोजन से एक निश्चित अनुपात में बनता है।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is a homogeneous mixture?",
+"question_hi": "निम्नलिखित में से कौन-सा एक समांग मिश्रण है?",
+"A_en": "Milk", "A_hi": "दूध",
+"B_en": "Soil", "B_hi": "मिट्टी",
+"C_en": "Air", "C_hi": "हवा",
+"D_en": "Sand", "D_hi": "रेत",
+"answer": "C",
+"explanation_en": "Air is a homogeneous mixture because its components are uniformly distributed throughout the mixture.",
+"explanation_hi": "हवा एक समांग मिश्रण है क्योंकि इसके घटक मिश्रण के सभी भागों में एकसमान रूप से वितरित होते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following can be separated by physical methods?",
+"question_hi": "निम्नलिखित में से कौन-सा भौतिक विधियों द्वारा अलग किया जा सकता है?",
+"A_en": "Elements", "A_hi": "तत्व",
+"B_en": "Compounds", "B_hi": "यौगिक",
+"C_en": "Mixtures", "C_hi": "मिश्रण",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "C",
+"explanation_en": "Mixtures can be separated into their components using physical methods like filtration or evaporation.",
+"explanation_hi": "मिश्रण को छानने या वाष्पीकरण जैसी भौतिक विधियों का उपयोग करके अलग किया जा सकता है।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is a pure substance?",
+"question_hi": "निम्नलिखित में से कौन-सा एक शुद्ध पदार्थ है?",
+"A_en": "Sea water", "A_hi": "समुद्री जल",
+"B_en": "Sugar", "B_hi": "चीनी",
+"C_en": "Milk", "C_hi": "दूध",
+"D_en": "Soil", "D_hi": "मिट्टी",
+"answer": "B",
+"explanation_en": "Sugar is a compound with a fixed composition and cannot be separated into simpler substances by physical methods.",
+"explanation_hi": "चीनी एक यौगिक है जिसका स्थिर संघटन होता है और इसे भौतिक विधियों द्वारा सरल पदार्थों में अलग नहीं किया जा सकता है।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "What is the smallest particle of an element that retains its properties?",
+"question_hi": "एक तत्व का सबसे छोटा कण क्या है जो अपने गुण बरकरार रखता है?",
+"A_en": "Molecule", "A_hi": "अणु",
+"B_en": "Atom", "B_hi": "परमाणु",
+"C_en": "Ion", "C_hi": "आयन",
+"D_en": "Compound", "D_hi": "यौगिक",
+"answer": "B",
+"explanation_en": "An atom is the smallest unit of an element that retains all the chemical properties of that element.",
+"explanation_hi": "एक परमाणु एक तत्व की रासायनिक गुणों को बरकरार रखता हुआ सबसे छोटी इकाई है।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is a heterogeneous mixture?",
+"question_hi": "निम्नलिखित में से कौन-सा एक विषम मिश्रण है?",
+"A_en": "Alcohol", "A_hi": "अल्कोहल",
+"B_en": "Salt water", "B_hi": "नमकीन पानी",
+"C_en": "Sand and iron filings", "C_hi": "रेत और लोहे के छीलन",
+"D_en": "Air", "D_hi": "हवा",
+"answer": "C",
+"explanation_en": "A heterogeneous mixture has components that are not uniformly distributed and can be seen as separate parts.",
+"explanation_hi": "विषम मिश्रण में घटक असमान रूप से वितरित होते हैं और अलग-अलग हिस्सों के रूप में दिखाई देते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following cannot be broken down into simpler substances?",
+"question_hi": "निम्नलिखित में से कौन-सा सरल पदार्थों में अपघटित नहीं किया जा सकता है?",
+"A_en": "Compound", "A_hi": "यौगिक",
+"B_en": "Mixture", "B_hi": "मिश्रण",
+"C_en": "Element", "C_hi": "तत्व",
+"D_en": "Solution", "D_hi": "घोल",
+"answer": "C",
+"explanation_en": "Elements are the simplest form of matter and cannot be broken down further by chemical or physical means.",
+"explanation_hi": "तत्व पदार्थ के सरलतम रूप होते हैं और रासायनिक या भौतिक विधियों द्वारा आगे अपघटित नहीं किये जा सकते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is an example of a compound?",
+"question_hi": "निम्नलिखित में से कौन-सा एक यौगिक का उदाहरण है?",
+"A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+"B_en": "Hydrogen", "B_hi": "हाइड्रोजन",
+"C_en": "Water", "C_hi": "पानी",
+"D_en": "Carbon", "D_hi": "कार्बन",
+"answer": "C",
+"explanation_en": "Water is a compound formed by the chemical combination of hydrogen and oxygen.",
+"explanation_hi": "पानी हाइड्रोजन और ऑक्सीजन के रासायनिक संयोजन से बनता है।"
+},
+{
+"subject": "General Science",
+"topic": "Tatva, Yogik aur Mishran (Elements, Compounds, Mixtures)",
+"question_en": "Which of the following is not a mixture?",
+"question_hi": "निम्नलिखित में से कौन-सा मिश्रण नहीं है?",
+"A_en": "Alcohol", "A_hi": "अल्कोहल",
+"B_en": "Milk", "B_hi": "दूध",
+"C_en": "Salt", "C_hi": "नमक",
+"D_en": "Air", "D_hi": "हवा",
+"answer": "C",
+"explanation_en": "Salt is a compound with a fixed composition and is not a mixture.",
+"explanation_hi": "नमक एक यौगिक है जिसका स्थिर संघटन होता है और यह मिश्रण नहीं है।"
+}
+]
