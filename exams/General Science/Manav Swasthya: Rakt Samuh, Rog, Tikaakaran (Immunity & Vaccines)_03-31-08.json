@@ -1,0 +1,212 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Human Health: Blood Groups, Diseases, and Vaccines for Rajasthan State Exams, SSC, and Railway. Let's start by brainstorming the topics.
+
+First, blood groups. I should cover the basic AB0 system, Rh factor, and maybe the discovery by Karl Landsteiner. Then, diseases—common ones like anemia, malaria, dengue, tuberculosis. Vaccines: types like live, attenuated, subunit, and examples like BCG, Polio, Hepatitis B. Also, immunity types (innate vs. adaptive) and how vaccines work.
+
+Next, think about the difficulty level. Since it's General Science for exams like LDC and NTPC, the questions shouldn't be too technical but should test understanding. Avoid very niche info unless it's commonly known.
+
+Now, structure each question. Each question in English and Hindi, options in both languages, answer, and explanations. Need to ensure that the options are not too similar and the correct answer is unambiguous.
+
+Check for common mistakes. For example, confuse O- with O+, or mix up the Rh factor's role. For vaccines, people might confuse BCG with other vaccines' uses. In diseases, ensuring that symptoms or causes are correctly attributed.
+
+Let me start drafting. First question on blood groups. Maybe ask which is the universal donor. A-: O-, B-: O+, C-: AB+, D-: AB-? No, the universal donor is O- and recipient is AB+. So the question should reflect that.
+
+Second question: Which blood group has both A and B antigens? Answer is AB.
+
+Third: Karl Landsteiner's contribution. Discovered blood groups in 1901.
+
+Fourth: Rh factor's significance. Related to blood transfusion and pregnancy complications like erythroblastosis fetalis.
+
+Fifth: Disease caused by Plasmodium. Malaria.
+
+Sixth: Bacterial disease. Tuberculosis caused by Mycobacterium.
+
+Seventh: Vaccine for polio. Oral Polio Vaccine (OPV) and Inactivated Polio Vaccine (IPV).
+
+Eighth: Live attenuated vaccine example. Measles, MMR.
+
+Ninth: BCG vaccine prevents. Tuberculosis, given at birth.
+
+Tenth: Hepatitis B vaccine's target. Hepatitis B virus, prevents liver damage.
+
+Now, ensure that the explanations are concise and clear. For example, explaining why O- is universal donor because it lacks A, B, and Rh antigens.
+
+Check for any errors in facts. For example, BCG is given at birth in many countries as part of neonatal care.
+
+Make sure all options are in both languages correctly. Use proper terminology in Hindi. For example, "रक्त समूह" for blood groups.
+
+Double-check the answer options to avoid any typos. Each question's answer should be correct based on the explanations.
+
+Once all questions are drafted, format them into the JSON structure as per the example. Ensure that the JSON keys are correct and the language is consistent.
+</think>
+
+[
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which blood group is considered the universal donor?",
+        "question_hi": "कौन सा रक्त समूह सार्वभौमिक दाता माना जाता है?",
+        "A_en": "O+",
+        "A_hi": "ओ+",
+        "B_en": "O-",
+        "B_hi": "ओ-",
+        "C_en": "AB+",
+        "C_hi": "एबी+",
+        "D_en": "AB-",
+        "D_hi": "एबी-",
+        "answer": "B",
+        "explanation_en": "O- blood group lacks A, B, and Rh antigens, making it compatible with all blood types during transfusion.",
+        "explanation_hi": "ओ- रक्त समूह में ए, बी और आरएच एंटीजन नहीं होते हैं जिससे यह सभी रक्त समूहों के साथ डोनेशन में संगत होता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which blood group has both A and B antigens on the red blood cells?",
+        "question_hi": "लाल रक्त कोशिकाओं पर ए और बी दोनों एंटीजन किस रक्त समूह में होते हैं?",
+        "A_en": "A+",
+        "A_hi": "ए+",
+        "B_en": "B-",
+        "B_hi": "बी-",
+        "C_en": "AB+",
+        "C_hi": "एबी+",
+        "D_en": "O-",
+        "D_hi": "ओ-",
+        "answer": "C",
+        "explanation_en": "AB+ blood group contains both A and B antigens along with the Rh factor on red blood cells.",
+        "explanation_hi": "एबी+ रक्त समूह में लाल रक्त कोशिकाओं पर ए, बी और आरएच एंटीजन होते हैं।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Who discovered the ABO blood group system?",
+        "question_hi": "एबीओ रक्त समूह प्रणाली की खोज किसने की थी?",
+        "A_en": "Louis Pasteur",
+        "A_hi": "लुई पास्चर",
+        "B_en": "Karl Landsteiner",
+        "B_hi": "कार्ल लैंडस्टीनर",
+        "C_en": "Alexander Fleming",
+        "C_hi": "एलेक्जेंडर फ्लेमिंग",
+        "D_en": "Robert Koch",
+        "D_hi": "रॉबर्ट कोच",
+        "answer": "B",
+        "explanation_en": "Karl Landsteiner discovered the ABO blood group system in 1901.",
+        "explanation_hi": "कार्ल लैंडस्टीनर ने 1901 में एबीओ रक्त समूह प्रणाली की खोज की थी।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which of the following diseases is caused by the Plasmodium parasite?",
+        "question_hi": "निम्नलिखित में से कौन सा रोग प्लाज्मोडियम परजीवी के कारण होता है?",
+        "A_en": "Malaria",
+        "A_hi": "मलेरिया",
+        "B_en": "Typhoid",
+        "B_hi": "टाइफाइड",
+        "C_en": "Dengue",
+        "C_hi": "डेंगू",
+        "D_en": "Cholera",
+        "D_hi": "हैजा",
+        "answer": "A",
+        "explanation_en": "Malaria is caused by the Plasmodium parasite and is transmitted through the bite of infected Anopheles mosquitoes.",
+        "explanation_hi": "मलेरिया प्लाज्मोडियम परजीवी के कारण होता है और इसे अस्वस्थ एनोफेलीज मच्छरों के काटने से फैलता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which vaccine is used to prevent tuberculosis?",
+        "question_hi": "कोन सी टीका यक्ष्मा की रोकथाम के लिए प्रयोग की जाती है?",
+        "A_en": "BCG",
+        "A_hi": "बीसीजी",
+        "B_en": "Polio",
+        "B_hi": "पोलियो",
+        "C_en": "Hepatitis B",
+        "C_hi": "हेपेटाइटिस बी",
+        "D_en": "Measles",
+        "D_hi": "मेजाजल्स",
+        "answer": "A",
+        "explanation_en": "The BCG vaccine is used to protect against tuberculosis, particularly in infants and young children.",
+        "explanation_hi": "बीसीजी टीका यक्ष्मा के खिलाफ रक्षा के लिए प्रयोग किया जाता है, विशेष रूप से बच्चों में।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which of the following is an example of a live attenuated vaccine?",
+        "question_hi": "निम्नलिखित में से कौन एक जीवित अवकृष्ट टीके का उदाहरण है?",
+        "A_en": "Hepatitis B",
+        "A_hi": "हेपेटाइटिस बी",
+        "B_en": "Polio (OPV)",
+        "B_hi": "पोलियो (ओपीवी)",
+        "C_en": "Rabies",
+        "C_hi": "रैबीज",
+        "D_en": "Tetanus",
+        "D_hi": "टिटनेस",
+        "answer": "B",
+        "explanation_en": "Oral Polio Vaccine (OPV) is a live attenuated vaccine that uses a weakened form of the poliovirus.",
+        "explanation_hi": "मुख्य पोलियो टीका (ओपीवी) एक जीवित अवकृष्ट टीका है जो पोलियो वायरस के कमजोर रूप का उपयोग करता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which disease is caused by the deficiency of vitamin B12?",
+        "question_hi": "किस रोग का कारण विटामिन बी12 की कमी होती है?",
+        "A_en": "Scurvy",
+        "A_hi": "स्कर्वी",
+        "B_en": "Rickets",
+        "B_hi": "रिकेट्स",
+        "C_en": "Anemia",
+        "C_hi": "आयरन अनुबंधित रक्ताल्पता",
+        "D_en": "Goiter",
+        "D_hi": "गोइटर",
+        "answer": "C",
+        "explanation_en": "Vitamin B12 deficiency can lead to pernicious anemia, where the body cannot produce enough healthy red blood cells.",
+        "explanation_hi": "विटामिन बी12 की कमी से पेरनिशियस एनीमिया हो सकता है, जहां शरीर स्वस्थ लाल रक्त कोशिकाओं का उत्पादन नहीं कर सकता है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "What is the primary function of the Rh factor in blood?",
+        "question_hi": "रक्त में आरएच फैक्टर का मुख्य कार्य क्या है?",
+        "A_en": "To determine blood type",
+        "A_hi": "रक्त समूह का निर्धारण करना",
+        "B_en": "To prevent anemia",
+        "B_hi": "रक्ताल्पता से रोकथाम करना",
+        "C_en": "To avoid complications during pregnancy",
+        "C_hi": "गर्भावस्था के दौरान जटिलताओं से बचाव करना",
+        "D_en": "To increase red blood cell count",
+        "D_hi": "लाल रक्त कोशिकाओं की गणना बढ़ाना",
+        "answer": "C",
+        "explanation_en": "The Rh factor is important to avoid complications like Rh incompatibility between a pregnant woman and her fetus.",
+        "explanation_hi": "आरएच फैक्टर प्रसवकालीन महिला और उसके शिशु के बीच आरएच असंगतता जैसी जटिलताओं को रोकने में महत्वपूर्ण है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which of the following is a bacterial disease?",
+        "question_hi": "निम्नलिखित में से कौन सा एक जीवाणुजनित रोग है?",
+        "A_en": "Malaria",
+        "A_hi": "मलेरिया",
+        "B_en": "Dengue",
+        "B_hi": "डेंगू",
+        "C_en": "Tuberculosis",
+        "C_hi": "यक्ष्मा",
+        "D_en": "Chikungunya",
+        "D_hi": "चिकनगुनिया",
+        "answer": "C",
+        "explanation_en": "Tuberculosis is caused by Mycobacterium tuberculosis, a bacterial infection.",
+        "explanation_hi": "यक्ष्मा माइकोबैक्टीरियम ट्यूबरक्यूलोसिस द्वारा होता है, जो एक जीवाणुजनित संक्रमण है।"
+    },
+    {
+        "subject": "General Science",
+        "topic": "Manav Swasthya: Rakt Samuh, Rog, Tikaakaran (Immunity & Vaccines)",
+        "question_en": "Which vaccine is administered to prevent Hepatitis B?",
+        "question_hi": "हेपेटाइटिस बी की रोकथाम के लिए कौन सी टीका प्रशासित की जाती है?",
+        "A_en": "BCG",
+        "A_hi": "बीसीजी",
+        "B_en": "MMR",
+        "B_hi": "एमएमआर",
+        "C_en": "Hepatitis B",
+        "C_hi": "हेपेटाइटिस बी",
+        "D_en": "Polio",
+        "D_hi": "पोलियो",
+        "answer": "C",
+        "explanation_en": "The Hepatitis B vaccine is specifically designed to prevent infection caused by the Hepatitis B virus.",
+        "explanation_hi": "हेपेटाइटिस बी टीका विशेष रूप से हेपेटाइटिस बी
