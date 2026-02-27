@@ -1,0 +1,97 @@
+[
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "According to Newton's First Law of Motion, objects at rest tend to remain in state of rest unless acted upon by an external …",
+"question_hi": "नोट्सचार्ली के पहले नातो परिस्थितियाँ पुनर्नुर करने के लिए योग्य करने के लिए विभागी होते है।",
+"A_en": "Velocity",
+"A_hi": "गति",
+"B_en": "Force",
+"B_hi": "तल",
+"C_en": "Acceleration",
+"C_hi": "स्पेस",
+"D_en": "Force",
+"D_hi": "तल",
+"answer": "B",
+"explanation_en": "According to Newton's First Law of Motion, an object at rest tends to remain at rest unless acted upon by an external force. In this case, the correct option is force (B).",
+"explanation_hi": "नोट्सी विभागी करने के लिए होते हैं। ये स्पेस (B) का अनुमाने के लिए होते हैं।",
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "What is the formula for calculating the acceleration of an object due to a force?",
+"question_hi": "एक भित्र के एक तल के संबंध के बाबादिते होते हैं।",
+"A_en": "m/s²",
+"A_hi": "म्याम²",
+"B_en": "F/m",
+"B_hi": "F/m",
+"C_en": "Acceleration due to gravity",
+"C_hi": "ग्राइवाम",
+"D_en": "Acceleration due to air resistance",
+"D_hi": "थियाम बाबादिते होते हैं",
+"answer": "B",
+"explanation_en": "The formula for calculating the acceleration of an object due to a force (F/m) is widely used, where F is the applied force and m is the mass of the object.",
+"explanation_hi": "तल को के कुलीदे होते हैं। यहा पाठिताम संबंध का घरदायन का प्रतिकाी होते हैं।",
+"explanation_hi": "तल के कुलीदे होते हैं। यहा पाठिताम संबंध प्रतिकाी होते हैं।",
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "Which of the following is not a law of motion?",
+"question_hi": "पेयं के विभविकाी परिवर्ताम के दिनी पाठिताम",
+"options": [
+{
+"option_en": "तल (Force)",
+"option_hi": "तल (तल)",
+"option_explanation_en": "Force (F) is not a law of motion.",
+"option_explanation_hi": "तल (तल) का बुलानिति मिति तल मैयाम परिवर्ताम",
+"answer": "तल (Force)",
+}
+],
+"explanation_en": "Force (F) is not a law of motion.",
+"explanation_hi": "तल (तल) के बुलानिति मिति मैयाम परिवर्ताम परिवर्ताम",
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "What is the third law of motion?",
+"question_hi": "तल (तल) का बुलानिति मिति मियाम परिवर्ताम",
+"options": [
+{
+"option_en": "First Law (तल)",
+"option_hi": "तल (तल)",
+"option_explanation_en": "The first law of motion states that an object at rest tends to remain at rest unless acted upon by an external force.",
+"option_explanation_hi": "तल (तल) तल (तल)",
+"option_answer": "First Law (तल)",
+}
+,
+{
+"option_en": "Second Law (तल)",
+"option_hi": "तल (तल)",
+"option_explanation_en": "The second law of motion states that an object's acceleration is directly proportional to the net force acting on it.",
+"option_explanation_hi": "तल (तल)",
+"option_answer": "Second Law (तल)",
+}
+,
+{
+"option_en": "Third Law (तल)",
+"option_hi": "तल (तल)",
+"option_explanation_en": "The third law of motion states that for every action, there is an equal and opposite reaction.",
+"option_explanation_hi": "तल (तल)",
+"option_answer": "Third Law (तल)",
+},
+{
+"option_en": "Force (तल)",
+"option_hi": "तल (तल)",
+"option_explanation_en": "Force is a cause of acceleration.",
+"option_explanation_hi": "तल (तल)",
+"option_answer": "Force (तल)",
+},
+{
+"option_en": "Acceleration (तल)",
+"option_hi": "तल (तल)",
+"option_explanation_en": "Acceleration is the result of force applied on an object.",
+"option_explanation_hi": "तल (तल)",
+"option_answer": "Acceleration (तल)",
+} 
+]
