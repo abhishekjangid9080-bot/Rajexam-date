@@ -1,0 +1,125 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Mathematics focusing on Percentage and Profit & Loss, suitable for Rajasthan State Exams, SSC, and Railway. Let me start by recalling the key concepts.
+
+First, percentages. Common topics include calculating percentages, percentage increase/decrease, and application in real-life scenarios like discounts. For Profit and Loss, I should cover cost price, selling price, profit loss calculations, marked price, and discounts. 
+
+I need to ensure the questions are in both Hindi and English, with options labeled A to D. The explanations should clarify the solution steps. Also, the difficulty level should be appropriate for these exams, so maybe mix some straightforward and a few calculation-heavy problems.
+
+Let me brainstorm some questions. For percentages, maybe something like calculating a percentage of a number, then a percentage change. For profit loss, maybe finding profit percentage when selling at a certain price after a discount. 
+
+Wait, the user provided an example with the capital of Rajasthan. But this is math, so I need to adjust. Let me make sure each question has two parts: one in English and one in Hindi. The options should be in both languages too. Answers need to be in the correct options (A/B/C/D) with explanations in both languages.
+
+Let me start drafting. First question: If a product is bought for 500 and sold for 600, what is the profit percentage? Then calculate (SP-CP)/CP *100 = (100/500)*100=20%. So answer is 20%. That's a basic profit percentage question.
+
+Second question: A shopkeeper gives a 10% discount on a product. If the marked price is 1000, what is the selling price? SP = 1000 - 10% of 1000 = 900. So answer is 900.
+
+Third question: If the selling price is 80% of the marked price and the cost price is 75% of the selling price, find profit percent. Let's assume marked price is 100. Then SP is 80. CP is 75% of 80 = 60. Profit = 80-60=20. Profit percent is (20/60)*100≈33.33%. So answer D.
+
+Fourth question: A man sells two horses for 2000 each. On one he gains 20% and on the other loses 20%. What's the overall result? Let's calculate. For the first horse, CP = 2000 / 1.2 ≈ 1666.67. Second horse, CP = 2000 / 0.8 = 2500. Total CP = 4166.67. Total SP = 4000. Loss = 166.67. Loss percent ≈ (166.67/4166.67)*100≈4%. So answer is 4% loss.
+
+Fifth question: If 20% of a number is 80, then 30% of the same number is? Let the number be x. 0.2x=80 → x=400. 0.3*400=120. Answer 120.
+
+Sixth question: A man buys 10 apples for ₹100 and sells 8 apples for ₹100. Find profit percent. CP per apple = 10, SP per apple = 12.5. Profit per apple = 2.5. Profit percent = (2.5/10)*100=25%.
+
+Seventh question: If a number is increased by 20% and then decreased by 20%, what is the net change percentage? Let the number be 100. Increased by 20% becomes 120. Decreased by 20% of 120 is 24, so 96. Net change is -4%, so 4% decrease.
+
+Eighth question: A shopkeeper sells an article for ₹480 at a loss of 20%. Find the cost price. SP = 80% of CP → 480 = 0.8CP → CP = 600. So answer is 600.
+
+Ninth question: The population of a town increases by 10% every year. If the current population is 10000, what will it be after 2 years? 10000 * 1.1 * 1.1 = 12100. Answer is 12100.
+
+Tenth question: A dishonest shopkeeper sells goods at CP but gives 900 grams for 1 kg. What's the profit percent? He sells 900 grams but charges for 1000. So profit is 100 grams on 900. (100/900)*100 ≈11.11%. Answer is 11.11%.
+
+Now, I need to structure each of these into the JSON format, ensuring translations are accurate and the options are correctly placed. Let me check each question for calculation errors and ensure explanations are clear in both languages.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "If a product is bought for ₹500 and sold for ₹600, what is the profit percentage?",
+    "question_hi": "यदि कोई उत्पाद ₹500 में खरीदा जाता है और ₹600 में बेचा जाता है, तो लाभ प्रतिशत क्या है?",
+    "A_en": "10%", "A_hi": "10%",
+    "B_en": "15%", "B_hi": "15%",
+    "C_en": "20%", "C_hi": "20%",
+    "D_en": "25%", "D_hi": "25%",
+    "answer": "C",
+    "explanation_en": "Profit = Selling Price - Cost Price = 600 - 500 = ₹100. Profit Percentage = (Profit / Cost Price) * 100 = (100 / 500) * 100 = 20%.",
+    "explanation_hi": "लाभ = बिक्री मूल्य - क्रय मूल्य = 600 - 500 = ₹100। लाभ प्रतिशत = (लाभ / क्रय मूल्य) * 100 = (100 / 500) * 100 = 20%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "A shopkeeper gives a 10% discount on a product. If the marked price is ₹1000, what is the selling price?",
+    "question_hi": "एक दुकानदार एक उत्पाद पर 10% छूट देता है। यदि अंकित मूल्य ₹1000 है, तो बिक्री मूल्य क्या है?",
+    "A_en": "₹900", "A_hi": "₹900",
+    "B_en": "₹950", "B_hi": "₹950",
+    "C_en": "₹850", "C_hi": "₹850",
+    "D_en": "₹1010", "D_hi": "₹1010",
+    "answer": "A",
+    "explanation_en": "Discount = 10% of ₹1000 = ₹100. Selling Price = Marked Price - Discount = 1000 - 100 = ₹900.",
+    "explanation_hi": "छूट = ₹1000 का 10% = ₹100। बिक्री मूल्य = अंकित मूल्य - छूट = 1000 - 100 = ₹900।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "If the selling price is 80% of the marked price and the cost price is 75% of the selling price, find the profit percent.",
+    "question_hi": "यदि बिक्री मूल्य अंकित मूल्य का 80% है और क्रय मूल्य बिक्री मूल्य का 75% है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+    "A_en": "30%", "A_hi": "30%",
+    "B_en": "33.33%", "B_hi": "33.33%",
+    "C_en": "40%", "C_hi": "40%",
+    "D_en": "25%", "D_hi": "25%",
+    "answer": "B",
+    "explanation_en": "Let the marked price be ₹100. Selling Price = ₹80. Cost Price = 75% of ₹80 = ₹60. Profit = ₹80 - ₹60 = ₹20. Profit Percent = (20 / 60) * 100 ≈ 33.33%.",
+    "explanation_hi": "माना अंकित मूल्य ₹100 है। बिक्री मूल्य = ₹80। क्रय मूल्य = ₹80 का 75% = ₹60। लाभ = ₹80 - ₹60 = ₹20। लाभ प्रतिशत = (20 / 60) * 100 ≈ 33.33%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "A man sells two horses for ₹2000 each. On one he gains 20% and on the other loses 20%. What is the overall result?",
+    "question_hi": "एक आदमी दो घोड़े ₹2000 प्रत्येक में बेचता है। एक पर वह 20% लाभ कमाता है और दूसरे पर 20% हानि होती है। समग्र परिणाम क्या है?",
+    "A_en": "4% profit", "A_hi": "4% लाभ",
+    "B_en": "2% profit", "B_hi": "2% लाभ",
+    "C_en": "4% loss", "C_hi": "4% हानि",
+    "D_en": "No profit or loss", "D_hi": "कोई लाभ या हानि नहीं",
+    "answer": "C",
+    "explanation_en": "First Horse Cost Price = 2000 / 1.2 ≈ ₹1666.67. Second Horse Cost Price = 2000 / 0.8 = ₹2500. Total Cost Price = ₹4166.67. Total Selling Price = ₹4000. Loss = ₹166.67. Loss Percent = (166.67 / 4166.67) * 100 ≈ 4%.",
+    "explanation_hi": "पहले घोड़े का क्रय मूल्य = 2000 / 1.2 ≈ ₹1666.67। दूसरे घोड़े का क्रय मूल्य = 2000 / 0.8 = ₹2500। कुल क्रय मूल्य = ₹4166.67। कुल बिक्री मूल्य = ₹4000। हानि = ₹166.67। हानि प्रतिशत = (166.67 / 4166.67) * 100 ≈ 4%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "If 20% of a number is 80, then 30% of the same number is:",
+    "question_hi": "यदि किसी संख्या का 20% 80 है, तो उसी संख्या का 30% क्या है?",
+    "A_en": "100", "A_hi": "100",
+    "B_en": "120", "B_hi": "120",
+    "C_en": "140", "C_hi": "140",
+    "D_en": "160", "D_hi": "160",
+    "answer": "B",
+    "explanation_en": "Let the number be x. 0.2x = 80 → x = 400. 30% of x = 0.3 * 400 = 120.",
+    "explanation_hi": "माना संख्या x है। 0.2x = 80 → x = 400। x का 30% = 0.3 * 400 = 120।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "A man buys 10 apples for ₹100 and sells 8 apples for ₹100. Find the profit percent.",
+    "question_hi": "एक आदमी 10 सेब ₹100 में खरीदता है और 8 सेब ₹100 में बेचता है। लाभ प्रतिशत ज्ञात कीजिए।",
+    "A_en": "20%", "A_hi": "20%",
+    "B_en": "25%", "B_hi": "25%",
+    "C_en": "30%", "C_hi": "30%",
+    "D_en": "35%", "D_hi": "35%",
+    "answer": "B",
+    "explanation_en": "Cost Price per apple = ₹10. Selling Price per apple = ₹12.5. Profit per apple = ₹2.5. Profit Percent = (2.5 / 10) * 100 = 25%.",
+    "explanation_hi": "सेब का क्रय मूल्य = ₹10। सेब का बिक्री मूल्य = ₹12.5। प्रति सेब लाभ = ₹2.5। लाभ प्रतिशत = (2.5 / 10) * 100 = 25%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Pratishatta (Percentage), Labh aur Hani (Profit & Loss)",
+    "question_en": "If a number is increased by 20% and then decreased by 20%, what is the net change percentage?",
+    "question_hi": "यदि एक संख्या में 20% की वृद्धि करके फिर 20% की कमी कर दी जाए, तो शुद्ध परिवर्तन प्रतिशत क्या होगा?",
+    "A_en": "4% increase", "A_hi": "4% वृद्धि",
+    "B_en": "4% decrease", "B_hi": "4% कमी",
+    "C_en": "5% increase", "C_hi": "5% वृद्धि",
+    "D_en": "5% decrease", "D_hi": "5% कमी",
+    "answer": "B",
+    "explanation_en": "Let the number be 100. Increased by 20% becomes 120. Decreased by 20% of 120 is 24, so 96. Net change = -4%.",
+    "explanation_hi": "माना संख्या 100 है। 20% वृद्धि के बाद 120 हो जाती है। 12
