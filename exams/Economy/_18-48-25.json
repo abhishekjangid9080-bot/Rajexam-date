@@ -1,0 +1,84 @@
+[
+{
+"subject": "Economy",
+"topic": "Rural Development",
+"question_en": "What is the primary objective of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)?",
+"question_hi": "महात्मा गांधी की राष्ट्रीय उम्मीदवार अधिकारी सत्यंत्र (MGNREGA) का मुख्य प्रतिक्रम क्या है?",
+"A_en": "To provide employment opportunities to rural households.",
+"A_hi": "उम्मीदवार अधिकारी से राजधानी में कर्मयोजना का मुख्य प्रतिक्रम",
+"B_en": "To promote agricultural development in rural areas.",
+"B_hi": "राजधानी में आग्नितिक विकास का मुख्य प्रतिक्रम",
+"C_en": "To create awareness about environmental conservation.",
+"C_hi": "पर्यापान विज्ञान का मुख्य प्रतिक्रम",
+"D_en": "To strengthen the rural infrastructure.",
+"D_hi": "राजधानी के विकास का मुख्य प्रतिक्रम",
+"M_en": "To promote tourism in Rajasthan.",
+"M_hi": "राजस्थान में टुमारिया",
+"N_en": "To enhance the living standard of rural people.",
+"N_hi": "राजधानी में पुर्वागति का मुख्य प्रतिक्रम",
+"Q1": "Which of the following is not a state in India?",
+"Options": [
+{
+"option_en": "Maldives",
+"option_hi": "मल्डीवाई"
+},
+{
+"option_en": "Andaman and Nicobar Islands",
+"option_hi": "अंधना और निकोबार दीवलों"
+},
+{
+"option_en": "Chandigarh",
+"option_hi": "चंदगढ़"
+},
+{
+"option_en": "Capital, Delhi",
+"option_hi": "कैप्लिके, दिल्ली"
+},
+{
+"option_en": "Panvel",
+"option_hi": "पानेवल"
+}
+]
+},
+{
+"subject": "Economy",
+"topic": "GDP",
+"question_en": "What is the nominal GDP of Rajasthan for the year 2020-21?",
+"question_hi": "राजस्थान के 2020-21 संयुक्त GDP ka kaiseमान्यतिन्यार रूमन्यतिन्या",
+"Options": [
+{
+"option_en": "Rs. 3.94 lakh crore",
+"option_hi": "रूमन्यतिन्या 3.94 क्रोर",
+"answer": "Rs. 3.94 lakh crore"
+},
+{
+"option_en": "Rs. 3.81 lakh crore",
+"option_hi": "रूमन्यतिन्या कोरि",
+},
+{
+"option_en": "Rs. 3.5 lakh crore",
+"option_hi": "रूमन्यतिन्या 3.5 क्रोर",
+},
+{
+"option_en": "Rs. 3.22 lakh crore",
+"option_hi": "रूमन्यतिन्या 3.22 क्रोर",
+},
+{
+"option_en": "Rs. 2.96 lakh crore",
+"option_hi": "रूमन्यतिन्या 2.96 क्रोर",
+},
+{
+"option_en": "Rs. 2.7 lakh crore",
+"option_hi": "रूमन्यतिन्यतिन्या 2.7 क्रोर",
+},
+{
+"option_en": "Rs. 2.4 lakh crore",
+"option_hi": "रूमन्यतिन्यतिन्या 2.4 क्रोर",
+},
+{
+"option_en": "Rs. 2 lakh crore",
+"option_hi": "रूमन्यतिन्या 2 क्रोर",
+}
+]
+]
+]
