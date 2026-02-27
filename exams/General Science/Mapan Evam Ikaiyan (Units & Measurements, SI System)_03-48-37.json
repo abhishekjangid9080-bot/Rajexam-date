@@ -1,0 +1,146 @@
+<think>
+Okay, let's start by understanding the task. The user wants 10 high-quality MCQs on Units & Measurements and the SI System in General Science. The questions need to be in both Hindi and English, with explanations in both languages. The JSON format is crucial here, following the provided example.
+
+First, I need to recall key points under the topic. SI units, fundamental and derived units, measurement standards, prefixes, etc. Let me brainstorm possible questions. For example, which SI unit is for mass? What's the unit for electric current? Maybe some history, like who the SI system is named after. Also, common mistakes people make, like confusing weight with mass, which units are derived, etc.
+
+Now, each question must have four options. The answer is one of A, B, C, or D. The explanations need to be concise but accurate. Let me check if I remember correctly: the SI unit for temperature is Kelvin, correct. Electric current is Ampere. Luminous intensity is Candela. Plane angle is radian, which is a derived unit. Ohm for resistance, which is derived from volts per ampere. 
+
+Wait, the ampere is a base unit, not derived. Ohm is derived. So a question could be about which is a derived unit. Also, prefixes like nano (10^-9), micro (10^-6), etc. Need to ensure that options are not too close. Let me make sure each question is distinct and covers different aspects.
+
+I should also include some questions on measuring instruments, like the unit used by a thermometer (Kelvin or Celsius), but since Kelvin is the SI unit for temperature, that's a good point. Another could be about the unit of energy, which is Joule. Need to verify each fact to avoid errors. Let me start drafting each question step by step, ensuring the Hindi translation is accurate. Also, the explanations must clarify why the correct answer is right and why others are incorrect. 
+
+Let me check each question for clarity and accuracy. For example, the SI unit for time is second, correct. Fundamental units are the base units from which others are derived. Radian is a derived unit. Ohm is derived from volts per ampere. The prefixes need correct exponents. Each question should test a specific concept without ambiguity. Once all 10 are drafted, I'll format them into JSON as per the example, making sure no extra text is included. Finally, verify that all fields are filled correctly and the JSON is valid.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following is the SI unit of mass?",
+    "question_hi": "निम्नलिखित में से कौन द्रव्यमान की SI इकाई है?",
+    "A_en": "Kilogram", "A_hi": "किलोग्राम",
+    "B_en": "Gram", "B_hi": "ग्राम",
+    "C_en": "Pound", "C_hi": "पाउंड",
+    "D_en": "Ton", "D_hi": "टन",
+    "answer": "A",
+    "explanation_en": "The SI unit of mass is kilogram.",
+    "explanation_hi": "द्रव्यमान की SI इकाई किलोग्राम है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of electric current?",
+    "question_hi": "विद्युत धारा की SI इकाई क्या है?",
+    "A_en": "Ampere", "A_hi": "एम्पियर",
+    "B_en": "Coulomb", "B_hi": "कूलॉम्ब",
+    "C_en": "Ohm", "C_hi": "ओम",
+    "D_en": "Volt", "D_hi": "वोल्ट",
+    "answer": "A",
+    "explanation_en": "The SI unit of electric current is ampere.",
+    "explanation_hi": "विद्युत धारा की SI इकाई एम्पियर है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following is the SI unit of temperature?",
+    "question_hi": "निम्नलिखित में से कौन तापमान की SI इकाई है?",
+    "A_en": "Celsius", "A_hi": "सेल्सियस",
+    "B_en": "Fahrenheit", "B_hi": "फैरेनहाइट",
+    "C_en": "Kelvin", "C_hi": "केल्विन",
+    "D_en": "Rankine", "D_hi": "रैंकिन",
+    "answer": "C",
+    "explanation_en": "The SI unit of temperature is kelvin.",
+    "explanation_hi": "तापमान की SI इकाई केल्विन है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of luminous intensity?",
+    "question_hi": "ज्योति तीव्रता की SI इकाई क्या है?",
+    "A_en": "Candela", "A_hi": "कैंडेला",
+    "B_en": "Lux", "B_hi": "लक्स",
+    "C_en": "Lumen", "C_hi": "ल्यूमेन",
+    "D_en": "Watt", "D_hi": "वाट",
+    "answer": "A",
+    "explanation_en": "The SI unit of luminous intensity is candela.",
+    "explanation_hi": "ज्योति तीव्रता की SI इकाई कैंडेला है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following is a derived unit?",
+    "question_hi": "निम्नलिखित में से कौन एक व्युत्पन्न इकाई है?",
+    "A_en": "Meter", "A_hi": "मीटर",
+    "B_en": "Kilogram", "B_hi": "किलोग्राम",
+    "C_en": "Ampere", "C_hi": "एम्पियर",
+    "D_en": "Ohm", "D_hi": "ओम",
+    "answer": "D",
+    "explanation_en": "Ohm is a derived unit of electrical resistance.",
+    "explanation_hi": "ओम विद्युत प्रतिरोध की व्युत्पन्न इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of energy?",
+    "question_hi": "ऊर्जा की SI इकाई क्या है?",
+    "A_en": "Joule", "A_hi": "जूल",
+    "B_en": "Watt", "B_hi": "वाट",
+    "C_en": "Calorie", "C_hi": "कैलोरी",
+    "D_en": "Kilowatt-hour", "D_hi": "किलोवाट-घंटा",
+    "answer": "A",
+    "explanation_en": "The SI unit of energy is joule.",
+    "explanation_hi": "ऊर्जा की SI इकाई जूल है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following prefixes represents 10^9?",
+    "question_hi": "निम्नलिखित में से कौन 10^9 को दर्शाता है?",
+    "A_en": "Giga", "A_hi": "गीगा",
+    "B_en": "Mega", "B_hi": "मेगा",
+    "C_en": "Kilo", "C_hi": "किलो",
+    "D_en": "Tera", "D_hi": "टेरा",
+    "answer": "A",
+    "explanation_en": "Giga represents 10^9 in the SI system.",
+    "explanation_hi": "गीगा SI प्रणाली में 10^9 को दर्शाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of power?",
+    "question_hi": "शक्ति की SI इकाई क्या है?",
+    "A_en": "Watt", "A_hi": "वाट",
+    "B_en": "Newton", "B_hi": "न्यूटन",
+    "C_en": "Horsepower", "C_hi": "हॉर्सपावर",
+    "D_en": "Joule", "D_hi": "जूल",
+    "answer": "A",
+    "explanation_en": "The SI unit of power is watt.",
+    "explanation_hi": "शक्ति की SI इकाई वाट है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which SI unit is used to measure plane angle?",
+    "question_hi": "समतल कोण को मापने के लिए किस SI इकाई का उपयोग किया जाता है?",
+    "A_en": "Radian", "A_hi": "रेडियन",
+    "B_en": "Degree", "B_hi": "डिग्री",
+    "C_en": "Steradian", "C_hi": "स्टेरेडियन",
+    "D_en": "Arcminute", "D_hi": "चापमिनट",
+    "answer": "A",
+    "explanation_en": "Radian is the SI unit for measuring plane angles.",
+    "explanation_hi": "समतल कोण को मापने के लिए रेडियन SI इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of pressure?",
+    "question_hi": "दबाव की SI इकाई क्या है?",
+    "A_en": "Pascal", "A_hi": "पास्कल",
+    "B_en": "Bar", "B_hi": "बार",
+    "C_en": "Atmosphere", "C_hi": "वायुमंडलीय",
+    "D_en": "Torr", "D_hi": "टॉर",
+    "answer": "A",
+    "explanation_en": "The SI unit of pressure is pascal.",
+    "explanation_hi": "दबाव की SI इकाई पास्कल है।"
+  }
+]
