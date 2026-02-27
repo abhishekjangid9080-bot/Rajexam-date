@@ -1,0 +1,20 @@
+[
+{
+"subject": "Reasoning",
+"topic": "Analogy (Sadrishyata) aur Classification",
+"question_en": "Match the following pairs of words based on their relationship:",
+"question_hi": "संख्याओं को अध्याय के आधार पर समझें।",
+"A_en": "Countries, Capitals", "A_hi": "देश, नगरपालिका",
+"B_en": "Fruits, Colors", "B_hi": "फल, रंगों",
+"C_en": "Animals, Habits", "C_hi": "जंगलपत्र, पाठ",
+"D_en": "Alphabets, Letters", "D_hi": "अक्षरों, लिपी",
+"answer": "A",
+"explanation_en": "Countries and their capitals share a relationship based on their geographical location.\nFor example, India is a country and its capital is New Delhi.\nIn a similar way, we can match the other country-capital pairs.\n",
+"explanation_hi": "देशों और नगरपालिका के बाद, देश और उनके नगरपालिका, नुसार नगरपालिका को उसे मिलें।\nपर देखिए किसी देश और उसके नगरपालिका के नुसार समझें\nउसे नगरपालिका के विसम्बन्दी से समझें।",
+"answer": "B",
+"explanation_en": "In a similar way to the previous example, match the following countries and their capitals.\nUnderstand that Berlin is the capital of Germany.\nNow, match the other countries and their capitals.\n",
+"explanation_hi": "पिछाया कलापर विस्मान के विसम्बन्दी से समझें।",
+"explanation_en": "For this question, we will prepare questions related to countries and their capitals.\nMatch the correct capital city with its respective country.\nFor example, New Delhi is the capital of India.\nNow, match the other countries and their capitals.\n",
+"explanation_hi": "इस प्रश्न में देश और उनके कामये स्मेलन के विसम्बन्दी से समझें।",
+"explanation": "The following questions will test your ability to identify the relationship between countries and their capitals.\nFind the correct pair of country and capital.\nFor example, India is the capital of New Delhi.\nNow, find the other country-capital pairs.\n",
+]
