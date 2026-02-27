@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic "Aavart Sarani ke Mool Siddhant" (Periodic Table Basics) for Rajasthan State Exams, SSC, and Railway NTPC. Let's start by outlining the key concepts. The basics include structure of the periodic table, groups, periods, classifications like metals, non-metals, metalloids, trends like atomic size, ionization energy, valency, and maybe some key elements.
+
+First question: How many elements are there in the periodic table? I remember the current number is 118. So the options can include common numbers like 100, 112, 118, 120. Answer is 118.
+
+Second question: What are the horizontal rows called? Rows are periods. Options could be groups, periods, blocks, shells. The correct answer is periods.
+
+Third question: Vertical columns are groups. Options same as above. Answer is groups.
+
+Fourth question: Which element is in group 1? Alkali metals. Sodium is in group 1. Options like Sodium, Oxygen, Chlorine, Carbon. Answer is Sodium.
+
+Fifth question: What is the valency of oxygen? Oxygen's valency is 2. Options: 1, 2, 3, 4. Answer is 2.
+
+Sixth question: Which element has the highest electronegativity? Fluorine is the most electronegative. Options: Oxygen, Fluorine, Chlorine, Nitrogen. Answer is Fluorine.
+
+Seventh question: What is the atomic number of Carbon? Carbon is 6. Options: 5, 6, 7, 8. Answer is 6.
+
+Eighth question: Which element is a noble gas? Neon is a noble gas. Options: Neon, Oxygen, Carbon, Nitrogen. Answer is Neon.
+
+Ninth question: What is the trend of atomic size in a group? Atomic size increases down a group. Options: increases, decreases, remains same, varies unpredictably. Answer is increases.
+
+Tenth question: Which is a metalloid? Silicon is a metalloid. Options: Silicon, Sodium, Sulfur, Silver. Answer is Silicon.
+
+Now, translating all questions and options into Hindi. Need to ensure technical terms are correctly translated, like "periods" as "aavart" (aavart means periods) and "groups" as "srae" (srae is the correct term in Hindi). Valency as "kshamata", electronegativity as "vijayta". Also, elements' names in Hindi, e.g., Sodium is सोडियम, Fluorine is फ्लुओरीन, etc.
+
+Check for any inconsistencies. Make sure explanations are concise, in both languages. Ensure the answer options are in order (A, B, C, D) and correct answers are marked accurately. Align the difficulty level to match the target exams, which usually test basic understanding and recall. Avoid any complex or ambiguous questions. Double-check each fact for accuracy.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "How many elements are there in the modern periodic table?",
+    "question_hi": "आधुनिक आवर्त सारणी में कितने तत्व हैं?",
+    "A_en": "100", "A_hi": "100",
+    "B_en": "112", "B_hi": "112",
+    "C_en": "118", "C_hi": "118",
+    "D_en": "120", "D_hi": "120",
+    "answer": "C",
+    "explanation_en": "The modern periodic table contains 118 elements as of now.",
+    "explanation_hi": "वर्तमान में आधुनिक आवर्त सारणी में 118 तत्व हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What are the horizontal rows in the periodic table called?",
+    "question_hi": "आवर्त सारणी में क्षैतिज पंक्तियों को क्या कहा जाता है?",
+    "A_en": "Groups", "A_hi": "समूह",
+    "B_en": "Periods", "B_hi": "आवर्त",
+    "C_en": "Blocks", "C_hi": "ब्लॉक",
+    "D_en": "Shells", "D_hi": "कोश",
+    "answer": "B",
+    "explanation_en": "The horizontal rows in the periodic table are called periods.",
+    "explanation_hi": "आवर्त सारणी में क्षैतिज पंक्तियों को आवर्त कहा जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which element is a noble gas?",
+    "question_hi": "कौन सा तत्व एक उत्साहक गैस है?",
+    "A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+    "B_en": "Nitrogen", "B_hi": "नाइट्रोजन",
+    "C_en": "Neon", "C_hi": "नियॉन",
+    "D_en": "Carbon", "D_hi": "कार्बन",
+    "answer": "C",
+    "explanation_en": "Neon is a noble gas found in the last column of the periodic table.",
+    "explanation_hi": "नियॉन आवर्त सारणी के अंतिम स्तंभ में एक उत्साहक गैस है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What is the valency of oxygen?",
+    "question_hi": "ऑक्सीजन की क्षमता क्या है?",
+    "A_en": "1", "A_hi": "1",
+    "B_en": "2", "B_hi": "2",
+    "C_en": "3", "C_hi": "3",
+    "D_en": "4", "D_hi": "4",
+    "answer": "B",
+    "explanation_en": "Oxygen has a valency of 2 as it needs two electrons to complete its octet.",
+    "explanation_hi": "ऑक्सीजन की क्षमता 2 है क्योंकि इसे अपना ऑक्टेट पूरा करने के लिए दो इलेक्ट्रॉन की आवश्यकता होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which element has the highest electronegativity?",
+    "question_hi": "किस तत्व में सबसे अधिक विद्युत ऋणात्मकता है?",
+    "A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+    "B_en": "Fluorine", "B_hi": "फ्लुओरीन",
+    "C_en": "Chlorine", "C_hi": "क्लोरीन",
+    "D_en": "Nitrogen", "D_hi": "नाइट्रोजन",
+    "answer": "B",
+    "explanation_en": "Fluorine is the most electronegative element on the periodic table.",
+    "explanation_hi": "फ्लुओरीन आवर्त सारणी में सबसे अधिक विद्युत ऋणात्मक तत्व है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What is the atomic number of Carbon?",
+    "question_hi": "कार्बन की परमाणु संख्या क्या है?",
+    "A_en": "5", "A_hi": "5",
+    "B_en": "6", "B_hi": "6",
+    "C_en": "7", "C_hi": "7",
+    "D_en": "8", "D_hi": "8",
+    "answer": "B",
+    "explanation_en": "Carbon has an atomic number of 6, indicating 6 protons in its nucleus.",
+    "explanation_hi": "कार्बन की परमाणु संख्या 6 है, जिसका अर्थ है कि इसके नाभिक में 6 प्रोटॉन होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which element is a metalloid?",
+    "question_hi": "कौन सा तत्व धातुमल या अर्धचालक है?",
+    "A_en": "Silicon", "A_hi": "सिलिकॉन",
+    "B_en": "Sodium", "B_hi": "सोडियम",
+    "C_en": "Sulfur", "C_hi": "सल्फर",
+    "D_en": "Silver", "D_hi": "चांदी",
+    "answer": "A",
+    "explanation_en": "Silicon is a metalloid, exhibiting properties of both metals and non-metals.",
+    "explanation_hi": "सिलिकॉन धातुमल है, जो धातुओं और अधातुओं दोनों के गुण दर्शाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "How does atomic size change in a group?",
+    "question_hi": "एक समूह में परमाणु आकार में कैसा परिवर्तन होता है?",
+    "A_en": "Increases down the group", "A_hi": "समूह में नीचे बढ़ने पर बढ़ता है",
+    "B_en": "Decreases up the group", "B_hi": "समूह में ऊपर बढ़ने पर घटता है",
+    "C_en": "Remains the same", "C_hi": "अपरिवर्तित रहता है",
+    "D_en": "Increases up the group", "D_hi": "समूह में ऊपर बढ़ने पर बढ़ता है",
+    "answer": "A",
+    "explanation_en": "Atomic size increases as you move down a group due to additional electron shells.",
+    "explanation_hi": "एक समूह में नीचे बढ़ने पर अतिरिक्त इलेक्ट्रॉन कक्षा के कारण परमाणु आकार बढ़ता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which element is in group 1 of the periodic table?",
+    "question_hi": "आवर्त सारणी के समूह 1 में कौन सा तत्व है?",
+    "A_en": "Sodium", "A_hi": "सोडियम",
+    "B_en": "Oxygen", "B_hi": "ऑक्सीजन",
+    "C_en": "Chlorine", "C_hi": "क्लोरीन",
+    "D_en": "Carbon", "D_hi": "कार्बन",
+    "answer": "A",
+    "explanation_en": "Sodium belongs to group 1, the alkali metals in the periodic table.",
+    "explanation_hi": "सोडियम आवर्त सारणी में समूह 1, क्षार धातुओं का एक तत्व है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What is the primary basis of the modern periodic table?",
+    "question_hi": "आधुनिक आवर्त सारणी के आधार क्या है?",
+    "A_en": "Atomic mass", "A_hi": "परमाणु द्रव्यमान",
+    "B_en": "Atomic number", "B_hi": "परमाणु संख्या",
+    "C_en": "Density", "C_hi": "घनत्व",
+    "D_en": "Electronegativity", "D_hi": "विद्युत ऋणात्मकता",
+    "answer": "B",
+    "explanation_en": "The modern periodic table is organized based on increasing atomic number.",
+    "explanation_hi": "आधुनिक आवर्त सारणी को बढ़ते क्रम में परमाणु संख्या के आधार पर क्रमबद्ध किया गया है।"
+  }
+]
