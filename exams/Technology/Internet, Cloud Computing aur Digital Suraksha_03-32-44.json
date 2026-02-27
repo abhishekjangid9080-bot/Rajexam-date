@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Technology related to Internet, Cloud Computing, and Digital Security. The user specified that each question and options should be in both Hindi and English, in Testbook style. The JSON structure is strict, and the difficulty level should be set according to Technology standards.
+
+First, I'll start by brainstorming topics within the given subject areas. For the Internet, possible topics could be protocols, types of networks, web security. Cloud Computing might cover services like IaaS, PaaS, SaaS, deployment models, security in cloud. Digital Security could include encryption, antivirus, firewalls, phishing, etc.
+
+Let me think of the first question. Maybe about the main purpose of HTTPS. That's a common Internet security topic. The answer is secure communication. I need to translate the question and options into Hindi. Then provide explanations in both languages.
+
+Next, for Cloud Computing, a question on types of cloud services. IaaS, PaaS, SaaS are key terms. The question could ask which is not a service model, with an option like DaaS (maybe that's not a standard model) but wait, DaaS is Desktop as a Service, which is a type under SaaS. Hmm, maybe the correct answer is DaaS if the question is about which is not part of the core models. Alternatively, maybe a question on deployment models like public, private, hybrid.
+
+For Digital Security, topics like two-factor authentication, encryption types, phishing examples. A question on which is the strongest encryption algorithm, like AES vs DES.
+
+Need to ensure that each question has four options, with one correct answer. The explanations should be concise but informative.
+
+Let me outline each question step by step, making sure the Hindi and English versions are accurate. Also, check that the difficulty is appropriate for the exams mentioned (Rajasthan LDC, CET, RAS, SSC, Railways NTPC). Avoid technical jargon that's too complex, but still ensure the questions are challenging enough.
+
+For example, Q1: HTTPS purpose. Q2: Cloud service models. Q3: Digital signature purpose. Q4: Two-factor authentication example. Q5: Encryption algorithm. Q6: Public vs private cloud. Q7: Secure email encryption. Q8: Man-in-the-middle attack example. Q9: Cloud deployment model. Q10: Antivirus function.
+
+I need to verify the accuracy of each answer. For instance, HTTPS uses TLS/SSL for encryption. SaaS is Software as a Service. Digital signatures ensure authenticity and integrity. Two-factor authentication uses something you know (password) and have (token). AES is a strong encryption algorithm. Public cloud is third-party managed, private for single organization. PGP for email encryption. Man-in-the-middle attack intercepts communication. Hybrid cloud combines public and private. Antivirus detects and removes malware.
+
+Now, translating each question into Hindi accurately. For example, "HTTPS का मुख्य उद्देश्य क्या है?" for the first question. Options in both languages. Make sure the Hindi is correct and matches the English.
+
+Check explanations for clarity. For example, HTTPS explanation in English: "HTTPS encrypts data to secure communication over the internet." Similarly in Hindi: "एचटीटीपीएस इंटरनेट पर सुरक्षित संचार के लिए डेटा को एन्क्रिप्ट करता है।"
+
+Proceeding to create each of the 10 questions following this approach, ensuring all fields in the JSON are correctly filled, and the format is strictly followed. No markdown, just raw JSON. Also, confirm that the answer options are correctly labeled (A, B, C, D) and the correct answer is chosen.
+</think>
+
+[
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "What is the primary purpose of HTTPS?",
+        "question_hi": "एचटीटीपीएस का मुख्य उद्देश्य क्या है?",
+        "A_en": "Secure data transmission", "A_hi": "सुरक्षित डेटा संचार",
+        "B_en": "Faster web browsing", "B_hi": "तेज़ वेब ब्राउज़िंग",
+        "C_en": "Website caching", "C_hi": "वेबसाइट कैशिंग",
+        "D_en": "Email encryption", "D_hi": "ईमेल एन्क्रिप्शन",
+        "answer": "A",
+        "explanation_en": "HTTPS encrypts data to secure communication over the internet.",
+        "explanation_hi": "एचटीटीपीएस इंटरनेट पर सुरक्षित संचार के लिए डेटा को एन्क्रिप्ट करता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "Which of the following is NOT a cloud computing service model?",
+        "question_hi": "निम्नलिखित में से कौन-सा क्लाउड कंप्यूटिंग सेवा मॉडल नहीं है?",
+        "A_en": "IaaS", "A_hi": "IaaS",
+        "B_en": "PaaS", "B_hi": "PaaS",
+        "C_en": "SaaS", "C_hi": "SaaS",
+        "D_en": "DaaS", "D_hi": "DaaS",
+        "answer": "D",
+        "explanation_en": "DaaS (Desktop as a Service) is a specific use case, not a primary service model.",
+        "explanation_hi": "DaaS (डेस्कटॉप एज़ ए सर्विस) एक विशिष्ट उपयोग का मामला है, प्राथमिक सेवा मॉडल नहीं है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "What is the purpose of a digital signature?",
+        "question_hi": "डिजिटल संकेतक का उद्देश्य क्या है?",
+        "A_en": "Data encryption", "A_hi": "डेटा एन्क्रिप्शन",
+        "B_en": "User authentication", "B_hi": "उपयोगकर्ता प्रमाणीकरण",
+        "C_en": "Message integrity and authenticity", "C_hi": "संदेश पूर्णता और वैधता",
+        "D_en": "Firewall configuration", "D_hi": "फायरवॉल कॉन्फ़िगरेशन",
+        "answer": "C",
+        "explanation_en": "Digital signatures ensure the message has not been altered and verify the sender's identity.",
+        "explanation_hi": "डिजिटल संकेतक सुनिश्चित करते हैं कि संदेश बदला नहीं गया है और भेजकर्ता की पहचान सत्यापित करते हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "Which of the following is an example of two-factor authentication?",
+        "question_hi": "निम्नलिखित में से कौन-सा दो-कारक प्रमाणीकरण का एक उदाहरण है?",
+        "A_en": "Password and fingerprint", "A_hi": "पासवर्ड और अंगूठाछाप",
+        "B_en": "Username and password", "B_hi": "उपयोगकर्ता नाम और पासवर्ड",
+        "C_en": "PIN and pattern", "C_hi": "पिन और पैटर्न",
+        "D_en": "Email and username", "D_hi": "ईमेल और उपयोगकर्ता नाम",
+        "answer": "A",
+        "explanation_en": "Two-factor authentication requires two distinct forms of identification.",
+        "explanation_hi": "दो-कारक प्रमाणीकरण को दो अलग-अलग पहचान स्वरूपों की आवश्यकता होती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "Which encryption algorithm is considered the most secure?",
+        "question_hi": "कौन-सा एन्क्रिप्शन एल्गोरिथ्म सबसे सुरक्षित माना जाता है?",
+        "A_en": "DES", "A_hi": "DES",
+        "B_en": "3DES", "B_hi": "3DES",
+        "C_en": "AES", "C_hi": "AES",
+        "D_en": "RSA", "D_hi": "RSA",
+        "answer": "C",
+        "explanation_en": "AES (Advanced Encryption Standard) is widely used for its high security and efficiency.",
+        "explanation_hi": "AES (एडवांस्ड एन्क्रिप्शन स्टैंडर्ड) उच्च सुरक्षा और दक्षता के कारण व्यापक रूप से उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "Which of the following is a public cloud service provider?",
+        "question_hi": "निम्नलिखित में से कौन एक पब्लिक क्लाउड सेवा प्रदाता है?",
+        "A_en": "AWS", "A_hi": "AWS",
+        "B_en": "Google Workspace", "B_hi": "गूगल वर्कस्पेस",
+        "C_en": "Microsoft Azure", "C_hi": "माइक्रोसॉफ्ट एज़र",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "AWS, Google Workspace, and Microsoft Azure are major public cloud providers.",
+        "explanation_hi": "AWS, गूगल वर्कस्पेस और माइक्रोसॉफ्ट एज़र मुख्य पब्लिक क्लाउड प्रदाता हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "Which protocol is used for secure email communication?",
+        "question_hi": "सुरक्षित ईमेल संचार के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+        "A_en": "SMTP", "A_hi": "SMTP",
+        "B_en": "IMAP", "B_hi": "IMAP",
+        "C_en": "POP3", "C_hi": "POP3",
+        "D_en": "PGP", "D_hi": "PGP",
+        "answer": "D",
+        "explanation_en": "PGP (Pretty Good Privacy) encrypts emails for secure transmission.",
+        "explanation_hi": "PGP (प्रिटी गुड प्राइवेसी) ईमेल को सुरक्षित ट्रांसमिशन के लिए एन्क्रिप्ट करता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "What is a common example of a man-in-the-middle attack?",
+        "question_hi": "मन-इन-द-मिडलल अटैक का एक सामान्य उदाहरण क्या है?",
+        "A_en": "Phishing emails", "A_hi": "फिशिंग ईमेल",
+        "B_en": "Wi-Fi eavesdropping", "B_hi": "वाई-फ़ाई छापे",
+        "C_en": "Malware installation", "C_hi": "मैलवेयर इंस्टॉलेशन",
+        "D_en": "Password cracking", "D_hi": "पासवर्ड क्रैकिंग",
+        "answer": "B",
+        "explanation_en": "Wi-Fi eavesdropping intercepts data between users and the network.",
+        "explanation_hi": "वाई-फ़ाई छापे उपयोगकर्ता और नेटवर्क के बीच डेटा को बाधित करते हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "Which cloud deployment model combines public and private clouds?",
+        "question_hi": "कौन-सा क्लाउड डिप्लॉयमेंट मॉडल पब्लिक और प्राइवेट क्लाउड को जोड़ता है?",
+        "A_en": "Public", "A_hi": "पब्लिक",
+        "B_en": "Private", "B_hi": "निजी",
+        "C_en": "Hybrid", "C_hi": "हाइब्रिड",
+        "D_en": "Community", "D_hi": "समुदाय",
+        "answer": "C",
+        "explanation_en": "Hybrid cloud integrates public and private cloud resources.",
+        "explanation_hi": "हाइब्रिड क्लाउड पब्लिक और प्राइवेट क्लाउड संसाधनों को एकीकृत करता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Internet, Cloud Computing aur Digital Suraksha",
+        "question_en": "What is the primary function of an antivirus software?",
+        "question_hi": "एंटीवायरस सॉफ्टवेयर का मुख्य कार्य क्या है?",
+        "A_en": "Data compression", "A_hi": "डेटा संपीड़न",
+        "B_en": "Malware detection and removal", "B_hi": "मैलवेयर पहचान और निकालें",
+        "C_en": "Network speed optimization", "C_hi": "नेटवर्क गति अनुकूलन",
+        "D_en": "Disk formatting", "D_hi": "डिस्क फॉरमेटिंग",
+        "answer": "B",
+        "explanation_en": "Antivirus software identifies and removes malicious software from systems.",
+        "explanation_hi": "एंटीवायरस सॉफ्टवेयर प्रणालियों से हानिकारक सॉफ्टवेयर की पहचान करता है और उसे निकालता है।"
+    }
+]
