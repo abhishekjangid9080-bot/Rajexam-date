@@ -1,0 +1,144 @@
+<think>
+Okay, let's start by understanding the user's request. They need 10 high-quality MCQs on the topic of Electric Current, Ohm's Law, and Electric Motors in both Hindi and English. The JSON structure is specific, so I need to make sure each question follows that format strictly.
+
+First, I'll brainstorm topics within the subject. Electric current involves concepts like conductors, insulators, current flow. Ohm's Law is straightforward with V=IR. Electric motors would cover components like armature, commutator, and working principles.
+
+For each question, I need to create a clear question in both languages. The options should be in both languages too. The answer must be one of A, B, C, D. Also, explanations are needed in both languages. I have to ensure that the difficulty level is appropriate for general science exams like Rajasthan's LDC, CET, RAS, SSC, and Railways.
+
+Let me start with the first question on Ohm's Law. The formula is V=IR. The options can include other formulas like P=VI, E=mc², etc. Then, for the second question, maybe about the unit of current. The third could be about conductors. Fourth, electric motor components. Fifth, resistance and length. Sixth, electric motor working principle. Seventh, electric current flow. Eighth, resistivity units. Ninth, electric motor rotation. Tenth, Ohm's Law application.
+
+I need to check that each question is distinct and covers different aspects. Also, the options should be plausible. For example, in resistivity units, the correct answer is ohm-meter, but other options might be ohm, volt, etc. Explanations should be concise but informative. Make sure the translations are accurate. Avoid any technical errors, like confusing resistance with resistivity. Double-check formulas and units. Ensure that the answers are correctly matched with the options. Finally, validate the JSON structure to avoid any formatting issues.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "Which of the following correctly represents Ohm's Law?",
+    "question_hi": "निम्नलिखित में से कौन ओम के नियम को सही ढंग से दर्शाता है?",
+    "A_en": "V = IR", "A_hi": "V = IR",
+    "B_en": "P = VI", "B_hi": "P = VI",
+    "C_en": "E = mc²", "C_hi": "E = mc²",
+    "D_en": "F = ma", "D_hi": "F = ma",
+    "answer": "A",
+    "explanation_en": "Ohm's Law states that voltage (V) equals current (I) multiplied by resistance (R).",
+    "explanation_hi": "ओम के नियम में कहा गया है कि वोल्टेज (V) धारा (I) के बराबर होता है जिसे प्रतिरोध (R) से गुणा किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "What is the unit of electric current?",
+    "question_hi": "विद्युत धारा की इकाई क्या है?",
+    "A_en": "Ohm", "A_hi": "ओम",
+    "B_en": "Ampere", "B_hi": "एम्पियर",
+    "C_en": "Volt", "C_hi": "वोल्ट",
+    "D_en": "Watt", "D_hi": "वाट",
+    "answer": "B",
+    "explanation_en": "The SI unit of electric current is the ampere.",
+    "explanation_hi": "विद्युत धारा की SI इकाई एम्पियर है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "Which material is a good conductor of electricity?",
+    "question_hi": "विद्युत का एक अच्छा चालक कौन-सा पदार्थ है?",
+    "A_en": "Rubber", "A_hi": "रबर",
+    "B_en": "Copper", "B_hi": "ताम्र",
+    "C_en": "Glass", "C_hi": "कांच",
+    "D_en": "Plastic", "D_hi": "प्लास्टिक",
+    "answer": "B",
+    "explanation_en": "Copper is a good conductor of electricity due to its free electrons.",
+    "explanation_hi": "ताम्र विद्युत का अच्छा चालक है क्योंकि इसमें मुक्त इलेक्ट्रॉन होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "What is the function of a commutator in an electric motor?",
+    "question_hi": "विद्युत मोटर में कम्यूटेटर का कार्य क्या है?",
+    "A_en": "To produce magnetic field", "A_hi": "चुंबकीय क्षेत्र उत्पन्न करना",
+    "B_en": "To reverse current direction", "B_hi": "धारा की दिशा उलटना",
+    "C_en": "To generate electricity", "C_hi": "विद्युत उत्पन्न करना",
+    "D_en": "To increase voltage", "D_hi": "वोल्टेज बढ़ाना",
+    "answer": "B",
+    "explanation_en": "The commutator reverses the direction of current in the coil to maintain rotation.",
+    "explanation_hi": "कम्यूटेटर कुंडली में धारा की दिशा को उलटता है ताकि घूर्णन बना रहे।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "How does the resistance of a conductor change with its length?",
+    "question_hi": "एक चालक का प्रतिरोध उसकी लंबाई के साथ कैसे बदलता है?",
+    "A_en": "Increases with length", "A_hi": "लंबाई के साथ बढ़ता है",
+    "B_en": "Decreases with length", "B_hi": "लंबाई के साथ घटता है",
+    "C_en": "Remains constant", "C_hi": "अपरिवर्तित रहता है",
+    "D_en": "Varies inversely with length", "D_hi": "लंबाई के व्युत्क्रमानुपाती रूप से भिन्न होता है",
+    "answer": "A",
+    "explanation_en": "Resistance is directly proportional to the length of the conductor.",
+    "explanation_hi": "प्रतिरोध चालक की लंबाई के सीधे आनुपातिक होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "Which law explains the working principle of an electric motor?",
+    "question_hi": "विद्युत मोटर की कार्य प्रणाली को कौन-सा नियम समझाता है?",
+    "A_en": "Ohm's Law", "A_hi": "ओम का नियम",
+    "B_en": "Faraday's Law", "B_hi": "फैराडे का नियम",
+    "C_en": "Newton's Law", "C_hi": "न्यूटन का नियम",
+    "D_en": "Faraday's Law of Electrolysis", "D_hi": "फैराडे का विद्युत अपघटन का नियम",
+    "answer": "B",
+    "explanation_en": "Faraday's Law of Electromagnetic Induction explains how a motor converts electrical energy into mechanical motion.",
+    "explanation_hi": "फैराडे का विद्युत चुंबकीय प्रेरण का नियम यह समझाता है कि विद्युत मोटर विद्युत ऊर्जा को यांत्रिक गति में कैसे बदलता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "What is the flow of electric current in a conductor?",
+    "question_hi": "एक चालक में विद्युत धारा का प्रवाह क्या होता है?",
+    "A_en": "Flow of atoms", "A_hi": "परमाणुओं का प्रवाह",
+    "B_en": "Flow of neutrons", "B_hi": "न्यूट्रॉनों का प्रवाह",
+    "C_en": "Flow of electrons", "C_hi": "इलेक्ट्रॉनों का प्रवाह",
+    "D_en": "Flow of protons", "D_hi": "प्रोटॉनों का प्रवाह",
+    "answer": "C",
+    "explanation_en": "Electric current is the flow of electrons through a conductor.",
+    "explanation_hi": "विद्युत धारा एक चालक में इलेक्ट्रॉनों के प्रवाह के कारण होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "What is the SI unit of resistivity?",
+    "question_hi": "प्रतिरोधकता की SI इकाई क्या है?",
+    "A_en": "Ohm/meter", "A_hi": "ओम/मीटर",
+    "B_en": "Ohm-meter", "B_hi": "ओम-मीटर",
+    "C_en": "Ohm", "C_hi": "ओम",
+    "D_en": "Volt", "D_hi": "वोल्ट",
+    "answer": "B",
+    "explanation_en": "The SI unit of resistivity is ohm-meter (Ω·m).",
+    "explanation_hi": "प्रतिरोधकता की SI इकाई ओम-मीटर (Ω·मी) है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "Which component in an electric motor ensures continuous rotation?",
+    "question_hi": "विद्युत मोटर में सतत घूर्णन सुनिश्चित करने वाला घटक कौन-सा है?",
+    "A_en": "Armature", "A_hi": "आर्मेचर",
+    "B_en": "Commutator", "B_hi": "कम्यूटेटर",
+    "C_en": "Brush", "C_hi": "ब्रश",
+    "D_en": "Magnet", "D_hi": "चुंबक",
+    "answer": "A",
+    "explanation_en": "The armature rotates in the magnetic field to produce continuous motion.",
+    "explanation_hi": "आर्मेचर चुंबकीय क्षेत्र में घूमता है जिससे निरंतर गति उत्पन्न होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+    "question_en": "What happens to the current in a circuit if the resistance doubles?",
+    "question_hi": "एक परिपथ में धारा क्या होती है यदि प्रतिरोध दुगना हो जाए?",
+    "A_en": "Current doubles", "A_hi": "धारा दुगुनी हो जाती है",
+    "B_en": "Current halves", "B_hi": "धारा आधी हो जाती है",
+    "C_en": "Current remains same", "C_hi": "धारा वही रहती है",
+    "D_en": "Current becomes four times", "D_hi": "धारा चार गुनी हो जाती है",
+    "answer": "B",
+    "explanation_en": "According to Ohm's Law, current (I) is inversely proportional to resistance (R).",
+    "explanation_hi": "ओम के नियम के अनुसार, धारा (I) प्रतिरोध (R) के व्युत्क्रमानुपाती होती है।"
+  }
+]
