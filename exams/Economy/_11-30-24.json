@@ -1,0 +1,21 @@
+[
+{
+"subject": "Economy",
+"topic": "Indian Economy",
+"question_en": "Which of the following is not a part of National Highways in India?",
+"question_hi": "भारत के नेत्यागदों में कौन से नहीं है।",
+"A_en": "NH-7",
+"A_hi": "NH-7",
+"B_en": "NH-2",
+"B_hi": "NH-2",
+"C_en": "NH-5",
+"C_hi": "NH-5",
+"D_en": "NH-9",
+"D_hi": "NH-9",
+"answer": "B",
+"explanation_en": "NH-2 is not a part of National Highways in India.",
+"explanation_hi": "भारत के नेत्यागदों में NH-2 नहीं है।",
+"explanation_en": "The explanation in English language is already provided in the options description.",
+"explanation_hi": "NH-2 भारत के नेत्यागदों में नहीं है।",
+}
+]
