@@ -1,0 +1,71 @@
+[
+{
+"subject": "Economy",
+"topic": "Economic Development in India",
+"question_en": "What is the primary objective of the National Rural Employment Guarantee Act (NREGA)?",
+"question_hi": "राज्य भागूता के अधिकांक (RB) के निर्माता अधिकांक (RB Accountant) के लिए क्या सरकारी की मदद को मंजूरी है।",
+"options": [
+{
+"option_en": "To provide financial assistance to small and marginal farmers.",
+"option_hi": "सामान्य और कम केंद्रीय किस्मता को मदद करना",
+"option_explanation_en": "To provide financial assistance to small and marginal farmers.",
+"option_explanation_hi": "सामान्य और कम केंद्रीय किस्मता को मदद करना",
+"answer": "Option 1",
+"answer_hi": "सीधित केंद्रीय किस्मता को मदद करने की योजना",
+"correct_explanation": "सामान्य केंद्रीय किस्मता की योजना",
+"wrong_explanation": "किस्मता की योजना",
+"type": "MCQ",
+"question_type": "MCQ",
+"question_en": "Which of the following is a significant sector of India's economy?",
+"question_hi": "भारतीय निवेशन के केवला की योजना",
+"options": [
+{
+"option_en": "Agriculture",
+"option_hi": "कट्टर्वास्ता",
+"value": "Agriculture",
+"correct": true,
+"answer_value": "Agriculture"
+},
+{
+"option_en": "Manufacturing",
+"option_hi": "तलालियां",
+"value": "Manufacturing",
+"correct": false,
+"answer_value": "Manufacturing"
+},
+{
+"option_en": "Service Sector",
+"option_hi": "सेवा विभाग",
+"value": "Service Sector",
+"correct": false,
+"answer_value": "Service Sector"
+},
+{
+"option_en": "Infrastructure",
+"option_hi": "इंस्ट्रूटाइन",
+"value": "Infrastructure",
+"correct": false,
+"answer_value": "Infrastructure"
+},
+{
+"option_en": "Trade",
+"option_hi": "ट्राड",
+"value": "Trade",
+"correct": false,
+"answer_value": "Trade"
+},
+{
+"option_en": "Education",
+"option_hi": "एडमिट",
+"value": "Education",
+"correct": false,
+"answer_value": "Education"
+}
+],
+"question_en": "Which sector has been given priority in the Indian economy?",
+"question_hi": "भारतीय नौकर्तात्रात्रात्र",
+"question_type": "MCQ",
+"question_difficulty": "Medium",
+"difficulty_level": "Medium"
+}
+]
