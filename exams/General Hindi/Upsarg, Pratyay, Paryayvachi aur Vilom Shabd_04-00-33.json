@@ -1,0 +1,167 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for the General Hindi subject, specifically covering Upsarg (prefixes), Pratyay (suffixes), Paryayvachi (synonyms), and Vilom Shabd (antonyms). The format needs to be in JSON, with each question in both English and Hindi, along with options and explanations in both languages. 
+
+First, I need to make sure each question addresses one of the four topics. Let's start by brainstorming some examples for each category. For Upsarg, maybe questions about identifying the correct prefix in a word. For Pratyay, perhaps asking about the suffix of a given word. Paryayvachi could involve choosing a synonym, and Vilom Shabd would be about antonyms.
+
+I should ensure the questions are of moderate difficulty suitable for exams like Rajasthan State Exams, SSC, and Railway. The options need to be plausible but with one clear correct answer. Also, the explanations should be concise and accurate. 
+
+Let me start drafting each question. Let's check if the example provided in the instructions matches the required structure. The example was about the capital of Rajasthan, so I need to follow that structure but with the right topics. For instance, the first question could be about the prefix in "अतिक्रमण" (overstep). What's the correct Upsarg here? The options would include different prefixes like "अति", "क्रम", etc.
+
+Next, for Pratyay, take a word like "लेखक" (author) and ask which suffix is used. The options might include "करण", "क", etc. The correct answer would be "क" as the suffix.
+
+For synonyms, maybe "शांत" has synonyms like "कायर" (cowardly), but the correct one would be "मौन" (silent)? Wait, no. Wait, "शांत" means calm or peaceful. A synonym could be "शान्ति" (peace), but that's a noun. Maybe "शांतिमय"? Or perhaps "शांति" is the correct synonym here. Wait, maybe I need to pick a better example. Let me think of another word. How about "विस्मित" (astonished), a synonym could be "चकित" (surprised). 
+
+For antonyms, take "गरीब" (poor) and the antonym would be "अमीर" (rich). 
+
+I need to create 10 such questions, making sure each covers one of the four topics. Let me list them out:
+
+1. Upsarg: Identify the prefix in "अतिक्रमण".
+2. Pratyay: Identify the suffix in "लेखक".
+3. Paryayvachi: Synonym for "शांत".
+4. Vilom Shabd: Antonym for "गरीब".
+5. Upsarg: Identify the prefix in "अनौपचारिक".
+6. Pratyay: Identify the suffix in "संगीत".
+7. Paryayvachi: Synonym for "विशाल".
+8. Vilom Shabd: Antonym for "कठिन".
+9. Upsarg: Identify the prefix in "अस्वीकृत".
+10. Pratyay: Identify the suffix in "स्थायी".
+
+Now, let's structure each question with the required JSON elements. For each question, the options should be in both languages. The explanations need to clarify why the correct answer is right. Let me verify each example to ensure accuracy. For example, in the first question, "अतिक्रमण" has the prefix "अति" and the root word "क्रम", so the correct answer is "अति". 
+
+Also, I need to ensure that the options are not too similar. For instance, in the suffix question for "लेखक", the correct suffix is "क", so other options could be "करण", "कृत", etc.
+
+I should also check for any possible errors in the explanations. For example, in the antonym question for "गरीब", the explanation should state that "अमीर" is the opposite.
+
+Finally, I need to format the JSON correctly, without any markdown, and ensure all fields are present. Let me compile all 10 questions following this structure.
+</think>
+
+[
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'अतिक्रमण' में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "question_hi": "शब्द 'अतिक्रमण' में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "A_en": "अति", "A_hi": "अति",
+  "B_en": "क्रम", "B_hi": "क्रम",
+  "C_en": "मण", "C_hi": "मण",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "'अतिक्रमण' के उपसर्ग 'अति' का अर्थ 'अधिक' है।",
+  "explanation_hi": "'अतिक्रमण' के उपसर्ग 'अति' का अर्थ 'अधिक' है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'लेखक' में कौन-सा प्रत्यय लगा है?",
+  "question_hi": "शब्द 'लेखक' में कौन-सा प्रत्यय लगा है?",
+  "A_en": "करण", "A_hi": "करण",
+  "B_en": "क", "B_hi": "क",
+  "C_en": "कृत", "C_hi": "कृत",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "'लेखक' में प्रत्यय 'क' लगा हुआ है।",
+  "explanation_hi": "'लेखक' में प्रत्यय 'क' लगा हुआ है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'शांत' का समानार्थी शब्द क्या है?",
+  "question_hi": "शब्द 'शांत' का समानार्थी शब्द क्या है?",
+  "A_en": "कायर", "A_hi": "कायर",
+  "B_en": "मौन", "B_hi": "मौन",
+  "C_en": "शांति", "C_hi": "शांति",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "C",
+  "explanation_en": "'शांति' 'शांत' का समानार्थी शब्द है।",
+  "explanation_hi": "'शांति' 'शांत' का समानार्थी शब्द है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'गरीब' का विलोम शब्द क्या है?",
+  "question_hi": "शब्द 'गरीब' का विलोम शब्द क्या है?",
+  "A_en": "समृद्ध", "A_hi": "समृद्ध",
+  "B_en": "अमीर", "B_hi": "अमीर",
+  "C_en": "धनी", "C_hi": "धनी",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "'गरीब' का विलोम शब्द 'अमीर' है।",
+  "explanation_hi": "'गरीब' का विलोम शब्द 'अमीर' है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'अनौपचारिक' में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "question_hi": "शब्द 'अनौपचारिक' में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "A_en": "अन", "A_hi": "अन",
+  "B_en": "उप", "B_hi": "उप",
+  "C_en": "पचार", "C_hi": "पचार",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "'अनौपचारिक' के उपसर्ग 'अन' का अर्थ 'अभाव' या 'अनुपस्थिति' है।",
+  "explanation_hi": "'अनौपचारिक' के उपसर्ग 'अन' का अर्थ 'अभाव' या 'अनुपस्थिति' है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'संगीत' में कौन-सा प्रत्यय लगा है?",
+  "question_hi": "शब्द 'संगीत' में कौन-सा प्रत्यय लगा है?",
+  "A_en": "करण", "A_hi": "करण",
+  "B_en": "त", "B_hi": "त",
+  "C_en": "ईत", "C_hi": "ईत",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "'संगीत' में प्रत्यय 'त' लगा हुआ है।",
+  "explanation_hi": "'संगीत' में प्रत्यय 'त' लगा हुआ है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'विशाल' का समानार्थी शब्द क्या है?",
+  "question_hi": "शब्द 'विशाल' का समानार्थी शब्द क्या है?",
+  "A_en": "छोटा", "A_hi": "छोटा",
+  "B_en": "शिव", "B_hi": "शिव",
+  "C_en": "बड़ा", "C_hi": "बड़ा",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "C",
+  "explanation_en": "'विशाल' का समानार्थी शब्द 'बड़ा' है।",
+  "explanation_hi": "'विशाल' का समानार्थी शब्द 'बड़ा' है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'कठिन' का विलोम शब्द क्या है?",
+  "question_hi": "शब्द 'कठिन' का विलोम शब्द क्या है?",
+  "A_en": "सुगम", "A_hi": "सुगम",
+  "B_en": "आसान", "B_hi": "आसान",
+  "C_en": "कठोर", "C_hi": "कठोर",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "'कठिन' का विलोम शब्द 'आसान' है।",
+  "explanation_hi": "'कठिन' का विलोम शब्द 'आसान' है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'अस्वीकृत' में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "question_hi": "शब्द 'अस्वीकृत' में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+  "A_en": "अ", "A_hi": "अ",
+  "B_en": "स्वीकृत", "B_hi": "स्वीकृत",
+  "C_en": "वीकृत", "C_hi": "वीकृत",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "'अस्वीकृत' के उपसर्ग 'अ' का अर्थ 'नहीं' है।",
+  "explanation_hi": "'अस्वीकृत' के उपसर्ग 'अ' का अर्थ 'नहीं' है।"
+},
+{
+  "subject": "General Hindi",
+  "topic": "Upsarg, Pratyay, Paryayvachi aur Vilom Shabd",
+  "question_en": "शब्द 'स्थायी' में कौन-सा प्रत्यय लगा है?",
+  "question_hi": "शब्द 'स्थायी' में कौन-सा प्रत्यय लगा है?",
+  "A_en": "ई", "A_hi": "ई",
+  "B_en": "आय", "B_hi": "आय",
+  "C_en": "ईय", "C_hi": "ईय",
+  "D_en": "इनमें से कोई नहीं", "D_hi": "इनमें से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "'स्थायी' में प्रत्यय 'आय' लगा हुआ है।",
+  "explanation_hi": "'स्थायी' में प्रत्यय 'आय'
