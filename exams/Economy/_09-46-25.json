@@ -1,0 +1,28 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP of India",
+"question_en": "What is the gross domestic product (GDP) of India in 2021?",
+"question_hi": "2021 में भारत की कॉन्फी क्या थी?",
+"A_en": "Rs. 30 lakh crore",
+"A_hi": "रुपये 30 हजारबिलक्र",
+"B_en": "Rs. 27 lakh crore",
+"B_hi": "रुपये 27 हजारबिलक्र",
+"C_en": "Rs. 28 lakh crore",
+"C_hi": "रुपये 28 हजारबिलक्र",
+"D_en": "Rs. 29 lakh crore",
+"D_hi": "रुपये 29 हजारबिलक्र",
+"answer": "B",
+"explanation_en": "According to the latest available data, the GDP of India in 2021 was Rs. 27 lakh crore. The correct answer is A. However, for the purpose of this question, we have chosen option B as the answer.",
+"explanation_hi": "लगभरी परिमान के लिए, भारत की GDP 2021 में Rs. 27 हजारबिलक्र थी। यह पूछने के लिए मैं option B का उत्तर नंबर को चयन करते हैं, लेकिन पूछने के लिए मैं option A का उत्तर करते हैं।",
+"answer": "A",
+"explanation_en": "According to the latest data, the GDP of India in 2021 was Rs. 27 lakh crore. However, for the purpose of this question, we choose option A as the answer.",
+"explanation_hi": "मैं सबसे पूछने के लिए मैं option A का उत्तर करते हैं।",
+"explanation_en_alt": "According to the latest data, the GDP of India in 2021 was Rs. 27 lakh crore. However, for the purpose of this question, we choose option A as the answer.",
+"explanation_hi_alt": "मैं सबसे पूछने के लिए मैं option A का उत्तर करते हैं।",
+"question_en": "What was the nominal GDP of India in 2021?",
+"question_hi": "क्या भारतीय नोमिलिक GDP वर्ष 2021 में?",
+"question_en_alt": "What was the nominal GDP of India in 2021?",
+"question_hi_alt": "क्या भारतीय नोमिलिक GDP वर्ष 2021 में?"
+}
+]
