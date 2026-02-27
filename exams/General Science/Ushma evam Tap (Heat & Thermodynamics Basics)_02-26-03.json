@@ -1,0 +1,32 @@
+[
+{
+"subject": "General Science",
+"topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+"question_en": "What is the formula for calculating the amount of heat absorbed by a substance?",
+"question_hi": "पदार्थ को विभिन्न में संभाले गए कमी कैसे प्राप्त कीजिए?",
+"A_en": "Q = mcΔT",
+"A_hi": "ΔQ = mcΔT",
+"B_en": "Q = mΔT",
+"B_hi": "ΔQ = mΔT",
+"C_en": "Q = nCvΔT",
+"C_hi": "ΔQ = nCvΔT",
+"D_en": "Q = mRΔT",
+"D_hi": "ΔQ = mRΔT",
+"answer": "C",
+"explanation_en": "The formula for calculating the amount of heat absorbed by a substance is Q = mCvΔT. In this formula, Q represents the heat absorbed, m is the mass of the substance, Cv is the heat capacity at constant volume, ΔT is the change in temperature, and ΔQ is the heat absorbed by the substance. When a substance absorbs heat, its temperature increases. In this case, option C (ΔQ = mCvΔT) is the correct answer.",
+"explanation_hi": "पदार्थ को संभावना में संभावना कैसे प्राप्त के लिए गए प्रतिलेखने के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गलत कैसे प्राप्त के लिए गए गए गए गए प्राप्त के लिए गए गए प्राप्त के लिए गए प्राप्रा्त के लिए गए गए प्राप्त के लिए गए प्रा्त के लिए गए प्रा्त के लिए गए प्रा््त के लिए गए प्रा्त के लिए गए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए प्रा्त के लिए",
+"
+{
+"subject": "General Science",
+"topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+"question_en": "What formula explains the difference in temperature during a process?",
+"question_hi": "का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त का्रा्रा्त",
+"A_en": "ΔT",
+"A_hi": "का्रा्त का्रा्रा्त का्रा्त का्रा्रा्त का्रा्त का्रा्त का्रा्त",
+"B_en": "q",
+"B_hi": "का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त का्रा्त",
+"C_en": "q",
+"C_hi": "का्रा्त का्रा्त का्रा्त का्रा्त",
+"answer": "1",
+"explanation_en": "During a process, the temperature difference (q) is equal to change in q.",
+"explanation_hi": "का्रा्त का्रा्
