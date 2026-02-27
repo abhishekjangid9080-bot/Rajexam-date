@@ -1,0 +1,164 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the subject of Economy, specifically about National Income and the Concept of Prosperity in Hindi. The user wants the questions and options in both Hindi and English, following the Testbook style. Let me start by recalling key points related to National Income and Prosperity.
+
+First, National Income concepts include terms like GDP, GNP, NNP, and per capita income. I should cover different methods of calculating National Income, such as the income method, expenditure method, and value-added method. Also, factors affecting National Income like consumption, investment, government spending, and net exports are important.
+
+Prosperity concepts might involve economic growth indicators, human development index, quality of life, and sustainability. I should ensure that each question tests understanding of these concepts, not just definitions. Maybe include some application-based questions.
+
+I need to structure each question with the topic specified. The answer options should be in both languages. For example, if the question is about GDP, the options should be in English and Hindi. Also, explanations in both languages are required. Let me think of each question step by step.
+
+1. Question about the formula for GDP using the expenditure method. The answer should be C (GDP = C + I + G + (X - M)). Need to make sure the options are clear.
+
+2. A question on which component is excluded from National Income. Transfer payments are not included, so option D.
+
+3. Question about the method that sums all incomes. That's the income method, option B.
+
+4. Which country uses PPP for comparing prosperity? India uses PPP, option C.
+
+5. A question on the difference between NNP and GDP. NNP is GDP minus depreciation, so option A.
+
+6. Which factor increases National Income? Increase in investment, option B.
+
+7. Question on the concept of per capita income. It's total income divided by population, option C.
+
+8. Which activity is included in National Income? Production of goods, option B.
+
+9. A question about the impact of inflation on real vs nominal income. Real income is adjusted for inflation, option D.
+
+10. Question on the most comprehensive measure of prosperity. Sustainable growth, option C.
+
+Now, I need to write each question in both Hindi and English, ensuring the options are correctly labeled. Explanations should be concise and accurate. Check for any errors in translations or economic concepts. Make sure the difficulty level is appropriate for the target exams like Rajasthan State Exams, SSC, and Railway NTPC.
+</think>
+
+[
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kaun sa pramukh tarike se Rashtriya Aay ka hissa nahi hai?",
+"question_hi": "राष्ट्रीय आय के गणना में कौन सा तरीका शामिल नहीं है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "Transfer Payments", "D_hi": "ट्रांसफर भुगतान",
+"answer": "D",
+"explanation_en": "Transfer payments are not included in national income as they do not represent production or income generation.",
+"explanation_hi": "ट्रांसफर भुगतान राष्ट्रीय आय में शामिल नहीं किए जाते हैं क्योंकि ये उत्पादन या आय उत्पादन के प्रतिनिधित्व नहीं करते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Rashtriya Aay ka hissa kis pramukh pramukh vyakti ko shamil nahi hai?",
+"question_hi": "राष्ट्रीय आय के गणना में कौन सा मुख्य घटक शामिल नहीं है?",
+"A_en": "Consumption", "A_hi": "उपभोग",
+"B_en": "Investment", "B_hi": "निवेश",
+"C_en": "Government Expenditure", "C_hi": "सरकारी खरचा",
+"D_en": "Transfer Payments", "D_hi": "ट्रांसफर भुगतान",
+"answer": "D",
+"explanation_en": "Transfer payments are excluded from national income calculations as they do not contribute to production.",
+"explanation_hi": "ट्रांसफर भुगतान राष्ट्रीय आय की गणना में शामिल नहीं किए जाते हैं क्योंकि ये उत्पादन में योगदान नहीं करते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Rashtriya Aay ka hissa kis pramukh vyakti ko shamil nahi hai?",
+"question_hi": "राष्ट्रीय आय के गणना में कौन सा मुख्य घटक शामिल नहीं है?",
+"A_en": "Corporate Profits", "A_hi": "कंपनी के लाभ",
+"B_en": "Interest Income", "B_hi": "ब्याज आय",
+"C_en": "Wages and Salaries", "C_hi": "वेतन और धन",
+"D_en": "Government Transfers", "D_hi": "सरकारी ट्रांसफर",
+"answer": "D",
+"explanation_en": "Government transfers do not directly contribute to production and are excluded from national income.",
+"explanation_hi": "सरकारी ट्रांसफर उत्पादन में सीधा योगदान नहीं करते और राष्ट्रीय आय में शामिल नहीं किए जाते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+"question_en": "Kis tarike se Rashtriya Aay ka hissa sabse adhik pramanit karte hain?",
+"question_hi": "राष्ट्रीय आय के गणना में किस विधि का उपयोग सबसे अधिक संप्रमाणित किया जाता है?",
+"A_en": "Income Method", "A_hi": "आय विधि",
+"B_en": "Expenditure Method", "B_hi": "खरचा विधि",
+"C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three methods (Income, Expenditure, and Value Added) are used to calculate national income.",
+"explanation_hi": "तीनों विधियां (आय, खरचा और मूल्य वर्धित) राष्ट्रीय आय की गणना के लिए उपयोग की जाती हैं।"
+}
+]
