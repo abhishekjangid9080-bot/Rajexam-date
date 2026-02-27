@@ -1,0 +1,162 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments. Let's start by recalling the key points of these amendments.
+
+First, the 73rd Amendment Act (1992) relates to the Panchayati Raj system, while the 74th Amendment (1992) deals with urban local governance. The 73rd Amendment aims to decentralize power by creating local self-governments in rural areas. It mandates the establishment of Panchayats at three levels: village, intermediate (block), and district. Reservation for SCs, STs, and women is a crucial aspect here, with at least one-third of seats reserved for women.
+
+The 74th Amendment is similar but for urban areas. It establishes Municipalities, including Municipal Corporations in large cities. It also emphasizes decentralization and reservations for marginalized groups. Both amendments were passed in 1992 and came into effect around the same time. The minimum age for membership is 21 for both, and the term is five years.
+
+Now, I need to structure questions that test understanding of these key points. Let's outline possible questions:
+
+1. Year of enactment for both amendments.
+2. Reservation percentages for SCs/STs and women.
+3. Levels of Panchayats (village, intermediate, district).
+4. Minimum age for candidacy.
+5. Term duration.
+6. Reservation in urban local bodies (74th Amendment).
+7. Which state implemented this system first.
+8. Which group is not mentioned in the reservation provisions.
+9. The constitutional article where these amendments are incorporated.
+10. Which of the following is not a feature of the 73rd Amendment.
+
+Each question should have four options, with the correct answer and explanations in both Hindi and English. Need to ensure clarity and avoid ambiguity. Also, check for common misconceptions to create distractors.
+
+For example, for the first question about the year, options could include 1989, 1990, 1992, 1995. The correct answer is 1992. Explanations would clarify that both amendments were enacted in 1992.
+
+For reservation percentages, the answer for SCs/STs is 1/4th or 25%, and for women, it's 1/3rd or 33%. Need to present these accurately.
+
+When asking about the levels of Panchayats, the three levels are Gram Panchayat (village), Panchayat Samiti (intermediate), and Zila Parishad (district). Options should include these correct terms and other local bodies like Municipal Corporations as distractors.
+
+The minimum age is 21, so options might include 18, 21, 25, etc. Term is five years, so options could be 3, 5, 7.
+
+For the 74th Amendment's reservation, the options would be similar to the 73rd, but the question is to check if the user knows the urban equivalent.
+
+The state that implemented the system first might be Rajasthan, as it had a well-established Panchayati Raj before the amendments, but the constitutional amendments were passed in 1992. So, the first implementation might be in 1993.
+
+Groups not mentioned in reservations could include OBCs, as the amendments focus on SCs, STs, and women. So a question asking which is not reserved might have OBCs as the correct answer.
+
+Constitutional articles: 73rd Amendment is Article 243B to 243O, 74th is Article 243P to 243ZG. But maybe the question is about the article number itself, like Article 243.
+
+For the last question, identifying a non-feature, options could include something like "No power to levy taxes" if that's not a feature, but actually the amendments do allow them to have powers to levy taxes. So the incorrect feature would be something like that.
+
+Need to ensure that the options are in both languages, explanations are accurate, and the difficulty level is appropriate for state exams. Each question should target a specific aspect of the amendments to test comprehensive understanding.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+    "question_hi": "भारत में पंचायती राज प्रणाली को संविधान में कौन सा संशोधन प्रस्तावित करता है?",
+    "A_en": "73rd Amendment Act, 1992",
+    "A_hi": "73वां संशोधन अधिनियम, 1992",
+    "B_en": "74th Amendment Act, 1992",
+    "B_hi": "74वां संशोधन अधिनियम, 1992",
+    "C_en": "72nd Amendment Act, 1992",
+    "C_hi": "72वां संशोधन अधिनियम, 1992",
+    "D_en": "75th Amendment Act, 1992",
+    "D_hi": "75वां संशोधन अधिनियम, 1992",
+    "answer": "A",
+    "explanation_en": "The 73rd Constitutional Amendment Act (1992) established the Panchayati Raj system, providing constitutional status to local self-government in rural areas.",
+    "explanation_hi": "73वां संविधान संशोधन अधिनियम (1992) ने पंचायती राज प्रणाली को शुरू किया, ग्रामीण क्षेत्रों में स्थानीय स्वशासन को संवैधानिक दर्जा दिया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for Scheduled Castes (SCs) and Scheduled Tribes (STs) in Panchayats under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अधीन पंचायतों में अनुसूचित जातियों (एससी) और अनुसूचित जनजातियों (एसटी) के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+    "A_en": "25%",
+    "A_hi": "25%",
+    "B_en": "33%",
+    "B_hi": "33%",
+    "C_en": "50%",
+    "C_hi": "50%",
+    "D_en": "75%",
+    "D_hi": "75%",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act mandates a reservation of one-fourth (25%) of seats for SCs and STs in Panchayats, along with other marginalized groups.",
+    "explanation_hi": "73वें संशोधन अधिनियम द्वारा पंचायतों में अनुसूचित जातियों और जनजातियों के लिए एक चौथाई (25%) सीटों के आरक्षण का प्रावधान किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a level of Panchayat as per the 73rd Amendment?",
+    "question_hi": "निम्नलिखित में से कौन 73वें संशोधन के अनुसार पंचायत का स्तर नहीं है?",
+    "A_en": "Gram Panchayat",
+    "A_hi": "ग्राम पंचायत",
+    "B_en": "Panchayat Samiti",
+    "B_hi": "पंचायत समिति",
+    "C_en": "Zila Parishad",
+    "C_hi": "जिला परिषद्",
+    "D_en": "Municipal Corporation",
+    "D_hi": "नगर निगम",
+    "answer": "D",
+    "explanation_en": "The 73rd Amendment establishes three-tier Panchayats: Gram Panchayat (village), Panchayat Samiti (intermediate), and Zila Parishad (district). Municipal Corporations are urban bodies under the 74th Amendment.",
+    "explanation_hi": "73वें संशोधन ने तीन स्तरीय पंचायतें स्थापित कीं: ग्राम पंचायत (गांव), पंचायत समिति (मध्यवर्ती) और जिला परिषद (जिला)। नगर निगम 74वें संशोधन के तहत शहरी निकाय हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest elections for a Panchayat seat under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत एक पंचायत सीट के लिए चुनाव में भाग लेने के लिए आयु की न्यूनतम आवश्यकता क्या है?",
+    "A_en": "18 years",
+    "A_hi": "18 वर्ष",
+    "B_en": "21 years",
+    "B_hi": "21 वर्ष",
+    "C_en": "25 years",
+    "C_hi": "25 वर्ष",
+    "D_en": "30 years",
+    "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment requires candidates for Panchayat elections to be at least 21 years old, ensuring maturity and experience in governance.",
+    "explanation_hi": "73वें संशोधन द्वारा पंचायत चुनावों के उम्मीदवारों के लिए 21 वर्ष की न्यूनतम आयु आवश्यकता निर्धारित की गई है, शासन में वयस्कता और अनुभव की आवश्यकता को ध्यान में रखते हुए।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following groups is NOT reserved seats under the 73rd Amendment?",
+    "question_hi": "निम्नलिखित में से कौन सा समूह 73वें संशोधन के तहत आरक्षित सीटों के अधीन नहीं है?",
+    "A_en": "Scheduled Castes",
+    "A_hi": "अनुसूचित जाति",
+    "B_en": "Scheduled Tribes",
+    "B_hi": "अनुसूचित जनजाति",
+    "C_en": "Other Backward Classes (OBCs)",
+    "C_hi": "अन्य पिछड़ा वर्ग (ओबीसी)",
+    "D_en": "Women",
+    "D_hi": "महिलाएं",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment reserves seats for SCs, STs, and women, but does not explicitly reserve seats for Other Backward Classes (OBCs).",
+    "explanation_hi": "73वें संशोधन में अनुसूचित जातियों, अनुसूचित जनजातियों और महिलाओं के लिए सीटों की आरक्षण की व्यवस्था है, लेकिन अन्य पिछड़ा वर्ग (ओबीसी) के लिए स्पष्ट आरक्षित सीटों का प्रावधान नहीं है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for a Panchayat as per the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार एक पंचायत का कार्यकाल कितना है?",
+    "A_en": "3 years",
+    "A_hi": "3 वर्ष",
+    "B_en": "5 years",
+    "B_hi": "5 वर्ष",
+    "C_en": "7 years",
+    "C_hi": "7 वर्ष",
+    "D_en": "10 years",
+    "D_hi": "10 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment Act stipulates a five-year term for Panchayats, ensuring periodic elections and continuous local governance.",
+    "explanation_hi": "73वें संशोधन अधिनियम द्वारा पंचायतों के लिए पांच वर्ष के कार्यकाल का प्रावधान किया गया है, नियमित चुनावों और निरंतर स्थानीय शासन की गारंटी देता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which state was the first to implement the Panchayati Raj system under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत पंचायती राज प्रणाली को कौन सा राज्य पहले लागू करने वाला है?",
+    "A_en": "Rajasthan",
+    "A_hi": "राजस्थान",
+    "B_en": "Maharashtra",
+    "B_hi": "महाराष्ट्र",
+    "C_en": "Kerala",
+    "C_hi": "केरला",
+    "D_en": "Bihar",
+    "D_hi": "बिहार",
+    "answer": "A",
+    "explanation_en": "Rajasthan was the first state to implement the Panchayati Raj system under the 73rd Amendment, pioneering decentralized governance in rural India.",
+    "explanation_hi": "राजस्थान 73वें संशोधन के तहत पंचायती राज प्रणाली को लागू करने वाला पहला र
