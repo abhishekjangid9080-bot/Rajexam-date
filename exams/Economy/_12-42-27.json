@@ -1,0 +1,22 @@
+[
+{
+"subject": "Economy",
+"topic": "Finance and Budget",
+"question_en": "What is the term for the annual plan of the Indian government?",
+"question_hi": "भारतीय सरकार के आम कार्यक्रम क्या शब्द से कहने के लिए?",
+"A_en": "Budget", "A_hi": "वित्तीय मंत्री",
+"B_en": "Planning", "B_hi": "प्रधानिक",
+"C_en": "Development", "C_hi": "विकरण",
+"D_en": "Economic", "D_hi": "आर्थिक",
+"answer": "B",
+"explanation_en": "The term for the annual plan of the Indian government is \"Planning\".",
+"explanation_hi": "भारतीय सरकार का वर्षीय वैश्चरण को क्या शब्द से कहने के लिए?\nभारतीय विद्या संस्करण को क्या शब्द से कहने के लिए? उत्तरार्थिक संस्करण",
+"D_en": "Economic Planning",
+"D_hi": "प्रधानिक संस्करण",
+"answer": "B",
+"explanation_en": "The term for the annual plan of the Indian economy is \"Economic Planning\".\nभारतीय एक्साइकॉन्संस्करण",
+"explanation_hi": "भारतीय प्रधानिक संस्करण",
+"answer": "B",
+"D_en": "Economic Planning",
+"D_hi": "प्रधानिक संस्करण",
+}
