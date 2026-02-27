@@ -1,0 +1,139 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the Indian Polity topic of Panchayati Raj and Nagariya Swashasan, specifically focusing on the 73rd and 74th Amendments. Let's start by recalling the key points of these amendments.
+
+The 73rd Amendment Act of 1992 relates to Panchayati Raj institutions, providing constitutional status and empowering rural local governments. Key aspects include the establishment of Gram Sabhas, three-tier structure (Zila Parishad, Panchayat Samiti, Gram Panchayat), reservation of seats for SCs, STs, and women, and the requirement for states to constitute State Election Commissions.
+
+The 74th Amendment Act of 1992 deals with urban local bodies, similar structure with three tiers but with some differences. It establishes Municipal Corporations in cities with population over 1 million, Municipal Councils for 200,000-1 million, and Nagar Panchayats for 20,000-200,000. It also mandates the creation of State Finance Commissions and the reservation of seats for marginalized groups.
+
+Now, I need to form questions that test understanding of these amendments. Let me brainstorm possible questions:
+
+1. Which amendment introduced Panchayati Raj into the Constitution?
+2. What is the minimum population for a Municipal Corporation under the 74th Amendment?
+3. Reservation for SC/ST and women in Panchayats as per 73rd Amendment.
+4. The structure of Zila Parishad.
+5. Role of State Election Commission under 73rd Amendment.
+6. Difference in the number of tiers between rural and urban bodies.
+7. The constitutional article that deals with Panchayats.
+8. The constitutional article for Municipalities.
+9. The term of office for urban local bodies.
+10. The body responsible for delimitation of constituencies for urban bodies.
+
+For each question, I need to frame options in both Hindi and English. Ensure that the correct answer is accurate and explanations are clear. Check for any possible ambiguities. Also, ensure that the difficulty level is appropriate for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC.
+
+Let me start drafting each question step by step, making sure to cover different aspects of both amendments. Let's verify each fact to avoid errors. For example, the 73rd Amendment is 1992, 74th also 1992. The three-tier structure for both, but urban has different names. Reservation of 1/3 for women in Panchayats. State Election Commission for Panchayats, and State Finance Commission for both. Gram Sabha's role as the foundation. The constitutional articles would be 243B to 243O for Panchayats and 243P to 243ZG for Municipalities.
+
+Now, formulating the questions with these points in mind. Let's proceed to write them out in the required JSON format, ensuring both languages are covered correctly and explanations are precise.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment provided constitutional status to Panchayati Raj institutions?",
+        "question_hi": "पंचायती राज संस्थाओं को संवैधानिक मान्यता किस संविधान संशोधन द्वारा प्रदान की गई थी?",
+        "A_en": "73rd Amendment Act, 1992", "A_hi": "73वां संशोधन अधिनियम, 1992",
+        "B_en": "74th Amendment Act, 1992", "B_hi": "74वां संशोधन अधिनियम, 1992",
+        "C_en": "72nd Amendment Act, 1992", "C_hi": "72वां संशोधन अधिनियम, 1992",
+        "D_en": "71st Amendment Act, 1992", "D_hi": "71वां संशोधन अधिनियम, 1992",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment Act of 1992 established the constitutional framework for Panchayati Raj institutions.",
+        "explanation_hi": "1992 का 73वां संशोधन अधिनियम पंचायती राज संस्थाओं के लिए संवैधानिक संरचना की नींव रखा।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum population required for a Municipal Corporation under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत नगर निगम के लिए आवश्यक न्यूनतम जनसंख्या क्या है?",
+        "A_en": "10,00,000", "A_hi": "10 लाख",
+        "B_en": "20,00,000", "B_hi": "20 लाख",
+        "C_en": "15,00,000", "C_hi": "15 लाख",
+        "D_en": "1,00,000", "D_hi": "1 लाख",
+        "answer": "A",
+        "explanation_en": "Under the 74th Amendment, a Municipal Corporation is established for cities with a population exceeding 1 million.",
+        "explanation_hi": "74वें संशोधन के तहत 1 मिलियन जनसंख्या वाले नगरों में नगर निगम की स्थापना की जाती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a tier in the Panchayati Raj system?",
+        "question_hi": "निम्नलिखित में से कौन पंचायती राज प्रणाली में एक तह नहीं है?",
+        "A_en": "Gram Sabha", "A_hi": "ग्राम सभा",
+        "B_en": "Zila Parishad", "B_hi": "जिला परिषद",
+        "C_en": "Panchayat Samiti", "C_hi": "पंचायत समिति",
+        "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+        "answer": "D",
+        "explanation_en": "Municipal Corporation is part of urban local governance under the 74th Amendment, not the Panchayati Raj system.",
+        "explanation_hi": "नगर निगम 74वें संशोधन के तहत शहरी स्थानीय शासन का हिस्सा है, पंचायती राज प्रणाली का नहीं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats are reserved for Scheduled Castes and Scheduled Tribes in Panchayats?",
+        "question_hi": "पंचायतों में अनुसूचित जाति और अनुसूचित जनजाति के लिए सीटों का कितना प्रतिशत आरक्षित है?",
+        "A_en": "10%", "A_hi": "10%",
+        "B_en": "20%", "B_hi": "20%",
+        "C_en": "30%", "C_hi": "30%",
+        "D_en": "Depends on their population proportion", "D_hi": "इनके जनसंख्या अनुपात पर निर्भर करता है",
+        "answer": "D",
+        "explanation_en": "The reservation for SCs and STs is in proportion to their population in the area.",
+        "explanation_hi": "अनुसूचित जाति और जनजातियों के लिए आरक्षण क्षेत्र में उनके जनसंख्या अनुपात के अनुसार होता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for conducting elections to the Panchayats?",
+        "question_hi": "पंचायतों के चुनाव कराने का जिम्मा किस निकाय को है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Election Commission of India", "B_hi": "भारत के चुनाव आयोग",
+        "C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+        "D_en": "Gram Sabha", "D_hi": "ग्राम सभा",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates the establishment of a State Election Commission for conducting Panchayat elections.",
+        "explanation_hi": "73वें संशोधन ने पंचायत चुनाव कराने के लिए राज्य चुनाव आयोग की नियुक्ति आवश्यक बनाई।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the role of Gram Sabha under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत ग्राम सभा की भूमिका क्या है?",
+        "A_en": "It is a deliberative body for village-level governance", "A_hi": "यह गांव स्तरीय शासन के लिए एक विचार-विमर्श निकाय है",
+        "B_en": "It is responsible for collecting local taxes", "B_hi": "इसका जिम्मा स्थानीय कर वसूली होता है",
+        "C_en": "It acts as a watchdog over Panchayat functions", "C_hi": "यह पंचायत के कार्यों की निगरानी करता है",
+        "D_en": "It is the highest decision-making body in the Panchayati Raj system", "D_hi": "यह पंचायती राज प्रणाली में सर्वोच्च निर्णय लेने वाला निकाय है",
+        "answer": "A",
+        "explanation_en": "Gram Sabha serves as the foundational body for participatory governance at the village level.",
+        "explanation_hi": "ग्राम सभा गांव स्तरीय भागीदारी के शासन के लिए नींव का काम करती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Constitution deals with the powers and functions of the Panchayats?",
+        "question_hi": "संविधान का कौन सा अनुच्छेद पंचायतों के अधिकारों और कार्यों को नियंत्रित करता है?",
+        "A_en": "Article 243B", "A_hi": "अनुच्छेद 243B",
+        "B_en": "Article 243V", "B_hi": "अनुच्छेद 243V",
+        "C_en": "Article 244A", "C_hi": "अनुच्छेद 244A",
+        "D_en": "Article 250", "D_hi": "अनुच्छेद 250",
+        "answer": "B",
+        "explanation_en": "Article 243V outlines the powers and functions of Panchayats, including their authority to prepare plans for economic development and social justice.",
+        "explanation_hi": "अनुच्छेद 243V में पंचायतों के अधिकार और कार्यों का विवरण है, जिसमें आर्थिक विकास और सामाजिक न्याय के लिए योजनाओं की तैयारी की अनुमति है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of members of a Municipal Corporation under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत नगर निगम के सदस्यों का कार्यकाल कितना होता है?",
+        "A_en": "2 years", "A_hi": "2 वर्ष",
+        "B_en": "3 years", "B_hi": "3 वर्ष",
+        "C_en": "4 years", "C_hi": "4 वर्ष",
+        "D_en": "5 years", "D_hi": "5 वर्ष",
+        "answer": "D",
+        "explanation_en": "Members of a Municipal Corporation serve a 5-year term as per the 74th Amendment.",
+        "explanation_hi": "74वें संशोधन के अनुसार नगर निगम के सदस्यों का कार्यकाल 5 वर्ष होता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of a State Finance Commission under the 73rd and 74th Amendments?",
+        "question_hi": "निम्नलिखित में से कौन सा राज्य वित्त आयोग का एक कार्य है?",
+        "A_en": "Delimitation of electoral constituencies", "A_hi": "चुनावी निर्वाचन क्षेत्रों की आयोजित करना",
+        "B_en": "Recommendation for the distribution of financial resources between states and local bodies", "B_hi": "राज्यों और स्थानीय निकायों के बीच वित्तीय संसाधनों के वितरण के
