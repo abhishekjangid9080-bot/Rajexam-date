@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Carbon and its Compounds (Hydrocarbons, Allotropes) for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling the key concepts. Carbon has allotropic forms like diamond, graphite, and fullerene. Hydrocarbons include alkanes, alkenes, alkynes. I should cover these areas.
+
+First question: What is the valency of carbon? Options could be 2, 4, 6, 8. Answer is 4. Explanation needed in both languages.
+
+Second: Allotropes of carbon. Options could list diamond, graphite, fullerenes. Maybe include something like ozone as a distractor. Answer would be all three.
+
+Third: Which is a saturated hydrocarbon? Alkanes are saturated, alkenes/alkynes are unsaturated. So answer is Alkane.
+
+Fourth: Which is a liquid hydrocarbon? Maybe list gasoline as an example. Options could include methane (gas), gasoline, carbon tetrachloride (compound, not hydrocarbon). Wait, need to be careful here. Gasoline is a mixture of hydrocarbons, so it's a liquid. So answer B.
+
+Fifth: Which is the hardest natural substance? Diamond, of course. Distractors could be graphite, quartz, etc.
+
+Sixth: Which is a good conductor of electricity? Graphite conducts electricity due to delocalized electrons. Diamond and others do not.
+
+Seventh: What is the functional group of alcohols? -OH group. Others like -COOH, -NH2 are different.
+
+Eighth: Homologous series example. Alkanes have the same general formula CnH2n+2. Others have different.
+
+Ninth: How many carbon atoms in a molecule of glucose? C6H12O6, so 6.
+
+Tenth: Which is a synthetic polymer? Polythene is synthetic, starch and cellulose are natural, proteins are natural.
+
+Need to ensure that each question is clear, options are plausible, and explanations are concise. Also, check for any possible errors, like incorrect categorization of hydrocarbons or allotropic forms. Make sure the translations to Hindi are accurate and consistent with the English terms. Avoid any overlap in difficulty and cover a range of topics within the subject.
+</think>
+
+```json
+[
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Carbon ke valency ka maan kya hai?",
+    "question_hi": "कार्बन की वैलेंसी का मान क्या है?",
+    "A_en": "2", "A_hi": "2",
+    "B_en": "4", "B_hi": "4",
+    "C_en": "6", "C_hi": "6",
+    "D_en": "8", "D_hi": "8",
+    "answer": "B",
+    "explanation_en": "Carbon has four valence electrons, allowing it to form four covalent bonds.",
+    "explanation_hi": "कार्बन में चार संयोजकता इलेक्ट्रॉन होते हैं, जिससे यह चार सहसंयोजक बंध बना सकता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Nimn me se kaun carbon ke allotropes ke under aata hai?",
+    "question_hi": "निम्न में से कौन कार्बन के समानतल (Allotropes) के अंतर्गत आता है?",
+    "A_en": "Diamond", "A_hi": "हीरा",
+    "B_en": "Graphite", "B_hi": "ग्रेफाइट",
+    "C_en": "Fullerene", "C_hi": "फुलेरीन",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Diamond, graphite, and fullerene are all allotropes of carbon, with different structural arrangements.",
+    "explanation_hi": "हीरा, ग्रेफाइट और फुलेरीन कार्बन के समानतल हैं, जिनमें अंतर कार्बन परमाणुओं की संरचना में होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a saturated hydrocarbon?",
+    "question_hi": "निम्न में से कौन संतृप्त हाइड्रोकार्बन है?",
+    "A_en": "Alkane", "A_hi": "एल्केन",
+    "B_en": "Alkene", "B_hi": "एल्कीन",
+    "C_en": "Alkyne", "C_hi": "एल्काइन",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "A",
+    "explanation_en": "Alkanes are saturated hydrocarbons with only single bonds between carbon atoms.",
+    "explanation_hi": "एल्केन संतृप्त हाइड्रोकार्बन हैं, जिसमें कार्बन परमाणुओं के बीच केवल एकल बंध होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a liquid hydrocarbon?",
+    "question_hi": "निम्न में से कौन तरल हाइड्रोकार्बन है?",
+    "A_en": "Methane", "A_hi": "मीथेन",
+    "B_en": "Gasoline", "B_hi": "गैसोलीन",
+    "C_en": "Carbon Tetrachloride", "C_hi": "कार्बन टेट्राक्लोराइड",
+    "D_en": "Both B and C", "D_hi": "B और C दोनों",
+    "answer": "B",
+    "explanation_en": "Gasoline is a liquid hydrocarbon composed of a mixture of hydrocarbons.",
+    "explanation_hi": "गैसोलीन एक तरल हाइड्रोकार्बन है, जो हाइड्रोकार्बनों के मिश्रण से बना होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which form of carbon is the hardest natural substance?",
+    "question_hi": "कार्बन के कौन से रूप सबसे कठोर प्राकृतिक पदार्थ है?",
+    "A_en": "Diamond", "A_hi": "हीरा",
+    "B_en": "Graphite", "B_hi": "ग्रेफाइट",
+    "C_en": "Fullerene", "C_hi": "फुलेरीन",
+    "D_en": "Charcoal", "D_hi": "कोयला",
+    "answer": "A",
+    "explanation_en": "Diamond is the hardest naturally occurring form of carbon due to its crystal structure.",
+    "explanation_hi": "हीरा सबसे कठोर प्राकृतिक कार्बन का रूप है, क्योंकि इसकी क्रिस्टल संरचना कारण।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a good conductor of electricity?",
+    "question_hi": "निम्न में से कौन विद्युत का अच्छा चालक है?",
+    "A_en": "Diamond", "A_hi": "हीरा",
+    "B_en": "Graphite", "B_hi": "ग्रेफाइट",
+    "C_en": "Allotropes", "C_hi": "समानतल",
+    "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+    "answer": "B",
+    "explanation_en": "Graphite conducts electricity due to the presence of free electrons in its layered structure.",
+    "explanation_hi": "ग्रेफाइट विद्युत का चालक है, क्योंकि इसकी परतीली संरचना में स्वतंत्र इलेक्ट्रॉन होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "What is the functional group of alcohols?",
+    "question_hi": "अल्कोहल का कार्यात्मक समूह क्या है?",
+    "A_en": "-OH", "A_hi": "-OH",
+    "B_en": "-COOH", "B_hi": "-COOH",
+    "C_en": "-NH2", "C_hi": "-NH2",
+    "D_en": "-CHO", "D_hi": "-CHO",
+    "answer": "A",
+    "explanation_en": "Alcohols contain the hydroxyl (-OH) functional group.",
+    "explanation_hi": "अल्कोहल में हाइड्रॉक्सिल (-OH) कार्यात्मक समूह होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a homologous series?",
+    "question_hi": "निम्न में से कौन सी समावयवी श्रेणी है?",
+    "A_en": "Alkane", "A_hi": "एल्केन",
+    "B_en": "Alkene", "B_hi": "एल्कीन",
+    "C_en": "Alkyne", "C_hi": "एल्काइन",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Alkanes, alkenes, and alkynes are homologous series with similar structures and properties.",
+    "explanation_hi": "एल्केन, एल्कीन और एल्काइन समावयवी श्रेणी हैं, जिनकी संरचना और गुण समान होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "How many carbon atoms are present in a glucose molecule?",
+    "question_hi": "ग्लूकोज के अणु में कार्बन परमाणुओं की संख्या कितनी होती है?",
+    "A_en": "4", "A_hi": "4",
+    "B_en": "6", "B_hi": "6",
+    "C_en": "8", "C_hi": "8",
+    "D_en": "12", "D_hi": "12",
+    "answer": "B",
+    "explanation_en": "Glucose (C₆H₁₂O₆) contains six carbon atoms.",
+    "explanation_hi": "ग्लूकोज (C₆H₁₂O₆) में छह कार्बन परमाणु होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a synthetic polymer?",
+    "question_hi": "निम्न में से कौन सभी संश्लेषित बहुलक है?",
+    "A_en": "Polythene", "A_hi": "पॉलिथीन",
+    "B_en": "Starch", "B_hi": "स्टार्च",
+    "C_en": "Cellulose", "C_hi": "सेल्यूलोज",
+    "D_en": "Protein", "D_hi": "प्रोटीन",
+    "answer": "A",
+    "explanation_en": "Polythene is a synthetic polymer made from ethene monomers.",
+    "explanation_hi": "पॉलिथीन एथीन मोनोमर्स से बना एक संश्लेषित बहुलक है।"
+  }
+]
+```
