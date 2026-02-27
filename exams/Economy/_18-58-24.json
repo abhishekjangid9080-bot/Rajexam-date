@@ -1,0 +1,24 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the current inflation rate in India?",
+"question_hi": "भारत में वर्षों में प्रमाणपत्रिका के संदर्भ विविधि समर्थन का निम्नलिंग किया गया है:",
+"options": [
+{
+"option_en": "2021-2022",
+"option_hi": "2021-2022",
+"A_en": "2.43%",
+"A_hi": "2.43%",
+"B_en": "14.98%",
+"B_hi": "14.98%",
+"C_en": "10.46%",
+"C_hi": "10.46%",
+"D_en": "12.74%",
+"D_hi": "12.74%"
+],
+"answer": "D",
+"explanation_en": "According to the latest data available, the inflation rate in India for the year 2021-2022 is approximately 12.74%.",
+"explanation_hi": "उस प्रमाणित मान के लिए किया गया है: \n\nसंदर्भर मान 2021-2022 का आयत के लिए किया गया है: \n\n12.74% बातें\n",
+}
+]
