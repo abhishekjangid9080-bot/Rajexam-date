@@ -1,0 +1,24 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What is the concept of National Income?",
+"question_hi": "राष्ट्रीय आयाम क्या विचार है?",
+"A_en": "Gross National Product (GNP)",
+"A_hi": "ग्रॉस नेशनल प्रोडेक्शन (GNPC)",
+"B_en": "Gross Domestic Product (GDP)",
+"B_hi": "ग्रॉस डोमेंटरप्रोडेक्शन (GDP)",
+"C_en": "National Income",
+"C_hi": "राष्ट्रीय आयाम",
+"D_en": "Welfare Economics",
+"D_hi": "वैलेंडियन ऐक्यूम समिति",
+"answer": "B",
+"explanation_en": "National Income is the total value of all goods and services produced within a country's borders in a specific time period. In this question, options A (GNPC), C (National Income), and D (Welfare Economics) are irrelevant. Option B (GDP) defines Gross Domestic Product, which is related to the economy but not the concept of National Income.",
+"explanation_hi": "राष्ट्रीय आयाम को वर्गीकरणेंगे को देखने के लिए की रचना समझौता है, जिसको प्रतीतलकरणेंगे को उसका को हिंगे समझौता है। यह बाँचनेंगे को प्रतीतलकरणेंगे को समझौता है।",
+"answer": "B",
+"explanation_en": "National Income refers to the total value of all goods and services produced within a country's borders. The correct answer is B (GDP- Gross Domestic Product) as it represents the value of goods and services produced by a country's residents within its borders.",
+"explanation_hi": "राष्ट्रीय आयाचना राज्य के इंट्राली को समझोंगे, को प्रतियांगे को समझौता है।",
+"explanation_hi": "राष्ट्रीय आयाचना को प्रतियांगे को समझोंगे, को समझौता है।",
+"explanation_en": "National Income refers to the total value of all goods and services produced within a country. The correct answer is C (GDP at Current Prices- Gross Domestic Product at Current Prices) because it represents the value of goods and services produced in a specific time period, considering the current prices.",
+}
+]
