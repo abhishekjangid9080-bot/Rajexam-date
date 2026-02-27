@@ -1,0 +1,119 @@
+<think>
+Okay, let's start by understanding the user's query. They need 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments. The questions should be in both Hindi and English, following a specific JSON format. The difficulty level should be appropriate for exams like Rajasthan State Exams, SSC, and Railway.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment relates to Panchayati Raj institutions, while the 74th Amendment deals with urban local bodies. Important aspects include constitutional provisions, structure, powers, elections, and responsibilities. For example, the 73rd Amendment mandates the reservation of seats for SCs, STs, and women. The 74th Amendment includes provisions for municipalities and their functions.
+
+Next, I'll brainstorm topics for each question. Possible areas: constitutional article numbers, reservation percentages, layers of governance (Gram Panchayat, Block, District), powers of municipalities, constitutional amendments, and roles of different bodies. Each question should test understanding of specific aspects without being too vague.
+
+Now, formulating the questions. For example, the first question could be about the year when the 73rd Amendment was implemented. The answer is 1993. Then, another question might ask about the reservation for women in Panchayats, which is 1/3rd. The 74th Amendment's article number (Article 243T) could be another question. Also, the number of layers in the Panchayati Raj structure (three: village, block, district) is a good point.
+
+I need to ensure that each question has four options with only one correct answer. The options should be plausible but incorrect. For instance, for the 73rd Amendment year, options could be 1990, 1993, 2000, 2005. The correct one is 1993. Similarly, for the 74th Amendment, options might include 1992, 1993, 1994, 1995, with the correct answer being 1993.
+
+I should also include explanations for each answer to help learners understand why the correct option is right. For example, explaining that the 73rd Amendment came into effect in 1993, providing constitutional status to Panchayats. For the reservation of seats for women, the explanation would mention that it's 1/3rd of the total seats to ensure women's participation.
+
+Now, translating the questions and options into Hindi. Need to be careful with legal terms to ensure accuracy. For example, "Gram Panchayat" in Hindi is "ग्राम पंचायत". Also, verifying the correct Hindi terms for constitutional articles and provisions.
+
+After drafting all 10 questions, I'll structure them into the required JSON format. Each question object will have subject, topic, question in both languages, options in both languages, the correct answer, and explanations in both languages. I'll check the JSON syntax to avoid errors and ensure it matches the provided example.
+
+Finally, review each question for clarity and correctness. Make sure there's no repetition and that each question tests a different aspect of the topic. Difficulty level should be moderate to challenging, suitable for state and national exams. Also, confirm that all answers are accurate based on the constitutional amendments.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which article of the Indian Constitution provides for the establishment of urban local bodies after the 74th Amendment?",
+    "question_hi": "74वें संविधान संशोधन के बाद शहरी स्थानीय निकायों की स्थापना के लिए भारतीय संविधान के किस अनुच्छेद में प्रावधान है?",
+    "A_en": "Article 243T", "A_hi": "अनुच्छेद 243टी",
+    "B_en": "Article 243P", "B_hi": "अनुच्छेद 243पी",
+    "C_en": "Article 243Q", "C_hi": "अनुच्छेद 243क्यू",
+    "D_en": "Article 243R", "D_hi": "अनुच्छेद 243आर",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment Act of 1992 added Article 243T to the Indian Constitution, providing for the establishment of urban local bodies such as municipalities.",
+    "explanation_hi": "74वें संशोधन अधिनियम, 1992 ने भारतीय संविधान में अनुच्छेद 243टी जोड़ा, जिसमें शहरी स्थानीय निकायों जैसे नगर परिषदों की स्थापना के लिए प्रावधान है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age for a person to contest in a Panchayat election under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अधीन ग्राम पंचायत चुनाव में भाग लेने के लिए व्यक्ति की न्यूनतम आयु क्या है?",
+    "A_en": "21 years", "A_hi": "21 वर्ष",
+    "B_en": "25 years", "B_hi": "25 वर्ष",
+    "C_en": "30 years", "C_hi": "30 वर्ष",
+    "D_en": "18 years", "D_hi": "18 वर्ष",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act, 1992, set the minimum age for contesting panchayat elections at 21 years.",
+    "explanation_hi": "73वें संशोधन अधिनियम, 1992 ने ग्राम पंचायत चुनाव में भाग लेने के लिए 21 वर्ष की न्यूनतम आयु निर्धारित की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of a Municipal Corporation under the 74th Amendment?",
+    "question_hi": "निम्नलिखित में से कौन सा 74वें संशोधन के तहत नगर निगम का कार्य नहीं है?",
+    "A_en": "Providing water supply", "A_hi": "जल आपूर्ति प्रदान करना",
+    "B_en": "Maintaining public health", "B_hi": "सार्वजनिक स्वास्थ्य की देखभाल करना",
+    "C_en": "Land acquisition for industrial development", "C_hi": "औद्योगिक विकास के लिए भूमि अधिग्रहण",
+    "D_en": "Construction of national highways", "D_hi": "राष्ट्रीय राजमार्गों का निर्माण",
+    "answer": "D",
+    "explanation_en": "The construction of national highways is the responsibility of the central government, not the Municipal Corporation.",
+    "explanation_hi": "राष्ट्रीय राजमार्गों का निर्माण केंद्र सरकार की जिम्मेदारी है, नगर निगम की नहीं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats in Panchayat bodies is reserved for women under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अधीन ग्राम पंचायत निकायों में महिलाओं के लिए कुल सीटों का कितना प्रतिशत आरक्षित है?",
+    "A_en": "1/3rd of total seats", "A_hi": "कुल सीटों का 1/3",
+    "B_en": "25%", "B_hi": "25%",
+    "C_en": "50%", "C_hi": "50%",
+    "D_en": "20%", "D_hi": "20%",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates one-third (1/3) of the seats in Panchayat bodies to be reserved for women.",
+    "explanation_hi": "73वें संशोधन में ग्राम पंचायत निकायों में महिलाओं के लिए कुल सीटों के एक तिहाई (1/3) के आरक्षण का प्रावधान है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under the 73rd Amendment, what is the maximum number of members a Gram Panchayat can have?",
+    "question_hi": "73वें संशोधन के तहत एक ग्राम पंचायत में अधिकाधिक कितने सदस्य हो सकते हैं?",
+    "A_en": "30", "A_hi": "30",
+    "B_en": "40", "B_hi": "40",
+    "C_en": "50", "C_hi": "50",
+    "D_en": "Depends on population", "D_hi": "जनसंख्या पर निर्भर करता है",
+    "answer": "D",
+    "explanation_en": "The 73rd Amendment does not specify a fixed maximum number; it depends on the population of the area under the Gram Panchayat.",
+    "explanation_hi": "73वें संशोधन में ग्राम पंचायत के सदस्यों की अधिकतम संख्या को निश्चित नहीं किया गया है; यह ग्राम पंचायत के क्षेत्र की जनसंख्या पर निर्भर करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a correct statement about the 74th Amendment?",
+    "question_hi": "74वें संशोधन के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+    "A_en": "It provides for the election of a Mayor as the head of a Municipal Corporation.", "A_hi": "यह नगर निगम के प्रमुख के रूप में मेयर के चुनाव का प्रावधान करता है।",
+    "B_en": "It mandates the reservation of seats for SCs and STs in urban local bodies.", "B_hi": "यह शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए सीटों के आरक्षण को अनिवार्य करता है।",
+    "C_en": "It ensures the constitution of a Municipal Council for every urban area.", "C_hi": "यह हर शहरी क्षेत्र के लिए नगर परिषद की स्थापना सुनिश्चित करता है।",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "The 74th Amendment includes provisions for the election of a Mayor, reservation of seats for SCs/STs, and constitution of Municipal Councils in urban areas.",
+    "explanation_hi": "74वें संशोधन में मेयर के चुनाव, अनुसूचित जाति/जनजाति के लिए सीटों के आरक्षण, और शहरी क्षेत्रों में नगर परिषदों की स्थापना के प्रावधान शामिल हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for members of a Municipal Corporation elected under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के अधीन नगर निगम के निर्वाचित सदस्यों के कार्यकाल की अवधि क्या है?",
+    "A_en": "5 years", "A_hi": "5 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "3 years", "C_hi": "3 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment Act, 1992, established a five-year term for members of a Municipal Corporation.",
+    "explanation_hi": "74वें संशोधन अधिनियम, 1992 ने नगर निगम के सदस्यों के लिए पांच वर्ष के कार्यकाल को स्थापित किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of the Gram Sabha as per the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार निम्नलिखित में से कौन सा ग्राम सभा का कार्य नहीं है?",
+    "A_en": "Reviewing the performance of the Gram Panchayat", "A_hi": "ग्राम पंचायत के कार्यकलापों की समीक्षा करना",
+    "B_en": "Approving
