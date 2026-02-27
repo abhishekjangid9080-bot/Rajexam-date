@@ -1,0 +1,145 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions on the topic of Panchayati Raj and Nagariya Swashasan (73rd and 74th Amendments) in Indian Polity. The user wants the questions and options in both Hindi and English, following the Testbook style. The output must be in a specific JSON format. Let me start by recalling the key points covered in the 73rd and 74th Amendments.
+
+The 73rd Amendment Act, 1992, relates to Panchayats, while the 74th Amendment Act, 1992, pertains to Municipalities. Both were enacted to strengthen local self-government. Important aspects include the constitution of Panchayats and Municipalities, their powers and functions, elections, reservations for SCs, STs, and women, and the financial provisions like the Finance Commission.
+
+I should ensure that each question tests a specific fact or concept from these amendments. Let me brainstorm possible topics for each question:
+
+1. The constitutional provisions of the 73rd Amendment.
+2. The year when the 74th Amendment was enacted.
+3. The minimum population for a Panchayat according to the 73rd Amendment.
+4. The reservation of seats for SCs and STs in Panchayats.
+5. The reservation of seats for women in Panchayats.
+6. The tenure of Panchayats as per the 73rd Amendment.
+7. The powers of Municipalities under the 74th Amendment.
+8. The constitution of a Nagar Panchayat.
+9. The powers of the Finance Commission in relation to Panchayats.
+10. The constitutional basis of the 73rd Amendment.
+
+I need to formulate each question with four options, ensuring that the correct answer is clear and the distractors are plausible. Also, the explanations should briefly justify the correct answer. Now, I'll structure each question in both languages as per the example. Let me check for any inaccuracies, like correct years or the exact percentage of reservations. For example, the reservation for women is 33%, not 50%, so I need to get the numbers right. Also, the Finance Commission's role is to distribute the financial resources, so the explanation should reflect that. I'll make sure each question is unique and covers different aspects of the amendments. Once the questions are drafted, I'll format them into the required JSON structure without any markdown. Let me verify each point again to avoid mistakes.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली किस संविधान संशोधन द्वारा पेश की गई थी?",
+        "A_en": "73rd Amendment Act, 1992", "A_hi": "73वें संशोधन अध्यादेश, 1992",
+        "B_en": "74th Amendment Act, 1992", "B_hi": "74वें संशोधन अध्यादेश, 1992",
+        "C_en": "71st Amendment Act, 2000", "C_hi": "71वें संशोधन अध्यादेश, 2000",
+        "D_en": "72nd Amendment Act, 1993", "D_hi": "72वें संशोधन अध्यादेश, 1993",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment Act, 1992 introduced the Panchayati Raj system to strengthen local self-government in rural areas.",
+        "explanation_hi": "73वें संशोधन अध्यादेश, 1992 ने ग्रामीण क्षेत्रों में स्थानीय स्वशासन को मजबूत बनाने के लिए पंचायती राज प्रणाली पेश की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum population required for a Panchayat according to the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार एक पंचायत के लिए न्यूनतम जनसंख्या क्या है?",
+        "A_en": "5000", "A_hi": "5000",
+        "B_en": "10000", "B_hi": "10000",
+        "C_en": "15000", "C_hi": "15000",
+        "D_en": "20000", "D_hi": "20000",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment Act mandates that a Panchayat must have a minimum population of 5000.",
+        "explanation_hi": "73वें संशोधन अध्यादेश ने निर्धारित किया है कि एक पंचायत में 5000 की न्यूनतम जनसंख्या होनी चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Panchayats?",
+        "question_hi": "निम्नलिखित में से कौन-सा पंचायतों का कार्य नहीं है?",
+        "A_en": "Land Reforms", "A_hi": "भूमि सुधार",
+        "B_en": "Water Management", "B_hi": "जल प्रबंधन",
+        "C_en": "Urban Planning", "C_hi": "शहरी योजना",
+        "D_en": "Maintaining Local Markets", "D_hi": "स्थानीय बाजारों का रखरखाव करना",
+        "answer": "C",
+        "explanation_en": "Urban Planning is a function of Municipalities under the 74th Amendment, not Panchayats.",
+        "explanation_hi": "शहरी योजना 74वें संशोधन के अधीन नगर पालिकाओं का कार्य है, न कि पंचायतों का।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats must be reserved for women in Panchayats?",
+        "question_hi": "पंचायतों में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित करनी आवश्यक हैं?",
+        "A_en": "25%", "A_hi": "25%",
+        "B_en": "33%", "B_hi": "33%",
+        "C_en": "40%", "C_hi": "40%",
+        "D_en": "50%", "D_hi": "50%",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment mandates at least 33% of seats for women in Panchayats to ensure their representation.",
+        "explanation_hi": "73वें संशोधन ने पंचायतों में महिलाओं के प्रतिनिधित्व को निश्चित करने के लिए कम से कम 33% सीटों का आरक्षण अनिवार्य किया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for recommending the distribution of financial resources between the States and Panchayats?",
+        "question_hi": "राज्यों और पंचायतों के बीच वित्तीय संसाधनों के वितरण की सिफारिश के लिए कौन-सा निकाय उत्तरदायी है?",
+        "A_en": "Finance Commission", "A_hi": "वित्त आयोग",
+        "B_en": "Election Commission", "B_hi": "चुनाव आयोग",
+        "C_en": "Gram Sabha", "C_hi": "ग्राम सभा",
+        "D_en": "State Election Commission", "D_hi": "राज्य चुनाव आयोग",
+        "answer": "A",
+        "explanation_en": "The Finance Commission is tasked with recommending the distribution of financial resources between the States and Panchayats under the 73rd Amendment.",
+        "explanation_hi": "73वें संशोधन के तहत राज्यों और पंचायतों के बीच वित्तीय संसाधनों के वितरण की सिफारिश के लिए वित्त आयोग को अपनी जिम्मेदारी सौपी गई है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of a Panchayat as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार एक पंचायत की कार्यकाल क्या है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment Act, 1992 stipulates a five-year term for Panchayats.",
+        "explanation_hi": "73वें संशोधन अध्यादेश, 1992 ने पंचायतों के लिए पांच वर्ष के कार्यकाल का प्रावधान किया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of Municipalities under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के अनुसार नगर पालिकाओं का कौन-सा कार्य है?",
+        "A_en": "Rural Road Construction", "A_hi": "ग्रामीण सड़क निर्माण",
+        "B_en": "Urban Land Regulation", "B_hi": "शहरी भूमि नियमन",
+        "C_en": "Agricultural Planning", "C_hi": "कृषि योजना",
+        "D_en": "Forest Management", "D_hi": "वन प्रबंधन",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment Act, 1992 assigns urban land regulation as a key function of Municipalities.",
+        "explanation_hi": "74वें संशोधन अध्यादेश, 1992 ने शहरी भूमि नियमन को नगर पालिकाओं का मुख्य कार्य निर्धारित किया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum percentage of seats reserved for Scheduled Castes (SCs) and Scheduled Tribes (STs) in Panchayats?",
+        "question_hi": "पंचायतों में अनुसूचित जाति (SC) और अनुसूचित जनजाति (ST) के लिए आरक्षित सीटों का न्यूनतम प्रतिशत क्या है?",
+        "A_en": "10%", "A_hi": "10%",
+        "B_en": "15%", "B_hi": "15%",
+        "C_en": "20%", "C_hi": "20%",
+        "D_en": "25%", "D_hi": "25%",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates at least 10% of seats for SCs and STs in Panchayats.",
+        "explanation_hi": "73वें संशोधन ने पंचायतों में SC और ST के लिए कम से कम 10% सीटों का आरक्षण अनिवार्य किया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a part of the Panchayat structure as per the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन-सा 73वें संशोधन के अनुसार पंचायत संरचना का हिस्सा नहीं है?",
+        "A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+        "B_en": "Gram Sabha", "B_hi": "ग्राम सभा",
+        "C_en": "Zilla Parishad", "C_hi": "जिला परिषद",
+        "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+        "answer": "D",
+        "explanation_en": "Municipal Corporations are part of urban governance under the 74th Amendment, not the Panchayati Raj system.",
+        "explanation_hi": "नगर निगम 74वें संशोधन के अधीन शहरी शासन का हिस्सा हैं, न कि पंचायती राज प्रणाली का।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for conducting elections to the Panchayats?",
+        "question_hi": "पंचायतों के चुनाव कराने के लिए कौन-सा निकाय उत्तरदायी है?",
+        "A_en": "State Election
