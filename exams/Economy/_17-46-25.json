@@ -1,0 +1,91 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP at current prices and per capita",
+"question_en": "What is the per capita Gross Domestic Product (GDP) in India at current prices?",
+"question_hi": "भारत में वर्तमान समय के आधार से ग्रॉस अर्थव्यवस्था (GDP) क्या है?",
+"A_en": "Rs. 3,86,805",
+"A_hi": "रूपये 3,86,805",
+"B_en": "Rs. 3,868,050",
+"B_hi": "रूपये 3,86,805",
+"C_en": "Rs. 386,805",
+"C_hi": "रूपये 386,805",
+"D_en": "Rs. 3868050",
+"D_hi": "रूपये 3868050",
+"answer": "B",
+"explanation_en": "As of 2021, the per capita GDP (Gross Domestic Product) in India is approximately Rs. 3,868,050 (in current prices).",
+"explanation_hi": "2021 में India में वैश्वरूपी संखिलने के लिए, भारत में वर्ल्ड डॉक्टरी के लीने के भारत में भारत में भारत में भारत में भारत में भारत में भारतीय डॉक्टरी",
+"option_en": [
+{
+"option_id": 1,
+"option_text": "Rs. 25,000",
+"option_explanation_en": "Per capita income of Rs. 25,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 2,
+"option_text": "Rs. 20,000",
+"option_explanation_en": "Per capita income of Rs. 20,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 3,
+"option_text": "Rs. 15,000",
+"option_explanation_en": "Per capita income of Rs. 15,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 4,
+"option_text": "Rs. 22,000",
+"option_explanation_en": "Per capita income of Rs. 22,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 5,
+"option_text": "Rs. 12,000",
+"option_explanation_en": "Per capita income of Rs. 12,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 6,
+"option_text": "Rs. 18,000",
+"option_explanation_en": "Per capita income of Rs. 18,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 7,
+"option_text": "Rs. 25,000",
+"option_explanation_en": "Per capita income of Rs. 25,000",
+"option_explanary_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 8,
+"option_text": "Rs. 40,000",
+"option_explanation_en": "Per capita income of Rs. 40,000",
+"option_explanation_hi": "भारतीय डॉक्टरी के लिए भारतीय डॉक्टरी",
+},
+{
+"option_id": 9,
+"option_text": "Rs. 50,000",
+"option_explanation_en": "Per capita income of Rs. 50,000",
+"option_explanation_hi": "भारतीय डॉक्टरी",
+},
+{
+"option_id": 10,
+"option_text": "Rs. 100,000",
+"option_explanation_en": "Per capita income of Rs. 1,000",
+"option_explanation_hi": "भारतीय डॉक्टरी",
+},
+{
+"option_id": 11,
+"option_text": "Rs. 125,000",
+"option_explanation_en": "Per capita income of Rs. 1,250",
+"option_explanation_hi": "भारतीय डी",
+},
+{
+"option_id": 12,
+"option_text": "Rs. 75,000",
+"option_explanation_en": "Per capita income of Rs. 1,750",
+"option_explanation_hi": "भारतीय डी",
+}
+]
