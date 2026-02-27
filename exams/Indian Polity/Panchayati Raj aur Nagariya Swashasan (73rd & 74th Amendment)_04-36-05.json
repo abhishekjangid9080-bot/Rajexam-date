@@ -1,0 +1,128 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, specifically focusing on the 73rd and 74th Amendments. The questions need to be in both Hindi and English, following the Testbook style, and structured in a strict JSON format. 
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment relates to Panchayati Raj institutions, while the 74th Amendment deals with urban local bodies like municipalities. Important aspects include constitutional status, reservation of seats for SCs, STs, and women, powers and functions, financial autonomy, and the role of state governments.
+
+Next, I should brainstorm questions that test understanding of these amendments. For example, which amendment is related to Panchayats? What about the 74th? What are the reserved quotas? What are the powers of these institutions? Also, the structure like the three-tier system for Panchayats and the two types of urban local bodies under the 74th Amendment.
+
+I need to ensure that the questions cover a range of difficulty levels but remain within the scope of Indian Polity, suitable for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Each question must have four options with one correct answer. The explanations should clarify why the correct answer is right and why the others are not.
+
+I should also verify facts to avoid errors. For instance, confirming that the 73rd Amendment was enacted in 1992 and the 74th in 1992 as well. The minimum age for membership in Panchayats is 21 for both amendments. The 74th Amendment includes provisions for metropolitan area governance.
+
+Now, structuring each question in Hindi and English, ensuring the translation is accurate. The options need to be in both languages, with the correct answer labeled correctly. The explanations should be concise but informative.
+
+I'll start by listing out 10 key points and convert them into questions. For example, the constitutional basis, the reservation percentages, the functions, the financial provisions, the role of state legislatures, and the types of urban bodies. Each question should target a specific aspect to cover the topic comprehensively.
+
+Finally, I'll format the JSON as per the given example, making sure there are no typos and that the structure matches the required schema. Double-checking the answer keys and explanations to ensure accuracy.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान अमंडमेंट पेश किया?",
+        "A_en": "73rd Amendment", "A_hi": "73वीं संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वीं संशोधन",
+        "C_en": "72nd Amendment", "C_hi": "72वीं संशोधन",
+        "D_en": "76th Amendment", "D_hi": "76वीं संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992 established the Panchayati Raj system to empower local self-governance in rural areas.",
+        "explanation_hi": "1992 में लागू 73वीं संविधान संशोधन अध्यादेश ने ग्रामीण क्षेत्रों में स्थानीय स्वशासन की शक्ति के लिए पंचायती राज प्रणाली स्थापित की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to become a member of a Panchayat?",
+        "question_hi": "पंचायत के सदस्य बने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act, 1992 mandates that the minimum age to be a member of a Panchayat is 21 years.",
+        "explanation_hi": "1992 के 73वीं संशोधन अध्यादेश में निर्दिष्ट है कि पंचायत के सदस्य बने के लिए न्यूनतम आयु 21 वर्ष होनी चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which amendment provided constitutional status to urban local bodies?",
+        "question_hi": "किस संशोधन ने शहरी स्थानीय निकायों को संविधान में अधिकार दिया?",
+        "A_en": "73rd Amendment", "A_hi": "73वीं संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वीं संशोधन",
+        "C_en": "75th Amendment", "C_hi": "75वीं संशोधन",
+        "D_en": "76th Amendment", "D_hi": "76वीं संशोधन",
+        "answer": "B",
+        "explanation_en": "The 74th Constitutional Amendment Act, 1992 granted constitutional status to urban local bodies like municipalities and municipal corporations.",
+        "explanation_hi": "1992 में लागू 74वीं संविधान संशोधन अध्यादेश ने नगर परिषदों और नगर निगम जैसे शहरी स्थानीय निकायों को संविधान में अधिकार दिया।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats in Panchayati Raj institutions must be reserved for Scheduled Castes and Scheduled Tribes?",
+        "question_hi": "पंचायती राज संस्थानों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए कितने प्रतिशत बैठकों की आरक्षित भागों का क्या न्यूनतम प्रतिशत होना चाहिए?",
+        "A_en": "Not less than 50%", "A_hi": "कम से कम 50%",
+        "B_en": "Not less than 75%", "B_hi": "कम से कम 75%",
+        "C_en": "Not less than 25%", "C_hi": "कम से कम 25%",
+        "D_en": "Not less than 10%", "D_hi": "कम से कम 10%",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment mandates that at least 25% of seats in Panchayati Raj institutions be reserved for Scheduled Castes and Scheduled Tribes.",
+        "explanation_hi": "73वीं संशोधन में निर्दिष्ट है कि पंचायती राज संस्थानों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए कम से कम 25% बैठकों की आरक्षित भाग होना चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of urban local bodies as per the 74th Amendment?",
+        "question_hi": "74वीं संशोधन के अनुसार शहरी स्थानीय निकायों का निम्नलिखित में से कौन सा कार्य शामिल नहीं है?",
+        "A_en": "Urban planning and land use regulation", "A_hi": "शहरी योजना और भूमि उपयोग नियंत्रण",
+        "B_en": "Public health and sanitation", "B_hi": "सार्वजनिक स्वास्थ्य और स्वच्छता",
+        "C_en": "Law and order policing", "C_hi": "कानून और अराजकता शासन",
+        "D_en": "Water supply and drainage", "D_hi": "पानी की आपूर्ति और ड्रेनेज",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment delegates functions like urban planning, public health, sanitation, and water supply to urban local bodies, but law and order policing remains under state police.",
+        "explanation_hi": "74वीं संशोधन ने शहरी योजना, सार्वजनिक स्वास्थ्य, स्वच्छता और पानी की आपूर्ति जैसे कार्य शहरी स्थानीय निकायों को दे दिए, लेकिन कानून और अराजकता शासन राज्य पुलिस के अधीन है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest Panchayat elections?",
+        "question_hi": "पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act, 1992 requires candidates for Panchayat elections to be at least 21 years old.",
+        "explanation_hi": "1992 में लागू 73वीं संशोधन अध्यादेश ने पंचायत चुनाव में भाग लेने वाले उम्मीदवारों के लिए कम से कम 21 वर्ष आयु के आवश्यकता रखी।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a key feature of the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से 73वीं संशोधन की मुख्य विशेषता क्या है?",
+        "A_en": "Reservation of seats for women", "A_hi": "महिलाओं के लिए आरक्षित बैठक",
+        "B_en": "Reservation of seats for SC/ST", "B_hi": "अनुसूचित जाति/अनुसूचित जनजाति के लिए आरक्षित बैठक",
+        "C_en": "Both A and B", "C_hi": "ए और बी दोनों",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment mandates a minimum of 33% reservation for women and 25% for SC/ST in Panchayati Raj institutions.",
+        "explanation_hi": "73वीं संशोधन में पंचायती राज संस्थानों में महिलाओं के लिए कम से कम 33% और अनुसूचित जाति/जनजाति के लिए 25% आरक्षित बैठक आवश्यक है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the maximum number of tiers in the Panchayati Raj system?",
+        "question_hi": "पंचायती राज प्रणाली में अधिकतम कितनी स्तर हो सकती हैं?",
+        "A_en": "One", "A_hi": "एक",
+        "B_en": "Two", "B_hi": "दो",
+        "C_en": "Three", "C_hi": "तीन",
+        "D_en": "Four", "D_hi": "चार",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment establishes a three-tier Panchayati Raj system: Gram Panchayat (village level), Panchayat Samiti (block level), and Zila Parishad (district level).",
+        "explanation_hi": "73वीं संशोधन ने तीन स्तरीय पंचायती राज प्रणाली स्थापित की: ग्राम पंचायत (गांव स्तर), पंचायत समिति (ब्लॉक स्तर) और जिला परिषद (जिला स्तर)।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the 74th Amendment?",
+        "question_hi": "निम्नलिखित में स
