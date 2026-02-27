@@ -1,0 +1,154 @@
+<think>
+Okay, let's tackle this. The user needs 10 high-quality MCQs on Carbon and its compounds, specifically Hydrocarbons and Allotropes, for Rajasthan State Exams, SSC, and Railway exams. The questions need to be in both Hindi and English, following a strict JSON format. 
+
+First, I need to recall the key points in the topic. Carbon's allotropes like diamond, graphite, graphene, and fullerenes are important. Then, hydrocarbons include alkanes, alkenes, alkynes, and their examples like methane, ethene, acetylene. Also, maybe some properties or uses. 
+
+I should start by listing possible questions. For example, one could ask about the number of valence electrons in carbon. Then, another about the type of bonds in diamond. Another about the hardest natural substance. Maybe some about isomerism, functional groups, or examples of hydrocarbons. 
+
+Need to ensure the questions are of appropriate difficulty for general science exams. Avoid too technical details but cover fundamental concepts. Each question should have four options, with one correct answer. 
+
+Now, I need to structure each question in both languages. The English and Hindi versions should be accurate translations. For instance, "Valence electrons in carbon" becomes "कार्बन में वलेंस इलेक्ट्रॉन की संख्या कितनी होती है?" 
+
+I should check for any common mistakes. For example, confusing alkanes with alkenes, or mixing up the structures of graphite and diamond. Also, ensuring that the explanations are concise and clear. 
+
+Next, I'll draft each question step by step, making sure the options are plausible and the correct answer is clearly correct. For example, a question on the allotrope with a hexagonal lattice would have graphite as the answer, with options like diamond, graphite, etc. 
+
+I need to verify the facts. For instance, graphene is a single layer of graphite, so a question on that could be included. Also, the uses of different allotropes. 
+
+Once the questions are drafted, I'll format them into the required JSON structure, ensuring that the keys are correct and the languages are properly translated. Double-checking the answer options to avoid any mix-up between A, B, C, D. 
+
+Finally, review all 10 questions to ensure they cover a good range of the topic, are clear, and meet the difficulty level required for the target exams.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "What is the valency of carbon?",
+    "question_hi": "कार्बन की वैलेंस क्या होती है?",
+    "A_en": "2", "A_hi": "2",
+    "B_en": "3", "B_hi": "3",
+    "C_en": "4", "C_hi": "4",
+    "D_en": "1", "D_hi": "1",
+    "answer": "C",
+    "explanation_en": "Carbon has four valence electrons, so its valency is 4.",
+    "explanation_hi": "कार्बन में चार वैलेंस इलेक्ट्रॉन होते हैं, इसलिए इसकी वैलेंस 4 होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is an allotrope of carbon?",
+    "question_hi": "निम्नलिखित में से कौन-सा कार्बन का समावयवी है?",
+    "A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+    "B_en": "Diamond", "B_hi": "हीरा",
+    "C_en": "Hydrogen", "C_hi": "हाइड्रोजन",
+    "D_en": "Nitrogen", "D_hi": "नाइट्रोजन",
+    "answer": "B",
+    "explanation_en": "Diamond is an allotrope of carbon with a crystalline structure.",
+    "explanation_hi": "हीरा कार्बन का एक समावयवी है जिसमें क्रिस्टलीय संरचना होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which hydrocarbon is used as a fuel in gas cylinders?",
+    "question_hi": "गैस सिलेंडर में ईंधन के रूप में किस हाइड्रोकार्बन का उपयोग किया जाता है?",
+    "A_en": "Methane", "A_hi": "मीथेन",
+    "B_en": "Propane", "B_hi": "प्रोपेन",
+    "C_en": "Butane", "C_hi": "ब्यूटेन",
+    "D_en": "Ethane", "D_hi": "ईथेन",
+    "answer": "C",
+    "explanation_en": "Butane is used in gas cylinders for cooking and heating purposes.",
+    "explanation_hi": "गैस सिलेंडर में ब्यूटेन का उपयोग पकाने और गर्म करने के उद्देश्यों के लिए किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "What is the chemical formula of methane?",
+    "question_hi": "मीथेन का रासायनिक सूत्र क्या है?",
+    "A_en": "CH₄", "A_hi": "CH₄",
+    "B_en": "CO₂", "B_hi": "CO₂",
+    "C_en": "C₂H₂", "C_hi": "C₂H₂",
+    "D_en": "C₃H₈", "D_hi": "C₃H₈",
+    "answer": "A",
+    "explanation_en": "Methane is the simplest hydrocarbon with the formula CH₄.",
+    "explanation_hi": "मीथेन सरलतम हाइड्रोकार्बन है जिसका सूत्र CH₄ होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a saturated hydrocarbon?",
+    "question_hi": "निम्नलिखित में से कौन-सा संतृप्त हाइड्रोकार्बन है?",
+    "A_en": "Ethene", "A_hi": "ईथीन",
+    "B_en": "Ethyne", "B_hi": "ईथाइन",
+    "C_en": "Ethane", "C_hi": "ईथेन",
+    "D_en": "Propene", "D_hi": "प्रोपीन",
+    "answer": "C",
+    "explanation_en": "Ethane is a saturated hydrocarbon with only single bonds between carbon atoms.",
+    "explanation_hi": "ईथेन एक संतृप्त हाइड्रोकार्बन है जिसमें कार्बन परमाणुओं के बीच केवल एकल बंध होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which carbon allotrope is a good conductor of electricity?",
+    "question_hi": "कार्बन का कौन-सा समावयवी बिजली का सुचालक है?",
+    "A_en": "Diamond", "A_hi": "हीरा",
+    "B_en": "Graphite", "B_hi": "ग्रेफाइट",
+    "C_en": "Graphene", "C_hi": "ग्राफीन",
+    "D_en": "Fullerene", "D_hi": "फुलरीन",
+    "answer": "B",
+    "explanation_en": "Graphite conducts electricity due to the presence of free electrons.",
+    "explanation_hi": "ग्रेफाइट मुक्त इलेक्ट्रॉनों की उपस्थिति के कारण बिजली का सुचालक है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "What is the main component of natural gas?",
+    "question_hi": "प्राकृतिक गैस का मुख्य घटक क्या है?",
+    "A_en": "Methane", "A_hi": "मीथेन",
+    "B_en": "Ethane", "B_hi": "ईथेन",
+    "C_en": "Propane", "C_hi": "प्रोपेन",
+    "D_en": "Butane", "D_hi": "ब्यूटेन",
+    "answer": "A",
+    "explanation_en": "Natural gas primarily consists of methane (CH₄).",
+    "explanation_hi": "प्राकृतिक गैस में मुख्य रूप से मीथेन (CH₄) होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following has a hexagonal lattice structure?",
+    "question_hi": "निम्नलिखित में से किसकी षट्भुजीय जालक संरचना होती है?",
+    "A_en": "Diamond", "A_hi": "हीरा",
+    "B_en": "Graphite", "B_hi": "ग्रेफाइट",
+    "C_en": "Graphene", "C_hi": "ग्राफीन",
+    "D_en": "Fullerene", "D_hi": "फुलरीन",
+    "answer": "B",
+    "explanation_en": "Graphite has a layered structure with hexagonal lattices in each layer.",
+    "explanation_hi": "ग्रेफाइट में प्रत्येक परत में षट्भुजीय जालक के साथ परतदार संरचना होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "What is the process of converting coal into synthetic fuel called?",
+    "question_hi": "कोयले को संश्लेषित ईंधन में परिवर्तित करने की प्रक्रिया क्या कहलाती है?",
+    "A_en": "Carbonization", "A_hi": "कार्बनीकरण",
+    "B_en": "Gasification", "B_hi": "गैसीकरण",
+    "C_en": "Liquefaction", "C_hi": "द्रवीकरण",
+    "D_en": "Fractionation", "D_hi": "फ्रैक्शनेशन",
+    "answer": "B",
+    "explanation_en": "Gasification converts coal into synthetic gas (syngas) by reacting it with oxygen and steam.",
+    "explanation_hi": "गैसीकरण कोयले को ऑक्सीजन और भाप के साथ अभिक्रिया करके संश्लेषित गैस (सिंगेस) में परिवर्तित करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Carbon aur uske Pramukh Yogik (Hydrocarbons, Allotropes)",
+    "question_en": "Which of the following is a major component of biogas?",
+    "question_hi": "निम्नलिखित में से कौन-सा बायोगैस का मुख्य घटक है?",
+    "A_en": "Methane", "A_hi": "मीथेन",
+    "B_en": "Ethane", "B_hi": "ईथेन",
+    "C_en": "Propane", "C_hi": "प्रोपेन",
+    "D_en": "Butane", "D_hi": "ब्यूटेन",
+    "answer": "A",
+    "explanation_en": "Biogas primarily contains methane produced by the anaerobic digestion of organic matter.",
+    "explanation_hi": "बायोगैस मुख्य रूप से जैविक पदार्थ के अनाक्सीय अपघटन से उत्पन्न मीथेन होता है।"
+  }
+]
