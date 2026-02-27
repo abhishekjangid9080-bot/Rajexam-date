@@ -1,0 +1,145 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Financial Inclusion, Jan-Dhan, and DBT for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling key points about these topics. 
+
+First, Jan-Dhan Yojana is a key initiative for financial inclusion. I should include questions about its launch year, objectives, and features. Then, Direct Benefit Transfer (DBT) is another important aspect. I need to cover its purpose, how it reduces corruption, and maybe some statistics. Also, financial inclusion in general includes access to banking services, digital payments, etc.
+
+Let me think of the first question: What is Financial Inclusion? The answer would be providing access to banking services. Next, the launch year of Jan-Dhan Yojana is 2014. The full form of DBT is Direct Benefit Transfer. The main objective of Jan-Dhan is financial inclusion. The concept of DBT is to transfer subsidies directly into bank accounts. 
+
+For the next questions, maybe ask about the role of mobile banking in Jan-Dhan, the number of accounts opened, how DBT prevents corruption (by reducing leakages), the role of Aadhaar, and a recent innovation in financial inclusion like UPI. Also, a question on the benefits of financial inclusion for the economy.
+
+I need to ensure that all options are plausible and the correct answer is clear. For example, in a question about Jan-Dhan launch, the options could be 2010, 2014, 2016, 2018. The correct answer is 2014. For DBT, the main purpose is to transfer funds directly, so options should include alternatives like cash transfers or checks.
+
+I should also create explanations in both Hindi and English. Make sure the translations are accurate. Check the difficulty level to match these exams, not too easy or too hard. Each question should test understanding of key concepts. Avoid any ambiguous questions. Finally, structure the JSON properly without any markdown, just raw JSON as specified.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "What is the primary objective of the Pradhan Mantri Jan-Dhan Yojana (PMJDY)?",
+    "question_hi": "प्रधानमंत्री जन-धन योजना (पीएमजेडवाई) का प्रमुख उद्देश्य क्या है?",
+    "A_en": "To provide free mobile phones to all citizens",
+    "A_hi": "सभी नागरिकों को निशुल्क मोबाइल फोन प्रदान करना",
+    "B_en": "To promote financial inclusion by opening bank accounts for unbanked populations",
+    "B_hi": "बैंकिंग के बाहर लोगों के लिए बैंक खाते खोलकर वित्तीय समावेशन को बढ़ावा देना",
+    "C_en": "To distribute free laptops to school children",
+    "C_hi": "स्कूली बच्चों को निशुल्क लैपटॉप वितरित करना",
+    "D_en": "To construct new highways in rural areas",
+    "D_hi": "ग्रामीण क्षेत्रों में नए राजमार्गों का निर्माण करना",
+    "answer": "B",
+    "explanation_en": "The PMJDY aims to provide access to financial services, particularly to the unbanked population, by opening basic savings bank accounts.",
+    "explanation_hi": "पीएमजेडवाई का उद्देश्य मुख्य रूप से बैंकिंग के बाहर लोगों को वित्तीय सेवाएं प्रदान करके बुनियादी बचत बैंक खाते खोलना है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "Which technology is used to ensure direct benefit transfers (DBT) in India?",
+    "question_hi": "भारत में प्रत्यक्ष लाभ अंतरण (डीबीटी) सुनिश्चित करने के लिए किस प्रौद्योगिकी का उपयोग किया जाता है?",
+    "A_en": "Radio Frequency Identification (RFID)",
+    "A_hi": "रेडियो फ्रीक्वेंसी आइडेंटिफिकेशन (आरएफआईडी)",
+    "B_en": "Geographic Information System (GIS)",
+    "B_hi": "जियोग्राफिकल इन्फॉर्मेशन सिस्टम (जीआईएस)",
+    "C_en": "Aadhaar-enabled Payment System",
+    "C_hi": "आधार-सक्षम भुगतान प्रणाली",
+    "D_en": "Blockchain Technology",
+    "D_hi": "ब्लॉकचेन तकनीक",
+    "answer": "C",
+    "explanation_en": "The Aadhaar-enabled Payment System ensures secure and direct transfers of subsidies and benefits to beneficiaries' bank accounts.",
+    "explanation_hi": "आधार-सक्षम भुगतान प्रणाली सब्सिडी और लाभों के लाभार्थियों के बैंक खातों में सुरक्षित और प्रत्यक्ष अंतरण सुनिश्चित करती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "Which of the following is NOT a key feature of the Pradhan Mantri Jan-Dhan Yojana?",
+    "question_hi": "निम्नलिखित में से कौन-सा प्रधानमंत्री जन-धन योजना की एक प्रमुख विशेषता नहीं है?",
+    "A_en": "Zero-balance savings accounts",
+    "A_hi": "शून्य शेष बचत खाता",
+    "B_en": "Accident insurance",
+    "B_hi": "दुर्घटना बीमा",
+    "C_en": "Free mobile banking facility",
+    "C_hi": "मोबाइल बैंकिंग सुविधा",
+    "D_en": "Free laptops for all account holders",
+    "D_hi": "सभी खाता धारकों के लिए निशुल्क लैपटॉप",
+    "answer": "D",
+    "explanation_en": "The PMJDY provides basic financial services like zero-balance accounts, insurance, and mobile banking, but it does not offer free laptops.",
+    "explanation_hi": "पीएमजेडवाई शून्य शेष खाते, बीमा और मोबाइल बैंकिंग जैसी मूलभूत वित्तीय सेवाएं प्रदान करती है, लेकिन निशुल्क लैपटॉप नहीं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "What is the role of the Direct Benefit Transfer (DBT) system in reducing corruption?",
+    "question_hi": "प्रत्यक्ष लाभ अंतरण (डीबीटी) प्रणाली का भ्रष्टाचार कम करने में क्या भूमिका है?",
+    "A_en": "It increases the number of physical offices",
+    "A_hi": "इससे भौतिक कार्यालयों की संख्या बढ़ जाती है",
+    "B_en": "It ensures benefits reach the intended beneficiaries without intermediaries",
+    "B_hi": "इससे लाभार्थियों तक लाभ बिना अन्योन्यकर्मियों के पहुंच जाता है",
+    "C_en": "It encourages cash transactions in the informal sector",
+    "C_hi": "इससे अनौपचारिक क्षेत्र में नकद लेन-देन बढ़ता है",
+    "D_en": "It reduces government spending on subsidies",
+    "D_hi": "इससे सब्सिडी पर सरकारी खर्च कम हो जाता है",
+    "answer": "B",
+    "explanation_en": "DBT minimizes leakages and corruption by directly transferring funds to beneficiaries' accounts, bypassing middlemen.",
+    "explanation_hi": "डीबीटी बीच के लोगों को बीताकर धन का सीधा अंतरण करके लाभानुभावियों के खाते में पहुंचाता है, जिससे रिक्तता और भ्रष्टाचार कम होता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "Which of the following is a key component of financial inclusion?",
+    "question_hi": "वित्तीय समावेशन का एक प्रमुख घटक कौन-सा है?",
+    "A_en": "Access to banking services for all",
+    "A_hi": "सभी के लिए बैंकिंग सेवाओं की सुविधा",
+    "B_en": "Building more roads",
+    "B_hi": "अधिक सड़कों का निर्माण",
+    "C_en": "Providing free electricity",
+    "C_hi": "निशुल्क बिजली प्रदान करना",
+    "D_en": "Increasing agricultural production",
+    "D_hi": "कृषि उत्पादन बढ़ाना",
+    "answer": "A",
+    "explanation_en": "Financial inclusion focuses on ensuring access to banking services for all segments of society.",
+    "explanation_hi": "वित्तीय समावेशन समाज के सभी खंडों के लिए बैंकिंग सेवाओं की सुविधा सुनिश्चित करने पर केंद्रित है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "When was the Pradhan Mantri Jan-Dhan Yojana (PMJDY) launched?",
+    "question_hi": "प्रधानमंत्री जन-धन योजना (पीएमजेडवाई) कब शुरू की गई थी?",
+    "A_en": "2010",
+    "A_hi": "2010",
+    "B_en": "2014",
+    "B_hi": "2014",
+    "C_en": "2016",
+    "C_hi": "2016",
+    "D_en": "2018",
+    "D_hi": "2018",
+    "answer": "B",
+    "explanation_en": "The PMJDY was launched on August 28, 2014, by the Government of India.",
+    "explanation_hi": "गृह मंत्रालय ने 28 अगस्त 2014 को पीएमजेडवाई लॉन्च की।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "What is the role of mobile banking in the PMJDY scheme?",
+    "question_hi": "पीएमजेडवाई योजना में मोबाइल बैंकिंग की भूमिका क्या है?",
+    "A_en": "To allow beneficiaries to monitor their accounts online",
+    "A_hi": "लाभार्थियों को अपने खातों की निगरानी ऑनलाइन करने की अनुमति देना",
+    "B_en": "To provide free smartphones",
+    "B_hi": "निशुल्क स्मार्टफोन प्रदान करना",
+    "C_en": "To replace ATMs with mobile payment systems",
+    "C_hi": "एटीएम को मोबाइल भुगतान प्रणालियों से बदल देना",
+    "D_en": "To promote cash transactions",
+    "D_hi": "नकद लेन-देन को बढ़ावा देना",
+    "answer": "A",
+    "explanation_en": "Mobile banking in PMJDY allows users to check balances, transfer money, and monitor accounts without visiting banks.",
+    "explanation_hi": "पीएमजेडवाई में मोबाइल बैंकिंग उपयोगकर्ताओं को बैंक जाए बिना शेष जांचने, पैसा स्थानांतरित करने और अपने खातों की निगरानी करने की अनुमति देता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+    "question_en": "Which of the following is a major advantage of the DBT system?",
+    "question_hi": "निम्नलिखित में से कौन-सा डीबीटी प्रणाली का एक प्रमुख लाभ है?",
+    "A_en": "It increases the need for physical offices",
+    "A_hi": "इससे भौतिक कार्यालयों की आवश्यकता बढ़ जाती है",
+    "B_en": "It reduces the risk of fraud and corruption",
+    "B_hi": "इससे धोखाधड़ी और भ्रष्टाचार के जोखिम कम हो जाते हैं",
+    "C_en": "It promotes the use of cash transactions",
+    "C_hi": "इससे नकद लेन-देन के उपयोग को बढ़ावा दिया जाता ह
