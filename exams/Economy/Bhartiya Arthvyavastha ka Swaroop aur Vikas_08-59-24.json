@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "Bhartiya Arthvyavastha ka Swaroop aur Vikas",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान का अध्ययनीय भाषा क्या है।",
+"A_en": "Hindi",
+"A_hi": "हिंदी",
+"B_en": "Marathi",
+"B_hi": "मराठी",
+"C_en": "Urdu",
+"C_hi": "उर्दू",
+"D_en": "Tamil",
+"D_hi": "टाम",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान के अधिकांतर्यांतीय भाषा हिंदी है।",
+"question_type": "Multiple Choice"
+}
+]
