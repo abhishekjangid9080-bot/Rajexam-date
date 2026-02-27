@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "Seva Kshetra ka Vikas",
+"question_en": "What is the primary industry of Rajasthan?",
+"question_hi": "राजस्थान में प्रथमी एन्डिया क्या है?",
+"A_en": "Agriculture", "A_hi": "कट",
+"B_en": "Textile", "B_hi": "बिजनसेपी",
+"C_en": "Mineral Exploitation", "C_hi": "मिनर इलेक्टिटी और उपयोग",
+"D_en": "Hospitality", "D_hi": "विवासता",
+"answer": "C",
+"explanation_en": "Rajasthan is known for its rich mineral resources and mineral exploitation is the primary industry in the state.\nIn Hindi, this can be explained as: राजस्थान के मिनर इलेक्टिटी और उपयोग",
+"explanation_hi": "राजस्थान में मिनर इलेक्टिटी और उपयोग"
+}
+]
