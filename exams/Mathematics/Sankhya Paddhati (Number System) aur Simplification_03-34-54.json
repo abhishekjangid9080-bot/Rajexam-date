@@ -1,0 +1,198 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Mathematics on Number System and Simplification for Rajasthan exams and others. Let me start by recalling the key concepts in Number System and Simplification. Topics like types of numbers (prime, composite, even, odd), divisibility rules, simplification using BODMAS, LCM, HCF, fractions, decimals, and maybe some word problems.
+
+First question: Let me think about a prime number question. Maybe identifying a prime number among options. For example, 1. Which is not a prime number? Options could be 2, 3, 4, 5. The answer is 4. But wait, 4 is composite. That's a good starter.
+
+Second question: Divisibility. Let's take a number like 12345. Check divisibility by 5. Since it ends with 5, divisible. So the question could be, which is divisible by 5? Options ending with 5 or 0. The answer is 12345.
+
+Third question: Simplification with BODMAS. For example, 5 + 5 × 5 ÷ 5 – 5. Solve step by step. Division first: 5 × (5 ÷ 5) = 5 ×1. Then multiplication: 5 + 5 ×1 –5. Then addition and subtraction: 5 +5 -5 =5. So the answer is 5.
+
+Fourth question: LCM of numbers. Maybe LCM of 12, 18, 24. Let me calculate. Prime factors: 12=2²×3, 18=2×3², 24=2³×3. LCM is highest powers: 2³×3²=8×9=72. So answer is 72.
+
+Fifth question: HCF of numbers. Let's take 24 and 36. Factors of 24: 2³×3, 36: 2²×3². HCF is 2²×3=12. So the answer is 12.
+
+Sixth question: Odd and even numbers. Which is even? Options like 13, 17, 22, 29. Answer is 22.
+
+Seventh question: Simplifying fractions. 3/4 + 1/2 = ? Convert to common denominator: 3/4 + 2/4 = 5/4 or 1.25. So answer is 5/4.
+
+Eighth question: Decimals. 0.75 × 0.25. Multiply 75×25=1875, then adjust decimal places: 0.75 has 2, 0.25 has 2, total 4. So 0.1875. Answer is 0.1875.
+
+Ninth question: Word problem. A number multiplied by 4 gives 60. What is the number? 60 ÷4=15. Answer is 15.
+
+Tenth question: Simplify using BODMAS again. Maybe something like (2 + 3) × (4 - 1) + 5. Solve inside brackets first: 5×3=15, then 15+5=20. Answer is 20.
+
+Now, I need to make sure the questions are in both Hindi and English. Also, explanations in both languages. Let me check each question for clarity and correctness. For example, the first question's options should have 4 as the non-prime. The LCM and HCF examples need correct calculations. Also, the decimal multiplication should be correct. Let me verify all answers again to avoid mistakes. Once all are verified, format into JSON as per the example. Ensure the answer options are labeled A to D, and explanations are accurate. That should cover it.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Which of the following is not a prime number?",
+    "question_hi": "निम्नलिखित में से कौन-सी एक अभाज्य संख्या नहीं है?",
+    "A_en": "2",
+    "A_hi": "2",
+    "B_en": "3",
+    "B_hi": "3",
+    "C_en": "4",
+    "C_hi": "4",
+    "D_en": "5",
+    "D_hi": "5",
+    "answer": "C",
+    "explanation_en": "4 is a composite number as it has more than two factors (1, 2, 4).",
+    "explanation_hi": "4 एक संयुक्त संख्या है क्योंकि इसके दो से अधिक गुणनखंड (1, 2, 4) हैं।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Which of the following numbers is divisible by 5?",
+    "question_hi": "निम्नलिखित में से कौन-सी संख्या 5 से विभाजित है?",
+    "A_en": "1234",
+    "A_hi": "1234",
+    "B_en": "12345",
+    "B_hi": "12345",
+    "C_en": "1236",
+    "C_hi": "1236",
+    "D_en": "1237",
+    "D_hi": "1237",
+    "answer": "B",
+    "explanation_en": "A number is divisible by 5 if its last digit is 0 or 5. 12345 ends with 5, so it is divisible by 5.",
+    "explanation_hi": "एक संख्या 5 से विभाजित होती है यदि उसका अंतिम अंक 0 या 5 हो। 12345 का अंतिम अंक 5 है, इसलिए यह 5 से विभाजित है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Simplify: 5 + 5 × 5 ÷ 5 – 5",
+    "question_hi": "सरल कीजिए: 5 + 5 × 5 ÷ 5 – 5",
+    "A_en": "0",
+    "A_hi": "0",
+    "B_en": "1",
+    "B_hi": "1",
+    "C_en": "5",
+    "C_hi": "5",
+    "D_en": "10",
+    "D_hi": "10",
+    "answer": "C",
+    "explanation_en": "Following BODMAS rule: 5 + (5 × (5 ÷ 5)) – 5 = 5 + (5 × 1) – 5 = 5 + 5 – 5 = 5.",
+    "explanation_hi": "BODMAS नियम के अनुसार: 5 + (5 × (5 ÷ 5)) – 5 = 5 + (5 × 1) – 5 = 5 + 5 – 5 = 5।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Find the LCM of 12, 18, and 24.",
+    "question_hi": "12, 18 और 24 का लघुत्तम समापवर्त्य (LCM) ज्ञात कीजिए।",
+    "A_en": "24",
+    "A_hi": "24",
+    "B_en": "36",
+    "B_hi": "36",
+    "C_en": "72",
+    "C_hi": "72",
+    "D_en": "144",
+    "D_hi": "144",
+    "answer": "C",
+    "explanation_en": "Prime factors: 12 = 2²×3, 18 = 2×3², 24 = 2³×3. LCM is the product of highest powers: 2³×3² = 8×9 = 72.",
+    "explanation_hi": "अभाज्य गुणनखंड: 12 = 2²×3, 18 = 2×3², 24 = 2³×3। LCM उच्चतम घातों का गुणनफल है: 2³×3² = 8×9 = 72।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Find the HCF of 24 and 36.",
+    "question_hi": "24 और 36 का महत्तम समापवर्त्य (HCF) ज्ञात कीजिए।",
+    "A_en": "6",
+    "A_hi": "6",
+    "B_en": "12",
+    "B_hi": "12",
+    "C_en": "18",
+    "C_hi": "18",
+    "D_en": "24",
+    "D_hi": "24",
+    "answer": "B",
+    "explanation_en": "Factors of 24 = 2³×3, factors of 36 = 2²×3². HCF is the product of lowest powers: 2²×3 = 4×3 = 12.",
+    "explanation_hi": "24 के गुणनखंड = 2³×3, 36 के गुणनखंड = 2²×3²। HCF निम्नतम घातों का गुणनफल है: 2²×3 = 4×3 = 12।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Which of the following is an even number?",
+    "question_hi": "निम्नलिखित में से कौन-सी संख्या सम संख्या है?",
+    "A_en": "13",
+    "A_hi": "13",
+    "B_en": "17",
+    "B_hi": "17",
+    "C_en": "22",
+    "C_hi": "22",
+    "D_en": "29",
+    "D_hi": "29",
+    "answer": "C",
+    "explanation_en": "Even numbers are divisible by 2. 22 is divisible by 2, so it is even.",
+    "explanation_hi": "सम संख्याएँ 2 से विभाजित होती हैं। 22, 2 से विभाजित है, इसलिए यह सम संख्या है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Simplify: 3/4 + 1/2",
+    "question_hi": "सरल कीजिए: 3/4 + 1/2",
+    "A_en": "5/4",
+    "A_hi": "5/4",
+    "B_en": "1/2",
+    "B_hi": "1/2",
+    "C_en": "3/2",
+    "C_hi": "3/2",
+    "D_en": "1",
+    "D_hi": "1",
+    "answer": "A",
+    "explanation_en": "Convert to common denominator: 3/4 + 2/4 = 5/4.",
+    "explanation_hi": "सामान्य हर में परिवर्तित करें: 3/4 + 2/4 = 5/4।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Calculate: 0.75 × 0.25",
+    "question_hi": "गणना कीजिए: 0.75 × 0.25",
+    "A_en": "0.1875",
+    "A_hi": "0.1875",
+    "B_en": "0.18",
+    "B_hi": "0.18",
+    "C_en": "0.19",
+    "C_hi": "0.19",
+    "D_en": "0.20",
+    "D_hi": "0.20",
+    "answer": "A",
+    "explanation_en": "Multiply 75 × 25 = 1875. Since there are 4 decimal places in total, the result is 0.1875.",
+    "explanation_hi": "75 × 25 = 1875 की गुणा करे। कुल 4 दशमलव स्थान हैं, इसलिए परिणाम 0.1875 है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "If a number multiplied by 4 gives 60, what is the number?",
+    "question_hi": "यदि किसी संख्या को 4 से गुणा करने पर 60 प्राप्त होता है, तो संख्या क्या है?",
+    "A_en": "10",
+    "A_hi": "10",
+    "B_en": "12",
+    "B_hi": "12",
+    "C_en": "15",
+    "C_hi": "15",
+    "D_en": "18",
+    "D_hi": "18",
+    "answer": "C",
+    "explanation_en": "Let the number be x. 4x = 60 ⇒ x = 60 ÷ 4 = 15.",
+    "explanation_hi": "माना संख्या x है। 4x = 60 ⇒ x = 60 ÷ 4 = 15।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Simplify: (2 + 3) × (4 - 1) + 5",
+    "question_hi": "सरल कीजिए: (2 + 3) × (4 - 1) + 5",
+    "A_en": "10",
+    "A_hi": "10",
+    "B_en": "15",
+    "B_hi": "15",
+    "C_en": "20",
+    "C_hi": "20",
+    "D_en": "25",
+    "D_hi": "25",
+    "answer": "C",
+    "explanation_en": "Solve brackets first: (5) × (3) + 5 = 15 + 5 = 20.",
+    "explanation_hi": "पहले ब्रैकेट हल करें: (5) × (3) + 5 = 15 + 5 = 20।"
+  }
+]
