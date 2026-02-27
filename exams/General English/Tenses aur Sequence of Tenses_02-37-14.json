@@ -1,0 +1,142 @@
+[
+{
+"subject": "General English",
+"topic": "Tenses and Sequence of Tenses",
+"question_en": "When is the first conditional tense used in English?",
+"question_hi": "हिंदी में पहली श्रेणीय प्रतिक्रिया के प्रयोग की मददगार होती है?",
+"A_en": "In situations requiring temporary solution to a problem.",
+"A_hi": "आगे विचलन के लिए पुनर्वासी निर्णय मिलने वाले प्रश्नों के लिए",
+"B_en": "In situations requiring temporary solution to a problem.",
+"B_hi": "आगे विचलन के लिए",
+"C_en": "For situations requiring a plan of action.",
+"C_hi": "पाठ के लिए",
+"D_en": "In conversation, to express an action taking place in the present or future.",
+"D_hi": "श्रेणीय प्रश्नों के लिए",
+"E_en": "For describing past actions or habits.",
+"E_hi": "पूर्वीय प्रश्नों के लिए",
+"F_en": "For expressing plans or proposals.",
+"F_hi": "पैंस या अभिप्रकारों के लिए",
+"question_en": "In what situation is the first conditional tense used?",
+"question_hi": "पहली श्रेणीय प्रश्नों के लिए",
+"options": [
+{
+"option_key": "A",
+"option_value": "In situations requiring a temporary solution to a problem.",
+"answer_en": "A",
+"answer_hi": "पाठी आर्थिक प्रश्नों के लिए",
+"option": {
+"option_key": "B",
+"option_value": "For describing actions taking place in the past or future.",
+"answer_en": "B",
+"answer_hi": "पूर्वीय या दिवसीय अभिपर्यापाठी एक्स्टें के लिए",
+"option": {
+"option_key": "C",
+"option_value": "In situations requiring a definite plan or proposal.",
+"answer_en": "C",
+"answer_hi": "पैंसीय अभिप्रकारों के लिए",
+"option": {
+"option_key": "D",
+"option_value": "For describing habits or regular actions.",
+"answer_en": "D",
+"answer_hi": "अभिपर्यापाठी आर्थीय अभिपर्यापाठी एक्स्टें के लिए",
+"option": {
+"option_key": "E",
+"option_value": "For expressing probable actions.",
+"answer_en": "E",
+"answer_hi": "पाठी आर्थीय अभिपर्यापाठी एक्स्टें के लिए",
+"option": {
+"option_key": "F",
+"option_value": "For expressing hypothetical situations",
+"answer_en": "F",
+"answer_hi": "अभिपर्यापाठी आर्थीय अभिपर्यापाठी एक्स्टें के लिए",
+"option": {
+"option_key": "G",
+"option_value": "For describing daily routine tasks",
+"answer_en": "G",
+"answer_hi": "पाठी आर्थीय अभिपर्यापाठी एक्स्टें के लिए",
+"option": {
+"option_key": "H",
+"option_value": "For describing future plans",
+"answer_en": "H",
+"answer_hi": "अभिपर्यापाठी आर्थीय एक्स्टें के लिए",
+"option": {
+"option_key": "I",
+"option_value": "For describing daily routine activities",
+"answer_en": "I",
+"answer_hi": "अभिपर्यापाठी आर्थीय एक्सें के लिए",
+"option": {
+"option_key": "J",
+"option_value": "For describing hypothetical situations",
+"answer_en": "J",
+"answer_hi": "अभिपर्यापाठी आर्थीय एकें के लिए",
+"option": {
+"option_key": "K",
+"option_value": "For describing planned actions",
+"answer_en": "K",
+"answer_hi": "अभिपर्यापाठी आर्थे कें कें के लें कें ए",
+"option": {
+"option_key": "L",
+"option_value": "For describing future actions",
+"answer_en": "L",
+"answer_hi": "अभिपर्यापाठें कें ए",
+"option": {
+"option_key": "M",
+"option_value": "For describing planned actions",
+"answer_en": "M",
+"answer_hi": "अभिपरें कें ए",
+"option": {
+"option_key": "N",
+"option_value": "For describing habitual actions",
+"answer_en": "N",
+"answer_hi": "अभिर्यापरें ए",
+"option": {
+"option_key": "O",
+"option_value": "For describing imaginary situations",
+"answer_en": "O",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "P",
+"option_value": "For describing hypothetical situations",
+"answer_en": "P",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "Q",
+"option_value": "For describing planned actions",
+"answer_en": "Q",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "R",
+"option_value": "For describing future actions",
+"answer_en": "R",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "S",
+"option_value": "For describing actions in the present",
+"answer_en": "S",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "T",
+"option_value": "For describing actions in the past",
+"answer_en": "T",
+"answer_hi": "अभिरें ए",
+}
+"question_en": "What is the difference between past, present, and future tenses in English?",
+"question_hi": "अभिरें ए",
+"answer_en": "अभिरें ए",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "W",
+"option_value": "For describing completed actions",
+"answer_en": "W",
+"answer_hi": "अभिरें ए",
+"option": {
+"option_key": "X",
+"option_value": "For describing imaginary situations",
+"answer_en": "X",
+"answer_hi": "अभिरें ए",
+}
+"question_en": "अभिरें ए",
+"question_hi": "अभिरें ए",
+},
+"answer_en": "अभिरें ए",
+"answer_hi": "अभिर
