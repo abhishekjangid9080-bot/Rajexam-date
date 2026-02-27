@@ -1,0 +1,16 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the largest contributor to India's GDP?",
+"question_hi": "भारत का एक्सप्रेस के सबसे बड़ा संतुलन क्या है।",
+"A_en": "Agriculture", "A_hi": "बीजेपी",
+"B_en": "Manufacturing", "B_hi": "बंकिंग",
+"C_en": "Services", "C_hi": "सेवा",
+"D_en": "Construction", "D_hi": "निर्माण",
+"answer": "C",
+"explanation_en": "The largest contributor to India's GDP is the Service sector, which includes industries like tourism, information technology, and banking.",
+"explanation_hi": "भारत का एक्सप्रेस के सबसे बड़ा संतुलन क्या है।",
+"explanation_hi": "India's largest GDP contributor is the Service sector, which includes sectors like tourism, IT, and banking."
+}
+]
