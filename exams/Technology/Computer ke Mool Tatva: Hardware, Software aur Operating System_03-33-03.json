@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic "Computer ke Mool Tatva: Hardware, Software aur Operating System" for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling the key areas. Hardware includes components like CPU, RAM, input/output devices. Software involves system software, application software, etc. Operating systems are different types like Windows, Linux, macOS. 
+
+First question could be about the brain of the computer, which is the CPU. The answer should be CPU. Then maybe a question on input devices. Keyboard is an input device. Then storage devices: hard disk is secondary storage. RAM is volatile. Operating system examples, like Windows. Types of software: system software vs application. Device drivers as system software. Booting process steps. Difference between application and system software. File systems in OS.
+
+Need to ensure options are in both Hindi and English. Check for correct terminology in both languages. Make sure explanations are clear and concise. Avoid tricky options but include common mistakes. For example, in the CPU question, include options like RAM, ALU, and Monitor. Wait, ALU is part of CPU, so maybe make the options more distinct. Wait, the CPU includes the ALU and control unit. So in options, RAM is memory, Monitor is output. So the correct answer is CPU.
+
+For the input device question, options could be keyboard, speaker, printer, hard disk. Speaker is output, printer is output, hard disk is storage. So keyboard is input.
+
+Storage question: Hard disk is secondary storage. RAM is primary, not secondary. CD-ROM is optical, but still secondary. So answer is hard disk.
+
+RAM volatile question: Yes, it loses data when powered off. Hard disk is non-volatile. So answer is RAM.
+
+OS example: Windows is an OS. MS Word is application. So answer is Windows.
+
+Software types: System software (OS, drivers) vs application (MS Word). So answer is system software for device drivers.
+
+Booting process: It's the startup process when turning on, loading OS into memory. So answer is B.
+
+Application vs system software: MS Word is application, not system. So answer is application software.
+
+File system in OS: Manages files and directories. So answer is D.
+
+Need to check each question's options for accuracy and clarity. Make sure explanations in both languages are correct. Use appropriate terminology in Hindi. For example, "प्रोग्राम सॉफ्टवेयर" for application software. Also, ensure that the answer options don't have duplicates. Let me go through each question step by step to verify.
+</think>
+
+[
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "कंप्यूटर के कौन से घटक को इसके मस्तिष्क के रूप में जाना जाता है?",
+"question_hi": "कंप्यूटर के कौन से घटक को इसके मस्तिष्क के रूप में जाना जाता है?",
+"A_en": "RAM", "A_hi": "RAM",
+"B_en": "CPU", "B_hi": "CPU",
+"C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+"D_en": "Motherboard", "D_hi": "मदरबोर्ड",
+"answer": "B",
+"explanation_en": "CPU (Central Processing Unit) कंप्यूटर के सभी संसाधनों और ऑपरेशन का केंद्र होता है।",
+"explanation_hi": "CPU (सेंट्रल प्रोसेसिंग यूनिट) कंप्यूटर के सभी संसाधनों और ऑपरेशन का केंद्र होता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा इनपुट डिवाइस के उदाहरण हैं?",
+"question_hi": "निम्न में से कौन सा इनपुट डिवाइस के उदाहरण हैं?",
+"A_en": "Keyboard", "A_hi": "कीबोर्ड",
+"B_en": "Speaker", "B_hi": "स्पीकर",
+"C_en": "Printer", "C_hi": "प्रिंटर",
+"D_en": "Hard Disk", "D_hi": "हार्ड डिस्क",
+"answer": "A",
+"explanation_en": "कीबोर्ड डेटा को कंप्यूटर में इनपुट करने का एकमात्र साधन है। स्पीकर, प्रिंटर और हार्ड डिस्क आउटपुट या भंडारण डिवाइस हैं।",
+"explanation_hi": "कीबोर्ड डेटा को कंप्यूटर में इनपुट करने का एकमात्र साधन है। स्पीकर, प्रिंटर और हार्ड डिस्क आउटपुट या भंडारण डिवाइस हैं।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा द्वितीयक मेमोरी उदाहरण है?",
+"question_hi": "निम्न में से कौन सा द्वितीयक मेमोरी उदाहरण है?",
+"A_en": "RAM", "A_hi": "RAM",
+"B_en": "ROM", "B_hi": "ROM",
+"C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+"D_en": "CD-ROM", "D_hi": "सीडी-रोम",
+"answer": "C",
+"explanation_en": "हार्ड डिस्क द्वितीयक मेमोरी होती है, जो डेटा के लंबे समय तक भंडारण के लिए उपयोग होती है।",
+"explanation_hi": "हार्ड डिस्क द्वितीयक मेमोरी होती है, जो डेटा के लंबे समय तक भंडारण के लिए उपयोग होती है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा अस्थायी मेमोरी के उदाहरण है?",
+"question_hi": "निम्न में से कौन सा अस्थायी मेमोरी के उदाहरण है?",
+"A_en": "Hard Disk", "A_hi": "हार्ड डिस्क",
+"B_en": "ROM", "B_hi": "ROM",
+"C_en": "CD-ROM", "C_hi": "सीडी-रोम",
+"D_en": "RAM", "D_hi": "RAM",
+"answer": "D",
+"explanation_en": "RAM अस्थायी मेमोरी होती है, जो विद्युत बंद होने पर डेटा खो देती है।",
+"explanation_hi": "RAM अस्थायी मेमोरी होती है, जो विद्युत बंद होने पर डेटा खो देती है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा ऑपरेटिंग सिस्टम का उदाहरण है?",
+"question_hi": "निम्न में से कौन सा ऑपरेटिंग सिस्टम का उदाहरण है?",
+"A_en": "MS Word", "A_hi": "एम एस वर्ड",
+"B_en": "Windows", "B_hi": "विंडोज़",
+"C_en": "Excel", "C_hi": "एग्ज़ेल",
+"D_en": "PowerPoint", "D_hi": "पॉवरपॉइंट",
+"answer": "B",
+"explanation_en": "विंडोज़ एक ऑपरेटिंग सिस्टम है जबकि अन्य एप्लिकेशन सॉफ्टवेयर हैं।",
+"explanation_hi": "विंडोज़ एक ऑपरेटिंग सिस्टम है जबकि अन्य एप्लिकेशन सॉफ्टवेयर हैं।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा सॉफ्टवेयर का प्रकार नहीं है?",
+"question_hi": "निम्न में से कौन सा सॉफ्टवेयर का प्रकार नहीं है?",
+"A_en": "System Software", "A_hi": "सिस्टम सॉफ्टवेयर",
+"B_en": "Application Software", "B_hi": "एप्लिकेशन सॉफ्टवेयर",
+"C_en": "Device Driver", "C_hi": "डिवाइस ड्राइवर",
+"D_en": "Firewall", "D_hi": "फायरवॉल",
+"answer": "D",
+"explanation_en": "फायरवॉल एक सुरक्षा उपकरण है, जबकि अन्य सॉफ्टवेयर के प्रकार हैं।",
+"explanation_hi": "फायरवॉल एक सुरक्षा उपकरण है, जबकि अन्य सॉफ्टवेयर के प्रकार हैं।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा ऑपरेटिंग सिस्टम का मुख्य कार्य नहीं है?",
+"question_hi": "निम्न में से कौन सा ऑपरेटिंग सिस्टम का मुख्य कार्य नहीं है?",
+"A_en": "Resource Management", "A_hi": "संसाधन प्रबंधन",
+"B_en": "Boot Process", "B_hi": "बूट प्रक्रिया",
+"C_en": "Data Compression", "C_hi": "डेटा संपीड़न",
+"D_en": "User Interface", "D_hi": "यूजर इंटरफ़ेस",
+"answer": "C",
+"explanation_en": "ऑपरेटिंग सिस्टम डेटा को संपीड़ित नहीं करता है, यह संसाधनों के प्रबंधन और उपयोगकर्ता इंटरफ़ेस का निर्माण करता है।",
+"explanation_hi": "ऑपरेटिंग सिस्टम डेटा को संपीड़ित नहीं करता है, यह संसाधनों के प्रबंधन और उपयोगकर्ता इंटरफ़ेस का निर्माण करता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा सॉफ्टवेयर कंप्यूटर हार्डवेयर को नियंत्रित करता है?",
+"question_hi": "निम्न में से कौन सा सॉफ्टवेयर कंप्यूटर हार्डवेयर को नियंत्रित करता है?",
+"A_en": "Application Software", "A_hi": "एप्लिकेशन सॉफ्टवेयर",
+"B_en": "System Software", "B_hi": "सिस्टम सॉफ्टवेयर",
+"C_en": "Utility Software", "C_hi": "यूटिलिटी सॉफ्टवेयर",
+"D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+"answer": "B",
+"explanation_en": "सिस्टम सॉफ्टवेयर कंप्यूटर हार्डवेयर के साथ संचार करता है और उसे नियंत्रित करता है।",
+"explanation_hi": "सिस्टम सॉफ्टवेयर कंप्यूटर हार्डवेयर के साथ संचार करता है और उसे नियंत्रित करता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "निम्न में से कौन सा ऑपरेटिंग सिस्टम के साथ शुरूआत में चलाए जाने वाले प्रक्रिया को कहा जाता है?",
+"question_hi": "निम्न में से कौन सा ऑपरेटिंग सिस्टम के साथ शुरूआत में चलाए जाने वाले प्रक्रिया को कहा जाता है?",
+"A_en": "Shutdown", "A_hi": "शटडाउन",
+"B_en": "Booting", "B_hi": "बूटिंग",
+"C_en": "Formatting", "C_hi": "फॉर्मेटिंग",
+"D_en": "Log Out", "D_hi": "लॉग आउट",
+"answer": "B",
+"explanation_en": "बूटिंग प्रक्रिया कंप्यूटर चालू करते समय ऑपरेटिंग सिस्टम को शुरू करने के लिए उपयोग होती
