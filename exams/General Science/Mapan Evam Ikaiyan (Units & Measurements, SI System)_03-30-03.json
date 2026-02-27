@@ -1,0 +1,152 @@
+<think>
+Okay, let's tackle this task step by step. The user wants 10 high-quality MCQs on Units & Measurements in the SI System for Rajasthan exams, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style. The JSON structure is provided, so I need to ensure each question adheres strictly to that format.
+
+First, I'll brainstorm topics within Units & Measurements. Common areas include SI units, prefixes, derived units, measuring instruments, and conversions. Let me list out possible question types. For example, questions about the SI unit of time, which is the second. Then, prefixes like kilo, mega, etc. Derived units like newton for force. Instruments like ammeter, voltmeter. Also, check if the user might have specific needs, like emphasizing Rajasthan-specific content, but since it's General Science, probably not.
+
+Next, I need to create questions in both languages. Let me start with the first question. What is the SI unit of length? Answer: meter. Then create options with other units like kilometer, centimeter, etc. Make sure the options are plausible but incorrect. Repeat this for different units and topics.
+
+I should also vary the difficulty slightly. Some questions can be straightforward, others might require knowing prefixes (like kilo, mega) or understanding derived units (like pascal for pressure). Let me check if I have a good mix. Also, include common mistakes or confusing options. For example, confusing volts with watt for power.
+
+Now, translating the questions into Hindi. Need to ensure the scientific terms are correctly translated. Words like "unit" become "इकाई", "SI system" is "एसआई प्रणाली". Make sure the translations are accurate and commonly used in exams. Maybe double-check a few terms to avoid errors.
+
+After drafting the questions, I'll structure each into the JSON format provided. Each question will have subject, topic, question in both languages, four options in both, answer, and explanations. Need to ensure the answer is correctly marked as one of A, B, C, D. Explanations should briefly clarify why the answer is correct, again in both languages.
+
+Let me verify each question for clarity and correctness. For example, the SI unit of electric current is ampere, so the options should include ampere among others like volt, ohm, watt. Also, check for any typographical errors in the options. Ensure that the explanations are concise and directly address the question.
+
+Another check: Are all questions unique and cover different aspects? Avoid repetition. Maybe one on base units, one on derived units, one on prefixes, one on instruments. That covers a good range. Also, include some conversion examples if possible, but maybe that's more advanced. Since the target exams are for LDC, CET, RAS, etc., the difficulty should be moderate, not too complex.
+
+Finally, ensure the JSON structure is correct. No extra commas, proper brackets, and all fields present. Each object in the array should have all the required properties. Test the JSON validity using a validator tool if needed. Once done, present the raw JSON without any additional text as per the user's instructions.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of length?",
+    "question_hi": "लंबाई की एसआई इकाई क्या है?",
+    "A_en": "Kilometer", "A_hi": "किलोमीटर",
+    "B_en": "Centimeter", "B_hi": "सेंटीमीटर",
+    "C_en": "Meter", "C_hi": "मीटर",
+    "D_en": "Millimeter", "D_hi": "मिलीमीटर",
+    "answer": "C",
+    "explanation_en": "Meter is the SI unit of length.",
+    "explanation_hi": "मीटर लंबाई की एसआई इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following is a unit of time?",
+    "question_hi": "निम्नलिखित में से कौन समय की इकाई है?",
+    "A_en": "Second", "A_hi": "सेकंड",
+    "B_en": "Kilogram", "B_hi": "किलोग्राम",
+    "C_en": "Ampere", "C_hi": "एम्पियर",
+    "D_en": "Kelvin", "D_hi": "केल्विन",
+    "answer": "A",
+    "explanation_en": "Second is the SI unit of time.",
+    "explanation_hi": "सेकंड समय की एसआई इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evan Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of electric current?",
+    "question_hi": "विद्युत धारा की एसआई इकाई क्या है?",
+    "A_en": "Coulomb", "A_hi": "कूलॉम",
+    "B_en": "Ampere", "B_hi": "एम्पियर",
+    "C_en": "Volt", "C_hi": "वोल्ट",
+    "D_en": "Ohm", "D_hi": "ओम",
+    "answer": "B",
+    "explanation_en": "Ampere is the SI unit of electric current.",
+    "explanation_hi": "एम्पियर विद्युत धारा की एसआई इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following is a derived unit?",
+    "question_hi": "निम्नलिखित में से कौन एक व्युत्पन्न इकाई है?",
+    "A_en": "Kilogram", "A_hi": "किलोग्राम",
+    "B_en": "Meter", "B_hi": "मीटर",
+    "C_en": "Newton", "C_hi": "न्यूटन",
+    "D_en": "Second", "D_hi": "सेकंड",
+    "answer": "C",
+    "explanation_en": "Newton is a derived unit of force.",
+    "explanation_hi": "न्यूटन बल की व्युत्पन्न इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of temperature?",
+    "question_hi": "तापमान की एसआई इकाई क्या है?",
+    "A_en": "Degree Celsius", "A_hi": "डिग्री सेल्सियस",
+    "B_en": "Kelvin", "B_hi": "केल्विन",
+    "C_en": "Fahrenheit", "C_hi": "फारेनहाइट",
+    "D_en": "Reaumur", "D_hi": "रियूमर",
+    "answer": "B",
+    "explanation_en": "Kelvin is the SI unit of temperature.",
+    "explanation_hi": "केल्विन तापमान की एसआई इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which prefix denotes 10^6?",
+    "question_hi": "कौन सा प्रत्यय 10^6 को दर्शाता है?",
+    "A_en": "Kilo", "A_hi": "किलो",
+    "B_en": "Mega", "B_hi": "मेगा",
+    "C_en": "Giga", "C_hi": "गीगा",
+    "D_en": "Tera", "D_hi": "टेरा",
+    "answer": "B",
+    "explanation_en": "Mega denotes 10^6 in the SI system.",
+    "explanation_hi": "मेगा एसआई प्रणाली में 10^6 को दर्शाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of power?",
+    "question_hi": "शक्ति की एसआई इकाई क्या है?",
+    "A_en": "Watt", "A_hi": "वाट",
+    "B_en": "Joule", "B_hi": "जूल",
+    "C_en": "Newton", "C_hi": "न्यूटन",
+    "D_en": "Pascal", "D_hi": "पास्कल",
+    "answer": "A",
+    "explanation_en": "Watt is the SI unit of power.",
+    "explanation_hi": "वाट शक्ति की एसआई इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which instrument is used to measure electric current?",
+    "question_hi": "विद्युत धारा को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "A_en": "Ammeter", "A_hi": "एमीटर",
+    "B_en": "Voltmeter", "B_hi": "वोल्टमीटर",
+    "C_en": "Ohmmeter", "C_hi": "ओममीटर",
+    "D_en": "Barometer", "D_hi": "बैरोमीटर",
+    "answer": "A",
+    "explanation_en": "An ammeter is used to measure electric current.",
+    "explanation_hi": "एमीटर विद्युत धारा मापने के लिए उपयोग किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "What is the SI unit of pressure?",
+    "question_hi": "दबाव की एसआई इकाई क्या है?",
+    "A_en": "Pascal", "A_hi": "पास्कल",
+    "B_en": "Newton", "B_hi": "न्यूटन",
+    "C_en": "Joule", "C_hi": "जूल",
+    "D_en": "Watt", "D_hi": "वाट",
+    "answer": "A",
+    "explanation_en": "Pascal is the SI unit of pressure.",
+    "explanation_hi": "पास्कल दबाव की एसआई इकाई है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Mapan Evam Ikaiyan (Units & Measurements, SI System)",
+    "question_en": "Which of the following is a fundamental quantity?",
+    "question_hi": "निम्नलिखित में से कौन एक मौलिक राशि है?",
+    "A_en": "Speed", "A_hi": "गति",
+    "B_en": "Force", "B_hi": "बल",
+    "C_en": "Time", "C_hi": "समय",
+    "D_en": "Energy", "D_hi": "ऊर्जा",
+    "answer": "C",
+    "explanation_en": "Time is a fundamental quantity in the SI system.",
+    "explanation_hi": "समय एसआई प्रणाली में एक मौलिक राशि है।"
+  }
+]
