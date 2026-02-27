@@ -1,0 +1,155 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Nanotechnology and Biotechnology for Rajasthan State Exams, SSC, and Railway. Let's start by recalling key concepts. 
+
+First, for nanotechnology, important points include the definition, applications in medicine and electronics, and maybe some examples like nanobots or nanomaterials. For biotechnology, topics could include recombinant DNA, genetic engineering, GMOs, and their uses in agriculture and healthcare. Also, recent advancements or Rajasthan-specific initiatives might be relevant, but since it's general knowledge, focus on common facts.
+
+I need to ensure the questions are in Hindi and English, with explanations in both. The difficulty should be moderate, suitable for general exams. Let me brainstorm possible questions.
+
+1. Definition of nanotechnology (size range of 1-100 nanometers).
+2. Application of nanotechnology in medicine (targeted drug delivery).
+3. Biotechnology example like recombinant DNA.
+4. Use of biotechnology in agriculture (GMOs).
+5. Nanomaterials like carbon nanotubes.
+6. Biotechnology in healthcare (vaccine production).
+7. Nanotechnology in electronics (smaller devices).
+8. Ethical issues in biotechnology (e.g., gene editing).
+9. Rajasthan-based biotech institutions (maybe a trick question if there's none specific).
+10. Difference between nanotechnology and biotechnology.
+
+Now, structure each question with options, answers, and explanations. Check for clarity and accuracy. Ensure options are plausible. Avoid technical jargon where possible. Verify facts, like the size for nanotechnology is indeed 1-100 nanometers. For example, question 1: What is nanotechnology? Options should include correct and close but incorrect answers.
+
+Wait, for the Rajasthan exam, maybe include a question about local applications or institutions, but since the user didn't specify, keep it general. Let's proceed with the initial list. Make sure explanations are concise and in both languages. Avoid any markdown, just JSON. Let me start drafting each question step by step.
+</think>
+
+[
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Nanotechnology ka size range kya hota hai?",
+        "question_hi": "नैनोटेक्नॉलॉजी का आकार क्या होता है?",
+        "A_en": "1-100 microns", "A_hi": "1-100 माइक्रॉन",
+        "B_en": "1-100 nanometers", "B_hi": "1-100 नैनोमीटर",
+        "C_en": "100-1000 nanometers", "C_hi": "100-1000 नैनोमीटर",
+        "D_en": "1-10 nanometers", "D_hi": "1-10 नैनोमीटर",
+        "answer": "B",
+        "explanation_en": "Nanotechnology typically operates at the scale of 1 to 100 nanometers.",
+        "explanation_hi": "नैनोटेक्नॉलॉजी आमतौर पर 1 से 100 नैनोमीटर के पैमाने पर काम करती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Nanotechnology ki ek pramukh chhavi kya hai?",
+        "question_hi": "नैनोटेक्नॉलॉजी की एक प्रमुख विशेषता क्या है?",
+        "A_en": "Large-scale manufacturing", "A_hi": "बड़े पैमाने पर निर्माण",
+        "B_en": "Miniaturization of devices", "B_hi": "उपकरणों का छोटा बनाना",
+        "C_en": "Use of traditional materials", "C_hi": "पारंपरिक सामग्री का उपयोग",
+        "D_en": "High energy consumption", "D_hi": "उच्च ऊर्जा उपभोग",
+        "answer": "B",
+        "explanation_en": "One of the key features of nanotechnology is the miniaturization of devices and systems.",
+        "explanation_hi": "नैनोटेक्नॉलॉजी की एक महत्वपूर्ण विशेषता उपकरणों और प्रणालियों का छोटा बनाना है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Nanotechnology kis sector mein istemal nahi ki jati?",
+        "question_hi": "नैनोटेक्नॉलॉजी किस क्षेत्र में उपयोग नहीं की जाती?",
+        "A_en": "Medicine", "A_hi": "चिकित्सा",
+        "B_en": "Electronics", "B_hi": "इलेक्ट्रॉनिक्स",
+        "C_en": "Agriculture", "C_hi": "कृषि",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "D",
+        "explanation_en": "Nanotechnology is used in medicine, electronics, agriculture, and many other sectors.",
+        "explanation_hi": "नैनोटेक्नॉलॉजी चिकित्सा, इलेक्ट्रॉनिक्स, कृषि और कई अन्य क्षेत्रों में उपयोग की जाती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Biotechnology kya hai?",
+        "question_hi": "जैव प्रौद्योगिकी क्या है?",
+        "A_en": "Use of microorganisms for industrial processes", "A_hi": "औद्योगिक प्रक्रियाओं के लिए सूक्ष्म जीवों का उपयोग",
+        "B_en": "Study of animal behavior", "B_hi": "पशु व्यवहार का अध्ययन",
+        "C_en": "Design of computer software", "C_hi": "कंप्यूटर सॉफ्टवेयर का डिज़ाइन",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "A",
+        "explanation_en": "Biotechnology involves the use of microorganisms for industrial and technological applications.",
+        "explanation_hi": "जैव प्रौद्योगिकी औद्योगिक और प्रौद्योगिकी अनुप्रयोगों के लिए सूक्ष्म जीवों का उपयोग शामिल है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Genetically modified crops ka upyog kya hai?",
+        "question_hi": "आनुवंशिक रूप से संशोधित फसलों का उपयोग क्या है?",
+        "A_en": "Increasing crop yield", "A_hi": "फसल उत्पादन बढ़ाना",
+        "B_en": "Reducing water usage", "B_hi": "पानी के उपयोग को कम करना",
+        "C_en": "Enhancing nutritional content", "C_hi": "पोषक तत्वों को बढ़ाना",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Genetically modified crops can improve yield, reduce water needs, and enhance nutrition.",
+        "explanation_hi": "आनुवंशिक रूप से संशोधित फसलें उत्पादन बढ़ा सकती हैं, पानी की आवश्यकता कम कर सकती हैं और पोषण में सुधार कर सकती हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Nanoparticles kya hote hain?",
+        "question_hi": "नैनोकण क्या होते हैं?",
+        "A_en": "Particles larger than 1 micrometer", "A_hi": "1 माइक्रॉन से बड़े कण",
+        "B_en": "Particles smaller than 100 nanometers", "B_hi": "100 नैनोमीटर से छोटे कण",
+        "C_en": "Particles made of traditional materials", "C_hi": "पारंपरिक सामग्री से बने कण",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "B",
+        "explanation_en": "Nanoparticles are particles with dimensions less than 100 nanometers.",
+        "explanation_hi": "नैनोकण वे कण होते हैं जिनके आयाम 100 नैनोमीटर से कम होते हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Biotechnology kis se related hai?",
+        "question_hi": "जैव प्रौद्योगिकी किससे संबंधित है?",
+        "A_en": "Space exploration", "A_hi": "अंतरिक्ष एक्सप्लोरेशन",
+        "B_en": "Living organisms", "B_hi": "जीवित जीव",
+        "C_en": "Computer engineering", "C_hi": "कंप्यूटर इंजीनियरिंग",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "B",
+        "explanation_en": "Biotechnology is the application of biological systems and organisms to develop or make products.",
+        "explanation_hi": "जैव प्रौद्योगिकी जैविक प्रणालियों और जीवों के अनुप्रयोग के माध्यम से उत्पादों के विकास या निर्माण को शामिल करती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Nanotechnology kya chij banane mein madad karta hai?",
+        "question_hi": "नैनोटेक्नॉलॉजी किस चीज के निर्माण में मदद करती है?",
+        "A_en": "Solar panels", "A_hi": "सौर पैनल",
+        "B_en": "Medicines", "B_hi": "दवाइयाँ",
+        "C_en": "Both A and B", "C_hi": "A और B दोनों",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "C",
+        "explanation_en": "Nanotechnology aids in the development of solar panels and medicines through advanced materials and delivery systems.",
+        "explanation_hi": "नैनोटेक्नॉलॉजी उन्नत सामग्री और वितरण प्रणालियों के माध्यम से सौर पैनल और दवाओं के विकास में मदद करती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "CRISPR-Cas9 ki kya madad hoti hai?",
+        "question_hi": "CRISPR-Cas9 की क्या मदद होती है?",
+        "A_en": "Nanoparticle synthesis", "A_hi": "नैनोकण संश्लेषण",
+        "B_en": "DNA editing", "B_hi": "डीएनए संपादन",
+        "C_en": "Solar energy storage", "C_hi": "सौर ऊर्जा भंडारण",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "B",
+        "explanation_en": "CRISPR-Cas9 is a biotechnology tool used for precise DNA editing.",
+        "explanation_hi": "CRISPR-Cas9 एक जैव प्रौद्योगिकी उपकरण है जिसका उपयोग ठीक-ठाक डीएनए संपादन में किया जाता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Nanotechnology aur Biotechnology ke beech ki main difference kya hai?",
+        "question_hi": "नैनोटेक्नॉलॉजी और जैव प्रौद्योगिकी के बीच मुख्य अंतर क्या है?",
+        "A_en": "Nanotechnology deals with molecules, Biotechnology with cells", "A_hi": "नैनोटेक्नॉलॉजी अणुओं के साथ निपटती है, जैव प्रौद्योगिकी कोशिकाओं के साथ",
+        "B_en": "Biotechnology is larger in scale", "B_hi": "जैव प्रौद्योगिकी बड़े पैमाने पर है",
+        "C_en": "Nanotechnology uses living organisms", "C_hi": "नैनोटेक्नॉलॉजी जीवित जीवों का उपयोग करती है",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "Nanotechnology focuses on manipulating atoms and molecules, while Biotechnology works with living cells and organisms.",
+        "explanation_hi": "नैनोटेक्नॉलॉजी परमाणुओं और अणुओं के संशोधन पर केंद्रित है, जबकि जैव प्रौद्योगिकी जीवित कोशिकाओं और जीवों के साथ काम करती है।"
+    }
+]
