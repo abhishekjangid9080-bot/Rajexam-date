@@ -1,0 +1,128 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Space Technology and ISRO Missions for Rajasthan State Exams, SSC, and Railway. Let's start by recalling key points about ISRO's missions and space tech.
+
+First, ISRO's recent missions like Chandrayaan-3, Aditya-L1, and others come to mind. Also, important figures like the first satellite, Aryabhata. Then, technologies like GSLV, PSLV, and their roles. Maybe some facts about Mars Orbiter Mission (Mangalyaan) and its significance. Also, notable achievements like the 100th satellite launch.
+
+I should make sure each question covers different aspects: missions, technologies, key personnel, achievements, and recent developments. Need to check accuracy of facts. For example, Chandrayaan-3 was launched in 2023, Aditya-L1 is a solar mission. Also, the first Indian satellite was Aryabhata in 1975. ISRO's headquarters is in Bangalore. Maybe some questions on launch vehicles, payloads, and international collaborations.
+
+Let me structure each question with options in both Hindi and English. The answers should be accurate. Explanations should clarify why the correct answer is right, maybe touching on key facts. For example, Chandrayaan-3's purpose was to land near the lunar south pole. Aditya-L1 is about the Sun, so its position at Lagrange point 1. Mangalyaan's cost-effectiveness. The 100th satellite milestone.
+
+Need to avoid any incorrect information. Let me verify each fact. For example, the first satellite was Aryabhata, launched in 1975. The first satellite launch from India was Rohini in 1980. The Mars Orbiter Mission (MOM) was in 2013. Chandrayaan-1 was 2008, Chandrayaan-2 in 2019, Chandrayaan-3 2023. Aditya-L1 is planned for 2023-2024. The 100th satellite was EOS-02 in 2022. ISRO's first human spaceflight mission is Gaganyaan, slated for late 2024-25.
+
+Also, the heaviest satellite launched by ISRO is GSAT-14. PSLV is a reliable launch vehicle for smaller satellites, GSLV for heavier ones. Mangalyaan's cost was around $74 million, which was significantly lower than NASA's MAVEN. The first indigenous cryogenic engine was used in GSLV D2 in 2010. The first satellite to explore the lunar surface was Chandrayaan-1. The first indigenous remote sensing satellite was IRS-1A in 1988.
+
+Now, formulating the questions. Each should have four options, with the correct answer in the options. The explanations should be concise but informative. Let me start drafting each question step by step, ensuring the Hindi and English versions match correctly. Also, check that the difficulty level is appropriate for the exams mentioned, not too easy or too technical. Maybe some questions can focus on dates, key missions, technologies, and their purposes.
+</think>
+
+[
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "Which of the following missions aims to study the Sun from Lagrange point L1?",
+        "question_hi": "निम्नलिखित में से कौन-सा मिशन लग्रेंज बिंदु L1 से सूर्य का अध्ययन करने का लक्ष्य रखता है?",
+        "A_en": "Chandrayaan-3", "A_hi": "चंद्रयान-3",
+        "B_en": "Aditya-L1", "B_hi": "अदित्य-एल1",
+        "C_en": "Mars Orbiter Mission", "C_hi": "मंगलयान मिशन",
+        "D_en": "Chandrayaan-1", "D_hi": "चंद्रयान-1",
+        "answer": "B",
+        "explanation_en": "Aditya-L1 is ISRO's first solar mission designed to study the Sun from the Lagrange point L1, providing continuous observation.",
+        "explanation_hi": "अदित्य-एल1 एल1 लग्रेंज बिंदु से सूर्य के अध्ययन के लिए एक निरंतर अवलोकन प्रदान करने वाला एक आईएसआरओ का पहला सौर मिशन है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "Which ISRO mission was launched to land near the lunar South Pole?",
+        "question_hi": "लूनर साउथ पोल के पास लैंड करने के लिए आईएसआरओ के कौन-से मिशन का प्रक्षेपण किया गया था?",
+        "A_en": "Chandrayaan-1", "A_hi": "चंद्रयान-1",
+        "B_en": "Chandrayaan-2", "B_hi": "चंद्रयान-2",
+        "C_en": "Chandrayaan-3", "C_hi": "चंद्रयान-3",
+        "D_en": "Chandrayaan-4", "D_hi": "चंद्रयान-4",
+        "answer": "C",
+        "explanation_en": "Chandrayaan-3 was launched in 2023 to land near the lunar South Pole after the failure of Chandrayaan-2.",
+        "explanation_hi": "चंद्रयान-3 का 2023 में चंद्रमा के दक्षिणी ध्रुव के पास लैंड करने के लिए प्रक्षेपण किया गया था, क्योंकि चंद्रयान-2 का लैंडिंग प्रयास असफल रहा था।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "What was the first satellite launched by ISRO?",
+        "question_hi": "आईएसआरओ द्वारा प्रक्षेपित पहला उपग्रह कौन-सा था?",
+        "A_en": "Aryabhata", "A_hi": "आर्यभट्ट",
+        "B_en": "Bhaskar", "B_hi": "भास्कर",
+        "C_en": "Rohini", "C_hi": "रोहिणी",
+        "D_en": "INSAT-1A", "D_hi": "इंसैट-1ए",
+        "answer": "A",
+        "explanation_en": "Aryabhata was ISRO's first satellite, launched in 1975 with the help of the Soviet Union.",
+        "explanation_hi": "आर्यभट्ट आईएसआरओ का पहला उपग्रह था, जिसे 1975 में सोवियत संघ की सहायता से प्रक्षेपित किया गया था।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "Which launch vehicle is used for heavy-lift missions by ISRO?",
+        "question_hi": "भारी उठान वाले मिशनों के लिए आईएसआरओ द्वारा किस प्रक्षेपण यान का उपयोग किया जाता है?",
+        "A_en": "PSLV", "A_hi": "पीएसएलवी",
+        "B_en": "GSLV", "B_hi": "जीएसएलवी",
+        "C_en": "SSLV", "C_hi": "एसएसएलवी",
+        "D_en": "Sounding Rocket", "D_hi": "ध्वनि रॉकेट",
+        "answer": "B",
+        "explanation_en": "GSLV (Geosynchronous Satellite Launch Vehicle) is used for heavy-lift missions, such as launching communication satellites.",
+        "explanation_hi": "जीएसएलवी (भूसमकोणीय उपग्रह प्रक्षेपण यान) भारी उठान वाले मिशनों के लिए उपयोग किया जाता है, जैसे संचार उपग्रहों का प्रक्षेपण।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "What is the primary objective of the Mars Orbiter Mission (MOM)?",
+        "question_hi": "मंगलयान मिशन (एमओएम) का मुख्य उद्देश्य क्या है?",
+        "A_en": "To study the Martian atmosphere", "A_hi": "मंगल ग्रह के वातावरण का अध्ययन करना",
+        "B_en": "To land on Mars", "B_hi": "मंगल ग्रह पर लैंड करना",
+        "C_en": "To establish a colony on Mars", "C_hi": "मंगल ग्रह पर एक प्रतिष्ठान स्थापित करना",
+        "D_en": "To find water on Mars", "D_hi": "मंगल ग्रह पर पानी खोजना",
+        "answer": "A",
+        "explanation_en": "The Mars Orbiter Mission primarily aims to study the Martian atmosphere and surface features using its onboard instruments.",
+        "explanation_hi": "मंगलयान मिशन मुख्य रूप से अपने बोर्ड के उपकरणों का उपयोग करके मंगल ग्रह के वातावरण और सतह की विशेषताओं का अध्ययन करने का लक्ष्य रखता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "Which of the following is ISRO's heaviest satellite launched to date?",
+        "question_hi": "निम्नलिखित में से कौन-सा आईएसआरओ द्वारा अब तक प्रक्षेपित सबसे भारी उपग्रह है?",
+        "A_en": "GSAT-14", "A_hi": "जीएसएटी-14",
+        "B_en": "GSAT-19", "B_hi": "जीएसएटी-19",
+        "C_en": "GSAT-30", "C_hi": "जीएसएटी-30",
+        "D_en": "GSAT-11", "D_hi": "जीएसएटी-11",
+        "answer": "D",
+        "explanation_en": "GSAT-11, launched in 2018, is ISRO's heaviest satellite, weighing over 5,854 kg.",
+        "explanation_hi": "जीएसएटी-11, जिसे 2018 में प्रक्षेपित किया गया था, आईएसआरओ का सबसे भारी उपग्रह है, जिसका वजन 5,854 किलोग्राम से अधिक है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "Which ISRO mission successfully placed 104 satellites in a single launch?",
+        "question_hi": "कौन-सा आईएसआरओ मिशन एकल प्रक्षेपण में 104 उपग्रहों को सफलतापूर्वक अंतरिक्ष में ले गया?",
+        "A_en": "PSLV-C37", "A_hi": "पीएसएलवी-सी37",
+        "B_en": "PSLV-C34", "B_hi": "पीएसएलवी-सी34",
+        "C_en": "PSLV-C25", "C_hi": "पीएसएलवी-सी25",
+        "D_en": "PSLV-C31", "D_hi": "पीएसएलवी-सी31",
+        "answer": "A",
+        "explanation_en": "PSLV-C37, launched in 2017, set a world record by deploying 104 satellites in a single mission.",
+        "explanation_hi": "पीएसएलवी-सी37, जिसे 2017 में प्रक्षेपित किया गया था, एकल मिशन में 104 उपग्रहों को तैनात करके एक विश्व रिकॉर्ड स्थापित किया।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "What is the name of ISRO's first human spaceflight mission?",
+        "question_hi": "आईएसआरओ के पहले मानविकरण अंतरिक्ष यात्रा मिशन का नाम क्या है?",
+        "A_en": "Chandrayaan", "A_hi": "चंद्रयान",
+        "B_en": "Aditya", "B_hi": "अदित्य",
+        "C_en": "Gaganyaan", "C_hi": "गगनयान",
+        "D_en": "Mangalyaan", "D_hi": "मंगलयान",
+        "answer": "C",
+        "explanation_en": "Gaganyaan is ISRO's planned first human spaceflight mission, aiming to send Indian astronauts to space by 2025.",
+        "explanation_hi": "गगनयान आईएसआरओ का निर्धारित पहला मानविकरण अंतरिक्ष यात्रा मिशन है, जिसका उद्देश्य 2025 तक भारतीय अंतरिक्ष यात्रियों को अंतरिक्ष में भेजना है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+        "question_en": "Which of the following ISRO missions is focused on Earth observation?",
+        "question_hi": "निम्नलिखित में से कौन-से आईएसआरओ मिशन पृथ्वी अवलोकन पर केंद्रित है?",
+        "A_en": "Chandrayaan-2", "A_hi": "चंद्रयान-2",
+        "B_en": "Mars Orbiter", "B_hi":
