@@ -1,0 +1,110 @@
+[
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "According to Newton's First Law of Motion, an object in a state of uniform motion will continue in that state unless acted upon by an external ____.",
+"question_hi": "नॉटिनर के पहले नियम को पूछें। उच्च उपयोगी को किसे प्रभाव करने के लिए विभिन्ने के नियमों के पाठ करो।",
+"options_en": [
+{
+"option": "Inertia",
+"option_value": "Inertia"
+},
+{
+"option": "Gravity",
+"option_value": "Gravity"
+},
+{
+"option": "Centre of Gravity",
+"option_value": "Centre of Gravity"
+},
+{
+"option": "Friction",
+"option_value": "Friction"
+},
+{
+"option": "Acceleration",
+"option_value": "Acceleration"
+}
+],
+"options_hi": [
+{
+"option": "अनुक्रमता",
+"option_value": "अनुक्रमता"
+},
+{
+"option": "गतिवाद",
+"option_value": "गतिवाद"
+},
+{
+"option": "कैमन",
+"option_value": "कैमन"
+},
+{
+"option": "कैटिक ग्रेस",
+"option_value": "कैटिक ग्रेस"
+},
+{
+"option": "कैटिक धर्मन",
+"option_value": "कैटिक धर्मन"
+}
+],
+"answer_hi": "कैटिक ग्रेस",
+"answer_en": "Friction"
+},
+{
+"question_en": "According to the second law of motion, a body experiences ___ when a force is applied on it.",
+"question_hi": "परिषद द्वारा के अर्थ मूल को अन्यारा लेन को लगेंग होगाविक को अन्यारा लेन को लेन को लगेंग होगा",
+"options_en": [
+{
+"option": "आएँ",
+"option_value": "आएँ"
+},
+{
+"option": "जमन",
+"option_value": "जमन"
+},
+{
+"option": "जमाल",
+"option_value": "जमाल"
+},
+{
+"option": "जमना",
+"option_value": "जमना"
+},
+{
+"option": "जमनरा",
+"option_value": "जमनरा"
+}
+],
+"options_hi": [
+{
+"option": "अर्धित",
+"option_value": "अर्धित"
+},
+{
+"option": "कंसर",
+"option_value": "कंसर"
+},
+{
+"option": "परिचार",
+"option_value": "परिचार"
+},
+{
+"option": "परिचारी",
+"option_value": "परिचारी"
+},
+{
+"option": "परिचार्मन",
+"option_value": "परिचार्मन"
+}
+],
+"answer_hi": "परिचारी",
+"answer_en": "परिचारी",
+"answer_explanation_hi": "परिचारी",
+"answer_explanation_en": "परिचारी",
+"question_explanation_hi": "परिचारी",
+"question_explanation_en": "परिचारी",
+"question_explanation_en": "According to Newton's Second Law of Motion, a body continues in its motion unless acted upon by an ____.",
+"question_explanation_hi": "न्युतिर्ती",
+}
+]
