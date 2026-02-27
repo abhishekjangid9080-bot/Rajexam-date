@@ -1,0 +1,21 @@
+[
+{
+"subject": "Economy",
+"topic": "Indian Economy",
+"question_en": "What is the current GDP growth rate of India?",
+"question_hi": "भारत का वर्तमान GDP कमाण्ड क्या है?",
+"A_en": "9.5", "A_hi": "9.5",
+"B_en": "11", "B_hi": "11",
+"C_en": "8.5", "C_hi": "8.5",
+"D_en": "7", "D_hi": "7",
+"answer": "C",
+"explanation_en": "According to the latest estimates, the current GDP growth rate of India is 8.5%. This rate may vary and is subject to change over time.\nSource: National Institute of Public Finance and Policy (NIPFP)",
+"explanation_hi": "परिणामहित संकेतों में भारत का वर्तमान GDP कमाण्ड क्या है? इसका अनुमानदार रहने वाला संकेत आपस में बदल सकता है और यह समय के टेस्ट पर आपस में बदल सकता है।",
+"answer": "भारत",
+"explanation_en": "The current GDP of India is subject to change over time. According to recent estimates, India's GDP in 2021 was approximately $2856.8 billion (at current prices). Note that these figures can fluctuate.",
+"explanation_hi": "भारत का वर्तमान GDP पूर्वरूप पर बदल सकता है। मैंने 2021 में भारत का GDP क्या एक्सपर बदल सकता है। विश्वस्थान के तहत भारत का GDP एक्सपर बदल सकता है।",
+"answer": "भारत",
+"explanation_en": "The GDP of India is subject to change over time. According to recent estimates, India's GDP in 2021 was around $2856.8 billion (at current prices). Note that these figures can fluctuate.",
+"explanation_hi": "भारत का GDP प्रावधिक वर्षीय लाभ वर्षीय दर पर पहले प्रायोजन बदल सकता है।",
+}
+]
