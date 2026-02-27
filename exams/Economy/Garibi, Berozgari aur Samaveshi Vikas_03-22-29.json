@@ -1,0 +1,156 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Poverty, Unemployment, and Inclusive Development in the Economy for Rajasthan State Exams, SSC, and Railway exams. Let me start by recalling the key concepts related to this subject.
+
+First, poverty measurement in India. I should include a question on the Tendulkar Committee and the Rangarajan Committee. Maybe ask which committee revised the poverty line calculation. The answer is Rangarajan, but I need to confirm the years to avoid confusion.
+
+Next, unemployment types. There's disguised unemployment, which is common in India's agricultural sector. A question could ask which sector it's prevalent in. The options would include agriculture, manufacturing, etc. The correct answer would be agriculture.
+
+Inclusive growth indicators. The Human Development Index (HDI) is a key one. A question could ask which index is used to measure inclusive growth. HDI, Gini coefficient, etc. HDI would be the answer here.
+
+Government schemes for poverty alleviation. The Pradhan Mantri Awas Yojana (PMAY) is aimed at housing for all. A question could ask which scheme targets housing for the poor. Other schemes like MNREGA or AAY might be options.
+
+Measuring unemployment in India. The National Sample Survey Office (NSSO) conducts surveys. A question could ask which organization publishes unemployment data. CBSE or CSO might be distractors.
+
+Social security schemes. The Atal Pension Yojana (APY) is for unorganized sector workers. The question could be which scheme provides pension to unorganized workers. Others like PMMY or SHG could be options.
+
+Inclusive development aspects. The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) provides rural employment. A question on employment guarantee programs would have MGNREGA as the correct answer.
+
+Poverty alleviation in Rajasthan. The Rajeev Gandhi Shramik Kalyan Yojana is specific to Rajasthan. The question could ask which scheme is for Rajasthan's laborers. Other state-specific schemes as distractors.
+
+Impact of unemployment. High unemployment can lead to social unrest. A question on consequences of unemployment, with options including economic growth, social stability, etc. The correct answer would be social unrest.
+
+Recent poverty data. The latest all-India poverty rate as per the World Bank or any recent estimates. Need to check the most current data to include accurate percentages.
+
+I need to ensure that the questions are in both Hindi and English, with explanations in both languages. The options should be clear and not overlapping. Also, the difficulty level should be appropriate for the exams mentioned. Let me verify each fact to avoid errors. For example, confirming the Rangarajan Committee's role in updating the poverty line. Also, making sure that the schemes are correctly attributed to their purposes.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which committee revised the methodology for measuring poverty in India in 2012?",
+    "question_hi": "2012 में भारत में गरीबी के माप के तरीके को किस समिति द्वारा संशोधित किया गया था?",
+    "A_en": "C. Rangarajan Committee",
+    "A_hi": "सी. रंगराजन समिति",
+    "B_en": "Suresh Tendulkar Committee",
+    "B_hi": "श्रीराम टेंडुलकर समिति",
+    "C_en": "K. N. Raj Committee",
+    "C_hi": "के. एन. राज समिति",
+    "D_en": "D. T. Lakdawala Committee",
+    "D_hi": "डी. टी. लाकदवाला समिति",
+    "answer": "A",
+    "explanation_en": "The Rangarajan Committee revised the methodology for measuring poverty in India in 2012, replacing the earlier Tendulkar Committee method.",
+    "explanation_hi": "2012 में भारत में गरीबी के माप के तरीके को टेंडुलकर समिति के तरीके के स्थान पर रंगराजन समिति द्वारा संशोधित किया गया था।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which type of unemployment is most common in India's agricultural sector?",
+    "question_hi": "भारत के कृषि क्षेत्र में किस प्रकार की बेरोजगारी सबसे आम है?",
+    "A_en": "Structural unemployment",
+    "A_hi": "संरचनात्मक बेरोजगारी",
+    "B_en": "Disguised unemployment",
+    "B_hi": "असामान्य बेरोजगारी",
+    "C_en": "Cyclical unemployment",
+    "C_hi": "चक्रीय बेरोजगारी",
+    "D_en": "Seasonal unemployment",
+    "D_hi": "मौसमी बेरोजगारी",
+    "answer": "B",
+    "explanation_en": "Disguised unemployment is prevalent in Indian agriculture where more people are employed than actually required.",
+    "explanation_hi": "भारतीय कृषि में असामान्य बेरोजगारी आम है, जहां वास्तविक आवश्यकता से अधिक लोगों को रोजगार दिया जाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following indices is used to measure inclusive growth?",
+    "question_hi": "निम्नलिखित में से किस सूचकांक का उपयोग समावेशी विकास के मापन के लिए किया जाता है?",
+    "A_en": "Human Development Index (HDI)",
+    "A_hi": "मानव विकास सूचकांक (एचडीआई)",
+    "B_en": "Gini Coefficient",
+    "B_hi": "जिनी गुणांक",
+    "C_en": "Composite Development Index (CDI)",
+    "C_hi": "समग्र विकास सूचकांक (सीडीआई)",
+    "D_en": "Social Progress Index",
+    "D_hi": "सामाजिक प्रगति सूचकांक",
+    "answer": "A",
+    "explanation_en": "The Human Development Index (HDI) is a key indicator of inclusive growth, reflecting health, education, and income levels.",
+    "explanation_hi": "मानव विकास सूचकांक (एचडीआई) समावेशी विकास का महत्वपूर्ण सूचक है, जो स्वास्थ्य, शिक्षा और आय स्तर को दर्शाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which government scheme aims to provide housing for the urban poor?",
+    "question_hi": "शहरी गरीबों के लिए आवास प्रदान करने के लिए किस सरकारी योजना का उद्देश्य है?",
+    "A_en": "Pradhan Mantri Awas Yojana (PMAY)",
+    "A_hi": "प्रधान मंत्री आवास योजना (पीएमएवाई)",
+    "B_en": "National Rural Employment Guarantee Act (NREGA)",
+    "B_hi": "राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (एनआरईजीए)",
+    "C_en": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "C_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (एमजीएनआरईजीए)",
+    "D_en": "Antyodaya Anna Yojana (AAY)",
+    "D_hi": "अंत्योदय अन्न योजना (एएई)",
+    "answer": "A",
+    "explanation_en": "Pradhan Mantri Awas Yojana (PMAY) focuses on providing affordable housing to urban poor and slum dwellers.",
+    "explanation_hi": "प्रधान मंत्री आवास योजना (पीएमएवाई) शहरी गरीबों और झुग्गीवालों के लिए सस्ता आवास प्रदान करने पर केंद्रित है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which organization in India publishes the monthly unemployment rate?",
+    "question_hi": "भारत में मासिक बेरोजगारी दर किस संगठन द्वारा प्रकाशित की जाती है?",
+    "A_en": "National Sample Survey Office (NSSO)",
+    "A_hi": "राष्ट्रीय नमूना सर्वेक्षण कार्यालय (एनएसएसओ)",
+    "B_en": "Central Statistics Office (CSO)",
+    "B_hi": "केंद्रीय सांख्यिकी कार्यालय (सीएसओ)",
+    "C_en": "Labour Bureau",
+    "C_hi": "श्रम ब्यूरो",
+    "D_en": "Ministry of Finance",
+    "D_hi": "वित्त मंत्रालय",
+    "answer": "A",
+    "explanation_en": "The National Sample Survey Office (NSSO) conducts surveys and publishes the unemployment rate in India.",
+    "explanation_hi": "राष्ट्रीय नमूना सर्वेक्षण कार्यालय (एनएसएसओ) सर्वेक्षण आयोजित करता है और भारत में बेरोजगारी दर प्रकाशित करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following schemes is targeted at providing pensions to unorganized sector workers?",
+    "question_hi": "निम्नलिखित में से कौन-सी योजना अनुसूचित क्षेत्र के श्रमिकों के लिए पेंशन प्रदान करने के लिए लक्षित है?",
+    "A_en": "Atal Pension Yojana (APY)",
+    "A_hi": "अटल पेंशन योजना (एपीवाई)",
+    "B_en": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "B_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना (पीएमजेजेबीवाई)",
+    "C_en": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "C_hi": "प्रधान मंत्री सुरक्षा बीमा योजना (पीएमएसबीवाई)",
+    "D_en": "National Social Assistance Programme (NSAP)",
+    "D_hi": "राष्ट्रीय सामाजिक सहायता कार्यक्रम (एनएसएपी)",
+    "answer": "A",
+    "explanation_en": "Atal Pension Yojana (APY) provides a defined pension of Rs. 1,000 to Rs. 5,000 per month to unorganized sector workers.",
+    "explanation_hi": "अटल पेंशन योजना (एपीवाई) अनुसूचित क्षेत्र के श्रमिकों को 1,000 रुपये से 5,000 रुपये प्रति माह की निर्धारित पेंशन प्रदान करती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which of the following is a key indicator of inclusive development?",
+    "question_hi": "समावेशी विकास का महत्वपूर्ण सूचकांक निम्नलिखित में से कौन-सा है?",
+    "A_en": "Gross Domestic Product (GDP)",
+    "A_hi": "कुल घरेलू उत्पाद (जीडीपी)",
+    "B_en": "Human Development Index (HDI)",
+    "B_hi": "मानव विकास सूचकांक (एचडीआई)",
+    "C_en": "Inflation Rate",
+    "C_hi": "मुद्रास्फीति दर",
+    "D_en": "Interest Rate",
+    "D_hi": "ब्याज दर",
+    "answer": "B",
+    "explanation_en": "The Human Development Index (HDI) is a composite indicator of health, education, and income, reflecting inclusive development.",
+    "explanation_hi": "मानव विकास सूचकांक (एचडीआई) स्वास्थ्य, शिक्षा और आय का संयुक्त सूचक है, जो समावेशी विकास को दर्शाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Garibi, Berozgari aur Samaveshi Vikas",
+    "question_en": "Which employment guarantee scheme is implemented for rural areas in India?",
+    "question_hi": "भारत में ग्रामीण क्षेत्रों के लिए किस रोजगार गारंटी योजना को लागू किया गया है?",
+    "A_en": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "A_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (एमजीएनआरईजीए)",
+    "B_en": "Pradhan Mantri Rozgar Yojana (PMRY)",
+    "B_hi": "प्रधान मंत्री रोजगार योजना (पीएमआरवाई)",
+    "C_en
