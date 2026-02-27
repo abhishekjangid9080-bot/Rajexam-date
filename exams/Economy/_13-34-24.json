@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Fiscal Policy",
+"question_en": "What is the primary objective of a Fiscal Policy in an economy?",
+"question_hi": "एक एकीकरणीय प्रतियोगिक प्रणाली के सामर्थ्य में प्रमुख उद्देश क्या है?",
+"A_en": "To stabilize inflation",
+"A_hi": "समर्थन संतुलन को समझने के लिए",
+"B_en": "To control fiscal deficit",
+"B_hi": "प्रमुख उद्देश के लिए संतुलन बनाना",
+"C_en": "To improve the growth rate of the economy",
+"C_hi": "एकीकरणीय प्रमुख उद्देश को प्राप्ति करने के लिए",
+"D_en": "To achieve macroeconomic stability",
+"D_hi": "एकीकरणीय उद्देश को प्राप्ति करने के लिए",
+"answer": "D",
+"explanation_en": "The main goal of a fiscal policy is to achieve macroeconomic stability. This involves managing the overall performance of the economy by controlling government spending, taxes, and borrowing.",
+"explanation_hi": "एकीकरणीय उद्देश को प्राप्ति करने के लिए",
+}
+]
