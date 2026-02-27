@@ -1,0 +1,146 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Panchayati Raj and Urban Governance under the 73rd and 74th Amendments for Rajasthan State Exams, SSC, and Railway. Let's start by recalling the key points of these amendments. 
+
+The 73rd Amendment is about Panchayats, and the 74th is about Municipalities. Both were enacted in 1992. The 73rd Amendment provides for the structure of Panchayats at three levels: village, intermediate, and district. It mandates elections, reservations for SC/ST and women. The 74th Amendment does something similar for urban areas, setting up Municipalities at three levels too.
+
+I should include questions on the constitutional amendments, their objectives, structure, reservations, powers, and maybe some Rajasthan-specific aspects since Rajasthan exams are part of the target. Also, include questions on the tenure, functions, and maybe the role of different bodies in each.
+
+Let me check for any important details. For example, the 73rd Amendment is Article 243B to 243O, and the 74th is 243P to 243ZG. Reservations: 1/3 for women in 73rd and 1/3 for women in 74th. Also, the powers of Panchayats and Municipalities include planning and execution of development schemes.
+
+I need to ensure that the questions are clear and the options are distinct. Avoid trick questions but test understanding. For example, a question on the number of levels in the Panchayati Raj system. Or the year of implementation. Also, the role of District Planning Committee under 73rd.
+
+Now, structuring each question with both English and Hindi, ensuring the translation is accurate. The answers should be correct, and explanations should clarify the reasoning. Let me draft 10 questions covering these points.
+</think>
+
+[
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+  "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संवैधानिक संशोधन पेश किया?",
+  "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+  "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+  "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+  "D_en": "75th Amendment", "D_hi": "75वां संशोधन",
+  "answer": "A",
+  "explanation_en": "The 73rd Constitutional Amendment Act of 1992 established the Panchayati Raj system in India.",
+  "explanation_hi": "1992 के भारतीय संविधान के 73वें संशोधन अधिनियम ने भारत में पंचायती राज प्रणाली की स्थापना की।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "What is the minimum age required to contest a Panchayat election?",
+  "question_hi": "पंचायत चुनाव में उम्मीदवार बनने के लिए न्यूनतम आयु क्या है?",
+  "A_en": "21 years", "A_hi": "21 वर्ष",
+  "B_en": "25 years", "B_hi": "25 वर्ष",
+  "C_en": "18 years", "C_hi": "18 वर्ष",
+  "D_en": "30 years", "D_hi": "30 वर्ष",
+  "answer": "A",
+  "explanation_en": "The 73rd Amendment mandates a minimum age of 21 for contesting Panchayat elections.",
+  "explanation_hi": "73वें संशोधन ने पंचायत चुनाव में उम्मीदवार बनने के लिए 21 वर्ष की न्यूनतम आयु निर्धारित की है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "What percentage of seats in Panchayati Raj institutions are reserved for women?",
+  "question_hi": "पंचायती राज संस्थाओं में महिलाओं के लिए कितना प्रतिशत सीटों का आरक्षण है?",
+  "A_en": "1/3", "A_hi": "1/3",
+  "B_en": "1/4", "B_hi": "1/4",
+  "C_en": "1/2", "C_hi": "1/2",
+  "D_en": "1/5", "D_hi": "1/5",
+  "answer": "A",
+  "explanation_en": "The 73rd Amendment reserves one-third of the seats in Panchayati Raj institutions for women.",
+  "explanation_hi": "73वें संशोधन ने पंचायती राज संस्थाओं में महिलाओं के लिए एक तिहाई सीटों का आरक्षण किया है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "Which article of the Indian Constitution provides for the establishment of Municipalities?",
+  "question_hi": "भारतीय संविधान के कौन से अनुच्छेद में प्राथमिक नगर पालिकाओं के निर्माण का प्रावधान किया गया है?",
+  "A_en": "Article 243P", "A_hi": "अनुच्छेद 243P",
+  "B_en": "Article 244Q", "B_hi": "अनुच्छेद 244Q",
+  "C_en": "Article 245R", "C_hi": "अनुच्छेद 245R",
+  "D_en": "Article 246S", "D_hi": "अनुच्छेद 246S",
+  "answer": "A",
+  "explanation_en": "Article 243P of the Indian Constitution establishes Municipalities under the 74th Amendment.",
+  "explanation_hi": "भारतीय संविधान का अनुच्छेद 243P 74वें संशोधन के अंतर्गत प्राथमिक नगर पालिकाओं की स्थापना करता है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "What is the tenure of a Panchayat as per the 73rd Amendment?",
+  "question_hi": "73वें संशोधन के अनुसार एक पंचायत के कार्यकाल की अवधि क्या है?",
+  "A_en": "4 years", "A_hi": "4 साल",
+  "B_en": "5 years", "B_hi": "5 साल",
+  "C_en": "6 years", "C_hi": "6 साल",
+  "D_en": "3 years", "D_hi": "3 साल",
+  "answer": "B",
+  "explanation_en": "The 73rd Amendment specifies a five-year term for Panchayats, unless dissolved earlier.",
+  "explanation_hi": "73वें संशोधन ने पंचायतों के लिए पांच वर्ष का कार्यकाल निर्धारित किया है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "Which body prepares the electoral rolls for Panchayat elections?",
+  "question_hi": "पंचायत चुनावों के लिए मतदाता नामांकन सूचियों का निर्माण कौन सा निकाय करता है?",
+  "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+  "B_en": "District Collector", "B_hi": "जिला आयुक्त",
+  "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+  "D_en": "Panchayat Samiti", "D_hi": "पंचायत समिति",
+  "answer": "A",
+  "explanation_en": "The State Election Commission is responsible for preparing electoral rolls for Panchayat elections.",
+  "explanation_hi": "पंचायत चुनावों के लिए मतदाता नामांकन सूचियों का निर्माण राज्य चुनाव आयोग द्वारा किया जाता है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "What is the minimum population of a town required for a Municipal Corporation?",
+  "question_hi": "पौरनिक नगर निगम के निर्माण के लिए एक शहर की न्यूनतम जनसंख्या कितनी होनी चाहिए?",
+  "A_en": "5 lakh", "A_hi": "5 लाख",
+  "B_en": "10 lakh", "B_hi": "10 लाख",
+  "C_en": "1 lakh", "C_hi": "1 लाख",
+  "D_en": "2 lakh", "D_hi": "2 लाख",
+  "answer": "B",
+  "explanation_en": "A Municipal Corporation is established for towns with a population of over 10 lakh.",
+  "explanation_hi": "10 लाख जनसंख्या वाले शहरों में पौरनिक नगर निगम की स्थापना की जाती है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "Which of the following is not a function of Panchayats?",
+  "question_hi": "निम्नलिखित में से कौन सा पंचायतों का कार्य नहीं है?",
+  "A_en": "Rural electrification", "A_hi": "ग्रामीण विद्युतीकरण",
+  "B_en": "Primary education", "B_hi": "प्राथमिक शिक्षा",
+  "C_en": "Fire brigade services", "C_hi": "अग्निशमन सेवाएं",
+  "D_en": "Land distribution", "D_hi": "भूमि वितरण",
+  "answer": "C",
+  "explanation_en": "Fire brigade services are typically under urban municipal bodies, not Panchayats.",
+  "explanation_hi": "अग्निशमन सेवाएं आमतौर पर शहरी नगर निकायों के अधिकार में होती हैं, न कि पंचायतों के।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "What is the role of the District Planning Committee?",
+  "question_hi": "जिला योजना समिति की भूमिका क्या है?",
+  "A_en": "To prepare district development plans", "A_hi": "जिला विकास योजनाओं की तैयारी करना",
+  "B_en": "To conduct elections", "B_hi": "चुनाव आयोजित करना",
+  "C_en": "To allocate funds to Gram Panchayats", "C_hi": "ग्राम पंचायतों को धन आवंटित करना",
+  "D_en": "To manage local markets", "D_hi": "स्थानीय बाजारों का प्रबंधन करना",
+  "answer": "A",
+  "explanation_en": "The District Planning Committee is responsible for preparing district development plans.",
+  "explanation_hi": "जिला योजना समिति जिला विकास योजनाओं की तैयारी के लिए जिम्मेदार है।"
+},
+{
+  "subject": "Indian Polity",
+  "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+  "question_en": "What is the composition of a Municipal Council?",
+  "question_hi": "एक प्राथमिक नगर पालिका का संगठन कैसा होता है?",
+  "A_en": "Elected members only", "A_hi": "केवल निर्वाचित सदस्य",
+  "B_en": "Elected and nominated members", "B_hi": "निर्वाचित और नामित सदस्य",
+  "C_en": "Officials and members of Panchayats", "C_hi": "कर्मचारी और पंचायत सदस्य",
+  "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+  "answer": "A",
+  "explanation_en": "Municipal Councils consist solely of elected members, as per the 74th Amendment.",
+  "explanation_hi": "74वें संशोधन के अनुसार प्राथमिक नगर पालिकाओं में केवल निर्वाचित सदस्य होते हैं।"
+}
+]
