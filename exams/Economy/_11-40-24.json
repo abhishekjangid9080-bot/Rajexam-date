@@ -1,0 +1,65 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP of Indian states",
+"question_en": "Which Indian state has the highest GDP according to the latest data?",
+"question_hi": "बड़े वर्षीय GDP के बार्मिंग के लिए कौन सी भारतीय राज्य की जानकारी की जानकारी के लिए स्पष्ट करें।",
+"A_en": "Andhra Pradesh",
+"A_hi": "अंध्रा प्रांत",
+"B_en": "Delhi",
+"B_hi": "दिल्ली",
+"C_en": "Kerala",
+"C_hi": "केरल",
+"D_en": "Tamil Nadu",
+"D_hi": "टाम्बान नादी",
+"answer": "B",
+"explanation_en": "According to the latest data, Delhi (Delhi) has the highest GDP among the Indian states.\nIn Hindi, it would be explained as: सबसे आत्रीय GDP की जानकारी की जानकारी के लिए, Delhi (दिल्ली) अभिप्रधान इंटीग्रॉस",
+"D_hi": "इस्पाती इंटीग्रॉस",
+"B_hi": "इस्पाती इंटीग्रॉस",
+"A_hi": "इस्पाती इंटीग्रॉस",
+"C_hi": "इस्पाती इंटीग्रॉस",
+"question_en": "Which of the following states has the highest GDP per capita in India?",
+"question_hi": "देशों के लिए इस्पाती इंटीग्रॉस",
+"options": [
+{
+"option_id": 1,
+"option_text": {
+"en": "Assam",
+"hi": "असम"
+},
+"option_correct": 1
+},
+{
+"option_id": 2,
+"option_text": {
+"en": "Rajasthan",
+"hi": "राजस्थान"
+},
+"option_correct": 2
+},
+{
+"option_id": 3,
+"option_text": {
+"en": "Tamil Nadu",
+"hi": "तामल नादी"
+},
+"option_correct": 3
+},
+{
+"option_id": 4,
+"option_text": {
+"en": "Jharkhand",
+"hi": "झार्जाकनंड"
+},
+"option_correct": 4
+},
+{
+"option_id": 5,
+"option_text": {
+"en": "Rajasthan",
+"hi": "राजस्थान"
+},
+"option_correct": 2
+}
+]
+]
