@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान का अधिकांतिक भाषा क्या है ?",
+"A_en": "English",
+"A_hi": "अंग्रेज़ी",
+"B_en": "Hindi",
+"B_hi": "हिंदी",
+"C_en": "Marathi",
+"C_hi": "मराठी",
+"D_en": "Gujarati",
+"D_hi": "गुजराती",
+"answer": "B",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान में अधिकांतिक भाषा हिंदी है।",
+}
+]
