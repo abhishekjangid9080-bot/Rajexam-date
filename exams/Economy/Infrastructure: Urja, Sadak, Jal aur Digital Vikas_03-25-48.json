@@ -1,0 +1,199 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs in both Hindi and English for Rajasthan State Exams, SSC, and Railway exams. The topic is Infrastructure, specifically focusing on Energy, Roads, Water, and Digital Development. 
+
+First, I need to ensure that each question is in the correct format, with the subject and topic specified. The questions and options must be in both languages, following the Testbook style. The JSON structure example provided is crucial here, so I need to make sure I stick to that structure precisely.
+
+I should start by brainstorming key points under each sub-topic: Energy (Urja), Roads (Sadak), Water (Jal), and Digital Development. For each of these, I can think of important projects, government initiatives, statistics, or facts relevant to Rajasthan and other regions covered in the exams. 
+
+For example, under Energy, Rajasthan has significant solar energy projects like the Kamuthi Solar Power Project, but wait, that's in Tamil Nadu. Maybe the Bhadla Solar Park in Rajasthan is a better example. Also, the state's renewable energy targets or production figures could be a question.
+
+Roads might involve the National Highways Development Project (NHDP), number of national highways in Rajasthan, or specific projects like the Jaipur-Ajmer Expressway. 
+
+Water infrastructure could include major dams like the Chambal Dam, Sardar Sarovar Dam, or projects like the Rajasthan Drinking Water Project. 
+
+Digital Development might cover initiatives like the Digital Rajasthan Mission, e-governance projects, or the number of common service centers in the state.
+
+I need to verify the accuracy of these facts. For instance, Rajasthan's solar capacity is around 15 GW as of recent data. The Jaipur-Ajmer Expressway is an upcoming project. The Sardar Sarovar Dam is in Gujarat, so maybe the Chambal Dam is more relevant here. Also, the Digital India program's components and Rajasthan's specific digital initiatives.
+
+Next, I'll structure each question with four options, making sure that the correct answer is accurate and the distractors are plausible but incorrect. Each question should have a clear explanation in both languages.
+
+I need to check for any overlapping topics and ensure that each question is distinct. Also, the difficulty level should be moderate, suitable for state and central government exams. 
+
+Potential pitfalls include incorrect data or mixing up projects from different states. For example, the Sardar Sarovar Dam is in Gujarat, so if I mention it in a question about Rajasthan, that's a mistake. I should use the Chambal Dam instead, which is in Rajasthan.
+
+Another point is ensuring that the Hindi and English versions of the questions and options are correctly translated and consistent. For instance, "Urja" should be translated as "Energy" in English, and "Sadak" as "Roads".
+
+Let me outline each question:
+
+1. Energy: Rajasthan's solar power capacity. Correct answer would be 15 GW.
+2. Roads: National Highway 8 in Rajasthan. It's the Jaipur-Ajmer Expressway.
+3. Water: Chambal Dam is the largest in Rajasthan.
+4. Digital Development: Common Service Centres in Rajasthan. The correct number is 16,000.
+5. Energy: Largest solar park in Rajasthan is Bhadla Solar Park.
+6. Roads: National Highway 12 in Rajasthan connects to which state? It connects to Haryana.
+7. Water: Sardar Sarovar Dam is in Gujarat, so a distractor here.
+8. Digital Development: Digital Rajasthan Mission launched in 2019.
+9. Energy: Rajasthan's renewable energy target by 2030 is 50 GW.
+10. Roads: Number of national highways in Rajasthan is 22.
+
+I need to verify each fact for accuracy. For example, the Bhadla Solar Park is indeed the largest in Rajasthan. The Jaipur-Ajmer Expressway is part of NH8. The Chambal Dam is the largest in Rajasthan. The Digital Rajasthan Mission was launched in 2019. 
+
+Also, the number of national highways in Rajasthan is 22. The Sardar Sarovar Dam is in Gujarat, so it's a good distractor. The renewable energy target by 2030 is 50 GW for Rajasthan.
+
+Now, structuring each question in JSON format with the required fields. Each question must have the subject, topic, question in both languages, four options in both languages, the correct answer, and explanations in both languages.
+
+I need to ensure that the JSON is valid, with proper commas and brackets. No markdown, just raw JSON. Also, check that the Hindi translations are accurate and match the English versions.
+
+After drafting all questions, I'll review them for any errors. For example, double-checking the answers and ensuring that the distractors are not too obvious. Also, making sure that the explanations clearly explain why the answer is correct without introducing new information.
+
+Finally, export the JSON structure as per the example provided, ensuring that all fields are correctly placed and that the JSON is valid.
+</think>
+
+```json
+[
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "Which state in India has the largest solar energy production capacity?",
+        "question_hi": "भारत के किस राज्य में सौर ऊर्जा उत्पादन की क्षमता सबसे अधिक है?",
+        "A_en": "Rajasthan",
+        "A_hi": "राजस्थान",
+        "B_en": "Gujarat",
+        "B_hi": "गुजरात",
+        "C_en": "Tamil Nadu",
+        "C_hi": "तमिल नाडु",
+        "D_en": "Karnataka",
+        "D_hi": "कर्नाटक",
+        "answer": "A",
+        "explanation_en": "Rajasthan leads in solar energy production due to projects like the Bhadla Solar Park.",
+        "explanation_hi": "राजस्थान भाड़ला सौर ऊर्जा पार्क जैसे परियोजनाओं के कारण सौर ऊर्जा उत्पादन में अग्रणी है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "Which of the following is the largest national highway in Rajasthan?",
+        "question_hi": "निम्नलिखित में से राजस्थान में सबसे बड़ा राष्ट्रीय राजमार्ग कौन सा है?",
+        "A_en": "NH8",
+        "A_hi": "राजमार्ग 8",
+        "B_en": "NH12",
+        "B_hi": "राजमार्ग 12",
+        "C_en": "NH48",
+        "C_hi": "राजमार्ग 48",
+        "D_en": "NH25",
+        "D_hi": "राजमार्ग 25",
+        "answer": "A",
+        "explanation_en": "NH8 connects Rajasthan to Gujarat and is the longest national highway in the state.",
+        "explanation_hi": "राजमार्ग 8 राजस्थान को गुजरात से जोड़ता है और राज्य में सबसे लंबा राष्ट्रीय राजमार्ग है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "What is the main purpose of the Chambal Dam in Rajasthan?",
+        "question_hi": "राजस्थान में चंबल बांध का मुख्य उद्देश्य क्या है?",
+        "A_en": "Irrigation",
+        "A_hi": "सिंचाई",
+        "B_en": "Hydropower generation",
+        "B_hi": "जल ऊर्जा उत्पादन",
+        "C_en": "Flood control",
+        "C_hi": "बाढ़ नियंत्रण",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "The Chambal Dam serves multiple purposes including irrigation, power generation, and flood control.",
+        "explanation_hi": "चंबल बांध अनेक उद्देश्यों के लिए कार्य करता है, जिसमें सिंचाई, बिजली उत्पादन और बाढ़ नियंत्रण शामिल है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "Which year was the Rajasthan Digital Mission launched?",
+        "question_hi": "राजस्थान डिजिटल मिशन कब शुरू किया गया था?",
+        "A_en": "2015",
+        "A_hi": "2015",
+        "B_en": "2017",
+        "B_hi": "2017",
+        "C_en": "2019",
+        "C_hi": "2019",
+        "D_en": "2021",
+        "D_hi": "2021",
+        "answer": "C",
+        "explanation_en": "The Rajasthan Digital Mission was launched in 2019 to promote digital infrastructure.",
+        "explanation_hi": "राजस्थान डिजिटल मिशन को 2019 में डिजिटल बुनियादी ढांचे को बढ़ावा देने के लिए शुरू किया गया था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "What is the estimated renewable energy production target for Rajasthan by 2030?",
+        "question_hi": "2030 तक राजस्थान के पुनर्नवीकरणीय ऊर्जा उत्पादन का अनुमानित लक्ष्य क्या है?",
+        "A_en": "25 GW",
+        "A_hi": "25 गीगावॉट",
+        "B_en": "30 GW",
+        "B_hi": "30 गीगावॉट",
+        "C_en": "40 GW",
+        "C_hi": "40 गीगावॉट",
+        "D_en": "50 GW",
+        "D_hi": "50 गीगावॉट",
+        "answer": "D",
+        "explanation_en": "Rajasthan aims to produce 50 GW of renewable energy by 2030.",
+        "explanation_hi": "राजस्थान के लक्ष्य 2030 तक पुनर्नवीकरणीय ऊर्जा के 50 गीगावॉट उत्पादित करना है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "Which project is known for improving rural road connectivity in Rajasthan?",
+        "question_hi": "ग्रामीण सड़क संपर्क में सुधार के लिए राजस्थान में किस परियोजना के लिए जाना जाता है?",
+        "A_en": "Pradhan Mantri Gram Sadak Yojana",
+        "A_hi": "प्रधान मंत्री ग्राम सड़क योजना",
+        "B_en": "National Highways Development Project",
+        "B_hi": "राष्ट्रीय राजमार्ग विकास परियोजना",
+        "C_en": "Bharatmala Pariyojana",
+        "C_hi": "भारतमाला परियोजना",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "A",
+        "explanation_en": "Pradhan Mantri Gram Sadak Yojana focuses on rural road connectivity in Rajasthan.",
+        "explanation_hi": "प्रधान मंत्री ग्राम सड़क योजना राजस्थान में ग्रामीण सड़क संपर्क पर ध्यान केंद्रित करती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "What is the main objective of the Rajasthan Drinking Water Project?",
+        "question_hi": "राजस्थान ड्रिंकिंग वाटर प्रोजेक्ट का मुख्य उद्देश्य क्या है?",
+        "A_en": "Providing clean drinking water",
+        "A_hi": "शुद्ध पीने के पानी की आपूर्ति",
+        "B_en": "Increasing water storage capacity",
+        "B_hi": "पानी की भंडारण क्षमता बढ़ाना",
+        "C_en": "Improving irrigation systems",
+        "C_hi": "सिंचाई प्रणाली में सुधार",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "A",
+        "explanation_en": "The Rajasthan Drinking Water Project aims to provide clean and safe drinking water to all.",
+        "explanation_hi": "राजस्थान ड्रिंकिंग वाटर प्रोजेक्ट का उद्देश्य सभी को शुद्ध और सुरक्षित पीने का पानी प्रदान करना है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "Which of the following is not a digital initiative launched by Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन सी राजस्थान द्वारा शुरू की गई डिजिटल पहल नहीं है?",
+        "A_en": "e-Rajasthan",
+        "A_hi": "ई-राजस्थान",
+        "B_en": "Common Service Centres",
+        "B_hi": "सामान्य सेवा केंद्र",
+        "C_en": "Digital India",
+        "C_hi": "डिजिटल भारत",
+        "D_en": "Bhamashah Yojana",
+        "D_hi": "भामाशाह योजना",
+        "answer": "C",
+        "explanation_en": "Digital India is a national initiative, not specific to Rajasthan.",
+        "explanation_hi": "डिजिटल भारत एक राष्ट्रीय पहल है, जो राजस्थान के लिए विशिष्ट नहीं है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Infrastructure: Urja, Sadak, Jal aur Digital Vikas",
+        "question_en": "What is the approximate length of the Jaipur-Ajmer Expressway?",
+        "question_hi": "जयपुर-अजमेर एक्सप्रेसवे की अनुमानित लंबाई क्या है?",
+        "A_en": "150 km",
+        "A_hi": "150 किमी",
+        "B_en": "180 km",
+        "B_hi": "180 किमी",
+        "C_en": "200 km",
