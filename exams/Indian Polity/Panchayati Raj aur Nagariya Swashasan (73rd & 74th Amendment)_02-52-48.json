@@ -1,0 +1,56 @@
+[
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the meaning of the term 'Panchayati Raj'?",
+"question_hi": "पंचायती राज क्या मतलब है?",
+"A_en": "Local Self-Government",
+"A_hi": "लोकीय आर्थिक पहल",
+"B_en": "Rural Development",
+"B_hi": "उत्तराधिका विकास",
+"C_en": "Citizen's Right",
+"C_hi": "मंत्रीय धार्मिक संवत्साहित अधिकांकरण?",
+"D_en": "Local Authority",
+"D_hi": "नगर शक्ति",
+"answer": "A",
+"explanation_en": "Panchayati Raj refers to Local Self-Government in India. It represents the decentralization of power and authority to village, gram panchayats, and municipalities for development and administration purposes.",
+"explanation_hi": "पंचायती राज इन्द्याधिकांकरण संवत्साहित अधिकांकरण?",
+"explanation": "Panchayati Raj in India represents the decentralization of power and authority to village, gram panchayats, and municipalities for the purpose of development and administration.",
+"answer_id": "A"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagriya Swasthya Seva",
+"question_en": "What is the significance of the 73rd and 74th Amendment Acts in India's Panchayati Raj system?",
+"question_hi": "फर्म 73 और 74 मैंड के मैंड का विस्तर्थ पूर्वान्तर्थ संवत्साहित अधिकांकरण?",
+"A_en": "The 73rd and 74th Amendments to the Constitution of India have significantly impacted the Panchayati Raj system in India by introducing provisions for empowering gram panchayats, strengthening village councils, and devolving powers to them. These amendments have led to the improvement of local governance and development of rural areas.",
+"A_hi": "भारतीय संवत्साहित अधिकांकरण?",
+"options": [
+{
+"option_id": 1,
+"option_text_en": "The 73rd Amendment Act strengthened the Panchayat Raj system in rural areas.",
+"option_text_hi": "राज्य को संवत्साहित अधिकांकरण?",
+"answer": 1
+},
+{
+"option_id": 2,
+"option_text_en": "The 74th Amendment Act introduced provisions for reservation of seats for Scheduled Castes and Scheduled Tribes in Panchayats.",
+"option_text_hi": "74 मैंड को संवत्साहित अधिकांकरण?",
+"answer": 2
+},
+{
+"option_id": 3,
+"option_text_en": "The 73rd Amendment Act enhanced the financial autonomy of Panchayats.",
+"option_text_hi": "राज्य को संवत्साहित अधिकांकरण?",
+"answer": 1
+},
+{
+"option_id": 4,
+"option_text_en": "The 74th Amendment Act abolished the concept of triple taluk system.",
+"option_text_hi": "74 मैंड को संवत्साहित अधिकांकरण?",
+"answer": 4
+}
+]
+}
+]
+]
