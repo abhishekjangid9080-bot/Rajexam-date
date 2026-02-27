@@ -1,0 +1,134 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on the 73rd and 74th Amendments in Indian Polity, specifically focusing on Panchayati Raj and Nagariya Swashasan. The questions need to be in both Hindi and English, following the Testbook style, and structured in a specific JSON format.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment is about Panchayats (rural local governments), and the 74th is about municipalities (urban). Both were enacted in 1992 and 1993 respectively. Important aspects include the constitutional status, powers, elections, reservations, and the roles of these bodies.
+
+I should start by listing out the main components. For the 73rd Amendment: three-tier structure (Gram Panchayat, Panchayat Samiti, Zila Parishad), minimum age for members (18), 5 years term, reservation for SC/ST, OBC, women (at least 1/3), and their powers like land distribution and social justice. For the 74th Amendment: municipal corporations, municipal councils, and nagar panchayats, minimum age (21), 5 years term, reservation similar to Panchayats, and powers related to urban planning, health, and sanitation.
+
+Now, I need to form questions around these points. Let me brainstorm some topics. Questions could be about which amendment deals with urban vs rural, the structure of the bodies, reservation percentages, term duration, powers delegated, and the year they were enacted. Also, check for common misconceptions, like confusing the minimum age for membership between the two amendments.
+
+Next, I need to ensure that each question has four options with one correct answer. The options should be plausible but distinct. For example, for the question about the amendment dealing with rural local bodies, the options could be 73rd, 74th, 76th, 79th. The correct answer is 73rd.
+
+I also need to provide clear explanations in both languages. The explanations should reinforce the correct information and clarify why the other options are incorrect. For instance, if a question is about the term of office, the explanation should mention the 5-year term and why the other options (like 4 or 6 years) are wrong.
+
+I should also check the difficulty level. Since these are for competitive exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC, the questions need to be of medium to high difficulty. They should test not just recall but also understanding and application of concepts. For example, a question might ask about the constitutional provision for reservation of women, which requires knowing that it's at least one-third.
+
+Let me start drafting the questions one by one, making sure each covers a different aspect of the amendments. I need to alternate between Hindi and English questions, but since the user wants both languages for each question, each question will have both. Also, the JSON structure must be strictly followed, with all required fields. I need to be careful with the answer labels (A, B, C, D) and ensure the explanations are concise and accurate.
+
+After creating the questions, I'll review them to check for any errors, ensure clarity, and confirm that they align with the amendments' key points. Also, verify that the Hindi translations are accurate and in a formal tone suitable for exams. Finally, structure everything into the specified JSON format without any markdown or extra text.
+</think>
+
+[
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which constitutional amendment provides constitutional status to urban local bodies in India?",
+"question_hi": "भारत में शहरी स्थानीय निकायों को संवैधानिक दर्जा किस संविधान संशोधन द्वारा प्रदान किया गया है?",
+"A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+"B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+"C_en": "76th Amendment", "C_hi": "76वां संशोधन",
+"D_en": "79th Amendment", "D_hi": "79वां संशोधन",
+"answer": "B",
+"explanation_en": "The 74th Amendment (1993) granted constitutional status to urban local bodies like municipalities and municipal corporations.",
+"explanation_hi": "74वें संशोधन (1993) ने शहरी स्थानीय निकायों जैसे नगर पंचायतों और नगर निगमों को संवैधानिक दर्जा दिया।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum age required to become a member of a Panchayat under the 73rd Amendment?",
+"question_hi": "73वें संशोधन के तहत पंचायत के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+"A_en": "18 years", "A_hi": "18 वर्ष",
+"B_en": "21 years", "B_hi": "21 वर्ष",
+"C_en": "25 years", "C_hi": "25 वर्ष",
+"D_en": "30 years", "D_hi": "30 वर्ष",
+"answer": "A",
+"explanation_en": "Under the 73rd Amendment, any person who is at least 18 years old can become a member of a Panchayat.",
+"explanation_hi": "73वें संशोधन के तहत 18 वर्ष आयु वाला कोई भी व्यक्ति पंचायत का सदस्य बन सकता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following is NOT a function of Urban Local Bodies under the 74th Amendment?",
+"question_hi": "निम्नलिखित में से कौन 74वें संशोधन के तहत शहरी स्थानीय निकायों का कार्य नहीं है?",
+"A_en": "Urban Planning", "A_hi": "शहरी योजना",
+"B_en": "Public Health", "B_hi": "सार्वजनिक स्वास्थ्य",
+"C_en": "Land Distribution", "C_hi": "भूमि वितरण",
+"D_en": "Law and Order", "D_hi": "कानून और व्यवस्था",
+"answer": "D",
+"explanation_en": "Law and order is a state government responsibility, not a function of Urban Local Bodies under the 74th Amendment.",
+"explanation_hi": "कानून और व्यवस्था राज्य सरकार की जिम्मेदारी है, 74वें संशोधन के तहत शहरी स्थानीय निकायों का कार्य नहीं है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the term of office for members of Panchayats and Municipalities under the 73rd and 74th Amendments?",
+"question_hi": "73वें और 74वें संशोधन के तहत पंचायतों और नगर परिषदों के सदस्यों का कार्यकाल कितना होता है?",
+"A_en": "3 years", "A_hi": "3 वर्ष",
+"B_en": "4 years", "B_hi": "4 वर्ष",
+"C_en": "5 years", "C_hi": "5 वर्ष",
+"D_en": "6 years", "D_hi": "6 वर्ष",
+"answer": "C",
+"explanation_en": "Both the 73rd and 74th Amendments provide for a 5-year term for members of Panchayats and Municipalities.",
+"explanation_hi": "73वें और 74वें संशोधनों में पंचायतों और नगर परिषदों के सदस्यों के लिए 5 वर्ष का कार्यकाल निर्धारित किया गया है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following is a constitutional mandate for reservation of seats in Panchayats?",
+"question_hi": "निम्नलिखित में से कौन पंचायतों में सीटों के आरक्षण का एक संवैधानिक अनिवार्य निर्धारण है?",
+"A_en": "At least 1/3 for women", "A_hi": "महिलाओं के लिए कम से कम 1/3",
+"B_en": "At least 1/2 for SC/ST", "B_hi": "अनुसूचित जाति/अनुसूचित जनजाति के लिए कम से कम 1/2",
+"C_en": "At least 1/4 for OBC", "C_hi": "अनुसूचित आर्थिक रूप से पिछड़ा वर्ग के लिए कम से कम 1/4",
+"D_en": "At least 1/5 for youth", "D_hi": "युवा के लिए कम से कम 1/5",
+"answer": "A",
+"explanation_en": "The 73rd Amendment mandates at least one-third of seats in Panchayats be reserved for women.",
+"explanation_hi": "73वें संशोधन में पंचायतों में महिलाओं के लिए कम से कम एक-तिहाई सीटों के आरक्षण की आवश्यकता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following bodies is NOT part of the Panchayati Raj system?",
+"question_hi": "निम्नलिखित में से कौन सा निकाय पंचायती राज प्रणाली का भाग नहीं है?",
+"A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+"B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+"C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+"D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+"answer": "D",
+"explanation_en": "Municipal Corporations are part of urban local governance and not the Panchayati Raj system.",
+"explanation_hi": "नगर निगम शहरी स्थानीय शासन का हिस्सा हैं और पंचायती राज प्रणाली का नहीं।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum age required to contest elections for a Zila Parishad member?",
+"question_hi": "जिला परिषद के सदस्य के चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+"A_en": "18 years", "A_hi": "18 वर्ष",
+"B_en": "21 years", "B_hi": "21 वर्ष",
+"C_en": "25 years", "C_hi": "25 वर्ष",
+"D_en": "30 years", "D_hi": "30 वर्ष",
+"answer": "B",
+"explanation_en": "The 73rd Amendment sets 21 years as the minimum age for contesting elections to a Zila Parishad.",
+"explanation_hi": "73वें संशोधन ने जिला परिषद के चुनाव में न्यूनतम आयु 21 वर्ष निर्धारित की है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following is a power of Urban Local Bodies under the 74th Amendment?",
+"question_hi": "निम्नलिखित में से कौन 74वें संशोधन के तहत शहरी स्थानीय निकायों की शक्ति है?",
+"A_en": "Land Acquisition", "A_hi": "भूमि अधिग्रहण",
+"B_en": "Taxation on property", "B_hi": "संपत्ति पर कर",
+"C_en": "Sanitation and waste management", "C_hi": "स्वच्छता और अपशिष्ट प्रबंधन",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "The 74th Amendment empowers Urban Local Bodies with functions like land acquisition, property taxation, and sanitation.",
+"explanation_hi": "74वें संशोधन ने शहरी स्थानीय निकायों को भूमि अधिग्रहण, संपत्ति कर और स्वच्छता जैसी शक्तियां दी हैं।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the constitutional requirement for reservation of seats for Scheduled Castes and Scheduled Tribes in Panchayats?",
+"question_hi": "पंचायतों में अनुसूचित जाति और अनुसूचित जनजाति के लिए सीटों के आरक्षण की संवैधानिक आवश्यकता क्या है?",
+"A_en": "Proportional to their population", "A_hi": "उनकी आबादी के अनुपात में",
+"B_en": "Fixed number regardless of population", "B_hi": "आबादी के बिना कुछ निश्चित संख्या",
+"C_en": "Minimum 10% reservation", "C_hi": "कम से कम 10% आरक्षण",
+"D_en": "Maximum 20% reservation", "D_hi": "अधिकतम
