@@ -1,0 +1,204 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on the topic of Ecosystem, Food Chain, and Biodiversity in General Science for Rajasthan exams. The questions need to be in both Hindi and English, following the Testbook style, and in a specific JSON format.
+
+First, I need to recall key concepts under the given topic. Ecosystems include components like producers, consumers, decomposers. The food chain involves trophic levels, and biodiversity covers species diversity, conservation, and threats like deforestation or climate change.
+
+I should start by listing important areas. For example, producers in an ecosystem are typically green plants. Then, the different types of consumers: herbivores, carnivores, omnivores. Food chain examples, maybe a question on the pyramid structure. Biodiversity hotspots in Rajasthan, maybe a specific example like the Thar Desert. Threats to biodiversity could include habitat destruction or poaching. Conservation methods like protected areas or CITES.
+
+Each question needs four options, with one correct answer. The explanations should clarify why the correct answer is right and briefly mention why others are incorrect. I need to ensure that the Hindi translations are accurate and maintain the same structure as the English questions.
+
+Let me draft the first question. Producers are the first step in the food chain. The options would be Producers, Consumers, Decomposers, Scavengers. Answer is A. Explanation in both languages.
+
+Next, trophic levels. The third level is tertiary consumers, which are predators. Options might include Producers, Primary consumers, Secondary consumers, Tertiary consumers. Answer D.
+
+For biodiversity, the Thar Desert is a hotspot in Rajasthan. Options could be different regions in Rajasthan. Answer B.
+
+Threats to biodiversity: Habitat destruction is the main cause. Options like climate change, invasive species, pollution. Answer A.
+
+Food chain example: Grass → Grasshopper → Frog → Snake. Options with different sequences. Answer B.
+
+Decomposers: Fungi and bacteria. Options include plants, animals, fungi. Answer D.
+
+Omnivores: Humans consume both plants and animals. Options like cow, lion, human. Answer C.
+
+CITES: Protect endangered species. Options about protecting habitats, species, etc. Answer B.
+
+Pyramid structure: Always upright for energy. Options with energy, numbers, biomass. Answer A.
+
+Conservation methods: Establishing national parks. Options like hunting, deforestation. Answer A.
+
+Now, I need to check each question for clarity, correctness, and that the options are not confusing. Ensure explanations are concise. Translate everything into Hindi accurately. Finally, format the JSON correctly without any extra text.
+</think>
+
+[
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which component of the ecosystem is responsible for converting solar energy into chemical energy?",
+"question_hi": "पारिस्थितिक तंत्र का कौन सा घटक सौर ऊर्जा को रासायनिक ऊर्जा में परिवर्तित करता है?",
+"A_en": "Producers",
+"A_hi": "उत्पादक",
+"B_en": "Consumers",
+"B_hi": "उपभोक्ता",
+"C_en": "Decomposers",
+"C_hi": "अपघटक",
+"D_en": "Scavengers",
+"D_hi": "शमनकारी",
+"answer": "A",
+"explanation_en": "Producers, like green plants, convert solar energy into chemical energy through photosynthesis.",
+"explanation_hi": "उत्पादक, जैसे हरे पौधे, प्रकाश संश्लेषण के माध्यम से सौर ऊर्जा को रासायनिक ऊर्जा में परिवर्तित करते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which trophic level in a food chain is occupied by tertiary consumers?",
+"question_hi": "खाद्य श्रृंखला में तृतीयक उपभोक्ता किस ऊर्जा स्तर में स्थित होते हैं?",
+"A_en": "First",
+"A_hi": "पहला",
+"B_en": "Second",
+"B_hi": "दूसरा",
+"C_en": "Third",
+"C_hi": "तीसरा",
+"D_en": "Fourth",
+"D_hi": "चौथा",
+"answer": "D",
+"explanation_en": "Tertiary consumers are at the fourth trophic level and feed on secondary consumers.",
+"explanation_hi": "तृतीयक उपभोक्ता चौथे ऊर्जा स्तर में होते हैं और द्वितीयक उपभोक्ताओं पर भोजन करते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which of the following is a biodiversity hotspot in Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन सा राजस्थान में जैव विविधता गर्म क्षेत्र है?",
+"A_en": "Aravalli Range",
+"A_hi": "अरावली पर्वत श्रृंखला",
+"B_en": "Thar Desert",
+"B_hi": "थार मरुस्थल",
+"C_en": "Kisanganga River",
+"C_hi": "किसांगंगा नदी",
+"D_en": "Chambal River",
+"D_hi": "चंबल नदी",
+"answer": "B",
+"explanation_en": "The Thar Desert in Rajasthan is recognized as a biodiversity hotspot due to its unique flora and fauna.",
+"explanation_hi": "राजस्थान में थार मरुस्थल अद्वितीय वनस्पति और जीवों के कारण जैव विविधता गर्म क्षेत्र के रूप में पहचाना गया है।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "What is the primary threat to biodiversity in the modern era?",
+"question_hi": "आधुनिक युग में जैव विविधता के लिए मुख्य खतरा क्या है?",
+"A_en": "Habitat destruction",
+"A_hi": "आवास क्षेत्र का नष्ट होना",
+"B_en": "Climate change",
+"B_hi": "जलवायु परिवर्तन",
+"C_en": "Pollution",
+"C_hi": "प्रदूषण",
+"D_en": "Overexploitation",
+"D_hi": "अत्यधिक उपयोग",
+"answer": "A",
+"explanation_en": "Habitat destruction is the leading cause of biodiversity loss due to deforestation and urbanization.",
+"explanation_hi": "आवास क्षेत्र का नष्ट होना वनस्पति नाश और शहरीकरण के कारण जैव विविधता के नुकसान का मुख्य कारण है।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which of the following is an example of a food chain in an ecosystem?",
+"question_hi": "निम्नलिखित में से कौन एक पारिस्थितिक तंत्र में खाद्य श्रृंखला का उदाहरण है?",
+"A_en": "Grass → Grasshopper → Frog → Snake",
+"A_hi": "घास → चिलचिला → मेंढक → सांप",
+"B_en": "Rabbit → Wolf → Tiger",
+"B_hi": "खरगोश → भेड़िया → बाघ",
+"C_en": "Fish → Bird → Human",
+"C_hi": "मछली → पक्षी → मनुष्य",
+"D_en": "Algae → Bacteria → Fungi",
+"D_hi": "शैवाल → बैक्टीरिया → कवक",
+"answer": "A",
+"explanation_en": "A typical food chain starts with producers (grass), followed by herbivores (grasshopper), then carnivores (frog and snake).",
+"explanation_hi": "एक सामान्य खाद्य श्रृंखला उत्पादक (घास) से शुरू होती है, फिर शाकाहारी (चिलचिला), फिर मांसाहारी (मेंढक और सांप)।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which organisms break down dead organic matter into simpler substances?",
+"question_hi": "कौन से जीव मृत जैविक पदार्थ को सरल पदार्थों में तोड़ देते हैं?",
+"A_en": "Producers",
+"A_hi": "उत्पादक",
+"B_en": "Consumers",
+"B_hi": "उपभोक्ता",
+"C_en": "Decomposers",
+"C_hi": "अपघटक",
+"D_en": "Saprotrophs",
+"D_hi": "स्वपोषित",
+"answer": "C",
+"explanation_en": "Decomposers like fungi and bacteria break down dead organic matter into nutrients for producers.",
+"explanation_hi": "कवक और बैक्टीरिया जैसे अपघटक मृत जैविक पदार्थ को उत्पादकों के लिए पोषक तत्वों में तोड़ देते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which of the following is an omnivore?",
+"question_hi": "निम्नलिखित में से कौन एक सभोजी है?",
+"A_en": "Cow",
+"A_hi": "गाय",
+"B_en": "Lion",
+"B_hi": "शेर",
+"C_en": "Human",
+"C_hi": "मनुष्य",
+"D_en": "Elephant",
+"D_hi": "हाथी",
+"answer": "C",
+"explanation_en": "Humans are omnivores as they consume both plant and animal matter.",
+"explanation_hi": "मनुष्य सभोजी होते हैं क्योंकि वे वनस्पति और जानवरों के भोजन दोनों का उपभोग करते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "What does the term 'biodiversity' refer to?",
+"question_hi": "'जैव विविधता' शब्द किसके बारे में है?",
+"A_en": "Variety of species in an ecosystem",
+"A_hi": "एक पारिस्थितिक तंत्र में प्रजातियों की विविधता",
+"B_en": "Number of individuals in a population",
+"B_hi": "एक आबादी में व्यक्तियों की संख्या",
+"C_en": "Climate of a region",
+"C_hi": "एक क्षेत्र की जलवायु",
+"D_en": "Soil type in an area",
+"D_hi": "एक क्षेत्र में मिट्टी का प्रकार",
+"answer": "A",
+"explanation_en": "Biodiversity refers to the variety of species, including animals, plants, and microorganisms, in an ecosystem.",
+"explanation_hi": "जैव विविधता एक पारिस्थितिक तंत्र में प्रजातियों की विविधता को संदर्भित करता है, जिसमें जानवर, पौधे और सूक्ष्मजीव शामिल हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which international treaty aims to conserve and sustainably use biodiversity?",
+"question_hi": "कौन सा अंतरराष्ट्रीय संधि जैव विविधता के संरक्षण और उचित उपयोग का उद्देश्य रखती है?",
+"A_en": "Ramsar Convention",
+"A_hi": "रामसर सम्मेलन",
+"B_en": "CITES",
+"B_hi": "सीआईटीईएस",
+"C_en": "Montreal Protocol",
+"C_hi": "मॉन्ट्रियल प्रोटोकॉल",
+"D_en": "Kyoto Protocol",
+"D_hi": "क्योटो प्रोटोकॉल",
+"answer": "B",
+"explanation_en": "CITES (Convention on International Trade in Endangered Species) focuses on protecting endangered species from overexploitation.",
+"explanation_hi": "सीआईटीईएस (अंतरराष्ट्रीय खतरे में प्रजातियों के व्यापार पर सम्मेलन) खतरे में प्रजातियों के अत्यधिक उपयोग से संरक्षण करने पर केंद्रित है।"
+},
+{
+"subject": "General Science",
+"topic": "Paryavaran: Ecosystem, Khadya Jaal aur Biodiversity",
+"question_en": "Which component of the energy pyramid is always upright?",
+"question_hi": "ऊर्जा पिरामिड का कौन सा घटक हमेशा सीधा रहता है?",
+"A_en": "Energy",
+"A_hi": "ऊर्जा",
+"B_en": "Number of organisms",
+"B_hi": "जीवों की संख्या",
+"C_en": "Biomass",
+"C_hi": "जैव मात्रा",
+"D_en": "All of the above",
+"D_hi": "ऊपर के सभी",
+"answer": "A",
+"explanation_en": "The energy pyramid is always upright because energy decreases at each trophic level.",
+"explanation_hi": "ऊर्जा पिरामिड हमेशा सीधा रहता है क्योंकि प्रत्येक ऊर्जा स्तर पर ऊर्जा कम हो जाती है।"
+}
+]
