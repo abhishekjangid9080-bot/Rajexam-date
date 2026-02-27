@@ -1,0 +1,112 @@
+```json
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the largest source of foreign exchange earnings for India?",
+"question_hi": "भारत का सर्वोत्र बंदूक किस मुद्रा के आयात का सर्वोत्र स्वतंत्रता के आयात के आकार कैसा है?",
+"A_en": "IT and Information Technology",
+"A_hi": "इंटरनेट और समर्थन और संकेतना",
+"B_en": "Agriculture",
+"B_hi": "क़मान",
+"C_en": "Mineral resources",
+"C_hi": "खनिज उत्पादन",
+"D_en": "Manufacturing",
+"D_hi": "बन्यान उत्पादन",
+"answer": "C",
+"explanation_en": "India's largest source of foreign exchange earnings comes primarily from its mineral resources.",
+"explanation_hi": "भारत का मुख्य आध्यान के प्रतिलक्षण के आयामां प्रतिलक्षण की आधार सर्वप्रत्यों का आयामां प्रतिलक्षण की आधार सर्वप्रत्यों का आयामां प्रतिलक्षण",
+"A_en": "Foreign trade",
+"A_hi": "अंतराष्ट्र संघ",
+"B_en": "Industrial sector",
+"B_hi": "संसाधिकार कार्य",
+"C_en": "Agriculture",
+"C_hi": "कारखंडरेश",
+"D_en": "Services sector",
+"D_hi": "सेवा कार्य",
+"answer": "D",
+"explanation_en": "The largest contributor to India's GDP is the services sector.",
+"explanation_hi": "भारत की ग्रामवादी के उच्चतम समाधि कार्य सेवा कार्य के लिए मूल संतुलके निवेश",
+"explanation_hi": "भारत की GDP के मूल समाधि विभाग सेवा कार्य के लिए भिजन के स्वच्छता",
+"answer": "D",
+"explanation_en": "The largest contributors to India's GDP are sectors like Agriculture, Manufacturing, and Services. However, the Services sector contributes the most to GDP.",
+"explanation_hi": "भारत की GDP के लिए पैसा, विकटिक्ट और सेवा कार्य के लिए स्वच्छन्ता",
+"explanation_hi": "भारत की GDP के लिए पैसा, विक्ट और सेवा कार्य के लिए स्वच्छन्ता",
+"answer": "D",
+"explanation_en": "The largest contributors to India's GDP are sectors like Agriculture, Manufacturing, and Services. Among these, Services sector contributes the most to GDP.",
+"explanation_hi": "भारत की GDP के लिए पैसा, विक्ट और सेवा कार्य के लिए स्वच्छन्ता",
+```json
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the largest contributor to India's GDP? (Gross Domestic Product)",
+"question_hi": "भारत की GDP (भारत की GDP)",
+"A_en": "Agriculture",
+"A_hi": "किमात",
+"B_en": "Manufacturing",
+"B_hi": "मिमात",
+"C_en": "Services",
+"C_hi": "सिमात",
+"D_en": "All of the above sectors contribute to GDP.",
+"D_hi": "सिमात किमाति",
+"answer": "C",
+"explanation_en": "All the sectors contribute to GDP, but the largest contributor is Agriculture, followed by Manufacturing and Services.",
+"explanation_hi": "सिमात किमात किमात किमाति",
+```
+{
+```json
+[
+{
+"subject": "Economy",
+"topic": "Industry",
+"question_en": "Which sector contributes the most to India's economy?",
+"question_hi": "भारत किमात किमात किमात",
+"A_en": "Agriculture",
+"A_hi": "किमात किमात",
+"B_en": "Manufacturing",
+"B_hi": "किमात किमात",
+"C_en": "Services",
+"C_hi": "किमात किमात",
+"D_en": "All sectors",
+"D_hi": "किमात किमात",
+"answer": "B",
+"explanation_en": "India's economy is mainly driven by sectors like Agriculture, Manufacturing, and Services.",
+"explanation_hi": "भारत किमात किमात",
+"explanation_en": "India's economy is based on sectors like Agriculture, Manufacturing, and Services.",
+"explanation_hi": "भारत किमात किमात किमात",
+```
+[
+{
+"subject": "Economy",
+"topic": "Industry",
+"question_en": "Which sector contributes the most to India's economy?",
+"question_hi": "भारत किमात किमात किमात",
+"A_en": "Agriculture",
+"A_hi": "किमात",
+"B_en": "Manufacturing, R&D",
+"B_hi": "किमात किमात",
+"C_en": "Services, M&E",
+"C_hi": "किमात किमात किमात",
+"D_en": "All sectors",
+"D_hi": "किमात किमात",
+"answer": "C",
+"explanation_en": "Agriculture, followed by Manufacturing and Services.",
+"explanation_hi": "किमात किमात",
+"explanation_en": "In India, Agriculture contributes the most to GDP.",
+"explanation_hi": "किमात किमात",
+}
+] भारत किमात किमात",
+"explanation_en": "Agriculture is the largest contributor to GDP.",
+"explanation_hi": "किमात किमात किमात",
+}
+] भारत किमात किमात किमात",
+}
+] भारत किमात किमात",
+```
+[
+{
+"subject": "Economy",
+"topic": "Industry",
+"question_en": "Which sector is the largest contributor to GDP?",
+"question_
