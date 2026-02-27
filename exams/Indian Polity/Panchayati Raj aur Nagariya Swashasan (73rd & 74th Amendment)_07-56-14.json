@@ -1,0 +1,151 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, specifically covering the 73rd and 74th Amendments. Let me start by recalling the key points of these amendments. The 73rd Amendment Act of 1992 deals with Panchayati Raj institutions, while the 74th Amendment Act of 1992 addresses Urban Local Bodies. Both amendments aim to decentralize governance and ensure local self-government. 
+
+First question: What is the minimum age required to be a member of a Panchayat? From what I remember, the 73rd Amendment specifies 21 years. So the options can include 18, 21, 25, and 30. The correct answer is B.
+
+Next, the 74th Amendment relates to which of the following? The options could be Municipalities, Panchayats, Zila Parishads, and Gram Sabhas. The correct answer is A, Municipalities.
+
+How many subjects are there in the Eleventh Schedule (related to Panchayats)? The Eleventh Schedule lists 29 subjects. So the options are 28, 29, 30, 31. Answer is B.
+
+For the Twelfth Schedule (related to Municipalities), how many subjects? It's 18 subjects. Options: 17, 18, 19, 20. Answer is B.
+
+What is the term of office for a Panchayat? It's 5 years, so options can be 3, 5, 7, 10. Answer is B.
+
+Which article of the Constitution provides for the establishment of Panchayats? It's Article 243B. Options include 243A, 243B, 243C, 243D. Answer is B.
+
+Which article provides for the establishment of Municipalities? Article 243P. Options: 243O, 243P, 243Q, 243R. Answer is B.
+
+What is the minimum age required to contest a Municipal election? Similar to Panchayats, it's 21 years. Options same as before. Answer is B.
+
+What is the term of office for a Municipality? Also 5 years. Same options. Answer is B.
+
+Which of the following is responsible for the preparation of the electoral rolls for Panchayats? Election Commission of India, but actually, it's the State Election Commission. So options should include that. Answer is B.
+
+Wait, need to check each point to ensure accuracy. For example, the Eleventh Schedule has 29 items, and the Twelfth has 18. The term for both Panchayats and Municipalities is 5 years. The minimum age for both is 21. The relevant articles are 243B and 243P. The State Election Commission is responsible for Panchayat elections. Also, the 73rd and 74th Amendments were passed in 1992. 
+
+I should make sure that the options are clear and the correct answer is unambiguous. Avoid any confusing options. Each question should test a specific point from the amendments. Also, the explanations should be concise and directly reference the Constitution or the amendments. Need to present the questions in both Hindi and English as per the user's instructions. Let me structure each entry correctly in JSON format, ensuring that the translations are accurate. Finally, review all questions for any errors or inconsistencies.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to be a member of a Panchayat under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत पंचायत के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Constitution Amendment Act, 1992, mandates a minimum age of 21 years for Panchayat membership.",
+    "explanation_hi": "1992 के 73वें संविधान संशोधन अधिनियम के अनुसार, पंचायत के सदस्य बनने के लिए न्यूनतम आयु 21 वर्ष है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is regulated by the 74th Constitutional Amendment Act?",
+    "question_hi": "निम्नलिखित में से किसका निर्माण 74वें संविधान संशोधन अधिनियम द्वारा संचालित है?",
+    "A_en": "Municipalities", "A_hi": "नगर परिषदों",
+    "B_en": "Panchayats", "B_hi": "पंचायतों",
+    "C_en": "Zila Parishads", "C_hi": "ज़िला परिषदों",
+    "D_en": "Gram Sabhas", "D_hi": "ग्राम सभाओं",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment Act of 1992 deals with the establishment and powers of Municipalities.",
+    "explanation_hi": "1992 के 74वें संशोधन अधिनियम नगर परिषदों की स्थापना और शक्तियों के बारे में बात करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many subjects are listed in the Eleventh Schedule under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत एकादश अनुसूची में कितने विषयों को सूचीबद्ध किया गया है?",
+    "A_en": "28", "A_hi": "28",
+    "B_en": "29", "B_hi": "29",
+    "C_en": "30", "C_hi": "30",
+    "D_en": "31", "D_hi": "31",
+    "answer": "B",
+    "explanation_en": "The Eleventh Schedule under the 73rd Amendment lists 29 subjects to be under the authority of Panchayats.",
+    "explanation_hi": "73वें संशोधन के एकादश अनुसूची में पंचायतों के अधिकार में 29 विषयों को सूचीबद्ध किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for a Panchayat as per the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार पंचायत के कार्यकाल की अवधि क्या है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "5 years", "B_hi": "5 वर्ष",
+    "C_en": "7 years", "C_hi": "7 वर्ष",
+    "D_en": "10 years", "D_hi": "10 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment Act, 1992, specifies that the term of office for a Panchayat is 5 years.",
+    "explanation_hi": "1992 के 73वें संशोधन अधिनियम के अनुसार पंचायत का कार्यकाल 5 वर्ष होता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional article provides for the establishment of Panchayats?",
+    "question_hi": "पंचायतों की स्थापना के लिए कौन-सा संविधान अनुच्छेद प्रावधान करता है?",
+    "A_en": "Article 243A", "A_hi": "अनुच्छेद 243A",
+    "B_en": "Article 243B", "B_hi": "अनुच्छेद 243B",
+    "C_en": "Article 243C", "C_hi": "अनुच्छेद 243C",
+    "D_en": "Article 243D", "D_hi": "अनुच्छेद 243D",
+    "answer": "B",
+    "explanation_en": "Article 243B of the Indian Constitution establishes the Panchayats at the village level.",
+    "explanation_hi": "भारतीय संविधान का अनुच्छेद 243B ग्रामीण स्तर पर पंचायतों की स्थापना करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which article of the Constitution provides for the establishment of Municipalities?",
+    "question_hi": "संविधान का कौन-सा अनुच्छेद नगर परिषदों की स्थापना के लिए प्रावधान करता है?",
+    "A_en": "Article 243O", "A_hi": "अनुच्छेद 243O",
+    "B_en": "Article 243P", "B_hi": "अनुच्छेद 243P",
+    "C_en": "Article 243Q", "C_hi": "अनुच्छेद 243Q",
+    "D_en": "Article 243R", "D_hi": "अनुच्छेद 243R",
+    "answer": "B",
+    "explanation_en": "Article 243P of the Constitution establishes Municipalities under the 74th Amendment.",
+    "explanation_hi": "संविधान का अनुच्छेद 243P 74वें संशोधन के तहत नगर परिषदों की स्थापना करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to contest a Municipal election?",
+    "question_hi": "नगर परिषद चुनाव में चुनाव लड़ने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act, 1992, sets the minimum age for contesting Municipal elections at 21 years.",
+    "explanation_hi": "1992 के 74वें संशोधन अधिनियम में नगर परिषद चुनाव में चुनाव लड़ने के लिए न्यूनतम आयु 21 वर्ष तय की गई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many subjects are listed in the Twelfth Schedule of the Constitution under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के तहत संविधान की द्वादश अनुसूची में कितने विषयों को सूचीबद्ध किया गया है?",
+    "A_en": "17", "A_hi": "17",
+    "B_en": "18", "B_hi": "18",
+    "C_en": "19", "C_hi": "19",
+    "D_en": "20", "D_hi": "20",
+    "answer": "B",
+    "explanation_en": "The Twelfth Schedule under the 74th Amendment lists 18 subjects assigned to Municipalities.",
+    "explanation_hi": "74वें संशोधन के द्वादश अनुसूची में नगर परिषदों को सौंपे गए 18 विषयों को सूचीबद्ध किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is responsible for conducting elections to the Panchayats?",
+    "question_hi": "निम्नलिखित में से कौन पंचायतों के चुनावों के आयोजन के लिए उत्तरदायी है?",
+    "A_en": "Election Commission of India", "A_hi": "भारतीय चुनाव आयोग",
+    "B_en": "State Election Commission", "B_hi": "राज्य चुनाव आयोग",
+    "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+    "D_en": "Zila Parishad", "D_hi": "ज़िला परिषद",
+    "answer": "B",
+    "explanation_en": "The State Election Commission is responsible for conducting Panchayat elections as per the 73rd Amendment.",
+    "explanation_hi": "73वें संशोधन के अनुसार राज्य चुनाव आयोग पंचायत चुनावों के आयोजन के लिए उत्तरदायी है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a key objective of the 73rd and 74th Amendments?",
+    "question_hi
