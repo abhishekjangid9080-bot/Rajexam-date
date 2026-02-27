@@ -1,0 +1,38 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP at Current Market Prices",
+"question_en": "What is the term used to represent the total value of all goods and services produced in an economy in a given period of time?",
+"question_hi": "एक वर्ष के लिए एक दौरान सभी समूहों की उत्पादन का महत्ता क्या होता है?",
+"A_en": "Gross Domestic Product", "A_hi": "विभागीय प्रमाण",
+"B_en": "National Income", "B_hi": "राज्य आयात",
+"C_en": "Gross National Product", "C_hi": "राज्य विभागीय प्रमाण",
+"D_en": "Local Consumption", "D_hi": "निवासी विभागीय प्रमाण",
+"answer": "A",
+"explanation_en": "Gross Domestic Product (GDP) refers to the total value of all goods and services produced within a country in a specific time period. It is the sum of consumption, investment, government expenditure, and net exports.",
+"explanation_hi": "विभागीय प्रमाण (Gross Domestic Product) - राज्य में लाभवन किस्मान एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में लाभवन एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में लाभवन एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (Gross Domestic Product) - राज्य में पाठी एक वर्षीय प्रमाण (GDP)",
+"level": "Intermediate",
+"question_en": "What is the term used to represent the total value of all goods and services produced in an economy within a year?",
+"question_hi": "एक वर्षीय प्रमाण (GDP) के लिवारचा अनीयन (GDP) का मांचा अनीयन (GDP)",
+"options_en": [
+{
+"A": "Real GDP",
+"B": "Quantitative GDP",
+"C": "Quality GDP",
+"D": "Physical GDP",
+"E": "Inflation GDP"
+],
+"options_hi": [
+"तिरीयन GDP": "तिरीयन GDP",
+"अन लिवारचा GDP": "अनीयन GDP",
+"अनन GDP": "अनन GDP",
+"तिरीयन GDP": "तिरीयन GDP"],
+"answer": "B"
+},
+"explanation_en": "Real GDP represents the actual value of goods and services produced in an economy.",
+"explanation_hi": "तिरीयन GDP तिरीयन GDP तिरीयन GDP तिरीयन GDP अन GDP",
+"explanation_en": "Real GDP represents the value of goods and services produced in an economy.",
+"explanation_hi": "तिरीयन GDP तिरीयन GDP",
+"answer": "B"
+}
+]
