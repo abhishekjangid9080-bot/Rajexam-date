@@ -1,0 +1,16 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What does GDP stand for in economics?",
+"question_hi": "एक्सप्रेसमेंट्स में GDP क्या होता है।",
+"A_en": "Gross Domestic Product", "A_hi": "विमानित राज्य की आरंभी योजना",
+"B_en": "Gross National Product", "B_hi": "विमानित देश की आरंभी योजना",
+"C_en": "Net National Product", "C_hi": "नेट देश की आरंभी योजना",
+"D_en": "Gross World Product", "D_hi": "विमानित विश्व की आरंभी योजना",
+"answer": "A",
+"explanation_en": "Gross Domestic Product (GDP) is the total value of goods and services produced within a country's geographical boundaries in a given period of time. It is the sum of consumption, government expenditure, and net exports minus net imports.\n\nविमानित राज्य की आरंभी योजना",
+"explanation_hi": "विमानित राज्य की आरंभी योजना",
+"explanation_en_short": "GDP (Gross Domestic Product) represents the total value of goods and services produced by a country within its geographical borders. It includes consumption, government expenditure, and net exports minus net imports.",
+"explanation_hi_short": "विमानित राज्य की आरंभी योजना",
+}
