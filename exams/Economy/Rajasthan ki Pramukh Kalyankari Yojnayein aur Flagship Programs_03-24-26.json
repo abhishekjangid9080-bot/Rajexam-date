@@ -1,0 +1,140 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan's flagship economic programs for exams like LDC, CET, RAS, SSC, and Railway. Let's start by recalling the major schemes. There's the MGNREGA, which is a central program but active in Rajasthan. Then there's the Rajasthan Shiksha Sahyog Yojana for education. The Rajasthan Swachh Survekshan Incentive Scheme for cleanliness. The Rajasthan State Industrial Development and Investment Corporation (RAJIVIYA) for industrial growth. The Jan Aushadhi Scheme for affordable medicines. The Rajasthan Chief Minister's Girl Child Protection Scheme. The Rajasthan Skill Development Mission. The Rajasthan Solar Policy for renewable energy. The Rajasthan Women Empowerment Program. And the Rajasthan Rural Drinking Water Supply Scheme.
+
+Now, for each question, I need to frame the question in English and Hindi, provide four options in both languages, the correct answer, and explanations in both languages. Let's take MGNREGA first. The question could be about which program guarantees 100 days of employment. The options would include MGNREGA, Swachh Bharat, Ayushman Bharat, and PMKSY. Answer is A.
+
+Next, the Rajasthan Shiksha Sahyog Yojana: Which scheme provides scholarships for education? Options might include the same schemes but with different focuses. Answer is B.
+
+For the Swachh Survekshan Incentive Scheme, the question could be about incentives for cleanliness, with answer C.
+
+RAJIVIYA is for industrial growth, so the question would be about promoting industries, answer D.
+
+Jan Aushadhi is for affordable medicines, answer A.
+
+The Girl Child Protection Scheme's question would highlight the scheme's purpose, answer B.
+
+Skill Development Mission's question is about vocational training, answer C.
+
+Solar Policy for renewable energy, answer D.
+
+Women Empowerment Program's focus on self-help groups, answer C.
+
+Rural Drinking Water Supply Scheme's objective, answer A.
+
+I need to ensure that each question is clear, options are distinct, and explanations are concise. Also, check for any repetition in topics and maintain a balance between different types of programs. Make sure the translations are accurate in Hindi. Avoid any technical jargon that might confuse the students. Finally, verify that the answer keys are correctly assigned to each question.
+</think>
+
+[
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "Which of the following schemes provides 100 days of guaranteed employment to rural households?",
+        "question_hi": "निम्नलिखित में से कौन सी योजना ग्रामीण परिवारों को 100 दिनों की निश्चित रोजगार प्रदान करती है?",
+        "A_en": "Rajasthan Shiksha Sahyog Yojana",
+        "A_hi": "राजस्थान शिक्षा सहयोग योजना",
+        "B_en": "Swachh Bharat Abhiyan",
+        "B_hi": "स्वच्छ भारत अभियान",
+        "C_en": "Ayushman Bharat",
+        "C_hi": "आयुष्मान भारत",
+        "D_en": "MGNREGA",
+        "D_hi": "राष्ट्रीय ग्रामीण रोजगार गारंटी कार्यक्रम (एमएनआरईजीए)",
+        "answer": "D",
+        "explanation_en": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) guarantees 100 days of employment per year to rural households.",
+        "explanation_hi": "एमएनआरईजीए (महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम) ग्रामीण परिवारों को प्रतिवर्ष 100 दिनों के रोजगार की गारंटी देता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "Which Rajasthan government scheme focuses on providing scholarships to students from economically weaker sections?",
+        "question_hi": "राजस्थान सरकार की किस योजना के तहत आर्थिक रूप से कमजोर वर्ग के छात्रों को छात्रवृत्ति प्रदान की जाती है?",
+        "A_en": "Rajasthan Shiksha Sahyog Yojana",
+        "A_hi": "राजस्थान शिक्षा सहयोग योजना",
+        "B_en": "Rajasthan Swachh Survekshan Incentive Scheme",
+        "B_hi": "राजस्थान स्वच्छ सर्वेक्षण प्रोत्साहन योजना",
+        "C_en": "Rajasthan Industrial Development Program",
+        "C_hi": "राजस्थान औद्योगिक विकास कार्यक्रम",
+        "D_en": "Rajasthan Rural Drinking Water Supply Scheme",
+        "D_hi": "राजस्थान ग्रामीण पेयजल आपूर्ति योजना",
+        "answer": "A",
+        "explanation_en": "The Rajasthan Shiksha Sahyog Yojana provides financial assistance and scholarships to students from economically weaker sections to support their education.",
+        "explanation_hi": "राजस्थान शिक्षा सहयोग योजना आर्थिक रूप से कमजोर वर्ग के छात्रों को शिक्षा में सहायता और छात्रवृत्ति प्रदान करती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "Which program aims at promoting cleanliness through incentives in Rajasthan?",
+        "question_hi": "राजस्थान में प्रोत्साहन के माध्यम से स्वच्छता को बढ़ावा देने वाली कार्यक्रम कौन सा है?",
+        "A_en": "Rajasthan Skill Development Mission",
+        "A_hi": "राजस्थान कौशल विकास मिशन",
+        "B_en": "Rajasthan Women Empowerment Program",
+        "B_hi": "राजस्थान महिला सशक्तिकरण कार्यक्रम",
+        "C_en": "Rajasthan Swachh Survekshan Incentive Scheme",
+        "C_hi": "राजस्थान स्वच्छ सर्वेक्षण प्रोत्साहन योजना",
+        "D_en": "Rajasthan Shiksha Sahyog Yojana",
+        "D_hi": "राजस्थान शिक्षा सहयोग योजना",
+        "answer": "C",
+        "explanation_en": "The Rajasthan Swachh Survekshan Incentive Scheme incentivizes cleanliness efforts through rewards and recognition for municipalities and citizens.",
+        "explanation_hi": "राजस्थान स्वच्छ सर्वेक्षण प्रोत्साहन योजना नगर पालिकाओं और नागरिकों के लिए पुरस्कार और सराहना के माध्यम से स्वच्छता के प्रयासों को प्रोत्साहित करती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "Which of the following is a flagship initiative of Rajasthan to boost industrial growth?",
+        "question_hi": "राजस्थान औद्योगिक वृद्धि को बढ़ावा देने के लिए निम्नलिखित में से कौन सी प्रमुख पहल है?",
+        "A_en": "Rajasthan Industrial Development and Investment Corporation (RAJIVIYA)",
+        "A_hi": "राजस्थान औद्योगिक विकास और निवेश निगम (राजिविया)",
+        "B_en": "Rajasthan Shiksha Sahyog Yojana",
+        "B_hi": "राजस्थान शिक्षा सहयोग योजना",
+        "C_en": "Rajasthan Rural Drinking Water Supply Scheme",
+        "C_hi": "राजस्थान ग्रामीण पेयजल आपूर्ति योजना",
+        "D_en": "Rajasthan Women Empowerment Program",
+        "D_hi": "राजस्थान महिला सशक्तिकरण कार्यक्रम",
+        "answer": "A",
+        "explanation_en": "RAJIVIYA (Rajasthan Industrial Development and Investment Corporation) is the state's flagship corporation for promoting industrial development and attracting investments.",
+        "explanation_hi": "राजिविया (राजस्थान औद्योगिक विकास और निवेश निगम) राज्य का प्रमुख निगम है जो औद्योगिक विकास को बढ़ावा देता है और निवेश आकर्षित करता है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "Which scheme provides affordable medicines to BPL (Below Poverty Line) families in Rajasthan?",
+        "question_hi": "राजस्थान में बीपीएल (गरीबी रेखा के नीचे) परिवारों को कौन सी योजना सस्ती दवाओं की आपूर्ति करती है?",
+        "A_en": "Jan Aushadhi Scheme",
+        "A_hi": "जन औषधि योजना",
+        "B_en": "Rajasthan Industrial Development Program",
+        "B_hi": "राजस्थान औद्योगिक विकास कार्यक्रम",
+        "C_en": "Rajasthan Shiksha Sahyog Yojana",
+        "C_hi": "राजस्थान शिक्षा सहयोग योजना",
+        "D_en": "Rajasthan Women Empowerment Program",
+        "D_hi": "राजस्थान महिला सशक्तिकरण कार्यक्रम",
+        "answer": "A",
+        "explanation_en": "The Jan Aushadhi Scheme ensures availability of quality medicines at affordable prices for BPL families through government-run stores.",
+        "explanation_hi": "जन औषधि योजना सरकारी संचालित दुकानों के माध्यम से बीपीएल परिवारों के लिए गुणवत्ता वाली दवाओं की सस्ती आपूर्ति सुनिश्चित करती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "What is the primary objective of the Rajasthan Chief Minister's Girl Child Protection Scheme?",
+        "question_hi": "राजस्थान मुख्यमंत्री की लड़की के बच्चे की सुरक्षा योजना का प्रमुख उद्देश्य क्या है?",
+        "A_en": "To provide financial assistance to girl children for education",
+        "A_hi": "लड़कियों के बच्चों को शिक्षा के लिए वित्तीय सहायता प्रदान करना",
+        "B_en": "To protect girl children from social evils",
+        "B_hi": "लड़कियों के बच्चों को सामाजिक बुराइयों से बचाना",
+        "C_en": "To promote employment opportunities for girl children",
+        "C_hi": "लड़कियों के बच्चों के लिए रोजगार के अवसरों को बढ़ावा देना",
+        "D_en": "To provide medical facilities to girl children",
+        "D_hi": "लड़कियों के बच्चों को चिकित्सा सुविधाएँ प्रदान करना",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Chief Minister's Girl Child Protection Scheme focuses on safeguarding girl children from social evils like dowry, female foeticide, and child marriage.",
+        "explanation_hi": "राजस्थान मुख्यमंत्री की लड़की के बच्चे की सुरक्षा योजना लड़कियों के बच्चों को शादी भत्ता, महिला भ्रूण हत्या और बच्चों की शादी जैसी सामाजिक बुराइयों से सुरक्षित रखने पर केंद्रित है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Rajasthan ki Pramukh Kalyankari Yojnayein aur Flagship Programs",
+        "question_en": "Which Rajasthan program is aimed at enhancing the vocational skills of youth for better employment opportunities?",
+        "question_hi": "राजस्थान में कौन सा कार्यक्रम युवाओं के व्यावसाइक कौशल में वृद्धि करने और बेहतर रोजगार के अवसरों के लिए ध्येय रखता है?",
+        "A_en": "Rajasthan Skill Development Mission",
+        "A_hi": "राजस्थान कौशल विकास मिशन",
+        "B_en": "Rajasthan Industrial Development Program",
+        "B_hi": "राजस्थान औद्योगिक विकास कार्यक्रम",
+        "C_en": "Rajasthan Shiksha Sahyog Yojana",
+        "C_hi": "
