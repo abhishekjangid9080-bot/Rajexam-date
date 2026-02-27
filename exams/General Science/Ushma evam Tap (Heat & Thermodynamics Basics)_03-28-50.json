@@ -1,0 +1,191 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Heat and Thermodynamics Basics for Rajasthan State Exams, SSC, and Railway. Let me start by recalling the topics within this subject. The basics include concepts like temperature, heat transfer, laws of thermodynamics, thermal expansion, and different modes of heat transfer.
+
+First question: Maybe ask about the SI unit of heat. That's a fundamental question. The options would be Joules, Celsius, Kelvin, and Watts. The answer is Joules. I should explain that heat is measured in Joules, even though temperature uses Celsius or Kelvin.
+
+Second question: Differentiate between conduction, convection, and radiation. Which is the primary method in solids? Conduction is the answer. Solids have tightly packed particles, so conduction is efficient.
+
+Third question: What is the term for heat transfer without medium? Radiation, obviously. Radiation doesn't need a medium, unlike conduction or convection.
+
+Fourth question: Which law states that heat flows from higher to lower temperature? That's the Second Law of Thermodynamics. Wait, no, maybe the First Law is conservation of energy. The Second Law deals with entropy and direction of heat flow. So the answer should be the Second Law.
+
+Fifth question: Thermal expansion. Which material expands more when heated? Gases expand the most, followed by liquids, then solids. So the answer is gases.
+
+Sixth question: What is specific heat capacity? The amount of heat required to raise the temperature of 1kg by 1°C. The formula is Q = mcΔT. The answer is Joules per kg per Celsius.
+
+Seventh question: What happens to a substance when it absorbs heat? Its temperature increases, assuming no phase change. But if there's a phase change, temperature remains constant. But the question is general, so the answer is temperature increases.
+
+Eighth question: What is latent heat? The heat required to change the state of a substance without changing temperature. The answer is latent heat.
+
+Ninth question: Which of the following is a good conductor of heat? Metals like copper are good conductors. Wood is a poor conductor.
+
+Tenth question: What is a thermodynamic system? It's the part of the universe being studied. The surroundings are everything else. The answer is the system is the part being studied.
+
+I need to ensure the questions are in both Hindi and English, following the JSON structure. Each question should have options in both languages, the correct answer, and explanations in both languages. Check for clarity and accuracy. Avoid any ambiguity in the questions. Make sure the answers are correct and explanations are concise.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "What is the SI unit of heat?",
+    "question_hi": "ऊष्मा की SI इकाई क्या है?",
+    "A_en": "Joule",
+    "A_hi": "जूल",
+    "B_en": "Celsius",
+    "B_hi": "सेल्सियस",
+    "C_en": "Kelvin",
+    "C_hi": "केल्विन",
+    "D_en": "Watt",
+    "D_hi": "वॉट",
+    "answer": "A",
+    "explanation_en": "The SI unit of heat is the joule. It is the energy transferred to an object when a force of one newton acts on it in the direction of its motion over a distance of one meter.",
+    "explanation_hi": "ऊष्मा की SI इकाई जूल है। यह ऊर्जा है जो एक न्यूटन बल एक मीटर दूरी तक वस्तु के गति दिशा में कार्य करे तो होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "Which mode of heat transfer is primarily responsible for heat transfer in solids?",
+    "question_hi": "ठोस में ऊष्मा स्थानांतरण के लिए मुख्य रूप से कौन-सा तरीका उत्तरदायी है?",
+    "A_en": "Conduction",
+    "A_hi": "चालन",
+    "B_en": "Convection",
+    "B_hi": "संवहन",
+    "C_en": "Radiation",
+    "C_hi": "विकीरण",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "A",
+    "explanation_en": "Conduction is the primary mode of heat transfer in solids because the particles are tightly packed, allowing heat to transfer through molecular collisions.",
+    "explanation_hi": "ठोस में चालन ऊष्मा स्थानांतरण का मुख्य तरीका है क्योंकि कण एक-दूसरे के करीब होते हैं जिससे ऊष्मा अणुओं के ठोकर लगाने से स्थानांतरित होती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "What is the term for heat transfer that does not require a medium?",
+    "question_hi": "ऊष्मा स्थानांतरण के लिए कोई माध्यम नहीं चाहिए तो उसे क्या कहते हैं?",
+    "A_en": "Conduction",
+    "A_hi": "चालन",
+    "B_en": "Convection",
+    "B_hi": "संवहन",
+    "C_en": "Radiation",
+    "C_hi": "विकीरण",
+    "D_en": "Diffusion",
+    "D_hi": "परासरण",
+    "answer": "C",
+    "explanation_en": "Radiation is the transfer of heat through electromagnetic waves and does not require a medium.",
+    "explanation_hi": "विकीरण ऊष्मा का स्थानांतरण विद्युत चुंबकीय तरंगों के माध्यम से होता है और इसके लिए कोई माध्यम आवश्यक नहीं होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "Which law of thermodynamics states that heat naturally flows from a hotter to a colder object?",
+    "question_hi": "ऊष्मागतिकी का कौन-सा नियम कहता है कि ऊष्मा प्राकृतिक रूप से गर्म वस्तु से ठंडी वस्तु में प्रवाहित होती है?",
+    "A_en": "First Law",
+    "A_hi": "प्रथम नियम",
+    "B_en": "Second Law",
+    "B_hi": "द्वितीय नियम",
+    "C_en": "Third Law",
+    "C_hi": "तृतीय नियम",
+    "D_en": "Zeroth Law",
+    "D_hi": "शून्य नियम",
+    "answer": "B",
+    "explanation_en": "The Second Law of Thermodynamics states that heat flows from a higher temperature to a lower temperature unless work is done on the system.",
+    "explanation_hi": "ऊष्मागतिकी का द्वितीय नियम कहता है कि ऊष्मा ऊंच से नीचे तापमान वाले वस्तु में प्रवाहित होती है जब तक कि एक बाहरी कार्य नहीं किया जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "Which substance expands the most when heated?",
+    "question_hi": "ऊष्मा देने पर कौन-सा पदार्थ सर्वाधिक फैलता है?",
+    "A_en": "Solids",
+    "A_hi": "ठोस",
+    "B_en": "Liquids",
+    "B_hi": "द्रव",
+    "C_en": "Gases",
+    "C_hi": "गैसें",
+    "D_en": "All expand equally",
+    "D_hi": "सभी बराबर फैलते हैं",
+    "answer": "C",
+    "explanation_en": "Gases expand the most when heated because their particles move freely and are far apart.",
+    "explanation_hi": "गैसें ऊष्मा देने पर सर्वाधिक फैलती हैं क्योंकि उनके कण मुक्त रूप से घूमते हैं और एक-दूसरे से दूर होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "What is the term for the amount of heat required to raise the temperature of 1 kg of a substance by 1°C?",
+    "question_hi": "1 किग्रा पदार्थ के तापमान को 1°C बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा के लिए क्या शब्द है?",
+    "A_en": "Specific Heat Capacity",
+    "A_hi": "विशिष्ट ऊष्मा धारिता",
+    "B_en": "Latent Heat",
+    "B_hi": "लैटेंट ऊष्मा",
+    "C_en": "Thermal Conductivity",
+    "C_hi": "ऊष्मा चालकता",
+    "D_en": "Heat Capacity",
+    "D_hi": "ऊष्मा धारिता",
+    "answer": "A",
+    "explanation_en": "Specific heat capacity is the amount of heat required to raise the temperature of 1 kg of a substance by 1°C.",
+    "explanation_hi": "विशिष्ट ऊष्मा धारिता 1 किग्रा पदार्थ के तापमान को 1°C बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "What happens to the temperature of a substance when it absorbs heat?",
+    "question_hi": "किसी पदार्थ का तापमान ऊष्मा अवशोषित करने पर क्या होता है?",
+    "A_en": "It increases",
+    "A_hi": "यह बढ़ जाता है",
+    "B_en": "It decreases",
+    "B_hi": "यह घट जाता है",
+    "C_en": "It remains constant",
+    "C_hi": "यह स्थिर रहता है",
+    "D_en": "It depends on the material",
+    "D_hi": "यह सामग्री पर निर्भर करता है",
+    "answer": "A",
+    "explanation_en": "When a substance absorbs heat, its temperature increases unless it undergoes a phase change.",
+    "explanation_hi": "जब कोई पदार्थ ऊष्मा अवशोषित करता है तो उसका तापमान बढ़ जाता है जब तक यह अवस्था परिवर्तन नहीं करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "What is the term for heat required to change the state of a substance without changing its temperature?",
+    "question_hi": "किसी पदार्थ की अवस्था बदले बिना उसके तापमान में बदलाव के लिए आवश्यक ऊष्मा के लिए क्या शब्द है?",
+    "A_en": "Latent Heat",
+    "A_hi": "लैटेंट ऊष्मा",
+    "B_en": "Specific Heat",
+    "B_hi": "विशिष्ट ऊष्मा",
+    "C_en": "Sensible Heat",
+    "C_hi": "अनुभवित ऊष्मा",
+    "D_en": "Thermal Energy",
+    "D_hi": "ऊष्मीय ऊर्जा",
+    "answer": "A",
+    "explanation_en": "Latent heat is the energy absorbed or released during a phase change without a temperature change.",
+    "explanation_hi": "लैटेंट ऊष्मा ऊर्जा है जो अवस्था परिवर्तन के दौरान अवशोषित या छोड़ी जाती है बिना तापमान में परिवर्तन के।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "Which of the following is a good conductor of heat?",
+    "question_hi": "निम्नलिखित में से कौन-सा ऊष्मा का एक अच्छा चालक है?",
+    "A_en": "Wood",
+    "A_hi": "लकड़ी",
+    "B_en": "Plastic",
+    "B_hi": "प्लास्टिक",
+    "C_en": "Copper",
+    "C_hi": "तांबा",
+    "D_en": "Glass",
+    "D_hi": "कांच",
+    "answer": "C",
+    "explanation_en": "Metals like copper are good conductors of heat due to free electrons facilitating energy transfer.",
+    "explanation_hi": "तांबा जैसी धातुएँ ऊष्मा के स्थानांतरण के लिए अच्छे चालक हैं क्योंकि मुक्त इलेक्ट्रॉन ऊर्जा का स्थानांतरण सुगम बनाते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Ushma evam Tap (Heat & Thermodynamics Basics)",
+    "question_en": "What is a thermodynamic system?",
+    "question_hi": "ऊष्मागतिकी निकाय क्या है?",
+    "A_en": "The part of the universe being studied",
+    "A_hi": "अध्ययन में लिया गया ब्रह्मांड का हिस्सा",
+    "B_en": "The surrounding environment",
+    "B_hi": "आसपास का वातावरण",
+    "C_en": "A closed container",
+    "C_hi": "बंद डिब्बा
