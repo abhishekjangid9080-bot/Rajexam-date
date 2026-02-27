@@ -1,0 +1,196 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, covering the 73rd and 74th Amendments. Let me start by recalling the key points of these amendments.
+
+The 73rd Amendment Act, 1992, deals with Panchayati Raj institutions. It provides for constitutional status and powers to the panchayats. The 74th Amendment Act, 1992, is about urban local government or Nagar Panchayats/NMCs.
+
+First question: What is the constitutional basis for Panchayati Raj? The answer should be the 73rd Amendment. Then, for the 74th, maybe a question about urban local bodies.
+
+Next, the question about the minimum age for panchayat elections. I think it's 21 years as per 73rd Amendment. For urban, maybe similar age.
+
+Reservation of seats for SCs, STs, and women. In panchayats, 1/3 of seats are reserved for women. Also, there's a provision for reservation of seats for SCs and STs.
+
+The question about the tenure of the panchayats is five years. Similarly for urban bodies.
+
+Functions of panchayats include rural development, education, health, etc. Urban bodies handle water supply, sanitation, urban planning.
+
+The question about the head of a panchayat is the Sarpanch. For urban, the head is the Mayor.
+
+The question about the number of amendments, 73rd and 74th. Also, maybe a question about the constitutional article. For example, Article 243 for panchayats and 243P for urban.
+
+Need to ensure that the options are clear and not overlapping. Also, the explanations should be concise but accurate. Let me check each point for accuracy. For example, the reservation of chairpersons for SCs/STs in panchayats is 1/3 of the reserved seats. The 74th Amendment does not provide for direct elections to the Mayor, that's a common misconception to address. The 74th Amendment does mention that the Mayor is the head, but the method of election might vary.
+
+Wait, the 74th Amendment states that the local government shall have powers to prepare plans for economic development and social justice, which is a key point. Also, the number of seats reserved for women in urban bodies is 1/3rd as well.
+
+I should also mention the year both amendments were enacted, 1992. Each question should test a specific aspect to avoid confusion. Let me structure each question step by step, ensuring that the correct answer is accurate and the options are plausible distractors.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment is related to the establishment of Panchayati Raj institutions?",
+        "question_hi": "पंचायती राज संस्थानों की स्थापना किस संविधान संशोधन से संबंधित है?",
+        "A_en": "73rd Amendment", 
+        "A_hi": "73वाँ संशोधन",
+        "B_en": "74th Amendment", 
+        "B_hi": "74वाँ संशोधन",
+        "C_en": "72nd Amendment", 
+        "C_hi": "72वाँ संशोधन",
+        "D_en": "75th Amendment", 
+        "D_hi": "75वाँ संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992, provides constitutional status to Panchayati Raj institutions.",
+        "explanation_hi": "73वाँ संविधान संशोधन अधिनियम, 1992, पंचायती राज संस्थानों को संवैधानिक दर्जा प्रदान करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest elections to a Panchayat?",
+        "question_hi": "एक पंचायत के चुनाव में प्रतिस्पर्धा करने के लिए आवश्यक न्यूनतम आयु क्या है?",
+        "A_en": "18 years", 
+        "A_hi": "18 वर्ष",
+        "B_en": "21 years", 
+        "B_hi": "21 वर्ष",
+        "C_en": "25 years", 
+        "C_hi": "25 वर्ष",
+        "D_en": "30 years", 
+        "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act, 1992, sets 21 years as the minimum age to contest Panchayat elections.",
+        "explanation_hi": "73वाँ संशोधन अधिनियम, 1992, पंचायत चुनाव में प्रतिस्पर्धा करने के लिए 21 वर्ष की न्यूनतम आयु निर्धारित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Panchayats?",
+        "question_hi": "निम्नलिखित में से कौन-सा पंचायतों का कार्य नहीं है?",
+        "A_en": "Rural sanitation", 
+        "A_hi": "ग्रामीण स्वच्छता",
+        "B_en": "Urban planning", 
+        "B_hi": "शहरी योजना",
+        "C_en": "Education", 
+        "C_hi": "शिक्षा",
+        "D_en": "Health services", 
+        "D_hi": "स्वास्थ्य सेवाएँ",
+        "answer": "B",
+        "explanation_en": "Urban planning is a function of Urban Local Bodies under the 74th Amendment, not Panchayats.",
+        "explanation_hi": "शहरी नियोजन 74वें संशोधन के अधीन शहरी स्थानीय निकायों का कार्य है, न कि पंचायतों का।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats in Panchayats are reserved for women?",
+        "question_hi": "पंचायतों में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+        "A_en": "1/3 of total seats", 
+        "A_hi": "कुल सीटों का 1/3",
+        "B_en": "1/2 of total seats", 
+        "B_hi": "कुल सीटों का 1/2",
+        "C_en": "1/4 of total seats", 
+        "C_hi": "कुल सीटों का 1/4",
+        "D_en": "2/3 of total seats", 
+        "D_hi": "कुल सीटों का 2/3",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates 1/3 of all seats in Panchayats be reserved for women.",
+        "explanation_hi": "73वाँ संशोधन पंचायतों में महिलाओं के लिए 1/3 सीटों के आरक्षण की आवश्यकता करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under which constitutional article is the Panchayati Raj system established?",
+        "question_hi": "पंचायती राज प्रणाली किस संविधान अनुच्छेद के तहत स्थापित है?",
+        "A_en": "Article 243", 
+        "A_hi": "अनुच्छेद 243",
+        "B_en": "Article 244", 
+        "B_hi": "अनुच्छेद 244",
+        "C_en": "Article 245", 
+        "C_hi": "अनुच्छेद 245",
+        "D_en": "Article 246", 
+        "D_hi": "अनुच्छेद 246",
+        "answer": "A",
+        "explanation_en": "The Panchayati Raj system is established under Article 243 of the Indian Constitution.",
+        "explanation_hi": "पंचायती राज प्रणाली भारतीय संविधान के अनुच्छेद 243 के तहत स्थापित है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of a Panchayat?",
+        "question_hi": "एक पंचायत का कार्यकाल क्या होता है?",
+        "A_en": "3 years", 
+        "A_hi": "3 वर्ष",
+        "B_en": "4 years", 
+        "B_hi": "4 वर्ष",
+        "C_en": "5 years", 
+        "C_hi": "5 वर्ष",
+        "D_en": "6 years", 
+        "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment Act, 1992, provides for a five-year term for Panchayats.",
+        "explanation_hi": "73वाँ संशोधन अधिनियम, 1992, पंचायतों के लिए पांच वर्ष के कार्यकाल का प्रावधान करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of Urban Local Bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों का कौन-सा कार्य है?",
+        "A_en": "Rural electrification", 
+        "A_hi": "ग्रामीण बिजलीकरण",
+        "B_en": "Urban sanitation", 
+        "B_hi": "शहरी स्वच्छता",
+        "C_en": "Agricultural planning", 
+        "C_hi": "कृषि योजना",
+        "D_en": "Forest management", 
+        "D_hi": "वन प्रबंधन",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment includes urban sanitation as a key function of Urban Local Bodies.",
+        "explanation_hi": "74वाँ संशोधन शहरी स्वच्छता को शहरी स्थानीय निकायों के कार्यों में महत्वपूर्ण शामिल करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age to contest elections to an Urban Local Body?",
+        "question_hi": "एक शहरी स्थानीय निकाय के चुनाव में प्रतिस्पर्धा करने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", 
+        "A_hi": "18 वर्ष",
+        "B_en": "21 years", 
+        "B_hi": "21 वर्ष",
+        "C_en": "25 years", 
+        "C_hi": "25 वर्ष",
+        "D_en": "30 years", 
+        "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment Act, 1992, sets 21 years as the minimum age for Urban Local Body elections.",
+        "explanation_hi": "74वाँ संशोधन अधिनियम, 1992, शहरी स्थानीय निकायों के चुनाव में प्रतिस्पर्धा करने के लिए 21 वर्ष की न्यूनतम आयु निर्धारित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Who is the head of a Panchayat?",
+        "question_hi": "एक पंचायत के प्रमुख कौन है?",
+        "A_en": "Mayor", 
+        "A_hi": "मेयर",
+        "B_en": "Chairperson", 
+        "B_hi": "अध्यक्ष",
+        "C_en": "Sarpanch", 
+        "C_hi": "सरपंच",
+        "D_en": "Commissioner", 
+        "D_hi": "कमिश्नर",
+        "answer": "C",
+        "explanation_en": "The Sarpanch is the elected head of a Panchayat under the 73rd Amendment.",
+        "explanation_hi": "73वाँ संशोधन के तहत सरपंच पंचायत का निर्वाचित प्रमुख होता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What year did the 73rd and 74th Amendments to the Indian Constitution come into effect?",
+        "question_hi": "भारतीय संविधान में 73वें और 74वें संशोधनों के प्रभाव कब से हुआ?",
+        "A_en": "1991", 
+        "A_hi": "1991",
+        "B_en": "1992", 
+        "B_hi": "1992",
+        "C_en": "1993", 
+        "C_hi": "1993",
+        "D_en": "1994", 
+        "D_hi": "1994",
+        "answer": "B",
+        "explanation_en": "Both the 73rd and 74th Amendments were enacted in 1992 and became effective from April 1993.",
+        "explanation_hi": "1992 में 73वाँ और 74व
