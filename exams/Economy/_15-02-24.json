@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Government Policies",
+"question_en": "Which of the following is not a policy implemented by the Indian government to boost agricultural growth?",
+"question_hi": "भारत के सरकार ने किस प्रकार की गतिविधि नहीं की है जो आर्थिक विकास को गढ़ावाने के लिए किया गया है?",
+"A_en": "National Agriculture Marketing System (NAM)",
+"A_hi": "नेशान आर्थिक मार्किंग सर्च",
+"B_en": "Farmers Produce Price Assurance Scheme (FPPAS)",
+"B_hi": "आरक्षित आर्थिक सेवा प्रणमित रहीं संसाधन",
+"C_en": "Price Stabilization Fund",
+"C_hi": "गर्मित संपद स्थित रहीं संसाधन",
+"D_en": "National Rural Employment Guarantee Scheme (NREGS)",
+"D_hi": "राज्य ग्रांड कर्नीं भागत संपद संसाधन",
+"answer": "B",
+"explanation_en": "The National Rural Employment Guarantee Scheme (NREGS) is not a policy implemented by the Indian government to boost agriculture and allied sectors. It is a scheme that provides employment guarantee to the rural population in case of unemployment.",
+"explanation_hi": "राज्य ग्रांड कर्नीं भागत संपद संसाधन",
+}
+]
