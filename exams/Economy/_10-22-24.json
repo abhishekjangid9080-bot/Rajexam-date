@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान में प्रातिपदाधिकारी क्या होता है।",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मराठी",
+"C_en": "Tamil", "C_hi": "तम्हार्थ",
+"D_en": "Urdu", "D_hi": "उर्दू",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान में प्रातिपदाधिकारी हिंदी है।"
+}
+]
