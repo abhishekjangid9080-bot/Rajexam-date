@@ -1,0 +1,148 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the 73rd and 74th Constitutional Amendments related to Panchayati Raj and Nagariya Swashasan. Let me start by recalling the key points of these amendments.
+
+The 73rd Amendment, 1992, deals with Panchayati Raj institutions, while the 74th Amendment, 1992, addresses urban local governments. Both amendments aim to strengthen local self-governance. 
+
+First question: What is the constitutional provision for Panchayats? The answer would be Article 243B. Let me check that. Yes, Article 243B outlines the constitution of Panchayats.
+
+Second question: Reservation of seats for SCs, STs, and OBCs. The 73rd Amendment mandates this in proportion to their population. So the answer is proportional to their population. 
+
+Third question: The minimum age for contesting Panchayat elections. I think it's 21 years as per the amendment. 
+
+Fourth question: Composition of urban local bodies under the 74th Amendment. It includes elected representatives, nominated members, and ex-officio members. Wait, the 74th Amendment's Article 243T says they should be constituted with elected members, so maybe the answer is elected representatives.
+
+Fifth question: The tenure of urban local bodies. It's 5 years, same as Panchayats. 
+
+Sixth question: The role of the District Planning Committee under the 73rd Amendment. They prepare draft development plans. 
+
+Seventh question: The authority to conduct elections to Panchayats. It's the State Election Commission. 
+
+Eighth question: The 73rd Amendment mandates a three-tier system. The tiers are Gram Panchayat, Panchayat Samiti, and Zila Parishad. 
+
+Ninth question: The maximum limit on the number of members in a Gram Panchayat. The 73rd Amendment doesn't specify a maximum, so the answer is not specified. 
+
+Tenth question: The 74th Amendment mandates a three-tier system for urban areas. The tiers are Nagar Panchayat, Municipal Council, and Municipal Corporation. 
+
+Now, translating each question into Hindi, ensuring the options are in both languages. Also, explanations in both Hindi and English. Need to make sure the answers are accurate. Check each point again to confirm. For example, the District Planning Committee's role, the election authority, and the composition of urban bodies. Also, verify the reservation percentages and age requirements. Once confirmed, structure the JSON accordingly with correct options and explanations.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment provides for the constitution of Panchayats?",
+        "question_hi": "कौन सा संविधान संशोधन पंचायतों के निर्माण के लिए प्रावधान करता है?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+        "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+        "D_en": "71st Amendment", "D_hi": "71वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992 provides for the constitution of Panchayats.",
+        "explanation_hi": "73वें संविधान संशोधन अध्यादेश, 1992 पंचायतों के निर्माण के लिए प्रावधान करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest a Panchayat election?",
+        "question_hi": "पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act, 1992 mandates a minimum age of 21 years for contesting Panchayat elections.",
+        "explanation_hi": "73वें संशोधन अध्यादेश, 1992 पंचायत चुनाव में भाग लेने के लिए 21 वर्ष की न्यूनतम आयु के लिए आवश्यकता व्यक्त करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Constitution mandates the establishment of a District Planning Committee?",
+        "question_hi": "संविधान के कौन से अनुच्छेद में जिला योजना समिति के स्थापना की आवश्यकता है?",
+        "A_en": "Article 243ZB", "A_hi": "अनुच्छेद 243ZB",
+        "B_en": "Article 243ZC", "B_hi": "अनुच्छेद 243ZC",
+        "C_en": "Article 243ZD", "C_hi": "अनुच्छेद 243ZD",
+        "D_en": "Article 243ZE", "D_hi": "अनुच्छेद 243ZE",
+        "answer": "A",
+        "explanation_en": "Article 243ZB of the Constitution mandates the establishment of a District Planning Committee.",
+        "explanation_hi": "संविधान के अनुच्छेद 243ZB जिला योजना समिति के स्थापना की आवश्यकता व्यक्त करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the reservation of seats for SCs and STs in urban local bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए सीटों की आरक्षण क्या है?",
+        "A_en": "Not mandated", "A_hi": "अव्यवस्थित",
+        "B_en": "In proportion to their population", "B_hi": "उनकी आबादी के अनुपात में",
+        "C_en": "Minimum 30%", "C_hi": "न्यूनतम 30%",
+        "D_en": "Maximum 50%", "D_hi": "अधिकतम 50%",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment mandates reservation of seats for SCs and STs in urban local bodies in proportion to their population.",
+        "explanation_hi": "74वें संशोधन शहरी स्थानीय निकायों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए उनकी आबादी के अनुपात में सीटों की आरक्षण की आवश्यकता व्यक्त करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a part of the three-tier system of Panchayati Raj?",
+        "question_hi": "निम्नलिखित में से कौन पंचायती राज की तीन स्तरीय प्रणाली का भाग नहीं है?",
+        "A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+        "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+        "C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+        "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+        "answer": "D",
+        "explanation_en": "The three-tier system of Panchayati Raj includes Gram Panchayat, Panchayat Samiti, and Zila Parishad. Municipal Corporation is part of urban local governance under the 74th Amendment.",
+        "explanation_hi": "पंचायती राज की तीन स्तरीय प्रणाली में ग्राम पंचायत, पंचायत समिति और जिला परिषद शामिल हैं। नगर निगम 74वें संशोधन के तहत शहरी स्थानीय शासन का हिस्सा है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under the 74th Amendment, which body is responsible for conducting elections to urban local bodies?",
+        "question_hi": "74वें संशोधन के तहत कौन सा निकाय शहरी स्थानीय निकायों के चुनाव करने के लिए जिम्मेदार है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Election Commission of India", "B_hi": "भारत के चुनाव आयोग",
+        "C_en": "District Collector", "C_hi": "जिला अधिकारी",
+        "D_en": "Zila Parishad", "D_hi": "जिला परिषद",
+        "answer": "A",
+        "explanation_en": "The State Election Commission is responsible for conducting elections to urban local bodies under the 74th Amendment.",
+        "explanation_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों के चुनाव करने के लिए राज्य चुनाव आयोग जिम्मेदार है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the maximum limit on the number of members in a Gram Panchayat?",
+        "question_hi": "ग्राम पंचायत में सदस्यों की संख्या पर अधिकतम सीमा क्या है?",
+        "A_en": "10", "A_hi": "10",
+        "B_en": "20", "B_hi": "20",
+        "C_en": "30", "C_hi": "30",
+        "D_en": "Not specified", "D_hi": "अनिर्दिष्ट",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment does not specify a maximum limit on the number of members in a Gram Panchayat.",
+        "explanation_hi": "73वें संशोधन ग्राम पंचायत में सदस्यों की संख्या पर अधिकतम सीमा निर्दिष्ट नहीं करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which article of the Constitution mandates the establishment of a State Election Commission for rural areas?",
+        "question_hi": "संविधान के कौन से अनुच्छेद में ग्रामीण क्षेत्रों के लिए राज्य चुनाव आयोग के स्थापना की आवश्यकता है?",
+        "A_en": "Article 243K", "A_hi": "अनुच्छेद 243K",
+        "B_en": "Article 243V", "B_hi": "अनुच्छेद 243V",
+        "C_en": "Article 243W", "C_hi": "अनुच्छेद 243W",
+        "D_en": "Article 243Z", "D_hi": "अनुच्छेद 243Z",
+        "answer": "B",
+        "explanation_en": "Article 243V of the Constitution mandates the establishment of a State Election Commission for rural areas.",
+        "explanation_hi": "संविधान के अनुच्छेद 243V ग्रामीण क्षेत्रों के लिए राज्य चुनाव आयोग के स्थापना की आवश्यकता व्यक्त करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of urban local bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों का कार्यकाल क्या है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment mandates a tenure of 5 years for urban local bodies.",
+        "explanation_hi": "74वें संशोधन शहरी स्थानीय निकायों के लिए 5 वर्ष का कार्यकाल निर्धारित करता है।"
+    },
+    {
+        "subject":
