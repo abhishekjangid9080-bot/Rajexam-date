@@ -1,0 +1,148 @@
+<think>
+Alright, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan's economy, focusing on agriculture, industry, and services. The questions need to be in both Hindi and English, with explanations in both languages as well. The format is strict JSON, following the example provided.
+
+First, I need to ensure the subject and topic are correctly set. Then, each question must cover different aspects of the three sectors. Let's brainstorm possible areas. For agriculture, maybe key crops, government schemes, or irrigation projects. Industry could include major industries, industrial zones, or policy initiatives. Services might involve tourism, IT parks, or service sector growth.
+
+I should start by listing key points for each sector. For example, Rajasthan is known for pulses and oilseeds. In industry, the Gems and Jewelry sector is significant. Tourism is a big part of services, with places like Jaipur, Udaipur, and Jaisalmer. The RAS exam might test on state-specific data, so including stats like percentages or rankings would add depth.
+
+Next, formulating questions. Each question should have four options, with the correct answer marked. The options must be in both languages. The explanations should be concise but informative. Need to avoid any ambiguity in the answer choices. For instance, when asking about the state with the highest cotton production, the correct answer is Gujarat, not Rajasthan, so the question would test that knowledge.
+
+I also need to check for any potential errors. For example, if a question is about the percentage of Rajasthan's population engaged in agriculture, the answer should be around 40-50% as per recent data. Ensuring all data points are up-to-date and accurate is crucial.
+
+Balancing the difficulty level is important. Some questions can be factual, while others might require understanding economic policies or sectoral contributions. For example, asking about the impact of a specific government policy on agriculture would be more analytical.
+
+Finally, structuring the JSON correctly. Each entry must follow the specified keys without any typos. Double-checking the JSON format and ensuring that Hindi and English translations are accurate and consistent. Once all questions are drafted, reviewing them for clarity and correctness before finalizing.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "What percentage of Rajasthan's population is engaged in agriculture?",
+    "question_hi": "राजस्थान की जनसंख्या का कितने प्रतिशत कृषि में लगा है?",
+    "A_en": "35-40%", "A_hi": "35-40%",
+    "B_en": "45-50%", "B_hi": "45-50%",
+    "C_en": "55-60%", "C_hi": "55-60%",
+    "D_en": "60-65%", "D_hi": "60-65%",
+    "answer": "B",
+    "explanation_en": "Approximately 45-50% of Rajasthan's population is engaged in agriculture, making it the largest contributor to the state's employment.",
+    "explanation_hi": "लगभग 45-50% राजस्थान की जनसंख्या कृषि में लगी हुई है, जो राज्य के रोजगार का सबसे बड़ा योगदानकर्ता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which of the following is the largest agricultural product in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सा राजस्थान का सबसे बड़ा कृषि उत्पाद है?",
+    "A_en": "Wheat", "A_hi": "गेहूं",
+    "B_en": "Cotton", "B_hi": "कपास",
+    "C_en": "Milk", "C_hi": "दूध",
+    "D_en": "Milk and Milk Products", "D_hi": "दूध और दूध के उत्पाद",
+    "answer": "D",
+    "explanation_en": "Dairy farming is the largest agricultural product in Rajasthan, with the state being a leading producer of milk and milk products in India.",
+    "explanation_hi": "दूध का पालन राजस्थान में सबसे बड़ा कृषि उत्पाद है, जिसमें राज्य भारत में दूध और दूध के उत्पादों का शीर्ष उत्पादक है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which industry is the major industrial contributor to Rajasthan's economy?",
+    "question_hi": "राजस्थान की अर्थव्यवस्था में किस उद्योग का मुख्य योगदान है?",
+    "A_en": "Textile", "A_hi": "कपड़ा",
+    "B_en": "Gem and Jewelry", "B_hi": "हीरा और जेवर",
+    "C_en": "Mining", "C_hi": "खनन",
+    "D_en": "Information Technology", "D_hi": "सूचना प्रौद्योगिकी",
+    "answer": "B",
+    "explanation_en": "The gems and jewelry industry is a major contributor to Rajasthan's industrial economy, with Jaipur and Udaipur being renowned hubs.",
+    "explanation_hi": "हीरा और जेवर उद्योग राजस्थान की उद्योग अर्थव्यवस्था में मुख्य योगदानकर्ता है, जहां जयपुर और उदयपुर प्रमुख केंद्र हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "What is the primary source of irrigation in Rajasthan?",
+    "question_hi": "राजस्थान में सिंचाई का मुख्य स्रोत क्या है?",
+    "A_en": "Wells", "A_hi": "कुएं",
+    "B_en": "Tanks", "B_hi": "तालाब",
+    "C_en": "Canals", "C_hi": "नहरें",
+    "D_en": "Tube Wells", "D_hi": "ट्यूबवेल्स",
+    "answer": "A",
+    "explanation_en": "Wells are the primary source of irrigation in Rajasthan due to the arid climate and limited surface water availability.",
+    "explanation_hi": "राजस्थान में शुष्क जलवायु और सीमित सतही जल की उपलब्धता के कारण कुएं सिंचाई का मुख्य स्रोत हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which of the following states produces the highest cotton in India?",
+    "question_hi": "भारत में निम्नलिखित में से कौन-सा राज्य सबसे अधिक कपास उत्पादित करता है?",
+    "A_en": "Rajasthan", "A_hi": "राजस्थान",
+    "B_en": "Gujarat", "B_hi": "गुजरात",
+    "C_en": "Maharashtra", "C_hi": "महाराष्ट्र",
+    "D_en": "Haryana", "D_hi": "हरियाणा",
+    "answer": "B",
+    "explanation_en": "Gujarat is the leading cotton producer in India, while Rajasthan, though significant, ranks second.",
+    "explanation_hi": "गुजरात भारत में सबसे अधिक कपास उत्पादक राज्य है, जबकि राजस्थान के बावजूद महत्वपूर्ण भी दूसरे स्थान पर है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "What is the primary service sector in Rajasthan?",
+    "question_hi": "राजस्थान में सेवा क्षेत्र का मुख्य क्षेत्र क्या है?",
+    "A_en": "Tourism", "A_hi": "पर्यटन",
+    "B_en": "Banking", "B_hi": "बैंकिंग",
+    "C_en": "Education", "C_hi": "शिक्षा",
+    "D_en": "Healthcare", "D_hi": "स्वास्थ्य देखभाल",
+    "answer": "A",
+    "explanation_en": "Tourism is the primary service sector in Rajasthan, contributing significantly to the state's economy through heritage sites and cultural tourism.",
+    "explanation_hi": "पर्यटन राजस्थान में अपने धरोहर स्थलों और सांस्कृतिक पर्यटन के माध्यम से राज्य की अर्थव्यवस्था में बड़ा योगदानकर्ता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which of the following is a major IT hub in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सा राजस्थान का मुख्य IT केंद्र है?",
+    "A_en": "Jaipur", "A_hi": "जयपुर",
+    "B_en": "Jodhpur", "B_hi": "जोधपुर",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Bhilwara", "D_hi": "भीलवाड़ा",
+    "answer": "A",
+    "explanation_en": "Jaipur is the major IT hub in Rajasthan, housing several IT parks and technology companies.",
+    "explanation_hi": "जयपुर राजस्थान का मुख्य IT केंद्र है, जहां कई IT पार्क और प्रौद्योगिकी कंपनियां स्थित हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "What is the primary mineral resource in Rajasthan?",
+    "question_hi": "राजस्थान में मुख्य खनिज संसाधन क्या है?",
+    "A_en": "Limestone", "A_hi": "चूना पत्थर",
+    "B_en": "Copper", "B_hi": "तांबा",
+    "C_en": "Zinc", "C_hi": "जस्ता",
+    "D_en": "Iron Ore", "D_hi": "लौह अयस्क",
+    "answer": "B",
+    "explanation_en": "Copper is the primary mineral resource in Rajasthan, with the state being a major producer in India.",
+    "explanation_hi": "तांबा राजस्थान में मुख्य खनिज संसाधन है, जहां राज्य भारत में शीर्ष उत्पादक है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "Which sector contributes the most to Rajasthan's GDP?",
+    "question_hi": "राजस्थान के GDP में किस क्षेत्र का सबसे अधिक योगदान है?",
+    "A_en": "Agriculture", "A_hi": "कृषि",
+    "B_en": "Industry", "B_hi": "उद्योग",
+    "C_en": "Services", "C_hi": "सेवा क्षेत्र",
+    "D_en": "Tourism", "D_hi": "पर्यटन",
+    "answer": "C",
+    "explanation_en": "The service sector contributes the most to Rajasthan's GDP, followed by industry and agriculture.",
+    "explanation_hi": "सेवा क्षेत्र राजस्थान के GDP में सबसे अधिक योगदानकर्ता है, जिसके बाद उद्योग और कृषि है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan ki Arthvyavastha: Krashi, Udyog aur Seva Kshetra",
+    "question_en": "What is the primary source of non-conventional energy in Rajasthan?",
+    "question_hi": "राजस्थान में गैर-परंपरागत ऊर्जा का मुख्य स्रोत क्या है?",
+    "A_en": "Solar Energy", "A_hi": "सौर ऊर्जा",
+    "B_en": "Wind Energy", "B_hi": "हवा ऊर्जा",
+    "C_en": "Hydel Power", "C_hi": "जल विद्युत",
+    "D_en": "Nuclear Energy", "D_hi": "परमाणु ऊर्जा",
+    "answer": "A",
+    "explanation_en": "Solar energy is the primary source of non-conventional energy in Rajasthan, given its vast solar potential and government initiatives.",
+    "explanation_hi": "सौर ऊर्जा राजस्थान में गैर-परंपरागत ऊर्जा का मुख्य स्रोत है, जिसके लिए राज्य विशाल सौर विकास के लिए जाना जाता है।"
+  }
+]
