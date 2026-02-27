@@ -1,0 +1,31 @@
+[
+{
+"subject": "Technology",
+"topic": "Database, Email, URL, Web Browser ki Samanya Jankari",
+"question_en": "What is a database?",
+"question_hi": "डाटाबेस क्या है?",
+"A_en": "A collection of information",
+"A_hi": "समाचार की एक संख्या।",
+"B_en": "A computer program",
+"B_hi": "एक कंप्यूटोरियाँ",
+"C_en": "A network of interconnected computers",
+"C_hi": "एक संकेतों की एक नेटवर",
+"D_en": "A structured data storage system",
+"D_hi": "एक विभागीय डेटा ड्रायरी संकेत संख्याओं",
+"answer": "D",
+"explanation_en": "A database is a structured data storage system that organizes and stores information in a systematic manner.\nIn simpler terms, it is a way to keep records or data in an orderly way for easy retrieval and management.",
+"explanation_hi": "डेटा डेटा ड्रायरी संख्याओं में समर्थन संकेत संख्याओं",
+"explanation_hi": "डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा डेटा",
+
+
+"A_en": "An email",
+"A_hi": "एंवा।",
+"B_en": "A web browser",
+"B_hi": "वीया।",
+"C_en": "A database",
+"C_hi": "कोवा।",
+"D_en": "A URL",
+"D_hi": "इ।",
+"answer": "A_en"
+}
+]
