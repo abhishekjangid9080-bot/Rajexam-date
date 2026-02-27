@@ -1,0 +1,132 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Time, Speed, and Distance for Rajasthan State Exams, SSC, and Railway exams. The questions need to be in both Hindi and English, with explanations in both languages as well. The structure must follow the provided JSON format strictly.
+
+First, I need to recall common problem types in Time, Speed, and Distance. These usually include problems on relative speed, average speed, meeting points, time and distance conversions, and maybe some real-life scenarios like trains passing each other or people traveling towards each other.
+
+Let me start with the first question. Maybe a basic one about converting speed units. Converting km/h to m/s is a common conversion. The question could be: A car travels at 72 km/h. What is its speed in m/s? The options would be calculated by multiplying 72 by 5/18, which gives 20 m/s. So options could be A: 10, B: 15, C: 20, D: 25. Answer C.
+
+Next, a problem involving two people moving towards each other. For example, two people start from points A and B, 120 km apart, with speeds 20 km/h and 10 km/h. How long until they meet? Time = distance / sum of speeds = 120/(30) = 4 hours. Options could be A: 2, B: 3, C: 4, D: 5. Answer C.
+
+Third question: A train crosses a pole in 10 seconds and a platform of 200m in 30 seconds. Find the length of the train. Let the length of the train be L. Speed when crossing the pole is L/10. When crossing the platform, it's (L + 200)/30. Since speed is same, L/10 = (L + 200)/30. Solving gives L = 100 meters. Options A: 50, B: 100, C: 150, D: 200. Answer B.
+
+Fourth question: A man walks 10 km/h uphill and 15 km/h downhill. What's the average speed for the round trip? Use harmonic mean since distances are same. Average speed = 2ab/(a + b) = 2*10*15/(25) = 12 km/h. Options A: 12, B: 13, C: 14, D: 15. Answer A.
+
+Fifth question: Two trains moving in same direction with speeds 60 km/h and 45 km/h. A third train moving in opposite direction crosses them in 10 and 12 seconds. Find the third train's speed. Wait, this might be complex. Let me think. The relative speed when crossing the first train (60 km/h) is (v + 60) km/h. When crossing the second (45 km/h), it's (v + 45) km/h. Assuming the third train's length is L. But time taken is related to L divided by relative speed. Maybe I need to set up equations. Alternatively, perhaps the question is about the third train crossing both in given times. Hmm, maybe I should simplify this. Alternatively, take a standard problem like two trains moving towards each other with given speeds and find their meeting time. Maybe that's better. Let me adjust. Let's say two trains are moving towards each other at speeds 40 km/h and 60 km/h, starting 200 km apart. Time to meet is 200/(100) = 2 hours. Options A:1, B:2, C:3, D:4. Answer B.
+
+Sixth question: A cyclist covers 15 km in 1 hour. If he increases his speed by 1/3, how much time will he take to cover 30 km? Original speed is 15 km/h. Increased speed is 15 + 5 = 20 km/h. Time = 30/20 = 1.5 hours. Options A:1.5, B:2, C:2.5, D:3. Answer A.
+
+Seventh question: A boat goes downstream at 15 km/h and upstream at 9 km/h. Find the speed of the boat in still water. Let boat speed be b and stream be s. Then b + s =15, b - s=9. Adding gives 2b=24, so b=12 km/h. Options A:10, B:12, C:14, D:16. Answer B.
+
+Eighth question: A car covers 2/3 of a distance at 40 km/h and remaining 1/3 at 60 km/h. Find average speed. Total distance D. Time for first part: (2D/3)/40 = D/60. Time for second part: (D/3)/60 = D/180. Total time: (D/60 + D/180) = (3D + D)/180 = 4D/180 = D/45. Average speed = D/(D/45) = 45 km/h. Options A:40, B:45, C:50, D:55. Answer B.
+
+Ninth question: A man can row 5 km/h in still water. If the river flows at 2 km/h, how long does it take him to row 14 km and back? Downstream speed: 5+2=7, upstream:5-2=3. Time downstream:14/7=2, upstream:14/3≈4.666. Total time≈6.666 hours. Options A:6.66, B:6.5, C:6.7, D:6.666. Answer A.
+
+Tenth question: A train 120 meters long passes a pole in 6 seconds. What is its speed in km/h? Speed = 120/6 = 20 m/s. Convert to km/h: 20*(18/5)=72 km/h. Options A:70, B:72, C:75, D:80. Answer B.
+
+Now, I need to check each question for accuracy and ensure explanations are correct. Also, make sure the Hindi translations are accurate. For example, "speed" is "गति", "distance" is "दूरी", etc. Ensure the options are correctly labeled and the answers are correct. Let me verify each step-by-step.
+
+First question: 72 km/h to m/s. 72 * 5/18 = 20. Correct.
+
+Second question: 120 km / 30 km/h = 4 hours. Correct.
+
+Third question: Let L be the train length. L/10 = (L+200)/30 → 30L = 10L + 2000 → 20L=2000 → L=100. Correct.
+
+Fourth question: Average speed for round trip with same distance: 2ab/(a + b) = (2*10*15)/25 = 12. Correct.
+
+Fifth question: Two trains moving towards each other at 40 and 60 km/h. Time to meet: 200/(100) = 2 hours. Correct.
+
+Sixth question: Speed increased by 1/3: 15 + 5 =20 km/h. 30 km / 20 = 1.5 hours. Correct.
+
+Seventh question: Boat speed in still water is average of downstream and upstream: (15 +9)/2=12. Correct.
+
+Eighth question: Total time calculation. Correct.
+
+Ninth question: Total time is 2 + 4.666 = 6.666. Correct.
+
+Tenth question: 120/6=20 m/s → 72 km/h. Correct.
+
+All explanations make sense. Now, translating all into Hindi. Need to ensure the Hindi terms are correct. For example, "average speed" is "औसत गति", "train" is "ट्रेन", "pole" is "स्तंभ" etc. Also, check for any typos or inconsistencies in options. Once done, the JSON should be properly formatted with all fields in place.
+</think>
+
+[
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
+        "question_en": "A car travels at 72 km/h. What is its speed in m/s?",
+        "question_hi": "एक कार 72 किमी/घंटा की गति से चलती है। इसकी गति मी/से में क्या है?",
+        "A_en": "10", "A_hi": "10",
+        "B_en": "15", "B_hi": "15",
+        "C_en": "20", "C_hi": "20",
+        "D_en": "25", "D_hi": "25",
+        "answer": "C",
+        "explanation_en": "Speed in m/s = 72 × (5/18) = 20 m/s.",
+        "explanation_hi": "मी/से में गति = 72 × (5/18) = 20 मी/से।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
+        "question_en": "Two people start from points A and B, 120 km apart, with speeds 20 km/h and 10 km/h. How long will it take for them to meet?",
+        "question_hi": "दो व्यक्ति बिंदु A और B से, जो 120 किमी दूर हैं, क्रमशः 20 किमी/घंटा और 10 किमी/घंटा की गति से शुरू करते हैं। वे कितने समय में मिलेंगे?",
+        "A_en": "2 hours", "A_hi": "2 घंटा",
+        "B_en": "3 hours", "B_hi": "3 घंटा",
+        "C_en": "4 hours", "C_hi": "4 घंटा",
+        "D_en": "5 hours", "D_hi": "5 घंटा",
+        "answer": "C",
+        "explanation_en": "Time = Distance / (Sum of speeds) = 120 / (20 + 10) = 4 hours.",
+        "explanation_hi": "समय = दूरी / (गतियों का योग) = 120 / (20 + 10) = 4 घंटे।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
+        "question_en": "A train crosses a pole in 10 seconds and a platform of 200m in 30 seconds. What is the length of the train?",
+        "question_hi": "एक ट्रेन एक स्तंभ को 10 सेकंड में और 200 मीटर के प्लेटफॉर्म को 30 सेकंड में पार करती है। ट्रेन की लंबाई क्या है?",
+        "A_en": "50m", "A_hi": "50 मीटर",
+        "B_en": "100m", "B_hi": "100 मीटर",
+        "C_en": "150m", "C_hi": "150 मीटर",
+        "D_en": "200m", "D_hi": "200 मीटर",
+        "answer": "B",
+        "explanation_en": "Let the length of the train be L. Speed = L/10 = (L + 200)/30. Solving gives L = 100m.",
+        "explanation_hi": "माना ट्रेन की लंबाई L है। गति = L/10 = (L + 200)/30। हल करने पर L = 100 मीटर।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
+        "question_en": "A man walks 10 km/h uphill and 15 km/h downhill. What is the average speed for the round trip?",
+        "question_hi": "एक आदमी 10 किमी/घंटा की गति से ऊपर जाता है और 15 किमी/घंटा की गति से नीचे आता है। दोनों में औसत गति क्या है?",
+        "A_en": "12 km/h", "A_hi": "12 किमी/घंटा",
+        "B_en": "13 km/h", "B_hi": "13 किमी/घंटा",
+        "C_en": "14 km/h", "C_hi": "14 किमी/घंटा",
+        "D_en": "15 km/h", "D_hi": "15 किमी/घंटा",
+        "answer": "A",
+        "explanation_en": "Average speed = 2ab/(a + b) = 2*10*15/(10 + 15) = 12 km/h.",
+        "explanation_hi": "औसत गति = 2ab/(a + b) = 2*10*15/(10 + 15) = 12 किमी/घंटा।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
+        "question_en": "Two trains moving towards each other at speeds 40 km/h and 60 km/h, starting 200 km apart. How long will it take for them to meet?",
+        "question_hi": "दो ट्रेनें 40 किमी/घंटा और 60 किमी/घंटा की गति से एक-दूसरे की ओर बढ़ रही हैं, जो 200 किमी दूर हैं। वे कितने समय में मिलेंगी?",
+        "A_en": "1 hour", "A_hi": "1 घंटा",
+        "B_en": "2 hours", "B_hi": "2 घंटा",
+        "C_en": "3 hours", "C_hi": "3 घंटा",
+        "D_en": "4 hours", "D_hi": "4 घंटा",
+        "answer": "B",
+        "explanation_en": "Time = Distance / (Sum of speeds) = 200 / (40 + 60) = 2 hours.",
+        "explanation_hi": "समय = दूरी / (गतियों का योग) = 200 / (40 + 60) = 2 घंटे।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
+        "question_en": "A cyclist covers 15 km in 1 hour. If he increases his speed by 1/3, how much time will it take to cover 30 km?",
+        "question_hi": "एक साइकिल चालक 1 घंटे में 15 किमी की दूरी तय करता है। यदि वह अपनी गति 1/3 तक बढ़ा दे, तो 30 किमी की दूरी कितने समय में तय करेगा?",
+        "A_en": "1.5 hours", "A_hi": "1.5 घंटा",
+        "B_en": "2 hours", "B_hi": "2 घंटा",
+        "C_en": "2.5 hours", "C_hi": "2.5 घंटा",
+        "D_en": "3 hours", "D_hi": "3 घंटा",
+        "answer": "A",
+        "explanation_en": "New speed = 15 + (1/3)*15 = 20 km/h. Time = 30 / 20 = 1.5 hours.",
+        "explanation_hi": "नई गति = 15 + (1/3)*15 = 20 किमी/घंटा। समय = 30 / 20 = 1.5 घंटे।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Samay-Duri (Time, Speed & Distance)",
