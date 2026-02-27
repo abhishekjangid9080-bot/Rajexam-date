@@ -1,0 +1,32 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान के अधिनियमीत्ता भाषा क्या होती है।",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मराठी",
+"C_en": "Tamil", "C_hi": "टामली",
+"D_en": "Telugu", "D_hi": "तेलुगु",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान के अधिनियमीत्ता भाषा हिंदी है।"
+},
+{
+"subject": "Economy",
+"topic": "Economic Growth",
+"question_en": "What is the primary cause of economic growth in Rajasthan?",
+"question_hi": "राजस्थान के आरंभी विकास का प्रमोट क्या है?",
+"A_en": "Increase in infrastructure",
+"A_hi": "निकास का प्रमोट",
+"B_en": "Rainfall",
+"B_hi": "ग्रीवाद",
+"C_en": "Increase in tourism",
+"C_hi": "टिम्सन का प्रमोट",
+"D_en": "Improvement in education",
+"D_hi": "शिक्षा का प्रमोट",
+"answer": "C",
+"explanation_en": "The primary reason for economic growth in Rajasthan is the increase in tourism.",
+"explanation_hi": "राजस्थान के आरंभी विकास का प्रमोट",
+"explanation": "राजस्थान का आरंभी विकास का प्रमोट में टिम्सन का प्रमोट",
+]
