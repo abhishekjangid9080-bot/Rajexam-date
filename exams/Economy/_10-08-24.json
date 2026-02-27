@@ -1,0 +1,18 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान में अंकीकरण का अधिकार क्या है?",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "English", "B_hi": "अंग्रेज़ी",
+"C_en": "Marathi", "C_hi": "मराठी",
+"D_en": "Tamil", "D_hi": "तामिल",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान की अंकीकरण को उत्तरों के लिए:",
+"explanation_hi": "राजस्थान में अंकित करने को उत्तरों के लिए:",
+"answer_hi": "A",
+"question_hi": "राजस्थान की अंकित करने को उत्तरों के लिए:",
+}
+]
