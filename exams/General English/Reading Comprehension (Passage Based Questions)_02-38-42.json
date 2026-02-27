@@ -1,0 +1,57 @@
+[
+{
+"subject": "General English",
+"topic": "Reading Comprehension (Passage Based Questions)",
+"question_en": "Who was the leader of the Indian National Congress during the time of Indian Independence?",
+"question_hi": "भारतांतरण के दौरान भारत के राज्य कांनोड़िंग के विभाग में एक महान विभाग महान होता था।",
+"A_en": "Mahatma Gandhi",
+"A_hi": "महात्मक गांधी",
+"B_en": "Pandit Madan Mohan Malaviya",
+"B_hi": "पंडित माध्यम मोहन",
+"C_en": "Sardar Vallabhbhai Patel",
+"C_hi": "शर्तवालभौती पटेल",
+"D_en": "Netaji Subhash Chandra Bose",
+"D_hi": "नेतृशांती सुभाषाचंद्र",
+"answer": "C",
+"explanation_en": "Sardar Vallabhbhai Patel was the prominent leader during the Indian independence movement and played a crucial role in the merger of princely states.\nExplanation in Hindi: शर्तवालभौती पटेल ये इंद्र में इसका अनुभवन करने के में अप्राधिकार है।",
+"explanation_hi": "शर्तवालभौती पटेल: यहां इंद्र में अनुभवन करने के में अप्राधिकार है।",
+"question_en": "Who was the leader who played a vital role in the formation of the Indian Republic?",
+"question_hi": "भारत के अप्राधिकार कौन इंद्र में उच्चारखण्डर होता है।",
+"options": [
+{
+"option_id": 1,
+"option_en": "Gandhi",
+"option_hi": "गांधी",
+"option_deleted": false
+},
+{
+"option_id": 2,
+"option_en": "Radcliffe",
+"option_hi": "राद्धिकलिफ",
+"option_deleted": false
+},
+{
+"option_id": 3,
+"option_en": "Nehru",
+"option_hi": "नेहूरु",
+"option_deleted": false
+},
+{
+"option_id": 4,
+"option_en": "Bose",
+"option_hi": "बोस",
+"option_deleted": false
+},
+{
+"option_id": 5,
+"option_en": "Ali",
+"option_hi": "अली",
+"option_deleted": true
+}
+],
+"answer_id": 3,
+"answer_en": "Nehru",
+"answer_hi": "नेहूरु",
+"answer_deleted": false
+}
+]
