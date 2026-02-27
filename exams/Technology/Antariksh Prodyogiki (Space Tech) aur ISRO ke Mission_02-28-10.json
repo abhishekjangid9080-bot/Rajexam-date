@@ -1,0 +1,56 @@
+[
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "What is the primary mission of ISRO (Indian Space Research Organization)?",
+"question_hi": "ISRO (भारतीय समारोहित प्रणम क्या है?",
+"A_en": "Developing satellites and launching them",
+"A_hi": "स्थानीय संगठन और उल्लासित करना",
+"B_en": "Launching rockets",
+"B_hi": "राक्षस लौंगने करना",
+"C_en": "Developing and launching communication satellites",
+"C_hi": "संधि संगठन और उल्लासित करना",
+"D_en": "Investigating space exploration",
+"D_hi": "स्पष्टिंग स्पृहत्व और उल्लासित करना",
+"answer": "C",
+"explanation_en": "ISRO primarily focuses on developing and launching communication satellites for efficient communication purposes.\nHindi Translation: ISRO प्रवर्षित करने की महत्व और संधि संगत करना",
+"explanation_hi": "ISRO भूमियां और संधि संगत करना है।\nEnglish Translation: ISRO mainly focuses on developing and launching communication satellites for efficient communication.\nसंधि संगत करने की महत्व और संधि संगत करना",
+"question_en": "What is the primary role of ISRO (Indian Space Research Organization)?",
+"question_hi": "ISRO (भूमियां और संधि संगत करना",
+"answer": "C",
+"explanation_en": "ISRO is primarily responsible for conducting satellite launches and research in space exploration.\nHindi Translation: ISRO का मुख्यां और संधि संगत करने और साप्तिक पर्यापी अन्तर्राष्ट्री संगत करना",
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogi",
+"question_en": "What is the role of Technology in our daily life?",
+"question_hi": "धर्मानगर मैंकों का मूल लियाँ",
+"answer": "A",
+"explanation_en": "Technology plays a vital role in enriching our daily lives by providing advanced devices, communication, and infrastructure.\nHindi Translation: धर्मानगर मैंकों में मोनन करने के लिए धर्मानगर मैंकों का मूल लियाँ",
+"explanation_hi": "तमीली धर्मानगर मैंकों के लिए धर्मानगर मैंकों के मोनन्यान सबलिए धर्मानगर मैंकों",
+"options": [
+{
+"option_en": "A",
+"option_hi": "अ",
+"option_explanation_en": "Developing satellites for weather monitoring and disaster management.",
+"option_explanation_hi": "विभवन कोण सबलिए धर्मानगर मैंकों",
+},
+{
+"option_en": "B",
+"option_hi": "ब",
+"option_explanation_en": "Creating infrastructure for space research and development.",
+"option_explanation_hi": "सामसर और स्वरिए धर्मानगर मैंकोण",
+},
+{
+"option_en": "C",
+"option_hi": "क",
+"option_explanation_en": "Implementing space exploration projects and launching rockets.",
+"option_explanation_hi": "सामसर उपरिए धर्मानगर मैंकोण",
+},
+{
+"option_en": "D",
+"option_hi": "त",
+"option_explanation_en": "Designing satellites for communication and space research.",
+"option_explanation_hi": "सामसर सरिए धरैंकोण",
+}
+]
