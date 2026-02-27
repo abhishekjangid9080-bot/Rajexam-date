@@ -1,0 +1,147 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments to the Indian Constitution. The user wants the questions in both Hindi and English, following the Testbook style. Let me start by recalling key points related to these amendments.
+
+First, the 73rd Amendment Act, 1992, deals with Panchayati Raj institutions. It introduced Part IX in the Constitution, establishing a three-tier system at the village, block, and district levels. Reservation for SCs, STs, and women is a key aspect. The 74th Amendment Act, 1992, is about urban local bodies, adding Part IX-A, and similar reservations for urban areas.
+
+I should cover the constitutional amendments, their provisions, structure of the local governance bodies, reservation details, financial provisions, and roles of different levels. Let me brainstorm some question areas:
+
+1. Constitutional amendment year for Panchayati Raj (73rd).
+2. Constitutional amendment year for Nagariya Swashasan (74th).
+3. Reservation for women in Panchayats.
+4. Reservation for SC/ST in urban local bodies.
+5. Structure of the Panchayati Raj system (three tiers).
+6. Duration of Panchayat terms.
+7. Disqualification of members.
+8. Role of Gram Sabha.
+9. Power of State Governments to make laws.
+10. Financial provisions like State Finance Commission.
+
+Now, I need to frame each question in both languages. Ensure the answers are accurate. Let me verify each point. For example, the 73rd Amendment year is 1992. Women's reservation is one-third. Three-tier system: village, block, district. The duration is five years. Disqualification is for 6 months' absence. Gram Sabha is the foundation. State Governments can make laws under Part IX. Financial provisions include the State Finance Commission every five years.
+
+Check for any nuances. For instance, the exact percentage for women's reservation is one-third, and the same for urban bodies under 74th. The three tiers are Gram Panchayat, Panchayat Samiti, and Zila Parishad. Also, the 74th Amendment's structure is similar but for urban areas.
+
+Now, formulating each question step by step, ensuring options are plausible. Avoid trick questions but test understanding. Explanations should clarify the answer concisely. Let me draft each question with these points in mind.
+</think>
+
+[
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+"question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान संशोधन पेश किया गया था?",
+"A_en": "72nd Amendment Act, 1991", "A_hi": "72वां संशोधन अध्यादेश, 1991",
+"B_en": "73rd Amendment Act, 1992", "B_hi": "73वां संशोधन अध्यादेश, 1992",
+"C_en": "74th Amendment Act, 1992", "C_hi": "74वां संशोधन अध्यादेश, 1992",
+"D_en": "75th Amendment Act, 1993", "D_hi": "75वां संशोधन अध्यादेश, 1993",
+"answer": "B",
+"explanation_en": "The 73rd Amendment Act, 1992, established the Panchayati Raj system by inserting Part IX into the Indian Constitution.",
+"explanation_hi": "73वां संशोधन अध्यादेश, 1992, भारतीय संविधान में भाग IX को शामिल करके पंचायती राज प्रणाली की स्थापना की।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum age required to contest a Panchayat election?",
+"question_hi": "पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+"A_en": "21 years", "A_hi": "21 वर्ष",
+"B_en": "25 years", "B_hi": "25 वर्ष",
+"C_en": "18 years", "C_hi": "18 वर्ष",
+"D_en": "30 years", "D_hi": "30 वर्ष",
+"answer": "A",
+"explanation_en": "The minimum age required to contest a Panchayat election is 21 years as per the 73rd Amendment Act.",
+"explanation_hi": "73वें संशोधन अध्यादेश के अनुसार पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु 21 वर्ष है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following is NOT a feature of the 73rd Amendment Act?",
+"question_hi": "निम्नलिखित में से कौन सा 73वें संशोधन अध्यादेश की विशेषता नहीं है?",
+"A_en": "Reservation for Scheduled Castes and Scheduled Tribes", "A_hi": "अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षण",
+"B_en": "Reservation for women", "B_hi": "महिलाओं के लिए आरक्षण",
+"C_en": "Establishment of Municipal Corporations", "C_hi": "नगर निगम की स्थापना",
+"D_en": "Power of Gram Sabha", "D_hi": "ग्राम सभा की शक्ति",
+"answer": "C",
+"explanation_en": "The 73rd Amendment Act focuses on rural Panchayati Raj institutions. Establishing Municipal Corporations is part of the 74th Amendment Act.",
+"explanation_hi": "73वें संशोधन अध्यादेश ग्रामीण पंचायती राज संस्थानों पर केंद्रित है। नगर निगम की स्थापना 74वें संशोधन अध्यादेश का हिस्सा है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the duration of a Panchayat's term?",
+"question_hi": "पंचायत के कार्यकाल की अवधि क्या है?",
+"A_en": "3 years", "A_hi": "3 वर्ष",
+"B_en": "4 years", "B_hi": "4 वर्ष",
+"C_en": "5 years", "C_hi": "5 वर्ष",
+"D_en": "6 years", "D_hi": "6 वर्ष",
+"answer": "C",
+"explanation_en": "The 73rd Amendment Act specifies that the term of a Panchayat is five years.",
+"explanation_hi": "73वें संशोधन अध्यादेश में निर्दिष्ट है कि पंचायत का कार्यकाल पांच वर्ष होता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Under the 73rd Amendment Act, what is the minimum proportion of seats reserved for women in a Panchayat?",
+"question_hi": "73वें संशोधन अध्यादेश के तहत एक पंचायत में महिलाओं के लिए आरक्षित न्यूनतम सीटों का प्रतिशत क्या है?",
+"A_en": "30%", "A_hi": "30%",
+"B_en": "33%", "B_hi": "33%",
+"C_en": "40%", "C_hi": "40%",
+"D_en": "25%", "D_hi": "25%",
+"answer": "B",
+"explanation_en": "The 73rd Amendment Act mandates at least one-third of the seats in a Panchayat to be reserved for women.",
+"explanation_hi": "73वें संशोधन अध्यादेश में निर्देशित किया गया है कि पंचायत में महिलाओं के लिए कम से कम एक तिहाई सीटें आरक्षित होंगी।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which of the following is NOT a function of the Zila Parishad?",
+"question_hi": "निम्नलिखित में से कौन सा जिला परिषद का कार्य नहीं है?",
+"A_en": "To prepare a development plan for the district", "A_hi": "जिले के विकास योजना की तैयारी करना",
+"B_en": "To supervise the Panchayat Samitis", "B_hi": "पंचायत समितियों की निगरानी करना",
+"C_en": "To collect local taxes", "C_hi": "स्थानीय करों का संग्रह करना",
+"D_en": "To conduct elections for Gram Panchayats", "D_hi": "ग्राम पंचायतों के चुनाव आयोजित करना",
+"answer": "D",
+"explanation_en": "The Zila Parishad is responsible for district-level planning and supervision, but elections for Gram Panchayats are conducted by the State Election Commission.",
+"explanation_hi": "जिला परिषद जिला स्तरीय योजना बनाने और निगरानी के लिए जिम्मेदार है, लेकिन ग्राम पंचायतों के चुनाव राज्य चुनाव आयोग द्वारा आयोजित किए जाते हैं।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "The 74th Amendment Act deals with which of the following?",
+"question_hi": "74वें संशोधन अध्यादेश निम्नलिखित में से किसके साथ संबंधित है?",
+"A_en": "Urban local self-government", "A_hi": "शहरी स्व-शासन",
+"B_en": "Rural land reforms", "B_hi": "ग्रामीण भूमि सुधार",
+"C_en": "Forest conservation", "C_hi": "वन संरक्षण",
+"D_en": "Educational reforms", "D_hi": "शैक्षिक सुधार",
+"answer": "A",
+"explanation_en": "The 74th Amendment Act, 1992, was enacted to establish urban local self-government through the creation of Municipal Corporations, Municipal Councils, and Nagar Panchayats.",
+"explanation_hi": "74वें संशोधन अध्यादेश, 1992, के माध्यम से नगर निगम, नगर परिषद और नगर पंचायत की स्थापना करके शहरी स्व-शासन की स्थापना की गई।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "What is the minimum number of members required in a Municipal Council?",
+"question_hi": "एक नगर परिषद में सदस्यों की न्यूनतम संख्या क्या होनी चाहिए?",
+"A_en": "5", "A_hi": "5",
+"B_en": "7", "B_hi": "7",
+"C_en": "10", "C_hi": "10",
+"D_en": "15", "D_hi": "15",
+"answer": "A",
+"explanation_en": "A Municipal Council must have at least five members, as per the 74th Amendment Act.",
+"explanation_hi": "74वें संशोधन अध्यादेश के अनुसार एक नगर परिषद में कम से कम पांच सदस्य होने चाहिए।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Under the 74th Amendment Act, what is the reservation percentage for Scheduled Castes and Scheduled Tribes in urban local bodies?",
+"question_hi": "74वें संशोधन अध्यादेश के तहत शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षण प्रतिशत क्या है?",
+"A_en": "30%", "A_hi": "30%",
+"B_en": "33%", "B_hi": "33%",
+"C_en": "40%", "C_hi": "40%",
+"D_en": "It varies according to population proportions", "D_hi": "यह आबादी के अनुपात के अनुसार भिन्न होता है",
+"answer": "D",
+"explanation_en": "The reservation for Scheduled Castes and Scheduled Tribes in urban local bodies is determined based on their population proportion in the area.",
+"explanation_hi": "शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षण क्षेत्र में उनके जनसंख्या अनुपात के आधार पर निर्धारित किया जाता है।"
+},
+{
+"subject": "Indian Polity",
+"topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+"question_en": "Which body is responsible for recommending the demarcation of electoral constituencies for urban local
