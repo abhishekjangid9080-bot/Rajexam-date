@@ -1,0 +1,155 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of "Computer ke Mool Tatva: Hardware, Software aur Operating System" for Rajasthan State Exams, SSC, and Railway exams. Let me start by breaking down the subject into key areas. 
+
+First, hardware components: maybe ask about input devices like keyboard or mouse. Then software types, like system vs application software. Operating systems like Windows, Linux, or macOS. Also, maybe some basic concepts like RAM vs ROM, CPU functions, storage devices (HDD vs SSD), and peripheral devices.
+
+I should ensure the questions are in Hindi and English, with options in both languages. The difficulty should be moderate, suitable for competitive exams. Let me list possible questions:
+
+1. Which of the following is not a hardware component? (Options: Processor, RAM, Antivirus, Hard Disk)
+2. What is the function of RAM? (Options related to temporary storage, permanent storage, etc.)
+3. Which of the following is a system software? (Options: Operating System, MS Word, Calculator, Paint)
+4. Which device is used for input? (Keyboard, Printer, Speaker, Monitor)
+5. What is the role of an operating system? (Managing resources, Running games, Creating documents, Sending emails)
+6. Difference between HDD and SSD? (Speed comparison)
+7. Which is not a peripheral device? (CPU, Mouse, Printer, Scanner)
+8. Which software controls hardware? (OS, MS Word, Photoshop, Excel)
+9. What is the function of a compiler? (Translates code, Runs applications, Manages files, Stores data)
+10. Which is not a type of memory? (ROM, RAM, Cache, CPU)
+
+Now, I need to translate these into both Hindi and English, ensuring options are clear. Answers and explanations should be accurate. Let me check each question for clarity and correctness. For example, Antivirus is software, not hardware. RAM is volatile. System software includes OS. Compiler translates code. 
+
+I need to make sure the JSON structure is correct, with all fields filled. Also, the answer letters (A, B, C, D) must correspond correctly. Let me go through each question step by step.
+</think>
+
+[
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which of the following is not a hardware component?",
+"question_hi": "निम्नलिखित में से कौन सा हार्डवेयर घटक नहीं है?",
+"A_en": "Processor", "A_hi": "प्रोसेसर",
+"B_en": "RAM", "B_hi": "रैम",
+"C_en": "Antivirus", "C_hi": "एंटीवायरस",
+"D_en": "Hard Disk", "D_hi": "हार्ड डिस्क",
+"answer": "C",
+"explanation_en": "Antivirus is software used for detecting and removing malicious software, not a hardware component.",
+"explanation_hi": "एंटीवायरस हार्मफुल सॉफ्टवेयर का पता लगाने और हटाने के लिए सॉफ्टवेयर है, हार्डवेयर घटक नहीं है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which of the following is a system software?",
+"question_hi": "निम्नलिखित में से कौन सा सिस्टम सॉफ्टवेयर है?",
+"A_en": "MS Word", "A_hi": "एमएस वर्ड",
+"B_en": "Calculator", "B_hi": "कैलकुलेटर",
+"C_en": "Operating System", "C_hi": "ऑपरेटिंग सिस्टम",
+"D_en": "Paint", "D_hi": "पेंट",
+"answer": "C",
+"explanation_en": "Operating System is system software that manages computer hardware and software resources.",
+"explanation_hi": "ऑपरेटिंग सिस्टम हार्डवेयर और सॉफ्टवेयर संसाधनों के प्रबंधन हेतु सिस्टम सॉफ्टवेयर है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "What is the primary function of RAM?",
+"question_hi": "रैम का मुख्य कार्य क्या है?",
+"A_en": "Permanent data storage", "A_hi": "स्थाई डेटा संग्रहण",
+"B_en": "Temporary data storage", "B_hi": "अस्थायी डेटा संग्रहण",
+"C_en": "Data backup", "C_hi": "डेटा बैकअप",
+"D_en": "Data encryption", "D_hi": "डेटा एन्क्रिप्शन",
+"answer": "B",
+"explanation_en": "RAM stores data temporarily while the computer is running, which is lost after shutdown.",
+"explanation_hi": "रैम कंप्यूटर के ऑन होने पर डेटा को अस्थायी रूप से संग्रहित करता है, जो बंद होने पर खो जाता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which device is used for inputting data into a computer?",
+"question_hi": "कंप्यूटर में डेटा इनपुट करने के लिए कौन सी डिवाइस उपयोग में लाई जाती है?",
+"A_en": "Printer", "A_hi": "प्रिंटर",
+"B_en": "Speaker", "B_hi": "स्पीकर",
+"C_en": "Keyboard", "C_hi": "कीबोर्ड",
+"D_en": "Monitor", "D_hi": "मॉनिटर",
+"answer": "C",
+"explanation_en": "A keyboard is an input device used to enter data into a computer.",
+"explanation_hi": "कीबोर्ड एक इनपुट डिवाइस है जिसका उपयोग कंप्यूटर में डेटा दर्ज करने के लिए किया जाता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which of the following is not a peripheral device?",
+"question_hi": "निम्नलिखित में से कौन सी पेरिफेरल डिवाइस नहीं है?",
+"A_en": "Mouse", "A_hi": "माउस",
+"B_en": "Printer", "B_hi": "प्रिंटर",
+"C_en": "CPU", "C_hi": "सीपीयू",
+"D_en": "Scanner", "D_hi": "स्कैनर",
+"answer": "C",
+"explanation_en": "CPU is the central processing unit and is part of the main computer hardware, not a peripheral device.",
+"explanation_hi": "सीपीयू मुख्य कंप्यूटर हार्डवेयर का हिस्सा है, पेरिफेरल डिवाइस नहीं है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which of the following is a function of an operating system?",
+"question_hi": "निम्नलिखित में से कौन सा ऑपरेटिंग सिस्टम का कार्य है?",
+"A_en": "Running games", "A_hi": "गेम चलाना",
+"B_en": "Managing hardware resources", "B_hi": "हार्डवेयर संसाधनों का प्रबंधन",
+"C_en": "Editing documents", "C_hi": "दस्तावेज संपादित करना",
+"D_en": "Creating spreadsheets", "D_hi": "स्प्रेडशीट बनाना",
+"answer": "B",
+"explanation_en": "An operating system manages hardware and software resources, providing services for programs.",
+"explanation_hi": "ऑपरेटिंग सिस्टम हार्डवेयर और सॉफ्टवेयर संसाधनों का प्रबंधन करता है, प्रोग्रामों के लिए सेवाएं प्रदान करता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "What is the full form of SSD in computer storage?",
+"question_hi": "कंप्यूटर स्टोरेज में SSD का पूर्ण रूप क्या है?",
+"A_en": "Solid State Drive", "A_hi": "सॉलिड स्टेट ड्राइव",
+"B_en": "Stable Storage Device", "B_hi": "स्थिर स्टोरेज डिवाइस",
+"C_en": "Secure Storage Drive", "C_hi": "सुरक्षित स्टोरेज ड्राइव",
+"D_en": "Standard Storage Device", "D_hi": "मानक स्टोरेज डिवाइस",
+"answer": "A",
+"explanation_en": "SSD stands for Solid State Drive, a type of storage device using flash memory.",
+"explanation_hi": "एसएसडी का पूर्ण रूप सॉलिड स्टेट ड्राइव है, जो फ्लैश मेमोरी का उपयोग करने वाली स्टोरेज डिवाइस है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which of the following is not a type of computer memory?",
+"question_hi": "निम्नलिखित में से कौन सी कंप्यूटर मेमोरी का प्रकार नहीं है?",
+"A_en": "ROM", "A_hi": "रोम",
+"B_en": "RAM", "B_hi": "रैम",
+"C_en": "CPU", "C_hi": "सीपीयू",
+"D_en": "Cache", "D_hi": "कैश",
+"answer": "C",
+"explanation_en": "CPU is the central processing unit and not a type of computer memory.",
+"explanation_hi": "सीपीयू केंद्रीय प्रोसेसिंग इकाई है और कंप्यूटर मेमोरी का प्रकार नहीं है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "What is the purpose of a compiler in computing?",
+"question_hi": "कंप्यूटिंग में एक कंपाइलर का उद्देश्य क्या है?",
+"A_en": "Running applications", "A_hi": "एप्लिकेशन चलाना",
+"B_en": "Translating code into machine language", "B_hi": "कोड को मशीन भाषा में अनुवादित करना",
+"C_en": "Storing data", "C_hi": "डेटा संग्रहीत करना",
+"D_en": "Printing documents", "D_hi": "दस्तावेज प्रिंट करना",
+"answer": "B",
+"explanation_en": "A compiler translates high-level programming code into machine language.",
+"explanation_hi": "एक कंपाइलर हाई-लेवल प्रोग्रामिंग कोड को मशीन भाषा में अनुवादित करता है।"
+},
+{
+"subject": "Technology",
+"topic": "Computer ke Mool Tatva: Hardware, Software aur Operating System",
+"question_en": "Which of the following is an example of application software?",
+"question_hi": "निम्नलिखित में से कौन सा एप्लिकेशन सॉफ्टवेयर का उदाहरण है?",
+"A_en": "Linux", "A_hi": "लिनक्स",
+"B_en": "Windows 10", "B_hi": "विंडोज 10",
+"C_en": "MS Excel", "C_hi": "एमएस एक्सेल",
+"D_en": "iOS", "D_hi": "आईओएस",
+"answer": "C",
+"explanation_en": "MS Excel is application software used for spreadsheet tasks.",
+"explanation_hi": "एमएस एक्सेल स्प्रेडशीट कार्यों के लिए एप्लिकेशन सॉफ्टवेयर है।"
+}
+]
