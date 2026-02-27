@@ -1,0 +1,188 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Space Technology and ISRO Missions for exams like Rajasthan's LDC, CET, RAS, SSC, and Railway NTPC. The questions need to be in both Hindi and English, with explanations in both languages as well. The format should be strict JSON, following the provided example.
+
+First, I need to recall key points about ISRO and space technology relevant to these exams. Topics might include ISRO's major missions, satellites, notable achievements, launch vehicles like PSLV and GSLV, and recent missions like Chandrayaan and Mangalyaan.
+
+Let me start by listing possible questions. For example, Chandrayaan-3 is a recent mission. The user might need a question about it. Similarly, the first satellite of ISRO, Aryabhata, is a good topic. Also, the launch vehicle that sent Chandrayaan-3 would be PSLV.
+
+I need to ensure the questions are of appropriate difficulty. They shouldn't be too basic, like just asking for the first satellite, but maybe something like which satellite is used for which purpose. Also, some questions might be about the structure of ISRO's launch vehicles, like the difference between PSLV and GSLV.
+
+I should check for accuracy. For example, Chandrayaan-3's launch date is July 2023, and it used the LVM3 rocket. The Mangalyaan mission (Mars Orbiter) is called Mangalyaan, officially Mars Orbiter Mission (MOM), launched in 2013.
+
+Another point: ISRO's headquarters are in Bengaluru. Also, the name of the rocket that launched Chandrayaan-3 is LVM3, not PSLV. Need to confirm that.
+
+Also, the first satellite Aryabhata was launched in 1975. The satellite for navigation is IRNSS/NavIC. The satellite for communication is like GSAT series.
+
+For each question, options need to be in both languages. I have to translate the options accurately. For example, "Bhaskara-I" is the same in Hindi, but sometimes there might be variations in the translation of terms. But usually, satellite names are the same in both languages.
+
+The explanation should be concise and accurate. For example, explaining why Chandrayaan-3's launch vehicle is LVM3, or why Mangalyaan is significant.
+
+I need to make sure that the answer is correct and that the options are plausible but incorrect. For example, in a question about the first satellite, options might include other early satellites like Bhaskara, Rohini, etc.
+
+Let me think of 10 topics:
+
+1. Chandrayaan-3's launch date.
+2. Satellite used for navigation (NavIC).
+3. First satellite of ISRO (Aryabhata).
+4. Mission for Mars (MOM/Chandrayaan).
+5. Launch vehicle for Chandrayaan-3 (LVM3 vs PSLV).
+6. ISRO headquarters.
+7. Satellite for weather (INSAT).
+8. Satellite for communication (GSAT).
+9. First launch vehicle (SLV-3).
+10. ISRO's first human space mission (Gaganyaan, though it's planned).
+
+Wait, Gaganyaan is a planned mission, so maybe not yet launched. Let me check. Gaganyaan is ISRO's crewed mission, planned for 2025. So it's a current topic. Maybe a question about the first human space mission by ISRO.
+
+Also, the number of satellites launched in one go by ISRO (like 104 in 2018).
+
+Hmm, but I need 10 questions. Let me structure them one by one, ensuring each has correct info and options.
+
+For example:
+
+Question 1: Which mission is known as the Mars Orbiter Mission (MOM)?
+Options: A. Chandrayaan-1, B. Chandrayaan-2, C. Mangalyaan, D. Aditya-L1.
+Answer: C. Mangalyaan.
+
+Question 2: What is the name of the first satellite launched by ISRO?
+Options: A. Aryabhata, B. Bhaskara-I, C. Rohini, D. IRS-1A.
+Answer: A. Aryabhata.
+
+Question 3: Which launch vehicle was used to launch Chandrayaan-3?
+Options: A. PSLV, B. GSLV-MkII, C. LVM3, D. GSLV-MkIII.
+Answer: C. LVM3.
+
+And so on. Each question needs to be verified for accuracy. I should also ensure that the difficulty is moderate to high, suitable for competitive exams.
+
+Once the questions are drafted, I need to write the explanations in both languages. The explanations should be brief but informative, confirming the correct answer and why the others are incorrect.
+
+Finally, format all of this into the required JSON structure, ensuring the syntax is correct with proper commas and brackets. No markdown, just the raw JSON.
+</think>
+
+[
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "Which ISRO mission is known as the Mars Orbiter Mission (MOM)?",
+"question_hi": "कौन सा आईएसआरओ मिशन मंगल अभियान (एमओएम) के रूप में जाना जाता है?",
+"A_en": "Chandrayaan-1", "A_hi": "चंद्रयान-1",
+"B_en": "Chandrayaan-2", "B_hi": "चंद्रयान-2",
+"C_en": "Mangalyaan", "C_hi": "मंगल्यान",
+"D_en": "Aditya-L1", "D_hi": "अदित्या-एल 1",
+"answer": "C",
+"explanation_en": "Mangalyaan is the informal name for ISRO's Mars Orbiter Mission (MOM) launched in 2013.",
+"explanation_hi": "मंगल्यान आईएसआरओ का मंगल अभियान (एमओएम) के लॉन्च के बाद अनौपचारिक नाम है।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "What is the name of the first satellite launched by ISRO?",
+"question_hi": "आईएसआरओ द्वारा लॉन्च किए गए पहले उपग्रह का नाम क्या है?",
+"A_en": "Aryabhata", "A_hi": "आर्यभट्ट",
+"B_en": "Bhaskara-I", "B_hi": "भास्करा-I",
+"C_en": "Rohini", "C_hi": "रोहिणी",
+"D_en": "IRS-1A", "D_hi": "आईआरएस-1ए",
+"answer": "A",
+"explanation_en": "Aryabhata, launched in 1975, was ISRO's first satellite.",
+"explanation_hi": "आर्यभट्ट, जिसे 1975 में लॉन्च किया गया था, आईएसआरओ का पहला उपग्रह था।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "Which launch vehicle was used to launch Chandrayaan-3?",
+"question_hi": "चंद्रयान-3 को लॉन्च करने के लिए किस प्रक्षेपण वाहन का उपयोग किया गया था?",
+"A_en": "PSLV", "A_hi": "पीएसएलवी",
+"B_en": "GSLV-MkII", "B_hi": "जीएसएलवी-एमके2",
+"C_en": "LVM3", "C_hi": "एलवीएम3",
+"D_en": "GSLV-MkIII", "D_hi": "जीएसएलवी-एमके3",
+"answer": "C",
+"explanation_en": "Chandrayaan-3 was launched using the LVM3 (Launch Vehicle Mark III).",
+"explanation_hi": "चंद्रयान-3 को एलवीएम3 (लॉन्च वैगन मार्क तीन) के साथ लॉन्च किया गया था।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "Where is the headquarters of ISRO located?",
+"question_hi": "आईएसआरओ का मुख्यालय कहां स्थित है?",
+"A_en": "Hyderabad", "A_hi": "हैदराबाद",
+"B_en": "Bengaluru", "B_hi": "बेंगलुरु",
+"C_en": "Chennai", "C_hi": "चेन्नई",
+"D_en": "Ahmedabad", "D_hi": "अहमदाबाद",
+"answer": "B",
+"explanation_en": "ISRO's headquarters is in Bengaluru, Karnataka.",
+"explanation_hi": "आईएसआरओ का मुख्यालय कर्नाटक के बेंगलुरु में है।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "Which satellite is used for weather forecasting in India?",
+"question_hi": "भारत में मौसम के भविष्यवाणी के लिए किस उपग्रह का उपयोग किया जाता है?",
+"A_en": "INSAT", "A_hi": "ईएनएसएटी",
+"B_en": "IRNSS", "B_hi": "आईआरएनएसएस",
+"C_en": "GSAT", "C_hi": "जीएसएटी",
+"D_en": "Cartosat", "D_hi": "कार्टोसैट",
+"answer": "A",
+"explanation_en": "INSAT (Indian National Satellite) system is used for weather forecasting and communication.",
+"explanation_hi": "ईएनएसएटी (भारतीय राष्ट्रीय उपग्रह) प्रणाली मौसम भविष्यवाणी और संचार के लिए उपयोग की जाती है।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "What is the name of ISRO's first experimental satellite?",
+"question_hi": "आईएसआरओ के पहले प्रयोगात्मक उपग्रह का नाम क्या है?",
+"A_en": "Aryabhata", "A_hi": "आर्यभट्ट",
+"B_en": "Bhaskara-I", "B_hi": "भास्करा-I",
+"C_en": "Rohini", "C_hi": "रोहिणी",
+"D_en": "IRS-1A", "D_hi": "आईआरएस-1ए",
+"answer": "C",
+"explanation_en": "Rohini was ISRO's first experimental satellite launched in 1975.",
+"explanation_hi": "रोहिणी आईएसआरओ का पहला प्रयोगात्मक उपग्रह था जिसे 1975 में लॉन्च किया गया था।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "Which ISRO mission successfully placed 104 satellites in orbit in a single launch?",
+"question_hi": "कौन सा आईएसआरओ मिशन एकल लॉन्च में 104 उपग्रहों को कक्षा में स्थापित करने में सफल रहा?",
+"A_en": "Chandrayaan-1", "A_hi": "चंद्रयान-1",
+"B_en": "Chandrayaan-2", "B_hi": "चंद्रयान-2",
+"C_en": "PSLV-C37", "C_hi": "पीएसएलवी-सी37",
+"D_en": "GSLV-F11", "D_hi": "जीएसएलवी-एफ11",
+"answer": "C",
+"explanation_en": "PSLV-C37 launched 104 satellites in 2018, including 101 foreign satellites.",
+"explanation_hi": "पीएसएलवी-सी37 ने 2018 में 104 उपग्रहों को लॉन्च किया, जिसमें 101 विदेशी उपग्रह शामिल थे।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "What is the name of the ISRO's satellite navigation system?",
+"question_hi": "आईएसआरओ की सैटेलाइट नेविगेशन प्रणाली का नाम क्या है?",
+"A_en": "IRNSS", "A_hi": "आईआरएनएसएस",
+"B_en": "INSAT", "B_hi": "ईएनएसएटी",
+"C_en": "GSAT", "C_hi": "जीएसएटी",
+"D_en": "Cartosat", "D_hi": "कार्टोसैट",
+"answer": "A",
+"explanation_en": "IRNSS (Indian Regional Navigation Satellite System) is used for navigation and location services.",
+"explanation_hi": "आईआरएनएसएस (भारतीय क्षेत्रीय संचार उपग्रह प्रणाली) नेविगेशन और स्थान खोज सेवाओं के लिए उपयोग किया जाता है।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "What is the full form of GSLV?",
+"question_hi": "जीएसएलवी का पूर्ण रूप क्या है?",
+"A_en": "Geosynchronous Satellite Launch Vehicle", "A_hi": "जीओएसएटी सिंक्रोनस उपग्रह प्रक्षेपण वाहन",
+"B_en": "Geostationary Satellite Launch Vehicle", "B_hi": "जीओस्टेशनरी उपग्रह प्रक्षेपण वाहन",
+"C_en": "Global Satellite Launch Vehicle", "C_hi": "सभी उपग्रह प्रक्षेपण वाहन",
+"D_en": "Geographic Satellite Launch Vehicle", "D_hi": "भूगोल संबंधी उपग्रह प्रक्षेपण वाहन",
+"answer": "A",
+"explanation_en": "GSLV stands for Geosynchronous Satellite Launch Vehicle.",
+"explanation_hi": "जीएसएलवी का पूर्ण रूप जीओएसएटी सिंक्रोनस उपग्रह प्रक्षेपण वाहन है।"
+},
+{
+"subject": "Technology",
+"topic": "Antariksh Prodyogiki (Space Tech) aur ISRO ke Mission",
+"question_en": "When was Chandrayaan-3 launched?",
+"question_hi": "चंद्रयान-3 के लॉन्च कब हुआ था?",
+"A_en": "July 2023", "A_hi": "जुलाई 2023",
+"B_en": "September 2022", "B_hi": "सितंबर 2022",
+"C_en": "December 2021", "C_hi": "दिसंबर 2021",
+"D_en": "March 202
