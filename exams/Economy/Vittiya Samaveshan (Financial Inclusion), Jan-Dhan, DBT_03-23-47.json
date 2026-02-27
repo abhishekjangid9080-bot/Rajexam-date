@@ -1,0 +1,157 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Financial Inclusion, Jan-Dhan, and DBT for Rajasthan State Exams, SSC, and Railway. Let me start by recalling the key points related to these topics. 
+
+First, Jan-Dhan Yojana was launched to provide access to financial services. It's a government initiative, so I should mention the year it was started. Also, key features like zero-balance accounts, RuPay cards, and the number of accounts opened. Then, DBT (Direct Benefit Transfer) is about transferring subsidies directly to beneficiaries' accounts. I should include objectives like reducing corruption and leakages. 
+
+I need to ensure that questions cover definitions, objectives, features, and facts like numbers. The answer options should be plausible but not too tricky. For example, the launch date of Jan-Dhan is August 2014, so a question on that date is useful. Also, the target of 15 crores accounts by 2018. 
+
+I should also include explanations for each question to clarify why the correct answer is right. For example, explaining how DBT reduces middlemen. I need to check the current status of Jan-Dhan accounts as of 2023. Also, the role of RuPay cards in the scheme. 
+
+I have to make sure that the options in Hindi and English are accurate translations. Maybe some terms have specific translations. For example, "Direct Benefit Transfer" in Hindi might be "सीधा लाभ हस्तांतरण" or "लाभ का सीधा हस्तांतरण". I should confirm these. 
+
+I should also check if there are any specific aspects about Rajasthan's implementation of Jan-Dhan or DBT. But since the user didn't mention state-specific details, sticking to national facts is safer. 
+
+Let me start drafting each question step by step, ensuring that each covers a different aspect of the topic. For example, one question on the launch date, another on the objectives, another on RuPay cards, DBT's mechanism, and so on. I'll make sure the difficulty is moderate, as these are common topics in government exams.
+</think>
+
+[
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "केंद्र सरकार द्वारा जन-धन योजना कब शुरू की गई थी?",
+  "question_hi": "केंद्र सरकार द्वारा जन-धन योजना कब शुरू की गई थी?",
+  "A_en": "August 2014",
+  "A_hi": "अगस्त 2014",
+  "B_en": "August 2015",
+  "B_hi": "अगस्त 2015",
+  "C_en": "July 2014",
+  "C_hi": "जुलाई 2014",
+  "D_en": "July 2015",
+  "D_hi": "जुलाई 2015",
+  "answer": "A",
+  "explanation_en": "The Pradhan Mantri Jan-Dhan Yojana was launched on August 28, 2014, to promote financial inclusion in India.",
+  "explanation_hi": "प्रधानमंत्री जन-धन योजना का उद्घाटन 28 अगस्त, 2014 को भारत में वित्तीय समावेशन को बढ़ावा देने के लिए किया गया था।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshan (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "जन-धन योजना का मुख्य उद्देश्य क्या है?",
+  "question_hi": "जन-धन योजना का मुख्य उद्देश्य क्या है?",
+  "A_en": "To provide affordable loans",
+  "A_hi": "सस्ते ऋण प्रदान करना",
+  "B_en": "To ensure financial inclusion for all citizens",
+  "B_hi": "सभी नागरिकों के लिए वित्तीय समावेशन सुनिश्चित करना",
+  "C_en": "To increase foreign investments",
+  "C_hi": "विदेशी निवेश बढ़ाना",
+  "D_en": "To reduce poverty",
+  "D_hi": "गरीबी कम करना",
+  "answer": "B",
+  "explanation_en": "The main goal of PMJDY is to ensure universal access to banking services for all segments of society.",
+  "explanation_hi": "जन-धन योजना का मुख्य उद्देश्य समाज के सभी खंडों के लिए बैंकिंग सेवाओं का सार्वभौमिक एक्सेस सुनिश्चित करना है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "जन-धन खातों में कितनी नियुक्ति के लिए लक्ष्य रखा गया था?",
+  "question_hi": "जन-धन खातों में कितनी नियुक्ति के लिए लक्ष्य रखा गया था?",
+  "A_en": "50 million accounts",
+  "A_hi": "50 मिलियन खाते",
+  "B_en": "100 million accounts",
+  "B_hi": "100 मिलियन खाते",
+  "C_en": "150 million accounts",
+  "C_hi": "150 मिलियन खाते",
+  "D_en": "200 million accounts",
+  "D_hi": "200 मिलियन खाते",
+  "answer": "C",
+  "explanation_en": "The target of opening 150 million (15 crore) accounts under PMJDY was achieved by the government by 2018.",
+  "explanation_hi": "जन-धन योजना के तहत 2018 तक 150 मिलियन (15 करोड़) खातों खोलने का लक्ष्य सरकार द्वारा प्राप्त किया गया था।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "जन-धन खातों में कौन सी कार्ड जारी की जाती है?",
+  "question_hi": "जन-धन खातों में कौन सी कार्ड जारी की जाती है?",
+  "A_en": "MasterCard",
+  "A_hi": "मास्टरकार्ड",
+  "B_en": "VISA",
+  "B_hi": "वीजा",
+  "C_en": "RuPay",
+  "C_hi": "रूपे",
+  "D_en": "American Express",
+  "D_hi": "अमेरिकन एक्सप्रेस",
+  "answer": "C",
+  "explanation_en": "PMJDY accounts are linked with RuPay cards, which are issued by the National Payments Corporation of India.",
+  "explanation_hi": "जन-धन खाते रूपे कार्ड से जुड़े होते हैं, जो भारतीय राष्ट्रीय भुगतान निगम द्वारा जारी किए जाते हैं।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "जन-धन खाते में कितनी न्यूनतम जमा राशि होनी चाहिए?",
+  "question_hi": "जन-धन खाते में कितनी न्यूनतम जमा राशि होनी चाहिए?",
+  "A_en": "Rs. 1000",
+  "A_hi": "₹1000",
+  "B_en": "Rs. 500",
+  "B_hi": "₹500",
+  "C_en": "Rs. 100",
+  "C_hi": "₹100",
+  "D_en": "Zero balance",
+  "D_hi": "शून्य शेष",
+  "answer": "D",
+  "explanation_en": "PMJDY accounts allow zero-balance savings accounts to encourage financial inclusion.",
+  "explanation_hi": "जन-धन खाते वित्तीय समावेशन को बढ़ावा देने के लिए शून्य शेष बचत खाते अनुमति देते हैं।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "सीधा लाभ हस्तांतरण (DBT) योजना का मुख्य उद्देश्य क्या है?",
+  "question_hi": "सीधा लाभ हस्तांतरण (DBT) योजना का मुख्य उद्देश्य क्या है?",
+  "A_en": "To reduce middlemen in welfare distribution",
+  "A_hi": "सुख के वितरण में बीचवालों को कम करना",
+  "B_en": "To increase government expenditure",
+  "B_hi": "सरकारी व्यय बढ़ाना",
+  "C_en": "To promote digital payments",
+  "C_hi": "डिजिटल भुगतान को बढ़ावा देना",
+  "D_en": "To provide free subsidies",
+  "D_hi": "मुफ्त सब्सिडी प्रदान करना",
+  "answer": "A",
+  "explanation_en": "DBT aims to transfer subsidies directly to beneficiaries' accounts, reducing leakages and corruption in welfare schemes.",
+  "explanation_hi": "DBT का उद्देश्य लाभ के वितरण में बीचवालों को कम करके सुख योजनाओं में लाभ को सीधा लाभार्थियों के खाते में हस्तांतरित करना है।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "DBT के माध्यम से किस वर्ष में सबसे अधिक लाभ हस्तांतरित किए गए थे?",
+  "question_hi": "DBT के माध्यम से किस वर्ष में सबसे अधिक लाभ हस्तांतरित किए गए थे?",
+  "A_en": "2016",
+  "A_hi": "2016",
+  "B_en": "2017",
+  "B_hi": "2017",
+  "C_en": "2018",
+  "C_hi": "2018",
+  "D_en": "2019",
+  "D_hi": "2019",
+  "answer": "D",
+  "explanation_en": "In 2019, over 700 million DBT transactions were recorded, making it the highest in terms of beneficiary transfers.",
+  "explanation_hi": "2019 में, 70 करोड़ से अधिक DBT लेनदेन दर्ज किए गए, जिससे लाभार्थियों के हस्तांतरण में यह सबसे अधिक था।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "जन-धन खातों से संबंधित निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+  "question_hi": "जन-धन खातों से संबंधित निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+  "A_en": "कोई न्यूनतम जमा राशि नहीं है",
+  "A_hi": "कोई न्यूनतम जमा राशि नहीं है",
+  "B_en": "ग्राहकों को सुपर्ति कार्ड प्रदान किए जाते हैं",
+  "B_hi": "ग्राहकों को सुपर्ति कार्ड प्रदान किए जाते हैं",
+  "C_en": "खाता धारकों को बीमा लाभ प्राप्त होते हैं",
+  "C_hi": "खाता धारकों को बीमा लाभ प्राप्त होते हैं",
+  "D_en": "खातों में केवल अनुमति दी गई राशि तक नकद निकासी की जा सकती है",
+  "D_hi": "खातों में केवल अनुमति दी गई राशि तक नकद निकासी की जा सकती है",
+  "answer": "D",
+  "explanation_en": "PMJDY allows cash withdrawals up to the total balance in the account, not just a pre-approved amount.",
+  "explanation_hi": "जन-धन योजना खाते में कुल शेष राशि तक नकद निकासी अनुमति देती है, केवल पूर्व-अनुमोदित राशि तक नहीं।"
+},
+{
+  "subject": "Economy",
+  "topic": "Vittiya Samaveshन (Financial Inclusion), Jan-Dhan, DBT",
+  "question_en": "DBT के माध्यम से किस तरह के लाभ हस्तांतरित किए जाते हैं?",
