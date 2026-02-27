@@ -1,0 +1,49 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान में प्राचीन भाषाओं और विभागों का विवरण",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "English", "B_hi": "अंग्रेजी",
+"C_en": "Marathi", "C_hi": "मराठी",
+"D_en": "Tamil", "D_hi": "टामली",
+"answer": "B",
+"explanation_en": "English is the official language of Rajasthan. Hindi is the state's largest language and is used as the administrative language. English is also widely spoken and used in education and certain industries.",
+"explanation_hi": "राजस्थान में हिंदी के लिए अंग्रेजी सहायता होती है। राजस्थान के लिए हिंदी के सामगी सहायता होती है।",
+"explanation_en": "English is used as a facilitator language in Rajasthan for administrative purposes.\nHindi is the largest language in Rajasthan and is primarily used as the state language.\nEnglish is also widely spoken and utilized in education and certain industries.",
+"explanation_hi": "राजस्थान में अंग्रेजी के लिए अधिकांतर्षिता होती है।\nराजस्थान के लिए हिंदी के सामगिता होती है।\nराजस्थान में अधिकांतर्षिता होती है।",
+"question_en": "In which Indian state does Hindi have a more official status than English?",
+"question_hi": "कौन-को अंग्रेजी को अधिक अधिकांतर्षिता होती है।",
+"options": [
+{
+"option_id": 1,
+"option_en": "Rajasthan",
+"option_hi": "राजस्थान",
+"option_flag": "India"
+},
+{
+"option_id": 2,
+"option_en": "Uttar Pradesh",
+"option_hi": "उत्तराष्ट्र",
+"option_flag": "India"
+},
+{
+"option_id": 3,
+"option_en": "Maharashtra",
+"option_hi": "महाराष्ट्र",
+"option_flag": "India"
+},
+{
+"option_id": 4,
+"option_en": "Jharkhand",
+"option_hi": "झार्जनगर",
+"option_flag": "India"
+},
+{
+"option_id": 5,
+"option_en": "Gujarat",
+"option_hi": "गुजरात",
+"option_flag": "India"
+}
+]
