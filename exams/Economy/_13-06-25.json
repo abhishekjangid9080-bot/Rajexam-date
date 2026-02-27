@@ -1,0 +1,48 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान का अधिकांश भाषा क्या है?",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "English", "B_hi": "अंग्रेज़ी",
+"C_en": "Tamil", "C_hi": "तमिल",
+"D_en": "Marathi", "D_hi": "मराठी",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.\nIn Rajasthan, the government documents, administration, and communication are primarily carried out in Hindi.\nEnglish is also widely spoken and understood.",
+"explanation_hi": "राजस्थान में सरकारीय निद्या आधारित काम करने के लिए हिंदी स्वरूण उपयोग करना प्रतियों में इस्लामी, अंग्रेज़ी, एमीटरियों में काम करना प्रतियों में काम करना प्रतियों में काम करना प्रतियों में काम करना प्रतियों में काम करना प्रतियों में काम करना प्रतियों में काम करना प्रतियों में काम करना",
+"A_hi": "अंग्रेज़ी में काम करना",
+"B_hi": "इमेटरियों में काम करना",
+"C_hi": "एमीटरियों में काम करना",
+"D_hi": "एमीटरियों में काम करना",
+"answer": "A",
+"explanation_hi": "राजस्थान के लिंग संसाधिकार",
+"explanation_en": "The official language of Rajasthan is Hindi.",
+"explanation_hi": "राजस्थान का अंग्रेज़ी में काम करना",
+"explanation_en": "The official language of Rajasthan is English.",
+"option_key": "option_key",
+"option_values": [
+{
+"value": "A",
+"en": "Language",
+"hi": "भाषा"
+},
+{
+"value": "B",
+"en": "Economist",
+"hi": "एक्सटिस्ट",
+},
+{
+"value": "C",
+"en": "Mathematician",
+"hi": "मिति",
+},
+{
+"value": "D",
+"en": "Historian",
+"hi": "इतिहाने"
+}
+]
+}
+}
+]
