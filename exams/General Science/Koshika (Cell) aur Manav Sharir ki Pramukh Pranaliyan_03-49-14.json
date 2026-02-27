@@ -1,0 +1,159 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality MCQs on "Cell and Human Body Systems" for General Science exams like LDC, CET, RAS, SSC, and Railway. They need the questions in both Hindi and English, in a testbook style JSON format. The example provided shows the structure with subject, topic, question in both languages, options, answer, and explanations.
+
+First, I need to ensure that each question is relevant to the topic. The subject is General Science, so the questions should be basic yet comprehensive enough to cover key areas of cell biology and major human body systems. Topics to cover might include cell structure, organelles, functions of different body systems like circulatory, respiratory, nervous, etc.
+
+I should start by brainstorming possible questions. Let's list out some key points:
+
+1. Cell theory - main points.
+2. Plant vs. animal cells: cell wall, chloroplasts.
+3. Mitochondria's role in energy production.
+4. Functions of different body systems (digestive, excretory, etc.).
+5. Nervous system components.
+6. Circulatory system: heart, blood vessels, blood components.
+7. Skeletal system functions.
+8. Role of the brain.
+9. Lymphatic system's function.
+10. Respiratory system's main organs.
+
+Now, for each of these points, formulate a question. Make sure the options are plausible but with one clear correct answer. The explanations should be concise but informative. Also, check for any possible errors in the options and explanations.
+
+For example, a question about the powerhouse of the cell (mitochondria) is a classic. Another could be about the largest organ in the human body (skin). The circulatory system's function includes transporting oxygen and nutrients. The lymphatic system is part of the immune system. The nervous system includes the brain, spinal cord, and nerves. For the skeletal system, the average number of bones in an adult is 206. The excretory system includes kidneys and functions in waste removal. Chloroplasts are found in plant cells. The digestive system includes the stomach and small intestine. The respiratory system includes the lungs.
+
+Need to translate each question and options into Hindi accurately. Ensure that the language is correct and matches the testbook style. Avoid any markdown and stick strictly to the JSON structure provided. Each question should have the same structure as the example, with "question_en", "question_hi", options A-D in both languages, the correct answer, and explanations in both languages.
+
+Let me start drafting each question one by one, checking for correct information and appropriate difficulty level. Also, ensure that the options are not too similar and the explanations clarify why the correct answer is right.
+</think>
+
+[
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "Which of the following is known as the powerhouse of the cell?",
+"question_hi": "निम्नलिखित में से किसे कोशिका का पावरहाउस कहा जाता है?",
+"A_en": "Mitochondria", "A_hi": "माइटोकॉन्ड्रिया",
+"B_en": "Nucleus", "B_hi": "न्यूक्लियस",
+"C_en": "Endoplasmic Reticulum", "C_hi": "एंडोप्लाज्मिक रेटिकुलम",
+"D_en": "Chloroplast", "D_hi": "क्लोरोप्लास्ट",
+"answer": "A",
+"explanation_en": "Mitochondria produce energy in the form of ATP through cellular respiration.",
+"explanation_hi": "माइटोकॉन्ड्रिया कोशिका श्वसन द्वारा ऊर्जा के रूप में ATP उत्पन्न करते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "Which system in the human body is primarily responsible for transporting oxygen and nutrients to cells?",
+"question_hi": "मनुष्य में कौन सी प्रणाली मुख्य रूप से कोशिकाओं को ऑक्सीजन और पोषक तत्व पहुंचाने के लिए जिम्मेदार है?",
+"A_en": "Respiratory System", "A_hi": "श्वसन प्रणाली",
+"B_en": "Digestive System", "B_hi": "पाचन प्रणाली",
+"C_en": "Circulatory System", "C_hi": "परिसंचरण प्रणाली",
+"D_en": "Nervous System", "D_hi": "तंत्रिका प्रणाली",
+"answer": "C",
+"explanation_en": "The circulatory system uses blood vessels to deliver oxygen and nutrients to cells.",
+"explanation_hi": "परिसंचरण प्रणाली रक्त वाहिकाओं का उपयोग करके कोशिकाओं में ऑक्सीजन और पोषक तत्व पहुंचाती है।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "What is the primary function of the lymphatic system?",
+"question_hi": "लिम्फेटिक प्रणाली का मुख्य कार्य क्या है?",
+"A_en": "Transport of oxygen", "A_hi": "ऑक्सीजन का परिवहन",
+"B_en": "Fighting infections and diseases", "B_hi": "संक्रमण और बीमारियों का सामना करना",
+"C_en": "Digestion of food", "C_hi": "भोजन का पाचन",
+"D_en": "Excretion of waste", "D_hi": "अपशिष्ट का उत्सर्जन",
+"answer": "B",
+"explanation_en": "The lymphatic system helps defend the body against infections and diseases.",
+"explanation_hi": "लिम्फेटिक प्रणाली संक्रमण और बीमारियों के खिलाफ शरीर की रक्षा में मदद करती है।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "Which part of the human brain controls voluntary actions?",
+"question_hi": "मनुष्य के मस्तिष्क का कौन सा भाग स्वैच्छिक क्रियाओं को नियंत्रित करता है?",
+"A_en": "Cerebrum", "A_hi": "सेरीब्रम",
+"B_en": "Cerebellum", "B_hi": "सेरीबेलम",
+"C_en": "Brainstem", "C_hi": "मस्तिष्क तंत्रिका",
+"D_en": "Spinal Cord", "D_hi": "मेरुरज्जु",
+"answer": "A",
+"explanation_en": "The cerebrum is responsible for controlling voluntary movements and higher cognitive functions.",
+"explanation_hi": "सेरीब्रम स्वैच्छिक गतियों और उच्चतर बुद्धिमत्ता कार्यों को नियंत्रित करता है।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "Which of the following is the largest organ in the human body?",
+"question_hi": "निम्नलिखित में से कौन मनुष्य का सबसे बड़ा अंग है?",
+"A_en": "Liver", "A_hi": "यकृत",
+"B_en": "Skin", "B_hi": "त्वचा",
+"C_en": "Heart", "C_hi": "हृदय",
+"D_en": "Brain", "D_hi": "मस्तिष्क",
+"answer": "B",
+"explanation_en": "The skin is the largest organ, covering the entire surface of the body.",
+"explanation_hi": "त्वचा सबसे बड़ा अंग है जो शरीर की पूरी सतह को ढकता है।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "What is the function of the excretory system in the human body?",
+"question_hi": "मनुष्य के शरीर में उत्सर्जन प्रणाली का कार्य क्या है?",
+"A_en": "Absorption of nutrients", "A_hi": "पोषक तत्वों का अवशोषण",
+"B_en": "Removal of waste products", "B_hi": "अपशिष्ट पदार्थों का निकालना",
+"C_en": "Production of hormones", "C_hi": "हार्मोन का उत्पादन",
+"D_en": "Transport of oxygen", "D_hi": "ऑक्सीजन का परिवहन",
+"answer": "B",
+"explanation_en": "The excretory system removes waste products from the body, such as urea and carbon dioxide.",
+"explanation_hi": "उत्सर्जन प्रणाली शरीर से अपशिष्ट पदार्थों जैसे यूरिया और कार्बन डाइऑक्साइड को निकालती है।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "Which of the following cells contain chloroplasts?",
+"question_hi": "निम्नलिखित में से किस कोशिका में क्लोरोप्लास्ट होते हैं?",
+"A_en": "Animal cells", "A_hi": "पशु कोशिकाएँ",
+"B_en": "Plant cells", "B_hi": "पौधे की कोशिकाएँ",
+"C_en": "Fungal cells", "C_hi": "कवक कोशिकाएँ",
+"D_en": "Human cells", "D_hi": "मानव कोशिकाएँ",
+"answer": "B",
+"explanation_en": "Chloroplasts are found in plant cells and are responsible for photosynthesis.",
+"explanation_hi": "क्लोरोप्लास्ट पौधों की कोशिकाओं में पाए जाते हैं और प्रकाश-संश्लेषण के लिए उत्तरदायी होते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "What is the main function of the nervous system?",
+"question_hi": "तंत्रिका प्रणाली का मुख्य कार्य क्या है?",
+"A_en": "Control of body temperature", "A_hi": "शरीर के तापमान का नियंत्रण",
+"B_en": "Transmission of nerve impulses", "B_hi": "तंत्रिका आवेगों का संचार",
+"C_en": "Digestion of food", "C_hi": "भोजन का पाचन",
+"D_en": "Production of red blood cells", "D_hi": "लाल रुधिर कोशिकाओं का उत्पादन",
+"answer": "B",
+"explanation_en": "The nervous system transmits signals between different parts of the body, enabling coordination and response to stimuli.",
+"explanation_hi": "तंत्रिका प्रणाली शरीर के विभिन्न भागों के बीच संकेतों के संचार करती है, जिससे नियोजन और उत्तेजना की प्रतिक्रिया संभव होती है।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "How many bones does an adult human typically have?",
+"question_hi": "एक वयस्क मनुष्य में आमतौर पर कितनी हड्डियाँ होती हैं?",
+"A_en": "206", "A_hi": "206",
+"B_en": "300", "B_hi": "300",
+"C_en": "250", "C_hi": "250",
+"D_en": "150", "D_hi": "150",
+"answer": "A",
+"explanation_en": "The human skeleton has 206 bones, providing structure and support to the body.",
+"explanation_hi": "मानव हड्डी में 206 हड्डियाँ होती हैं, जो शरीर के ढांचे और समर्थन प्रदान करती हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+"question_en": "Which of the following is a primary function of the digestive system?",
+"question_hi": "निम्नलिखित में से कौन पाचन प्रणाली का मुख्य कार्य है?",
+"A_en": "Absorption of nutrients", "A_hi": "पोषक तत्वों का अवशोषण",
+"B_en": "Production of oxygen", "B_hi": "ऑक्सीजन का उत्पादन",
+"C_en": "Regulation of body temperature", "C_hi": "शरीर के तापमान का नियंत्रण",
+"D_en": "Synthesis of hormones", "D_hi": "हार्मोन का संश्लेषण",
+"answer": "A",
+"explanation_en": "The digestive system breaks down food into nutrients that can be absorbed by the body.",
+"explanation_hi": "पाचन प्रणाली भोजन को पोषक तत्वों में तोड़ती है जिनका शरीर द्वारा अवशोषित किया जा सके।"
+}
+]
