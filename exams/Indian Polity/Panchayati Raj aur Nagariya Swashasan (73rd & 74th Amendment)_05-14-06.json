@@ -1,0 +1,146 @@
+<think>
+Okay, let's tackle these 73rd and 74th Amendment questions. First, I need to recall the key points of each amendment. The 73rd Amendment is about Panchayats, and the 74th is about Municipalities. Both were passed in 1992. They're important for Indian Polity, especially for exams like LDC, CET, RAS, etc. 
+
+Starting with the first question: What is the constitutional basis? The answer should be the 73rd and 74th Amendments. Need to phrase the question correctly in both languages.
+
+Next, the minimum age for Panchayat membership is 21. That's a common fact. For the third question about reservation, OBCs are included in the 73rd Amendment. The fourth question asks about the duration of Panchayats, which is five years. 
+
+The 74th Amendment deals with urban local bodies, so that's a key point. For the sixth question, the three-tier system in Panchayats includes Gram Panchayat, Block, and Zila Parishad. 
+
+The seventh question is about the quorum for meetings, which is one-third. The eighth is about the number of elected members in the third tier, which is 50% of the total. 
+
+The ninth question checks on the constitutional provision for local self-government, which is Article 40. The tenth question is about the body that can dissolve a Panchayat if it's irregular, which is the District Election Commission. 
+
+Need to make sure all options are accurate and explanations clarify the key points. Also, ensure that the Hindi and English versions are correctly translated without any discrepancies. Double-checking the facts to avoid any mistakes, as these exams can be very detail-oriented.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "73rd and 74th Constitutional Amendments were enacted in which year?",
+        "question_hi": "73वें और 74वें संवैधानिक संशोधन किस वर्ष में लागू किए गए थे?",
+        "A_en": "1991", "A_hi": "1991",
+        "B_en": "1992", "B_hi": "1992",
+        "C_en": "1993", "C_hi": "1993",
+        "D_en": "1994", "D_hi": "1994",
+        "answer": "B",
+        "explanation_en": "The 73rd and 74th Constitutional Amendments were enacted in 1992 to strengthen local self-government in rural and urban areas.",
+        "explanation_hi": "73वें और 74वें संवैधानिक संशोधन 1992 में लागू किए गए थे ताकि ग्रामीण और शहरी क्षेत्रों में स्थानीय स्वशासन को मजबूत किया जा सके।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest a Panchayat election under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act mandates that candidates for Panchayat elections must be at least 21 years old.",
+        "explanation_hi": "73वें संशोधन अधिनियम में निर्धारित किया गया है कि पंचायत चुनाव में उम्मीदवारों की आयु कम से कम 21 वर्ष होनी चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following reservations is provided under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन सी आरक्षित श्रेणियां 73वें संशोधन के तहत प्रदान की गई हैं?",
+        "A_en": "Scheduled Castes and Scheduled Tribes", "A_hi": "अनुसूचित जाति और अनुसूचित जनजाति",
+        "B_en": "Other Backward Classes (OBCs)", "B_hi": "अन्य पिछड़ा वर्ग (OBC)",
+        "C_en": "All of the above", "C_hi": "उपरोक्त सभी",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment ensures reservations for Scheduled Castes, Scheduled Tribes, and Other Backward Classes in Panchayats.",
+        "explanation_hi": "73वें संशोधन में पंचायतों में अनुसूचित जाति, अनुसूचित जनजाति और अन्य पिछड़ा वर्ग के लिए आरक्षण की व्यवस्था की गई है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the maximum term duration for a Panchayat as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार एक पंचायत की अधिकतम अवधि क्या है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment Act sets the maximum term of a Panchayat at 5 years.",
+        "explanation_hi": "73वें संशोधन अधिनियम में पंचायत की अधिकतम अवधि 5 वर्ष निर्धारित की गई है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment deals with urban local self-government?",
+        "question_hi": "कौन सा संवैधानिक संशोधन शहरी स्थानीय स्वशासन के बारे में है?",
+        "A_en": "72nd Amendment", "A_hi": "72वां संशोधन",
+        "B_en": "73rd Amendment", "B_hi": "73वां संशोधन",
+        "C_en": "74th Amendment", "C_hi": "74वां संशोधन",
+        "D_en": "75th Amendment", "D_hi": "75वां संशोधन",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment Act of 1992 provides a constitutional basis for urban local self-government.",
+        "explanation_hi": "1992 का 74वां संशोधन अधिनियम शहरी स्थानीय स्वशासन के लिए संवैधानिक आधार प्रदान करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a feature of the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन 73वें संशोधन की विशेषता नहीं है?",
+        "A_en": "Three-tier Panchayat system", "A_hi": "तीन स्तरीय पंचायत प्रणाली",
+        "B_en": "Reservation for women", "B_hi": "महिलाओं के लिए आरक्षण",
+        "C_en": "Direct election to all seats", "C_hi": "सभी सीटों के लिए प्रत्यक्ष चुनाव",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment includes a three-tier system, women's reservations, and direct elections to all seats.",
+        "explanation_hi": "73वें संशोधन में तीन स्तरीय प्रणाली, महिलाओं के लिए आरक्षण और सभी सीटों के लिए प्रत्यक्ष चुनाव शामिल हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the quorum required for a Panchayat meeting?",
+        "question_hi": "पंचायत बैठक के लिए क्वॉरम क्या है?",
+        "A_en": "One-third of the total members", "A_hi": "कुल सदस्यों का एक तिहाई",
+        "B_en": "Half of the total members", "B_hi": "कुल सदस्यों का आधा",
+        "C_en": "Two-thirds of the total members", "C_hi": "कुल सदस्यों का दो-तिहाई",
+        "D_en": "All members", "D_hi": "सभी सदस्य",
+        "answer": "A",
+        "explanation_en": "The quorum for a Panchayat meeting is one-third of the total elected members.",
+        "explanation_hi": "पंचायत बैठक के लिए क्वॉरम कुल निर्वाचित सदस्यों का एक तिहाई होता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "How many members of a Panchayat are directly elected to the third tier?",
+        "question_hi": "पंचायत के तीसरे स्तर पर कितने सदस्य सीधे निर्वाचित होते हैं?",
+        "A_en": "25%", "A_hi": "25%",
+        "B_en": "50%", "B_hi": "50%",
+        "C_en": "75%", "C_hi": "75%",
+        "D_en": "100%", "D_hi": "100%",
+        "answer": "B",
+        "explanation_en": "At least 50% of the seats in the third tier of Panchayats are reserved for direct elections.",
+        "explanation_hi": "पंचायतों के तीसरे स्तर पर कम से कम 50% सीटें सीधे चुनावों के लिए आरक्षित होती हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional article provides the constitutional guarantee for local self-government?",
+        "question_hi": "स्थानीय स्वशासन के लिए संवैधानिक आश्वासन किस संवैधानिक अनुच्छेद में प्रदान किया गया है?",
+        "A_en": "Article 40", "A_hi": "अनुच्छेद 40",
+        "B_en": "Article 48", "B_hi": "अनुच्छेद 48",
+        "C_en": "Article 44", "C_hi": "अनुच्छेद 44",
+        "D_en": "Article 42", "D_hi": "अनुच्छेद 42",
+        "answer": "A",
+        "explanation_en": "Article 40 of the Indian Constitution provides for the organization of village Panchayats to ensure local self-government.",
+        "explanation_hi": "भारतीय संविधान के अनुच्छेद 40 में गांव की पंचायतों के संगठन की व्यवस्था की गई है ताकि स्थानीय स्वशासन का आश्वासन हो सके।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which authority can dissolve a Panchayat if it is irregularly constituted?",
+        "question_hi": "अगर कोई पंचायत अनियमित रूप से गठित हो तो कौन इसे भंग कर सकता है?",
+        "A_en": "State Government", "A_hi": "राज्य सरकार",
+        "B_en": "District Magistrate", "B_hi": "जिला मजिस्ट्रेट",
+        "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+        "D_en": "State Election Commission", "D_hi": "राज्य चुनाव आयोग",
+        "answer": "D",
+        "explanation_en": "The State Election Commission has the authority to dissolve a Panchayat if it is irregularly constituted.",
+        "explanation_hi": "राज्य चुनाव आयोग नियमित रूप से गठित न होने वाली पंचायत को भंग करने की श
