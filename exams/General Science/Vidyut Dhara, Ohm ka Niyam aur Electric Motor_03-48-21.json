@@ -1,0 +1,152 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs in Hindi and English for General Science, specifically on Electric Current, Ohm's Law, and Electric Motors. The questions should follow the Testbook style with bilingual options and answers. First, I need to recall key concepts related to these topics.
+
+Starting with Electric Current: units, direction (conventional vs. electron flow), factors affecting current, etc. Ohm's Law is straightforward—V=IR, resistance, conductors vs. insulators. Electric Motors involve components like coil, magnetic field, commutator, working principles, and applications.
+
+I should ensure a mix of concepts and applications. For example, a question on the unit of current (Ampere), another on Ohm's Law formula, maybe one on calculating resistance. For the motor, parts like commutator and split ring are important. Also, distinguish between AC and DC motor parts.
+
+Need to check for common mistakes. For instance, confusing voltage with current units. Also, in Ohm's Law, making sure the options don't have similar units. For the motor, the role of the commutator is to reverse direction, so the option should reflect that.
+
+Let me plan each question step by step. First question: What is the unit of electric current? Options Ampere, Volt, Ohm, Coulomb. Answer A. Next, Ohm's Law definition. Then, a calculation question using V=IR. Maybe a question on factors affecting resistance—length, area, material. Another on the direction of conventional current. Then parts of an electric motor: commutator, coil, magnet. Applications of motors. Difference between AC and DC motors. Finally, a question on energy conversion in motors.
+
+Need to ensure that the explanations are concise and clear in both languages. Also, check that the options are not ambiguous. Avoid using similar terms that can confuse. For example, in a question about the component that reverses current in a motor, the correct answer is the commutator. Other options could be brushes, armature, etc.
+
+Let me draft each question one by one, making sure the translations are accurate and the correct answer is clearly the right one. Also, verify that explanations are correct. For example, if a question is about Ohm's Law, the explanation must state that it states V equals I multiplied by R.
+
+Once all questions are drafted, I'll review them for any inconsistencies or errors. Ensure that the difficulty level is appropriate for the target exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Avoid overly technical terms unless necessary for the exam level.
+
+After that, structure each question into the required JSON format with the specified fields. Double-check that all fields are present and correctly filled. Make sure the answer options are labeled A to D in both languages. Finally, validate the JSON to prevent syntax errors.
+</think>
+
+[
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "Which of the following is the unit of electric current?",
+"question_hi": "निम्नलिखित में से कौन विद्युत धारा की इकाई है?",
+"A_en": "Ampere", "A_hi": "एम्पियर",
+"B_en": "Volt", "B_hi": "वोल्ट",
+"C_en": "Ohm", "C_hi": "ओम",
+"D_en": "Coulomb", "D_hi": "कूलॉम",
+"answer": "A",
+"explanation_en": "Electric current is measured in Amperes (A).",
+"explanation_hi": "विद्युत धारा एम्पियर (A) में मापी जाती है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "Ohm's Law states that V = I x R. What does 'V' represent in this equation?",
+"question_hi": "ओम के नियम में V = I x R है। इस समीकरण में 'V' क्या प्रतिनिधित्व करता है?",
+"A_en": "Voltage", "A_hi": "वोल्टेज",
+"B_en": "Current", "B_hi": "धारा",
+"C_en": "Resistance", "C_hi": "प्रतिरोध",
+"D_en": "Power", "D_hi": "शक्ति",
+"answer": "A",
+"explanation_en": "Ohm's Law defines voltage (V) as the product of current (I) and resistance (R).",
+"explanation_hi": "ओम के नियम में वोल्टेज (V) करंट (I) और प्रतिरोध (R) के गुणनफल के रूप में परिभाषित किया गया है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "If a circuit has a resistance of 10 ohms and a current of 2 amperes, what is the voltage?",
+"question_hi": "यदि किसी सर्किट में 10 ओम का प्रतिरोध और 2 एम्पियर की धारा है, तो वोल्टेज क्या है?",
+"A_en": "5 volts", "A_hi": "5 वोल्ट",
+"B_en": "10 volts", "B_hi": "10 वोल्ट",
+"C_en": "20 volts", "C_hi": "20 वोल्ट",
+"D_en": "40 volts", "D_hi": "40 वोल्ट",
+"answer": "C",
+"explanation_en": "Using Ohm's Law V = I x R = 2 A * 10 Ω = 20 volts.",
+"explanation_hi": "ओम के नियम का उपयोग करके V = I x R = 2 A * 10 Ω = 20 वोल्ट।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "Which factor does NOT affect the resistance of a conductor?",
+"question_hi": "निम्नलिखित में से कौन-सा कारक चालक के प्रतिरोध को प्रभावित नहीं करता है?",
+"A_en": "Length", "A_hi": "लंबाई",
+"B_en": "Temperature", "B_hi": "तापमान",
+"C_en": "Material", "C_hi": "सामग्री",
+"D_en": "Color", "D_hi": "रंग",
+"answer": "D",
+"explanation_en": "Resistance depends on length, material, and temperature, but not on color.",
+"explanation_hi": "प्रतिरोध लंबाई, सामग्री और तापमान पर निर्भर करता है, लेकिन रंग पर नहीं।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "What is the direction of conventional current flow?",
+"question_hi": "पारंपरिक धारा प्रवाह की दिशा क्या है?",
+"A_en": "From positive to negative terminal", "A_hi": "धनात्मक से ऋणात्मक सिरे तक",
+"B_en": "From negative to positive terminal", "B_hi": "ऋणात्मक से धनात्मक सिरे तक",
+"C_en": "Same as electron flow", "C_hi": "ई-लेक्ट्रॉन फ्लो के समान",
+"D_en": "Perpendicular to the magnetic field", "D_hi": "चुंबकीय क्षेत्र के लंबवत्",
+"answer": "A",
+"explanation_en": "Conventional current flows from positive to negative terminal, opposite to electron flow.",
+"explanation_hi": "पारंपरिक धारा धनात्मक से ऋणात्मक सिरे तक प्रवाहित होती है, जो ई-लेक्ट्रॉन प्रवाह के विपरीत है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "Which component of an electric motor reverses the direction of current in the coil?",
+"question_hi": "विद्युत मोटर के कौन-सा घटक कुंडली में धारा की दिशा को पलटता है?",
+"A_en": "Commutator", "A_hi": "कम्यूटेटर",
+"B_en": "Brush", "B_hi": "ब्रश",
+"C_en": "Armature", "C_hi": "आर्मेचर",
+"D_en": "Magnet", "D_hi": "चुंबक",
+"answer": "A",
+"explanation_en": "The commutator reverses the current direction in the coil to maintain continuous rotation.",
+"explanation_hi": "कम्यूटेटर कुंडली में धारा की दिशा को पलटता है जिससे निरंतर घूर्णन बना रहता है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "What energy conversion occurs in an electric motor?",
+"question_hi": "विद्युत मोटर में कौन-सी ऊर्जा रूपांतरण होता है?",
+"A_en": "Electrical to mechanical", "A_hi": "विद्युत से यांत्रिक",
+"B_en": "Mechanical to electrical", "B_hi": "यांत्रिक से विद्युत",
+"C_en": "Thermal to electrical", "C_hi": "ऊष्मा से विद्युत",
+"D_en": "Electrical to thermal", "D_hi": "विद्युत से ऊष्मा",
+"answer": "A",
+"explanation_en": "An electric motor converts electrical energy into mechanical energy.",
+"explanation_hi": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "Which of the following is NOT a part of an electric motor?",
+"question_hi": "निम्नलिखित में से कौन विद्युत मोटर का भाग नहीं है?",
+"A_en": "Split ring", "A_hi": "स्प्लिट छल्ला",
+"B_en": "Armature", "B_hi": "आर्मेचर",
+"C_en": "Battery", "C_hi": "बैटरी",
+"D_en": "Commutator", "D_hi": "कम्यूटेटर",
+"answer": "C",
+"explanation_en": "A battery is not a part of an electric motor; it's an external power source.",
+"explanation_hi": "बैटरी विद्युत मोटर का भाग नहीं है; यह बाहरी शक्ति का स्रोत है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "What is the primary function of a resistor in an electric circuit?",
+"question_hi": "विद्युत सर्किट में प्रतिरोधक का मुख्य कार्य क्या है?",
+"A_en": "To increase voltage", "A_hi": "वोल्टेज बढ़ाना",
+"B_en": "To decrease current", "B_hi": "धारा कम करना",
+"C_en": "To store energy", "C_hi": "ऊर्जा संग्रहित करना",
+"D_en": "To act as a switch", "D_hi": "एक स्विच के रूप में कार्य करना",
+"answer": "B",
+"explanation_en": "A resistor limits the flow of electric current in a circuit.",
+"explanation_hi": "एक प्रतिरोधक सर्किट में विद्युत धारा के प्रवाह को सीमित करता है।"
+},
+{
+"subject": "General Science",
+"topic": "Vidyut Dhara, Ohm ka Niyam aur Electric Motor",
+"question_en": "Which of the following devices uses an electric motor?",
+"question_hi": "निम्नलिखित में से कौन-सा उपकरण विद्युत मोटर का उपयोग करता है?",
+"A_en": "Fluorescent lamp", "A_hi": "फ्लोरोसेंट लैंप",
+"B_en": "Electric fan", "B_hi": "विद्युत पंखा",
+"C_en": "Incandescent bulb", "C_hi": "ग्लोब बल्ब",
+"D_en": "Solar panel", "D_hi": "सौर पैनल",
+"answer": "B",
+"explanation_en": "An electric fan uses a motor to rotate the blades.",
+"explanation_hi": "विद्युत पंखा ब्लेड को घुमाने के लिए एक मोटर का उपयोग करता है।"
+}
+]
