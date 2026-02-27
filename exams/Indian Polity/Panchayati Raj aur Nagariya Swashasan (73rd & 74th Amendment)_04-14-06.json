@@ -1,0 +1,148 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. I need to ensure the questions are in both Hindi and English, with options in both languages. The difficulty should be suitable for exams like LDC, CET, RAS, etc.
+
+First, I should recall key points about the 73rd and 74th Amendments. The 73rd Amendment is about Panchayati Raj, and the 74th about urban local bodies. Important aspects include constitution of these bodies, reservation of seats for SC/ST/OBC, women, and their powers.
+
+Let me start with the first question. The 73rd Amendment was enacted in which year? The options can be different years around the 90s. The correct answer is 1992. Similar for the 74th Amendment. Then, the constitutional articles involved. For example, Article 243G for Panchayats' powers.
+
+Next, reservation of seats. The 73rd Amendment mandates at least one-third of seats for women in Panchayats. For urban bodies, one-third for women as well. Also, the term of these bodies: 5 years. The 74th Amendment deals with nagar panchayats, municipalities, and nagar nigams.
+
+I need to create questions around these points. Each question should have four options, with the correct answer clearly marked. Explanations should explain why the answer is correct, maybe addressing common misconceptions.
+
+Wait, the user mentioned the JSON structure example. Let me check if I follow that. Each question must have subject, topic, questions in both languages, options A-D in both, answer, and explanations in both languages. Also, the format is strict, no extra text.
+
+Let me list possible questions:
+
+1. Year of 73rd Amendment.
+2. Year of 74th Amendment.
+3. Article of Panchayats.
+4. Article of Urban Local Bodies.
+5. Reservation for women in Panchayats.
+6. Reservation for women in Urban Bodies.
+7. Term of Panchayats.
+8. Term of Urban Bodies.
+9. What does the 74th Amendment deal with?
+10. Reservation for SC/ST in Panchayats.
+
+Each of these can be a question. Now, phrasing the questions in both Hindi and English. Making sure the options are in both languages. The answer and explanation should be accurate.
+
+Wait, the 73rd Amendment reserves one-third seats for women. The 74th has the same. The term for both is 5 years. The 74th Amendment deals with urban local bodies, and their constitution is under Article 243Q. The 73rd Amendment's Panchayats have powers under Article 243G. Also, the reservation for SC/ST is 33% as per the Constitution, so the 73rd Amendment might specify that.
+
+Need to verify some details to ensure accuracy. For example, the 73rd Amendment was in 1992, 74th in 1992 as well. Wait, no, the 73rd and 74th were both passed in 1992. Let me confirm: Yes, both amendments were made in 1992. The 73rd Amendment Act was passed in December 1992, and the 74th in December 1992. So the years are correct.
+
+For the reservation of seats for women, the 73rd Amendment mandates at least one-third of all seats, including chairpersons. Similarly for the 74th. The term is 5 years for both, unless dissolved earlier. The 73rd Amendment added Articles 243A to 243O for Panchayats. The 74th added Articles 243P to 243ZG for urban bodies.
+
+Also, the 73rd Amendment reserves seats for SCs, STs, and OBCs in proportion to their population. The question on reservation for SC/ST would be 33%, but the actual reservation is as per their population, not a fixed percentage. Wait, the 73rd Amendment requires that the proportion of seats for SCs and STs in panchayats should be in accordance with their population. So the correct answer is "as per their population proportion." So the question can be phrased to test that understanding.
+
+I need to make sure that each question is unique and covers different aspects. Let me structure the 10 questions accordingly, ensuring they are of varying difficulty but all within the topic. Also, the explanations should clarify any nuances, like the difference between 73rd and 74th Amendments in terms of their focus areas.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which Constitutional Amendment Act introduced the Panchayati Raj system with constitutional safeguards?",
+        "question_hi": "कौन सा संविधान संशोधन अधिनियम स्थानीय निकायों के संवैधानिक आयोजन के साथ पंचायती राज प्रणाली को पेश करता है?",
+        "A_en": "73rd Amendment Act, 1992",
+        "A_hi": "73वां संशोधन अधिनियम, 1992",
+        "B_en": "74th Amendment Act, 1992",
+        "B_hi": "74वां संशोधन अधिनियम, 1992",
+        "C_en": "72nd Amendment Act, 1992",
+        "C_hi": "72वां संशोधन अधिनियम, 1992",
+        "D_en": "75th Amendment Act, 1993",
+        "D_hi": "75वां संशोधन अधिनियम, 1993",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act of 1992 introduced the Panchayati Raj system with constitutional safeguards, establishing a three-tier structure of local self-government in rural areas.",
+        "explanation_hi": "1992 के 73वें संविधान संशोधन अधिनियम ने पंचायती राज प्रणाली को पेश किया, जिसमें ग्रामीण क्षेत्रों में स्थानीय स्वशासन की एक तीन स्तरीय रचना स्थापित की गई।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under which Constitutional Article are the powers and functions of Panchayats defined?",
+        "question_hi": "पंचायतों की शक्तियों और कार्यों को किस संविधान अनुच्छेद के तहत निर्धारित किया गया है?",
+        "A_en": "Article 243G",
+        "A_hi": "अनुच्छेद 243G",
+        "B_en": "Article 244A",
+        "B_hi": "अनुच्छेद 244A",
+        "C_en": "Article 245B",
+        "C_hi": "अनुच्छेद 245B",
+        "D_en": "Article 246C",
+        "D_hi": "अनुच्छेद 246C",
+        "answer": "A",
+        "explanation_en": "Article 243G of the Constitution defines the powers and functions of Panchayats, including their authority to prepare and implement schemes for economic development and social justice.",
+        "explanation_hi": "संविधान के अनुच्छेद 243G पंचायतों की शक्तियों और कार्यों को परिभाषित करता है, जिसमें आर्थिक विकास और सामाजिक न्याय के योजनाओं की तैयारी और निष्पादन की शक्ति शामिल है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum reservation of seats for women in Panchayats as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार पंचायतों में महिलाओं के लिए न्यूनतम सीटों की आरक्षित आसीनता क्या है?",
+        "A_en": "One-third",
+        "A_hi": "एक-तिहाई",
+        "B_en": "Half",
+        "B_hi": "आधा",
+        "C_en": "One-fourth",
+        "C_hi": "एक-चौथाई",
+        "D_en": "None",
+        "D_hi": "कोई नहीं",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates a minimum reservation of one-third of all seats in Panchayats for women, ensuring female representation in local governance.",
+        "explanation_hi": "73वें संशोधन में यह आवश्यकता है कि पंचायतों में महिलाओं के लिए सभी सीटों में से न्यूनतम एक-तिहाई सीटों का आरक्षण होना चाहिए, जिससे स्थानीय सरकार में महिला प्रतिनिधित्व होता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a reservation requirement under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन 73वें संशोधन के आरक्षण आवश्यकताओं में से एक नहीं है?",
+        "A_en": "Reservation for SCs and STs",
+        "A_hi": "SC और ST के लिए आरक्षण",
+        "B_en": "Reservation for women",
+        "B_hi": "महिलाओं के लिए आरक्षण",
+        "C_en": "Reservation for OBCs",
+        "C_hi": "OBC के लिए आरक्षण",
+        "D_en": "Reservation for religious minorities",
+        "D_hi": "धार्मिक अल्पसंख्यकों के लिए आरक्षण",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment mandates reservations for SCs, STs, and women, but does not require reservations for religious minorities.",
+        "explanation_hi": "73वें संशोधन में SC, ST और महिलाओं के लिए आरक्षण की आवश्यकता है, लेकिन धार्मिक अल्पसंख्यकों के लिए आरक्षण आवश्यक नहीं है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the term of office for urban local bodies established under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत स्थापित शहरी स्थानीय निकायों की कार्यकाल क्या है?",
+        "A_en": "5 years",
+        "A_hi": "5 वर्ष",
+        "B_en": "4 years",
+        "B_hi": "4 वर्ष",
+        "C_en": "3 years",
+        "C_hi": "3 वर्ष",
+        "D_en": "6 years",
+        "D_hi": "6 वर्ष",
+        "answer": "A",
+        "explanation_en": "The 74th Amendment Act of 1992 established urban local bodies with a term of five years, subject to dissolution under specific circumstances.",
+        "explanation_hi": "1992 के 74वें संशोधन अधिनियम ने शहरी स्थानीय निकायों के संस्थापन के साथ पांच वर्ष का कार्यकाल निर्धारित किया, जिसे विशिष्ट परिस्थितियों में समाप्त किया जा सकता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a key function of urban local bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों का मुख्य कार्य निम्नलिखित में से कौन सा है?",
+        "A_en": "Rural infrastructure development",
+        "A_hi": "ग्रामीण बुनियादी ढांचा विकास",
+        "B_en": "Urban planning and land use regulation",
+        "B_hi": "शहरी नियोजन और भूमि उपयोग नियम",
+        "C_en": "Forest management",
+        "C_hi": "वन प्रबंधन",
+        "D_en": "Agricultural credit provision",
+        "D_hi": "कृषि ऋण प्रदान करना",
+        "answer": "B",
+        "explanation_en": "Urban local bodies under the 74th Amendment are primarily responsible for urban planning, land use regulation, and development of infrastructure in urban areas.",
+        "explanation_hi": "74वें संशोधन के तहत शहरी स्थानीय निकाय शहरी नियोजन, भूमि उपयोग नियम और शहरी क्षेत्रों में बुनियादी ढांचा विकास के लिए मुख्य रूप से जिम्मेदार हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum reservation of seats for women in urban local bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों में महिलाओं के लिए न्यूनतम आरक्षित सीटों की संख्या क्या है?",
+        "
