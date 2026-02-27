@@ -1,0 +1,150 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Indian Polity's Panchayati Raj and Nagariya Swashasan, specifically focusing on the 73rd and 74th Amendments. They need both Hindi and English versions for each question and option, with explanations. The format has to be strict JSON as per the example provided.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment is about Panchayats (rural local government), and the 74th is about Municipalities (urban). Both amendments were passed in 1992 and 1993 respectively. Important aspects include the structure of the Panchayats and Municipalities, their powers, elections, reservations for SC/STs, and the role of Gram Sabha.
+
+Now, I'll start forming questions. For each question, I need to ensure clarity and that the correct answer is unambiguous. Let's think of possible angles:
+
+1. Which amendment deals with Panchayats? (73rd)
+2. Which with Municipalities? (74th)
+3. Year of enactment for each.
+4. Reservation percentages for SC/STs.
+5. Duration of Panchayat/Municipal elections.
+6. Who can declare a Municipality?
+7. Minimum population for a Municipality.
+8. Role of Gram Sabha.
+9. Which states are excluded from the 73rd Amendment?
+10. The role of the State Election Commission in Panchayats.
+
+For each question, I need to create four options. The explanations should be concise but informative. Also, ensuring that the Hindi translation is accurate is crucial. Let me check if the user mentioned any specific regions or exceptions, like the states not included in the 73rd Amendment. I remember that the 73rd Amendment excludes Nagaland, Meghalaya, and Mizoram. Wait, actually, the 73rd Amendment applies to all states except Nagaland, Meghalaya, Mizoram, and the tribal areas in other states. But perhaps the question focuses on the states excluded, so the answer would be Nagaland, Meghalaya, Mizoram, and the tribal areas in other states. Need to confirm that.
+
+Also, the 74th Amendment requires a minimum population of 3 lakh for a Municipality. The 73rd Amendment mandates elections every 5 years, with a 6-month gap allowed before the term ends. The 74th also has a 6-month gap. The State Election Commission is responsible for conducting Panchayat elections under the 73rd Amendment.
+
+Let me structure each question step by step, ensuring that the options are plausible and the correct answer is clear. For example, for the question about the amendment for Panchayats, the options could be 73rd, 74th, 75th, 72nd. The correct answer is 73rd.
+
+I'll proceed to draft each question, ensuring the Hindi and English versions match and the explanations are accurate. I need to be careful with numbers and specific details. Once all 10 are drafted, I'll review them for consistency in the JSON format, making sure each key is present and the structure matches the example provided.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+    "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संवैधानिक संशोधन पेश किया?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "75th Amendment", "C_hi": "75वां संशोधन",
+    "D_en": "72nd Amendment", "D_hi": "72वां संशोधन",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act of 1992 established the Panchayati Raj system to strengthen rural local governance.",
+    "explanation_hi": "1992 के 73वें संशोधन अधिनियम ने ग्रामीण स्थानीय शासन को मजबूत करने के लिए पंचायती राज प्रणाली की स्थापना की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which amendment mandated the constitution of Municipalities in urban areas?",
+    "question_hi": "शहरी क्षेत्रों में नगर परिषदों की स्थापना किस संशोधन द्वारा अनिवार्य की गई?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "75th Amendment", "C_hi": "75वां संशोधन",
+    "D_en": "72nd Amendment", "D_hi": "72वां संशोधन",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act of 1993 institutionalized urban local government (Municipalities) for urban development.",
+    "explanation_hi": "1993 के 74वें संशोधन अधिनियम ने शहरी विकास के लिए शहरी स्थानीय शासन (नगर परिषदें) को संस्थागत बनाया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum population required to declare an area as a Municipality under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के तहत किसी क्षेत्र को नगर परिषद घोषित करने के लिए न्यूनतम जनसंख्या क्या है?",
+    "A_en": "1 lakh", "A_hi": "1 लाख",
+    "B_en": "2 lakh", "B_hi": "2 लाख",
+    "C_en": "3 lakh", "C_hi": "3 लाख",
+    "D_en": "5 lakh", "D_hi": "5 लाख",
+    "answer": "C",
+    "explanation_en": "The 74th Amendment requires a minimum population of 3 lakh for an area to be declared a Municipality.",
+    "explanation_hi": "74वें संशोधन के तहत नगर परिषद घोषित करने के लिए न्यूनतम 3 लाख जनसंख्या आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following states is excluded from the 73rd Amendment?",
+    "question_hi": "निम्नलिखित में से कौन सा राज्य 73वें संशोधन से बाहर है?",
+    "A_en": "Assam", "A_hi": "असम",
+    "B_en": "Nagaland", "B_hi": "नागालैंड",
+    "C_en": "Uttar Pradesh", "C_hi": "उत्तर प्रदेश",
+    "D_en": "Haryana", "D_hi": "हरियाणा",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment excludes Nagaland, Meghalaya, and Mizoram from its scope.",
+    "explanation_hi": "73वें संशोधन के दायरे से नागालैंड, मेघालय और मिजोरम को बाहर रखा गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for Panchayat elections under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत पंचायत चुनाव का कार्यकाल क्या है?",
+    "A_en": "3 years", "A_hi": "3 साल",
+    "B_en": "4 years", "B_hi": "4 साल",
+    "C_en": "5 years", "C_hi": "5 साल",
+    "D_en": "6 years", "D_hi": "6 साल",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment mandates a 5-year term for Panchayat elections with a 6-month gap before the end of the term.",
+    "explanation_hi": "73वें संशोधन में पंचायत चुनावों के लिए 5 साल का कार्यकाल अनिवार्य किया गया है, जिसके अंत से 6 महीने पहले अंतरिम चुनाव हो सकते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is responsible for conducting Panchayat elections?",
+    "question_hi": "पंचायत चुनाव कराने के लिए कौन सा निकाय उत्तरदायी है?",
+    "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+    "B_en": "Election Commission of India", "B_hi": "भारत चुनाव आयोग",
+    "C_en": "District Collector", "C_hi": "जिला अधिकारी",
+    "D_en": "Gram Sabha", "D_hi": "ग्राम सभा",
+    "answer": "A",
+    "explanation_en": "The State Election Commission is constitutionally mandated to conduct Panchayat elections.",
+    "explanation_hi": "संविधान द्वारा राज्य चुनाव आयोग को पंचायत चुनाव आयोजित करने का अधिकार दिया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the reservation percentage for Scheduled Castes and Scheduled Tribes in Panchayats?",
+    "question_hi": "पंचायतों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षण का प्रतिशत कितना है?",
+    "A_en": "10%", "A_hi": "10%",
+    "B_en": "15%", "B_hi": "15%",
+    "C_en": "25%", "C_hi": "25%",
+    "D_en": "30%", "D_hi": "30%",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates at least 10% reservation for SC/ST in Panchayat bodies.",
+    "explanation_hi": "73वें संशोधन में पंचायत निकायों में अनुसूचित जाति/जनजाति के लिए कम से कम 10% आरक्षण अनिवार्य किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a function of the Gram Sabha under the 73rd Amendment?",
+    "question_hi": "निम्नलिखित में से कौन 73वें संशोधन के तहत ग्राम सभा का कार्य है?",
+    "A_en": "Approving the Panchayat Budget", "A_hi": "पंचायत बजट को स्वीकृति देना",
+    "B_en": "Evaluating Village Development Plans", "B_hi": "गांव की विकास योजनाओं का मूल्यांकन करना",
+    "C_en": "Both A and B", "C_hi": "A और B दोनों",
+    "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+    "answer": "C",
+    "explanation_en": "The Gram Sabha has the authority to approve the Panchayat Budget and evaluate Village Development Plans.",
+    "explanation_hi": "ग्राम सभा के पास पंचायत बजट को स्वीकृति देने और गांव की विकास योजनाओं का मूल्यांकन करने की शक्ति है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum population required to declare an area as a Municipality under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के तहत किसी क्षेत्र को नगर परिषद घोषित करने के लिए न्यूनतम जनसंख्या क्या है?",
+    "A_en": "1 lakh", "A_hi": "1 लाख",
+    "B_en": "2 lakh", "B_hi": "2 लाख",
+    "C_en": "3 lakh", "C_hi": "3 लाख",
+    "D_en": "5 lakh", "D_hi": "5 लाख",
+    "answer": "C",
+    "explanation_en": "The 74th Amendment requires a minimum population of 3 lakh for an area to be declared a Municipality.",
+    "explanation_hi": "74वें संशोधन के तहत नगर परिषद घोषित करने के लिए न्यूनतम 3 लाख जनसंख्या आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of the Municipalities under the 74th Amendment?",
+    "question_hi": "निम्नलिखित में से कौन 74वें सं
