@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Principal Sectors of Economy",
+"question_en": "Which sector contributes the most to the Indian economy?",
+"question_hi": "भारतीय आर्थिक रूप में कौन अधिक सेवाओं में से ज्ञान, अधिक किस्मत में है।",
+"A_en": "Agriculture",
+"A_hi": "बाजार",
+"B_en": "Manufacturing",
+"B_hi": "बैंकिंग",
+"C_en": "Services",
+"C_hi": "सेवाओं",
+"D_en": "Information Technology",
+"D_hi": "इंटरनेट",
+"answer": "C",
+"explanation_en": "The Indian economy is mostly driven by the services sector. Services contribute significantly to the country's GDP (Gross Domestic Product).",
+"explanation_hi": "भारत का आर्थिक मूल्य बहुत से सेवाओं का मूल्य बढ़ता है। फर्शों का प्रमाणित बढ़ता है।",
+}
+]
