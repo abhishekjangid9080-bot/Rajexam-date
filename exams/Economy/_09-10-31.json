@@ -1,0 +1,25 @@
+[
+{
+"subject": "Economy",
+"topic": "Finance",
+"question_en": "What is the role of Central Bank in a country's economy?",
+"question_hi": "क्षेत्रीय बैंक के रूप क्या एक देश के एकीकरण में क्या होता है?",
+"A_en": "Regulates currency and credit",
+"A_hi": "आदर्श और क्रिडेंट को निर्धारित करता है",
+"B_en": "Issues banknotes and coins",
+"B_hi": "बैंक कोड और बैंक की बागों को निर्धारित करता है",
+"C_en": "Monitors inflation and monetary policies",
+"C_hi": "पृष्ठभूमिक और मॉनरी प्रारूप मैं निर्धारित करते हैं",
+"D_en": "Provides financial assistance to the government for development projects",
+"D_hi": "प्रत्यामी का मदद देते हैं सरकार को प्रवर्धन कामों के लिए हैं",
+"answer": "C",
+"explanation_en": "Central Bank monitors inflation and monetary policies in the economy. The answer is C.",
+"explanation_hi": "मॉनरी प्राप्ति और एकड़ी निर्द्यामी का रिकारित करते हैं",
+"explanation_en": "The Central Bank supervises monetary policy and controls inflation. The answer is C.",
+"explanation_hi": "मॉनरी प्राप्ति और एकड़ी निर्द्यामी का रिकारित करते हैं",
+"question_en": "What is the primary function of RBI (Reserve Bank of India)?",
+"question_hi": "RBI (राज्यीय बैंक का मैंनेता का अधिकारित करते हैं",
+"options": [
+{
+"option_en": "Issuing currency and maintaining its value",
+"option_hi": "बाँक म्यांन्नेत्तुल्यांनेत्तुल्यांन्नेत्तुल्यांन्नेत्तुल्यांन्नेत्तुल्यांन्नेत्तुल्यांन्न्नेत्तुल्यांन्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न्न््न्न््न््न््न््न्न्न्न्््न्््््््््न्््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््
