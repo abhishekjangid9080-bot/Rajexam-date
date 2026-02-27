@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "Budget and Government Policies",
+"question_en": "What is the primary objective of the Union Budget?",
+"question_hi": "संयुक्त वित्तीय विभागीय क्या काम करता है?",
+"A_en": "Funding infrastructure projects",
+"A_hi": "प्रश्नों की समाधान करना",
+"B_en": "Improving agriculture production",
+"B_hi": "आर्थिक और विकासी कार्यक्रम",
+"C_en": "Stimulating job growth",
+"C_hi": "क्षेत्रीय और कार्यक्रम",
+"D_en": "Increasing tax revenues",
+"D_hi": "टैक्स की कैलिंग",
+"answer": "C",
+"explanation_en": "The primary objective of the Union Budget is to stimulate job growth and promote economic and industrial development.",
+"explanation_hi": "संयुक्त विभागीय और कार्यक्रम",
+"explanation_en": "The primary objective of the Union Budget is to increase tax revenues and improve financial health of the government.",
+"explanation_hi": "संयुक्त विभागीय और ऑनिवृत्ति और प्रत्यामीय और कार्यक्रम",
+]
