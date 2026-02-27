@@ -1,0 +1,156 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions for Rajasthan State Exams, SSC, and Railway exams focusing on Technology, specifically Internet, Cloud Computing, and Digital Security. The user wants the questions in both Hindi and English, with the JSON structure provided. Let me start by brainstorming topics within the subject.
+
+First, for the Internet part, I can cover basics like protocols, email components, and network devices. For Cloud Computing, maybe different service models and deployment types. Digital Security could include encryption, firewalls, and threats like phishing.
+
+Let me think of question types. Maybe some on key concepts, definitions, and identification of components. For example, a question on SSL/TLS for security, types of cloud computing (IAAS, PAAS, SAAS), or common internet protocols like HTTP vs HTTPS.
+
+I need to ensure the questions are of the right difficulty level for these exams. They shouldn't be too easy or too technical but should test understanding. Also, the options should be tricky but correct answer is clear with the explanation.
+
+Let me start drafting the first question. For example, which protocol is used for secure data transfer over the internet? Options could be HTTP, FTP, SSL/TLS, DNS. The answer is SSL/TLS. Need to write the Hindi translation for all parts.
+
+Next, cloud computing service models. IAAS, PAAS, SAAS. A question asking which provides virtualized hardware. Answer would be IAAS. Then, a question on deployment models like public, private, hybrid.
+
+For Digital Security: Phishing is a social engineering attack. Encryption techniques like AES, DES. Firewalls as security systems. Two-factor authentication examples.
+
+Each question must have a clear explanation in both languages. Check that the options are in order and the answer is correctly labeled with A, B, C, D.
+
+Need to make sure the JSON structure is correct, with all fields present. Avoid any markdown, just the raw JSON. Also, ensure Hindi translations are accurate and natural.
+
+Let me go through each question one by one, ensuring they cover different aspects and are varied in their focus. Maybe include a mix of 3-4 from each sub-topic. Let me check for any repetition or overlapping topics.
+
+Once done, review the JSON for syntax errors, proper commas, brackets, and that all keys are included as per the example. Ensure that explanations are concise and directly related to the question.
+</think>
+
+[
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which protocol is used to securely send emails over the internet?",
+  "question_hi": "ईमेल को इंटरनेट पर सुरक्षित रूप से भेजने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+  "A_en": "HTTP", "A_hi": "HTTP",
+  "B_en": "POP3", "B_hi": "POP3",
+  "C_en": "SMTP", "C_hi": "SMTP",
+  "D_en": "IMAP", "D_hi": "IMAP",
+  "answer": "C",
+  "explanation_en": "SMTP (Simple Mail Transfer Protocol) is used for sending emails securely.",
+  "explanation_hi": "SMTP (सरल ईमेल स्थानांतरण प्रोटोकॉल) ईमेल को सुरक्षित रूप से भेजने के लिए उपयोग किया जाता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which of the following is a cloud computing service model that provides virtualized hardware infrastructure?",
+  "question_hi": "निम्नलिखित में से कौन-सा एक क्लाउड कंप्यूटिंग सेवा मॉडल है जो वर्चुअलाइज्ड हार्डवेयर बुनियादी ढांचा प्रदान करता है?",
+  "A_en": "IaaS", "A_hi": "IaaS",
+  "B_en": "PaaS", "B_hi": "PaaS",
+  "C_en": "SaaS", "C_hi": "SaaS",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "IaaS (Infrastructure as a Service) provides virtualized computing resources over the internet.",
+  "explanation_hi": "IaaS (इंफ्रास्ट्रक्चर एज ए एस) इंटरनेट पर वर्चुअलाइज्ड कंप्यूटिंग संसाधन प्रदान करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "A firewall is a _______ that protects a network from unauthorized access.",
+  "question_hi": "एक फायरवॉल एक _______ है जो अनधिकृत पहुंच से नेटवर्क की रक्षा करता है।",
+  "A_en": "Software", "A_hi": "सॉफ्टवेयर",
+  "B_en": "Hardware", "B_hi": "हार्डवेयर",
+  "C_en": "Both A and B", "C_hi": "कोई भी ए और बी",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "C",
+  "explanation_en": "Firewalls can be implemented as software, hardware, or a combination of both.",
+  "explanation_hi": "फायरवॉल को सॉफ्टवेयर, हार्डवेयर, या दोनों के संयोजन के रूप में लागू किया जा सकता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which of the following is a symmetric encryption algorithm?",
+  "question_hi": "निम्नलिखित में से कौन एक सिमेट्रिक एनक्रिप्शन एल्गोरिथ्म है?",
+  "A_en": "RSA", "A_hi": "RSA",
+  "B_en": "AES", "B_hi": "AES",
+  "C_en": "Diffie-Hellman", "C_hi": "डिफी-हेलमैन",
+  "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+  "answer": "B",
+  "explanation_en": "AES (Advanced Encryption Standard) is a symmetric-key encryption algorithm.",
+  "explanation_hi": "AES (एडवांस्ड एनक्रिप्शन स्टैंडर्ड) एक सिमेट्रिक-कुंजी एनक्रिप्शन एल्गोरिथ्म है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which cloud deployment model allows data and applications to be privately managed within an organization's on-premises infrastructure?",
+  "question_hi": "कौन-सा क्लाउड डिप्लॉयमेंट मॉडल एक ऑर्गेनाइजेशन के ऑन-प्रिमिस बुनियादी ढांचे में डेटा और एप्लिकेशन को निजी रूप से प्रबंधित करने की अनुमति देता है?",
+  "A_en": "Public Cloud", "A_hi": "पब्लिक क्लाउड",
+  "B_en": "Private Cloud", "B_hi": "निजी क्लाउड",
+  "C_en": "Hybrid Cloud", "C_hi": "हाइब्रिड क्लाउड",
+  "D_en": "Community Cloud", "D_hi": "समुदाय क्लाउड",
+  "answer": "B",
+  "explanation_en": "Private Cloud is an infrastructure dedicated to a single organization.",
+  "explanation_hi": "निजी क्लाउड एक बुनियादी ढांचा है जो एकल ऑर्गेनाइजेशन के लिए नियुक्त है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which of the following is a common type of cyber attack where attackers trick users into revealing sensitive information?",
+  "question_hi": "निम्नलिखित में से कौन एक आम साइबर हमला है जिसमें हमलावर उपयोगकर्ताओं को संवेदनशील जानकारी खोले में धोखा देते हैं?",
+  "A_en": "Phishing", "A_hi": "फिशिंग",
+  "B_en": "Brute Force Attack", "B_hi": "ब्रूट फोर्स हमला",
+  "C_en": "Denial of Service", "C_hi": "सेवा की अस्वीकृति",
+  "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+  "answer": "A",
+  "explanation_en": "Phishing is a social engineering attack that tricks users into sharing sensitive data.",
+  "explanation_hi": "फिशिंग एक सोशल इंजीनियरिंग हमला है जो उपयोगकर्ताओं से संवेदनशील डेटा साझा करे में धोखा देता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which of the following protocols is used to encrypt data during internet transactions?",
+  "question_hi": "इंटरनेट लेनदेन के दौरान डेटा के एन्क्रिप्शन के लिए निम्नलिखित में से किस प्रोटोकॉल का उपयोग किया जाता है?",
+  "A_en": "HTTP", "A_hi": "HTTP",
+  "B_en": "FTP", "B_hi": "FTP",
+  "C_en": "SSL/TLS", "C_hi": "SSL/TLS",
+  "D_en": "SMTP", "D_hi": "SMTP",
+  "answer": "C",
+  "explanation_en": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) encrypts data during transmission.",
+  "explanation_hi": "SSL/TLS (सुरक्षित सॉकेट परत/ट्रांसपोर्ट परत सुरक्षा) ट्रांसमिशन के दौरान डेटा को एन्क्रिप्ट करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which of the following is a two-factor authentication example?",
+  "question_hi": "निम्नलिखित में से कौन-सा द्वि-कारक प्रमाणीकरण का एक उदाहरण है?",
+  "A_en": "Password + Fingerprint", "A_hi": "पासवर्ड + अंगुलिछाप",
+  "B_en": "Username + Password", "B_hi": "यूजरनेम + पासवर्ड",
+  "C_en": "PIN + Security Question", "C_hi": "पिन + सुरक्षा प्रश्न",
+  "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+  "answer": "A",
+  "explanation_en": "Two-factor authentication combines something you know (password) with something you have (fingerprint).",
+  "explanation_hi": "द्वि-कारक प्रमाणीकरण कुछ जानता है (पासवर्ड) और कुछ आपके पास है (अंगुलिछाप) को संयोजित करता है।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "Which of the following is a public cloud service provider?",
+  "question_hi": "निम्नलिखित में से कौन-सा एक पब्लिक क्लाउड सेवा प्रदाता है?",
+  "A_en": "Amazon Web Services (AWS)", "A_hi": "अमेजन वेब सेवाएं (AWS)",
+  "B_en": "Microsoft Azure", "B_hi": "माइक्रोसॉफ्ट एज़्यूर",
+  "C_en": "Google Cloud Platform", "C_hi": "गूगल क्लाउड प्लेटफॉर्म",
+  "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+  "answer": "D",
+  "explanation_en": "AWS, Azure, and Google Cloud are major public cloud providers.",
+  "explanation_hi": "AWS, एज़्यूर, और गूगल क्लाउड मुख्य पब्लिक क्लाउड प्रदाता हैं।"
+},
+{
+  "subject": "Technology",
+  "topic": "Internet, Cloud Computing aur Digital Suraksha",
+  "question_en": "What does HTTPS stand for?",
+  "question_hi": "HTTPS का फुल फॉर्म क्या है?",
+  "A_en": "HyperText Transfer Protocol Secure", "A_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल सुरक्षित",
+  "B_en": "HyperText Transfer Protocol Suite", "B_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल सुइट",
+  "C_en": "HyperText Transfer Protocol Service", "C_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल सेवा",
+  "D_en": "HyperText Transfer Protocol Standard", "D_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल मानक",
+  "answer": "A",
+  "explanation_en": "HTTPS is HTTP with an added layer of security via SSL/TLS encryption.",
+  "explanation_hi": "HTTPS HTTP के साथ SSL/TLS एन्क्रिप्शन के माध्यम से सुरक्षा की एक अतिरिक्त परत होती है।"
+}
+]
