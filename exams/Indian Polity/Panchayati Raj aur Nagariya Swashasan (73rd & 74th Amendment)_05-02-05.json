@@ -1,0 +1,133 @@
+<think>
+Okay, let's start with the subject and topic: Indian Polity, focusing on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. I need to create 10 high-quality MCQs. The user wants them in Hindi and English, following a specific JSON structure. 
+
+First, I should recall key points about these amendments. The 73rd Amendment, 1992, deals with Panchayati Raj institutions, while the 74th, 1992, addresses urban local bodies. Each amendment has reservations for SCs, STs, OBCs, and women. There are provisions for elections, powers, and functions delegated to these bodies.
+
+For each question, I need to ensure the options are plausible but distinct. Let's brainstorm possible questions. For example, asking about the constitutional amendments, reservation percentages, roles of institutions, powers of Gram Sabha, etc.
+
+Let me start drafting the first question: Which amendment deals with Panchayati Raj? The answer is 73rd. Next question on the 74th Amendment for Nagara Swashasan. Then, reservation percentages for women in both amendments. Another question on the term duration of these bodies. Then, the authority for conducting elections. The role of the Gram Sabha. Functions transferred under the amendments. The minimum population for a municipality. The body responsible for preparing the 12th Five Year Plan. And finally, the constitutional provision for urban local bodies.
+
+Each question should be clear and concise. I need to check the accuracy of the facts. For example, the 73rd Amendment reserves 33% for women, not more. The Gram Sabha's role as a deliberative body. The term of 5 years. The State Election Commission for elections. Functions like land distribution and infrastructure under Panchayats.
+
+Now, I'll structure each question with Hindi and English translations, options, answers, and explanations. Ensure that the explanations are accurate and concise. Check for any possible errors in the facts. For example, the 74th Amendment created Municipalities, not Municipal Corporations. The planning at the village level is done by the Panchayat Samiti. The State Election Commission is responsible for conducting elections. The minimum population for a municipality is 10,000. The 12th Five Year Plan was prepared by the Planning Commission, but the question might need to clarify the role of Panchayats in planning. Wait, the question about the 12th Five Year Plan might be tricky. Maybe rephrase it to ask which body prepares the plan at the village level. The Panchayat is responsible for that.
+
+After drafting all questions, I'll review them for clarity and correctness. Ensure that the options are in both languages and that the JSON structure is strictly followed without any markdown. Finally, present the JSON array as per the user's instructions.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान संशोधन प्रस्तावित किया?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "72nd Amendment", "B_hi": "72वां संशोधन",
+        "C_en": "74th Amendment", "C_hi": "74वां संशोधन",
+        "D_en": "71st Amendment", "D_hi": "71वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992 introduced the Panchayati Raj system to strengthen local self-governance in rural areas.",
+        "explanation_hi": "73वें संविधान संशोधन अध्यादेश, 1992 ने ग्रामीण क्षेत्रों में स्थानीय स्वशासन को मजबूत करने के लिए पंचायती राज प्रणाली प्रस्तावित की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum percentage of seats reserved for women in Panchayati Raj institutions under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत पंचायती राज संस्थानों में महिलाओं के लिए आरक्षित सीटों का न्यूनतम प्रतिशत क्या है?",
+        "A_en": "30%", "A_hi": "30%",
+        "B_en": "33%", "B_hi": "33%",
+        "C_en": "40%", "C_hi": "40%",
+        "D_en": "25%", "D_hi": "25%",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment reserves at least one-third (33%) of the seats in Panchayati Raj institutions for women.",
+        "explanation_hi": "73वें संशोधन में पंचायती राज संस्थानों में महिलाओं के लिए तिहाई (33%) सीटों का आरक्षण किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for conducting elections to the Panchayats?",
+        "question_hi": "पंचायतों में चुनाव कराने वाली निकाय कौन है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Constitutional Authority", "B_hi": "संवैधानिक प्राधिकरण",
+        "C_en": "Gram Sabha", "C_hi": "ग्राम सभा",
+        "D_en": "District Collector", "D_hi": "जिला अधिकारी",
+        "answer": "A",
+        "explanation_en": "The State Election Commission, established under the 73rd Amendment, is responsible for conducting free and fair elections to the Panchayats.",
+        "explanation_hi": "73वें संशोधन के तहत राज्य चुनाव आयोग को पंचायतों में निष्पक्ष चुनावों के लिए जिम्मेदार बनाया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the term of office for Panchayat members as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार पंचायत सदस्यों का कार्यकाल कितना होता है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment mandates a five-year term for Panchayat members to ensure continuity and effective governance.",
+        "explanation_hi": "73वें संशोधन में पंचायत सदस्यों के लिए पांच वर्ष का कार्यकाल निर्धारित किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of the Gram Sabha under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत ग्राम सभा का कौन सा कार्य है?",
+        "A_en": "Land Revenue Collection", "A_hi": "जमीन कर की वसूली",
+        "B_en": "Deliberative and advisory role", "B_hi": "सलाहकार और विचारविनिमय की भूमिका",
+        "C_en": "Judicial Functions", "C_hi": "न्यायिक कार्य",
+        "D_en": "Law Enforcement", "D_hi": "कानून अमल में लाना",
+        "answer": "B",
+        "explanation_en": "The Gram Sabha acts as a deliberative and advisory body for the Gram Panchayat under the 73rd Amendment.",
+        "explanation_hi": "73वें संशोधन के तहत ग्राम सभा ग्राम पंचायत के लिए विचारविनिमय और सलाहकार निकाय के रूप में कार्य करती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under the 74th Amendment, what is the minimum population required for a municipality to be established?",
+        "question_hi": "74वें संशोधन के तहत एक नगर निकाय की स्थापना के लिए न्यूनतम आबादी क्या है?",
+        "A_en": "5,000", "A_hi": "5,000",
+        "B_en": "10,000", "B_hi": "10,000",
+        "C_en": "20,000", "C_hi": "20,000",
+        "D_en": "15,000", "D_hi": "15,000",
+        "answer": "B",
+        "explanation_en": "The 74th Amendment mandates that a municipality must have a minimum population of 10,000 to be recognized as a local governing body in urban areas.",
+        "explanation_hi": "74वें संशोधन में नगर निकाय के लिए न्यूनतम 10,000 जनसंख्या का निर्धारण किया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following powers is NOT delegated to the Panchayats under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत पंचायतों को कौन सी शक्ति अप्रदान की गई है?",
+        "A_en": "Land Distribution", "A_hi": "जमीन वितरित करना",
+        "B_en": "Taxation Powers", "B_hi": "कर वसूली की शक्ति",
+        "C_en": "Judicial Powers", "C_hi": "न्यायिक शक्तियां",
+        "D_en": "Planning and Implementation", "D_hi": "नियोजन और क्रियान्वयन",
+        "answer": "C",
+        "explanation_en": "The 73rd Amendment does not grant judicial powers to the Panchayats; they primarily focus on development and governance functions.",
+        "explanation_hi": "73वें संशोधन पंचायतों को न्यायिक शक्तियां नहीं देता है; वे विकास और प्रशासन की शक्तियां हासिल करते हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the reservation percentage for Scheduled Castes and Scheduled Tribes in urban local bodies as per the 74th Amendment?",
+        "question_hi": "74वें संशोधन के अनुसार शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षण प्रतिशत क्या है?",
+        "A_en": "10%", "A_hi": "10%",
+        "B_en": "15%", "B_hi": "15%",
+        "C_en": "Same as the state's official representation", "C_hi": "राज्य के आधिकारिक प्रतिनिधित्व के समान",
+        "D_en": "20%", "D_hi": "20%",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment reserves seats for SCs and STs in urban local bodies in proportion to their population in the state.",
+        "explanation_hi": "74वें संशोधन में शहरी स्थानीय निकायों में अनुसूचित जाति और जनजाति के लिए राज्य के जनसंख्या के अनुपात में आरक्षित सीटों का प्रावधान है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Municipal Corporations under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत नगर निगम का कौन सा कार्य नहीं है?",
+        "A_en": "Urban Planning", "A_hi": "शहरी नियोजन",
+        "B_en": "Fire Services", "B_hi": "अग्निशमन सेवा",
+        "C_en": "Land Revenue Collection", "C_hi": "जमीन कर की वसूली",
+        "D_en": "Public Health", "D_hi": "सार्वजनिक स्वास्थ्य",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment does not delegate land revenue collection to Municipal Corporations; this remains a state government function.",
+        "explanation_hi": "74वें संशोधन नगर निगम को जमीन कर की वसूली की शक्ति नहीं देता है; यह राज्य सरकार का क
