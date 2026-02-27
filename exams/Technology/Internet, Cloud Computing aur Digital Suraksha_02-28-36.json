@@ -1,0 +1,18 @@
+[
+{
+"subject": "Technology",
+"topic": "Internet, Cloud Computing aur Digital Suraksha",
+"question_en": "What is the importance of cloud computing in today's world?",
+"question_hi": "आजकल में cloud computing का क्या खतरा hai?",
+"A_en": "Cloud computing is used for storing and sharing data",
+"A_hi": "संकेताओं, प्रश्न का उत्तर नहीं दोगे।",
+"B_en": "Cloud computing is used for hosting video games",
+"B_hi": "ग्लोब खेलों को भरने के लिए cloud computing का उत्तर नहीं दोगे।",
+"C_en": "Cloud computing is used for processing large amounts of data efficiently",
+"C_hi": "कामयाबाद के लिए cloud computing का उत्तर दोगे।",
+"D_en": "Cloud computing is used for developing and testing software applications.",
+"D_hi": "कामयाबाद के लिए cloud computing का उत्तर दोगे।",
+"answer": "C",
+"explanation_en": "Cloud computing is primarily used for processing large amounts of data efficiently. It provides scalability, reliability, and cost-effectiveness in handling data and processing tasks. ",
+"explanation_hi": "कामयाबाद के लिए cloud computing का उत्तर दोगे।",
+"explanation_hin": ""
