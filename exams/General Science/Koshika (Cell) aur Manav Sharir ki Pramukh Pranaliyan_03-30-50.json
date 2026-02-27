@@ -1,0 +1,159 @@
+<think>
+Okay, I need to create 10 high-quality MCQs in Hindi and English for the topic "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan" under General Science. The user wants the questions in a specific JSON format, similar to Testbook. Let me start by recalling key points about cells and the human body systems.
+
+First, for the cell part, important topics include cell organelles like nucleus, mitochondria, cell membrane, endoplasmic reticulum, etc. Maybe the structure of a cell, types of cells (prokaryotic vs eukaryotic), cell division, and functions of different organelles.
+
+Then, the human body systems: circulatory, respiratory, digestive, excretory, nervous, muscular, skeletal, endocrine, etc. Each system's main functions and organs involved. For example, the heart in the circulatory system, lungs in respiratory, kidneys in excretory.
+
+I need to ensure that the questions cover both topics equally. Let me brainstorm some questions. 
+
+1. Which organelle is known as the powerhouse of the cell? Mitochondria. Options could include nucleus, ribosomes, etc.
+2. What is the primary function of the endoplasmic reticulum? Transporting materials.
+3. Which system is responsible for gas exchange in the human body? Respiratory system.
+4. The largest organ in the human body is the skin. A possible question.
+5. Function of the liver in detoxification. Or storage of glycogen.
+6. The human heart has four chambers. A question about the number of chambers.
+7. The digestive system includes the stomach, small intestine, etc. A question about which organ is part of the digestive tract.
+8. Nervous system: function of neurons, transmission of impulses.
+9. Skeletal system's role in providing structure and support.
+10. Endocrine glands like the thyroid, their hormones.
+
+Now, I need to convert each of these into a question with 4 options, in both languages. Ensure that the correct answer is clear and the options are plausible but incorrect. Then provide explanations in both languages. Also, check the difficulty level to be appropriate for Rajasthan LDC, CET, RAS, SSC, Railway exams.
+
+Let me start drafting each question step by step. Make sure to follow the JSON structure exactly as provided. Check for any language errors or inconsistencies. Also, ensure that the answer options are in order A, B, C, D and the correct answer is denoted by the letter. Each question must have an explanation in both languages. Avoid any markdown and just provide the raw JSON.
+</think>
+
+```json
+[
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which organelle is known as the powerhouse of the cell?",
+    "question_hi": "कौन सा कोशिका अंगक कोशिका के ऊर्जा गृह के रूप में जाना जाता है?",
+    "A_en": "Nucleus", "A_hi": "केंद्रक",
+    "B_en": "Mitochondria", "B_hi": "माइटोकॉन्ड्रिया",
+    "C_en": "Ribosomes", "C_hi": "राइबोसोम",
+    "D_en": "Endoplasmic Reticulum", "D_hi": "अंतर्द्रव्यी जालिका",
+    "answer": "B",
+    "explanation_en": "Mitochondria produce ATP, the energy currency of the cell.",
+    "explanation_hi": "माइटोकॉन्ड्रिया एटीपी उत्पन्न करते हैं, जो कोशिका के ऊर्जा मुद्रा हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which system in the human body is responsible for transporting oxygen and nutrients?",
+    "question_hi": "मानव शरीर में ऑक्सीजन और पोषक तत्वों के वहन के लिए कौन सी प्रणाली उत्तरदायी है?",
+    "A_en": "Respiratory System", "A_hi": "श्वसन तंत्र",
+    "B_en": "Circulatory System", "B_hi": "परिसंचरण तंत्र",
+    "C_en": "Digestive System", "C_hi": "पाचन तंत्र",
+    "D_en": "Excretory System", "D_hi": "उत्सर्जन तंत्र",
+    "answer": "B",
+    "explanation_en": "The circulatory system transports oxygen and nutrients via blood to all parts of the body.",
+    "explanation_hi": "परिसंचरण तंत्र रक्त के माध्यम से ऑक्सीजन और पोषक तत्वों को शरीर के सभी हिस्सों में स्थानांतरित करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which part of the human brain controls voluntary movements?",
+    "question_hi": "मानव मस्तिष्क का कौन सा हिस्सा स्वैच्छिक आंदोलनों को नियंत्रित करता है?",
+    "A_en": "Cerebrum", "A_hi": "सेरीब्रम",
+    "B_en": "Cerebellum", "B_hi": "सेरीबेलम",
+    "C_en": "Spinal Cord", "C_hi": "मेरुरज्जु",
+    "D_en": "Medulla Oblongata", "D_hi": "मेडुला ऑब्लोंगेटा",
+    "answer": "A",
+    "explanation_en": "The cerebrum is responsible for voluntary movements, sensory processing, and higher brain functions.",
+    "explanation_hi": "सेरीब्रम स्वैच्छिक आंदोलनों, संवेदी प्रसंस्करण और उच्च मस्तिष्क कार्यों के लिए उत्तरदायी है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "What is the primary function of chloroplasts in plant cells?",
+    "question_hi": "पौधों की कोशिकाओं में क्लोरोप्लास्ट का मुख्य कार्य क्या है?",
+    "A_en": "Respiration", "A_hi": "श्वसन",
+    "B_en": "Photosynthesis", "B_hi": "प्रकाश संश्लेषण",
+    "C_en": "Storage of nutrients", "C_hi": "पोषक तत्वों के भंडारण",
+    "D_en": "Cell division", "D_hi": "कोशिका विभाजन",
+    "answer": "B",
+    "explanation_en": "Chloroplasts perform photosynthesis to synthesize food in plant cells.",
+    "explanation_hi": "क्लोरोप्लास्ट पौधों की कोशिकाओं में भोजन संश्लेषित करने के लिए प्रकाश संश्लेषण करते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which human organ is responsible for filtering blood and removing waste?",
+    "question_hi": "मानव शरीर में रक्त को छानकर अपशिष्ट पदार्थों को निकालने के लिए कौन सा अंग उत्तरदायी है?",
+    "A_en": "Liver", "A_hi": "यकृत",
+    "B_en": "Kidneys", "B_hi": "गुर्दे",
+    "C_en": "Stomach", "C_hi": "पेट",
+    "D_en": "Spleen", "D_hi": "प्लीहा",
+    "answer": "B",
+    "explanation_en": "Kidneys filter blood and remove waste products from the body.",
+    "explanation_hi": "गुर्दे रक्त को छानते हैं और शरीर से अपशिष्ट पदार्थों को निकालते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "What is the function of the human skeletal system?",
+    "question_hi": "मानव हड़ियों की प्रणाली का कार्य क्या है?",
+    "A_en": "Muscle contraction", "A_hi": "पेशीय संकुचन",
+    "B_en": "Protection of internal organs", "B_hi": "आंतरिक अंगों की सुरक्षा",
+    "C_en": "Blood circulation", "C_hi": "रक्त परिसंचरण",
+    "D_en": "Hormone production", "D_hi": "हॉर्मोन उत्पादन",
+    "answer": "B",
+    "explanation_en": "The skeletal system provides structure, support, and protects internal organs.",
+    "explanation_hi": "हड़ियों की प्रणाली संरचना, समर्थन और आंतरिक अंगों की सुरक्षा प्रदान करती है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which cell organelle is responsible for protein synthesis?",
+    "question_hi": "प्रोटीन संश्लेषण के लिए कौन सा कोशिका अंगक उत्तरदायी है?",
+    "A_en": "Nucleus", "A_hi": "केंद्रक",
+    "B_en": "Mitochondria", "B_hi": "माइटोकॉन्ड्रिया",
+    "C_en": "Ribosomes", "C_hi": "राइबोसोम",
+    "D_en": "Golgi Apparatus", "D_hi": "गोल्गी उपकरण",
+    "answer": "C",
+    "explanation_en": "Ribosomes are the sites of protein synthesis in cells.",
+    "explanation_hi": "राइबोसोम्स कोशिकाओं में प्रोटीन संश्लेषण के स्थल हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which part of the human body is responsible for the production of enzymes that aid digestion?",
+    "question_hi": "मनुष्य के शरीर में पाचन में सहायता करने वाले एंजाइमों के उत्पादन के लिए कौन सा हिस्सा उत्तरदायी है?",
+    "A_en": "Liver", "A_hi": "यकृत",
+    "B_en": "Pancreas", "B_hi": "अग्न्याशय",
+    "C_en": "Small Intestine", "C_hi": "छोटी आंत",
+    "D_en": "Large Intestine", "D_hi": "बड़ी आंत",
+    "answer": "B",
+    "explanation_en": "The pancreas secretes enzymes that help digest carbohydrates, fats, and proteins.",
+    "explanation_hi": "अग्न्याशय कार्बोहाइड्रेट, वसा और प्रोटीन के पाचन में सहायता करने वाले एंजाइम स्रावित करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "What is the role of the human endocrine system?",
+    "question_hi": "मानव अंतःस्रावी तंत्र का भूमिका क्या है?",
+    "A_en": "Regulation of body temperature", "A_hi": "शरीर के तापमान का नियमन",
+    "B_en": "Secretion of enzymes", "B_hi": "एंजाइमों का स्राव",
+    "C_en": "Production of hormones", "C_hi": "हार्मोनों के उत्पादन",
+    "D_en": "Blood clotting", "D_hi": "रक्त का थक्का बनाना",
+    "answer": "C",
+    "explanation_en": "The endocrine system produces hormones that regulate body functions such as growth, metabolism, and reproduction.",
+    "explanation_hi": "अंतःस्रावी तंत्र वृद्धि, चयापचय और प्रजनन जैसे शरीर के कार्यों को नियंत्रित करने वाले हार्मोन्स का उत्पादन करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Koshika (Cell) aur Manav Sharir ki Pramukh Pranaliyan",
+    "question_en": "Which human organ system is primarily involved in the exchange of gases?",
+    "question_hi": "मानव शरीर में गैसों के आदान-प्रदान में मुख्य रूप से कौन सी अंग प्रणाली शामिल है?",
+    "A_en": "Digestive System", "A_hi": "पाचन तंत्र",
+    "B_en": "Respiratory System", "B_hi": "श्वसन तंत्र",
+    "C_en": "Circulatory System", "C_hi": "परिसंचरण तंत्र",
+    "D_en": "Excretory System", "D_hi": "उत्सर्जन तंत्र",
+    "answer": "B",
+    "explanation_en": "The respiratory system facilitates gas exchange between the body and the environment.",
+    "explanation_hi": "श्वसन तंत्र शरीर और पर्यावरण के बीच गैस आदान-प्रदान को सुविधाजनक बनाता है।"
+  }
+]
+```
