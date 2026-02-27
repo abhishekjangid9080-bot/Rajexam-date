@@ -1,0 +1,18 @@
+[
+{
+"subject": "Computer",
+"topic": "RAM, ROM, File System aur Input-Output Devices",
+"question_en": "What is the primary storage in a computer?",
+"question_hi": "कंप्यूटर में प्रमुख संगठन क्या है?",
+"A_en": "Hard Drive", "A_hi": "डिस्क",
+"B_en": "ROM", "B_hi": "ROM",
+"C_en": "RAM", "C_hi": "RAM",
+"D_en": "CD/DVD Drive", "D_hi": "CD/DVD Drives",
+"answer": "C",
+"explanation_en": "Random Access Memory (RAM) is the primary storage in a computer. It is used to store data and programs that are currently in use by the processor.\nExample: A computer processes data and runs programs quickly because it can access the data stored in RAM directly and quickly.\n",
+"explanation_hi": "कंप्यूटर में प्रमुख संगठन क्या है?\nRAM (Random Access Memory) RAM में प्रतिक्रम संगठन क्या है?\nRAM (Random Access Memory) हिस्सारेंद्र संगठन की विभिज्ञानी संगठन क्या है?\nRandom Access Memory (RAM) हिस्सारेंद्र संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी संगठन की विभिज्ञानी RAM की संगठन की विभिज्ञानी संगठन की विभिज्ञान की संगठन की विभिज्ञान RAM की संगठन की संगठन की विभिज्ञान की संगठन की विभिज्ञान RAM की संगठन की विभिज्ञान की विभिज्ञान",
+"answer": "RAM की संगठन",
+"explanation_hi": "RAM की विभिजन की विभिज्ञान की विभिज्ञान की विभिज्ञान की विभिज्ञान",
+"explanation_en": "RAM is a type of memory in a computer that stores data temporarily. It is used to store the data and program instructions that a computer needs to access quickly. RAM की विभिज्ञान की विभिजन की विभिजन की विभिज्ञान की विभिज्ञान की विभिज्ञान",
+]
+]
