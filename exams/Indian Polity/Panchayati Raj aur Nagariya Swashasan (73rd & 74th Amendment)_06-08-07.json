@@ -1,0 +1,153 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on the 73rd and 74th Amendments of the Indian Constitution, focusing on Panchayati Raj and Nagariya Swashasan. They specified both Hindi and English for questions and options, in a strict JSON format. 
+
+First, I need to recall the key points of these amendments. The 73rd Amendment is about Panchayats (rural local governance), and the 74th is about Municipalities (urban). Important aspects include constitutional status, reservation of seats, powers, and responsibilities.
+
+I should start by listing key facts. For example, the 73rd Amendment came into effect in 1993, provides for a three-tier system of Panchayats. The 74th Amendment does the same for Municipalities. Both require regular elections, and there's a reservation of seats for SCs, STs, and women. Also, the State Finance Commission under 73rd Amendment. 
+
+Now, formulating questions. Each question should test understanding of these elements. Let's brainstorm topics: 
+1. Year of amendment
+2. Constitutional article numbers
+3. Reservation percentages (women, SC/ST)
+4. Structure levels (three-tier)
+5. Functions like preparation of development plans
+6. Duration of Panchayats/Municipalities
+7. Qualifications for membership
+8. Disqualifications (conviction for criminal offense)
+9. Role of State Finance Commission
+10. Difference between 73rd and 74th
+
+Need to ensure that each question is clear and options are plausible. For example, for the year of the 73rd Amendment, options could include 1992, 1993, 1994. The correct answer is 1993. 
+
+For the reservation of seats for women, it's 1/3 in both Panchayats and Municipalities. So a question asking the percentage would have 33.3% as the answer. 
+
+Also, check for common mistakes. Like, some might confuse the number of tiers. The three-tier system includes Gram Panchayat, Block, and Zila Parishad for rural. Urban has Nagar Panchayat, Nagar Palika, and Nagar Nigam. 
+
+Need to verify the exact articles. 73rd is Article 243, 74th is 243T. 
+
+When creating explanations, they should be concise but informative. For example, explaining that the State Finance Commission is responsible for recommending the distribution of financial resources between the state and local bodies.
+
+Double-check each point for accuracy. For instance, the disqualification for criminal offenses is under the 73rd Amendment, so a question on that would relate to both amendments. 
+
+Make sure the language is appropriate for the target exams—Rajasthan LDC, CET, RAS, SSC, Railway. The difficulty level should be moderate, testing knowledge of key facts and understanding of the amendments' provisions.
+
+Finally, structure each JSON object with the required fields: subject, topic, question in both languages, options, answer, and explanations. Ensure no markdown is used and the JSON is valid. Let me go through each question step by step to confirm correctness and clarity.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "73rd Amendment of the Indian Constitution is related to which of the following?",
+    "question_hi": "भारतीय संविधान के 73वें संशोधन से निम्नलिखित में से किसका संबंध है?",
+    "A_en": "Panchayati Raj", "A_hi": "पंचायती राज",
+    "B_en": "Municipalities", "B_hi": "नगर पालिकाएँ",
+    "C_en": "Urban Local Governments", "C_hi": "शहरी स्थानीय सरकारें",
+    "D_en": "State Legislatures", "D_hi": "राज्य विधान सभाएँ",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment (1992) provided constitutional status to the Panchayati Raj system and mandated regular elections.",
+    "explanation_hi": "73वां संशोधन (1992) पंचायती राज प्रणाली को संवैधानिक मान्यता देता है और नियमित चुनावों को आवश्यक ठहराता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required for a person to contest elections for the Panchayat?",
+    "question_hi": "कोई व्यक्ति पंचायत चुनाव में उम्मीदवार बनने के लिए न्यूनतम कितने वर्ष का होना आवश्यक है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment mandates that candidates for Panchayat elections must be at least 21 years old.",
+    "explanation_hi": "73वें संशोधन के अनुसार, पंचायत चुनाव के उम्मीदवारों की आयु कम से कम 21 वर्ष होनी आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is not a function of Panchayats under the 73rd Amendment?",
+    "question_hi": "निम्नलिखित में से कौन 73वें संशोधन के तहत पंचायतों का कार्य नहीं है?",
+    "A_en": "Preparation of development plans", "A_hi": "विकास योजनाओं की तैयारी",
+    "B_en": "Collection of local taxes", "B_hi": "स्थानीय करों की वसूली",
+    "C_en": "Maintenance of law and order", "C_hi": "कानून व्यवस्था की देखरेख",
+    "D_en": "Implementation of social welfare schemes", "D_hi": "सामाजिक कल्याण योजनाओं का कार्यान्वयन",
+    "answer": "C",
+    "explanation_en": "Maintenance of law and order is the responsibility of the state police, not Panchayats.",
+    "explanation_hi": "कानून व्यवस्था की देखरेख राज्य पुलिस की जिम्मेदारी है, न कि पंचायतों की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Under the 73rd Amendment, what percentage of seats are reserved for women in Panchayats?",
+    "question_hi": "73वें संशोधन के तहत पंचायतों में महिलाओं के लिए कुल सीटों का कितना प्रतिशत आरक्षित है?",
+    "A_en": "30%", "A_hi": "30%",
+    "B_en": "33%", "B_hi": "33%",
+    "C_en": "40%", "C_hi": "40%",
+    "D_en": "50%", "D_hi": "50%",
+    "answer": "B",
+    "explanation_en": "At least one-third of the seats in Panchayats are reserved for women under the 73rd Amendment.",
+    "explanation_hi": "73वें संशोधन के तहत पंचायतों में महिलाओं के लिए कम से कम एक-तिहाई सीटें आरक्षित हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following bodies is responsible for recommending the distribution of financial resources between the state and local bodies?",
+    "question_hi": "निम्नलिखित में से कौन सा निकाय राज्य और स्थानीय निकायों के बीच वित्तीय संसाधनों के वितरण की सिफारिश करता है?",
+    "A_en": "State Election Commission", "A_hi": "राज्य निर्वाचन आयोग",
+    "B_en": "State Finance Commission", "B_hi": "राज्य वित्त आयोग",
+    "C_en": "Gram Sabha", "C_hi": "ग्राम सभा",
+    "D_en": "District Planning Commission", "D_hi": "जिला योजना आयोग",
+    "answer": "B",
+    "explanation_en": "The State Finance Commission, established under the 73rd Amendment, recommends the distribution of financial resources.",
+    "explanation_hi": "राज्य वित्त आयोग, 73वें संशोधन के तहत स्थापित, वित्तीय संसाधनों के वितरण की सिफारिश करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "The 74th Amendment of the Constitution deals with which of the following?",
+    "question_hi": "संविधान का 74वां संशोधन निम्नलिखित में से किसके संबंध में है?",
+    "A_en": "Urban local governments", "A_hi": "शहरी स्थानीय सरकारें",
+    "B_en": "Rural education reforms", "B_hi": "ग्रामीण शिक्षा सुधार",
+    "C_en": "Agricultural development", "C_hi": "कृषि विकास",
+    "D_en": "Industrial policies", "D_hi": "औद्योगिक नीतियाँ",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment (1992) provides constitutional status to urban local governments (Municipalities).",
+    "explanation_hi": "74वां संशोधन (1992) शहरी स्थानीय सरकारों (नगर पालिकाएँ) को संवैधानिक मान्यता देता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the duration of a Panchayat as per the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार पंचायत की अवधि क्या है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment mandates that Panchayats have a five-year term.",
+    "explanation_hi": "73वें संशोधन के अनुसार पंचायतों की अवधि पांच वर्ष होती है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is not a function of Municipalities under the 74th Amendment?",
+    "question_hi": "निम्नलिखित में से कौन 74वें संशोधन के तहत नगर पालिकाओं का कार्य नहीं है?",
+    "A_en": "Water supply", "A_hi": "पानी की आपूर्ति",
+    "B_en": "Sanitation", "B_hi": "स्वच्छता",
+    "C_en": "Urban planning", "C_hi": "शहरी योजना",
+    "D_en": "Maintenance of national highways", "D_hi": "राष्ट्रीय राजमार्गों की देखरेख",
+    "answer": "D",
+    "explanation_en": "Maintenance of national highways is the responsibility of the central government, not Municipalities.",
+    "explanation_hi": "राष्ट्रीय राजमार्गों की देखरेख केंद्र सरकार की जिम्मेदारी है, न कि नगर पालिकाओं की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "The 73rd Amendment reserves seats for which of the following groups in Panchayats?",
+    "question_hi": "73वें संशोधन ने पंचायतों में निम्नलिखित में से कौन से समूहों के लिए सीटें आरक्षित की हैं?",
+    "A_en": "Scheduled Castes and Scheduled Tribes", "A_hi": "अनुसूचित जाति और अनुसूचित जनजाति",
+    "B_en": "Backward Classes", "B_hi": "पिछड़ा वर्ग",
+    "C_en": "Women", "C_hi": "महिलाएँ",
+    "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "The 73rd Amendment reserves seats for SCs, STs, OBCs, and women in Panchayats.",
+    "explanation_hi": "73वें संशोधन ने पंचायतों में अनुसूचित जाति, अनुसूचित जनजाति, आरक्षित वर्ग और महिल
