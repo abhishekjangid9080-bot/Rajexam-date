@@ -1,0 +1,143 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Indian Polity, specifically about the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. I need to make sure each question and options are in both Hindi and English, following the Testbook style.
+
+First, I should recall the key points of the 73rd and 74th Amendments. The 73rd Amendment deals with Panchayati Raj institutions, while the 74th is about urban local bodies. Important aspects include reservation of seats for SCs, STs, women, and the powers and functions of these bodies.
+
+For each question, I need to create a clear stem, four options (with one correct), explanations in both languages, and ensure the difficulty level is appropriate for the mentioned exams. Let me start brainstorming possible questions.
+
+1. **Year of amendment**: When were these amendments passed? 73rd in 1992, 74th also in 1992. So the correct answer is 1992. Options could be other years like 1990, 1993, etc.
+
+2. **Reservation of seats**: Which groups are reserved? SC/ST, women, OBCs. The correct answer is SC/ST and women. OBCs might not be part of these specific amendments.
+
+3. **Panchayat at the village level**: Gram Panchayat is the correct term. Options might include other levels like Block Panchayat, Zila Parishad.
+
+4. **Constitutional provisions for urban local bodies**: 74th Amendment. Need to check if the question is about which amendment deals with urban bodies.
+
+5. **Minimum age for membership**: Usually 21 for panchayat members. But for urban, maybe 22? Wait, no, the 74th Amendment says 21 for urban local bodies. Wait, need to verify. Let me confirm: For Panchayats, the minimum age is 21 for elected members. For urban, it's 21 as well. But maybe the question is about a specific level. Hmm, perhaps the question is about the minimum age for a member of the Gram Panchayat, which is 21. So the correct answer is 21.
+
+6. **Functions of Municipalities**: Includes urban planning, sanitation, water supply. Need to pick the correct option that's a function under 74th Amendment.
+
+7. **Reservation for women**: 1/3rd of the seats. So the correct answer is 33%. Other options could be 25%, 50%, etc.
+
+8. **Constitutional Provisions for Panchayats**: 73rd Amendment. So the question is which amendment deals with Panchayati Raj.
+
+9. **Minimum number of members in a Panchayat**: At least 5 members, but I think the exact number might be 5 or varies. Wait, according to the 73rd Amendment, the minimum number of members in a Gram Panchayat is 5. Let me confirm. Yes, the Constitution mandates that every Panchayat shall have not less than five members. So the answer is 5.
+
+10. **Functions not given to Panchayats**: Functions like public health, sanitation, etc., are given. But functions like implementation of welfare schemes might be part of their responsibilities. Wait, no, maybe the question is about which function is not assigned. For example, defense or foreign policy is not their responsibility. But in the context of the amendments, the question might be about specific functions. Let me think. The 73rd Amendment lists functions in the Eleventh Schedule. For example, water management, land improvement, etc. So a function not included would be something like maintaining national highways, which is under the state or central government.
+
+Now, I need to structure each question with the correct options and explanations. Ensure that the options are plausible but only one is correct. The explanations should clearly justify why the correct answer is right and the others are incorrect. Also, check for any factual errors. For example, the year for both amendments is 1992. The reservation percentages need to be accurate. The minimum age for membership is 21 for both Panchayats and Municipalities. The reservation for women is 33% in both. The functions of Panchayats and Municipalities are outlined in the Eleventh and Twelfth Schedules respectively.
+
+I should also make sure the translations into Hindi are accurate. Use appropriate terms for Panchayat, Municipalities, etc. Check for any grammar issues in Hindi. For example, "73वें संविधान संशोधन" for 73rd Amendment. "ग्राम पंचायत" for Gram Panchayat.
+
+Once all questions are drafted, review each one for clarity and correctness. Ensure that the difficulty level is suitable for the target exams. Avoid overly technical terms unless necessary. The explanations should be concise but informative enough to clarify the concept.
+</think>
+
+```json
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment provides for the establishment of Panchayati Raj institutions?",
+        "question_hi": "कौन सा संविधान संशोधन पंचायती राज संस्थानों की स्थापना के लिए प्रावधान करता है?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+        "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+        "D_en": "71st Amendment", "D_hi": "71वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992 established the Panchayati Raj system to empower local governance in rural areas.",
+        "explanation_hi": "73वें संविधान संशोधन अधिनियम, 1992 ने पंचायती राज प्रणाली की स्थापना की ग्रामीण क्षेत्रों में स्थानीय सरकार को सशक्त बनाने के लिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats in Panchayats are reserved for women under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत पंचायतों में महिलाओं के लिए सीटों के कितने प्रतिशत का आरक्षण है?",
+        "A_en": "25%", "A_hi": "25%",
+        "B_en": "33%", "B_hi": "33%",
+        "C_en": "50%", "C_hi": "50%",
+        "D_en": "10%", "D_hi": "10%",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment mandates a minimum reservation of one-third of all seats in Panchayats for women to ensure their participation in rural governance.",
+        "explanation_hi": "73वें संशोधन में पंचायतों में महिलाओं के लिए सभी सीटों के एक तिहाई न्यूनतम आरक्षण की आवश्यकता है जिससे ग्रामीण प्रशासन में उनके भागीदारी सुनिश्चित हो सके।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which amendment addresses urban local governance structures?",
+        "question_hi": "कौन सा संशोधन शहरी स्थानीय प्रशासन की संरचनाओं को शामिल करता है?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोdhन",
+        "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+        "C_en": "75th Amendment", "C_hi": "75वां संशोधन",
+        "D_en": "76th Amendment", "D_hi": "76वां संशोधन",
+        "answer": "B",
+        "explanation_en": "The 74th Constitutional Amendment Act, 1992 provides the framework for urban local governance through municipalities.",
+        "explanation_hi": "74वें संविधान संशोधन अधिनियम, 1992 शहरी स्थानीय प्रशासन के लिए निकायों के माध्यम से ढांचा उपलब्ध कराता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest a Panchayat election?",
+        "question_hi": "पंचायत चुनाव में भाग लेने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "Under the 73rd Amendment, a candidate must be at least 21 years old to participate in Panchayat elections.",
+        "explanation_hi": "73वें संशोधन के तहत पंचायत चुनाव में भाग लेने के लिए उम्मीदवार को कम से कम 21 वर्ष की आयु होनी चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of a Gram Panchayat?",
+        "question_hi": "निम्नलिखित में से कौन ग्राम पंचायत का कार्य नहीं है?",
+        "A_en": "Rural sanitation", "A_hi": "ग्रामीण स्वच्छता",
+        "B_en": "Land records maintenance", "B_hi": "जमीन के रिकॉर्ड की देखरेख",
+        "C_en": "National defense", "C_hi": "राष्ट्रीय रक्षा",
+        "D_en": "Local education", "D_hi": "स्थानीय शिक्षा",
+        "answer": "C",
+        "explanation_en": "Functions of a Gram Panchayat include rural sanitation, education, and land records, but not national defense, which is a central government responsibility.",
+        "explanation_hi": "ग्राम पंचायत के कार्य ग्रामीण स्वच्छता, शिक्षा और भूमि रिकॉर्ड शामिल हैं, जबकि राष्ट्रीय रक्षा केंद्र सरकार की जिम्मेदारी है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum number of members required in a Panchayat?",
+        "question_hi": "एक पंचायत में न्यूनतम कितने सदस्यों की आवश्यकता है?",
+        "A_en": "3", "A_hi": "3",
+        "B_en": "5", "B_hi": "5",
+        "C_en": "7", "C_hi": "7",
+        "D_en": "10", "D_hi": "10",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment mandates that every Panchayat must have at least five members.",
+        "explanation_hi": "73वें संशोधन की आवश्यकता है कि हर पंचायत में कम से कम पांच सदस्य होने चाहिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which schedule of the Constitution outlines the functions of Panchayats?",
+        "question_hi": "संविधान की कौन सी अनुसूची पंचायतों के कार्यों को निर्दिष्ट करती है?",
+        "A_en": "Eleventh Schedule", "A_hi": "ग्यारहवीं अनुसूची",
+        "B_en": "Twelfth Schedule", "B_hi": "बारहवीं अनुसूची",
+        "C_en": "Tenth Schedule", "C_hi": "दसवीं अनुसूची",
+        "D_en": "Thirteenth Schedule", "D_hi": "तेरहवीं अनुसूची",
+        "answer": "A",
+        "explanation_en": "The Eleventh Schedule of the Constitution lists 29 functions for Panchayats, focusing on rural development.",
+        "explanation_hi": "संविधान की ग्यारहवीं अनुसूची पंचायतों के 29 कार्यों को सूचीबद्ध करती है जो ग्रामीण विकास पर केंद्रित हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the term of office for members of a Municipality under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत निकायों के सदस्यों की कार्यकाल क्या है?",
+        "A_en": "3 years", "A_hi": "3 वर्ष",
+        "B_en": "4 years", "B_hi": "4 वर्ष",
+        "C_en": "5 years", "C_hi": "5 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment provides for a five-year term for members of urban local bodies.",
+        "explanation_hi": "74वां संशोधन शहरी स्थानीय निकायों के सदस्यों के लिए पांच साल का कार्यकाल निर्धारित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd
