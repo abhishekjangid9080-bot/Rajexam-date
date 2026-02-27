@@ -1,0 +1,82 @@
+[
+{
+"subject": "Economy",
+"topic": "Central Government Jobs",
+"question_en": "List the top sectors contributing to India's GDP?",
+"question_hi": "भारत के कॉर्पोरेशन एडविंग के प्रमोज्न के सभी विभागों के सामूह"
+},
+{
+"subject": "Economy",
+"topic": "Rajasthan State Level Jobs",
+"question_en": "What is the primary source of employment in Rajasthan?",
+"question_hi": "राजस्थान में प्रमोज्न का प्रमाण क्या है?",
+"A_en": "Agriculture",
+"A_hi": "आजीवन",
+"B_en": "Information Technology",
+"B_hi": "प्रमोज्न",
+"C_en": "Education",
+"C_hi": "शिक्षा",
+"D_en": "Health",
+"D_hi": "रस्तों, मैयां, स्वस्तत्व और प्रमोज्न के विभाग, एक वर्षीय फैलों के क्रेडिया, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय प्रेम, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग, लेकुंगें, संग्रता, और मनोत्तम विभाग, एक वर्षीय पेम, सें, संग्रता, और मनोत्तम विभाग",
+"Options": [
+{
+"option_id": 1,
+"option_title_en": "Agriculture",
+"option_title_hi": "जनोुंग",
+},
+{
+"option_id": 2,
+"option_title_en": "Trade",
+"option_title_hi": "बिनोंग",
+},
+{
+"option_id": 3,
+"option_title_en": "Information Technology",
+"option_title_hi": "पिनोंग",
+},
+{
+"option_id": 4,
+"option_title_en": "Education",
+"option_title_hi": "जनोुंग",
+},
+{
+"option_id": 5,
+"option_title_en": "Railways",
+"option_title_hi": "बिनोंग",
+},
+{
+"option_id": 6,
+"option_title_en": "Health",
+"option_title_hi": "जनोुंग",
+},
+{
+"option_id": 7,
+"option_title_en": "Industries",
+"option_title_hi": "जनोुंग",
+},
+{
+"option_id": 8,
+"option_title_en": "Finance",
+"option_title_hi": "बिनोुंग",
+}
+],
+"answer": "7",
+"explanation_en": "राजनुंग कोुंग कोुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग",
+"explanation_hi": "जनुंग कुंग कुंग",
+},
+{
+"option_id": 9,
+"option_title_en": "Emergency Services",
+"option_title_hi": "जनुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग",
+"option_en": "Mining",
+"option_hi": "जनुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग कुंग",
+"A_en": "Agriculture",
+"A_hi": "जनुंग कुंग कुंग कुंग कुंग कुंग",
+"B_en": "Tourism",
+"B_hi": "जनुंग कुंग कुंग कुंग कुंग कुंग कुंग",
+"C_en": "Management",
+"C_hi": "जनुंग कुंग कुंग कुंग कुंग कुंग कुंग",
+"D_en": "Industries",
+"D_hi": "जनुंग कुंग कुंग",
+"E_en": "Health",
+"E_hi": "जनुंग
