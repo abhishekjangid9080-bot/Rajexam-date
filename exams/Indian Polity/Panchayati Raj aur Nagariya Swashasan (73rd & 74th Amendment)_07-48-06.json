@@ -1,0 +1,143 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments. Let's start by recalling what each of these amendments entails. The 73rd Amendment is about rural local governments (Panchayats), and the 74th Amendment deals with urban local governments (Nagar Panchayats). Both were enacted in 1992 and 1993 respectively.
+
+First, I should identify key points for each amendment. For the 73rd Amendment, important aspects include the structure of Panchayats (Gram, Panchayat Samiti, Zila Parishad), reservation of seats for SC/ST and women, elections, and the powers and functions. For the 74th Amendment, the structure of Nagar Panchayats, similar reservations, elections, and their functions like urban planning, sanitation, etc.
+
+Now, let's brainstorm possible questions. Maybe start with the years the amendments were passed. Then move to the minimum age for membership. Reservation percentages for SC/ST and women. The structure levels in both amendments. Functions under each. The role of the State Election Commission. Maybe some specific articles, like Article 243 for the Panchayats and Article 243T for the Nagariya Swashasan. Also, the term of office for members. The concept of Gram Sabha under 73rd. The establishment of a State Finance Commission for Panchayats under 73rd Amendment. The head of a Nagar Panchayat (Mayor or Chairperson). The constitutional provision for urban local governments.
+
+I need to ensure that each question is clear and the options are distinct. Avoid common mistakes in the distractors. For example, the 73rd Amendment has 73 articles, but the question might ask about the year. Also, check the difference between Gram Panchayat and Nagar Panchayat structures. For example, the 74th Amendment deals with urban areas, so functions like water supply, drainage, etc., would be relevant.
+
+Let me outline each question step by step. Starting with the year of enactment for 73rd Amendment. Then for 74th. The minimum age for members. Reservation percentages for women in 73rd and 74th. The number of levels in Panchayats. The head of a Nagar Panchayat. The role of State Election Commission. The term of office. The function not under Panchayats. The constitutional article for urban local governments. The establishment of State Finance Commission under 73rd.
+
+Now, I need to verify the correct answers. For example, the 73rd Amendment was passed in 1992, and the 74th in 1993. The minimum age for Panchayat membership is 21. Women's reservation is 1/3 in both. The three tiers: Gram, Block, District. The head of Nagar Panchayat is Mayor. State Election Commission conducts elections. Term is 5 years. Functions not under Panchayats could be law enforcement. Article 243T for urban. State Finance Commission under 73rd Amendment.
+
+I need to make sure the options are in both Hindi and English, with the correct answer marked. Each question should have a clear explanation in both languages. Avoid any overlap in options where possible. Also, check for any common misconceptions, like confusing the 73rd and 74th amendments' years or reservation percentages. Make sure the explanations are concise and directly answer the question.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "In which year was the 73rd Constitutional Amendment passed?",
+    "question_hi": "73वें संविधान संशोधन कब पारित किया गया था?",
+    "A_en": "1991", "A_hi": "1991",
+    "B_en": "1992", "B_hi": "1992",
+    "C_en": "1993", "C_hi": "1993",
+    "D_en": "1994", "D_hi": "1994",
+    "answer": "B",
+    "explanation_en": "The 73rd Constitutional Amendment Act was passed in 1992 to establish local self-government in rural areas.",
+    "explanation_hi": "73वें संविधान संशोधन अधिनियम को 1992 में ग्रामीण क्षेत्रों में स्थानीय स्वशासन स्थापित करने के लिए पारित किया गया था।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age for being a member of a Panchayat?",
+    "question_hi": "पंचायत के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The Constitution mandates that a person must be at least 21 years old to be a member of a Panchayat.",
+    "explanation_hi": "संविधान निर्धारित करता है कि पंचायत के सदस्य बनने के लिए व्यक्ति कम से कम 21 वर्ष का होना चाहिए।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for women in Panchayats?",
+    "question_hi": "पंचायतों में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+    "A_en": "1/3", "A_hi": "1/3",
+    "B_en": "1/2", "B_hi": "1/2",
+    "C_en": "1/4", "C_hi": "1/4",
+    "D_en": "1/5", "D_hi": "1/5",
+    "answer": "A",
+    "explanation_en": "At least one-third of the seats in every Panchayat are reserved for women.",
+    "explanation_hi": "प्रत्येक पंचायत में महिलाओं के लिए अपनी तिहाई सीटों का आरक्षण आवश्यक है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is responsible for conducting elections to the Panchayats?",
+    "question_hi": "पंचायतों के चुनाव कराने का दायित्व किस निकाय का है?",
+    "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+    "B_en": "Election Commission of India", "B_hi": "भारत चुनाव आयोग",
+    "C_en": "Gram Sabha", "C_hi": "ग्राम सभा",
+    "D_en": "District Collector", "D_hi": "जिला आयुक्त",
+    "answer": "A",
+    "explanation_en": "The State Election Commission is constitutionally mandated to conduct elections to the Panchayats.",
+    "explanation_hi": "राज्य चुनाव आयोग को संविधान में पंचायतों के चुनाव कराने का दायित्व दिया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many levels of Panchayats are established under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत कितने स्तर की पंचायतें स्थापित की गई हैं?",
+    "A_en": "1", "A_hi": "1",
+    "B_en": "2", "B_hi": "2",
+    "C_en": "3", "C_hi": "3",
+    "D_en": "4", "D_hi": "4",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment establishes three tiers: Gram Panchayat, Panchayat Samiti, and Zila Parishad.",
+    "explanation_hi": "73वें संशोधन में तीन स्तर स्थापित किए गए हैं: ग्राम पंचायत, पंचायत समिति और जिला परिषद।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which article of the Indian Constitution deals with urban local government?",
+    "question_hi": "भारतीय संविधान का कौन सा अनुच्छेद नगरीय स्थानीय शासन के बारे में है?",
+    "A_en": "Article 243", "A_hi": "अनुच्छेद 243",
+    "B_en": "Article 243T", "B_hi": "अनुच्छेद 243टी",
+    "C_en": "Article 243W", "C_hi": "अनुच्छेद 243डब्ल्यू",
+    "D_en": "Article 243Z", "D_hi": "अनुच्छेद 243जेड",
+    "answer": "B",
+    "explanation_en": "Article 243T of the Indian Constitution deals with urban local government under the 74th Amendment.",
+    "explanation_hi": "74वें संशोधन के तहत भारतीय संविधान का अनुच्छेद 243टी नगरीय स्थानीय शासन से संबंधित है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for members of a Nagar Panchayat?",
+    "question_hi": "नगर पंचायत के सदस्यों का कार्यकाल कितना होता है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The term of office for members of a Nagar Panchayat is five years.",
+    "explanation_hi": "नगर पंचायत के सदस्यों का कार्यकाल पांच वर्ष होता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following functions is not under the jurisdiction of Panchayats?",
+    "question_hi": "निम्नलिखित में से कौन सा कार्य पंचायतों की अधिकारिता से बाहर है?",
+    "A_en": "Urban planning", "A_hi": "शहरी योजना",
+    "B_en": "Rural sanitation", "B_hi": "ग्रामीण स्वच्छता",
+    "C_en": "Law enforcement", "C_hi": "कानून की निर्वाह",
+    "D_en": "Agriculture", "D_hi": "कृषि",
+    "answer": "C",
+    "explanation_en": "Panchayats do not have the authority to enforce laws; this is a function of the state and central governments.",
+    "explanation_hi": "पंचायतों के पास कानूनों को लागू करने का अधिकार नहीं है; यह राज्य और केंद्रीय सरकारों का कार्य है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What percentage of seats are reserved for Scheduled Castes and Scheduled Tribes in Panchayats?",
+    "question_hi": "पंचायतों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए कितने प्रतिशत सीटें आरक्षित हैं?",
+    "A_en": "10%", "A_hi": "10%",
+    "B_en": "15%", "B_hi": "15%",
+    "C_en": "20%", "C_hi": "20%",
+    "D_en": "As per the proportion of their population", "D_hi": "उनकी जनसंख्या के अनुपात के अनुसार",
+    "answer": "D",
+    "explanation_en": "Seats for SC/ST in Panchayats are reserved in proportion to their population in the area.",
+    "explanation_hi": "पंचायतों में अनुसूचित जातियों/जनजातियों के लिए आरक्षण उनकी जनसंख्या के अनुपात के अनुसार होता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is responsible for recommending the principles of devolution of powers to Panchayats?",
+    "question_hi": "शक्तियों के अधिकारों को पंचायतों में अपवाह करने के सिद्धांतों की सिफारिश कौन सा निकाय करता है?",
+    "A_en": "State Finance Commission", "A_hi": "राज्य वित्त आयोग",
+    "B_en": "Gram Sabha", "B_hi": "ग्राम सभा",
+    "C_en": "State Election Commission", "C_hi": "राज्य चुनाव आयोग",
+    "D_en": "Zila Parishad", "D_hi": "जिला परिषद",
