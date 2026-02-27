@@ -1,0 +1,143 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Indian Polity focusing on the 73rd and 74th Amendments, specifically about Panchayati Raj and Nagariya Swashasan. Let me start by recalling the key points of these amendments. 
+
+The 73rd Amendment Act of 1992 deals with Panchayati Raj institutions. It provides for the constitution of Panchayats in every state, establishes a three-tier system (Gram Panchayat, Panchayat Samiti, Zila Parishad), and mandates regular elections. It also reserves seats for Scheduled Castes, Scheduled Tribes, and women. The 74th Amendment Act of 1992 is about urban local bodies, introducing Municipal Corporations, Municipal Councils, and Nagar Panchayats. It also emphasizes decentralization of power and functions to urban local governments.
+
+For each question, I need to ensure that the subject and topic are correctly specified. The questions should test understanding of the structure, provisions, and implications of both amendments. Let me brainstorm potential topics for each question.
+
+1. The constitutional amendments that introduced Panchayati Raj and Nagariya Swashasan.
+2. The tiers in Panchayati Raj system.
+3. Reservation of seats for women in Panchayats.
+4. The number of elected members in a Gram Panchayat.
+5. The head of a Gram Panchayat.
+6. The level at which the 74th Amendment applies.
+7. Urban local government bodies.
+8. Functions devolved to urban local bodies.
+9. The minimum population required for a Municipal Corporation according to the 74th Amendment.
+10. The authority to define the structure of urban local bodies.
+
+Now, I need to frame each question in both Hindi and English, providing options in both languages. The answers should be accurate, with explanations in both languages. Let me verify each point for accuracy.
+
+For example, the 73rd Amendment was in 1992. The three tiers are Gram Panchayat, Panchayat Samiti, and Zila Parishad. Women have at least one-third reservation. The head of Gram Panchayat is Sarpanch. The 74th Amendment deals with urban areas. Municipal Corporations are for larger urban areas, and the minimum population is around 3 million. The State Government defines the structure of urban local bodies.
+
+I need to make sure that the options are plausible and that the correct answer is clearly the best choice. Also, explanations should clarify why the answer is correct, referencing the amendments as needed.
+
+Let me start drafting each question step by step, checking for any errors and ensuring the JSON structure matches the example provided. Each question must have subject, topic, question in both languages, options in both languages, answer, and explanations in both Hindi and English.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+    "question_hi": "भारत में पंचायती राज प्रणाली किस संविधान संशोधन द्वारा पेश की गई थी?",
+    "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+    "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+    "C_en": "61st Amendment", "C_hi": "61वां संशोधन",
+    "D_en": "59th Amendment", "D_hi": "59वां संशोधन",
+    "answer": "A",
+    "explanation_en": "The 73rd Constitutional Amendment Act of 1992 introduced the Panchayati Raj system to establish democratic local governance in rural areas.",
+    "explanation_hi": "1992 का 73वां संविधान संशोधन अध्यादेश ग्रामीण क्षेत्रों में लोकतांत्रिक स्थानीय शासन स्थापित करने के लिए पंचायती राज प्रणाली पेश किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum number of elected members required in a Gram Panchayat under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत एक ग्राम पंचायत में निर्वाचित सदस्यों की न्यूनतम संख्या क्या है?",
+    "A_en": "3", "A_hi": "3",
+    "B_en": "5", "B_hi": "5",
+    "C_en": "7", "C_hi": "7",
+    "D_en": "10", "D_hi": "10",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates that a Gram Panchayat must have at least 3 elected members to ensure effective local governance.",
+    "explanation_hi": "73वें संशोधन में यह आवश्यकता है कि ग्राम पंचायत में कम से कम 3 निर्वाचित सदस्य होने चाहिए जिससे स्थानीय शासन प्रभावी हो सके।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which body is the apex body at the district level in the Panchayati Raj system?",
+    "question_hi": "पंचायती राज प्रणाली में जिला स्तर पर शीर्ष निकाय कौन-सा है?",
+    "A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+    "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+    "C_en": "Zila Parishad", "C_hi": "जिला परिषद्",
+    "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+    "answer": "C",
+    "explanation_en": "Zila Parishad serves as the apex body at the district level in the Panchayati Raj system, overseeing the functioning of lower-tier panchayats.",
+    "explanation_hi": "जिला परिषद् पंचायती राज प्रणाली में जिला स्तर पर शीर्ष निकाय है, जो निचली स्तर की पंचायतों के कार्यों की निगरानी करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the reservation of seats for women in Panchayati Raj institutions as per the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार पंचायती राज संस्थानों में महिलाओं के लिए सीटों की आरक्षित संख्या क्या है?",
+    "A_en": "One-third", "A_hi": "एक-तिहाई",
+    "B_en": "One-fourth", "B_hi": "एक-चौथाई",
+    "C_en": "50%", "C_hi": "50%",
+    "D_en": "No reservation", "D_hi": "कोई आरक्षण नहीं",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates a minimum of one-third reservation for women in all elected positions of Panchayati Raj institutions.",
+    "explanation_hi": "73वें संशोधन में यह आवश्यकता है कि पंचायती राज संस्थानों की सभी निर्वाचित पदों में महिलाओं के लिए कम से कम एक-तिहाई सीटों का आरक्षण हो।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a tier in the Panchayati Raj system?",
+    "question_hi": "निम्नलिखित में से कौन-सा पंचायती राज प्रणाली में एक स्तर नहीं है?",
+    "A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+    "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+    "C_en": "Zila Parishad", "C_hi": "जिला परिषद्",
+    "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+    "answer": "D",
+    "explanation_en": "Municipal Corporation is part of urban local governance under the 74th Amendment, not the Panchayati Raj system.",
+    "explanation_hi": "नगर निगम 74वें संशोधन के तहत नगरीय स्थानीय शासन का हिस्सा है, न कि पंचायती राज प्रणाली का।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the primary objective of the 74th Constitutional Amendment Act?",
+    "question_hi": "74वें संविधान संशोधन अधिनियम का मुख्य उद्देश्य क्या है?",
+    "A_en": "To strengthen the Panchayati Raj system", "A_hi": "पंचायती राज प्रणाली को मजबूत करना",
+    "B_en": "To establish urban local self-government", "B_hi": "नगरीय स्वशासन स्थापित करना",
+    "C_en": "To abolish local governance", "C_hi": "स्थानीय शासन को समाप्त करना",
+    "D_en": "To centralize urban administration", "D_hi": "नगरीय प्रशासन को केंद्रीकृत करना",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act aims to establish urban local self-government through Municipal Corporations, Municipal Councils, and Nagar Panchayats.",
+    "explanation_hi": "74वें संशोधन अधिनियम का उद्देश्य नगर निगम, नगर परिषद और नगर पंचायतों के माध्यम से नगरीय स्वशासन स्थापित करना है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which authority defines the structure of urban local bodies under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के तहत नगरीय स्थानीय निकायों की संरचना कौन निर्धारित करता है?",
+    "A_en": "Union Government", "A_hi": "संघ सरकार",
+    "B_en": "State Government", "B_hi": "राज्य सरकार",
+    "C_en": "Local Self-Governance Department", "C_hi": "स्थानीय स्वशासन विभाग",
+    "D_en": "Constituent Assembly", "D_hi": "संविधान सभा",
+    "answer": "B",
+    "explanation_en": "The structure and functions of urban local bodies are defined by the respective State Governments under the 74th Amendment.",
+    "explanation_hi": "74वें संशोधन के तहत नगरीय स्थानीय निकायों की संरचना और कार्य अपने राज्य सरकारों द्वारा परिभाषित किए जाते हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum population required for a Municipal Corporation according to the 74th Amendment?",
+    "question_hi": "74वें संशोधन के अनुसार एक नगर निगम के लिए आवश्यक न्यूनतम जनसंख्या क्या है?",
+    "A_en": "10 lakhs", "A_hi": "10 लाख",
+    "B_en": "5 lakhs", "B_hi": "5 लाख",
+    "C_en": "3 lakhs", "C_hi": "3 लाख",
+    "D_en": "1 lakh", "D_hi": "1 लाख",
+    "answer": "A",
+    "explanation_en": "The 74th Amendment specifies that a Municipal Corporation should be established for urban areas with a minimum population of 10 lakhs.",
+    "explanation_hi": "74वें संशोधन में यह निर्धारित किया गया है कि नगर निगम 10 लाख जनसंख्या वाले नगरीय क्षेत्रों के लिए स्थापित किए जाएं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a function of urban local bodies as per the 74th Amendment?",
+    "question_hi": "74वें संशोधन के अनुसार निम्नलिखित में से कौन-सा नगरीय स्थानीय निकायों का कार्य नहीं है?",
+    "A_en": "Urban planning", "A_hi": "शहरी योजना",
+    "B_en": "Public health", "B_hi": "जन स्वास्थ्य",
+    "C_en": "Law and order", "C_hi": "कानून और व्यवस्था",
+    "D_en": "Water supply", "D_hi": "पानी की आपूर्ति",
+    "answer": "C",
+    "explanation_en": "Law and order (maintenance of public
