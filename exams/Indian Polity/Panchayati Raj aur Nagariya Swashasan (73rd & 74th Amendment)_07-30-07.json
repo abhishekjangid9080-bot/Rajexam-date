@@ -1,0 +1,151 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the 73rd and 74th Amendments to the Indian Constitution, focusing on Panchayati Raj and Nagariya Swashasan. Let me start by recalling the key points of these amendments.
+
+The 73rd Amendment Act of 1992 deals with Panchayati Raj institutions, while the 74th Amendment Act of 1992 addresses urban local governance. Both came into effect on April 24, 1993. The 73rd Amendment provides for the establishment of Panchayats at the village, intermediate, and district levels with elected representatives. It mandates regular elections, reservation of seats for SCs, STs, and OBCs, and women. The 74th Amendment does something similar for urban areas, creating Municipalities with elected representatives.
+
+Now, I need to form questions covering these aspects. Let me list possible topics:
+
+1. Introduction of 73rd and 74th Amendments.
+2. Levels of Panchayats (Gram Sabha, Panchayat at village, intermediate, district levels).
+3. Reservation for SCs, STs, and women.
+4. Election details and duration.
+5. Powers and functions of Panchayats and Municipalities.
+6. Difference between the two amendments.
+7. Key features of each amendment.
+8. Role of Gram Sabha.
+9. Constitutional provisions and articles involved.
+10. Implementation dates and key committees.
+
+Let me start drafting questions. First, confirm the dates. The 73rd and 74th Amendments were passed in 1992 and came into effect in 1993. The first question could be about the year they were passed.
+
+Next, the structure of Panchayats. The 73rd Amendment establishes three tiers: village, intermediate, and district. So a question on the number of tiers. Similarly, for the 74th Amendment, Municipalities have three types: Nagar Panchayat, Municipal Council, and Municipal Corporation. A question on the three types.
+
+Reservation of seats for women under the 73rd Amendment is at least one-third (1/3). A question on that. Also, the 74th Amendment also has similar reservations.
+
+The Gram Sabha is the foundation of the Panchayati Raj system. A question on its role.
+
+Elections for Panchayats are to be held every five years. A question on the term duration.
+
+The 73rd Amendment lists 29 subjects in the Eleventh Schedule for Panchayats to function. A question on the number of subjects.
+
+The 74th Amendment includes 18 subjects in the Twelfth Schedule for Municipalities. Another question on that.
+
+The 73rd Amendment mandates the constitution of District Planning Committees. A question on that.
+
+Difference between the two amendments: one is for rural, the other urban.
+
+Constitutional article references: 73rd and 74th Amendments are under Articles 243B-ZP and 243ZA-243ZT respectively.
+
+Now, I need to structure these into 10 questions, ensuring they cover key points and are in the required format. Each question must have options in both Hindi and English, and explanations in both languages. Let me check for accuracy. For example, the 73rd Amendment's implementation date is April 24, 1993. The Gram Sabha is the foundational body. The number of subjects in the Eleventh Schedule is 29. The reservation for women is at least one-third. The three tiers are village, intermediate, district. The term is five years. The District Planning Committee is under the 73rd Amendment. The 74th Amendment's Twelfth Schedule has 18 subjects. The difference is rural vs urban. The constitutional article is Article 243 for the 73rd and 243ZA for the 74th.
+
+Let me make sure each question is distinct and covers different aspects. Also, check for any possible overlaps or errors. For example, the first question about the year passed, the second about the number of tiers, the third about the Gram Sabha, the fourth about the reservation for women, the fifth about the term duration, the sixth about the Eleventh Schedule subjects, the seventh about the 74th Amendment's Municipalities, the eighth about the District Planning Committee, the ninth about the implementation date, and the tenth about the constitutional article.
+
+I need to phrase the questions clearly, ensuring that the correct answer is unambiguous. The options should include common distractors. For example, in a question about the number of tiers, options could be 2, 3, 4, 5. The correct answer is 3. Similarly, for the Eleventh Schedule, options could be 25, 27, 29, 31. The correct is 29.
+
+Now, translate each question into Hindi accurately. Ensure the explanations are concise and accurate in both languages. Check for any typos or grammatical errors. Once done, compile into the required JSON format without any additional text.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+    "question_hi": "भारत में पंचायती राज प्रणाली को शामिल करने वाला संविधान संशोधन कौन-सा है?",
+    "A_en": "73rd Amendment Act, 1992", "A_hi": "73वां संशोधन अधिनियम, 1992",
+    "B_en": "74th Amendment Act, 1992", "B_hi": "74वां संशोधन अधिनियम, 1992",
+    "C_en": "72nd Amendment Act, 1992", "C_hi": "72वां संशोधन अधिनियम, 1992",
+    "D_en": "75th Amendment Act, 1992", "D_hi": "75वां संशोधन अधिनियम, 1992",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment Act of 1992 introduced the Panchayati Raj system to strengthen local governance in rural areas.",
+    "explanation_hi": "1992 के 73वें संशोधन अधिनियम ने ग्रामीण क्षेत्रों में स्थानीय शासन को सुदृढ़ करने के लिए पंचायती राज प्रणाली शामिल की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many tiers are there in the Panchayati Raj system according to the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार पंचायती राज प्रणाली में कितने स्तर हैं?",
+    "A_en": "Two", "A_hi": "दो",
+    "B_en": "Three", "B_hi": "तीन",
+    "C_en": "Four", "C_hi": "चार",
+    "D_en": "Five", "D_hi": "पांच",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment established a three-tier system: Gram Panchayat (Village), Panchayat Samiti (Intermediate), and Zila Parishad (District).",
+    "explanation_hi": "73वें संशोधन ने तीन स्तरीय प्रणाली स्थापित की: ग्राम पंचायत (गांव), पंचायत समिति (मध्यवर्ती) और जिला परिषद (जिला)।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum reservation of seats for women in local bodies under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत स्थानीय निकायों में महिलाओं के लिए न्यूनतम आरक्षण क्या है?",
+    "A_en": "25%", "A_hi": "25%",
+    "B_en": "30%", "B_hi": "30%",
+    "C_en": "33%", "C_hi": "33%",
+    "D_en": "50%", "D_hi": "50%",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment mandates a reservation of at least one-third (33%) of seats for women in local bodies.",
+    "explanation_hi": "73वें संशोधन में स्थानीय निकायों में महिलाओं के लिए न्यूनतम एक-तिहाई (33%) सीटों के आरक्षण की आवश्यकता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the term of office for Panchayats according to the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के अनुसार पंचायतों का कार्यकाल कितना होता है?",
+    "A_en": "3 years", "A_hi": "3 वर्ष",
+    "B_en": "4 years", "B_hi": "4 वर्ष",
+    "C_en": "5 years", "C_hi": "5 वर्ष",
+    "D_en": "6 years", "D_hi": "6 वर्ष",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment stipulates a five-year term for Panchayats, with elections held periodically.",
+    "explanation_hi": "73वें संशोधन में पंचायतों के लिए पांच वर्ष के कार्यकाल का निर्धारण किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which committee recommended the implementation of the Panchayati Raj system in India?",
+    "question_hi": "भारत में पंचायती राज प्रणाली के कार्यान्वयन का सिफारिश किस समिति ने की थी?",
+    "A_en": "Ashok Mehta Committee", "A_hi": "अशोक मेहता समिति",
+    "B_en": "Balwant Rai Mehta Committee", "B_hi": "बलवंत राय मेहता समिति",
+    "C_en": "Gadgil Committee", "C_hi": "गाडगिल समिति",
+    "D_en": "L.M. Singhvi Committee", "D_hi": "एल.एम. सिंघवी समिति",
+    "answer": "B",
+    "explanation_en": "The Balwant Rai Mehta Committee (1986) recommended the establishment of the Panchayati Raj system in India.",
+    "explanation_hi": "बलवंत राय मेहता समिति (1986) ने भारत में पंचायती राज प्रणाली की स्थापना की सिफारिश की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "How many subjects are listed in the Eleventh Schedule of the Constitution for Panchayats?",
+    "question_hi": "संविधान की ग्यारहवीं अनुसूची में पंचायतों के लिए कितने विषयों को सूचित किया गया है?",
+    "A_en": "25", "A_hi": "25",
+    "B_en": "27", "B_hi": "27",
+    "C_en": "29", "C_hi": "29",
+    "D_en": "31", "D_hi": "31",
+    "answer": "C",
+    "explanation_en": "The Eleventh Schedule lists 29 subjects that Panchayats can exercise functions and powers.",
+    "explanation_hi": "ग्यारहवीं अनुसूची में 29 विषयों की सूची है जिन पर पंचायतें कार्य कर सकती हैं।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which amendment introduced the concept of Municipalities for urban local governance?",
+    "question_hi": "शहरी स्थानीय शासन के लिए नगर निकायों की अवधारणा किस संशोधन ने शामिल की?",
+    "A_en": "73rd Amendment Act, 1992", "A_hi": "73वां संशोधन अधिनियम, 1992",
+    "B_en": "74th Amendment Act, 1992", "B_hi": "74वां संशोधन अधिनियम, 1992",
+    "C_en": "75th Amendment Act, 1994", "C_hi": "75वां संशोधन अधिनियम, 1994",
+    "D_en": "76th Amendment Act, 1995", "D_hi": "76वां संशोधन अधिनियम, 1995",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act of 1992 introduced Municipalities for urban local governance to decentralize authority.",
+    "explanation_hi": "1992 के 74वें संशोधन अधिनियम ने शहरी स्थानीय शासन के लिए नगर निकायों को शामिल किया।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum reservation of seats for women in urban local bodies under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों में महिलाओं के लिए न्यूनतम आरक्षण क्या है?",
+    "A_en": "25%", "A_hi": "25%",
+    "B_en": "30%", "B_hi": "30%",
+    "C_en": "33%", "C_hi": "33%",
+    "D_en": "50%", "D_hi": "50%",
+    "answer": "C",
+    "explanation_en": "The 74th Amendment Act mandates a reservation of at least one-third (33%) of seats for women in urban local bodies.",
+    "explanation_hi": "74वें संशोधन अधिनियम में शहरी स्थानीय निकायों में मह
