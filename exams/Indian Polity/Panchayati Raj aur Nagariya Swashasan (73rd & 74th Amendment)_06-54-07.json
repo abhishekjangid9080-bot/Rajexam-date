@@ -1,0 +1,136 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Indian Polity covering the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. Let's start by recalling what these amendments entail. The 73rd Amendment Act of 1992 introduced the Panchayati Raj system, while the 74th Amendment Act of 1992 focused on urban local government.
+
+First, I should outline the key points for each amendment. For the 73rd, important aspects include the three-tier system (Zila Parishad, Panchayat Samiti, Gram Panchayat), reservation of seats for SC/ST and women, and their functions. The 74th Amendment deals with urban governance structures like Municipal Corporations, Municipal Councils, and Municipal Committees, along with their powers and responsibilities.
+
+Now, I need to frame questions that test understanding of these elements. Let me think of possible question types. For example, who schedules elections for Panchayats? What is the minimum age for contesting local bodies? Which amendment introduced these systems? Also, there might be questions on the functions, structure, and provisions like reservations.
+
+I should ensure each question has four options with one correct answer. The explanations need to clarify why the correct option is right and why others are not. Also, the language must be in both Hindi and English as per the instructions. Let me check for any common misconceptions. For instance, some might confuse the 73rd and 74th Amendment years or their respective focuses.
+
+I need to make sure the difficulty level is appropriate for Rajasthan State Exams, SSC, and Railway exams. The questions shouldn't be too technical but should require a good grasp of the amendments. Let me start drafting each question step by step, ensuring all key points are covered and the JSON structure is followed strictly without any markdown. Double-checking the explanations and options for accuracy is crucial here.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the Panchayati Raj system in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान संशोधन पेश किया?",
+        "A_en": "72nd Amendment Act", "A_hi": "72वां संशोधन अध्यादेश",
+        "B_en": "73rd Amendment Act", "B_hi": "73वां संशोधन अध्यादेश",
+        "C_en": "74th Amendment Act", "C_hi": "74वां संशोधन अध्यादेश",
+        "D_en": "71st Amendment Act", "D_hi": "71वां संशोधन अध्यादेश",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act of 1992 introduced the Panchayati Raj system to strengthen rural local governance.",
+        "explanation_hi": "1992 के 73वें संशोधन अध्यादेश ने पंचायती राज व्यवस्था पेश करके ग्रामीण स्थानीय शासन को मजबूत किया।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under which amendment were urban local bodies like Municipal Corporations established?",
+        "question_hi": "शहरी स्थानीय निकायों, जैसे नगर निगम, की स्थापना किस संशोधन के तहत की गई थी?",
+        "A_en": "72nd Amendment Act", "A_hi": "72वां संशोधन अध्यादेश",
+        "B_en": "73rd Amendment Act", "B_hi": "73वां संशोधन अध्यादेश",
+        "C_en": "74th Amendment Act", "C_hi": "74वां संशोधन अध्यादेश",
+        "D_en": "70th Amendment Act", "D_hi": "70वां संशोधन अध्यादेश",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment Act of 1992 established urban local bodies like Municipal Corporations, Councils, and Committees.",
+        "explanation_hi": "1992 के 74वें संशोधन अध्यादेश ने शहरी स्थानीय निकायों, जैसे नगर निगम, परिषद और समितियों की स्थापना की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age required to contest elections for a Panchayat or Municipal body?",
+        "question_hi": "पंचायत या नगर निकाय के चुनाव में उम्मीदवार बनने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "21 years", "A_hi": "21 वर्ष",
+        "B_en": "25 years", "B_hi": "25 वर्ष",
+        "C_en": "18 years", "C_hi": "18 वर्ष",
+        "D_en": "20 years", "D_hi": "20 वर्ष",
+        "answer": "A",
+        "explanation_en": "The 73rd and 74th Amendments set 21 years as the minimum age for contesting local body elections.",
+        "explanation_hi": "73वें और 74वें संशोधनों ने स्थानीय निकाय चुनाव में उम्मीदवार बनने के लिए 21 वर्ष की न्यूनतम आयु निर्धारित की।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of a Gram Panchayat?",
+        "question_hi": "निम्नलिखित में से कौन-सा एक ग्राम पंचायत का कार्य नहीं है?",
+        "A_en": "Maintenance of local roads", "A_hi": "स्थानीय सड़कों का रखरखाव",
+        "B_en": "Provision of clean water", "B_hi": "साफ पानी की आपूर्ति",
+        "C_en": "Enforcement of income tax", "C_hi": "आयकर का अमल करना",
+        "D_en": "Primary education planning", "D_hi": "प्राथमिक शिक्षा योजना",
+        "answer": "C",
+        "explanation_en": "Gram Panchayats handle local infrastructure and basic services but not income tax enforcement, which is a central government function.",
+        "explanation_hi": "ग्राम पंचायत स्थानीय बुनियादी ढांचे और आधारभूत सेवाओं के लिए जिम्मेदार हैं, लेकिन आयकर अमल एक केंद्र सरकार का कार्य है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of a Panchayat or Municipal body after elections?",
+        "question_hi": "चुनाव के बाद एक पंचायत या नगर निकाय की कार्यकाल क्या होती है?",
+        "A_en": "3 years", "A_hi": "3 साल",
+        "B_en": "4 years", "B_hi": "4 साल",
+        "C_en": "5 years", "C_hi": "5 साल",
+        "D_en": "6 years", "D_hi": "6 साल",
+        "answer": "C",
+        "explanation_en": "The 73rd and 74th Amendments stipulate a 5-year term for local bodies, renewable after elections.",
+        "explanation_hi": "73वें और 74वें संशोधनों में स्थानीय निकायों के लिए 5 साल के कार्यकाल का प्रावधान है, जो चुनाव के बाद नवीनीकृत होता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which level of Panchayat operates at the district level?",
+        "question_hi": "कौन-सा पंचायत स्तर जिला स्तर पर कार्य करता है?",
+        "A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+        "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+        "C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+        "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+        "answer": "C",
+        "explanation_en": "The Zila Parishad is the highest tier of the Panchayati Raj system operating at the district level.",
+        "explanation_hi": "जिला परिषद पंचायती राज व्यवस्था का सबसे ऊपरी स्तर है जो जिला स्तर पर कार्य करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following reservations is mandated by the 73rd Amendment for Panchayats?",
+        "question_hi": "निम्नलिखित में से कौन-सा आरक्षण 73वें संशोधन द्वारा पंचायतों के लिए आवश्यक है?",
+        "A_en": "Reservations for women", "A_hi": "महिलाओं के लिए आरक्षण",
+        "B_en": "Reservations for SC/ST", "B_hi": "अनुसूचित जाति/अनुसूचित जनजाति के लिए आरक्षण",
+        "C_en": "Reservations for OBC", "C_hi": "अनुसूचित पिछड़ा वर्ग के लिए आरक्षण",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "The 73rd Amendment mandates reservations for SC/ST, women, and OBCs in Panchayats to ensure inclusive representation.",
+        "explanation_hi": "73वें संशोधन द्वारा पंचायतों में अनुसूचित जाति/जनजाति, महिलाओं और अनुसूचित पिछड़ा वर्ग के लिए आरक्षण आवश्यक है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Who schedules the elections for Panchayats and Municipal bodies?",
+        "question_hi": "पंचायतों और नगर निकायों के चुनाव किसके द्वारा निर्धारित किए जाते हैं?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Election Commission of India", "B_hi": "भारत चुनाव आयोग",
+        "C_en": "District Collector", "C_hi": "जिला अधिकारी",
+        "D_en": "Ministry of Home Affairs", "D_hi": "गृह मंत्रालय",
+        "answer": "A",
+        "explanation_en": "The State Election Commission is responsible for conducting and scheduling elections for local bodies.",
+        "explanation_hi": "राज्य चुनाव आयोग स्थानीय निकायों के चुनाव कराने और निर्धारित करने के लिए जिम्मेदार है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which authority can dissolve a Gram Panchayat?",
+        "question_hi": "एक ग्राम पंचायत को भंग करने का अधिकार किसके पास है?",
+        "A_en": "State Government", "A_hi": "राज्य सरकार",
+        "B_en": "District Magistrate", "B_hi": "जिला अधिकारी",
+        "C_en": "Gram Panchayat itself", "C_hi": "ग्राम पंचायत खुद",
+        "D_en": "Gram Sabha", "D_hi": "ग्राम सभा",
+        "answer": "A",
+        "explanation_en": "The State Government has the authority to dissolve a Gram Panchayat in specific legal circumstances.",
+        "explanation_hi": "राज्य सरकार विशिष्ट कानूनी परिस्थितियों में ग्राम पंचायत को भंग करने का अधिकार रखती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a function of the Gram Sabha under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत ग्राम सभा का कौन-सा कार्य है?",
+        "A_en": "Approving the annual budget of the Gram Panchayat", "A_hi": "ग्राम पंचाय
