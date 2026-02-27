@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Aavart Sarani ke Mool Siddhant (Periodic Table Basics) in both Hindi and English. Let me start by recalling the key concepts. The periodic table's fundamentals include elements, atomic number, periods, groups, and maybe some basic properties like valency, atomic size trends, and types of elements (metals, non-metals, etc.).
+
+First, I'll brainstorm possible questions. Maybe start with the number of elements in the periodic table. Wait, but the number changes as new elements are added. Hmm, I should check the latest info. As of now, there are 118 elements. So question one could be about that.
+
+Next, the classification of elements. Mendeleev's periodic table versus the modern one based on atomic number. A question on the basis of the modern periodic table (atomic number vs atomic mass). That's a common point of confusion.
+
+Then, groups and periods. How many groups and periods are there? Modern periodic table has 18 groups and 7 periods. Need to make sure that's correct. Also, maybe a question on the group number corresponding to valence electrons for s-block elements.
+
+Valency in the periodic table. For example, elements in the same group have similar properties. So valency might repeat every period. Maybe a question on the valency trend in a group.
+
+Atomic size trends. Atomic radius decreases across a period and increases down a group. So a question on which element has a larger atomic size between two given elements.
+
+Electronegativity trend. Increases across a period, decreases down a group. Another question on comparing electronegativity of elements.
+
+Metals, non-metals, and metalloids. Maybe a question on where non-metals are located in the periodic table—right side, top right.
+
+Lanthanoids and Actinoids. A question on where these series are placed in the periodic table.
+
+Another question could be about the basis of Mendeleev's table (atomic mass) versus modern (atomic number). That's a key difference.
+
+Also, maybe a question about the noble gases' group number (Group 18). Or alkali metals in Group 1.
+
+Now, I need to ensure that each question has four options, with the correct answer and explanations in both languages. Let me structure each question according to the required JSON format. Let me check the example again to make sure I follow the structure correctly. Each question should have subject, topic, question in English and Hindi, four options in both languages, the answer key, and explanations in both languages.
+
+I need to avoid any markdown and use proper Hindi transliteration. Also, ensure that the difficulty level is set for Rajasthan State Exams, which are usually moderate. Let me start drafting each question step by step, making sure the options are plausible and the explanations are concise.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "How many elements are currently present in the modern periodic table?",
+    "question_hi": "वर्तमान आवर्त सारणी में कितने तत्व मौजूद हैं?",
+    "A_en": "114", "A_hi": "114",
+    "B_en": "116", "B_hi": "116",
+    "C_en": "118", "C_hi": "118",
+    "D_en": "120", "D_hi": "120",
+    "answer": "C",
+    "explanation_en": "The modern periodic table currently contains 118 confirmed elements.",
+    "explanation_hi": "वर्तमान आवर्त सारणी में 118 पुष्टि किए गए तत्व हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What is the basis of the modern periodic table?",
+    "question_hi": "आधुनिक आवर्त सारणी के आधार क्या है?",
+    "A_en": "Atomic mass", "A_hi": "परमाणु द्रव्यमान",
+    "B_en": "Atomic number", "B_hi": "परमाणु क्रमांक",
+    "C_en": "Valency", "C_hi": "संयोजकता",
+    "D_en": "Density", "D_hi": "घनत्व",
+    "answer": "B",
+    "explanation_en": "The modern periodic table is arranged based on atomic number (number of protons).",
+    "explanation_hi": "आधुनिक आवर्त सारणी परमाणु क्रमांक (प्रोटॉन की संख्या) के आधार पर व्यवस्थित है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "How many groups are there in the modern periodic table?",
+    "question_hi": "आधुनिक आवर्त सारणी में कितने समूह हैं?",
+    "A_en": "16", "A_hi": "16",
+    "B_en": "17", "B_hi": "17",
+    "C_en": "18", "C_hi": "18",
+    "D_en": "20", "D_hi": "20",
+    "answer": "C",
+    "explanation_en": "The modern periodic table has 18 vertical columns called groups.",
+    "explanation_hi": "आधुनिक आवर्त सारणी में 18 ऊर्ध्वाधर स्तंभ हैं जिन्हें समूह कहा जाता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which element has the highest atomic number in the periodic table?",
+    "question_hi": "आवर्त सारणी में सबसे अधिक परमाणु क्रमांक वाला तत्व कौन-सा है?",
+    "A_en": "Oganesson", "A_hi": "ओगानेसान",
+    "B_en": "Ununoctium", "B_hi": "यूनियोनॉक्टियम",
+    "C_en": "Francium", "C_hi": "फ्रैंशियम",
+    "D_en": "Nihonium", "D_hi": "निहोनियम",
+    "answer": "A",
+    "explanation_en": "Oganesson (Og) has the highest atomic number (118) in the periodic table.",
+    "explanation_hi": "ओगानेसान (Og) आवर्त सारणी में सबसे अधिक परमाणु क्रमांक (118) वाला तत्व है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which of the following elements belongs to Group 18?",
+    "question_hi": "निम्नलिखित में से कौन-सा तत्व समूह 18 से संबंधित है?",
+    "A_en": "Oxygen", "A_hi": "ऑक्सीजन",
+    "B_en": "Nitrogen", "B_hi": "नाइट्रोजन",
+    "C_en": "Neon", "C_hi": "नियॉन",
+    "D_en": "Chlorine", "D_hi": "क्लोरीन",
+    "answer": "C",
+    "explanation_en": "Group 18 contains noble gases, and Neon (Ne) is one of them.",
+    "explanation_hi": "समूह 18 में उपयोगी गैसें शामिल हैं, जिसमें नियॉन (Ne) एक है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What is the trend of atomic size in a period?",
+    "question_hi": "एक आवर्त में परमाणु आकार की प्रवृत्ति क्या है?",
+    "A_en": "Increases from left to right", "A_hi": "बाएँ से दाएँ बढ़ता है",
+    "B_en": "Decreases from left to right", "B_hi": "बाएँ से दाएँ घटता है",
+    "C_en": "Remains constant", "C_hi": "अपरिवर्तित रहता है",
+    "D_en": "First increases then decreases", "D_hi": "पहले बढ़ता है फिर घटता है",
+    "answer": "B",
+    "explanation_en": "Atomic size decreases across a period due to increasing nuclear charge.",
+    "explanation_hi": "एक आवर्त में नाभिकीय आवेश बढ़ने के कारण परमाणु आकार घटता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which element has the highest electronegativity in the periodic table?",
+    "question_hi": "आवर्त सारणी में किस तत्व में सबसे अधिक विद्युतऋणता है?",
+    "A_en": "Fluorine", "A_hi": "फ्लोरीन",
+    "B_en": "Oxygen", "B_hi": "ऑक्सीजन",
+    "C_en": "Chlorine", "C_hi": "क्लोरीन",
+    "D_en": "Nitrogen", "D_hi": "नाइट्रोजन",
+    "answer": "A",
+    "explanation_en": "Fluorine has the highest electronegativity value of 4.0 on the Pauling scale.",
+    "explanation_hi": "फ्लोरीन के पास पॉलिंग पैमाने पर 4.0 का सबसे अधिक विद्युतऋणता मान है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which of the following is a metalloid?",
+    "question_hi": "निम्नलिखित में से कौन-सा धातुमान है?",
+    "A_en": "Sulfur", "A_hi": "सल्फर",
+    "B_en": "Silicon", "B_hi": "सिलिकॉन",
+    "C_en": "Phosphorus", "C_hi": "फॉस्फोरस",
+    "D_en": "Chlorine", "D_hi": "क्लोरीन",
+    "answer": "B",
+    "explanation_en": "Silicon is a metalloid with properties intermediate between metals and non-metals.",
+    "explanation_hi": "सिलिकॉन एक धातुमान है जिसके गुण धातुओं और अधातुओं के बीच होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "Which group in the periodic table contains alkali metals?",
+    "question_hi": "आवर्त सारणी में कौन-सा समूह क्षार धातुओं को शामिल करता है?",
+    "A_en": "Group 1", "A_hi": "समूह 1",
+    "B_en": "Group 2", "B_hi": "समूह 2",
+    "C_en": "Group 17", "C_hi": "समूह 17",
+    "D_en": "Group 18", "D_hi": "समूह 18",
+    "answer": "A",
+    "explanation_en": "Group 1 elements are known as alkali metals (e.g., Lithium, Sodium).",
+    "explanation_hi": "समूह 1 तत्व क्षार धातुओं के रूप में जाने जाते हैं (जैसे लिथियम, सोडियम)।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Aavart Sarani ke Mool Siddhant (Periodic Table Basics)",
+    "question_en": "What is the valency of elements in Group 1?",
+    "question_hi": "समूह 1 के तत्वों की संयोजकता क्या है?",
+    "A_en": "1", "A_hi": "1",
+    "B_en": "2", "B_hi": "2",
+    "C_en": "3", "C_hi": "3",
+    "D_en": "4", "D_hi": "4",
+    "answer": "A",
+    "explanation_en": "Elements in Group 1 have a valency of 1 due to having one valence electron.",
+    "explanation_hi": "समूह 1 के तत्वों में एक संयोजी इलेक्ट्रॉन होने के कारण संयोजकता 1 होती है।"
+  }
+]
