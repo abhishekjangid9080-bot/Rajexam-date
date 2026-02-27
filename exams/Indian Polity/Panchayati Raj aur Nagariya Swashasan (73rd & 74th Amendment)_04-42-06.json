@@ -1,0 +1,120 @@
+<think>
+Okay, let's start by understanding the user's request. They want 10 high-quality MCQs on Indian Polity, specifically focusing on the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. The questions need to be in both Hindi and English, with explanations in both languages as well. The structure should follow the provided JSON format strictly.
+
+First, I need to recall the key points of the 73rd and 74th Amendments. The 73rd Amendment, passed in 1992, relates to Panchayats (rural local governments), while the 74th Amendment deals with Nagar Panchayats (urban local governments). Both amendments aim to decentralize governance, empower local bodies, and ensure reserved seats for marginalized groups.
+
+I should cover various aspects like the constitutional amendments, reservation of seats, powers of the Panchayats/Municipalities, financial provisions, and implementation details. Each question should test understanding of these elements. Let me brainstorm possible topics:
+
+1. Constitution Amendment Acts (73rd and 74th) - when enacted, key provisions.
+2. Reserved seats for SCs, STs, and OBCs.
+3. Powers and functions of Panchayats and Municipalities.
+4. Financial independence, such as the role of Finance Commissions.
+5. Duration and elections.
+6. Disqualification of members.
+7. Roles of Gram Sabhas.
+8. Constitutional provisions for urban local bodies.
+9. Implementation challenges or features.
+10. Difference between 73rd and 74th Amendments.
+
+Now, for each question, I need to frame it in both languages. The options should be accurate, with one correct answer. Explanations should clarify why the correct option is right and briefly touch on the other options. Let me start drafting each question step by step, ensuring they are distinct and cover a range of difficulty levels. Also, check that the options are plausible but only one is correct. Avoid repetition and ensure clarity. Let me verify each point to avoid inaccuracies, like the years of amendments, correct reservation percentages, and roles of different bodies.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which Constitution Amendment Act provided constitutional status to Panchayati Raj institutions?",
+        "question_hi": "कौन सा संविधान संशोधन अधिनियम पंचायती राज संस्थाओं को संवैधानिक दर्जा प्रदान करता है?",
+        "A_en": "73rd Amendment Act, 1992", "A_hi": "73वां संशोधन अधिनियम, 1992",
+        "B_en": "72nd Amendment Act, 1992", "B_hi": "72वां संशोधन अधिनियम, 1992",
+        "C_en": "74th Amendment Act, 1992", "C_hi": "74वां संशोधन अधिनियम, 1992",
+        "D_en": "71st Amendment Act, 1992", "D_hi": "71वां संशोधन अधिनियम, 1992",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992, established the constitutional status for Panchayati Raj institutions to decentralize governance and strengthen rural local governments.",
+        "explanation_hi": "73वां संविधान संशोधन अधिनियम, 1992, पंचायती राज संस्थाओं को संवैधानिक दर्जा प्रदान करता है ताकि शासन का विकेंद्रीकरण हो सके और ग्रामीण स्थानीय शासन मजबूत हो।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats are reserved for women in local governance bodies under the 73rd and 74th Amendments?",
+        "question_hi": "73वें और 74वें संशोधनों के तहत स्थानीय शासन संस्थाओं में महिलाओं के लिए आरक्षित सीटों का प्रतिशत क्या है?",
+        "A_en": "30%", "A_hi": "30%",
+        "B_en": "33%", "B_hi": "33%",
+        "C_en": "35%", "C_hi": "35%",
+        "D_en": "50%", "D_hi": "50%",
+        "answer": "B",
+        "explanation_en": "The 73rd and 74th Amendments reserve at least 33% of seats for women in all local governance bodies to promote gender equality and women's participation in decision-making.",
+        "explanation_hi": "73वें और 74वें संशोधनों में सभी स्थानीय शासन संस्थाओं में महिलाओं के लिए कम से कम 33% सीटों के आरक्षण का प्रावधान है, जेंडर समानता को बढ़ावा देने और महिलाओं की निर्णय लेने में भागीदारी को सुनिश्चित करने के लिए।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Gram Sabha as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार निम्नलिखित में से कौन-सा ग्राम सभा का कार्य नहीं है?",
+        "A_en": "Discuss village development plans", "A_hi": "गांव के विकास योजनाओं की चर्चा करना",
+        "B_en": "Supervise the functioning of the Panchayat", "B_hi": "पंचायत के कामकाज की निगरानी करना",
+        "C_en": "Elect the head of the Panchayat", "C_hi": "पंचायत के मुखिया का चुनाव करना",
+        "D_en": "Collect and disburse funds for urban development", "D_hi": "शहरी विकास के लिए धन एकत्रित करना और वितरित करना",
+        "answer": "D",
+        "explanation_en": "The Gram Sabha's functions include discussing village development plans, supervising Panchayat activities, and electing the Panchayat head, but it does not handle urban development funds.",
+        "explanation_hi": "ग्राम सभा के कार्य गांव की विकास योजनाओं की चर्चा करना, पंचायत की गतिविधियों की निगरानी करना और पंचायत मुखिया का चुनाव करना है, लेकिन शहरी विकास के लिए धन एकत्रित या वितरित नहीं करना।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which level of government is responsible for preparing the State Finance Commission to recommend the distribution of funds to Panchayats and Municipalities?",
+        "question_hi": "राज्य वित्त आयोग के निर्माण का जिम्मेदार सरकार का कौन-सा स्तर है, जो पंचायतों और नगर परिषदों में धन वितरण के सुझाव देगा?",
+        "A_en": "Central Government", "A_hi": "केंद्र सरकार",
+        "B_en": "State Government", "B_hi": "राज्य सरकार",
+        "C_en": "Local Self Government", "C_hi": "स्थानीय आत्मनिर्भर शासन",
+        "D_en": "Gram Sabha", "D_hi": "ग्राम सभा",
+        "answer": "B",
+        "explanation_en": "The State Government is responsible for constituting the State Finance Commission, which recommends the distribution of funds between the State and local bodies like Panchayats and Municipalities.",
+        "explanation_hi": "राज्य सरकार राज्य वित्त आयोग के निर्माण के लिए जिम्मेदार है, जो राज्य और पंचायतों और नगर परिषदों जैसी स्थानीय संस्थाओं के बीच धन वितरण के सुझाव देता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for the preparation of district planning in rural areas as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार ग्रामीण क्षेत्रों में जिला योजना तैयार करने के लिए कौन-सी निकाय जिम्मेदार है?",
+        "A_en": "District Planning Committee", "A_hi": "जिला योजना आयोग",
+        "B_en": "Gram Sabha", "B_hi": "ग्राम सभा",
+        "C_en": "Panchayat at the block level", "C_hi": "ब्लॉक स्तर की पंचायत",
+        "D_en": "Zila Parishad", "D_hi": "जिला परिषद",
+        "answer": "A",
+        "explanation_en": "The District Planning Committee is responsible for preparing district-level plans for rural areas, ensuring coordination among Panchayats and alignment with state policies.",
+        "explanation_hi": "जिला योजना आयोग ग्रामीण क्षेत्रों में जिला स्तरीय योजनाएं तैयार करने के लिए जिम्मेदार है, पंचायतों के बीच समन्वय और राज्य नीतियों के समरेखण को सुनिश्चित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under the 74th Amendment Act, which level of urban local government is NOT recognized?",
+        "question_hi": "74वें संशोधन अधिनियम के तहत कौन-सा शहरी स्थानीय शासन स्तर मान्य नहीं है?",
+        "A_en": "Municipal Corporation", "A_hi": "नगर निगम",
+        "B_en": "Municipal Council", "B_hi": "नगर परिषद",
+        "C_en": "Nagar Panchayat", "C_hi": "नगर पंचायत",
+        "D_en": "Gram Panchayat", "D_hi": "ग्राम पंचायत",
+        "answer": "D",
+        "explanation_en": "The 74th Amendment recognizes three tiers of urban local government: Municipal Corporation, Municipal Council, and Nagar Panchayat. Gram Panchayat is a rural institution.",
+        "explanation_hi": "74वें संशोधन में नगर निगम, नगर परिषद और नगर पंचायत के तीन स्तरों को मान्यता दी गई है। ग्राम पंचायत एक ग्रामीण संस्था है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the term of office for members of a Municipal Corporation under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के अनुसार नगर निगम के सदस्यों का कार्यकाल कितना होता है?",
+        "A_en": "3 years", "A_hi": "3 साल",
+        "B_en": "4 years", "B_hi": "4 साल",
+        "C_en": "5 years", "C_hi": "5 साल",
+        "D_en": "6 years", "D_hi": "6 साल",
+        "answer": "C",
+        "explanation_en": "The 74th Amendment Act specifies that members of a Municipal Corporation serve a term of five years, promoting long-term planning and stability in urban governance.",
+        "explanation_hi": "74वें संशोधन अधिनियम में निर्देशित किया गया है कि नगर निगम के सदस्यों का कार्यकाल पांच साल होता है, जो शहरी शासन में लंबे समय तक योजना बनाने और स्थायित्व को बढ़ावा देता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a constitutional provision under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन 73वें संशोधन के तहत संविधानीय उपबंध है?",
+        "A_en": "Reservation of seats for SCs and STs", "A_hi": "एससी और एसटी के लिए सीटों का आरक्षण",
+        "B_en": "Formation of State Finance Commission", "B_hi": "राज्य वित्त आयोग का गठ
