@@ -1,0 +1,42 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is Gross Domestic Product (GDP)?",
+"question_hi": "ग्रॉस ओपनिस्ट क्या है?",
+"A_en": "GDP at factor prices",
+"A_hi": "विभक्ति में अपने पुनरानुमान के साथ",
+"B_en": "GDP at current market prices",
+"B_hi": "विभक्ति में वर्तमान कैमरा में",
+"C_en": "GDP at constant national prices",
+"C_hi": "विभक्ति की आत्मनिष्ट राजनीतिक पैमरों को तिकित नेशनल पैमरों की पैमरों",
+"D_en": "GDP in current international prices",
+"D_hi": "विभक्ति की इंटरनॉलिक पैमरों",
+"answer": "B",
+"explanation_en": "GDP at constant national prices represents the total value of all goods and services produced in a country's economy during a specific period (usually a year), adjusted for price changes.",
+"explanation_hi": "विभक्ति की नेशनल पैमरों के मान रखते हैं परमियां की पैमरों",
+"question_en": "In economics, what is the term ‘Gross Domestic Product’ (GDP)?",
+"question_hi": "श्रुति के मान रखनेशनल पैमरों",
+
+[
+{
+"subject": "Economics",
+"topic": "GDP (Gross Domestic Product)",
+"question_en": "What is the formula used to calculate Gross Domestic Product (GDP)?",
+"question_hi": "श्रुति के मान रखनेशनल पैमरों",
+"A_en": "GDP=(C+I+G+NX)",
+"A_hi": "GDP=श्रुति के मान रखनेशनल पैमरों",
+"B_en": "GDP=GNP",
+"B_hi": "GDP=ग्रॉस नेशनल पैमरों",
+"C_en": "GDP=GDP+IE+FI+FDI",
+"C_hi": "GDP=GDP+ईडीएए+ऑपीए+फाइडीए",
+"D_en": "GDP=NABC (National Accounts)",
+"D_hi": "GDP=NABC (नाय़ंकांट कायक)",
+"answer": "D",
+"explanation_en": "GDP is calculated by adding nominal GDP (NA), Income from abroad (IE), Financial Income (FI), and Foreign Direct Investment (FDI).",
+"explanation_hi": "GDP कलायकरण की मानियत (NA), देश फॉर्वर्जन (IE), वितरित इन्कार्यारणी (FI), aur विद्यापिक द्यारणी (FDI) कलायकरण",
+"explanation_en": "Gross Domestic Product (GDP) is computed by adding nominal GDP (NA), income from abroad (IE), financial income (FI), and foreign direct investment (FDI).",
+"explanation_hi": "ग्रॉस डॉमनशियारणी (GDP) कलायकरण में कलायकरण",
+"answer": "A",
+}
+]
