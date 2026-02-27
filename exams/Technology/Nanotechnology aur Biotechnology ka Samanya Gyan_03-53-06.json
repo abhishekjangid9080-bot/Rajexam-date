@@ -1,0 +1,140 @@
+<think>
+Okay, let's start by understanding the user's request. They need 10 high-quality MCQs on Nanotechnology and Biotechnology in both Hindi and English. The questions should be suitable for Rajasthan State Exams, SSC, and Railway exams. The JSON structure is crucial here, so I need to ensure each question follows the exact format provided.
+
+First, I'll brainstorm topics under Nanotechnology and Biotechnology that are relevant for general knowledge. Topics might include definitions, applications, key technologies, notable scientists, and recent advancements. For each question, I need to create a clear question in both languages, four options (A to D) in both languages, the correct answer, and explanations in both languages.
+
+Let me start with the first question. Maybe a basic definition of Nanotechnology. The options should include correct and common incorrect ones. For example, the correct answer is the study of structures smaller than 100 nanometers. The other options could be related to other technologies or different sizes.
+
+Next, a question on applications of Biotechnology in agriculture. The correct answer would be something like genetically modified crops. The distractors could be unrelated fields like construction or unrelated technologies.
+
+I need to ensure that the questions are of varying difficulty but still appropriate for the target exams. Including a mix of terminology, applications, and notable examples would help. For instance, asking about a key figure in Biotechnology, like Kary Mullis for PCR, would test knowledge of important scientists.
+
+Also, some questions can be about recent awards or recognitions related to these fields. For example, the Nobel Prize in Chemistry for CRISPR technology. This keeps the content current and relevant.
+
+I should check that each question's answer is accurate and that explanations clearly justify the correct choice. Making sure that the translations between Hindi and English are precise is important for clarity. I'll also verify that the options don't have overlapping or ambiguous terms.
+
+Finally, I'll structure each question into the JSON format, ensuring all required fields are present. I'll review the entire set to confirm adherence to the user's specifications and that there are no formatting errors.
+</think>
+
+[
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "What is the primary application of nanotechnology in medicine?",
+        "question_hi": "मेडिसिन में नैनोटेक्नोलॉजी का मुख्य उपयोग क्या है?",
+        "A_en": "Drug delivery systems", "A_hi": "दवा डिलीवरी सिस्टम",
+        "B_en": "Surgical robots", "B_hi": "सर्जिकल रोबोट्स",
+        "C_en": "Diagnostic imaging", "C_hi": "विश्लेषणात्मक छवियाँ",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Nanotechnology is used in drug delivery, surgical robots, and diagnostic imaging for precise and efficient medical treatments.",
+        "explanation_hi": "नैनोटेक्नोलॉजी का उपयोग दवा डिलीवरी, सर्जिकल रोबोट्स और विश्लेषणात्मक छवियों में ठीक और आसान चिकित्सा उपचार के लिए किया जाता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Which of the following is a key application of biotechnology in agriculture?",
+        "question_hi": "निम्नलिखित में से कौन सा कृषि में बायोटेक्नोलॉजी का मुख्य उपयोग है?",
+        "A_en": "Genetically modified crops", "A_hi": "जीनेटिकली मॉडिफाइड फसलें",
+        "B_en": "Soil erosion control", "B_hi": "मृदा अपरदन नियंत्रण",
+        "C_en": "Pest control", "C_hi": "कीट नियंत्रण",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Biotechnology helps in developing genetically modified crops, controlling pests, and preventing soil erosion in agriculture.",
+        "explanation_hi": "बायोटेक्नोलॉजी कृषि में जीनेटिकली मॉडिफाइड फसलों के विकास, कीट नियंत्रण और मृदा अपरदन की रोकथाम में मदद करती है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "What is the full form of CRISPR in biotechnology?",
+        "question_hi": "बायोटेक्नोलॉजी में CRISPR का पूर्ण रूप क्या है?",
+        "A_en": "Clustered Regularly Interspaced Short Palindromic Repeats", "A_hi": "क्लस्टर रेगुलरली इंटरस्पेस्ड शॉर्ट पैलिन्ड्रोमिक रिपीट्स",
+        "B_en": "Controlled Regular Interspaced Protein Repeats", "B_hi": "कंट्रोल्ड रेगुलर इंटरस्पेस्ड प्रोटीन रिपीट्स",
+        "C_en": "Clustered Random Interspaced Short Palindromic Repeats", "C_hi": "क्लस्टर रैंडम इंटरस्पेस्ड शॉर्ट पैलिन्ड्रोमिक रिपीट्स",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "A",
+        "explanation_en": "CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats, a gene-editing technology.",
+        "explanation_hi": "CRISPR का पूर्ण रूप 'क्लस्टर रेगुलरली इंटरस्पेस्ड शॉर्ट पैलिन्ड्रोमिक रिपीट्स' है, जो एक जीन-एडिटिंग तकनीक है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Which scientist is known as the 'Father of Nanotechnology'?",
+        "question_hi": "'नैनोटेक्नोलॉजी के जनक' के रूप में किस वैज्ञानिक को जाना जाता है?",
+        "A_en": "Richard Feynman", "A_hi": "रिचर्ड फेयनमैन",
+        "B_en": "Kary Mullis", "B_hi": "कैरी मुलिस",
+        "C_en": "James Watson", "C_hi": "जेम्स वाटसन",
+        "D_en": "Gregor Mendel", "D_hi": "ग्रेगर मेंडल",
+        "answer": "A",
+        "explanation_en": "Richard Feynman is considered the father of nanotechnology for his 1959 lecture on the potential of nanoscale technology.",
+        "explanation_hi": "रिचर्ड फेयनमैन को नैनोटेक्नोलॉजी के जनक माना जाता है क्योंकि उन्होंने 1959 में नैनोस्केल तकनीक की संभावनाओं पर एक व्याख्यान दिया था।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "What is the primary use of biotechnology in environmental science?",
+        "question_hi": "पर्यावरण विज्ञान में बायोटेक्नोलॉजी का मुख्य उपयोग क्या है?",
+        "A_en": "Pollution control", "A_hi": "प्रदूषण नियंत्रण",
+        "B_en": "Waste management", "B_hi": "अपशिष्ट प्रबंधन",
+        "C_en": "Bioremediation", "C_hi": "बायोरिमेडिएशन",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Biotechnology is used in pollution control, waste management, and bioremediation to address environmental issues.",
+        "explanation_hi": "बायोटेक्नोलॉजी का प्रदूषण नियंत्रण, अपशिष्ट प्रबंधन और बायोरिमेडिएशन में पर्यावरणीय समस्याओं के समाधान के लिए उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Which of the following is a nanostructure used in nanotechnology?",
+        "question_hi": "निम्नलिखित में से कौन नैनोटेक्नोलॉजी में उपयोग होने वाली एक नैनोस्ट्रक्चर है?",
+        "A_en": "Fullerene", "A_hi": "फुलेरीन",
+        "B_en": "Carbon fiber", "B_hi": "कार्बन फाइबर",
+        "C_en": "Graphene", "C_hi": "ग्राफीन",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Fullerenes, carbon fibers, and graphene are common nanostructures used in various nanotechnology applications.",
+        "explanation_hi": "फुलेरीन, कार्बन फाइबर और ग्राफीन विभिन्न नैनोटेक्नोलॉजी अनुप्रयोगों में उपयोग होने वाली सामान्य नैनोस्ट्रक्चर हैं।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "What is the primary goal of nanotechnology in material science?",
+        "question_hi": "सामग्री विज्ञान में नैनोटेक्नोलॉजी का मुख्य लक्ष्य क्या है?",
+        "A_en": "Creating stronger materials", "A_hi": "मजबूत सामग्री बनाना",
+        "B_en": "Reducing material weight", "B_hi": "सामग्री के भार को कम करना",
+        "C_en": "Improving material conductivity", "C_hi": "सामग्री की चालकता में सुधार",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Nanotechnology in material science aims to enhance strength, reduce weight, and improve conductivity of materials.",
+        "explanation_hi": "सामग्री विज्ञान में नैनोटेक्नोलॉजी का उद्देश्य सामग्री के ताकत, भार और चालकता में सुधार करना है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "Which biotechnology application is used to produce insulin for diabetes treatment?",
+        "question_hi": "मधुमेह के उपचार के लिए इंसुलिन उत्पादन के लिए किस बायोटेक्नोलॉजी अनुप्रयोग का उपयोग किया जाता है?",
+        "A_en": "Genetic engineering", "A_hi": "जैविक इंजीनियरिंग",
+        "B_en": "Cell culture", "B_hi": "कोशिका संस्कृति",
+        "C_en": "Enzyme technology", "C_hi": "एंजाइम तकनीक",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "Genetic engineering is used to modify bacteria to produce human insulin for diabetes treatment.",
+        "explanation_hi": "मधुमेह के उपचार के लिए इंसुलिन उत्पादन के लिए बैक्टीरिया को संशोधित करने के लिए जैविक इंजीनियरिंग का उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en": "What is the size range of nanomaterials in nanotechnology?",
+        "question_hi": "नैनोटेक्नोलॉजी में नैनोमैटेरियल्स का आकार कितना होता है?",
+        "A_en": "1-100 nanometers", "A_hi": "1-100 नैनोमीटर",
+        "B_en": "1-10 micrometers", "B_hi": "1-10 माइक्रोमीटर",
+        "C_en": "1-100 micrometers", "C_hi": "1-100 माइक्रोमीटर",
+        "D_en": "1-1000 nanometers", "D_hi": "1-1000 नैनोमीटर",
+        "answer": "A",
+        "explanation_en": "Nanomaterials in nanotechnology have a size range of 1 to 100 nanometers.",
+        "explanation_hi": "नैनोटेक्नोलॉजी में नैनोमैटेरियल्स का आकार 1 से 100 नैनोमीटर के बीच होता है।"
+    },
+    {
+        "subject": "Technology",
+        "topic": "Nanotechnology aur Biotechnology ka Samanya Gyan",
+        "question_en
