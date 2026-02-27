@@ -1,0 +1,159 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions on the topic of Panchayati Raj and Nagariya Swashasan, focusing on the 73rd and 74th Amendments. Let me start by recalling the key points of these amendments. The 73rd Amendment Act of 1992 deals with Panchayati Raj institutions, aiming to strengthen local self-government in rural areas. The 74th Amendment Act of 1992 does the same for urban areas, establishing Nagar Panchayats.
+
+First, I should consider the structure of the Panchayati Raj system. It has three tiers: Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level. Reservation of seats for SCs, STs, and women is a key aspect. The 73rd Amendment mandates at least one-third of the seats be reserved for women. Similarly, the 74th Amendment would have similar provisions for urban bodies.
+
+Next, the functions and powers of these institutions. The Panchayats were granted certain powers for local governance, like land management, irrigation, and rural development. The 74th Amendment covers urban development, sanitation, and public health. I should also mention the constitutional provisions for the duration and the process of elections.
+
+Important dates and constitutional articles: The 73rd Amendment came into effect on April 24, 1993, and is Article 243B to 243O. The 74th Amendment is Article 243P to 243ZT. The 11th schedule for the 73rd Amendment lists the functions of Panchayats, while the 12th schedule is for the 74th Amendment for municipalities.
+
+I need to formulate questions that test understanding of these elements. For example, asking about the constitutional acts, reservation percentages, key functions, and the structure of the institutions. Also, possible questions on the difference between the two amendments, the powers conferred, and the constitutional articles involved.
+
+I should ensure that each question has four options, with the correct answer highlighted. The explanations should clarify why the correct answer is right and possibly why the other options are incorrect. The difficulty level should be appropriate for exams like RAS, LDC, CET, and Railway NTPC, so they should not be too trivial but require some understanding.
+
+Now, let me draft the questions one by one, making sure to cover different aspects of both amendments. I'll start with the first question on the constitutional act that deals with Panchayati Raj. Then move to the reservation percentage for women. Another question on the three-tier system. Then the constitutional article for the Panchayati Raj. Functions of Panchayats and Municipalities. The 11th and 12th schedules. The implementation date. Key functions like land records or urban sanitation. The term of office. And finally, a question on the reservation for SC/ST in urban bodies.
+
+I need to check for accuracy. For example, the 73rd Amendment's reservation for women is one-third, which is 33.33%. The 74th Amendment also has a one-third reservation. The three-tier system is Gram Panchayat, Panchayat Samiti, Zila Parishad. The 74th Amendment deals with urban areas. The 11th schedule has 29 items, and the 12th has 18. The implementation date is 1993. The term is five years for both. Functions like rural roads (Panchayats) and urban sanitation (Municipalities) are correct.
+
+I should also ensure that the options are plausible distractors but not correct. For example, in the reservation question, options like 25%, 40%, etc., can be distractors. For the constitutional article, options could be 243B, 243P, etc. In the functions question, options like managing urban transportation for Panchayats would be incorrect.
+
+After drafting all 10 questions, I'll verify each for clarity and correctness. Make sure the explanations are concise and accurate. Also, translate the questions and options into Hindi correctly. For example, "Panchayati Raj" in Hindi is "पंचायती राज", "Nagariya Swashasan" is "नगरीय स्वशासन", and so on. Ensure that the terms are correctly translated and that the options are in the right language.
+
+Finally, structure the JSON as per the provided example, making sure that all fields are filled out correctly. No markdown, just the raw JSON. Each question should be an object within an array, with all required properties. Check for any typos or formatting issues, and ensure consistency in the options and explanations.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment provides for the establishment of Panchayati Raj institutions?",
+    "question_hi": "कौन सा संविधान संशोधन पंचायती राज संस्थाओं की स्थापना के लिए प्रावधान करता है?",
+    "A_en": "73rd Amendment Act, 1992",
+    "A_hi": "73वां संशोधन अध्यादेश, 1992",
+    "B_en": "74th Amendment Act, 1992",
+    "B_hi": "74वां संशोधन अध्यादेश, 1992",
+    "C_en": "71st Amendment Act, 1999",
+    "C_hi": "71वां संशोधन अध्यादेश, 1999",
+    "D_en": "77th Amendment Act, 2000",
+    "D_hi": "77वां संशोधन अध्यादेश, 2000",
+    "answer": "A",
+    "explanation_en": "The 73rd Constitutional Amendment Act of 1992 established a three-tier Panchayat system and mandated regular elections.",
+    "explanation_hi": "1992 के 73वें संविधान संशोधन अध्यादेश ने तीन-स्तरीय पंचायत प्रणाली की स्थापना की और नियमित निर्वाचन की आवश्यकता बनाई।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum reservation percentage for women in Panchayati Raj institutions?",
+    "question_hi": "पंचायती राज संस्थाओं में महिलाओं के लिए न्यूनतम आरक्षण प्रतिशत क्या है?",
+    "A_en": "33%",
+    "A_hi": "33%",
+    "B_en": "25%",
+    "B_hi": "25%",
+    "C_en": "40%",
+    "C_hi": "40%",
+    "D_en": "50%",
+    "D_hi": "50%",
+    "answer": "A",
+    "explanation_en": "The 73rd Amendment mandates at least one-third (33%) of the seats in Panchayats be reserved for women.",
+    "explanation_hi": "73वें संशोधन ने पंचायतों में महिलाओं के लिए कम से कम एक-तिहाई (33%) सीटों के आरक्षण की आवश्यकता बनाई है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is the third tier of the Panchayati Raj system?",
+    "question_hi": "निम्नलिखित में से कौन पंचायती राज प्रणाली का तीसरा स्तर है?",
+    "A_en": "Gram Panchayat",
+    "A_hi": "ग्राम पंचायत",
+    "B_en": "Panchayat Samiti",
+    "B_hi": "पंचायत समिति",
+    "C_en": "Zila Parishad",
+    "C_hi": "जिला परिषद",
+    "D_en": "Municipal Corporation",
+    "D_hi": "नगर निगम",
+    "answer": "C",
+    "explanation_en": "The three-tier system includes Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district).",
+    "explanation_hi": "तीन-स्तरीय प्रणाली में ग्राम पंचायत (गांव), पंचायत समिति (ब्लॉक) और जिला परिषद (जिला) शामिल है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional article provides for the reservation of seats for SCs and STs in Panchayats?",
+    "question_hi": "पंचायतों में SC और ST के लिए सीटों के आरक्षण के लिए कौन सा संविधान अनुच्छेद प्रावधान करता है?",
+    "A_en": "Article 243-D",
+    "A_hi": "अनुच्छेद 243-डी",
+    "B_en": "Article 243-T",
+    "B_hi": "अनुच्छेद 243-टी",
+    "C_en": "Article 242-B",
+    "C_hi": "अनुच्छेद 242-बी",
+    "D_en": "Article 250-A",
+    "D_hi": "अनुच्छेद 250-ए",
+    "answer": "A",
+    "explanation_en": "Article 243-D of the Constitution mandates reservation for SCs, STs, and women in Panchayats.",
+    "explanation_hi": "संविधान के अनुच्छेद 243-डी में पंचायतों में SC, ST और महिलाओं के लिए आरक्षण की आवश्यकता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the maximum term of office for members of a Gram Panchayat?",
+    "question_hi": "ग्राम पंचायत के सदस्यों के लिए कार्यकाल की अधिकतम अवधि क्या है?",
+    "A_en": "3 years",
+    "A_hi": "3 साल",
+    "B_en": "4 years",
+    "B_hi": "4 साल",
+    "C_en": "5 years",
+    "C_hi": "5 साल",
+    "D_en": "6 years",
+    "D_hi": "6 साल",
+    "answer": "C",
+    "explanation_en": "Members of Panchayats and Municipalities serve a five-year term as per the 73rd and 74th Amendments.",
+    "explanation_hi": "73वें और 74वें संशोधनों के अनुसार पंचायतों और नगर परिषदों के सदस्यों का कार्यकाल पांच साल का होता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which schedule of the Constitution lists the functions of Panchayats?",
+    "question_hi": "संविधान का क�ौन सा अनुसूची पंचायतों के कार्यों को सूचीबद्ध करता है?",
+    "A_en": "11th Schedule",
+    "A_hi": "11वां अनुसूची",
+    "B_en": "12th Schedule",
+    "B_hi": "12वां अनुसूची",
+    "C_en": "9th Schedule",
+    "C_hi": "9वां अनुसूची",
+    "D_en": "8th Schedule",
+    "D_hi": "8वां अनुसूची",
+    "answer": "A",
+    "explanation_en": "The 11th Schedule of the Constitution lists 29 functions assigned to Panchayats.",
+    "explanation_hi": "संविधान के 11वें अनुसूची में पंचायतों के 29 कार्यों को सूचीबद्ध किया गया है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following functions is primarily managed by Panchayats?",
+    "question_hi": "निम्नलिखित में से कौन सा कार्य मुख्य रूप से पंचायतों द्वारा प्रबंधित किया जाता है?",
+    "A_en": "Urban sanitation",
+    "A_hi": "शहरी स्वच्छता",
+    "B_en": "Rural road maintenance",
+    "B_hi": "ग्रामीण सड़क रखरखाव",
+    "C_en": "Public transport",
+    "C_hi": "सार्वजनिक परिवहन",
+    "D_en": "Industrial development",
+    "D_hi": "औद्योगिक विकास",
+    "answer": "B",
+    "explanation_en": "Panchayats are responsible for rural development, including maintenance of rural roads under the 73rd Amendment.",
+    "explanation_hi": "73वें संशोधन के तहत पंचायतें ग्रामीण विकास के लिए जिम्मेदार हैं, जिसमें ग्रामीण सड़कों का रखरखाव शामिल है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which amendment act relates to the establishment of municipal institutions?",
+    "question_hi": "कौन सा संशोधन अधिनियम नगरीय संस्थाओं की स्थापना से संबंधित है?",
+    "A_en": "73rd Amendment Act",
+    "A_hi": "73वां संशोधन अध्यादेश",
+    "B_en": "74th Amendment Act",
+    "B_hi": "74वां संशोधन अध्यादेश",
+    "C_en": "70th Amendment Act",
+    "C_hi": "70वां संशोधन अध्यादेश",
+    "D_en": "75th Amendment Act",
+    "D_hi": "75वां संशोधन अध्यादेश",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act of 1992 was
