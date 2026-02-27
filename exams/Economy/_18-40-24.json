@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Economic Growth",
+"question_en": "What is the GDP growth rate of India in 2021?",
+"question_hi": "भारत के 2021 में GDP के उम्र क्या था?",
+"A_en": "9.2%",
+"A_hi": "9.2%",
+"B_en": "8.5%",
+"B_hi": "8.5%",
+"C_en": "9.5%",
+"C_hi": "9.5%",
+"D_en": "8.8%",
+"D_hi": "8.8%",
+"answer": "D",
+"explanation_en": "The GDP growth rate of India in 2021 was 8.8%.",
+"explanation_hi": "भारत के 2021 में GDP की उम्र क्या था?"
+}
+]
