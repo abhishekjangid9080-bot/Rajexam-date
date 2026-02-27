@@ -1,0 +1,28 @@
+[
+{
+"subject": "Reasoning",
+"topic": "Coding-Decoding aur Sankhya/Akshar Anukram (Series)",
+"question_en": "Find the coded series and decode it (using alphabets).",
+"question_hi": "संक्षिप्त स्रोत प्राप्त करें (अक्षर के में).",
+"A_en": "KLMNO | QRST | UVWX | PDEF | GHIJ",
+"A_hi": "क्लमों के में | रेस्ट | उव्वेंक | पेडेफ | गहिज",
+"B_en": "QRST",
+"B_hi": "रेस्ट | उव्वेंक",
+"C_en": "PEF",
+"C_hi": "पेडेफ | इंग",
+"D_en": "KLMNO | QRST | UVWX",
+"D_hi": "क्लमों के में | रेस्ट | उव्वेंक | UVWX",
+"E_en": "GHIJ",
+"E_hi": "गहिज",
+"answer": "KLMNO",
+"explanation_en": "The coded series is: KLMNO, QRST, UVWX, and GHIJ. Decoded series is: KLN, RST, UVW, and GHIJ.",
+"explanation_hi": "संकल्पनेवाली विभिज हैं: KLMNO, QRST, UVWX, और GHIJ. संकल्पनेवाली विभिज हैं: KLN, RST, UVW, और GHIJ.",
+"question_en": "Which of the following series follows the pattern KLMNO, QRST, UVWX, and GHIJ?",
+"question_hi": "यहाँ निमितरंग हैं: KLMNO, QRST, UVWX, और GHIJ. क्यांच्हिंग हैं: KLN, RST, UVW, और GHIJ.",
+"question_ar": "ما هي السلسلة التالية التي تتبع النمط KLMNO, QRST, UVWX, و GHIJ?",
+"answer_ar": "KLN, RST, UVW, و GHIJ",
+"explanation_ar": "السلاسل المتتالية هي: KLMNO, QRST, UVWX, و GHIJ.",
+"question_fr": "Quelle est la série qui suit le mnemo KLMNO, QRST, UVWX, et GHIJ ?",
+"answer_fr": "KLN, RST, UVW, et GHIJ",
+"explanation_fr": "Les séries suivantes sont: KLMNO, QRST, UVWX, et GHIJ."
+]
