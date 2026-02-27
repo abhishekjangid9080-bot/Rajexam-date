@@ -1,0 +1,135 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Indian Polity, specifically covering the 73rd and 74th Amendments related to Panchayati Raj and Nagariya Swashasan. Let's start by recalling what these amendments entail. The 73rd Amendment Act of 1992 deals with Panchayati Raj institutions, introducing a three-tier system at the village, intermediate, and district levels. The 74th Amendment Act of 1992 is about urban local bodies, establishing municipalities for towns and cities.
+
+First, I should list key points from both amendments to ensure the questions cover essential aspects. For the 73rd Amendment, important points include reservation of seats for SCs, STs, and women, the three-tier structure (Gram Panchayat, Panchayat Samiti, Zila Parishad), and the mandatory inclusion of a Nyaya Panchayat. For the 74th Amendment, focus on the structure of municipalities (Municipal Corporations, Municipal Councils, and Nagar Panchayats), functions related to urban governance, and the reservation of seats for marginalized groups.
+
+Next, I need to formulate questions that test understanding of these elements. Let me brainstorm possible questions. For example, asking about the constitutional amendments, the structure of the institutions, reservation details, functions, and the role of different bodies. Each question should have four options, with one correct answer. I need to ensure the questions are in Hindi and English, following the Testbook style.
+
+Let me start drafting the first question. Maybe about the constitutional amendment that introduced Panchayati Raj. The 73rd Amendment. Then another on the three-tier system. Then reservation percentages for women. Functions of Zila Parishad. Functions of Municipal Corporations. The role of the State Election Commission in local bodies. Mandatory elements like Nyaya Panchayat. Reservation for SCs and STs. The number of seats reserved for women in Panchayati Raj. And the functions of Nagar Panchayats.
+
+I need to verify the correct information. For instance, the 73rd Amendment indeed reserves not less than one-third of seats for women. The three tiers are Gram Panchayat, Panchayat Samiti, and Zila Parishad. The 74th Amendment's functions include urban planning, sanitation, etc. Nyaya Panchayats are for dispute resolution. Also, the State Election Commission is responsible for conducting elections for local bodies.
+
+Now, I'll structure each question, ensuring the options are plausible but only one is correct. The explanations should clearly state why the correct answer is right. For example, for the question on the constitutional amendment for Panchayati Raj, the correct answer is the 73rd Amendment. The options for other amendments (like 71st, 72nd) can be distractors.
+
+I need to check for any possible errors. For instance, the reservation for SCs and STs is not less than one-eighth (12.5%) as per the 73rd Amendment. Also, the 74th Amendment's reservation for SCs and STs is similar. The State Election Commission is established under the 73rd and 74th Amendments. Nyaya Panchayats are a mandatory component introduced by the 73rd Amendment.
+
+After drafting all questions, I'll review them for clarity and correctness. Ensuring that the Hindi translations are accurate and the options are correctly translated. The explanations should reinforce the key points from the amendments. Once satisfied, I'll format them into the required JSON structure without any markdown, just the raw JSON array.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which constitutional amendment introduced the system of Panchayati Raj in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान संशोधन पेश किया?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "71st Amendment", "B_hi": "71वां संशोधन",
+        "C_en": "72nd Amendment", "C_hi": "72वां संशोधन",
+        "D_en": "74th Amendment", "D_hi": "74वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment Act of 1992 introduced the Panchayati Raj system with a three-tier structure.",
+        "explanation_hi": "1992 का 73वां संशोधन अधिनियम पंचायती राज प्रणाली को पेश करता है जिसमें तीन-स्तरीय संरचना है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum percentage of seats reserved for women in Panchayati Raj institutions?",
+        "question_hi": "पंचायती राज संस्थानों में महिलाओं के लिए आरक्षित न्यूनतम सीटों का प्रतिशत क्या है?",
+        "A_en": "33%", "A_hi": "33%",
+        "B_en": "25%", "B_hi": "25%",
+        "C_en": "40%", "C_hi": "40%",
+        "D_en": "20%", "D_hi": "20%",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates at least one-third of seats for women in all elected positions.",
+        "explanation_hi": "73वें संशोधन में निर्वाचित पदों में महिलाओं के लिए तिहाई सीटों का आरक्षण अनिवार्य है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which level of Panchayati Raj system is at the village level?",
+        "question_hi": "ग्राम स्तर पर पंचायती राज प्रणाली का कौन सा स्तर होता है?",
+        "A_en": "Gram Panchayat", "A_hi": "ग्राम पंचायत",
+        "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+        "C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+        "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+        "answer": "A",
+        "explanation_en": "Gram Panchayat functions at the village level as the foundation of the Panchayati Raj system.",
+        "explanation_hi": "ग्राम पंचायत गांव के स्तर पर कार्य करती है और पंचायती राज प्रणाली का आधार है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "The 74th Amendment Act of 1992 is related to which of the following?",
+        "question_hi": "1992 का 74वां संशोधन अधिनियम निम्नलिखित में से किससे संबंधित है?",
+        "A_en": "Urban Local Bodies", "A_hi": "शहरी स्थानीय निकाय",
+        "B_en": "Gram Panchayat", "B_hi": "ग्राम पंचायत",
+        "C_en": "Zila Parishad", "C_hi": "जिला परिषद",
+        "D_en": "Nyaya Panchayat", "D_hi": "न्याय पंचायत",
+        "answer": "A",
+        "explanation_en": "The 74th Amendment Act of 1992 established urban local bodies like Municipal Corporations and Nagar Panchayats.",
+        "explanation_hi": "1992 का 74वां संशोधन अधिनियम नगर निगम और नगर पंचायत जैसे शहरी स्थानीय निकायों की स्थापना करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum percentage of seats reserved for Scheduled Castes and Scheduled Tribes in urban local bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षित न्यूनतम सीटों का प्रतिशत क्या है?",
+        "A_en": "12.5%", "A_hi": "12.5%",
+        "B_en": "25%", "B_hi": "25%",
+        "C_en": "10%", "C_hi": "10%",
+        "D_en": "15%", "D_hi": "15%",
+        "answer": "A",
+        "explanation_en": "The 74th Amendment mandates not less than one-eighth (12.5%) of seats for SCs and STs in urban local bodies.",
+        "explanation_hi": "74वें संशोधन में शहरी स्थानीय निकायों में अनुसूचित जाति और जनजाति के लिए न्यूनतम एक-आठवां (12.5%) सीटों का आरक्षण अनिवार्य है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for conducting elections to the Panchayats and Municipalities?",
+        "question_hi": "पंचायतों और नगर परिषदों के चुनाव करने वाला निकाय कौन सा है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Election Commission of India", "B_hi": "भारत चुनाव आयोग",
+        "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+        "D_en": "Zila Parishad", "D_hi": "जिला परिषद",
+        "answer": "A",
+        "explanation_en": "The State Election Commission conducts elections for local bodies as per the 73rd and 74th Amendments.",
+        "explanation_hi": "राज्य चुनाव आयोग 73वें और 74वें संशोधनों के अनुसार स्थानीय निकायों के चुनाव करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a mandatory component of the Panchayati Raj system introduced by the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन सा 73वें संशोधन द्वारा पेश की गई पंचायती राज प्रणाली का अनिवार्य घटक है?",
+        "A_en": "Nyaya Panchayat", "A_hi": "न्याय पंचायत",
+        "B_en": "Municipal Corporation", "B_hi": "नगर निगम",
+        "C_en": "Gram Sabha", "C_hi": "ग्राम सभा",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "Nyaya Panchayat is a mandatory component for dispute resolution in rural areas as per the 73rd Amendment.",
+        "explanation_hi": "73वें संशोधन के अनुसार ग्रामीण क्षेत्रों में न्याय पंचायत विवाद समाधान के लिए अनिवार्य घटक है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the primary function of a Municipal Corporation under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत नगर निगम का मुख्य कार्य क्या है?",
+        "A_en": "Urban Planning and Development", "A_hi": "शहरी योजना और विकास",
+        "B_en": "Agricultural Management", "B_hi": "कृषि प्रबंधन",
+        "C_en": "Forest Conservation", "C_hi": "वन संरक्षण",
+        "D_en": "Education Management", "D_hi": "शिक्षा प्रबंधन",
+        "answer": "A",
+        "explanation_en": "The 74th Amendment empowers Municipal Corporations to manage urban planning, sanitation, and infrastructure.",
+        "explanation_hi": "74वें संशोधन द्वारा नगर निगमों को शहरी योजना, सफाई और बुनियादी ढांचे के प्रबंधन के लिए शक्तियाँ दी गई हैं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Zila Parishad?",
+        "question_hi": "निम्नलिखित में से कौन सा जिला परिषद का कार्य नहीं है?",
+        "A_en": "Rural Development", "A_hi": "ग्रामीण विकास",
+        "B_en": "Health Services", "B_hi": "स्वास्थ्य सेवाएं",
+        "C_en": "Urban Planning", "C_hi": "शहरी योजना",
+        "D_en": "Educational Planning", "D_hi": "शैक्षिक योजना",
+        "answer": "C",
+        "explanation_en": "Zila Parishad focuses on rural development, health, and education, not urban planning.",
+        "explanation_hi": "जिला परिषद ग्रामीण विकास, स्वास्थ्य और शिक्षा पर ध्यान केंद्र
