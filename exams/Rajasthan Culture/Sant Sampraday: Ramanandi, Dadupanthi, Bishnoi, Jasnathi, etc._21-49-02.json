@@ -1,0 +1,24 @@
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Sant Sampraday: Ramanandi, Dadupanthi, Bishnoi, Jasnathi, etc.",
+    "question_en": "Who is considered the founder of the Ramanandi Sampradaya?",
+    "question_hi": "रमणंदि सम्प्रदाय के संस्थापक कौन माने जाते हैं?",
+    "A_en": "Ramananda",
+    "A_hi": "रमणंद",
+    "B_en": "Dadu Dayal",
+    "B_hi": "ददू दयाल",
+    "C_en": "Guru Jambho",
+    "C_hi": "गुरु जम्बो",
+    "D_en": "Swami Ramdev",
+    "D_hi": "स्वामी रामदेव",
+    "answer": "A",
+    "explanation_en": "Ramananda, a 14th‑century saint from North India, founded the Ramanandi Sampradaya, which spread widely across Rajasthan.",
+    "explanation_hi": "रमणंद 14वीं शताब्दी के एक संत थे जिन्होंने रमणंदि सम्प्रदाय की स्थापना की, जो राजस्थान में भी व्यापक रूप से फैला।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Sant Sampraday: Ramanandi, Dadupanthi, Bishnoi, Jasnathi, etc.",
+    "question_en": "Which scripture is most closely associated with the Ramanandi tradition in Rajasthan?",
+    "question_hi": "रमणंदि परंपरा से सबसे अधिक जुड़ा हुआ शास्त्र कौन सा है?",
+    "A_en": "Ram
