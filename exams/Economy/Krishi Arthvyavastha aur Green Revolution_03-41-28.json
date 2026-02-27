@@ -1,0 +1,150 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the Rajasthan State Exams, SSC, and Railway NTPC focusing on the topic of "Agricultural Economy and Green Revolution." Let me start by recalling key points about agricultural economy in India, especially Rajasthan, and the Green Revolution's impact.
+
+First, the Green Revolution started in the 1960s, focusing on high-yield varieties of crops, especially wheat and rice. It was crucial in making India self-sufficient in food grains. For Rajasthan, I should include details about the state's agricultural practices, challenges like water scarcity, and how the Green Revolution affected them.
+
+Next, I need to think about the types of questions. They could cover the origins of the Green Revolution, key figures (like M.S. Swaminathan), crops involved, challenges in Rajasthan, technological advancements, government schemes, and the socio-economic effects.
+
+I should ensure that each question is in both Hindi and English. The options need to be accurate, with one correct answer. The explanations should clarify why the correct answer is right and address common misconceptions.
+
+Let me brainstorm the questions one by one. For example, the first question could be about the start of the Green Revolution. The answer is 1960s, so options around that time. Another question might ask about the key crops, with wheat and rice as the right answers. For Rajasthan-specific issues, maybe a question on challenges like water scarcity or soil conditions.
+
+I also need to check the difficulty level. Since it's for state exams, the questions should be moderate, testing understanding without being overly complex. Avoid very technical terms unless they're commonly known in the syllabus.
+
+I should verify each fact to ensure accuracy. For instance, confirming that the Green Revolution was indeed initiated in the 1960s, and that Rajasthan's main crops include millet (bajra) and wheat. Also, checking the role of fertilizers and irrigation in the Green Revolution.
+
+Now, structuring each question in the required JSON format with subject, topic, question in both languages, options, answer, and explanations. Making sure the translations are correct and consistent. For example, "High-Yield Variety (HYV)" should be translated properly in Hindi as "उच्च-उपज वाले किस्म (HYV)".
+
+Finally, review all questions to avoid repetition and cover a broad range of the topic. Ensure that explanations are concise but informative, clarifying why the correct answer is right and why other options are incorrect.
+</think>
+
+[
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "किस वर्ष में ग्रीन रिवोल्यूशन की शुरुआत हुई?",
+        "question_hi": "In which year was the Green Revolution initiated?",
+        "A_en": "1950s", "A_hi": "1950s",
+        "B_en": "1960s", "B_hi": "1960s",
+        "C_en": "1970s", "C_hi": "1970s",
+        "D_en": "1980s", "D_hi": "1980s",
+        "answer": "B",
+        "explanation_en": "The Green Revolution in India started in the 1960s to address food shortages.",
+        "explanation_hi": "भारत में ग्रीन रिवोल्यूशन 1960 के दशक में खाद्यान्न की कमी को दूर करने के लिए शुरू किया गया था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "ग्रीन रिवोल्यूशन के दौरान कौन-से फसलें विशेष रूप से लक्षित की गई थीं?",
+        "question_hi": "Which crops were specifically targeted during the Green Revolution?",
+        "A_en": "Wheat and Rice", "A_hi": "गेहूं और चावल",
+        "B_en": "Cotton and Jute", "B_hi": "ऊन और रेशम",
+        "C_en": "Tea and Coffee", "C_hi": "चाय और कॉफी",
+        "D_en": "Sugarcane and Rubber", "D_hi": "गन्ना और रबर",
+        "answer": "A",
+        "explanation_en": "The Green Revolution primarily focused on increasing the production of wheat and rice through high-yield variety seeds.",
+        "explanation_hi": "ग्रीन रिवोल्यूशन उच्च-उपज वाले किस्म के बीजों के माध्यम से गेहूं और चावल के उत्पादन को बढ़ाने पर ध्यान केंद्रित करता था।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "राजस्थान में कृषि के लिए सबसे बड़ा चुनौती क्या है?",
+        "question_hi": "What is the biggest challenge for agriculture in Rajasthan?",
+        "A_en": "Soil Fertility", "A_hi": "मृदा उर्वरता",
+        "B_en": "Water Scarcity", "B_hi": "पानी की कमी",
+        "C_en": "Pests and Diseases", "C_hi": "कीट और बीमारियाँ",
+        "D_en": "Market Access", "D_hi": "बाजार पहुंच",
+        "answer": "B",
+        "explanation_en": "Rajasthan faces severe water scarcity due to its arid and semi-arid climate, which hampers agricultural productivity.",
+        "explanation_hi": "राजस्थान की शुष्क और अर्द्ध-शुष्क जलवायु के कारण जल की कमी खेती के लिए सबसे बड़ी चुनौती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "कौन-सा राज्य भारत में ग्रीन रिवोल्यूशन का सबसे सफल उदाहरण है?",
+        "question_hi": "Which state is considered the most successful example of the Green Revolution in India?",
+        "A_en": "Punjab", "A_hi": "पंजाब",
+        "B_en": "Haryana", "B_hi": "हरियाणा",
+        "C_en": "Rajasthan", "C_hi": "राजस्थान",
+        "D_en": "Gujarat", "D_hi": "गुजरात",
+        "answer": "A",
+        "explanation_en": "Punjab witnessed the highest success in the Green Revolution due to favorable conditions for wheat and rice cultivation.",
+        "explanation_hi": "पंजाब गेहूं और चावल की खेती के अनुकूल परिस्थितियों के कारण हरित क्रांति का सबसे सफल उदाहरण है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavावास्ता अउ ग्रीन रिवोल्यूशन",
+        "question_en": "ग्रीन रिवोल्यूशन के दौरान उपयोग किए गए मुख्य तकनीकी उत्पाद क्या थे?",
+        "question_hi": "What were the main technological inputs used during the Green Revolution?",
+        "A_en": "High-Yield Variety (HYV) seeds", "A_hi": "उच्च-उपज वाले किस्म (HYV) बीज",
+        "B_en": "Organic Fertilizers", "B_hi": "अकर्बनिक उर्वरक",
+        "C_en": "Solar Pumps", "C_hi": "सौर पंप",
+        "D_en": "Manual Labour", "D_hi": "हाथ से काम",
+        "answer": "A",
+        "explanation_en": "HYV seeds were central to the Green Revolution, enabling higher crop yields.",
+        "explanation_hi": "उच्च-उपज वाले किस्म के बीज हरित क्रांति के केंद्र में थे, जिससे फसलों के उत्पादन में बढ़ोतरी हुई।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "राजस्थान में मुख्य खेती की फसल क्या है?",
+        "question_hi": "What is the main crop grown in Rajasthan?",
+        "A_en": "Wheat", "A_hi": "गेहूं",
+        "B_en": "Bajra", "B_hi": "बाजरा",
+        "C_en": "Rice", "C_hi": "चावल",
+        "D_en": "Cotton", "D_hi": "ऊन",
+        "answer": "B",
+        "explanation_en": "Bajra (pearl millet) is the primary crop in Rajasthan due to its adaptability to arid conditions.",
+        "explanation_hi": "बाजरा राजस्थान की मुख्य फसल है, क्योंकि यह शुष्क परिस्थितियों में अनुकूल है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "ग्रीन रिवोल्यूशन के नकारात्मक प्रभावों में निम्नलिखित में से क्या शामिल है?",
+        "question_hi": "What is a negative impact of the Green Revolution?",
+        "A_en": "Increased Food Production", "A_hi": "खाद्य उत्पादन में बढ़ोतरी",
+        "B_en": "Soil Degradation", "B_hi": "मृदा नुकसान",
+        "C_en": "Employment Generation", "C_hi": "रोजगार उत्पादन",
+        "D_en": "Market Expansion", "D_hi": "बाजार विस्तार",
+        "answer": "B",
+        "explanation_en": "Intensive use of chemical fertilizers and pesticides led to soil degradation over time.",
+        "explanation_hi": "रसायन उर्वरकों और कीटनाशकों का जमकर उपयोग समय के साथ मृदा नुकसान का कारण बना।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "राजस्थान सरकार द्वारा कृषि क्षेत्र को बढ़ावा देने के लिए कौन-सा योजना शुरू की गई है?",
+        "question_hi": "Which scheme has the Rajasthan government launched to boost agriculture?",
+        "A_en": "Pradhan Mantri Krishi Sinchayee Yojana", "A_hi": "प्रधान मंत्री कृषि सिंचाई योजना",
+        "B_en": "National Food Security Mission", "B_hi": "राष्ट्रीय खाद्य सुरक्षा मिशन",
+        "C_en": "Paramparagat Krishi Vikas Yojana", "C_hi": "परम्परागत कृषि विकास योजना",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Rajasthan government implements multiple schemes to enhance agricultural productivity and sustainability.",
+        "explanation_hi": "राजस्थान सरकार खेती के उत्पादन और निरंतरता को बढ़ावा देने के लिए कई योजनाओं का क्रियान्वयन करती है।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "ग्रीन रिवोल्यूशन का मुख्य लक्ष्य निम्नलिखित में से क्या था?",
+        "question_hi": "What was the main objective of the Green Revolution?",
+        "A_en": "To Increase Employment", "A_hi": "रोजगार बढ़ाना",
+        "B_en": "To Reduce Poverty", "B_hi": "गरीबी कम करना",
+        "C_en": "To Achieve Self-Sufficiency in Food Grains", "C_hi": "खाद्यान्न में स्वावलंबन प्राप्त करना",
+        "D_en": "To Expand Markets", "D_hi": "बाजारों का विस्तार करना",
+        "answer": "C",
+        "explanation_en": "The Green Revolution aimed to make India self-sufficient in food grain production after facing food shortages.",
+        "explanation_hi": "हरित क्रांति खाद्यान्न की उपलब्धता कम होने के बाद भारत को खाद्यान्न उत्पादन में स्वावलंबी बनाने का लक्ष्य रखती थी।"
+    },
+    {
+        "subject": "Economy",
+        "topic": "Krashi Arthvyavastha aur Green Revolution",
+        "question_en": "निम्नलिखित में से कौन-सा राज्य ग्रीन रिवोल्यूशन के दौरान कम लाभान्वित रहा?",
+        "question_hi": "Which of the following states was less benefited during the Green Revolution?",
+        "A_en": "Punjab", "A_hi": "पंजाब",
+        "B_en": "Haryana", "B_hi": "हरियाणा",
+        "C_en": "Uttar Pradesh", "C_hi": "उत्तर प्रदेश",
+        "D_en": "Bihar", "D_hi": "बिहार",
+        "answer": "D",
+        "explanation_en": "Bihar received less benefit from the Green Revolution due to poor infrastructure and limited resources.",
+        "explanation_hi": "बिहार को ग्रीन रिवोल्यूशन से ज्यादा लाभ नहीं मिला क्योंकि इसकी बुनियादी सुविधाओं
