@@ -1,0 +1,128 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on the 73rd and 74th Amendments to the Indian Constitution, focusing on Panchayati Raj and Nagariya Swashasan. The questions need to be in both Hindi and English, with explanations in both languages. They also specified a strict JSON format similar to Testbook style.
+
+First, I need to recall the key points of these amendments. The 73rd Amendment is about Panchayati Raj institutions, and the 74th relates to Urban Local Bodies. Important aspects include reservation of seats for SC/STs and women, the structure of these bodies, their powers, and the role of the State Election Commission.
+
+I should start by brainstorming possible questions. For example, the year of amendments, key provisions like reservations, the role of the State Election Commission, and the constitutional articles involved. Each question needs four options, with one correct answer. The explanations must clarify why the correct option is right.
+
+Next, I need to ensure that the Hindi translations are accurate and match the English versions in meaning. The options should not be ambiguous. For example, a question on the number of amendments might have options like 72nd, 73rd, 74th, etc. Also, terms like "Gram Sabha" or "Municipality" need precise translation.
+
+I should check for common misconceptions. For instance, sometimes people confuse the years of the amendments. The 73rd was in 1992, and the 74th the same year. Also, the reservation percentages for women are 33% in both, but in some states, it's more. The State Election Commission was established under these amendments to conduct elections.
+
+Another point is the structure: Panchayats at three levels—Village, Block, and District. For urban areas, the three-tier system might not apply, but the 74th Amendment deals with municipalities. Questions could ask about the constitutional articles, like Article 243 for Panchayats and Article 243P for Municipalities.
+
+I need to make sure each question is distinct and covers different aspects. Maybe start with the year of enactment, then move to provisions, reservations, structure, roles, and constitutional articles. Also, include some trickier questions, like the difference between 73rd and 74th, or the role of the State Election Commission.
+
+Now, structuring each question with the required fields in JSON. Ensure that the answer key uses letters (A, B, C, D) and that explanations are concise. Also, avoid any markdown and use proper JSON formatting. Check for any inconsistencies in translations and verify the facts for accuracy. Finally, review all 10 questions to ensure they meet the difficulty level suitable for exams like Rajasthan's LDC, CET, RAS, and others.
+</think>
+
+[
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which Constitutional Amendment Act introduced the Panchayati Raj system in India?",
+        "question_hi": "भारत में पंचायती राज प्रणाली को कौन सा संविधान अध्यादेश पेश किया?",
+        "A_en": "73rd Constitutional Amendment Act", "A_hi": "73वां संविधान संशोधन अधिनियम",
+        "B_en": "74th Constitutional Amendment Act", "B_hi": "74वां संविधान संशोधन अधिनियम",
+        "C_en": "72nd Constitutional Amendment Act", "C_hi": "72वां संविधान संशोधन अधिनियम",
+        "D_en": "71st Constitutional Amendment Act", "D_hi": "71वां संविधान संशोधन अधिनियम",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992, established the Panchayati Raj system to strengthen local self-government in rural areas.",
+        "explanation_hi": "1992 में लागू 73वां संविधान संशोधन अधिनियम ग्रामीण क्षेत्रों में स्थानीय स्वशासन को मजबूत करने के लिए पंचायती राज प्रणाली स्थापित करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What percentage of seats is reserved for women in Panchayats under the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के तहत पंचायतों में महिलाओं के लिए कितने प्रतिशत सीटों का आरक्षण है?",
+        "A_en": "33%", "A_hi": "33%",
+        "B_en": "50%", "B_hi": "50%",
+        "C_en": "40%", "C_hi": "40%",
+        "D_en": "25%", "D_hi": "25%",
+        "answer": "A",
+        "explanation_en": "The 73rd Amendment mandates a minimum reservation of 33% of seats for women in panchayats to ensure their representation.",
+        "explanation_hi": "73वें संशोधन में पंचायतों में महिलाओं के प्रतिनिधित्व को सुनिश्चित करने के लिए न्यूनतम 33% सीटों के आरक्षण का आदेश दिया गया है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is NOT a function of the Gram Sabha under the 73rd Amendment?",
+        "question_hi": "निम्नलिखित में से कौन सा 73वें संशोधन के तहत ग्राम सभा का कार्य नहीं है?",
+        "A_en": "Reviewing the performance of the Panchayat", "A_hi": "पंचायत के प्रदर्शन की समीक्षा करना",
+        "B_en": "Participating in local development planning", "B_hi": "स्थानीय विकास योजना में भाग लेना",
+        "C_en": "Conducting elections to the Panchayat", "C_hi": "पंचायत चुनाव कराना",
+        "D_en": "Supervising the implementation of schemes", "D_hi": "योजनाओं के कार्यान्वयन की निगरानी करना",
+        "answer": "C",
+        "explanation_en": "Conducting panchayat elections is the responsibility of the State Election Commission, not the Gram Sabha.",
+        "explanation_hi": "पंचायत चुनाव कराने की जिम्मेदारी राज्य चुनाव आयोग की है, ग्राम सभा की नहीं।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Under the 74th Constitutional Amendment Act, urban local bodies are known as:",
+        "question_hi": "74वें संविधान संशोधन अधिनियम के तहत शहरी स्थानीय निकायों को क्या कहा जाता है?",
+        "A_en": "Municipal Corporations", "A_hi": "नगर निगम",
+        "B_en": "Municipal Councils", "B_hi": "नगर परिषद",
+        "C_en": "Urban Local Bodies", "C_hi": "शहरी स्थानीय निकाय",
+        "D_en": "Municipalities", "D_hi": "नगर पालिका",
+        "answer": "D",
+        "explanation_en": "The 74th Amendment Act, 1992, refers to urban local bodies as 'Municipalities' to streamline governance at the urban level.",
+        "explanation_hi": "1992 के 74वें संशोधन अधिनियम में शहरी स्थानीय निकायों को 'नगर पालिका' कहा गया है ताकि शहरी स्तर पर शासन को एकीकृत किया जा सके।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a constitutional provision for the reservation of seats for Scheduled Castes and Scheduled Tribes in urban local bodies?",
+        "question_hi": "शहरी स्थानीय निकायों में अनुसूचित जातियों और अनुसूचित जनजातियों के लिए सीटों के आरक्षण के लिए कौन सा संवैधानिक प्रावधान है?",
+        "A_en": "Article 243T", "A_hi": "अनुच्छेद 243T",
+        "B_en": "Article 243D", "B_hi": "अनुच्छेद 243D",
+        "C_en": "Article 243P", "C_hi": "अनुच्छेद 243P",
+        "D_en": "Article 243B", "D_hi": "अनुच्छेद 243B",
+        "answer": "A",
+        "explanation_en": "Article 243T of the Constitution reserves seats for SCs and STs in urban local bodies to ensure their representation.",
+        "explanation_hi": "संविधान का अनुच्छेद 243T शहरी स्थानीय निकायों में अनुसूचित जातियों और अनुसूचित जनजातियों के प्रतिनिधित्व के लिए सीटों का आरक्षण करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the tenure of a Panchayat according to the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार एक पंचायत का कार्यकाल कितना होता है?",
+        "A_en": "4 years", "A_hi": "4 वर्ष",
+        "B_en": "5 years", "B_hi": "5 वर्ष",
+        "C_en": "3 years", "C_hi": "3 वर्ष",
+        "D_en": "6 years", "D_hi": "6 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act sets the term of a Panchayat at five years to ensure periodic elections and continuity.",
+        "explanation_hi": "73वें संशोधन अधिनियम एक पंचायत के पांच वर्ष के कार्यकाल को तय करता है जिससे समय-समय पर चुनाव और निरंतरता सुनिश्चित होती है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which body is responsible for conducting elections to the urban local bodies under the 74th Amendment?",
+        "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों के चुनाव कराने के लिए कौन सा निकाय उत्तरदायी है?",
+        "A_en": "State Election Commission", "A_hi": "राज्य चुनाव आयोग",
+        "B_en": "Gram Sabha", "B_hi": "ग्राम सभा",
+        "C_en": "Local Self-government Department", "C_hi": "स्थानीय स्वशासन विभाग",
+        "D_en": "Central Election Commission", "D_hi": "केंद्रीय चुनाव आयोग",
+        "answer": "A",
+        "explanation_en": "The State Election Commission, established under the 73rd and 74th Amendments, conducts elections to rural and urban local bodies.",
+        "explanation_hi": "राज्य चुनाव आयोग, जिसे 73वें और 74वें संशोधनों के तहत स्थापित किया गया है, ग्रामीण और शहरी स्थानीय निकायों के चुनाव कराता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "What is the minimum age to contest for a seat in a Panchayat as per the 73rd Amendment?",
+        "question_hi": "73वें संशोधन के अनुसार पंचायत में एक सीट के लिए प्रतिस्पर्धा करने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 वर्ष",
+        "B_en": "21 years", "B_hi": "21 वर्ष",
+        "C_en": "25 years", "C_hi": "25 वर्ष",
+        "D_en": "30 years", "D_hi": "30 वर्ष",
+        "answer": "B",
+        "explanation_en": "The 73rd Amendment Act sets the minimum age for contesting panchayat elections at 21 years.",
+        "explanation_hi": "73वें संशोधन अधिनियम पंचायत चुनाव में प्रतिस्पर्धा करने के लिए न्यूनतम आयु 21 वर्ष तय करता है।"
+    },
+    {
+        "subject": "Indian Polity",
+        "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+        "question_en": "Which of the following is a constitutional requirement for the reservation of seats for women in urban local bodies?",
+        "question
