@@ -1,0 +1,140 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Economy topics relevant to Rajasthan State Exams, SSC, and Railway exams. The subject is Economy, and the topic isn't specified, so I should cover various important areas like GDP, economic policies, sectors, etc. Each question needs to be in both Hindi and English, following the given JSON structure. Let me start brainstorming topics.
+
+First, I should consider key economic indicators. Maybe a question on India's GDP growth rate. Then, economic planning like the Planning Commission and NITI Aayog. Next, important economic sectors like agriculture, industry, and services. There's also monetary policy by RBI, tax systems like GST, economic reforms in 1991, and concepts like inflation and fiscal deficit. Also, maybe some questions on MSMEs, national income, and recent economic initiatives.
+
+I need to ensure the difficulty level is appropriate for these exams. The answers should be clear and factual. For each question, I'll need four options with one correct answer. The explanations should be concise but informative. Let me start drafting each question step by step, making sure the translations are accurate and the options are plausible but not too tricky. I'll also check that the answer explanations correctly justify the right option.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Economic Indicators",
+    "question_en": "What was the GDP growth rate of India in the fiscal year 2022-23?",
+    "question_hi": "वित्त वर्ष 2022-23 में भारत की जीडीपी वृद्धि दर क्या थी?",
+    "A_en": "6.5%", "A_hi": "6.5%",
+    "B_en": "7.2%", "B_hi": "7.2%",
+    "C_en": "8.7%", "C_hi": "8.7%",
+    "D_en": "5.8%", "D_hi": "5.8%",
+    "answer": "B",
+    "explanation_en": "India's GDP growth rate for FY 2022-23 was 7.2%, driven by strong performance in agriculture and services sectors.",
+    "explanation_hi": "वित्त वर्ष 2022-23 में भारत की जीडीपी वृद्धि दर 7.2% रही, जिसमें कृषि और सेवा क्षेत्रों का मजबूत प्रदर्शन था।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Economic Planning",
+    "question_en": "Which organization is responsible for economic planning in India?",
+    "question_hi": "भारत में आर्थिक योजना की जिम्मेदारी किस संगठन की है?",
+    "A_en": "Ministry of Finance", "A_hi": "वित्त मंत्रालय",
+    "B_en": "RBI", "B_hi": "आरबीआई",
+    "C_en": "NITI Aayog", "C_hi": "नीति आयोग",
+    "D_en": "SEBI", "D_hi": "एसईबीआई",
+    "answer": "C",
+    "explanation_en": "NITI Aayog is the nodal agency for economic planning in India, replacing the Planning Commission in 2015.",
+    "explanation_hi": "भारत में आर्थिक योजना की मुख्य एजेंसी नीति आयोग है, जो 2015 में योजना आयोग के स्थान पर है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Monetary Policy",
+    "question_en": "Which institution is responsible for formulating India's monetary policy?",
+    "question_hi": "भारत की मौद्रिक नीति किस संस्थान द्वारा बनाई जाती है?",
+    "A_en": "Ministry of Finance", "A_hi": "वित्त मंत्रालय",
+    "B_en": "RBI", "B_hi": "आरबीआई",
+    "C_en": "NITI Aayog", "C_hi": "नीति आयोग",
+    "D_en": "SEBI", "D_hi": "एसईबीआई",
+    "answer": "B",
+    "explanation_en": "Reserve Bank of India (RBI) formulates and implements monetary policy to control inflation and ensure financial stability.",
+    "explanation_hi": "भारतीय रिजर्व बैंक (आरबीआई) मुद्रास्फीति नियंत्रण और वित्तीय स्थिरता सुनिश्चित करने के लिए मौद्रिक नीति बनाता है और लागू करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Economic Reforms",
+    "question_en": "In which year did India liberalize its economy with structural adjustment reforms?",
+    "question_hi": "भारत अपनी अर्थव्यवस्था को संरचनात्मक बदलावों के साथ किस वर्ष छूट दे गया?",
+    "A_en": "1991", "A_hi": "1991",
+    "B_en": "1997", "B_hi": "1997",
+    "C_en": "2001", "C_hi": "2001",
+    "D_en": "2010", "D_hi": "2010",
+    "answer": "A",
+    "explanation_en": "India introduced economic liberalization in 1991 to address a balance of payments crisis and open up to global markets.",
+    "explanation_hi": "भारत ने 1991 में चालू खाता घाटा के क्रिसिस के समाधान के लिए आर्थिक सुधार किया और वैश्विक बाजारों के लिए खुल गया।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Taxation",
+    "question_en": "What is the main purpose of the Goods and Services Tax (GST) in India?",
+    "question_hi": "भारत में वस्तु और सेवा कर (जीएसटी) का मुख्य उद्देश्य क्या है?",
+    "A_en": "To eliminate multiple taxes", "A_hi": "कई करों को दूर करना",
+    "B_en": "To increase government revenue", "B_hi": "सरकार की आय बढ़ाना",
+    "C_en": "To reduce inflation", "C_hi": "मुद्रास्फीति कम करना",
+    "D_en": "To control population growth", "D_hi": "जनसंख्या वृद्धि नियंत्रित करना",
+    "answer": "A",
+    "explanation_en": "GST was introduced to unify various indirect taxes into a single tax system, reducing cascading effects and simplifying compliance.",
+    "explanation_hi": "जीएसटी कई प्रत्यक्ष करों को एकल कर प्रणाली में जोड़कर कर चेन के प्रभाव को कम करने और आवेदन को सरल बनाने के लिए पेश किया गया।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Fiscal Policy",
+    "question_en": "Which of the following is a tool of fiscal policy?",
+    "question_hi": "निम्नलिखित में से कौन एक वित्तीय नीति का उपकरण है?",
+    "A_en": "Interest rates", "A_hi": "ब्याज दरें",
+    "B_en": "Open market operations", "B_hi": "खुले बाजार के ऑपरेशन",
+    "C_en": "Government spending", "C_hi": "सरकारी खर्च",
+    "D_en": "Reserve requirements", "D_hi": "रिजर्व आवश्यकताएं",
+    "answer": "C",
+    "explanation_en": "Government spending is a key component of fiscal policy, used to influence economic activity through public expenditure.",
+    "explanation_hi": "सरकारी खर्च एक महत्वपूर्ण वित्तीय नीति घटक है, जिसका उपयोग जनता के खर्च द्वारा आर्थिक गतिविधि पर प्रभाव डालने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Poverty Alleviation",
+    "question_en": "Which Indian scheme aims to provide financial inclusion to the poor?",
+    "question_hi": "कौन सी भारतीय योजना गरीबों में वित्तीय समावेशन प्रदान करने के लक्ष्य पर काम करती है?",
+    "A_en": "PMJDY", "A_hi": "पीएमजेडवाई",
+    "B_en": "PMKSY", "B_hi": "पीएमकेआईवाई",
+    "C_en": "PMKSY", "C_hi": "पीएमकेआईवाई",
+    "D_en": "PMJSY", "D_hi": "पीएमजेस्काईवाई",
+    "answer": "A",
+    "explanation_en": "Pradhan Mantri Jan-Dhan Yojana (PMJDY) aims to provide access to financial services for the unbanked population.",
+    "explanation_hi": "प्रधान मंत्री जन-धन योजना (पीएमजेडवाई) बैंकिंग निर्मूलित जनता के लिए वित्तीय सेवाओं के अभिगमन को बढ़ावा देने की ओर रखती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rural Economy",
+    "question_en": "What percentage of India's workforce is engaged in the agricultural sector?",
+    "question_hi": "भारत के कार्मिक बल का कितना प्रतिशत कृषि क्षेत्र में नियुक्त है?",
+    "A_en": "40%", "A_hi": "40%",
+    "B_en": "50%", "B_hi": "50%",
+    "C_en": "60%", "C_hi": "60%",
+    "D_en": "30%", "D_hi": "30%",
+    "answer": "B",
+    "explanation_en": "Approximately 50% of India's workforce is engaged in agriculture, though it contributes a smaller share to the GDP.",
+    "explanation_hi": "लगभग 50% भारतीय कार्मिक बल कृषि में नियुक्त है, हालांकि यह जीडीपी में छोटे हिस्सा का योगदान देता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Global Economy",
+    "question_en": "Which of the following is a multilateral development bank?",
+    "question_hi": "निम्नलिखित में से कौन एक बहुपक्षीय विकास बैंक है?",
+    "A_en": "IMF", "A_hi": "मंडल",
+    "B_en": "World Bank", "B_hi": "विश्व बैंक",
+    "C_en": "ADB", "C_hi": "एएडीबी",
+    "D_en": "All of the above", "D_hi": "सभी कथन सच हैं",
+    "answer": "D",
+    "explanation_en": "IMF, World Bank, and ADB are all multilateral development banks that provide financial and technical assistance to member countries.",
+    "explanation_hi": "मंडल, विश्व बैंक और एएडीबी सभी बहुपक्षीय विकास बैंक हैं, जो सदस्य देशों को वित्तीय और तकनीकी सहायता प्रदान करते हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Economic Sectors",
+    "question_en": "Which sector contributes the most to India's GDP?",
+    "question_hi": "भारत के जीडीपी में कौन सा क्षेत्र सबसे अधिक योगदान देता है?",
+    "A_en": "Agriculture", "A_hi": "कृषि",
+    "B_en": "Industry", "B_hi": "उद्योग",
+    "C_en": "Services", "C_hi": "सेवा",
+    "D_en": "Construction", "D_hi": "निर्माण",
+    "answer": "C",
+    "explanation_en": "The services sector is the largest contributor to India's GDP, followed by industry and agriculture.",
+    "explanation_hi": "सेवा क्षेत्र भारत के जीडीपी में सबसे बड़ा योगदानकर्ता है, फिर उद्योग और कृषि।"
+  }
+]
