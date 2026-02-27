@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Fiscal Policy",
+"question_en": "What is the primary objective of Fiscal Policy in an economy?",
+"question_hi": "एक भारतीय आयोग में अधिकांशक प्रतिक्रमी क्या कार्य करता है?",
+"A_en": "To control inflation",
+"A_hi": "श्रमिक कर्मचारी",
+"B_en": "To promote economic growth",
+"B_hi": "आनंदित आयोग का विकास",
+"C_en": "To stabilize the economy",
+"C_hi": "आयोजना को सुरक्षित करना",
+"D_en": "To redistribute wealth",
+"D_hi": "राशि उल्लेखन",
+"answer": "C",
+"explanation_en": "The primary objective of Fiscal Policy is to stabilize the economy (Control التضخم).",
+"explanation_hi": "एक विकास दर विज्ञान को सुरक्षित करना",
+}
+]
