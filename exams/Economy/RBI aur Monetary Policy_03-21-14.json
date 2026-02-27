@@ -1,0 +1,191 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions on the topic of the Reserve Bank of India (RBI) and Monetary Policy for exams like Rajasthan State Exams (LDC, CET, RAS), SSC, and Railway (NTPC). Let me start by recalling key concepts related to RBI and monetary policy.
+
+First, the primary functions of RBI. I remember that RBI is responsible for monetary policy, regulating the money supply, and maintaining price stability. So a question could be about who formulates the monetary policy in India. The answer would be RBI.
+
+Next, the tools used in monetary policy. Open Market Operations (OMO), Repo Rate, CRR, SLR, these are common ones. Maybe a question about which tool the RBI uses to control liquidity in the economy. Options could include Repo Rate, CRR, SLR, and maybe something else like Bank Rate.
+
+Then, the difference between expansionary and contractionary monetary policy. If the RBI wants to increase money supply, they might lower the repo rate. That could be another question.
+
+Also, the concept of inflation targeting. RBI's mandate includes maintaining price stability, so a question on what the primary objective of monetary policy is.
+
+The structure of the monetary policy committee. The MPC consists of members from RBI and the government. A question on how many members are there in the MPC, maybe.
+
+The Statutory Liquidity Ratio (SLR) and Cash Reserve Ratio (CRR) – their purposes. For example, SLR is to maintain the health of the banking system by holding liquid assets.
+
+Repo Rate vs Reverse Repo Rate. Questions on which one is used to absorb excess liquidity or inject money.
+
+Inflation rates as a target. For instance, the current inflation target under the RBI's mandate is 4% with a tolerance band of +/- 2%. That could be a question.
+
+Monetary policy announcements. The frequency of the policy – does RBI announce it quarterly, semi-annually, or annually?
+
+Impact of interest rates on the economy. Lowering repo rates can stimulate borrowing and investment, while increasing them can control inflation.
+
+Now, considering the difficulty level for these exams. The questions should not be too basic but also not require in-depth knowledge beyond the standard syllabus. They should test understanding of key concepts and definitions.
+
+I need to ensure that the options are tricky but correct. For example, in a question about the primary objective, options might include growth, employment, price stability, etc. The answer is price stability.
+
+Also, some questions can be about specific measures. Like, when the economy is in recession, what action does RBI take – expansionary policy, contractionary, etc.
+
+I should also check for recent updates. For example, the current inflation target is 4%, but if there's a recent change, I need to confirm. But since the user hasn't provided specific dates, it's safe to use the standard 4% target.
+
+Now, structuring each question in both Hindi and English. The translations need to be accurate. For example, "Monetary Policy Committee (MPC)" in Hindi is "मौद्रिक नीति समिति (एमपीसी)".
+
+Each question should have four options, with the correct answer clearly marked. The explanations should briefly clarify why the correct option is right and maybe touch on the other options.
+
+Let me start drafting the first question. Let's cover the primary function of RBI. Then proceed to other aspects step by step, ensuring each question covers a different subtopic within monetary policy.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Monetary Policy in India is formulated by:",
+    "question_hi": "भारत में मौद्रिक नीति किसके द्वारा बनाई जाती है?",
+    "A_en": "Reserve Bank of India (RBI)",
+    "A_hi": "भारतीय रिजर्व बैंक (RBI)",
+    "B_en": "Ministry of Finance",
+    "B_hi": "वित्त मंत्रालय",
+    "C_en": "Union Government",
+    "C_hi": "केंद्र सरकार",
+    "D_en": "State Governments",
+    "D_hi": "राज्य सरकारें",
+    "answer": "A",
+    "explanation_en": "The Reserve Bank of India (RBI) is responsible for formulating and implementing monetary policy in India.",
+    "explanation_hi": "भारतीय रिजर्व बैंक (RBI) भारत में मौद्रिक नीति के निर्माण और क्रियान्वयन के लिए उत्तरदायी है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Which of the following is a key tool used by RBI to control liquidity in the economy?",
+    "question_hi": "आरबीआई अर्थव्यवस्था में तरलता नियंत्रित करने के लिए निम्नलिखित में से किस उपकरण का उपयोग आवश्यक रूप से करता है?",
+    "A_en": "Statutory Liquidity Ratio (SLR)",
+    "A_hi": "आवश्यक तरलता अनुपात (SLR)",
+    "B_en": "Cash Reserve Ratio (CRR)",
+    "B_hi": "नकद आरक्षित अनुपात (CRR)",
+    "C_en": "Open Market Operations (OMO)",
+    "C_hi": "खुले बाजार के संचालन (OMO)",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "RBI uses SLR, CRR, and OMO as primary tools to manage liquidity in the economy.",
+    "explanation_hi": "आरबीआई अर्थव्यवस्था में तरलता प्रबंधन के लिए SLR, CRR और OMO का उपयोग करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "The primary objective of the RBI's Monetary Policy is to:",
+    "question_hi": "आरबीआई की मौद्रिक नीति का मुख्य उद्देश्य है:",
+    "A_en": "Maintain price stability",
+    "A_hi": "मूल्य स्थिरता बनाए रखना",
+    "B_en": "Ensure full employment",
+    "B_hi": "पूर्ण रोजगार सुनिश्चित करना",
+    "C_en": "Achieve economic growth",
+    "C_hi": "आर्थिक वृद्धि प्राप्त करना",
+    "D_en": "Promote exports",
+    "D_hi": "निर्यातों को बढ़ावा देना",
+    "answer": "A",
+    "explanation_en": "Maintaining price stability is the primary objective of India's monetary policy as mandated by the RBI Act.",
+    "explanation_hi": "आरबीआई अधिनियम द्वारा निर्देशित, भारत की मौद्रिक नीति का मुख्य उद्देश्य मूल्य स्थिरता बनाए रखना है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "What is the current inflation target set by the RBI under the Monetary Policy Framework?",
+    "question_hi": "मौद्रिक नीति फ्रेमवर्क में आरबीआई द्वारा सेट वर्तमान महासागरीय लक्ष्य क्या है?",
+    "A_en": "2%",
+    "A_hi": "2%",
+    "B_en": "4%",
+    "B_hi": "4%",
+    "C_en": "6%",
+    "C_hi": "6%",
+    "D_en": "8%",
+    "D_hi": "8%",
+    "answer": "B",
+    "explanation_en": "The RBI has set an inflation target of 4% with a tolerance band of +/- 2%.",
+    "explanation_hi": "आरबीआई ने महासागरीय लक्ष्य के रूप में 4% निर्धारित किया है, जिसके सहने योग्य बैंड +/- 2% है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "Which institution is responsible for the monetary policy implementation in India?",
+    "question_hi": "भारत में मौद्रिक नीति के क्रियान्वयन के लिए कौन सा संस्थान उत्तरदायी है?",
+    "A_en": "Reserve Bank of India (RBI)",
+    "A_hi": "भारतीय रिजर्व बैंक (RBI)",
+    "B_en": "Ministry of Finance",
+    "B_hi": "वित्त मंत्रालय",
+    "C_en": "Indian Government",
+    "C_hi": "भारतीय सरकार",
+    "D_en": "Planning Commission",
+    "D_hi": "नीति आयोग",
+    "answer": "A",
+    "explanation_en": "The Reserve Bank of India (RBI) is solely responsible for implementing monetary policy.",
+    "explanation_hi": "भारतीय रिजर्व बैंक (RBI) मौद्रिक नीति के क्रियान्वयन के लिए विशिष्ट रूप से उत्तरदायी है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "The Monetary Policy Committee (MPC) in India is composed of:",
+    "question_hi": "भारत में मौद्रिक नीति समिति (MPC) किसके द्वारा गठित है?",
+    "A_en": "9 members (6 from RBI, 3 from Government)",
+    "A_hi": "9 सदस्य (6 RBI से, 3 सरकार से)",
+    "B_en": "6 members (3 from RBI, 3 from Government)",
+    "B_hi": "6 सदस्य (3 RBI से, 3 सरकार से)",
+    "C_en": "12 members (8 from RBI, 4 from Government)",
+    "C_hi": "12 सदस्य (8 RBI से, 4 सरकार से)",
+    "D_en": "7 members (4 from RBI, 3 from Government)",
+    "D_hi": "7 सदस्य (4 RBI से, 3 सरकार से)",
+    "answer": "B",
+    "explanation_en": "The MPC consists of 6 members, 3 from RBI and 3 nominated by the Government.",
+    "explanation_hi": "MPC में 6 सदस्य होते हैं, जिनमें से 3 RBI से और 3 सरकार द्वारा नियुक्त होते हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "The Cash Reserve Ratio (CRR) is maintained by banks to:",
+    "question_hi": "नकद आरक्षित अनुपात (CRR) को बैंक किस उद्देश्य से रखते हैं?",
+    "A_en": "Ensure liquidity",
+    "A_hi": "तरलता सुनिश्चित करना",
+    "B_en": "Meet statutory requirements",
+    "B_hi": "कानूनी आवश्यकताओं को पूरा करना",
+    "C_en": "Control credit creation",
+    "C_hi": "ऋण निर्माण नियंत्रित करना",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "CRR is maintained to ensure liquidity, meet statutory obligations, and regulate credit creation in the economy.",
+    "explanation_hi": "CRR को तरलता सुनिश्चित करने, कानूनी अनुपालन करने और अर्थव्यवस्था में ऋण निर्माण नियंत्रित करने के लिए रखा जाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "When the RBI lowers the repo rate, it generally indicates:",
+    "question_hi": "जब आरबीआई रेपो दर कम करता है तो आमतौर पर यह संकेत देता है:",
+    "A_en": "Expansionary monetary policy",
+    "A_hi": "विस्तारात्मक मौद्रिक नीति",
+    "B_en": "Contractionary monetary policy",
+    "B_hi": "संकुचित मौद्रिक नीति",
+    "C_en": "Neutral monetary policy",
+    "C_hi": "तटस्थ मौद्रिक नीति",
+    "D_en": "Deflationary policy",
+    "D_hi": "मौद्रिक शिथिलता नीति",
+    "answer": "A",
+    "explanation_en": "Lowering the repo rate makes borrowing cheaper for banks, encouraging credit creation and stimulating the economy.",
+    "explanation_hi": "रेपो दर कम करने से बैंकों के लिए ऋण लेने में सस्ता हो जाता है, जिससे ऋण निर्माण को प्रोत्साहन मिलता है और अर्थव्यवस्था उत्तेजित होती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "RBI aur Monetary Policy",
+    "question_en": "The Statutory Liquidity Ratio (SLR) is maintained to:",
+    "question_hi": "आवश्यक तरलता अनुपात (SLR) की रकम को किस उद्देश्य से रखा जाता है?",
+    "A_en": "Control inflation",
+    "A_hi": "महासागरीय नियंत्रण",
+    "B_en": "Ensure solvency of banks",
+    "B_hi": "बैंकों के देवता की गारंटी",
+    "C_en": "Regulate foreign exchange",
+    "C_hi": "विदेशी मुद्रा नियंत्रित करना",
+    "D_en": "All of the above",
+    "D_hi": "ऊपर के सभी",
+    "answer": "B",
+    "explanation_en": "SLR is maintained to ensure that banks have sufficient liquid assets to meet their obligations and remain solvent.",
+    "explanation_hi": "SLR को बैंकों के देवता की गारंटी
