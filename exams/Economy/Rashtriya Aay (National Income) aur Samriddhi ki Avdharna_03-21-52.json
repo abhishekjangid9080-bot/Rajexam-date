@@ -1,0 +1,120 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on National Income and the Concept of Prosperity in Economy, in both Hindi and English. The target exams are Rajasthan-specific and others like SSC and Railway. So, I need to ensure the questions are relevant to these exams and cover the topic thoroughly.
+
+First, I need to recall key concepts related to National Income. Important points include definitions of GDP, GNP, NNP, methods of calculation (income method, expenditure method, value added method), factors affecting national income, and indicators of prosperity like HDI. Also, understanding the difference between GNP and GDP is crucial.
+
+For each question, I have to create a clear English version and its Hindi translation. The options should be in both languages as well. The answer and explanations need to be accurate. The difficulty level should be moderate to high since it's for competitive exams. I'll need to check for any possible ambiguities in the questions and ensure that the correct answer is unambiguous.
+
+Let me start brainstorming topics. The first question could be about the primary objective of calculating national income. Then, methods of calculation, factors included in GDP, the difference between GDP and GNP, the role of depreciation, the concept of per capita income, the importance of human development index, the impact of informal sectors, the role of government policies, and challenges in measuring national income.
+
+Each question should test a specific concept. For example, asking which method is used for calculating GDP by summing all final goods and services would test understanding of the expenditure method. Another question could be about which factor is not included in GDP, like transfer payments.
+
+I need to make sure the options are tricky but the correct answer is clear. For example, in a question about GDP vs GNP, the correct answer would be that GDP includes income earned within the country, while GNP includes income earned by residents worldwide. The options should include common mistakes or related terms.
+
+Also, translating the questions into Hindi accurately is important. Terms like GDP might be directly used in Hindi, so I'll use "ग्रास डोमेस्टिक प्रॉडक्ट" for GDP. Ensuring that the explanations are concise and highlight the key point without being too technical.
+
+After drafting each question, I'll cross-verify the facts. For instance, when discussing the Human Development Index, confirming that it measures life expectancy, education, and per capita income. For depreciation, making sure that it's subtracted from GNP to get NNP.
+
+I should also check if there are any commonly confused terms among the options. For example, in a question about what's excluded from GDP, options might include intermediate goods, used goods, transfer payments, and exports. The correct answer is transfer payments, but others might be distractors.
+
+Finally, reviewing each question for clarity and correctness. Ensuring that the answer is the best possible choice and that the explanations clearly justify the answer. Avoiding any overlap in topics but covering a broad range of the subject to test comprehensive understanding.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "Which method is used to calculate National Income by summing all final goods and services produced in an economy?",
+    "question_hi": "एक अर्थव्यवस्था में उत्पादित सभी अंतिम वस्तुओं और सेवाओं के योग के माध्यम से राष्ट्रीय आय की गणना करने के लिए किस विधि का उपयोग किया जाता है?",
+    "A_en": "Income Method", "A_hi": "आय विधि",
+    "B_en": "Expenditure Method", "B_hi": "व्यय विधि",
+    "C_en": "Value Added Method", "C_hi": "मूल्य वर्धित विधि",
+    "D_en": "Factor Cost Method", "D_hi": "कारक लागत विधि",
+    "answer": "B",
+    "explanation_en": "The Expenditure Method calculates National Income by summing all final goods and services produced in an economy.",
+    "explanation_hi": "व्यय विधि एक अर्थव्यवस्था में उत्पादित सभी अंतिम वस्तुओं और सेवाओं के योग के माध्यम से राष्ट्रीय आय की गणना करती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "Which of the following is NOT included in the calculation of Gross Domestic Product (GDP)?",
+    "question_hi": "निम्नलिखित में से कौन-सा ग्रास डोमेस्टिक प्रॉडक्ट (GDP) की गणना में शामिल नहीं किया जाता है?",
+    "A_en": "Consumer Expenditure", "A_hi": "उपभोक्ता व्यय",
+    "B_en": "Government Spending", "B_hi": "सरकारी खर्च",
+    "C_en": "Transfer Payments", "C_hi": "स्थानांतरण भुगतान",
+    "D_en": "Investment in Fixed Capital", "D_hi": "स्थिर पूंजी में निवेश",
+    "answer": "C",
+    "explanation_en": "Transfer Payments (like subsidies or pensions) are not included in GDP as they do not represent production of goods/services.",
+    "explanation_hi": "स्थानांतरण भुगतान (जैसे सब्सिडियाँ या पेंशन) GDP में शामिल नहीं किए जाते क्योंकि ये वस्तुओं/सेवाओं के उत्पादन का प्रतिनिधित्व नहीं करते हैं।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "What is the primary objective of calculating National Income?",
+    "question_hi": "राष्ट्रीय आय की गणना का मुख्य उद्देश्य क्या है?",
+    "A_en": "To assess the population growth", "A_hi": "जनसंख्या वृद्धि का आकलन करना",
+    "B_en": "To measure the economic development of a country", "B_hi": "एक देश के आर्थिक विकास का मापन करना",
+    "C_en": "To determine the literacy rate", "C_hi": "साक्षरता दर का निर्धारण करना",
+    "D_en": "To calculate the unemployment rate", "D_hi": "बेरोजगारी दर की गणना करना",
+    "answer": "B",
+    "explanation_en": "National Income is calculated to measure a country's economic development and standard of living.",
+    "explanation_hi": "राष्ट्रीय आय की गणना एक देश के आर्थिक विकास और जीवन स्तर का मापन करने के लिए की जाती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "Which of the following is a key indicator of prosperity in an economy?",
+    "question_hi": "निम्नलिखित में से कौन-सा एक अर्थव्यवस्था में समृद्धि का मुख्य संकेतक है?",
+    "A_en": "Gross Domestic Product (GDP)", "A_hi": "ग्रास डोमेस्टिक प्रॉडक्ट (GDP)",
+    "B_en": "Human Development Index (HDI)", "B_hi": "मानव विकास सूचकांक (HDI)",
+    "C_en": "Inflation Rate", "C_hi": "मुद्रास्फीति दर",
+    "D_en": "Exchange Rate", "D_hi": "विनिमय दर",
+    "answer": "B",
+    "explanation_en": "The Human Development Index (HDI) measures prosperity by combining life expectancy, education, and income indicators.",
+    "explanation_hi": "मानव विकास सूचकांक (HDI), जीवन प्रत्याशा, शिक्षा और आय संकेतकों को जोड़कर समृद्धि का मापन करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "What is the difference between Gross National Product (GNP) and Net National Product (NNP)?",
+    "question_hi": "ग्रास नेशनल प्रॉडक्ट (GNP) और नेट नेशनल प्रॉडक्ट (NNP) में क्या अंतर है?",
+    "A_en": "GNP includes foreign investments, while NNP excludes them", "A_hi": "GNP विदेशी निवेश को शामिल करता है, जबकि NNP इन्हें शामिल नहीं करता है",
+    "B_en": "NNP subtracts depreciation from GNP", "B_hi": "NNP GNP से अपस्थिरता को घटाता है",
+    "C_en": "GNP is calculated at market prices, while NNP at factor cost", "C_hi": "GNP बाजार मूल्यों पर गणना किया जाता है, जबकि NNP कारक लागत पर",
+    "D_en": "GNP measures income earned by residents, while NNP by foreigners", "D_hi": "GNP निवासियों द्वारा अर्जित आय का मापन करता है, जबकि NNP विदेशियों द्वारा अर्जित आय का मापन करता है",
+    "answer": "B",
+    "explanation_en": "Net National Product (NNP) is derived by subtracting depreciation from Gross National Product (GNP).",
+    "explanation_hi": "नेट नेशनल प्रॉडक्ट (NNP), ग्रास नेशनल प्रॉडक्ट (GNP) से अपस्थिरता को घटाकर प्राप्त किया जाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "Which of the following is a limitation of using GDP as a prosperity indicator?",
+    "question_hi": "निम्नलिखित में से कौन-सा GDP के समृद्धि संकेतक के रूप में उपयोग करने की एक सीमा है?",
+    "A_en": "GDP ignores income distribution", "A_hi": "GDP आय वितरण को अनदेखा करता है",
+    "B_en": "GDP includes black market transactions", "B_hi": "GDP काले बाजार के लेनदेन को शामिल करता है",
+    "C_en": "GDP measures only formal employment", "C_hi": "GDP केवल औपचारिक रोजगार का मापन करता है",
+    "D_en": "GDP accounts for environmental costs", "D_hi": "GDP पर्यावरण लागतों का ध्यान रखता है",
+    "answer": "A",
+    "explanation_en": "GDP does not account for how income is distributed among different sections of society, making it an incomplete prosperity indicator.",
+    "explanation_hi": "GDP समाज के विभिन्न अनुभागों में आय के वितरण का ध्यान नहीं रखता है, जिससे यह एक अधूरा समृद्धि संकेतक होता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "Which economic term refers to the value of all goods and services produced by a country's residents, regardless of location?",
+    "question_hi": "एक आर्थिक शब्द, जो किसी देश के निवासियों द्वारा उत्पादित सभी वस्तुओं और सेवाओं के मूल्य को संदर्भित करता है, स्थान के बारे में चिंता न करते हुए, क्या है?",
+    "A_en": "Gross Domestic Product (GDP)", "A_hi": "ग्रास डोमेस्टिक प्रॉडक्ट (GDP)",
+    "B_en": "Gross National Product (GNP)", "B_hi": "ग्रास नेशनल प्रॉडक्ट (GNP)",
+    "C_en": "Net National Product (NNP)", "C_hi": "नेट नेशनल प्रॉडक्ट (NNP)",
+    "D_en": "Per Capita Income", "D_hi": "प्रति व्यक्ति आय",
+    "answer": "B",
+    "explanation_en": "Gross National Product (GNP) refers to the value of all goods and services produced by a country's residents, regardless of their location.",
+    "explanation_hi": "ग्रास नेशनल प्रॉडक्ट (GNP), एक देश के निवासियों द्वारा उत्पादित सभी वस्तुओं और सेवाओं के मूल्य का संदर्भ देता है, उनके स्थान के बारे में चिंता न करते हुए।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rashtriya Aay (National Income) aur Samriddhi ki Avdharna",
+    "question_en": "What does the Human Development Index (HDI) primarily assess?",
+    "question_hi": "मानव विकास सूचकांक (HDI) मुख्य रूप से क्या मूल्यांकन करता है?",
+    "
