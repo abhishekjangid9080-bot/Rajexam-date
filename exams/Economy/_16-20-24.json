@@ -1,0 +1,21 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What is the formula for calculating Gross Domestic Product (GDP)?",
+"question_hi": "ग्रॉस कागज संयोजन (GDP) को कैसे प्रसारित किया जाता है?",
+"A_en": "GDP = C + I + G + (X - M)",
+"A_hi": "GDP = C + I + G + (X - M)",
+"B_en": "GDP = NNP",
+"B_hi": "GDP = NNP",
+"C_en": "GDP = GDP of India",
+"C_hi": "GDP = GDP of India",
+"D_en": "GDP = PPP",
+"D_hi": "GDP = PPP",
+"answer": "A",
+"explanation_en": "The formula to calculate Gross Domestic Product (GDP) is: GDP = C + I + G + (X - M). This formula represents Consumption (C), Investment (I), Government expenditure (G), and Net Exports (X - M).",
+"explanation_hi": "GDP का प्रतिक्रम के पाठ में C + I + G + (X - M) का उपयोग करें। इस पाठ में, C होंसर, I होंसर, G होंसर, और (X - M) होंसर का उपयोग करें।",
+"explanation_hi": "GDP का पाठ C + I + G + (X - M) में आहोंसर। यहाँ किया गया है।",
+"answer": "B"
+}
+]
