@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Food Processing and Infrastructure in the Economy for Rajasthan State Exams, SSC, and Railway NTPC. Let me start by recalling the key points in this topic. 
+
+First, I should cover the importance of food processing industries in the economy. Maybe a question about the benefits of food processing. Then, infrastructure aspects like cold storage facilities, food parks, logistics, and government schemes. 
+
+For each question, I need two versions: Hindi and English. The options should be in both languages too. The answer and explanation must also be in both languages. Let me structure each question step by step.
+
+1. **Question on the main objective of food processing industries.** The answer would be reducing post-harvest losses. Other options could be increasing export, promoting tourism, or boosting mining.
+
+2. **Cold storage infrastructure.** The main purpose is to preserve perishable goods. Other options might be processing, packaging, or transportation.
+
+3. **Food Park Scheme.** Initiated by the government to set up food processing units. Other options could be related to tourism, housing, or education.
+
+4. **Impact of food processing on the economy.** It can generate employment and increase income. Other options: reduce agricultural production, lower GDP, or increase imports.
+
+5. **Logistics in food processing.** Efficient logistics ensure timely delivery. Other options: increase costs, reduce quality, or promote tourism.
+
+6. **Government incentives for food processing.** Tax exemptions, subsidies, etc. Other options: higher taxes, restrictions, or penalties.
+
+7. **Key infrastructure for food processing.** Cold storage, processing units, etc. Other options: dams, highways, or airports.
+
+8. **Role of food processing in rural development.** Creates employment opportunities. Other options: reduces agricultural production, leads to urbanization, or increases unemployment.
+
+9. **Challenges in food processing.** Lack of infrastructure, maybe. Other options: surplus production, low demand, or high technology.
+
+10. **Benefits of food processing for farmers.** Higher income through value addition. Other options: lower production, dependency on government, or reduced market prices.
+
+Now, I need to translate each question into Hindi, ensuring the options are correctly translated. Also, check that the explanations are accurate and in both languages. Let me make sure the difficulty level is appropriate for the exams mentioned. Avoid technical jargon but still test understanding of the concepts. Double-check the answer options to ensure there's only one correct answer each. Align the explanations to clearly justify the correct answer. Once all questions are drafted, format them into the required JSON structure without any markdown.
+</think>
+
+[
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "What is the primary objective of food processing industries?",
+"question_hi": "खाद्य प्रसंस्करण उद्योगों का मुख्य उद्देश्य क्या है?",
+"A_en": "Reduce post-harvest losses", "A_hi": "अंकुश के बाद के नुकसान कम करना",
+"B_en": "Increase agricultural exports", "B_hi": "कृषि निर्यात में वृद्धि",
+"C_en": "Promote tourism", "C_hi": "पर्यटन को बढ़ावा देना",
+"D_en": "Boost mining activities", "D_hi": "�नन गतिविधियों में वृद्धि",
+"answer": "A",
+"explanation_en": "Food processing industries aim to minimize losses after harvesting crops.",
+"explanation_hi": "खाद्य प्रसंस्करण उद्योग फसल हार्वेस्टिंग के बाद होने वाले नुकसान को कम करने का लक्ष्य रखते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "Which infrastructure is crucial for preserving perishable food items?",
+"question_hi": "अपवितरित खाद्य वस्तुओं को संरक्षित रखने के लिए कौन-सी बुनियादी ढांचा महत्वपूर्ण है?",
+"A_en": "Cold storage facilities", "A_hi": "ठंडा संग्रह केंद्र",
+"B_en": "Processing units", "B_hi": "प्रसंस्करण इकाइयाँ",
+"C_en": "Packaging plants", "C_hi": "पैकिंग संयंत्र",
+"D_en": "Transport networks", "D_hi": "परिवहन नेटवर्क",
+"answer": "A",
+"explanation_en": "Cold storage facilities are essential to preserve perishable goods like fruits and vegetables.",
+"explanation_hi": "फल और सब्जियों जैसे अपवितरित खाद्य पदार्थों को संरक्षित रखने के लिए ठंडा संग्रह केंद्र आवश्यक हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "What is the main purpose of the Food Park Scheme launched by the government?",
+"question_hi": "सरकार द्वारा शुरू की गई खाद्य पार्क योजना का मुख्य उद्देश्य क्या है?",
+"A_en": "Establish food processing units", "A_hi": "खाद्य प्रसंस्करण इकाइयाँ स्थापित करना",
+"B_en": "Develop tourist attractions", "B_hi": "पर्यटकों के लिए आकर्षण बिंदु विकसित करना",
+"C_en": "Provide housing for workers", "C_hi": "श्रमिकों के लिए आवास प्रदान करना",
+"D_en": "Promote educational institutions", "D_hi": "शैक्षिक संस्थानों को बढ़ावा देना",
+"answer": "A",
+"explanation_en": "Food Park Schemes are initiated to set up industrial units for food processing.",
+"explanation_hi": "खाद्य पार्क योजनाओं के माध्यम से खाद्य प्रसंस्करण के लिए उद्योग इकाइयाँ स्थापित की जाती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "How does food processing contribute to the economy?",
+"question_hi": "खाद्य प्रसंस्करण अर्थव्यवस्था में कैसे योगदान करता है?",
+"A_en": "Generates employment and increases income", "A_hi": "रोजगार पैदा करना और आय में वृद्धि करना",
+"B_en": "Reduces agricultural production", "B_hi": "कृषि उत्पादन कम करना",
+"C_en": "Lowers GDP", "C_hi": "जीडीपी कम करना",
+"D_en": "Increases import dependency", "D_hi": "आयात निर्भरता बढ़ाना",
+"answer": "A",
+"explanation_en": "Food processing industries create jobs and enhance income through value addition.",
+"explanation_hi": "खाद्य प्रसंस्करण उद्योग मूल्य जोड़ के माध्यम से रोजगार और आय में वृद्धि करते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "What role does logistics play in food processing?",
+"question_hi": "खाद्य प्रसंस्करण में लॉजिस्टिक्स की क्या भूमिका है?",
+"A_en": "Ensures timely delivery of processed food", "A_hi": "प्रसंस्कृत खाद्य की नियत समय पर बरामदगी सुनिश्चित करना",
+"B_en": "Increases transportation costs", "B_hi": "परिवहन लागत में वृद्धि करना",
+"C_en": "Reduces product quality", "C_hi": "उत्पाद गुणवत्ता कम करना",
+"D_en": "Promotes tourism", "D_hi": "पर्यटन को बढ़ावा देना",
+"answer": "A",
+"explanation_en": "Efficient logistics ensures that processed food reaches consumers on time.",
+"explanation_hi": "समर्पित लॉजिस्टिक्स प्रसंस्कृत खाद्य की नियत समय पर समर्पण सुनिश्चित करते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "Which of the following is a government incentive for food processing units?",
+"question_hi": "खाद्य प्रसंस्करण इकाइयों के लिए सरकारी प्रोत्साहन में कौन-सा शामिल है?",
+"A_en": "Tax exemptions", "A_hi": "कर छूट",
+"B_en": "Higher taxes", "B_hi": "उच्च कर",
+"C_en": "Import restrictions", "C_hi": "आयात प्रतिबंध",
+"D_en": "Penalties for non-compliance", "D_hi": "अनुपालन के लिए दंड",
+"answer": "A",
+"explanation_en": "Governments often provide tax exemptions to encourage food processing industries.",
+"explanation_hi": "सरकारें अक्सर खाद्य प्रसंस्करण उद्योगों को बढ़ावा देने के लिए कर छूट प्रदान करती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "What is a key infrastructure component for food processing?",
+"question_hi": "खाद्य प्रसंस्करण के लिए एक महत्वपूर्ण बुनियादी ढांचा घटक क्या है?",
+"A_en": "Cold storage", "A_hi": "ठंडा संग्रह",
+"B_en": "Dams", "B_hi": "बांध",
+"C_en": "Highways", "C_hi": "अवस्थिति मार्ग",
+"D_en": "Airports", "D_hi": "हवाई अड्डे",
+"answer": "A",
+"explanation_en": "Cold storage is essential for preserving processed food items.",
+"explanation_hi": "प्रसंस्कृत खाद्य वस्तुओं को संरक्षित रखने के लिए ठंडा संग्रह आवश्यक है।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "How does food processing support rural development?",
+"question_hi": "खाद्य प्रसंस्करण ग्रामीण विकास को कैसे समर्थन करता है?",
+"A_en": "Creates employment opportunities", "A_hi": "रोजगार के अवसर खोलना",
+"B_en": "Reduces agricultural production", "B_hi": "कृषि उत्पादन कम करना",
+"C_en": "Encourages urbanization", "C_hi": "शहरीकरण को बढ़ावा देना",
+"D_en": "Increases unemployment", "D_hi": "अनियोजित बेरोजगारी में वृद्धि करना",
+"answer": "A",
+"explanation_en": "Food processing industries in rural areas create jobs and boost local economies.",
+"explanation_hi": "ग्रामीण क्षेत्रों में खाद्य प्रसंस्करण उद्योग रोजगार और स्थानीय अर्थव्यवस्था में वृद्धि करते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "What is a major challenge in food processing infrastructure?",
+"question_hi": "खाद्य प्रसंस्करण बुनियादी ढांचे में एक मुख्य चुनौती क्या है?",
+"A_en": "Lack of cold storage facilities", "A_hi": "ठंडा संग्रह केंद्र की कमी",
+"B_en": "Surplus production", "B_hi": "अतिउत्पादन",
+"C_en": "Low demand for processed food", "C_hi": "प्रसंस्कृत खाद्य की कम मांग",
+"D_en": "High technology costs", "D_hi": "उच्च तकनीक लागत",
+"answer": "A",
+"explanation_en": "Inadequate cold storage facilities lead to significant post-harvest losses.",
+"explanation_hi": "अपर्याप्त ठंडा संग्रह केंद्र अंकुश के बाद के नुकसान में बड़े पैमाने पर भाग लेते हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Khadya Prasanskaran (Food Processing) aur Buniyadi Dhancha",
+"question_en": "How does food processing benefit farmers?",
+"question_hi": "खाद्य प्रसंस्करण किसानों को कैसे लाभान्वित करता है?",
+"A_en": "Increases income through value addition", "A_hi": "मूल्य जोड़ के माध्यम से आय में वृद्धि करना",
+"B_en": "Reduces crop yield", "B_hi": "फसल उपज कम करना",
+"C_en": "Depends entirely on government", "C_hi": "पूरी तरह से सरकार पर निर्भर करना",
+"D_en": "Lowers market prices", "D_hi": "बाजार मूल्य कम करना",
+"answer": "A",
+"explanation_en": "Processing adds value to agricultural products, giving farmers higher returns.",
+"explanation_hi": "प्रसंस्क
