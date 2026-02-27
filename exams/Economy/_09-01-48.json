@@ -1,0 +1,163 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Economy for Rajasthan exams, SSC, and Railway. The topic isn't specified, so maybe I should cover various important areas of Economics like GDP, inflation, government policies, etc.
+
+First, I need to ensure that each question has both Hindi and English versions. The format must be JSON, strictly following the example provided. Let me start by brainstorming some key economic concepts relevant to these exams.
+
+1. GDP and Economic Growth: A common topic. Maybe a question on Rajasthan's GDP contribution.
+2. Inflation: Questions on types or causes.
+3. Government schemes: Like MGNREGA, which is important for state exams.
+4. Sectors contributing to the economy: Agriculture, industry, services.
+5. Budget and fiscal policy: Questions on the state budget allocation.
+6. Unemployment: Types or methods to measure.
+7. National Income: Concepts like GNP vs GDP.
+8. Globalization and Indian Economy: Impact on Rajasthan.
+9. Infrastructure projects: Like the Chittorgarh Airport.
+10. Economic Reforms: Liberalization, privatization, globalization.
+
+Now, for each topic, I need to frame a question with four options. The answer should be accurate, and explanations in both languages. Let me check the difficulty level. Since these are for state exams, the questions shouldn't be too esoteric but should test understanding at an intermediate level.
+
+For example, a question on Rajasthan's GDP. The answer is Jaipur, but wait, that's the capital. Wait, maybe I confused the example. Let me correct that. The example was about the capital, but for economy, questions need to be different.
+
+Let me start drafting each question. Ensure that the options are plausible. For instance, for a question on Rajasthan's top industry, options could include agriculture, tourism, mining, etc., with tourism being correct.
+
+Also, check that explanations are concise and correctly explain why the answer is right. Make sure there's no ambiguity in the questions. Avoid trick questions but ensure that some options are distractors.
+
+Need to cover various aspects of economics to provide a balanced set. Maybe include a mix of micro and macro topics, plus Indian economy specifics. Check for recent data where necessary, like the latest GDP figures or recent government schemes in Rajasthan.
+
+Once all questions are drafted, validate the answers. For example, Rajasthan's major mineral is limestone, so if there's a question on that, the answer should be D. Ensure facts are up-to-date. Also, check for any possible errors in the options or explanations.
+
+Finally, structure the JSON correctly, ensuring all fields are present and the language translations are accurate. No markdown, just raw JSON. Make sure the answer letters are consistent (A, B, C, D) and correctly reference the right option.
+</think>
+
+[
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan's Economic Structure",
+    "question_en": "Which sector contributes the highest to Rajasthan's GDP?",
+    "question_hi": "राजस्थान के जीडीपी में सबसे अधिक योगदान किस क्षेत्र ने किया है?",
+    "A_en": "Agriculture", "A_hi": "कृषि",
+    "B_en": "Tourism", "B_hi": "पर्यटन",
+    "C_en": "Mining", "C_hi": "�नन",
+    "D_en": "Manufacturing", "D_hi": "निर्माण",
+    "answer": "B",
+    "explanation_en": "Tourism is Rajasthan's largest economic contributor due to its rich heritage and monuments.",
+    "explanation_hi": "राजस्थान की अर्थव्यवस्था में पर्यटन का सबसे अधिक योगदान इसके धनी विरासत और स्मारकों के कारण है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Government Schemes",
+    "question_en": "Which of the following is a central government scheme aimed at rural employment?",
+    "question_hi": "लोकल रोजगार के लक्ष्य वाली केंद्र सरकार की नीति इनमें से कौन सी है?",
+    "A_en": "Swachh Bharat Mission", "A_hi": "स्वच्छ भारत मिशन",
+    "B_en": "MGNREGA", "B_hi": "एमजीएनआरईजीए",
+    "C_en": "Ayushman Bharat", "C_hi": "आयुष्मान भारत",
+    "D_en": "Pradhan Mantri Awas Yojana", "D_hi": "प्रधानमंत्री आवास योजना",
+    "answer": "B",
+    "explanation_en": "MGNREGA provides guaranteed 100 days of employment to rural households.",
+    "explanation_hi": "एमजीएनआरईजीए ग्रामीण परिवारों को 100 दिनों की निश्चित रोजगार प्रदान करती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Inflation",
+    "question_en": "What is the primary cause of demand-pull inflation?",
+    "question_hi": "मांग-खींच आधारित महंगाई का मुख्य कारण क्या है?",
+    "A_en": "Increase in production costs", "A_hi": "उत्पादन लागत में वृद्धि",
+    "B_en": "Excess aggregate demand", "B_hi": "अत्यधिक समग्र मांग",
+    "C_en": "Supply chain disruptions", "C_hi": "आपूर्ति श्रृंखला बाधाएं",
+    "D_en": "Monetary mismanagement", "D_hi": "मौद्रिक प्रबंधन की त्रुटि",
+    "answer": "B",
+    "explanation_en": "Demand-pull inflation occurs when demand exceeds supply in an economy.",
+    "explanation_hi": "मांग-खींच आधारित महंगाई तब होती है जब अर्थव्यवस्था में मांग पूर्ति को पार कर जाती है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Rajasthan's Natural Resources",
+    "question_en": "Which mineral is most abundant in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे अधिक मात्रा में कौन सा खनिज पाया जाता है?",
+    "A_en": "Coal", "A_hi": "कोयला",
+    "B_en": "Limestone", "B_hi": "चूना पत्थर",
+    "C_en": "Iron Ore", "C_hi": "लौह अयस्क",
+    "D_en": "Mica", "D_hi": "मैग्नेटाइट",
+    "answer": "B",
+    "explanation_en": "Rajasthan is the largest producer of limestone in India.",
+    "explanation_hi": "राजस्थान भारत में चूना पत्थर का सबसे बड़ा उत्पादक है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Economic Reforms",
+    "question_en": "Which year is known as the 'Economic Reforms Year' in India?",
+    "question_hi": "भारत में किस वर्ष को 'आर्थिक सुधार वर्ष' के रूप में जाना जाता है?",
+    "A_en": "1991", "A_hi": "1991",
+    "B_en": "1947", "B_hi": "1947",
+    "C_en": "2014", "C_hi": "2014",
+    "D_en": "1971", "D_hi": "1971",
+    "answer": "A",
+    "explanation_en": "1991 marked the beginning of India's economic liberalization.",
+    "explanation_hi": "1991 भारत में आर्थिक सुधार की शुरुआत के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Unemployment",
+    "question_en": "Which type of unemployment is common in rural areas of Rajasthan?",
+    "question_hi": "राजस्थान के ग्रामीण क्षेत्रों में किस प्रकार की बेरोजगारी आम है?",
+    "A_en": "Structural", "A_hi": "रचनात्मक",
+    "B_en": "Cyclical", "B_hi": "चक्रीय",
+    "C_en": "Seasonal", "C_hi": "मौसमी",
+    "D_en": "Frictional", "D_hi": "घर्षणीय",
+    "answer": "C",
+    "explanation_en": "Seasonal unemployment is prevalent in Rajasthan due to agriculture dependence.",
+    "explanation_hi": "राजस्थान में कृषि पर निर्भरता के कारण मौसमी बेरोजगारी आम है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "International Trade",
+    "question_en": "Which of the following is a major export item from Rajasthan?",
+    "question_hi": "राजस्थान के निर्यात में निम्नलिखित में से क्या मुख्य वस्तु है?",
+    "A_en": "Jewelry", "A_hi": "जेवर",
+    "B_en": "Textiles", "B_hi": "बुनियादी वस्त्र",
+    "C_en": "Handicrafts", "C_hi": "हाथ से बनाए गए उत्पाद",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Rajasthan exports textiles, handicrafts, and jewelry due to its traditional industries.",
+    "explanation_hi": "राजस्थान की परंपरागत उद्योगों के कारण यह बुनियादी वस्त्र, हाथ के उत्पाद और जेवर निर्यात करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Public Finance",
+    "question_en": "What is the main objective of the Rajasthan State Budget?",
+    "question_hi": "राजस्थान राज्य बजट का मुख्य उद्देश्य क्या है?",
+    "A_en": "To reduce unemployment", "A_hi": "रोजगार कम करना",
+    "B_en": "To increase tax revenue", "B_hi": "कर आय बढ़ाना",
+    "C_en": "To promote economic growth", "C_hi": "आर्थिक विकास बढ़ाना",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "The Rajasthan State Budget aims to address unemployment, increase revenue, and stimulate growth.",
+    "explanation_hi": "राजस्थान राज्य बजट बेरोजगारी कम करने, आय बढ़ाने और विकास को बढ़ावा देने के लक्ष्य पर कार्य करता है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Globalization",
+    "question_en": "How has globalization impacted Rajasthan's agriculture sector?",
+    "question_hi": "वैश्विककरण ने राजस्थान के कृषि क्षेत्र पर किस प्रकार प्रभाव डाला है?",
+    "A_en": "Increased use of technology", "A_hi": "तकनीक के उपयोग में वृद्धि",
+    "B_en": "Shift to cash crops", "B_hi": "नकद फसलों की ओर चला जाना",
+    "C_en": "Dependence on exports", "C_hi": "निर्यात पर निर्भरता",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Globalization has led to technological advancements, crop diversification, and export reliance in Rajasthan's agriculture.",
+    "explanation_hi": "वैश्विककरण से राजस्थान कृषि में तकनीकी उन्नति, फसल विविधता और निर्यात निर्भरता हुई है।"
+  },
+  {
+    "subject": "Economy",
+    "topic": "Infrastructure",
+    "question_en": "Which infrastructure project has boosted Rajasthan's tourism industry?",
+    "question_hi": "कौन सा बुनियादी ढांचा परियोजना राजस्थान के पर्यटन उद्योग को बढ़ावा दे रही है?",
+    "A_en": "Chittorgarh Airport", "A_hi": "चित्तौड़गढ़ हवाई अड्डा",
+    "B_en": "Rajasthan Expressway", "B_hi": "राजस्थान एक्सप्रेसवे",
+    "C_en": "Kishangarh Airport", "C_hi": "किशंगढ़ हवाई अड्डा",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Improved infrastructure like airports and highways has enhanced Rajasthan's tourism appeal.",
+    "explanation_hi": "हवाई अड्डों और राजमार्गों जैसी बुनियादी ढांचा सुविधाओं से राजस्थान के पर्यटन की आकर्षकता बढ़ी है।"
+  }
+]
