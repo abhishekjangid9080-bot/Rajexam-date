@@ -1,0 +1,143 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality MCQs on General Science, specifically on the topic of Laws of Motion and Force for Rajasthan exams, SSC, and Railway exams. The instructions mention that each question and options should be in both Hindi and English, following the Testbook style. The JSON structure has to be strict with all the fields.
+
+First, I need to recall the key concepts in Laws of Motion and Force. Newton's three laws are fundamental here. Also, concepts like inertia, momentum, friction, types of forces, etc. Since the exams are for Rajasthan, maybe include some local context, but I don't think so. It's more about general science principles.
+
+Let me start by brainstorming possible questions. Each question should test understanding, not just memory. For example, Newton's first law is about inertia, second law about F=ma, third law about action-reaction. Then maybe questions on types of forces like gravitational, frictional, etc. Also, real-life applications like why we wear seat belts (inertia), why a ball eventually stops (friction), etc.
+
+I need to ensure that the Hindi translation is accurate and in the right script. Also, the options should be in both languages, with the correct answer marked. The explanation should be concise but clear in both languages. Let me think of 10 different angles.
+
+First question: Newton's first law is also called the law of inertia. That's a basic one. Next, Newton's second law relates force, mass, and acceleration. Third law is action-reaction. Maybe a question on which law explains a car stopping suddenly causing passengers to lurch forward (inertia). Another on why it's harder to push a heavy object (inertia of mass). A question on what happens when two forces are equal and opposite (equilibrium). Also, maybe a question on why a rocket moves forward (action-reaction). Friction types like static vs kinetic. Calculation-based question using F=ma. Lastly, a question on which law is associated with a specific example like a hammer hitting a nail.
+
+I need to make sure that the options are plausible but not too tricky. Avoid any ambiguity. For example, in the F=ma question, provide numbers that are straightforward. Also, check that the Hindi terms are correctly translated and used in the context of physics. Terms like "जड़ता" for inertia, "बल" for force, "त्वरण" for acceleration. Let me verify the Hindi terms to be accurate.
+
+Now, structuring each question in the specified JSON format. Each object should have subject, topic, question in English and Hindi, options A-D in both languages, the correct answer, and explanations in both languages. Need to be careful with the order of options. For example, in a multiple-choice question, the correct answer might be in different positions each time to prevent pattern recognition.
+
+Let me start drafting each question step by step, making sure that the difficulty level is appropriate for the target exams. Since it's General Science, the questions should not be too advanced but should require a solid understanding of the basics. Also, avoid any technical jargon that's beyond the syllabus. Ensure that explanations clarify why the correct answer is right and why others are not.
+
+Wait, the example given is about Rajasthan's capital, so the structure is clear. But for the actual topic, need to focus on motion and force. Let me proceed to create each of the 10 questions, ensuring each covers a different aspect of the topic.
+</think>
+
+[
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "Which law of motion states that an object will remain at rest or in uniform motion unless acted upon by an external force?",
+"question_hi": "गति का कौन सा नियम बताता है कि कोई वस्तु विराम या समान गति में रहती है जब तक कि कोई बाह्य बल कार्य न करे?",
+"A_en": "Newton's First Law", "A_hi": "न्यूटन का प्रथम नियम",
+"B_en": "Newton's Second Law", "B_hi": "न्यूटन का द्वितीय नियम",
+"C_en": "Newton's Third Law", "C_hi": "न्यूटन का तृतीय नियम",
+"D_en": "Law of Gravitation", "D_hi": "गुरुत्वाकर्षण का नियम",
+"answer": "A",
+"explanation_en": "Newton's First Law, also known as the Law of Inertia, describes this principle.",
+"explanation_hi": "न्यूटन का प्रथम नियम, जिसे जड़ता का नियम कहा जाता है, इस सिद्धांत का वर्णन करता है।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "What is the SI unit of force?",
+"question_hi": "बल की SI इकाई क्या है?",
+"A_en": "Joule", "A_hi": "जूल",
+"B_en": "Newton", "B_hi": "न्यूटन",
+"C_en": "Pascal", "C_hi": "पास्कल",
+"D_en": "Watt", "D_hi": "वॉट",
+"answer": "B",
+"explanation_en": "The SI unit of force is the newton (N), named after Sir Isaac Newton.",
+"explanation_hi": "बल की SI इकाई न्यूटन (N) है, जिसका नामकरण सर आइजैक न्यूटन के नाम पर किया गया है।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "Which of the following is an example of Newton's Third Law of Motion?",
+"question_hi": "निम्नलिखित में से कौन न्यूटन के गति के तृतीय नियम का उदाहरण है?",
+"A_en": "A ball rolling on the ground stops due to friction", "A_hi": "जमीन पर लुढ़कता हुआ एक गेंद घर्षण के कारण रुक जाता है",
+"B_en": "A hammer hitting a nail", "B_hi": "कील बुलाने वाला हथौड़ा",
+"C_en": "A person pushing a wall", "C_hi": "एक व्यक्ति दीवार को धक्का दे रहा है",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "Newton's Third Law states that for every action, there is an equal and opposite reaction. All the given examples illustrate this law.",
+"explanation_hi": "न्यूटन का तृतीय नियम बताता है कि प्रत्येक क्रिया के लिए एक समान और विपरीत प्रतिक्रिया होती है। सभी दिए गए उदाहरण इस नियम को दर्शाते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "What is the formula to calculate force according to Newton's Second Law?",
+"question_hi": "न्यूटन के द्वितीय नियम के अनुसार बल की गणना करने का सूत्र क्या है?",
+"A_en": "F = ma", "A_hi": "F = ma",
+"B_en": "F = m/v", "B_hi": "F = m/v",
+"C_en": "F = v/m", "C_hi": "F = v/m",
+"D_en": "F = a/m", "D_hi": "F = a/m",
+"answer": "A",
+"explanation_en": "Newton's Second Law states that force equals mass multiplied by acceleration (F = ma).",
+"explanation_hi": "न्यूटन का द्वितीय नियम बताता है कि बल द्रव्यमान गुणा त्वरण के बराबर होता है (F = ma)।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "Which of the following statements is true about inertia?",
+"question_hi": "निम्नलिखित में से कौन सा वक्तव्य जड़ता के बारे में सही है?",
+"A_en": "It depends on the shape of the object", "A_hi": "यह वस्तु के आकार पर निर्भर करता है",
+"B_en": "It depends on the velocity of the object", "B_hi": "यह वस्तु के वेग पर निर्भर करता है",
+"C_en": "It depends on the mass of the object", "C_hi": "यह वस्तु के द्रव्यमान पर निर्भर करता है",
+"D_en": "It depends on the temperature of the object", "D_hi": "यह वस्तु के तापमान पर निर्भर करता है",
+"answer": "C",
+"explanation_en": "Inertia is the resistance of an object to changes in its state of motion and is directly proportional to its mass.",
+"explanation_hi": "जड़ता वस्तु के गति की अवस्था में परिवर्तन का विरोध करती है और इसका द्रव्यमान के सीधे आनुपातिक होता है।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "When a car suddenly stops, passengers tend to move forward. Which law explains this phenomenon?",
+"question_hi": "जब एक कार अचानक रुक जाती है, तो यात्री आगे की ओर बढ़ने की ओर झुकते हैं। इस परिघटना को कौन सा नियम समझाता है?",
+"A_en": "Newton's First Law", "A_hi": "न्यूटन का प्रथम नियम",
+"B_en": "Newton's Second Law", "B_hi": "न्यूटन का द्वितीय नियम",
+"C_en": "Newton's Third Law", "C_hi": "न्यूटन का तृतीय नियम",
+"D_en": "Law of Gravitation", "D_hi": "गुरुत्वाकर्षण का नियम",
+"answer": "A",
+"explanation_en": "Newton's First Law (Law of Inertia) explains that objects in motion tend to stay in motion unless acted upon by an external force.",
+"explanation_hi": "न्यूटन का प्रथम नियम (जड़ता का नियम) यह समझाता है कि गति में रहने वाली वस्तुएं बाहरी बल के बिना गति में रहती हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "Which of the following is a vector quantity?",
+"question_hi": "निम्नलिखित में से कौन एक सदिश राशि है?",
+"A_en": "Speed", "A_hi": "चाल",
+"B_en": "Mass", "B_hi": "द्रव्यमान",
+"C_en": "Force", "C_hi": "बल",
+"D_en": "Time", "D_hi": "समय",
+"answer": "C",
+"explanation_en": "Force is a vector quantity because it has both magnitude and direction.",
+"explanation_hi": "बल एक सदिश राशि है क्योंकि इसमें परिमाण और दिशा दोनों होते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "What is the net force acting on an object in equilibrium?",
+"question_hi": "संतुलन में रहने वाली एक वस्तु पर शुद्ध बल क्या होता है?",
+"A_en": "Greater than zero", "A_hi": "शून्य से अधिक",
+"B_en": "Less than zero", "B_hi": "शून्य से कम",
+"C_en": "Equal to zero", "C_hi": "शून्य के बराबर",
+"D_en": "Cannot be determined", "D_hi": "निर्धारित नहीं किया जा सकता",
+"answer": "C",
+"explanation_en": "In equilibrium, the net force on an object is zero because all forces acting on it balance each other out.",
+"explanation_hi": "संतुलन में, वस्तु पर शुद्ध बल शून्य होता है क्योंकि इस पर कार्य करने वाले सभी बल एक-दूसरे को संतुलित कर देते हैं।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "Why is it harder to push a heavy object than a light one?",
+"question_hi": "एक हल्की वस्तु की तुलना में भारी वस्तु को धक्का देना क्यों कठिन होता है?",
+"A_en": "Because of greater friction", "A_hi": "अधिक घर्षण के कारण",
+"B_en": "Because of greater inertia", "B_hi": "अधिक जड़ता के कारण",
+"C_en": "Because of greater weight", "C_hi": "अधिक भार के कारण",
+"D_en": "Because of greater density", "D_hi": "अधिक घनत्व के कारण",
+"answer": "B",
+"explanation_en": "Heavier objects have more inertia, which resists changes in their state of motion.",
+"explanation_hi": "भारी वस्तुओं में कम जड़ता होती है, जो अपनी गति की अवस्था में परिवर्तन का विरोध करती है।"
+},
+{
+"subject": "General Science",
+"topic": "Gati ke Niyam (Laws of Motion) aur Bal (Force)",
+"question_en": "A rocket moves forward by expelling exhaust gases backward. This demonstrates:",
+"question_hi": "एक रॉकेट प्र
