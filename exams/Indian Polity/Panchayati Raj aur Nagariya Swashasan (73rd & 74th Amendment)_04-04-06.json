@@ -1,0 +1,111 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on the topic of Panchayati Raj and Nagariya Swashasan (73rd and 74th Amendments) in Indian Polity. The user wants them in both Hindi and English, following the Testbook style, and in JSON format. Let me start by recalling the key points of these amendments.
+
+The 73rd Amendment Act, 1992, relates to Panchayati Raj institutions, while the 74th Amendment Act, 1992, deals with urban local governments. I should focus on the constitutional provisions, reservation of seats, powers, and functions.
+
+First, I need to ensure that each question tests understanding of the amendments. Let me brainstorm some areas: the constitutional articles involved, the reservation of seats for SCs, STs, and women, the powers of local bodies, the structure of the Panchayati Raj system, and the role of state governments.
+
+For each question, I'll need to frame the question in English and Hindi, provide four options (A-D) in both languages, the correct answer, and explanations in both languages. Let me start with the first question about the constitutional articles. The 73rd and 74th Amendments are part of the Constitution through specific articles. The correct answer would be Article 243B and 243K respectively. That's a good first question.
+
+Next, the 73rd Amendment provides for a three-tier system: village, intermediate, and district levels. A question on the structure would be useful. Then, reservations for women in Panchayats, which is 33%, is a key point. The 74th Amendment's objective is to provide urban local bodies constitutional status. Another question could be on the election of members, ensuring they are directly elected. Also, the reservation for SCs and STs in urban local bodies is 7.5% each. The role of state governments in relation to Panchayats, as per the 73rd Amendment, is to empower them to function as institutions of self-government. The 74th Amendment mentions the state legislature's power to delegate functions to urban local bodies. The 73rd Amendment ensures the establishment of a District Planning Committee. Lastly, the constitutional validity of the amendments, which was upheld by the Supreme Court in 1994.
+
+I need to check the accuracy of these points. For example, the 73rd Amendment indeed reserves one-third of seats for women. The 74th Amendment allows for 7.5% reservations for SCs and STs. The Supreme Court did uphold the amendments in 1994. The state government's role is to confer powers to Panchayats. The election of members is directly elected. The three-tier structure is village, intermediate, and district. The District Planning Committee is established under the 73rd Amendment.
+
+Now, I'll structure each question step by step, ensuring that options are plausible and the correct answer is clear. For example, for the constitutional articles, the options could be various articles, with the correct ones being 243B and 243K. For the reservation percentages, distractors could be 25%, 30%, etc. Similarly, for the election of members, options could include indirectly elected or nominated bodies.
+
+I need to make sure that the explanations are concise and accurate. For instance, explaining that the 73rd Amendment provides constitutional status to Panchayats, and the 74th does the same for urban bodies. Also, clarifying the roles and reservations as per the amendments.
+
+After drafting all questions, I'll review them to ensure they cover different aspects of the topic and that there's no repetition. Each question should test a different element of the amendments. Finally, I'll format them into JSON, ensuring that the structure matches the provided example and that all fields are correctly filled. I need to be careful with the Hindi translations to maintain accuracy and clarity.
+</think>
+
+[
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which constitutional amendment provides constitutional status to Panchayati Raj institutions?",
+    "question_hi": "कौन सा संविधान संशोधन पंचायती राज संस्थानों को संविधानिक दर्जा प्रदान करता है?",
+    "A_en": "72nd Amendment Act, 1992", "A_hi": "72वां संशोधन अधिनियम, 1992",
+    "B_en": "73rd Amendment Act, 1992", "B_hi": "73वां संशोधन अधिनियम, 1992",
+    "C_en": "74th Amendment Act, 1992", "C_hi": "74वां संशोधन अधिनियम, 1992",
+    "D_en": "75th Amendment Act, 1992", "D_hi": "75वां संशोधन अधिनियम, 1992",
+    "answer": "B",
+    "explanation_en": "The 73rd Constitutional Amendment Act, 1992, provides constitutional status to Panchayati Raj institutions.",
+    "explanation_hi": "73वें संविधान संशोधन अधिनियम, 1992, पंचायती राज संस्थानों को संविधानिक दर्जा प्रदान करता है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the reservation percentage of seats for women in Panchayati Raj institutions under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत पंचायती राज संस्थानों में महिलाओं के लिए सीटों की आरक्षित प्रतिशत क्या है?",
+    "A_en": "25%", "A_hi": "25%",
+    "B_en": "30%", "B_hi": "30%",
+    "C_en": "33%", "C_hi": "33%",
+    "D_en": "40%", "D_hi": "40%",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment mandates one-third (33%) reservation of seats for women in Panchayati Raj institutions.",
+    "explanation_hi": "73वें संशोधन में पंचायती राज संस्थानों में महिलाओं के लिए एक-तिहाई (33%) सीटों के आरक्षण का प्रावधान है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is NOT a feature of the 74th Constitutional Amendment Act?",
+    "question_hi": "निम्नलिखित में से कौन 74वें संविधान संशोधन अधिनियम की विशेषता नहीं है?",
+    "A_en": "Constitutional status to urban local bodies", "A_hi": "शहरी स्थानीय निकायों को संविधानिक दर्जा",
+    "B_en": "Reservation of seats for SC/ST in urban bodies", "B_hi": "शहरी निकायों में SC/ST के लिए सीटों का आरक्षण",
+    "C_en": "Election of Panchayat members by adult franchise", "C_hi": "वयस्क मताधिकार द्वारा पंचायत सदस्यों का चुनाव",
+    "D_en": "Establishment of a District Planning Committee", "D_hi": "एक जिला योजना समिति की स्थापना",
+    "answer": "C",
+    "explanation_en": "The 74th Amendment focuses on urban local bodies and does not mention the election of Panchayat members, which is covered under the 73rd Amendment.",
+    "explanation_hi": "74वें संशोधन में शहरी स्थानीय निकायों पर ध्यान केंद्रित है और यह पंचायत सदस्यों के चुनाव का उल्लेख नहीं करता है, जो 73वें संशोधन के अंतर्गत है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which article of the Indian Constitution was amended by the 73rd Amendment to provide constitutional recognition to Panchayats?",
+    "question_hi": "भारतीय संविधान के किस अनुच्छेद को 73वें संशोधन द्वारा संशोधित किया गया था जिससे पंचायतों को संविधानिक मान्यता प्रदान की गई?",
+    "A_en": "Article 40", "A_hi": "अनुच्छेद 40",
+    "B_en": "Article 48", "B_hi": "अनुच्छेद 48",
+    "C_en": "Article 243B", "C_hi": "अनुच्छेद 243B",
+    "D_en": "Article 368", "D_hi": "अनुच्छेद 368",
+    "answer": "C",
+    "explanation_en": "The 73rd Amendment inserted Article 243B into the Constitution to provide constitutional recognition to Panchayats.",
+    "explanation_hi": "73वें संशोधन ने संविधान में अनुच्छेद 243B को शामिल करके पंचायतों को संविधानिक मान्यता प्रदान की।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the minimum age required to become a member of a Panchayat under the 73rd Amendment?",
+    "question_hi": "73वें संशोधन के तहत पंचायत के सदस्य बनने के लिए न्यूनतम आयु-सीमा क्या है?",
+    "A_en": "18 years", "A_hi": "18 वर्ष",
+    "B_en": "21 years", "B_hi": "21 वर्ष",
+    "C_en": "25 years", "C_hi": "25 वर्ष",
+    "D_en": "30 years", "D_hi": "30 वर्ष",
+    "answer": "B",
+    "explanation_en": "The 73rd Amendment specifies that a person must be at least 21 years old to be eligible for membership in a Panchayat.",
+    "explanation_hi": "73वें संशोधन के अनुसार, पंचायत में सदस्यता प्राप्त करने के लिए एक व्यक्ति की आयु विधिमान्यता के लिए कम से कम 21 वर्ष होनी चाहिए।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "Which of the following is a key function of the District Planning Committee under the 73rd Amendment?",
+    "question_hi": "73वें संशो�न के तहत जिला योजना समिति का कौन सा एक मुख्य कार्य है?",
+    "A_en": "Implementation of urban development projects", "A_hi": "शहरी विकास परियोजनाओं का कार्यान्वयन",
+    "B_en": "Preparation of district development plan", "B_hi": "जिला विकास योजना की तैयारी",
+    "C_en": "Collection of local taxes", "C_hi": "स्थानीय करों का संग्रह",
+    "D_en": "Enforcement of environmental laws", "D_hi": "पर्यावरण नियमों के लागू करना",
+    "answer": "B",
+    "explanation_en": "The District Planning Committee is responsible for preparing a district development plan under the 73rd Amendment.",
+    "explanation_hi": "73वें संशोधन के तहत जिला योजना समिति का कार्य जिला विकास योजना की तैयारी करना है।"
+  },
+  {
+    "subject": "Indian Polity",
+    "topic": "Panchayati Raj aur Nagariya Swashasan (73rd & 74th Amendment)",
+    "question_en": "What is the reservation percentage for Scheduled Castes and Scheduled Tribes in urban local bodies under the 74th Amendment?",
+    "question_hi": "74वें संशोधन के तहत शहरी स्थानीय निकायों में अनुसूचित जाति और अनुसूचित जनजाति के लिए आरक्षित प्रतिशत क्या है?",
+    "A_en": "5% for SC, 5% for ST", "A_hi": "अनुसूचित जाति 5%, अनुसूचित जनजाति 5%",
+    "B_en": "7.5% for SC, 7.5% for ST", "B_hi": "अनुसूचित जाति 7.5%, अनुसूचित जनजाति 7.5%",
+    "C_en": "10% for SC, 10% for ST", "C_hi": "अनुसूचित जाति 10%, अनुसूचित जनजाति 10%",
+    "D_en": "12.5% for SC, 12.5% for ST", "D_hi": "अनुसूचित जाति 12.5%, अनुसूचित जनजाति 12.5%",
+    "answer": "B",
+    "explanation_en": "The 74th Amendment Act reserves 7.5% of seats for Scheduled Castes and 7.5% for Scheduled Tribes in urban local bodies.",
+    "explanation_hi": "74वें संशोधन अधिनियम ने शहरी स्थानीय निकायों में अनुसूचित जाति के लिए 7.5% और अनुसूचित जनजाति के लिए 7.5% सीटों का आरक
