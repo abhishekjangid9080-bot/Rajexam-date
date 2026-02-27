@@ -1,0 +1,34 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान में अंतराल्यांक क्या हैं?",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मराठी",
+"C_en": "Tamil", "C_hi": "त्यांचा",
+"D_en": "Sanskrit", "D_hi": "संस्कृत",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान में हिंदी के अंतराल्यांचे नाम शीर्षक उपाध्यान दिलें।",
+"explanation_hi": "राजस्थान में हिंदी के अंतराल्यांचे नाम शीर्षक उपाध्यांचे नाम दिलें।"
+},
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the largest industry in Rajasthan?",
+"question_hi": "राजस्थान में सर्वोत्र अर्थशास्तर",
+"A_en": "Textile",
+"A_hi": "टेक्सी",
+"B_en": "Mineral",
+"B_hi": "विनाश",
+"C_en": "Agriculture",
+"C_hi": "कीयों",
+"D_en": "Information Technology",
+"D_hi": "इंट्रॉनियों",
+"answer": "C",
+"explanation_en": "Agriculture is the largest industry in Rajasthan.",
+"explanation_hi": "राजस्थान में कीयों सर्वोत्र अर्थशास्तर",
+"explanation_hi": "राजस्थान में कीयों सर्वोत्र अर्थशास्तर",
+}
+]
