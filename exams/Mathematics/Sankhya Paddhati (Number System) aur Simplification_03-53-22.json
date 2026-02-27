@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Mathematics, specifically on Sankhya Paddhati (Number System) and Simplification. The questions should be in Hindi and English, with options in both languages. The structure has to follow the given JSON format. Let me start by recalling the key concepts in Number System and Simplification.
+
+First, Number System includes topics like types of numbers (natural, whole, integers, rational, irrational, real numbers), divisibility rules, LCM, HCF, etc. Simplification involves BODMAS, simplifying expressions with fractions, decimals, and exponents.
+
+Let me think of different question types. For Number System, maybe a question on finding the smallest number divisible by multiple numbers. That would test LCM. For example, "What is the smallest number divisible by 12, 15, and 20?" The answer would be LCM of these numbers, which is 60.
+
+Another question could be about the HCF of two numbers. Like, "What is the HCF of 36 and 48?" The answer is 12. That's straightforward HCF calculation.
+
+Then, maybe a question on unit digit. For example, "What is the unit digit in the product of 784 × 618 × 917 × 463?" The unit digit can be found by multiplying the unit digits of each number: 4×8=32 (unit 2), 2×7=14 (unit 4), 4×3=12 (unit 2). So the answer is 2.
+
+For simplification, a BODMAS question: "Simplify 12 + [18 – {14 – (18 - 8 × 2)}]". Let's solve step by step. Inside the innermost bracket: 8×2=16. Then 18-16=2. Next bracket: 14-2=12. Then 18-12=6. Finally, 12+6=18. So answer is 18.
+
+Another simplification could involve fractions: "Simplify 3/4 of 64 + 2/3 of 90". Calculating each part: 3/4 of 64 is 48, 2/3 of 90 is 60. Sum is 108.
+
+A question on exponents: "What is the value of (6^3 × 5^4) / (6^2 × 5^2)?" Using exponent rules, subtract exponents for division. 6^(3-2) × 5^(4-2) = 6^1 × 5^2 = 6×25=150.
+
+A divisibility question: "Which of the following is divisible by 11?" The rule for 11 is difference between sum of digits in odd and even positions. For example, 121: (1+1) - 2 = 0, which is divisible by 11.
+
+A question on place value and face value: "The difference between the place value and face value of 3 in the number 78390 is?" Place value is 300 (3×100), face value is 3. Difference is 297.
+
+Another on simplifying with decimals: "Simplify 2.5 × 3.2 ÷ 0.4". First multiply 2.5×3.2=8. Then divide by 0.4 gives 20.
+
+Lastly, a problem on co-prime numbers: "Which of the following pairs is co-prime?" Co-prime pairs have HCF 1. For example, 8 and 15 are co-prime.
+
+Now, I need to translate all these into Hindi, ensuring questions and options are correctly in both languages. Check for any errors in calculations. Make sure the answers are correct and explanations are clear. Also, verify that the JSON structure is followed precisely without any markdown.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "What is the smallest number divisible by 12, 15, and 20?",
+    "question_hi": "12, 15 और 20 से विभाज्य छोटे से छोटा संख्या क्या है?",
+    "A_en": "60", "A_hi": "60",
+    "B_en": "120", "B_hi": "120",
+    "C_en": "30", "C_hi": "30",
+    "D_en": "45", "D_hi": "45",
+    "answer": "A",
+    "explanation_en": "The LCM of 12, 15, and 20 is 60.",
+    "explanation_hi": "12, 15 और 20 का लघुत्तम समापवर्तक 60 है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "What is the HCF of 36 and 48?",
+    "question_hi": "36 और 48 का महत्तम समापवर्तक क्या है?",
+    "A_en": "12", "A_hi": "12",
+    "B_en": "6", "B_hi": "6",
+    "C_en": "24", "C_hi": "24",
+    "D_en": "18", "D_hi": "18",
+    "answer": "A",
+    "explanation_en": "The HCF of 36 and 48 is 12.",
+    "explanation_hi": "36 और 48 का महत्तम समापवर्तक 12 है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "What is the unit digit in the product of 784 × 618 × 917 × 463?",
+    "question_hi": "784 × 618 × 917 × 463 के गुणनफल में इकाई अंक क्या है?",
+    "A_en": "2", "A_hi": "2",
+    "B_en": "4", "B_hi": "4",
+    "C_en": "6", "C_hi": "6",
+    "D_en": "8", "D_hi": "8",
+    "answer": "C",
+    "explanation_en": "Unit digits: 4×8=32 (unit 2), 2×7=14 (unit 4), 4×3=12 (unit 2). Final unit digit is 2.",
+    "explanation_hi": "इकाई अंक: 4×8=32 (इकाई 2), 2×7=14 (इकाई 4), 4×3=12 (इकाई 2)। अंतिम इकाई अंक 2 है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Simplify 12 + [18 – {14 – (18 - 8 × 2)}]",
+    "question_hi": "12 + [18 – {14 – (18 - 8 × 2)}] को सरल करें।",
+    "A_en": "18", "A_hi": "18",
+    "B_en": "20", "B_hi": "20",
+    "C_en": "22", "C_hi": "22",
+    "D_en": "24", "D_hi": "24",
+    "answer": "A",
+    "explanation_en": "Solve innermost bracket first: 8×2=16, 18-16=2, 14-2=12, 18-12=6, 12+6=18.",
+    "explanation_hi": "अंतिम ब्रैकेट से शुरू करें: 8×2=16, 18-16=2, 14-2=12, 18-12=6, 12+6=18।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Simplify 3/4 of 64 + 2/3 of 90",
+    "question_hi": "64 का 3/4 + 90 का 2/3 को सरल करें।",
+    "A_en": "108", "A_hi": "108",
+    "B_en": "110", "B_hi": "110",
+    "C_en": "106", "C_hi": "106",
+    "D_en": "104", "D_hi": "104",
+    "answer": "A",
+    "explanation_en": "3/4 of 64 is 48, 2/3 of 90 is 60. Total is 48 + 60 = 108.",
+    "explanation_hi": "64 का 3/4 = 48, 90 का 2/3 = 60। कुल योग 48 + 60 = 108 है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "What is the value of (6^3 × 5^4) / (6^2 × 5^2)?",
+    "question_hi": "(6^3 × 5^4) / (6^2 × 5^2) का मान क्या है?",
+    "A_en": "150", "A_hi": "150",
+    "B_en": "300", "B_hi": "300",
+    "C_en": "450", "C_hi": "450",
+    "D_en": "600", "D_hi": "600",
+    "answer": "A",
+    "explanation_en": "Using exponent rules: 6^(3-2) × 5^(4-2) = 6^1 × 5^2 = 6 × 25 = 150.",
+    "explanation_hi": "घातांक नियमों के अनुसार: 6^(3-2) × 5^(4-2) = 6^1 × 5^2 = 6 × 25 = 150।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Which of the following is divisible by 11?",
+    "question_hi": "निम्नलिखित में से कौन 11 से विभाज्य है?",
+    "A_en": "121", "A_hi": "121",
+    "B_en": "132", "B_hi": "132",
+    "C_en": "143", "C_hi": "143",
+    "D_en": "154", "D_hi": "154",
+    "answer": "D",
+    "explanation_en": "For 154: (1+4) - 5 = 0, which is divisible by 11.",
+    "explanation_hi": "154 के लिए: (1+4) - 5 = 0, जो 11 से विभाज्य है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "What is the difference between the place value and face value of 3 in 78390?",
+    "question_hi": "संख्या 78390 में 3 के स्थानीय मान और अंकित मान के बीच क्या अंतर है?",
+    "A_en": "297", "A_hi": "297",
+    "B_en": "300", "B_hi": "300",
+    "C_en": "270", "C_hi": "270",
+    "D_en": "280", "D_hi": "280",
+    "answer": "A",
+    "explanation_en": "Place value of 3 is 300, face value is 3. Difference is 300 - 3 = 297.",
+    "explanation_hi": "3 का स्थानीय मान 300 है, अंकित मान 3 है। अंतर 300 - 3 = 297 है।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Simplify 2.5 × 3.2 ÷ 0.4",
+    "question_hi": "2.5 × 3.2 ÷ 0.4 को सरल करें।",
+    "A_en": "20", "A_hi": "20",
+    "B_en": "18", "B_hi": "18",
+    "C_en": "22", "C_hi": "22",
+    "D_en": "24", "D_hi": "24",
+    "answer": "A",
+    "explanation_en": "2.5 × 3.2 = 8, then 8 ÷ 0.4 = 20.",
+    "explanation_hi": "2.5 × 3.2 = 8, फिर 8 ÷ 0.4 = 20।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Sankhya Paddhati (Number System) aur Simplification",
+    "question_en": "Which of the following pairs is co-prime?",
+    "question_hi": "निम्नलिखित में से कौन-सा युग्म सह-अभाज्य है?",
+    "A_en": "8 and 15", "A_hi": "8 और 15",
+    "B_en": "9 and 12", "B_hi": "9 और 12",
+    "C_en": "6 and 8", "C_hi": "6 और 8",
+    "D_en": "14 and 21", "D_hi": "14 और 21",
+    "answer": "A",
+    "explanation_en": "8 and 15 have HCF 1, so they are co-prime.",
+    "explanation_hi": "8 और 15 का महत्तम समापवर्तक 1 है, इसलिए वे सह-अभाज्य हैं।"
+  }
+]
