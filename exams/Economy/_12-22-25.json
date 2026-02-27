@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is Gross Domestic Product (GDP)?",
+"question_hi": "Gross Domestic Product (GDP) ka matlab kya hai?",
+"A_en": "Gross National Product (GNP)", "A_hi": "नेशानी का ग्रॉस नेशान प्रौद्योगिक प्रश्न",
+"B_en": "National Income", "B_hi": "देश की आय",
+"C_en": "GDP at factor price level", "C_hi": "विभिन्न मूल दर पर GDP",
+"D_en": "GDP at current price level", "D_hi": "रुचियाँ के आय",
+"answer": "D",
+"explanation_en": "GDP at current price level refers to the Gross Domestic Product calculated using current price levels. It measures the value of all final goods and services produced within a country's geographical boundaries in a specific period of time, usually a year.",
+"explanation_hi": "रुचियाँ के आय की जानकारी, राजस्थान के ग्रॉस डायनियाँ के आय के प्रत्यामिति वाले क्रमण रत्नारी, राजस्थान के बन्दीयां में वाले क्रमण वायरल के आय",
+"answer": "C",
+"explanation_en": "GDP at factor prices means that the GDP is calculated based on the prices of factors of production such as land, capital goods, and labor. It provides a better understanding of the economic performance of an area or country.",
+"explanation_hi": "फॉक्सार प्राधान की तालिका प्राधान की प्राधान की तालिका प्राधान की प्राधान की प्राधान की तालिका, प्राधान की प्राधान की प्राधान",
+"answer": "C",
+"explanation_en": "GDP at factor prices reflects the value of all goods and services produced within a country at the prices of factors of production. It provides a comprehensive understanding of the economy.",
+"explanation_hi": "फॉक्सार प्राधान की प्राधान",
+]
