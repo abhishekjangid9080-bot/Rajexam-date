@@ -1,0 +1,158 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality non-verbal reasoning questions for Rajasthan exams, SSC, and Railway. The questions need to be in both Hindi and English, following a specific JSON format. 
+
+First, I need to think about different types of non-verbal reasoning problems. Common ones include image sequences, pattern recognition, figure matrices, odd one out, etc. Since there's no image involved, I have to describe them in text. 
+
+For each question, I need to create a scenario where the candidate has to identify the next figure in a sequence, find the odd one out, or determine the relationship between figures. The options should be labeled A to D, with each having both languages.
+
+I should start by outlining 10 different question types. Let's see: maybe some mirror images, pattern rotation, shape transformations, number of sides, symmetry, etc. Each question should have a clear logic but not too obvious. 
+
+For example, a question about mirror images: the options would describe different figures where one is the mirror image of the original. Another question could involve rotating shapes by a certain degree each time. 
+
+I need to ensure that the explanations are concise and explain the correct answer clearly in both languages. Also, the difficulty level should be appropriate for the mentioned exams, so not too simple or too complex.
+
+Let me start drafting each question one by one, making sure the translations are accurate and the logic is solid. I need to avoid any ambiguity in the questions so that there's only one correct answer. Also, check that the JSON structure is strictly followed with no extra fields or text. 
+
+Wait, the example given is for a capital question, but the topic is non-verbal. So I need to adjust and make sure all questions are pattern-based. Let me think of more specific examples. For instance, a series of figures where each subsequent figure adds a line or changes shape in a particular pattern. Or maybe a 3x3 matrix where the rows and columns follow a rule to find the missing figure.
+
+Each question should have a unique concept. Let me list them out: mirror image, rotation, number of elements increasing, figure embedded, pattern continuation, symmetry, figure completion, shape transformation, analogy, and odd one out. That makes 10. 
+
+Now, for each of these, I need to create a question description in both languages. For example, the mirror image question would describe a figure and ask for its mirror image. The options would be different figures, one of which is the correct mirror image. 
+
+I have to be careful with the translations to maintain the meaning. Also, the answer explanation should clearly state why the correct answer is right. For example, if the question is about rotation, the explanation would mention the direction and degrees rotated.
+
+Let me start writing each question step by step, ensuring the JSON structure is correct. I'll need to repeat the pattern for each of the 10 questions, making sure the keys are correctly named and the order is maintained. Also, check that the answer is always one of the options A to D and that the explanations are accurate.
+</think>
+
+[
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Which figure will replace the question mark (?) in the following series?",
+"question_hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर कौन सा आकृति आएगा?",
+"A_en": "Figure with 3 sides", "A_hi": "3 भुजाओं वाली आकृति",
+"B_en": "Figure with 4 sides", "B_hi": "4 भुजाओं वाली आकृति",
+"C_en": "Figure with 5 sides", "C_hi": "5 भुजाओं वाली आकृति",
+"D_en": "Figure with 6 sides", "D_hi": "6 भुजाओं वाली आकृति",
+"answer": "C",
+"explanation_en": "The number of sides increases by 1 in each step.",
+"explanation_hi": "प्रत्येक चरण में भुजाओं की संख्या 1 बढ़ती है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Which figure is the exact mirror image of the given figure when the mirror is placed vertically?",
+"question_hi": "जब दर्पण को ऊर्ध्वाधर रूप से रखा जाए तो दी गई आकृति के ठीक प्रतिबिम्ब कौन सी आकृति है?",
+"A_en": "Mirror image on left side", "A_hi": "बाएँ ओर दर्पण प्रतिबिम्ब",
+"B_en": "Mirror image on right side", "B_hi": "दाएँ ओर दर्पण प्रतिबिम्ब",
+"C_en": "Mirror image flipped horizontally", "C_hi": "क्षैतिज रूप से उलटा दर्पण प्रतिबिम्ब",
+"D_en": "Mirror image rotated 90°", "D_hi": "90° घुमाया गया दर्पण प्रतिबिम्ब",
+"answer": "B",
+"explanation_en": "The correct mirror image should be symmetrical along the vertical axis.",
+"explanation_hi": "सही दर्पण प्रतिबिम्ब ऊर्ध्वाधर अक्ष के साथ सममित होना चाहिए।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Select the figure that will come next in the following series.",
+"question_hi": "निम्नलिखित श्रृंखला में आगे कौन सी आकृति आएगी?",
+"A_en": "Circle inside square", "A_hi": "वर्ग के अंदर वृत्त",
+"B_en": "Square inside circle", "B_hi": "वृत्त के अंदर वर्ग",
+"C_en": "Triangle inside pentagon", "C_hi": "पंचभुज के अंदर त्रिभुज",
+"D_en": "Hexagon inside triangle", "D_hi": "त्रिभुज के अंदर षट्भुज",
+"answer": "A",
+"explanation_en": "The pattern alternates between shapes inside each other.",
+"explanation_hi": "पैटर्न एक-दूसरे में आकृतियों के बीच परस्पर बदलता रहता है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "In the given figure, how many triangles are there?",
+"question_hi": "दी गई आकृति में कितने त्रिभुज हैं?",
+"A_en": "4", "A_hi": "4",
+"B_en": "5", "B_hi": "5",
+"C_en": "6", "C_hi": "6",
+"D_en": "7", "D_hi": "7",
+"answer": "C",
+"explanation_en": "Small triangles and large triangles formed by combining smaller ones count to 6.",
+"explanation_hi": "छोटे त्रिभुज और छोटे त्रिभुजों को मिलाकर बने बड़े त्रिभुज सहित कुल 6 हैं।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Which figure is the odd one out?",
+"question_hi": "कौन सी आकृति असंगत है?",
+"A_en": "Figure with 4 lines", "A_hi": "4 रेखाओं वाली आकृति",
+"B_en": "Figure with 4 lines", "B_hi": "4 रेखाओं वाली आकृति",
+"C_en": "Figure with 5 lines", "C_hi": "5 रेखाओं वाली आकृति",
+"D_en": "Figure with 4 lines", "D_hi": "4 रेखाओं वाली आकृति",
+"answer": "C",
+"explanation_en": "All others have 4 lines, while option C has 5 lines.",
+"explanation_hi": "अन्य सभी में 4 रेखाएँ हैं, जबकि विकल्प C में 5 रेखाएँ हैं।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Which figure completes the pattern?",
+"question_hi": "कौन सी आकृति पैटर्न को पूरा करती है?",
+"A_en": "Figure with vertical lines", "A_hi": "ऊर्ध्वाधर रेखाओं वाली आकृति",
+"B_en": "Figure with horizontal lines", "B_hi": "क्षैतिज रेखाओं वाली आकृति",
+"C_en": "Figure with diagonal lines", "C_hi": "विकर्ण रेखाओं वाली आकृति",
+"D_en": "Figure with circular lines", "D_hi": "वृत्ताकार रेखाओं वाली आकृति",
+"answer": "B",
+"explanation_en": "The pattern alternates between vertical and horizontal lines.",
+"explanation_hi": "पैटर्न ऊर्ध्वाधर और क्षैतिज रेखाओं के बीच परस्पर बदलता रहता है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Identify the figure that continues the pattern.",
+"question_hi": "पैटर्न को जारी रखने वाली आकृति पहचानें।",
+"A_en": "Figure with 1 dot", "A_hi": "1 बिंदु वाली आकृति",
+"B_en": "Figure with 2 dots", "B_hi": "2 बिंदुओं वाली आकृति",
+"C_en": "Figure with 3 dots", "C_hi": "3 बिंदुओं वाली आकृति",
+"D_en": "Figure with 4 dots", "D_hi": "4 बिंदुओं वाली आकृति",
+"answer": "D",
+"explanation_en": "The number of dots increases by 1 in each step.",
+"explanation_hi": "प्रत्येक चरण में बिंदुओं की संख्या 1 बढ़ती है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Which figure is embedded in the main figure?",
+"question_hi": "मुख्य आकृति में छिपी हुई कौन सी आकृति है?",
+"A_en": "Small square", "A_hi": "छोटा वर्ग",
+"B_en": "Small triangle", "B_hi": "छोटा त्रिभुज",
+"C_en": "Small circle", "C_hi": "छोटा वृत्त",
+"D_en": "Small pentagon", "D_hi": "छोटा पंचभुज",
+"answer": "C",
+"explanation_en": "The small circle is present within the main figure.",
+"explanation_hi": "मुख्य आकृति में छोटा वृत्त उपस्थित है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Select the correct water image of the given figure.",
+"question_hi": "दी गई आकृति की सही जल प्रतिबिम्ब चुनें।",
+"A_en": "Inverted figure", "A_hi": "ऊप्से-नीचे उलटी आकृति",
+"B_en": "Flipped horizontally", "B_hi": "क्षैतिज रूप से उलटी आकृति",
+"C_en": "Flipped vertically", "C_hi": "ऊर्ध्वाधर रूप से उलटी आकृति",
+"D_en": "Rotated 180°", "D_hi": "180° घुमाई गई आकृति",
+"answer": "A",
+"explanation_en": "Water image is an upside-down reflection.",
+"explanation_hi": "जल प्रतिबिम्ब ऊप्से-नीचे उलटी प्रतिबिम्ब होती है।"
+},
+{
+"subject": "Reasoning",
+"topic": "Non-Verbal Reasoning (Image/Pattern Based)",
+"question_en": "Which figure follows the same pattern as the given pair?",
+"question_hi": "दी गई जोड़ी के समान पैटर्न का अनुसरण कौन सी आकृति करती है?",
+"A_en": "Figure with same shape", "A_hi": "समान आकृति",
+"B_en": "Figure with same color", "B_hi": "समान रंग वाली आकृति",
+"C_en": "Figure with same number of elements", "C_hi": "समान तत्वों की संख्या वाली आकृति",
+"D_en": "Figure with same orientation", "D_hi": "समान दिशा वाली आकृति",
+"answer": "C",
+"explanation_en": "The number of elements in the pair remains constant.",
+"explanation_hi": "जोड़ी में तत्वों की संख्या स्थिर रहती है।"
+}
+]
