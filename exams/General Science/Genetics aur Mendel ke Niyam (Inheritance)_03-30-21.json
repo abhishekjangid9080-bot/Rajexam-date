@@ -1,0 +1,202 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the topic of Genetics and Mendel's Laws in General Science, suitable for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. The questions must be in both Hindi and English, following the given JSON structure. Let's start by recalling key points from genetics and Mendel's principles.
+
+First, basic concepts: genes, alleles, dominant vs. recessive traits. Mendel's experiments with pea plants, laws of segregation and independent assortment. Terms like heterozygous, homozygous, genotype, phenotype. Punnett squares, monohybrid and dihybrid crosses, test crosses. Maybe some applications like inheritance patterns in humans, exceptions to Mendel's laws like incomplete dominance or codominance.
+
+I should ensure the questions cover a range of difficulty, starting from basic definitions to application-based problems. Let me outline each question with these points.
+
+1. Question on Mendel's first law (Law of Segregation). Ask which law states that alleles separate during gamete formation. Options could include Law of Independent Assortment as a distractor.
+
+2. Identify the correct term for alternative forms of a gene (alleles). Differentiate between allele and gene.
+
+3. Mendel's experiments with pea plants. What traits did he study? Options like flower color, stem height, etc.
+
+4. Dominant vs. Recessive: When a heterozygous individual shows a trait, which one is dominant. Example: TT (tall) and tt (short) producing Tt (tall).
+
+5. Test cross purpose: To determine if an organism is homozygous dominant or heterozygous. Use example like purple vs. white flowers.
+
+6. Phenotype vs. Genotype: Define each term. Example: Genotype is genetic makeup, phenotype is physical expression.
+
+7. Dihybrid cross ratio. Mendel's 9:3:3:1 ratio when two traits are considered.
+
+8. Law of Independent Assortment: Involves different genes on nonhomologous chromosomes.
+
+9. Punnett square question: Probability of a child having a certain trait from heterozygous parents.
+
+10. Exceptions to Mendel's laws, like incomplete dominance in snapdragons where red and white produce pink flowers.
+
+Now, translating these concepts into questions in both languages. Need to ensure translations are accurate. For example, "Law of Segregation" in Hindi is "अलग करने का नियम". Each question must have clear options, with correct answers and explanations. Avoid technical jargon where possible to suit the target audience. Check for clarity and that options are distinct. Verify that explanations correctly justify the answers without ambiguity.
+</think>
+
+[
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "Which of the following is Mendel's First Law of Inheritance?",
+    "question_hi": "विरासत के नियमों के लिए मेंडेल का पहला नियम निम्नलिखित में से कौन-सा है?",
+    "A_en": "Law of Segregation",
+    "A_hi": "अलग करने का नियम",
+    "B_en": "Law of Independent Assortment",
+    "B_hi": "स्वतंत्र अनुमान का नियम",
+    "C_en": "Law of Dominance",
+    "C_hi": "प्रभाविता का नियम",
+    "D_en": "Law of Probability",
+    "D_hi": "संभावना का नियम",
+    "answer": "A",
+    "explanation_en": "Mendel's First Law states that alleles separate during gamete formation.",
+    "explanation_hi": "मेंडेल का पहला नियम बताता है कि अलील गैमेट बनने के दौरान अलग हो जाते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What are the alternative forms of a gene called?",
+    "question_hi": "एक जीन के वैकल्पिक रूपों को क्या कहा जाता है?",
+    "A_en": "Chromosomes",
+    "A_hi": "क्रोमोसोम",
+    "B_en": "Genes",
+    "B_hi": "जीन",
+    "C_en": "Alleles",
+    "C_hi": "अलील",
+    "D_en": "DNA",
+    "D_hi": "डीएनए",
+    "answer": "C",
+    "explanation_en": "Alleles are the alternative forms of a gene.",
+    "explanation_hi": "अलील एक जीन के वैकल्पिक रूप होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "In Mendel's experiments, which trait is considered dominant?",
+    "question_hi": "मेंडेल के प्रयोगों में, कौन-सा लक्षण प्रभावी माना जाता है?",
+    "A_en": "Short stem",
+    "A_hi": "छोटा तना",
+    "B_en": "Tall stem",
+    "B_hi": "लंबा तना",
+    "C_en": "White flowers",
+    "C_hi": "सफेद फूल",
+    "D_en": "Yellow pods",
+    "D_hi": "पीले बीजपत्र",
+    "answer": "B",
+    "explanation_en": "Tall stem is the dominant trait in Mendel's experiments.",
+    "explanation_hi": "मेंडेल के प्रयोगों में लंबा तना प्रभावी लक्षण है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the genotype of a heterozygous individual for a trait?",
+    "question_hi": "एक लक्षण के लिए हेटेरोजाइगस व्यक्ति का जीनोटाइप क्या होता है?",
+    "A_en": "TT",
+    "A_hi": "टीटी",
+    "B_en": "Tt",
+    "B_hi": "टीटी",
+    "C_en": "tt",
+    "C_hi": "टीटी",
+    "D_en": "TtTt",
+    "D_hi": "टीटीटीटी",
+    "answer": "B",
+    "explanation_en": "A heterozygous individual has one dominant and one recessive allele.",
+    "explanation_hi": "हेटेरोजाइगस व्यक्ति में एक प्रभावी और एक अप्रभावी अलील होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the purpose of a test cross?",
+    "question_hi": "परीक्षण पार का उद्देश्य क्या है?",
+    "A_en": "To determine the genotype of an organism",
+    "A_hi": "एक जीव के जीनोटाइप को निर्धारित करने के लिए",
+    "B_en": "To determine the phenotype of an organism",
+    "B_hi": "एक जीव के फीनोटाइप को निर्धारित करने के लिए",
+    "C_en": "To determine the number of chromosomes",
+    "C_hi": "क्रोमोसोम की संख्या निर्धारित करने के लिए",
+    "D_en": "To determine the DNA sequence",
+    "D_hi": "डीएनए अनुक्रम निर्धारित करने के लिए",
+    "answer": "A",
+    "explanation_en": "A test cross is used to determine if an organism is homozygous or heterozygous.",
+    "explanation_hi": "एक परीक्षण पार इस्तेमाल किया जाता है कि एक जीव होमोजाइगस या हेटेरोजाइगस है या नहीं जांचने के लिए।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the phenotypic ratio of a monohybrid cross?",
+    "question_hi": "एकल क्रॉस का फीनोटाइपिक अनुपात क्या होता है?",
+    "A_en": "1:2:1",
+    "A_hi": "1:2:1",
+    "B_en": "3:1",
+    "B_hi": "3:1",
+    "C_en": "9:3:3:1",
+    "C_hi": "9:3:3:1",
+    "D_en": "1:1",
+    "D_hi": "1:1",
+    "answer": "B",
+    "explanation_en": "The phenotypic ratio for a monohybrid cross is 3:1.",
+    "explanation_hi": "एकल क्रॉस का फीनोटाइपिक अनुपात 3:1 होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What does the term 'genotype' refer to?",
+    "question_hi": "शब्द 'जीनोटाइप' का अर्थ क्या है?",
+    "A_en": "The physical traits of an organism",
+    "A_hi": "एक जीव के शारीरिक लक्षण",
+    "B_en": "The genetic makeup of an organism",
+    "B_hi": "एक जीव का आनुवंशिक संरचना",
+    "C_en": "The number of chromosomes",
+    "C_hi": "क्रोमोसोम की संख्या",
+    "D_en": "The DNA sequence",
+    "D_hi": "डीएनए अनुक्रम",
+    "answer": "B",
+    "explanation_en": "Genotype refers to the genetic composition of an organism.",
+    "explanation_hi": "जीनोटाइप एक जीव के आनुवंशिक संरचना को संदर्भित करता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the dihybrid cross phenotypic ratio?",
+    "question_hi": "द्वि-असंगत क्रॉस का फीनोटाइपिक अनुपात क्या होता है?",
+    "A_en": "1:2:1",
+    "A_hi": "1:2:1",
+    "B_en": "3:1",
+    "B_hi": "3:1",
+    "C_en": "9:3:3:1",
+    "C_hi": "9:3:3:1",
+    "D_en": "1:1",
+    "D_hi": "1:1",
+    "answer": "C",
+    "explanation_en": "The phenotypic ratio for a dihybrid cross is 9:3:3:1.",
+    "explanation_hi": "द्वि-असंगत क्रॉस का फीनोटाइपिक अनुपात 9:3:3:1 होता है।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "Which law states that genes for different traits are inherited independently?",
+    "question_hi": "कौन-सा नियम बताता है कि अलग-अलग लक्षणों के लिए जीन स्वतंत्र रूप से विरासत में मिलते हैं?",
+    "A_en": "Law of Segregation",
+    "A_hi": "अलग करने का नियम",
+    "B_en": "Law of Independent Assortment",
+    "B_hi": "स्वतंत्र अनुमान का नियम",
+    "C_en": "Law of Dominance",
+    "C_hi": "प्रभाविता का नियम",
+    "D_en": "Law of Probability",
+    "D_hi": "संभावना का नियम",
+    "answer": "B",
+    "explanation_en": "The Law of Independent Assortment states that genes for different traits assort independently.",
+    "explanation_hi": "स्वतंत्र अनुमान का नियम बताता है कि अलग-अलग लक्षणों के लिए जीन स्वतंत्र रूप से अनुमानित होते हैं।"
+  },
+  {
+    "subject": "General Science",
+    "topic": "Genetics aur Mendel ke Niyam (Inheritance)",
+    "question_en": "What is the probability of a child inheriting a recessive trait if both parents are carriers?",
+    "question_hi": "यदि दोनों माता-पिता वाहक हैं, तो एक बच्चे के अप्रभावी लक्षण विरासत में प्राप्त करने की संभावना क्या है?",
+    "A_en": "25%",
+    "A_hi": "25%",
+    "B_en": "50%",
+    "B_hi": "50%",
+    "C_en": "75%",
+    "C_hi": "75%",
+    "D_en": "100%",
+    "D_hi": "100%",
+    "answer": "A",
+    "explanation_en": "Each parent has a 50% chance of passing the recessive allele, so 25% for the child to inherit it.",
+    "explanation_hi": "प्रत्येक माता-पिता के पास अप्रभावी अलील पास करने का 50% का अवसर होता है, इसलिए बच्चे के इसे विरासत में प्राप्त करने की 25% की संभावना होती है।"
+  }
+]
