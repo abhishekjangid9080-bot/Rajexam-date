@@ -1,0 +1,42 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which prominent Jain pilgrimage site is located in Rajasthan?",
+"question_hi": "राजस्थान में मुख्य जाइन प्रत्यक्षमा स्थल क्या है?",
+"A_en": "Ajmer", "A_hi": "आजमी",
+"B_en": "Jhalawar", "B_hi": "जलावार",
+"C_en": "Pushkar", "C_hi": "पुष्कर",
+"D_en": "Dausa", "D_hi": "डाउसा",
+"answer": "C",
+"explanation_en": "Pushkar is a well-known pilgrimage city and houses the famous Brahma Temple, making it a prominent Jain pilgrimage site in Rajasthan.",
+"explanation_hi": "पुष्कर एक पहलाई संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार संत के लिए जानवार एक जानवार एक जानवार संत के लिए जानवार एक जानवार संत",
+
+{
+"subject": "Rajasthan",
+"topic": "Rajasthan's Historical Legends",
+"question_en": "Which legendary heroine of Rajasthan was known for her bravery?",
+"question_hi": "राजस्तों में किस्तों को बल्यारी की रुरी को बल्यारी",
+"A_en": "Rani Karnawati",
+"A_hi": "राजस्तं को बल्यारी",
+"B_en": "Prithviraj Chauhan",
+"B_hi": "प्रीटों को बल्यारी",
+"C_en": "Ameet",
+"C_hi": "आमिटों को बल्यारी",
+"answer": "Prithviraj Chauhan",
+"explanation_en": "Prithviraj Chauhan was a renowned Rajput king who fought in the battle of Hastakhand and declared Rajput Rajya Samman",
+"explanation_hi": "प्रीटों कं बल्यारी",
+"exam_level": "SSC",
+"difficulty_level": "Easy"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Kings",
+"question_en": "Who was the founder of the Kachhap Durg",
+"question_hi": "काच्यारी काच्यारी काच्यारी काच्यारी काच्यारी काच्यारी काच्यारी काची काच्यारी काची काच्यारी काच्यारी काच्यारी काची",
+"answer": "Rao Bhim Singh",
+"explanation_en": "Rao Bhim Singh was the founder of Chittor Fort and played a significant role in the Chhattari Revolt.",
+"explanation_hi": "रायारी काची काच्यारी काची काची",
+"exam_level": "Medium",
+}]
+]
