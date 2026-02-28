@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Royal Families",
+"question_en": "Which royal family ruled over Jodhpur?",
+"question_hi": "जोधपुर के राज्य पर्वतीय दलशिका के आधार क्या थे ?",
+"A_en": "Meera",
+"A_hi": "मीरा",
+"B_en": "Rathore",
+"B_hi": "रातोड़",
+"C_en": "Rathore",
+"C_hi": "रातोड़",
+"D_en": "Jodhpur Meera",
+"D_hi": "जोधपुर मीरा",
+"answer": "C",
+"explanation_en": "The royal family that ruled over Jodhpur were the Rathore dynasty.\nजोधपुर के राज्य पर्वतीय दलशिका के आधार क्या थे ?",
+"explanation_hi": "जोधपुर के राज्य पर्वतीय दलशिका के आधार क्या थे ?"
+}
+]
