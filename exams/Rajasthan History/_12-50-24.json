@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor established the city of Udaipur?",
+"question_hi": "उदयपुर के निर्माण के लिए कौन सा शास्त्रेय उसे स्थापित करने वाला था?",
+"A_en": "Rana Kumbha",
+"A_hi": "राणा कुम्भ",
+"B_en": "Maharana Pratap",
+"B_hi": "महाराणा प्रतिप",
+"C_en": "Rana Sanga",
+"C_hi": "राणा सांगा",
+"D_en": "Rana Udai Singh",
+"D_hi": "राणा उदाई सिंग",
+"answer": "C",
+"explanation_en": "Rana Sanga was the emperor who established the city of Udaipur.",
+"explanation_hi": "Rana Sanga राणा सांगा उदयपुर को सेवाई करने वाला था।",
+}
+]
