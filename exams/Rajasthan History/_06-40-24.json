@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace in Jaipur was built by Maharaja Jai Singh II?",
+"question_hi": "जैगोंगीचाबी के लिए महाराजा जैसिंगी सिंह सबसे पहले व्याख्याना केवल पुरा बना।",
+"A_en": "Amer Fort", "A_hi": "अमेर के तथा",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Mansingh", "C_hi": "सवाई महाराजा सावाई मन्सिंगी",
+"D_en": "Chandra Mahal", "D_hi": "चंद्र महाल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace in Jaipur built by Maharaja Pratap Singh.",
+"explanation_hi": "जैगोंगीचार्मारा प्रतिभारत महाराजा प्रेतापुरी",
+}
+]
