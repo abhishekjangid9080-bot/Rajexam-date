@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let's start by recalling key aspects of Rajasthan's culture. The state is known for its forts, folk music, dance, festivals, traditional clothing, and cuisine.
+
+First question: One of the most famous folk dances in Rajasthan is Ghoomar. It's performed by women, so I can ask about it. The options should include other dances like Kalbeliya, Kathak, and Chakri. Answer is Ghoomar.
+
+Second question: The traditional attire for men in Rajasthan is Angarkha. Other options might be Dhoti, Kurta, and Ghagra. Answer is Angarkha.
+
+Third question: Rajasthan's famous music instrument is the Sural (a type of pot drum). Other options could be Sarangi, Flute, or Harmonium. Answer is Sural.
+
+Fourth question: The festival of Gangaur is celebrated in Jaipur, dedicated to Goddess Gauri. Other cities like Udaipur, Jodhpur, or Bharatpur. Answer is Jaipur.
+
+Fifth question: The Rajasthani folk song "Kajariya" is associated with the monsoon season. Other songs like Bhajan, Hora, or Manganiyar. Answer is Kajariya.
+
+Sixth question: The traditional Rajasthani dish is Dal-Bati-Churma. Other options like Poha, Dosa, or Idli. Answer is Dal-Bati-Churma.
+
+Seventh question: The famous folk artist from Rajasthan is Rajkumar Sharma. Others could be Lata Mangeshkar, Ravi Shankar, or Kumar Sanu. Answer is Rajkumar Sharma.
+
+Eighth question: The dance form performed with a stick is Akhara. Other options like Fire Dance, Mask Dance, or Stick Dance. Answer is Akhara.
+
+Ninth question: The traditional Rajasthani sweet is Ghewar. Others like Ladoo, Barfi, or Jalebi. Answer is Ghewar.
+
+Tenth question: The Rajasthan Folk Dance Academy is in Jaipur. Other cities like Jodhpur, Udaipur, or Bikaner. Answer is Jaipur.
+
+Now, I need to structure each question in both Hindi and English, ensuring the JSON format is correct. Each question must have the subject as Rajasthan Culture, topic as per the example (though the user left it blank, so I'll leave it empty), and the correct answer marked with the corresponding letter. Explanations should be brief and in both languages. Check for any possible errors in the options and ensure the difficulty level is appropriate for the exams mentioned.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is a traditional folk dance of Rajasthan performed by women?",
+        "question_hi": "राजस्थान का पारंपरिक लोक नृत्य कौन सा है जो महिलाओं द्वारा नृत्य किया जाता है?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Chakri", "C_hi": "चक्री",
+        "D_en": "Bhagoria", "D_hi": "भागोरिया",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan performed by women, characterized by graceful movements and colorful attire.",
+        "explanation_hi": "घूमर राजस्थान का एक पारंपरिक लोक नृत्य है जो महिलाओं द्वारा नृत्य किया जाता है, जिसमें सुंदर आंदोलन और वर्णमान भरे पोशाक का विशेष उल्लेख है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "What is the traditional attire for men in Rajasthan?",
+        "question_hi": "राजस्थान में पुरुषों का पारंपरिक पोशाक क्या है?",
+        "A_en": "Dhoti", "A_hi": "दोटी",
+        "B_en": "Kurta", "B_hi": "कुर्ता",
+        "C_en": "Angarkha", "C_hi": "अंगरक्खा",
+        "D_en": "Sari", "D_hi": "साड़ी",
+        "answer": "C",
+        "explanation_en": "Angarkha is a traditional men's attire in Rajasthan, often paired with churidars and a turban.",
+        "explanation_hi": "अंगरक्खा राजस्थान में पुरुषों का पारंपरिक पोशाक है, जिसे चुरीदार और टोपी के साथ पहना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which instrument is traditionally used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक संगीत में पारंपरिक रूप से कौन से वाद्य यंत्र का उपयोग किया जाता है?",
+        "A_en": "Veena", "A_hi": "वीणा",
+        "B_en": "Sarangi", "B_hi": "सरंगी",
+        "C_en": "Sural", "C_hi": "सुरल",
+        "D_en": "Flute", "D_hi": "बांसुरी",
+        "answer": "C",
+        "explanation_en": "Sural is a traditional Rajasthani folk instrument, resembling a pot drum, used in folk music.",
+        "explanation_hi": "सुरल एक पारंपरिक राजस्थानी लोक वाद्य यंत्र है, जो एक ड्रम जैसा दिखता है, जो लोक संगीत में प्रयोग किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "In which city is the Gangaur festival primarily celebrated in Rajasthan?",
+        "question_hi": "राजस्थान में गंगौर त्योहार किस शहर में मुख्य रूप से मनाया जाता है?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Jaipur", "C_hi": "जयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "C",
+        "explanation_en": "Gangaur festival is a major celebration in Jaipur, dedicated to the goddess Gauri, symbolizing marital bliss.",
+        "explanation_hi": "गंगौर त्योहार जयपुर में एक प्रमुख प्रतियोगिता है, जो कन्याओं और घरवालों के लिए मां गौरी के समर्पित है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which Rajasthani folk song is associated with the monsoon season?",
+        "question_hi": "कौन सा राजस्थानी लोक गीत मानसून ऋतु से संबंधित है?",
+        "A_en": "Kajariya", "A_hi": "काजरिया",
+        "B_en": "Hori", "B_hi": "होरी",
+        "C_en": "Bhajan", "C_hi": "भजन",
+        "D_en": "Manganiyar", "D_hi": "मंगनियार",
+        "answer": "A",
+        "explanation_en": "Kajariya songs are traditionally sung during the monsoon season in Rajasthan.",
+        "explanation_hi": "काजरिया गीत राजस्थान में मानसून ऋतु में पारंपरिक रूप से गाए जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "What is the traditional Rajasthani dish made of wheat, ghee, and lentils?",
+        "question_hi": "गहू, घी और दाल से बनी पारंपरिक राजस्थानी डिश क्या है?",
+        "A_en": "Dal-Bati-Churma", "A_hi": "दाल-बाती-चूरमा",
+        "B_en": "Poha", "B_hi": "पोहा",
+        "C_en": "Dosa", "C_hi": "दोसा",
+        "D_en": "Idli", "D_hi": "इडली",
+        "answer": "A",
+        "explanation_en": "Dal-Bati-Churma is a traditional Rajasthani meal consisting of lentils, flatbread, and sweet crumbles.",
+        "explanation_hi": "दाल-बाती-चूरमा एक पारंपरिक राजस्थानी भोजन है जिसमें दाल, बेलनाकार रोटी, और मिठाई शामिल है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Who is a renowned Rajasthani folk artist associated with the 'Tappa' style?",
+        "question_hi": "टप्पा शैली के साथ जुड़े हुए प्रसिद्ध राजस्थानी लोक कलाकार कौन हैं?",
+        "A_en": "Rajkumar Sharma", "A_hi": "राजकुमार शर्मा",
+        "B_en": "Lata Mangeshkar", "B_hi": "लता मंगेशकर",
+        "C_en": "Ravi Shankar", "C_hi": "रवि शंकर",
+        "D_en": "Kumar Sanu", "D_hi": "कुमार सानू",
+        "answer": "A",
+        "explanation_en": "Rajkumar Sharma is a well-known Rajasthani folk artist renowned for his Tappa style singing.",
+        "explanation_hi": "राजकुमार शर्मा टप्पा शैली के साथ प्रसिद्ध राजस्थानी लोक कलाकार हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which dance form involves the use of sticks and is performed during the Bishnoi community's festivals?",
+        "question_hi": "कौन सा नृत्य स्टिक के उपयोग को शामिल करता है और जिसे बिश्नोई समुदाय के त्योहारों में प्रस्तुत किया जाता है?",
+        "A_en": "Fire Dance", "A_hi": "आग का नृत्य",
+        "B_en": "Stick Dance", "B_hi": "डंडा नृत्य",
+        "C_en": "Akhara", "C_hi": "अखाड़ा",
+        "D_en": "Mask Dance", "D_hi": "चेहरे का नृत्य",
+        "answer": "C",
+        "explanation_en": "Akhara is a traditional stick-fighting dance performed by the Bishnoi community during their festivals.",
+        "explanation_hi": "अखाड़ा बिश्नोई समुदाय के त्योहारों में डंडे के साथ प्रस्तुत किया जाने वाला एक पारंपरिक नृत्य है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which is a traditional Rajasthani sweet made from wheat flour and ghee?",
+        "question_hi": "गहू और घी से बनी पारंपरिक राजस्थानी मिठाई क्या है?",
+        "A_en": "Ghewar", "A_hi": "घेवर",
+        "B_en": "Ladoo", "B_hi": "लड्डू",
+        "C_en": "Barfi", "C_hi": "बर्फी",
+        "D_en": "Jalebi", "D_hi": "जलेबी",
+        "answer": "A",
+        "explanation_en": "Ghewar is a circular sweet made from wheat flour and ghee, a specialty of Rajasthan.",
+        "explanation_hi": "घेवर एक गोल मिठाई है जो गहू और घी से बनाई जाती है, जो राजस्थान की विशिष्टता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Where is the Rajasthan Folk Dance Academy located?",
+        "question_hi": "राजस्थान लोक नृत्य महाविद्यालय कहां स्थित है?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Jaipur", "C_hi": "जयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "C",
+        "explanation_en": "The Rajasthan Folk Dance Academy is located in Jaipur and promotes traditional dance forms.",
+        "explanation_hi": "राजस्थान लोक नृत्य महाविद्यालय जयपुर में स्थित है और पारंपरिक नृत्य रूपों को बढ़ावा देता है।"
+    }
+]
