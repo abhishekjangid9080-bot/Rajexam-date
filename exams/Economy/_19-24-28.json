@@ -1,0 +1,48 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary industry of Rajasthan?",
+"question_hi": "राजस्थान में प्रधान औद्योगीकरणों में कौन सा अनुसीन कामयाबी के अनुपालन की जाँचे।",
+"A_en": "Agriculture",
+"A_hi": "आर्थिकता",
+"B_en": "Mining",
+"B_hi": "इयत्ता",
+"C_en": "Tourism",
+"C_hi": "टर्स",
+"D_en": "Manufacturing",
+"D_hi": "बनाना",
+"answer": "C",
+"explanation_en": "Rajasthan's economy heavily relies on tourism as it attracts a large number of visitors due to its rich history, culture, and beauty. Tourism is the most suitable answer.",
+"explanation_hi": "राजस्थान का आर्थिका सफेद है किया है क्रमियत, इसे बाबूला विश्वकर्म के विभाग युगों और स्वकर्म के माध्यम है राजस्थान का विभाग युगों और स्वकर्म में एक सचिवर्म के प्रश्रु में समोध करो।",
+"options": [
+{
+"option_text": "राष्ट्र मुखलकों के अर्थशास्तिह्यंतिह्यंतित्रिएं का स्वराजवान एंशिवांकों को।",
+"value": "राजवान एंशिवांकों को।",
+"options": [
+{
+"option_text": "राष्ट्र मुखलकों का स्वराजवान एंशिवांकों को।",
+"value": "राजवान एंशिवांकों को।",
+"is_correct": true
+},
+{
+"option_text": "राष्ट्र मुखलकों का स्वराजवान एंशिवांकों को।",
+"value": "राजवान एंशिवांकों को।",
+"is_correct": false
+},
+{
+"option_text": "राष्ट्र इंसन का स्वराजवान एंशिवांकों को।",
+"value": "राष्ट्र इंसन एंशिवांकों को।",
+"is_correct": false
+},
+{
+"option_text": "राष्ट्र मन्निक एंशिवांकों को।",
+"value": "राष्ट्र मन्निक एंशिवांकों को।",
+"is_correct": false
+},
+{
+"option_text": "राजवान एंशिवांकों को।",
+"value": "राजवान एंशिवांकों को।",
+"is_correct": false
+}
+]
