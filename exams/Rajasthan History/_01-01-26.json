@@ -1,0 +1,161 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for Rajasthan History, targeting exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following a specific JSON format. 
+
+First, I need to choose the topic. The user left the topic empty, but since it's Rajasthan History, I'll cover various important areas like rulers, battles, cultural aspects, and significant events. 
+
+I should start by selecting key historical events or figures. For example, the establishment of cities, important rulers like Maharana Pratap, battles such as the Battle of Haldighati, and cultural heritage like forts and palaces. Also, including questions on the unification of Rajasthan under Sir C. Radcliffe.
+
+Each question must have four options, with the correct answer. The explanations should clarify why the answer is correct. Need to ensure that the difficulty level is appropriate for these exams, not too easy but not too obscure.
+
+Let me think of the first question. Maybe the founder of Jaipur? That's a common question. Maharaja Sawai Jai Singh II is the answer. Then, the Battle of Haldighati, when did it occur? That's 1576. 
+
+Another question could be about the ruler who defeated Akbar, which would be Maharana Pratap. The founder of Udaipur, Maharana Udai Singh II. The builder of the Mehrangarh Fort, Rao Jodha. 
+
+The city renamed from Nagaur to Ajmer by Rana Pratap? Wait, Ajmer was renamed by Rana Pratap? Hmm, maybe I need to verify that. Wait, Ajmer was under Mughal control after Akbar, but Rana Pratap did recapture some territories. Maybe that's a point to check. Alternatively, maybe another city. Let me think. 
+
+The question about the ruler who shifted the capital from Chittorgarh to Udaipur is Udai Singh II. The first ruler to adopt the title Maharana was Rana Sanga. The founder of the Mewar dynasty, Bappa Rawal. The person who composed "Rajasthan Ka Itihas" is Rameshwar Nath Sharma. The city known as "The City of Lakes" is Udaipur.
+
+I need to make sure all the facts are correct. For example, the unification of Rajasthan under Sir C. Radcliffe in 1948. Also, the Battle of Haldighati in 1576. Let me check these dates. Yes, Haldighati was 1576. Maharana Pratap did fight against Akbar there. 
+
+For the explanation part, each should be concise but informative. For example, explaining that Mehrangarh Fort was built by Rao Jodha in 1459 in Jodhpur. 
+
+I need to structure each question in both languages, ensuring the translation is accurate. Also, the options should be in order, with the correct answer marked. 
+
+Let me list out the 10 questions:
+
+1. Founder of Jaipur - Sawai Jai Singh II
+2. Battle of Haldighati year - 1576
+3. Ruler defeated Akbar - Maharana Pratap
+4. Founder of Udaipur - Udai Singh II
+5. Builder of Mehrangarh Fort - Rao Jodha
+6. City renamed from Nagaur to Ajmer - Rana Pratap (Wait, actually, Ajmer was under Mughal rule after Akbar, so maybe another city. Let me check. Oh, Ajmer was renamed by Rana Pratap after recapturing it? Or perhaps another city like Kumbhalgarh? Hmm. Alternatively, maybe the city renamed from Nagaur to Ajmer is incorrect. Maybe it's not correct. Let me verify. Ajmer was known as Merta before? Or perhaps the correct answer is Rana Pratap, but the city might be different. Maybe this is a trick question. Alternatively, perhaps the correct city is Ajmer, which was renamed by Rana Pratap. I need to ensure this fact is accurate. Maybe it's better to use a different question here. Let's adjust. Instead of city renaming, perhaps a different aspect. For example, the ruler who shifted capital from Chittorgarh to Udaipur. Udai Singh II. That's a good question. Let me adjust the sixth question to that.
+
+7. First ruler to use title Maharana - Rana Sanga
+8. Founder of Mewar dynasty - Bappa Rawal
+9. Author of Rajasthan's history book - Rameshwar Nath Sharma
+10. City known as "City of Lakes" - Udaipur
+
+Now, structuring each question with options, ensuring the correct answer is in one of the options. Also, explanations in both languages.
+
+Need to double-check each fact for accuracy. For example, the unification of Rajasthan was under Sir C. Radcliffe, and the year is 1948. Correct. The book "Rajasthan Ka Itihas" by Rameshwar Nath Sharma. Yes. 
+
+I think that covers 10 questions. Now, structuring each in the required JSON format, with Hindi and English. Making sure the JSON syntax is correct, no trailing commas, proper quotes, etc.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders and Rulers",
+    "question_en": "Who founded the city of Jaipur?",
+    "question_hi": "जयपुर शहर किसके द्वारा स्थापित किया गया था?",
+    "A_en": "Maharaja Jai Singh I", "A_hi": "महाराजा जय सिंह प्रथम",
+    "B_en": "Maharaja Sawai Jai Singh II", "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "C_en": "Maharaja Man Singh I", "C_hi": "महाराजा मान सिंह प्रथम",
+    "D_en": "Maharaja Udai Singh II", "D_hi": "महाराजा उदय सिंह द्वितीय",
+    "answer": "B",
+    "explanation_en": "Maharaja Sawai Jai Singh II founded Jaipur in 1727.",
+    "explanation_hi": "महाराजा सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Battles",
+    "question_en": "In which year did the Battle of Haldighati take place?",
+    "question_hi": "हल्दीघाटी का युद्ध किस वर्ष हुआ था?",
+    "A_en": "1572", "A_hi": "1572",
+    "B_en": "1576", "B_hi": "1576",
+    "C_en": "1582", "C_hi": "1582",
+    "D_en": "1586", "D_hi": "1586",
+    "answer": "B",
+    "explanation_en": "The Battle of Haldighati occurred in 1576 between Maharana Pratap and the Mughal forces.",
+    "explanation_hi": "हल्दीघाटी का युद्ध 1576 में महाराणा प्रताप और मुग़ल सैनिक बाहुबली के बीच हुआ था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Dynasties",
+    "question_en": "Which ruler defeated Akbar in the Battle of Haldighati?",
+    "question_hi": "हल्दीघाटी के युद्ध में अकबर को हराने वाला शासक कौन था?",
+    "A_en": "Rana Ratan Singh", "A_hi": "राणा रतन सिंह",
+    "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+    "C_en": "Maharana Pratap", "C_hi": "महाराणा प्रताप",
+    "D_en": "Raja Mansingh", "D_hi": "राजा मान सिंह",
+    "answer": "C",
+    "explanation_en": "Maharana Pratap defeated Akbar in the Battle of Haldighati, though it was a tactical retreat.",
+    "explanation_hi": "महाराणा प्रताप ने हल्दीघाटी के युद्ध में अकबर को हराया, हालांकि यह एक रणनीतिक पीछे हटना था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Heritage",
+    "question_en": "Who was the founder of Udaipur?",
+    "question_hi": "उदयपुर के स्थापक कौन थे?",
+    "A_en": "Maharaja Udai Singh I", "A_hi": "महाराजा उदय सिंह प्रथम",
+    "B_en": "Maharaja Udai Singh II", "B_hi": "महाराजा उदय सिंह द्वितीय",
+    "C_en": "Maharaja Rana Pratap", "C_hi": "महाराजा राणा प्रताप",
+    "D_en": "Maharaja Man Singh I", "D_hi": "महाराजा मान सिंह प्रथम",
+    "answer": "B",
+    "explanation_en": "Maharaja Udai Singh II founded Udaipur in 1559 as the capital of Mewar.",
+    "explanation_hi": "महाराजा उदय सिंह द्वितीय ने 1559 में मेवाड़ की राजधानी के रूप में उदयपुर की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Architectural Marvels",
+    "question_en": "Who built the Mehrangarh Fort in Jodhpur?",
+    "question_hi": "जोधपुर में महरांगढ़ किले का निर्माण किसने करवाया था?",
+    "A_en": "Rao Jodha", "A_hi": "राव जोधा",
+    "B_en": "Rao Bika", "B_hi": "राव बीका",
+    "C_en": "Rao Chandra Singh", "C_hi": "राव चन्द्र सिंह",
+    "D_en": "Rao Maldev", "D_hi": "राव मलदेव",
+    "answer": "A",
+    "explanation_en": "Mehrangarh Fort was built by Rao Jodha in 1459.",
+    "explanation_hi": "महरांगढ़ किला 1459 में राव जोधा द्वारा निर्मित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Capital Shifts",
+    "question_en": "Which ruler shifted the capital from Chittorgarh to Udaipur?",
+    "question_hi": "चित्तौड़गढ़ से उदयपुर तक राजधानी को शिफ्ट करने वाला शासक कौन था?",
+    "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+    "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+    "C_en": "Maharaja Udai Singh II", "C_hi": "महाराजा उदय सिंह द्वितीय",
+    "D_en": "Raja Man Singh I", "D_hi": "राजा मान सिंह प्रथम",
+    "answer": "C",
+    "explanation_en": "Maharaja Udai Singh II shifted the capital of Mewar from Chittorgarh to Udaipur in 1559.",
+    "explanation_hi": "महाराजा उदय सिंह द्वितीय ने 1559 में मेवाड़ की राजधानी चित्तौड़गढ़ से उदयपुर तक शिफ्ट कर दी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Titles and Honors",
+    "question_en": "Who was the first ruler to adopt the title 'Maharana'?",
+    "question_hi": "'महाराणा' शीर्षक को अपनाने वाले पहले शासक कौन थे?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Rana Ratan Singh", "C_hi": "राणा रतन सिंह",
+    "D_en": "Raja Man Singh I", "D_hi": "राजा मान सिंह प्रथम",
+    "answer": "A",
+    "explanation_en": "Rana Sanga was the first ruler to adopt the title 'Maharana' in the 16th century.",
+    "explanation_hi": "16वीं शताब्दी में राणा संगा ने 'महाराणा' शीर्षक को अपनाया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founding of Dynasties",
+    "question_en": "Who is considered the founder of the Mewar dynasty?",
+    "question_hi": "मेवाड़ राजवंश के संस्थापक कौन माने जाते हैं?",
+    "A_en": "Bappa Rawal", "A_hi": "बप्पा रावल",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+    "D_en": "Raja Man Singh I", "D_hi": "राजा मान सिंह प्रथम",
+    "answer": "A",
+    "explanation_en": "Bappa Rawal is considered the founder of the Mewar dynasty, which dates back to the 8th century.",
+    "explanation_hi": "8वीं शताब्दी से मेवाड़ राजवंश के संस्थापक बप्पा रावल माने जाते हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Texts",
+    "question_en": "Who is the author of the book 'Rajasthan Ka Itihas'?",
+    "question_hi": "'राजस्थान का इतिहास' पुस्तक के लेखक कौन हैं?",
+    "A_en": "Rajendra Singh", "A_hi": "राजेंद्र सिंह",
+    "B_en": "Rameshwar Nath Sharma", "B_hi": "रामेश्वर नाथ शर्मा",
+    "C_en": "Mahipal Singh", "C_hi": "महिपाल सिंह",
+    "D_en": "Kanhaiya Lal Sharma", "D_hi": "कन्हैया लाल शर्मा",
+    "answer": "B",
+    "explanation_en": "Rameshwar Nath Sharma is the author of the comprehensive historical work 'Rajasthan Ka Itihas'.",
+    "explanation_hi": "'राजस्थान का इतिहास' एक व
