@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What is the primary contributor to the Gross Domestic Product (GDP) of Rajasthan?",
+"question_hi": "राजस्थान की ग्रॉस डोमेंटपी (GDP) का प्रथमानुभवक क्या है।",
+"A_en": "Agriculture",
+"A_hi": "कमांड",
+"B_en": "Industry",
+"B_hi": "भाषा",
+"C_en": "Services",
+"C_hi": "सेवाएं",
+"D_en": "All of the above",
+"D_hi": "सभी विभागों में",
+"answer": "D",
+"explanation_en": "In Rajasthan, all sectors contribute to the GDP, making Agriculture, Industry, and Services the primary sectors.\nIn Hindi, Agriculture is known as 'कमांड', Industry is referred to as 'भाषा', and Services are described as 'सेवाएं'. ",
+"explanation_hi": "राजशान में सभी विभागों में GDP को प्रभागों में बढ़ते हैं। Agriculture (कमांड), Industry (भाषा), और Services (सेवाएं) are the primary sectors.\nराजशान में प्रभागों में GDP को बढ़ते हैं। Agriculture (कमांड), Industry (भाषा), और Services (सेवाएं) are the primary sectors in Rajasthan.",
+}
+]
