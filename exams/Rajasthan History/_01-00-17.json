@@ -1,0 +1,181 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs in both Hindi and English for Rajasthan History, specifically for exams like LDC, CET, RAS, SSC, and Railway. The questions need to follow the Testbook style, with the JSON structure provided. 
+
+First, I need to recall important topics in Rajasthan History. Key areas might include ancient kingdoms, medieval rulers, significant events, historical figures, and important battles. Let me brainstorm some topics. Maybe the Maurya and Gupta periods, Rajput dynasties, Mughal influence, Maratha conflicts, the role of Sawai Jai Singh, important battles like Haldighati, and notable rulers like Maharana Pratap.
+
+Now, each question should have a topic specified. Wait, in the example given, the topic is empty. But the user's instruction says "Topic:" which is blank. Maybe they just left it as a placeholder. So perhaps for each question, I should specify a relevant topic. But since the example has it empty, perhaps the user wants the topic to be filled in. Wait, looking back: the user provided an example where the topic is empty. But in the instructions, they said "Subject and Topic". So maybe each question should have a specific topic. Let me check the instructions again. The user wrote: "Har question aur uske options Hindi aur English dono languages mein hone chahiye (Testbook style)." So the example provided has the topic field empty. Hmm, maybe the user expects the topic to be filled in for each question. For example, if the question is about a ruler, the topic could be "Rulers of Rajasthan" or "Rajput Dynasties". 
+
+Let me start drafting the first question. Let's pick the battle of Haldighati. The question could be about who led the Mughal forces there. The answer is Man Singh I. That would be a good MCQ. The topic here would be "Battle of Haldighati". 
+
+Next, perhaps a question on the founder of Jaipur. Sawai Jai Singh II is the answer. Topic: "Founding of Jaipur". 
+
+Third question: The ruler who defeated the Mughals in the Battle of Khanwa. Rana Sanga comes to mind. Topic: "Rajput Rulers and Mughal Conflicts". 
+
+Fourth question: The capital of Marwar region. Jodhpur is the answer. Topic: "Geographical Regions of Rajasthan". 
+
+Fifth question: The person who translated the Ramayana into Rajasthani. Sridhar Das is the answer. Topic: "Cultural Contributions in Rajasthan". 
+
+Sixth question: The first ruler of the Shekhawati region. Raja Shekha, hence the name Shekhawati. Topic: "Shekhawati Region". 
+
+Seventh question: The famous ruler of Mewar who died in the Battle of Haldighati. Maharana Pratap. Topic: "Mewar Kingdom". 
+
+Eighth question: The founder of Udaipur city. Maharana Udai Singh II. Topic: "Founding of Udaipur". 
+
+Ninth question: The treaty that ended the conflict between the Mughals and the Rajputs. Treaty of Chauth. Topic: "Mughal-Rajput Relations". 
+
+Tenth question: The historical figure associated with the construction of the Hawa Mahal. Maharaja Sawai Pratap Singh. Topic: "Architectural Contributions in Rajasthan". 
+
+Now, I need to structure each of these into the JSON format. Each question must have the subject, topic, question in English and Hindi, four options in both languages, the correct answer, and explanations in both languages. 
+
+I need to ensure that the options are plausible distractors. For example, for the Haldighati question, possible options could be other Mughal generals or Rajput leaders. 
+
+Also, explanations should be concise but informative, explaining why the answer is correct. 
+
+Let me verify each question for accuracy. For example, the Battle of Haldighati was between Maharana Pratap and Akbar, led by Man Singh I. Correct. The founder of Jaipur is indeed Sawai Jai Singh II. The ruler who defeated the Mughals at Khanwa was Rana Sanga, though he lost later. The capital of Marwar is Jodhpur. The translator of Ramayana into Rajasthani was Sridhar Das. Shekhawati region was founded by Raja Shekha. Maharana Pratap died at Haldighati. Udaipur was founded by Udai Singh II. The Treaty of Chauth ended conflicts. Hawa Mahal was built by Sawai Pratap Singh. 
+
+I need to make sure that the options are not repeated, and that the correct answers are accurate. Also, difficulty level should be appropriate for the exams mentioned, so not too easy or too obscure. 
+
+Once the questions are drafted, I'll format them into the required JSON structure, ensuring that both Hindi and English versions are present for each part. No extra text, just the raw JSON. Let me proceed to write each question step by step, checking for any errors.
+</think>
+
+[
+{
+  "subject": "Rajasthan History",
+  "topic": "Battle of Haldighati",
+  "question_en": "Who led the Mughal forces against Maharana Pratap in the Battle of Haldighati?",
+  "question_hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप के खिलाफ मुगल बलों का नेतृत्व किसने किया था?",
+  "A_en": "Man Singh I",
+  "A_hi": "मन सिंह प्रथम",
+  "B_en": "Akbar",
+  "B_hi": "अकबर",
+  "C_en": "Raja Mewar",
+  "C_hi": "राजा मेवाड़",
+  "D_en": "Raja Man Singh",
+  "D_hi": "राजा मन सिंह",
+  "answer": "A",
+  "explanation_en": "Man Singh I led the Mughal forces against Maharana Pratap in the Battle of Haldighati in 1576.",
+  "explanation_hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप के खिलाफ मुगल बलों का नेतृत्व मन सिंह प्रथम द्वारा किया गया था, जो 1576 में अकबर के आदेश पर लड़ा था।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Founding of Jaipur",
+  "question_en": "Who founded the city of Jaipur in 1727?",
+  "question_hi": "1727 में शहर जयपुर की स्थापना किसने की थी?",
+  "A_en": "Raja Jai Singh II",
+  "A_hi": "राजा जय सिंह द्वितीय",
+  "B_en": "Maharaja Sawai Jai Singh II",
+  "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+  "C_en": "Maharaja Suheldev",
+  "C_hi": "महाराजा सुहेलदेव",
+  "D_en": "Raja Raja Singh",
+  "D_hi": "राजा राजा सिंह",
+  "answer": "B",
+  "explanation_en": "Maharaja Sawai Jai Singh II founded the city of Jaipur in 1727 as the capital of Amber.",
+  "explanation_hi": "1727 में महाराजा सवाई जय सिंह द्वितीय ने अम्बर की राजधानी के रूप में जयपुर शहर की स्थापना की थी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Rulers and Mughal Conflicts",
+  "question_en": "Which Rajput ruler defeated the Mughals in the Battle of Khanwa in 1527?",
+  "question_hi": "1527 में खानवा के युद्ध में मुगलों को हराने वाला राजपूत शासक कौन था?",
+  "A_en": "Rana Sanga",
+  "A_hi": "राणा संगा",
+  "B_en": "Maharana Pratap",
+  "B_hi": "महाराणा प्रताप",
+  "C_en": "Raja Man Singh",
+  "C_hi": "राजा मन सिंह",
+  "D_en": "Raja Bharmal",
+  "D_hi": "राजा भरमल",
+  "answer": "A",
+  "explanation_en": "Rana Sanga of Mewar defeated the Mughals led by Babur in the Battle of Khanwa in 1527.",
+  "explanation_hi": "1527 में खानवा के युद्ध में मेवाड़ के राणा संगा ने बाबर के नेतृत्व में मुगलों को हराया था।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Geographical Regions of Rajasthan",
+  "question_en": "Which city is known as the capital of the Marwar region in Rajasthan?",
+  "question_hi": "राजस्थान में मारवाड़ क्षेत्र की राजधानी के रूप में किस शहर को जाना जाता है?",
+  "A_en": "Jodhpur",
+  "A_hi": "जोधपुर",
+  "B_en": "Jaisalmer",
+  "B_hi": "जैसलमेर",
+  "C_en": "Bikaner",
+  "C_hi": "बीकानेर",
+  "D_en": "Churu",
+  "D_hi": "चूरू",
+  "answer": "A",
+  "explanation_en": "Jodhpur is considered the capital of the Marwar region in Rajasthan.",
+  "explanation_hi": "राजस्थान में मारवाड़ क्षेत्र की राजधानी के रूप में जोधपुर को जाना जाता है।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Cultural Contributions in Rajasthan",
+  "question_en": "Who translated the Ramayana into the Rajasthani language?",
+  "question_hi": "राजस्थानी भाषा में रामायण का अनुवाद किसने किया था?",
+  "A_en": "Sridhar Das",
+  "A_hi": "श्रीधर दास",
+  "B_en": "Kavi Kanhadadev",
+  "B_hi": "कवि कन्हाड़देव",
+  "C_en": "Raj Singh",
+  "C_hi": "राज सिंह",
+  "D_en": "Munishwar Das",
+  "D_hi": "मुनिश्वर दास",
+  "answer": "A",
+  "explanation_en": "Sridhar Das translated the Ramayana into the Rajasthani language in the 16th century.",
+  "explanation_hi": "16वीं शताब्दी में श्रीधर दास ने रामायण का राजस्थानी भाषा में अनुवाद किया था।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Shekhawati Region",
+  "question_en": "Which ruler is associated with the establishment of the Shekhawati region in Rajasthan?",
+  "question_hi": "राजस्थान में शेखावती क्षेत्र की स्थापना के साथ किस शासक का नाम जुड़ा है?",
+  "A_en": "Raja Shekha",
+  "A_hi": "राजा शेखा",
+  "B_en": "Raja Man Singh",
+  "B_hi": "राजा मन सिंह",
+  "C_en": "Raja Ratan Singh",
+  "C_hi": "राजा रतन सिंह",
+  "D_en": "Raja Sawai Singh",
+  "D_hi": "राजा सवाई सिंह",
+  "answer": "A",
+  "explanation_en": "The Shekhawati region in Rajasthan is named after Raja Shekha, who founded it in the 11th century.",
+  "explanation_hi": "राजस्थान का शेखावती क्षेत्र 11वीं शताब्दी में राजा शेखा द्वारा स्थापित किया गया था, जिसके नाम पर इसका नामकरण किया गया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Mewar Kingdom",
+  "question_en": "Which famous ruler of Mewar died in the Battle of Haldighati?",
+  "question_hi": "हल्दीघाटी के युद्ध में मृत्यु के कारण प्रसिद्ध मेवाड़ के शासक कौन थे?",
+  "A_en": "Maharana Pratap",
+  "A_hi": "महाराणा प्रताप",
+  "B_en": "Rana Sanga",
+  "B_hi": "राणा संगा",
+  "C_en": "Rana Ratan Singh",
+  "C_hi": "राणा रतन सिंह",
+  "D_en": "Rana Kumbha",
+  "D_hi": "राणा कुंभा",
+  "answer": "A",
+  "explanation_en": "Maharana Pratap, the renowned ruler of Mewar, died in the Battle of Haldighati in 1576.",
+  "explanation_hi": "हल्दीघाटी के युद्ध में 1576 में महाराणा प्रताप, मेवाड़ के प्रसिद्ध शासक, मृत्यु के शिकार हुए।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Founding of Udaipur",
+  "question_en": "Who founded the city of Udaipur in the 16th century?",
+  "question_hi": "16वीं शताब्दी में शहर उदयपुर की स्थापना किसने की थी?",
+  "A_en": "Maharana Udai Singh II",
+  "A_hi": "महाराणा उदय सिंह द्वितीय",
+  "B_en": "Maharana Pratap",
+  "B_hi": "महाराणा प्रताप",
+  "C_en": "Rana Sanga",
+  "C_hi": "राणा संगा",
+  "D_en": "Rana Kumbha",
+  "D_hi": "राणा कुंभा",
+  "answer": "A",
+  "explanation_en": "Maharana Udai Singh II founded the city of Udaipur in the 16th century as a new capital for Mewar.",
+  "explanation_hi": "16वीं शताब्दी में महाराणा उदय सिंह द्वितीय ने मेवाड़ के लिए एक नई राजधानी के रूप में उदयपुर शहर की स्थापना की थी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Mughal-Rajput Relations",
+  "question_en": "Which treaty marked the end of conflicts between the Mughals
