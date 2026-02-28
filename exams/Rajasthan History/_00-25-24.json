@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Kings",
+"question_en": "Which Rajput king is associated with the construction of Amer Fort?",
+"question_hi": "अमेर के निर्माण के लिए कौन सा राजपूत किस्मत के राजा है।",
+"A_en": "Pratap Singh", "A_hi": "प्रताप सिंह",
+"B_en": "Kumbha Singh", "B_hi": "कुम्भ सिंह",
+"C_en": "Rao Jodha", "C_hi": "राव जोध",
+"D_en": "Ashok Singh", "D_hi": "अशोक सिंह",
+"answer": "C",
+"explanation_en": "Amer Fort was constructed by Rao Jodha, the Rathore king of Mewar.",
+"explanation_hi": "अमेर की बनी उपलीकरण करने वाला एम मेवार का।",
+"explanation_hi": "मेवार, राजों के बेलावर की बनी उपलीकरण करने वाला एम मेवार का।",
+}
+]
