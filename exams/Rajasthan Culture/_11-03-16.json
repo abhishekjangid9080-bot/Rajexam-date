@@ -1,0 +1,150 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan Culture for various exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style, and in a strict JSON format. 
+
+First, I need to identify important topics within Rajasthan Culture. Possible areas could be festivals, folk music/dance, traditional attire, historical figures, architecture, art forms, languages, etc. Since the difficulty level should be according to Rajasthan Culture exams, I should ensure questions are factual but not too obscure.
+
+Starting with festivals: Gangaur Mela is a significant one in Jaipur. Then, folk music: Ghoomar is a traditional dance from Rajasthan. Traditional attire: Ghagra for women. Historical figures: Meera Bai from Merta City. Architecture: Mehrangarh Fort in Jodhpur. Art forms: Mukaish or Mukaish art. Folk songs: Ballads like "Kajari" performed during monsoon. Instruments: Sural (flute). Folk tales: "Pachisi" is a traditional game. Languages: Marwari spoken in Marwar region.
+
+Now, for each topic, I need to frame a question with four options. The correct answer should be accurate and the explanation concise. Let me check each point for accuracy. For example, Meera Bai's birthplace is Merta, not elsewhere. Ghoomar is indeed a dance from Rajasthan. Mehrangarh Fort is in Jodhpur. Marwari is spoken in Marwar. 
+
+I should ensure that the distractors (wrong options) are plausible but incorrect. For example, when asking about the birthplace of Meera Bai, options like Jodhpur, Udaipur, and Bikaner are other Rajasthani cities. 
+
+Also, the explanations need to be clear but brief. For example, explaining that "Kajari" is a monsoon season folk song. 
+
+Once all 10 questions are framed, I need to structure them into the provided JSON format, making sure Hindi and English versions are correctly translated. Avoid any markdown, just raw JSON. Let me verify each entry for correctness and formatting. Check for any typos or errors in the subject/topic fields. Ensure that the answer letters (A, B, C, D) correspond correctly to the right option.
+
+Finally, review the entire JSON to confirm it meets the user's requirements, including the correct number of questions, proper structure, and language consistency. Make sure there are no extra characters or syntax errors that could cause parsing issues when used in an exam system.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is celebrated with great enthusiasm in Jaipur to honor married women?",
+    "question_hi": "जयपुर में विवाहित महिलाओं के सम्मान में कौन सा पर्व बड़ी उत्साहिता के साथ मनाया जाता है?",
+    "A_en": "Gangaur Mela", "A_hi": "गंगौर मेला",
+    "B_en": "Makar Sankranti", "B_hi": "मकर संक्रांति",
+    "C_en": "Diwali", "C_hi": "दिवाली",
+    "D_en": "Holi", "D_hi": "होली",
+    "answer": "A",
+    "explanation_en": "Gangaur Mela is a significant festival in Jaipur, dedicated to married women and their prosperity.",
+    "explanation_hi": "गंगौर मेला जयपुर में विवाहित महिलाओं के सम्मान में मनाया जाता है और उनकी समृद्धि के लिए महत्वपूर्ण है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which traditional dance is known as the 'Dance of the Women' in Rajasthan?",
+    "question_hi": "राजस्थान में पड़ता है और इसे 'महिलाओं का नृत्य' कहा जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Chakri", "C_hi": "चक्री",
+    "D_en": "Bhavai", "D_hi": "भवई",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional folk dance performed by women in Rajasthan, often during festivals.",
+    "explanation_hi": "घूमर राजस्थान में महिलाओं द्वारा प्रसिद्ध लोक नृत्य है जिसे पर्वों में प्रस्तुत किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional dress worn by Rajasthani women?",
+    "question_hi": "राजस्थानी महिलाएं परिधान करती हैं?",
+    "A_en": "Sari", "A_hi": "साड़ी",
+    "B_en": "Ghagra", "B_hi": "घगरा",
+    "C_en": "Lehenga", "C_hi": "लेहंगा",
+    "D_en": "Chaniya Choli", "D_hi": "चानिया चोली",
+    "answer": "B",
+    "explanation_en": "Ghagra is a traditional long skirt worn by Rajasthani women, often paired with a choli and dupatta.",
+    "explanation_hi": "घगरा राजस्थानी महिलाओं द्वारा पहना जाने वाला परम्परागत लंबा गाउन है जिसे बनियान और दुपट्टा के साथ पहना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Historical Figures",
+    "question_en": "Which historical figure from Rajasthan is known for her devotion to Lord Krishna?",
+    "question_hi": "राजस्थान की कौन सी ऐतिहासिक व्यक्ति भगवान कृष्ण के प्रति अपनी भक्ति के लिए प्रसिद्ध है?",
+    "A_en": "Panna Bai", "A_hi": "पन्ना बाई",
+    "B_en": "Meera Bai", "B_hi": "मीरा बाई",
+    "C_en": "Rani Padmini", "C_hi": "रानी पद्मिनी",
+    "D_en": "Rani Jhansi", "D_hi": "रानी झांसी",
+    "answer": "B",
+    "explanation_en": "Meera Bai, a 16th-century Rajput queen, was a devoted follower of Lord Krishna and a celebrated poet.",
+    "explanation_hi": "मीरा बाई, 16वीं शताब्दी की राजपूत रानी, भगवान कृष्ण की वफादार भक्त और प्रसिद्ध कविता के रूप में प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which fort is a symbol of Jodhpur and is known as the 'Blue Fort'?",
+    "question_hi": "कौन सा किला जोधपुर का प्रतीक है और 'नीला किला' के रूप में जाना जाता है?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Mehrangarh Fort", "B_hi": "महरांगढ़ किला",
+    "C_en": "Amber Fort", "C_hi": "अंबर किला",
+    "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+    "answer": "B",
+    "explanation_en": "Mehrangarh Fort in Jodhpur is renowned for its blue-hued buildings and historical significance.",
+    "explanation_hi": "महरांगढ़ किला जोधपुर में अपने नीले रंग के इमारतों और ऐतिहासिक महत्व के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Art Forms",
+    "question_en": "Which traditional Rajasthani art form involves intricate mirror work?",
+    "question_hi": "कौन सी परम्परागत राजस्थानी कला रूप जटिल दर्पण कार्य से संबंधित है?",
+    "A_en": "Miniature Painting", "A_hi": "अभिन्न चित्रकला",
+    "B_en": "Mukaish", "B_hi": "मुकाइश",
+    "C_en": "Kalamezhuthu", "C_hi": "कलामेजूथु",
+    "D_en": "Pattachitra", "D_hi": "पट्टचित्र",
+    "answer": "B",
+    "explanation_en": "Mukaish is a traditional Rajasthani embroidery style using mirrors and intricate patterns.",
+    "explanation_hi": "मुकाइश राजस्थान की परम्परागत शिल्पकला है जिसमें दर्पण और जटिल पैटर्न का उपयोग किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Songs",
+    "question_en": "Which folk song is associated with the monsoon season in Rajasthan?",
+    "question_hi": "राजस्थान में बरसात के मौसम से कौन सा लोकगीत सम्बन्धित है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Kajari", "B_hi": "काजरी",
+    "C_en": "Ghoomar", "C_hi": "घूमर",
+    "D_en": "Bhajan", "D_hi": "भजन",
+    "answer": "B",
+    "explanation_en": "Kajari is a traditional Rajasthani folk song sung during the monsoon season to invoke rain.",
+    "explanation_hi": "काजरी एक परम्परागत राजस्थानी लोकगीत है जो बरसात के मौसम में बरसात के लिए गाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Instruments",
+    "question_en": "Which musical instrument is traditionally used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक संगीत में परम्परागत रूप से किस संगीत यंत्र का उपयोग किया जाता है?",
+    "A_en": "Sitar", "A_hi": "सितार",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Harmonium", "C_hi": "हार्मोनियम",
+    "D_en": "Sural", "D_hi": "सुरल",
+    "answer": "D",
+    "explanation_en": "Sural is a traditional Rajasthani flute used in folk music to play lively tunes.",
+    "explanation_hi": "सुरल राजस्थान का परम्परागत बांसुरी है जिसका उपयोग लोक संगीत में उत्साही गाने बजाने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Tales",
+    "question_en": "Which traditional game is popular in Rajasthan and involves storytelling through dice?",
+    "question_hi": "राजस्थान में कौन सा परम्परागत खेल लोकप्रिय है जो पासे के माध्यम से कहानी कहने से संबंधित है?",
+    "A_en": "Ludo", "A_hi": "लूडो",
+    "B_en": "Pachisi", "B_hi": "पचिसी",
+    "C_en": "Carrom", "C_hi": "कैरम",
+    "D_en": "Chess", "D_hi": "शतरंज",
+    "answer": "B",
+    "explanation_en": "Pachisi is a traditional Rajasthani game played with dice and involves storytelling elements.",
+    "explanation_hi": "पचिसी एक परम्परागत राजस्थानी खेल है जिसमें पासे का उपयोग किया जाता है और कहानी कहने के तत्व शामिल होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Languages",
+    "question_en": "Which language is predominantly spoken in the Marwar region of Rajasthan?",
+    "question_hi": "राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से किस भाषा का उच्चारण किया जाता है?",
+    "A_en": "Marwari", "A_hi": "मारवाड़ी",
+    "B_en": "Braj", "B_hi": "ब्रज",
+    "C_en": "Gurjar", "C_hi": "गुजराती",
+    "D_en": "Malvi", "D_hi": "मालवी",
+    "answer": "A",
+    "explanation_en": "Marwari is a dialect primarily spoken in the Marwar region of Rajasthan.",
+    "explanation_hi": "मारवाड़ी भाषा मुख्य रूप से राजस्थान के मारवाड़ क्षेत्र में बोली जाती है।"
+  }
+]
