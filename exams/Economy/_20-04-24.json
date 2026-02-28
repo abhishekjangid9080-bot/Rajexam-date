@@ -1,0 +1,27 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is Gross Domestic Product (GDP)?",
+"question_hi": "ग्रॉस डोमेंट प्रोडाइक (GDP) क्या है।",
+"A_en": "GDP at Market Price",
+"A_hi": "मार्केट प्रतिशत GDP",
+"B_en": "GDP at Constant Prices",
+"B_hi": "संतुलन प्रतिशत GDP",
+"C_en": "GDP at Current Prices",
+"C_hi": "नवर्सर्ट प्रतिशत GDP",
+"D_en": "GDP at Basic Prices",
+"D_hi": "बैसी प्रतिशत GDP",
+"answer": "B",
+"explanation_en": "GDP at Constant Prices represents the value of all goods and services produced in an economy during a specific period, adjusted for inflation.",
+"explanation_hi": "संतुलन प्रतिशत GDP एक परिक्षा में मंगलम एक किसी एक प्रदेश में मंगलम के विभिज्ञान का वर्णमान है।",
+"question_en": "What is GDP at Constant Prices called in economics?",
+"question_hi": "विभिज्ञान में GDP at Constant Prices क्या वर्णमान है।",
+"explanation_en": "In economics, GDP at Constant Prices refers to the value of all goods and services produced in an economy during a specific period, adjusted for inflation.",
+"explanation_hi": "विभिज्ञान में GDP at Constant Prices के अर्थ परिवर्तन की एक वर्णमान है।",
+"question_en": "What is the significance of GDP at Constant Prices in economics?",
+"question_hi": "विभिज्ञान में GDP at Constant Prices का क्या विद्यंती स्पनिका? ",
+"explanation_en": "In economics, GDP at Constant Prices holds significant importance as it represents the real value of economic activity, taking into account price changes due to inflation.",
+"explanation_hi": "विभिज्ञान में GDP at Constant Prices का अर्थ विद्यंती स्पनिका हैंतिका इसका विद्यंतिका? ",
+}
+]
