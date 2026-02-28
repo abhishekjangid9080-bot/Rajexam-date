@@ -1,0 +1,195 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Culture, specifically about the topic. First, I need to make sure I understand the subject well. Rajasthan's culture is rich with festivals, folk music, dance, traditional attire, and art forms. 
+
+I should start by brainstorming key areas. Festivals like Gangaur, Teej, and Mewar are important. Folk dances like Ghoomar and Kalbeliya come to mind. Traditional attire for men and women, such as the Angarkha and Ghagra, are significant. Also, folk music instruments like the Sarangi and Dholak are relevant.
+
+Now, for each question, I need to have both Hindi and English options. The example provided uses a structure with subject, topic, question in both languages, options with answers, and explanations in both languages. I need to follow the same structure strictly.
+
+Let me think of the first question. Maybe about the state animal. Rajasthan's state animal is the Chinkara. Then another question on the state bird, the Great Indian Bustard. Wait, but I should verify that. Yes, the Great Indian Bustard is the state bird of Rajasthan.
+
+Next, traditional dance forms. Ghoomar is a well-known dance by Rajasthani women. Kalbeliya is another, performed by the Kalbeliya community. Folk music instruments: Sarangi for string instruments, Dholak for percussion. Traditional attire: Men wear Dhoti and Kurta, women wear Ghagra and Choli.
+
+Rajasthani thali includes items like Dal Baati Churma. Folk art forms include miniature paintings and block printing. Historical forts and palaces like Mehrangarh Fort and Hawa Mahal are part of the culture. Traditional festivals like Gangaur and Teej are important.
+
+I need to create 10 unique questions. Let me list out possible topics: state symbols, festivals, dance forms, music, attire, art forms, historical monuments, traditional cuisine, folk tales, and notable personalities. Wait, maybe some of these are better split into multiple questions.
+
+Let me start drafting each question, ensuring the options are in both languages. For example, the first question could be about the state animal. The answer is Chinkara. Then the options would be different animals, making sure the correct one is in the right position.
+
+For each question, the answer options need to be in English and Hindi. Also, explanations in both languages are necessary. I need to ensure the difficulty level is appropriate for Rajasthan state exams, so the questions shouldn't be too obscure but still require specific knowledge.
+
+I should check each fact to avoid errors. For example, confirming that Ghoomar is a Rajasthani dance, and Kalbeliya is performed by a specific community. Also, verifying the state bird and animal. 
+
+Another question could be about the traditional attire for men. The Angarkha is a specific type of clothing. Then, for women, the Ghagra and Choli. 
+
+Folk music: Sarangi is a string instrument used in Rajasthani folk music. Dholak is a percussion instrument. 
+
+Traditional thali: Dal Baati Churma is a staple. 
+
+Festivals: Gangaur is celebrated in Jaipur, and Teej is related to the arrival of monsoon. 
+
+Art forms: Miniature paintings from Rajasthan, block printing in places like Bagru. 
+
+Historical monuments: Mehrangarh Fort in Jodhpur, Hawa Mahal in Jaipur. 
+
+I need to ensure that each question is distinct and covers different aspects of Rajasthan's culture. Let me count: 10 questions should cover all these areas. 
+
+Now, structuring each question with the correct answer and explanations. Making sure the options are plausible but the correct answer is clear. For example, in the state bird question, the Great Indian Bustard is correct, while other options could be peacock, sparrow, etc. 
+
+Let me proceed to write each question step by step, ensuring the JSON format is correct, and all fields are filled properly. Also, checking for any typos or errors in the translations. 
+
+Once done, I'll review the list to ensure all 10 questions are unique and cover various aspects of Rajasthan's culture as required.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthan State Symbols",
+        "question_en": "Which animal is the state animal of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य प्राणी कौन सा है?",
+        "A_en": "Chinkara",
+        "A_hi": "चींकारा",
+        "B_en": "Blue Bull",
+        "B_hi": "नीला बैल",
+        "C_en": "Rhesus Macaque",
+        "C_hi": "रेशस माऊस",
+        "D_en": "Nilgai",
+        "D_hi": "नीलगाय",
+        "answer": "A",
+        "explanation_en": "Chinkara is the state animal of Rajasthan, known for its resilience in the desert ecosystem.",
+        "explanation_hi": "राजस्थान का राज्य प्राणी चींकारा है, जो रेगिस्तानी पारिस्थितिक तंत्र में अपनी टिकाऊपन के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Dances",
+        "question_en": "Which among the following is a traditional folk dance of Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थान का पारंपरिक लोक नृत्य है?",
+        "A_en": "Garba",
+        "A_hi": "गरबा",
+        "B_en": "Ghoomar",
+        "B_hi": "घूमर",
+        "C_en": "Bhangra",
+        "C_hi": "भंगड़ा",
+        "D_en": "Kathak",
+        "D_hi": "कथक",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan, performed by women to celebrate festivals and cultural events.",
+        "explanation_hi": "घूमर राजस्थान का एक पारंपरिक लोक नृत्य है, जो महिलाओं द्वारा उत्सवों और सांस्कृतिक घटनाओं के जश्न में प्रस्तुत किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Music",
+        "question_en": "Which string instrument is traditionally used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक गायन में परंपरागत रूप से कौन सा स्ट्रिंग वाद्य उपकरण उपयोग किया जाता है?",
+        "A_en": "Sarangi",
+        "A_hi": "सरन्गी",
+        "B_en": "Dholak",
+        "B_hi": "ढोलक",
+        "C_en": "Flute",
+        "C_hi": "बांसुरी",
+        "D_en": "Sitar",
+        "D_hi": "सितार",
+        "answer": "A",
+        "explanation_en": "Sarangi is a traditional string instrument used in Rajasthani folk music, known for its rich, resonant sound.",
+        "explanation_hi": "सरन्गी राजस्थानी लोक गायन में परंपरागत रूप से उपयोग किया जाने वाला स्ट्रिंग वाद्य उपकरण है, जिसकी ध्वनि भरपूर और कंपित होती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+        "question_hi": "राजस्थान में देवी गौरी के सम्मान में कौन सा उत्सव मनाया जाता है?",
+        "A_en": "Gangaur",
+        "A_hi": "गंगौर",
+        "B_en": "Teej",
+        "B_hi": "तीज",
+        "C_en": "Mewar",
+        "C_hi": "मेवाड़",
+        "D_en": "Kite Festival",
+        "D_hi": "पतंग उत्सव",
+        "answer": "A",
+        "explanation_en": "Gangaur is a significant festival in Rajasthan celebrated to honor the goddess Gauri (Parvati), marked by processions and traditional attire.",
+        "explanation_hi": "गंगौर राजस्थान में देवी गौरी (पार्वती) के सम्मान में मनाया जाने वाला महत्वपूर्ण उत्सव है, जिसमें जुलूस और पारंपरिक पोशाक के साथ धूमधाम से मनाया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "What is the traditional dress for Rajasthani women?",
+        "question_hi": "राजस्थानी महिलाओं की पारंपरिक पोशाक क्या है?",
+        "A_en": "Sari",
+        "A_hi": "साड़ी",
+        "B_en": "Ghagra and Choli",
+        "B_hi": "घगरा और चोली",
+        "C_en": "Lehenga",
+        "C_hi": "लेहंगा",
+        "D_en": "Salwar Kameez",
+        "D_hi": "सलवार कमीज़",
+        "answer": "B",
+        "explanation_en": "Ghagra and Choli are the traditional attire for Rajasthani women, often adorned with intricate mirror work and vibrant colors.",
+        "explanation_hi": "घगरा और चोली राजस्थानी महिलाओं की पारंपरिक पोशाक है, जो जटिल दर्पण कारीगरी और चमकदार रंगों से सजाई जाती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which dish is a staple of Rajasthani cuisine?",
+        "question_hi": "राजस्थानी खाने की कौन सी पकवान प्रमुख प्रकार है?",
+        "A_en": "Dal Baati Churma",
+        "A_hi": "दाल बाती चूरमा",
+        "B_en": "Pani Puri",
+        "B_hi": "पानी पूरी",
+        "C_en": "Biryani",
+        "C_hi": "बिरयानी",
+        "D_en": "Idli Sambar",
+        "D_hi": "इडली साबूदाना",
+        "answer": "A",
+        "explanation_en": "Dal Baati Churma is a staple dish in Rajasthani cuisine, symbolizing the desert region's resourceful use of ingredients.",
+        "explanation_hi": "दाल बाती चूरमा राजस्थानी खाने की प्रमुख पकवान है, जो रेगिस्तानी क्षेत्र के स्थानीय अवयवों के बुद्धिमान उपयोग को दर्शाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Monuments",
+        "question_en": "Which fort is located in Jodhpur, Rajasthan?",
+        "question_hi": "राजस्थान के जोधपुर में कौन सा किला स्थित है?",
+        "A_en": "Mehrangarh Fort",
+        "A_hi": "मेहरंगढ़ किला",
+        "B_en": "Chittorgarh Fort",
+        "B_hi": "चित्तौड़गढ़ किला",
+        "C_en": "Amber Fort",
+        "C_hi": "अम्बर किला",
+        "D_en": "Gwalior Fort",
+        "D_hi": "ग्वालियर किला",
+        "answer": "A",
+        "explanation_en": "Mehrangarh Fort in Jodhpur is a historic fort built in the 15th century, showcasing Rajput architecture.",
+        "explanation_hi": "जोधपुर में मेहरंगढ़ किला 15वीं शताब्दी में निर्मित प्राचीन किला है, जो राजपूत वास्तुकला का प्रतीक है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Art Forms",
+        "question_en": "Which art form is traditionally practiced in Rajasthan for block printing?",
+        "question_hi": "राजस्थान में ब्लॉक प्रिंटिंग के लिए परंपरागत रूप से कौन सी कला रूप अपनाया जाता है?",
+        "A_en": "Miniature Painting",
+        "A_hi": "मिनीएचर चित्रकारी",
+        "B_en": "Block Printing",
+        "B_hi": "ब्लॉक प्रिंटिंग",
+        "C_en": "Pottery",
+        "C_hi": "मिट्टी का साज",
+        "D_en": "Metal Craft",
+        "D_hi": "धातु शिल्प",
+        "answer": "B",
+        "explanation_en": "Block printing is a traditional art form in Rajasthan, especially in cities like Bagru, known for vibrant and intricate designs.",
+        "explanation_hi": "ब्लॉक प्रिंटिंग राजस्थान में परंपरागत कला रूप है, विशेष रूप से बगौर जैसे शहरों में, जिनके चमकदार और जटिल डिज़ाइन के लिए प्रसिद्ध हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Tales",
+        "question_en": "Which folk tale is associated with the legend of Pabuji in Rajasthan?",
+        "question_hi": "राजस्थान में पाबूजी की पौराणिक कहानी से कौन सी जनश्रुति जुड़ी हुई है?",
+        "A_en": "Pabuji Ki Phoolani",
+        "A_hi": "पाबूजी की फूलनी",
+        "B_en": "Padmavat",
+        "B_hi": "पद्मावत",
+        "C_en": "Heer Ranjha",
+        "C_hi": "हीर रांझा",
+        "D_en": "Sassi Pari",
+        "D_hi": "सासी परी",
+        "answer": "A",
+        "explanation_en": "Pabuji Ki Phoolani is a traditional Rajasthani folk tale that narrates the heroic deeds of Pabuji and his lover Phoolani.",
+        "explanation_hi":
