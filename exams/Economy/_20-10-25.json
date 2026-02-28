@@ -1,0 +1,142 @@
+[
+{
+"subject": "Economy",
+"topic": "Government Policies and Programmes",
+"question_en": "Which of the following policies was initiated by the Indian government to boost rural economy?",
+"question_hi": "भारत की गृहमंत्री ने क्या काम किया गया राज्य के व्यावस्था को बोस्तानी जिलों में?",
+"A_en": "Pradhan Mantri Gram Sadak Yojana",
+"A_hi": "प्रधान मंत्री ग्राम सद्याबाग योजना",
+"B_en": "NREGA",
+"B_hi": "नेतृत्वानिक कार्यक्रम",
+"C_en": "National Rural Employment Guarantee Act",
+"C_hi": "राज्य कार्य अनुमान",
+"D_en": "Food Security Bill",
+"D_hi": "भारत के भारतीय भाषा लोक सुर्वातीय स्वास्त बैल",
+"answer": "B",
+"explanation_en": "The National Rural Employment Guarantee Act (NREGA) is a scheme implemented in India to provide minimum assured rural employment to the residents of rural areas. It was introduced in 2005 and aims to provide 100 days of employment to every rural household in a financial year.",
+"explanation_hi": "भारत राज्य कार्य अनुमान (NREGA) भारत के राज्य के शासनीय संकेंट (Rural Self Employment (RSE) Scheme)",
+"explanation_en": "The National Rural Self Employment (RSE) Scheme is a scheme aimed at providing self-employment opportunities to the residents of rural areas of India. It was introduced in 2005.",
+"explanation_hi": "भारत राज्य के राज्य निजी केंट (RSE) कार्य (Rural Self Employment)",
+"answer": "B"
+},
+{
+"subject": "Economy",
+"topic": "Monetary Policy",
+"question_en": "What is the primary objective of a monetary policy?",
+"question_hi": "एक मानक न्यायदारीय कार्य (Monetary Policy) ke liye मुखंती संतुल विभाग (Objective of Monetary Policy)",
+"options": [
+{
+"option_en": "To stabilize the value of currency",
+"option_hi": "मुखंती विभाग (Monetary Policy)",
+"option_value": "D"
+},
+{
+"option_en": "To control inflation",
+"option_hi": "पर्यायी विभाग (Goverment Intervention)",
+"option_value": "C"
+},
+{
+"option_en": "To improve trade and commerce",
+"option_hi": "बैंक और संविमा (Financial Markets)",
+"option_value": "B"
+},
+{
+"option_en": "To regulate credit and money supply",
+"option_hi": "क्रियाचायत और पैंक संबिमा (Credit & Financial Markets)",
+"option_value": "A"
+},
+{
+"option_en": "To promote industrial development",
+"option_hi": "स्पनी बन्यायत (Industrial Development)",
+"option_value": "E"
+},
+],
+"answer": "C"
+},
+{
+"subject": "Economy",
+"topic": "Farm Loan Waiver Scheme",
+"question_en": "What is the name of the scheme introduced by the Indian government to waive off farm loans for farmers?",
+"question_hi": "भारतीय सरकार द्वाददाता योगिक कार्यायत (Farm Loan Waiver Scheme)",
+"options": [
+{
+"option_en": "NREGA",
+"option_hi": "NREGA",
+"option_value": "F",
+},
+{
+"option_en": "MGNREGA",
+"option_hi": "MGNREGA",
+"option_value": "G",
+},
+{
+"option_en": "JALADI SAHAYOG",
+"option_hi": "जलादि सहायत",
+"option_value": "D",
+},
+{
+"option_en": "PMFBY",
+"option_hi": "पीम फॉरमियायत (Prime Minister Farmers' Welfare Insurance)",
+"option_value": "E",
+},
+{
+"option_en": "Farm Loan Waiver Scheme",
+"option_hi": "भार चायत (Farm Loan Waiver)",
+"option_value": "H",
+},
+],
+"answer": "B"
+},
+{
+"subject": "Economy",
+"topic": "Fisheries",
+"question_en": "Which of the following is not a fishery sector?",
+"question_hi": "परियायतकरमा (भारचायत)",
+"options": [
+{
+"option_en": "Agriculture",
+"option_hi": "जलंतायत (जलायत)",
+"option_value": "A",
+},
+{
+"option_en": "Horticulture",
+"option_hi": "जलंतायत (जलायत)",
+"option_value": "E",
+},
+{
+"option_en": "Mining",
+"option_hi": "जलंतायत (जलायता)",
+"option_value": "F",
+},
+{
+"option_en": "Information Technology",
+"option_hi": "जलंतायत (जलायता)",
+"option_value": "D",
+},
+{
+"option_en": "Education",
+"option_hi": "जलंतायतका (जलायता)",
+"option_value": "I",
+},
+{
+"option_en": "Health",
+"option_hi": "जलंतायतायता (जलायता)",
+"option_value": "J",
+}
+],
+"answer": "D"
+},
+{
+"option_en": "Education",
+"option_hi": "जलंतायता (जलायता)",
+"option_value": "K",
+},
+{
+"option_en": "Agriculture",
+"option_hi": "जलंतायता (जलायता)",
+"option_value": "A",
+}
+],
+"answer": "B"
+}
+]
