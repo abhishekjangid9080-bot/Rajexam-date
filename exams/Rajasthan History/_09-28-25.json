@@ -1,0 +1,79 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Cultural and Historical Significance",
+"question_en": "Which emperor established the city of Jaipur?",
+"question_hi": "जयपुर के निवड़ाये आदीनें",
+"A_en": "Amber", "A_hi": "अंबे",
+"B_en": "Samrat Jai Singh", "B_hi": "सम्राट जयसिंग",
+"C_en": "Saint Raja Raja Chauhan", "C_hi": "धर्मिक राजा राजकमिता",
+"D_en": "Rao Jodha", "D_hi": "राव जोध",
+"answer": "B",
+"explanation_en": "Amer Fort was built by Amber, but Jaipur was established by Maharaja Jai Singh II, who later shifted the capital from Amer to Jaipur.",
+"explanation_hi": "अमेर के बनाया गया है, लेकिन जयपुर महाराजा जयसिंग II ने पूर्व से जोड़ी गई अमेर के निवड़ी गई जयपुर मंदिर के बनाया गया है, जो बाजारे से श्रेणी के निवड़ी गई गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी गई जोड़ी",
+"options": [
+{
+"option_en": "A",
+"option_hi": "अम्बे",
+"option_explanation_en": "Amer",
+"option_explanation_hi": "अमेर",
+"option_difficulty": "Easy"
+},
+{
+"option_en": "B",
+"option_hi": "जयपुर",
+"option_explanation_en": "Jaipur",
+"option_explanation_hi": "जयपुर",
+"option_difficulty": "Moderate"
+},
+{
+"option_en": "C",
+"option_hi": "उदयपुर",
+"option_explanation_en": "Udaipur",
+"option_explanation_hi": "उदयपुर",
+"option_difficulty": "Moderate"
+},
+{
+"option_en": "D",
+"option_hi": "बंजन",
+"option_explanation_en": "Bhanwari",
+"option_explanation_hi": "बंजन",
+"option_difficulty": "Easy"
+}
+]
+},
+{
+"subject": "Rajasthan",
+"topic": "Rajasthani Culture",
+"question_en": "Who is considered the father of Rajasthani Literature?",
+"question_hi": "राजस्तान",
+"options": [
+{
+"option_en": "इनामी",
+"option_hi": "इनामी",
+"option_explanation_en": "Inaami",
+"option_explanation_hi": "इनामी",
+"option_difficulty": "Easy"
+},
+{
+"option_en": "रामन्यामी",
+"option_hi": "रामन्यामी",
+"option_explanation_en": "Ramayanami",
+"option_explanation_hi": "रामन्यामी",
+"option_difficulty": "Easy"
+},
+{
+"option_en": "चन्नामी",
+"option_hi": "चन्नामी",
+"option_explanation_en": "Chhandani",
+"option_explanation_hi": "चन्नामी",
+"option_difficulty": "Moderate"
+},
+{
+"option_en": "तामी",
+"option_hi": "तामी",
+"option_explanation_en": "Taimur",
+"option_explanation_hi": "तामी",
+"option_difficulty": "Easy"
+}
+]
