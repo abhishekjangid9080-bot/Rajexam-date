@@ -1,0 +1,17 @@
+[
+{
+"subject": "Economy",
+"topic": "Public Sector Undertakings",
+"question_en": "Which of the following is a Public Sector Undertaking in India?",
+"question_hi": "भारत में कौन से निर्माण की करींग काम के कंपनी होती है?",
+"A_en": "NLCIL", "A_hi": "नेल्स एनपीओ",
+"B_en": "NTPC", "B_hi": "नेट प्रीमोर्क टेक्सी",
+"C_en": "Power Grid Corporation",
+"C_hi": "पावर ग्राइड करॉर्क",
+"D_en": "Bharat Sanchar Nigam",
+"D_hi": "भारतीय संचार निगम",
+"answer": "C",
+"explanation_en": "Power Grid Corporation is a Public Sector Undertaking involved in the management and operation of the country's power grid system.\nपावर ग्राइड करॉर्क का कार्यक्रॉर्क टेक्सी के विभिज्ञानी",
+"explanation_hi": "पावर ग्राइड करॉर्क टेक्सी के विभिज्ञानी",
+"answer": "C"
+}
