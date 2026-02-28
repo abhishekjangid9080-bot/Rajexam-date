@@ -1,0 +1,45 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a former capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी के सहरसिंह के निष्कर्षन नहीं है।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Ajmer", "C_hi": "अजमेर",
+"D_en": "Jaisalmer", "D_hi": "जयसालमेर",
+"answer": "Jaisalmer",
+"explanation_en": "Ajmer was never a capital of Rajasthan.",
+"explanation_hi": "अजमेर राजस्थान के राजधानी नहीं है।",
+"explanation": "Explanation for question 2 will be added later.",
+"explanation_hi": "राजस्थान के राजधानी नहीं है।",
+"question_en": "Which among the following cities were the capital of Rajasthan at some point?",
+"question_hi": "राजस्थान के राजधानी में कौन स्थान मैं उन्नहीं है।",
+"options": [
+{
+"option_text": "Jodhpur",
+"option_code": "J",
+"option_flag": "en"
+},
+{
+"option_text": "Alwar",
+"option_code": "A",
+"option_flag": "hi"
+},
+{
+"option_text": "Jaisalmer",
+"option_code": "JA",
+"option_flag": "en"
+},
+{
+"option_text": "Bikaner",
+"option_code": "B",
+"option_flag": "hi"
+},
+{
+"option_text": "Kota",
+"option_code": "K",
+"option_flag": "hi"
+}
+]
+}
