@@ -1,0 +1,57 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Famous Cities",
+"question_en": "What is the capital of Rajasthan and which other cities are known for their rich history and culture?",
+"question_hi": "राजस्थान की राजधानी और इनके नेत्रवासी महत्वपूर्ण और संस्करण",
+"A_en": "Jaipur, Jodhpur, Udaipur, Alwar",
+"A_hi": "जयपुर, जोधपुर, उदयपुर, अलवार",
+"B_en": "Kota, Bikaner, Chittorgarh, Nagaur",
+"B_hi": "कोटा, बिकानेर, चतुर्गर, नागौर",
+"C_en": "Jaipur, Jodhpur, Udaipur, Alwar",
+"C_hi": "जयपुर, जोधपुर, उदयपुर, अलवार",
+"D_en": "Kota, Bikaner, Chittorgarh, Nagaur",
+"D_hi": "कोटा, बिकानेर, चतुर्गर, नागौर",
+"question_en": "Which among the following cities are famous for their rich history and culture in Rajasthan? Please mention all correct answers.",
+"question_hi": "राजस्थान में पूछे इन निवास और कामीना किस्तान में प्राचल की विश्वभूमी और कामी की पूछे इन निवास और कामी",
+"answers": [
+{
+"option": "Kota, Udaipur",
+"correct": true
+},
+{
+"option": "Jodhpur, Chittorgarh",
+"correct": true
+},
+{
+"option": "Jaisalmer, Ajmer",
+"correct": false
+},
+{
+"option": "Jaisalmer, Bikaner",
+"correct": true
+},
+{
+"option": "Jaisalmer, Chittorgarh",
+"correct": true
+},
+{
+"option": "Jodhpur, Ajmer",
+"correct": false
+},
+{
+"option": "Jaisalmer, Bikaner",
+"correct": true
+},
+{
+"option": "Jaisalmer, Chittorgarh",
+"correct": true
+},
+{
+"option": "Jaisalmer, Ajmer",
+"correct": false
+}
+],
+"question_en": "Which among the following cities are famous for their historical and cultural importance in Rajasthan?",
+"question_hi": "राजस्थान में इन निवास और कामी के विश्वभूमी के लिएका प्रमोट",
+}
