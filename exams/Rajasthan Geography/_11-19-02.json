@@ -1,0 +1,188 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Geography for exams like LDC, CET, RAS, SSC, and Railway. The instructions mention that each question must be in both Hindi and English, following the Testbook style, and in a specific JSON format. 
+
+First, I need to ensure that the subject is Rajasthan Geography and the topic is left empty as per the example. Each question and options need translations in both languages. The answer should be labeled with A, B, C, D. Also, the explanations should be in both languages.
+
+I should start by recalling key facts about Rajasthan's geography. Topics might include rivers, mountains, deserts, important cities, wildlife sanctuaries, and national parks. Let me brainstorm some questions:
+
+1. Capital of Rajasthan – already in the example, but maybe not needed here. Wait, the example is just a structure. The user wants me to create new questions. Let me think of other topics.
+
+2. Thar Desert location in Rajasthan. Which districts are part of it? Bikaner, Jaisalmer, etc.
+
+3. Major rivers in Rajasthan – Chambal, Luni, Mahi. Their tributaries and where they flow.
+
+4. National parks – Ranthambore, Sariska, Keoladeo. Their locations and key facts.
+
+5. Highest mountain peaks in Rajasthan – for example, Guru Shikhar in Abu.
+
+6. Largest city by population – Jaipur, Jodhpur, etc.
+
+7. Wildlife sanctuaries – like the Desert National Park.
+
+8. Districts with the highest population or area.
+
+9. Historical forts – like Chittorgarh Fort.
+
+10. Agriculture-related info – soil types, major crops.
+
+Wait, the user specified the topic as empty. So the subject is Rajasthan Geography, and topics can be varied. Let me make sure each question tests a different aspect. Also, the difficulty level should be appropriate for state exams, so factual but not overly obscure.
+
+Now, I need to create 10 questions. Let me start drafting one by one.
+
+1. Which river is known as the "River of Sorrow" in Rajasthan? (Luni River is known for this due to its seasonal flooding.)
+
+2. Which district is the largest in Rajasthan by area? (Jaisalmer)
+
+3. Where is the Guru Shikhar peak located? (Mount Abu)
+
+4. Which national park is famous for tiger conservation and is located near Sawai Madhopur? (Ranthambore)
+
+5. Which river is the longest in Rajasthan? (Chambal)
+
+6. Which district in Rajasthan has the highest population? (Jaipur)
+
+7. Which desert is part of Rajasthan's geography? (Thar Desert)
+
+8. What is the primary vegetation of the Thar Desert? (Xerophytic plants)
+
+9. Which wildlife sanctuary is known for the Great Indian Bustard? (Khejarla Sanctuary)
+
+10. Which mountain range is located in the northeast of Rajasthan? (Aravalli Range)
+
+Now, I need to translate each question into Hindi. Let's verify the facts for accuracy. For example, the "River of Sorrow" is Luni. Jaisalmer is the largest district by area. Guru Shikhar is in Mount Abu. Ranthambore is near Sawai Madhopur. Chambal is the longest river in Rajasthan. Jaipur has the highest population. The Thar Desert is in Rajasthan. Xerophytic plants are adapted to arid conditions. Khejarla Sanctuary is known for the Great Indian Bustard. Aravalli Range is in the northeast.
+
+I need to structure each question with options in both languages. For example, for the first question:
+
+Question: Which river is known as the "River of Sorrow" in Rajasthan?
+Options: A. Chambal, B. Luni, C. Mahi, D. Narmada.
+
+Then the answer is B. Luni.
+
+Similarly, for each question, create four options with one correct answer. Ensure that the options are plausible but distinct. Also, explanations in both languages.
+
+Let me check for any possible mistakes. For example, is Chambal the longest river in Rajasthan? Yes, it flows through Rajasthan, Madhya Pradesh, and Uttar Pradesh. The Luni is the largest river in Rajasthan, but Chambal is the longest. Wait, perhaps need to confirm: Chambal (Chambal River) is a major river in Rajasthan, formed by the confluence of the Sahibi River and the Chambal River. The length of the Chambal is about 960 km, making it the longest. So the answer for the longest river is Chambal.
+
+Another point: Thar Desert is in the western part of Rajasthan. The primary vegetation is xerophytic, which includes plants like acacia and cacti.
+
+Khejarla Sanctuary is indeed known for the Great Indian Bustard. Ranthambore National Park is famous for tigers. The Aravalli Range is in the northeast, running through Rajasthan.
+
+Now, structuring all 10 questions with correct facts, translating into Hindi, ensuring options are in both languages, and explanations are accurate. Need to avoid any overlap with the example given (Jaipur as capital) and create new unique questions.
+</think>
+
+[
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers",
+"question_en": "Which river is known as the 'River of Sorrow' in Rajasthan due to its seasonal flooding?",
+"question_hi": "राजस्थान में कौन सी नदी अपने मौसमी बाढ़ के कारण 'कलेश की नदी' के रूप में जानी जाती है?",
+"A_en": "Chambal", "A_hi": "चम्बल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Mahi", "C_hi": "मही",
+"D_en": "Narmada", "D_hi": "नर्मदा",
+"answer": "B",
+"explanation_en": "The Luni River is known as the 'River of Sorrow' due to its frequent flooding during the monsoon season.",
+"explanation_hi": "लूनी नदी मानसून ऋतु में अक्सर बाढ़ के कारण 'कलेश की नदी' के रूप में जानी जाती है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Districts",
+"question_en": "Which district is the largest in Rajasthan by geographical area?",
+"question_hi": "राजस्थान में कौन सा जिला भौगोलिक क्षेत्र के आधार पर सबसे बड़ा है?",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+"C_en": "Bikaner", "C_hi": "बीकानेर",
+"D_en": "Udaipur", "D_hi": "उदयपुर",
+"answer": "B",
+"explanation_en": "Jaisalmer is Rajasthan's largest district by area, covering approximately 68,434 square kilometers.",
+"explanation_hi": "जैसलमेर राजस्थान का सबसे बड़ा जिला है, जिसका क्षेत्रफल लगभग 68,434 वर्ग किलोमीटर है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Mountains",
+"question_en": "Where is the highest peak in Rajasthan, Guru Shikhar, located?",
+"question_hi": "राजस्थान में सबसे ऊंची पहाड़ी, गुरु शिखर, कहां स्थित है?",
+"A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+"B_en": "Mount Abu", "B_hi": "माउंट आबू",
+"C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+"D_en": "Bharatpur", "D_hi": "भरतपुर",
+"answer": "B",
+"explanation_en": "Guru Shikhar is the highest peak in Rajasthan, located in the Mount Abu region of the Aravalli Range.",
+"explanation_hi": "गुरु शिखर राजस्थान का सबसे ऊंचा पहाड़ है, जो अरावली पर्वत श्रृंखला के माउंट आबू क्षेत्र में स्थित है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "National Parks",
+"question_en": "Which national park in Rajasthan is famous for tiger conservation and is located near Sawai Madhopur?",
+"question_hi": "राजस्थान में बाघ के संरक्षण के लिए प्रसिद्ध और जो सवाई माधोपुर के निकट स्थित है, कौन सा राष्ट्रीय उद्यान है?",
+"A_en": "Ranthambore National Park", "A_hi": "रणथंबौर राष्ट्रीय उद्यान",
+"B_en": "Sariska National Park", "B_hi": "सरिस्का राष्ट्रीय उद्यान",
+"C_en": "Keoladeo National Park", "C_hi": "केवलदेव राष्ट्रीय उद्यान",
+"D_en": "Desert National Park", "D_hi": "थर राष्ट्रीय उद्यान",
+"answer": "A",
+"explanation_en": "Ranthambore National Park, near Sawai Madhopur, is renowned for tiger conservation and biodiversity.",
+"explanation_hi": "रणथंबौर राष्ट्रीय उद्यान, जो सवाई माधोपुर के निकट है, बाघ के संरक्षण और जैव विविधता के लिए प्रसिद्ध है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers",
+"question_en": "Which river is the longest in Rajasthan?",
+"question_hi": "राजस्थान में कौन सी नदी सबसे लंबी है?",
+"A_en": "Chambal", "A_hi": "चम्बल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Mahi", "C_hi": "मही",
+"D_en": "Sabarmati", "D_hi": "साबरमती",
+"answer": "A",
+"explanation_en": "The Chambal River is the longest river in Rajasthan, flowing for about 960 kilometers.",
+"explanation_hi": "चम्बल नदी राजस्थान की सबसे लंबी नदी है, जो लगभग 960 किलोमीटर तक बहती है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Population",
+"question_en": "Which district in Rajasthan has the highest population?",
+"question_hi": "राजस्थान में कौन सा जिला सुबसे अधिक जनसंख्या वाला है?",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Bharatpur", "C_hi": "भरतपुर",
+"D_en": "Ajmer", "D_hi": "अजमेर",
+"answer": "A",
+"explanation_en": "Jaipur is Rajasthan's most populous district with over 87 lakh residents as of the latest census.",
+"explanation_hi": "जयपुर राजस्थान का सबसे अधिक आबादी वाला जिला है, जिसमें नवीनतम जनगणना के अनुसार 87 लाख से अधिक लोग रहते हैं।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Deserts",
+"question_en": "Which desert is a significant geographical feature of Rajasthan?",
+"question_hi": "राजस्थान का भौगोलिक विशेषता के रूप में कौन सा रेगिस्तान है?",
+"A_en": "Thar Desert", "A_hi": "थर रेगिस्तान",
+"B_en": "Kalahari Desert", "B_hi": "कालहारी रेगिस्तान",
+"C_en": "Sahara Desert", "C_hi": "सहरा रेगिस्तान",
+"D_en": "Gobi Desert", "D_hi": "गोबी रेगिस्तान",
+"answer": "A",
+"explanation_en": "The Thar Desert occupies a significant portion of western Rajasthan, influencing its climate and ecosystem.",
+"explanation_hi": "थर रेगिस्तान पश्चिमी राजस्थान के एक महत्वपूर्ण हिस्से को घेरे हुए है, जिसका राजस्थान के जलवायु और पारिस्थितिक तंत्र पर प्रभाव पड़ता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Flora",
+"question_en": "What is the primary vegetation type found in the Thar Desert of Rajasthan?",
+"question_hi": "राजस्थान के थर रेगिस्तान में मुख्य वनस्पति प्रकार क्या है?",
+"A_en": "Tropical Rainforest", "A_hi": "उष्णकटिबंधीय वर्षा वन",
+"B_en": "Deciduous Forest", "B_hi": "झाड़वां वन",
+"C_en": "Xerophytic Flora", "C_hi": "क्षारीक वनस्पति",
+"D_en": "Mangrove Forest", "D_hi": "मैंग्रोव वन",
+"answer": "C",
+"explanation_en": "Xerophytic plants like acacia and cacti dominate the Thar Desert due to its arid climate.",
+"explanation_hi": "थर रेगिस्तान में अरिद जलवायु के कारण क्षारीक वनस्पति जैसे अखरोटी और कैक्टस पाए जाते हैं।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Wildlife",
+"question_en": "Which wildlife sanctuary in Rajasthan is known for the Great Indian Bustard?",
+"question_hi": "राजस्थान में कौन से प्राकृतिक आवास में बड़ा भारतीय बुस्टर्ड पाया जाता है?",
+"A_en": "Khejarla Sanctuary", "A_hi": "खेजरला संरक्षित क्षेत्र",
+"B_en": "Ranthambore Sanctuary", "B_hi": "रणथंबौर संरक्षित क्षेत्र",
+"C_en": "Sariska Sanctuary", "C_hi": "सरिस्का संरक्षित क्षेत्र",
+"D_en": "Desert Sanctuary", "D_hi": "थर संरक्षित क्षेत्र",
+"answer": "A",
+"explanation_en": "Khejarla Wildlife Sanctuary in Jaisalmer is a critical habitat for the Great Indian Bustard.",
+"explanation_hi": "जैसलमेर में खेजरला प्राकृतिक आ
