@@ -1,0 +1,141 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. The user wants the questions in both Hindi and English, following the Testbook style with JSON format. Let me start by brainstorming the topics within Rajasthan Culture.
+
+First, I should cover traditional dances like Ghoomar and Kalbeliya. Then, folk music and instruments such as the morchang and been. Next, festivals like Gangaur and Teej. Famous forts and palaces like Mehrangarh Fort and Hawa Mahal. Traditional attire, maybe Rajasthani bandhani and Ghoomar sarees. Folk art forms like Pichwai paintings and miniature art. Literature and famous authors like Rajasthani ballads. Historical figures and their contributions. Cuisine like Dal Baati Churma. Also, maybe some famous folk tales or deities like Gogaji.
+
+I need to ensure the difficulty level is appropriate for Rajasthan state exams. Let me check each question for clarity and accuracy. For example, the first question on Ghoomar dance. The options should include correct and plausible incorrect answers. The explanation must clearly state why the correct answer is right. I should verify facts, like which district is known for Ghoomar. Also, for the Kalbeliya dance, the associated community is important. For festivals, Gangaur is celebrated in which city? Jaipur or Udaipur? I think Jaipur since it's a major event there. 
+
+For Hawa Mahal, the number of windows is a common question. The correct answer is 996. The Pichwai art is associated with Nathdwara, which is correct. The Rajasthani folk song "Manganiyar" is related to the Manganiyar community. The "Chandrawal" folk art is from Kota. For the dance performed during Teej, Ghoomar is the answer. The folk deity Gogaji is associated with which community? The correct answer is the Meos. The Rajasthani thali typically includes Dal Baati Churma. The Rajasthani folk tale "Pabuji Ki Phoolani" is about a king and queen. 
+
+Each question must have four options with one correct answer. The explanations should be concise and accurate. I need to ensure that the Hindi and English versions of questions and options are correctly translated. Let me cross-verify each fact with reliable sources to avoid errors. For example, confirming that the Manganiyar community is indeed associated with the Manganiyar folk songs. Also, making sure that the Pichwai paintings are from Nathdwara. Once all questions are framed, I'll structure them in the required JSON format without any markdown, just raw JSON.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Dances",
+    "question_en": "Which traditional dance form is known as the 'dance of the women' in Rajasthan?",
+    "question_hi": "राजस्थान में महिलाओं के नृत्य के रूप में किस पारंपरिक नृत्य के रूप में जाना जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Chari", "C_hi": "चारी",
+    "D_en": "Kathak", "D_hi": "कथक",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional dance form of Rajasthan performed by women, known for its graceful swirling movements.",
+    "explanation_hi": "घूमर राजस्थान का पारंपरिक नृत्य है जो महिलाओं द्वारा प्रस्तुत किया जाता है और इसके झूलने वाले आंदोलनों के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which traditional instrument is primarily used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गायकी में मुख्य रूप से कौन सा पारंपरिक वाद्य उपकरण उपयोग में लिया जाता है?",
+    "A_en": "Ghara", "A_hi": "घड़ा",
+    "B_en": "Morchang", "B_hi": "मोरचंग",
+    "C_en": "Harmonium", "C_hi": "हार्मोनियम",
+    "D_en": "Sitar", "D_hi": "सितार",
+    "answer": "B",
+    "explanation_en": "Morchang is a traditional Rajasthani musical instrument with two drums, used in folk music for rhythmic beats.",
+    "explanation_hi": "मोरचंग एक पारंपरिक राजस्थानी वाद्य यंत्र है जिसमें दो ड्रम होते हैं और इसका उपयोग लोक गायकी में ताल के लिए किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival in Rajasthan is dedicated to the worship of Shiva?",
+    "question_hi": "राजस्थान में शिव के पूजा के लिए कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Gangaur", "A_hi": "गंगाउर",
+    "B_en": "Mewar Festival", "B_hi": "मेवाड़ त्योहार",
+    "C_en": "Teej", "C_hi": "तीज",
+    "D_en": "Shiv Ratri", "D_hi": "शिव रात्रि",
+    "answer": "D",
+    "explanation_en": "Shiv Ratri is a festival dedicated to Lord Shiva, celebrated with fasting and night-long vigils in Rajasthan.",
+    "explanation_hi": "शिव रात्रि शिव भगवान के पूजा के लिए मनाया जाने वाला एक त्योहार है, जिसमें उपवास और रात भर में जागर के साथ इसका आयोजन किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Art",
+    "question_en": "Which Rajasthani art form is associated with the depiction of gods and goddesses?",
+    "question_hi": "राजस्थानी कला में भगवान और देवियों के चित्रण से कौन सा कला रूप संबंधित है?",
+    "A_en": "Pichwai", "A_hi": "पिछवा",
+    "B_en": "Miniature", "B_hi": "मिनीएचर",
+    "C_en": "Manjusha", "C_hi": "मंजूषा",
+    "D_en": "Kathputli", "D_hi": "कथपुतली",
+    "answer": "A",
+    "explanation_en": "Pichwai is a Rajasthani art form depicting deities like Krishna and Devi, often used as religious wall hangings.",
+    "explanation_hi": "पिछवा एक राजस्थानी कला रूप है जिसमें कृष्ण और देवी जैसे भगवान के चित्रण किए जाते हैं और इसका उपयोग धार्मिक दीवार लटकाने के रूप में किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Dance Forms",
+    "question_en": "Which Rajasthani dance is performed to appease the snake god?",
+    "question_hi": "कौन सा राजस्थानी नृत्य सर्प देवता को प्रसन्न करने के लिए किया जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Chhatri", "B_hi": "छत्री",
+    "C_en": "Taal", "C_hi": "ताल",
+    "D_en": "Karma", "D_hi": "कर्मा",
+    "answer": "A",
+    "explanation_en": "Kalbeliya dance is performed in Rajasthan to appease the snake god, often during the monsoon season.",
+    "explanation_hi": "कलबेलिया नृत्य राजस्थान में सर्प देवता को प्रसन्न करने के लिए किया जाता है, जो अक्सर वर्षा ऋतु में मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Songs",
+    "question_en": "Which community in Rajasthan is known for the 'Manganiyar' folk songs?",
+    "question_hi": "राजस्थान में कौन सी समुदाय 'मंगनियार' लोक गीतों के लिए प्रसिद्ध है?",
+    "A_en": "Bhils", "A_hi": "भील",
+    "B_en": "Manganiyars", "B_hi": "मंगनियार",
+    "C_en": "Meenas", "C_hi": "मीना",
+    "D_en": "Kumhars", "D_hi": "कुम्हार",
+    "answer": "B",
+    "explanation_en": "The Manganiyars are a Rajasthani community known for their traditional folk songs and musical performances.",
+    "explanation_hi": "मंगनियार राजस्थान की वह समुदाय है जो अपने पारंपरिक लोक गीतों और संगीतक कार्यक्रमों के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival in Rajasthan is celebrated to honor the harvest season?",
+    "question_hi": "राजस्थान में कौन सा त्योहार फसल की आय जुटाने को सम्मानित करने के लिए मनाया जाता है?",
+    "A_en": "Holi", "A_hi": "होली",
+    "B_en": "Diwali", "B_hi": "दिवाली",
+    "C_en": "Gangaur", "C_hi": "गंगाउर",
+    "D_en": "Teej", "D_hi": "तीज",
+    "answer": "C",
+    "explanation_en": "Gangaur is a Rajasthani festival celebrated by women to honor the goddess Gauri, associated with the harvest season.",
+    "explanation_hi": "गंगाउर एक राजस्थानी त्योहार है जिसमें महिलाएं देवी गौरी का पूजन करती हैं जो फसल के सीजन से जुड़ा हुआ है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Art",
+    "question_en": "Which Rajasthani folk art is associated with the depiction of a lotus and is used in religious contexts?",
+    "question_hi": "राजस्थानी लोक कला में किस कला के चित्रण में कमल का चित्रण होता है और धार्मिक संदर्भ में इसका उपयोग किया जाता है?",
+    "A_en": "Mandala", "A_hi": "मंडला",
+    "B_en": "Chandrawal", "B_hi": "चंद्रवाल",
+    "C_en": "Dhokra", "C_hi": "ढोकरा",
+    "D_en": "Ajrakh", "D_hi": "अजरख",
+    "answer": "A",
+    "explanation_en": "Mandala is a Rajasthani folk art form depicting a lotus and used in religious rituals and ceremonies.",
+    "explanation_hi": "मंडला राजस्थानी लोक कला का एक रूप है जिसमें कमल का चित्रण किया जाता है और धार्मिक अनुष्ठानों में इसका उपयोग किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Instruments",
+    "question_en": "Which traditional Rajasthani instrument is made of wood and produces a deep sound?",
+    "question_hi": "राजस्थान का कौन सा पारंपरिक वाद्य यंत्र लकड़ी से बना होता है और गहरी ध्वनि उत्पन्न करता है?",
+    "A_en": "Been", "A_hi": "बीन",
+    "B_en": "Dholak", "B_hi": "ढोलक",
+    "C_en": "Shehnai", "C_hi": "शहनाई",
+    "D_en": "Flute", "D_hi": "बोली",
+    "answer": "A",
+    "explanation_en": "The Been is a traditional Rajasthani instrument made of wood, known for its deep and resonant sound.",
+    "explanation_hi": "बीन एक पारंपरिक राजस्थानी वाद्य यंत्र है जो लकड़ी से बना होता है और इसकी गहरी ध्वनि के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Deities",
+    "question_en": "Which Rajasthani folk deity is associated with the protection of livestock?",
+    "question_hi": "राजस्थान का कौन सा लोक देवता पशुओं के संरक्षण से संबंधित है?",
+    "A_en": "Gogaji", "A_hi": "गोगाजी",
+    "B_en": "Ramdevji", "B_hi": "रामदेवजी",
+    "C_en": "Bhima", "C_hi": "भीमा",
+    "D_en": "Porbandarji", "D_hi": "पोरबंदरजी",
+    "answer": "A",
+    "explanation_en": "G
