@@ -1,0 +1,14 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What does the term 'National Income' represent?",
+"question_hi": "राष्ट्रीय आय क्या स्वतंत्र आय के विभाग है।",
+"A_en": "GDP (Gross Domestic Product)", "A_hi": "ग्रोस दायरे देश के प्रतिकूल आय का एक विभाग है।",
+"B_en": "GNI (Gross National Income)", "B_hi": "ग्रोस सर्वोत्र खतरा आय",
+"C_en": "GNP (Gross National Product)", "C_hi": "ग्रोस सर्वोत्र क्षेत्रीय आय",
+"D_en": "National Accounts Statistics", "D_hi": "राष्ट्रीय खत्रा संकेतों",
+"answer": "B",
+"explanation_en": "National Income refers to the total value of goods and services produced within a country during a specific time period, while Gross Domestic Product (GDP) is the total value of goods and services produced within a country, excluding services from the rest of the world. GDP represents the overall economic activity of a country, including both public and private sectors.",
+"explanation_hi": "राष्ट्रीय आय को एक शीर्षितनार के प्रतिक्रुत्रा संकेतों",
+]
