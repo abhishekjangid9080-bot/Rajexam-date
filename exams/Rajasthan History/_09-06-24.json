@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Man Singh I?",
+"question_hi": "राजा मन सिंह I ने किस प्राचीन पुल बनाया?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका पुल",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुंभालगढ़ पुल",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाजार",
+"D_en": "Jaigarh Fort", "D_hi": "जयगर्ध पुल",
+"answer": "B",
+"explanation_en": "Raja Man Singh I, a General of Mughal Emperor Akbar, built the Kumbhalgarh Fort.\nराजा मन सिंह I, मुगल मंत्री अकबर के ने कुंभालगढ़ पुल बनाया है।",
+"explanation_hi": "राजा मन सिंह I, मुगल मंत्री अकबर के ने कुंभालगढ़ पुल बनाया है।",
+}
+]
