@@ -1,0 +1,53 @@
+[
+{
+"subject": "Economy",
+"topic": "Government and Public Administration",
+"question_en": "Which of the following is not a part of the Indian Constitution?",
+"question_hi": "इनमें से कौन इंडीज़न प्रदेश के किसमें नहीं होते हैं?",
+"A_en": "Agrarian Relations and Land Reforms Act",
+"A_hi": "आग्रही संबंध और कांज़ियाँ और कानून",
+"B_en": "Finance Commission",
+"B_hi": "मना काम",
+"C_en": "Judicial Services",
+"C_hi": "पत्रिक सेवाओं",
+"D_en": "Free Trade Agreements",
+"D_hi": "ब्याज संबंध समझ",
+"answer": "C",
+"explanation_en": "Judicial Services is not a part of the Indian Constitution. It is a separate service examination conducted by the Union Public Service Commission.",
+"explanation_hi": "पत्रिक सेवाओं नहीं इंडीज़न कांसर मंत्रण योजना है। यह एक विशेष सर्वेंट पुलिस काम को विभागी बना है।",
+"question_en": "Which of the following is not a part of the Indian Constitution?",
+"question_hi": "इन परम्पना को इंडीज़न कांसर मंत्रण योजना है।",
+"question_en": "Which of the following is not a part of the Indian Constitution?",
+"question_hi": "इन इंडीज़न कांसर मंत्रण योजना है।",
+"options": [
+{
+"option_en": "Judicial Services",
+"option_hi": "प्राधानशास्त्री सेवाओं",
+"option_en_explanation": "Judicial Services is a branch of government that deals with the administration of justice and is a part of the Indian Constitution.",
+"option_hi_explanation": "प्राधानशास्त्री सेवाओं एक सरकारीय बंदरखा या फैसलाइज़ के आचार को विचार करते हैं।",
+"answer": "B",
+"explanation_en": "Judicial Services is a branch of government that deals with the administration of justice and is a part of the Indian Constitution.",
+"explanation_hi": "प्राधानशास्त्री सेवाओं को विचार करते हैं।",
+"options": [
+{
+"option_en": "Judicial Services",
+"option_hi": "प्राधानशास्त्री सेवाओं",
+"option_en_explanation": "Judicial Services is a branch of government that deals with the administration of justice and is a part of the Indian Constitution.",
+"option_hi_explanation": "प्राधानशास्त्री सेवाओं को विचार करते हैं।",
+"answer": "A"
+},
+{
+"option_en": "Judicial Services",
+"option_hi": "प्राधानशास्त्री सेवाओं",
+"option_en_explanation": "Judicial Services is a branch of government that deals with the administration of justice and is a part of the Indian Constitution.",
+"option_hi_explanation": "प्राधानशास्त्री सेवाओं को विचार करते हैं।",
+"answer": "B"
+},
+{
+"option_en": "Judicial Services",
+"option_hi": "प्राधानशास्त्री सेवाओं",
+"option_en_explanation": "Judicial Services is a branch of government that deals with the administration of justice and is a part of the Indian Constitution.",
+"option_hi_explanation": "प्राधानशास्त्री सेवाओं को विचार करते ही",
+"answer": "A"
+}
+]
