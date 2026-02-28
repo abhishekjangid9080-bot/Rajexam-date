@@ -1,0 +1,148 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on Rajasthan Geography for exams like LDC, CET, RAS, SSC, and Railway. Each question needs to be in Hindi and English with explanations. The JSON structure is specific, so I need to follow it strictly.
+
+First, I need to choose topics within Rajasthan Geography. Let's brainstorm some key areas: rivers, mountains, wildlife sanctuaries, districts, important lakes, mineral resources, historical sites, agriculture, climate, and famous places.
+
+For each question, I should ensure the difficulty level is appropriate for Rajasthan state exams. Let me start with the first question. Maybe the longest river in Rajasthan. The options would be Chambal, Luni, Mahi, and Sabarmati. The correct answer is Chambal.
+
+Next, the highest peak in Rajasthan. That's Kumbhalgarh. Options could include Aravalli peaks. Then, a wildlife sanctuary question. Ranthambore comes to mind for tigers. For districts, Jalore is the southernmost. 
+
+The Thar Desert occupies a large area, so a question on that. Largest freshwater lake in Rajasthan is Pichola. Later, a mineral resource question—Zink deposits in Zawar mines. Then, historical sites like Chittorgarh Fort. Agricultural focus on pulses, which Rajasthan is known for. Lastly, climate-related, like the driest region in Marwar.
+
+I need to translate each question into Hindi accurately. Make sure the options are correctly labeled. Also, check explanations in both languages. Let me verify each fact to avoid errors. For example, confirming Chambal is indeed the longest river in Rajasthan. Yes, it flows through Madhya Pradesh and Rajasthan. Kumbhalgarh is part of the Aravallis and is the highest peak. Ranthambore is a well-known tiger reserve. Jalore is the southernmost district. Thar Desert is in the western part. Pichola Lake in Udaipur is the largest freshwater. Zawar mines for zinc and lead. Chittorgarh Fort's historical significance. Rajasthan's leading production in pulses. Marwar being the driest region. 
+
+Need to structure each JSON object correctly, ensuring all fields are present and in order. No markdown, just raw JSON. Double-checking the answer choices to avoid mixing up letters. Also, explanations should be concise but clear. Once done, review each question for clarity and correctness. Make sure the Hindi translations are accurate. Avoid any extra text outside the JSON array. That should cover all 10 questions as per the user's request.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers and Drainage",
+    "question_en": "Which river is the longest in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Luni", "B_hi": "लूनी",
+    "C_en": "Mahi", "C_hi": "माही",
+    "D_en": "Sabarmati", "D_hi": "साबरमती",
+    "answer": "A",
+    "explanation_en": "Chambal is the longest river in Rajasthan, flowing through the state for approximately 960 km.",
+    "explanation_hi": "चंबल राजस्थान की सबसे लंबी नदी है, जो राज्य में लगभग 960 किमी तक बहती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Mountains and Landforms",
+    "question_en": "Which mountain peak is the highest in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे ऊँची पहाड़ी शिखर कौन सा है?",
+    "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+    "B_en": "Kumbhalgarh", "B_hi": "कुंभलगढ़",
+    "C_en": "Aravalli Range", "C_hi": "अरावली पहाड़ियाँ",
+    "D_en": "Rajpipla", "D_hi": "राजपिपला",
+    "answer": "B",
+    "explanation_en": "Kumbhalgarh (1847 meters) is the highest peak in Rajasthan, part of the Aravalli mountain range.",
+    "explanation_hi": "कुंभलगढ़ (1847 मीटर) राजस्थान की सबसे ऊँची पहाड़ी शिखर है, जो अरावली पहाड़ियों का हिस्सा है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Wildlife and Conservation",
+    "question_en": "Which wildlife sanctuary is famous for tiger conservation in Rajasthan?",
+    "question_hi": "राजस्थान में बाघ अभयारण्य संरक्षण के लिए कौन सा जीवन अभयारण्य प्रसिद्ध है?",
+    "A_en": "Ranthambore", "A_hi": "रणथंबोर",
+    "B_en": "Sariska", "B_hi": "सारिस्का",
+    "C_en": "Keoladeo National Park", "C_hi": "केवलदेव राष्ट्रीय उद्यान",
+    "D_en": "Gir Forest", "D_hi": "गिर वन",
+    "answer": "A",
+    "explanation_en": "Ranthambore National Park is renowned for its tiger conservation efforts.",
+    "explanation_hi": "रणथंबोर राष्ट्रीय उद्यान अपने बाघ संरक्षण प्रयासों के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Districts and Borders",
+    "question_en": "Which district is the southernmost in Rajasthan?",
+    "question_hi": "राजस्थान में दक्षिणीतम जिला कौन सा है?",
+    "A_en": "Barmer", "A_hi": "बाड़मेर",
+    "B_en": "Jalore", "B_hi": "जालोर",
+    "C_en": "Chittorgarh", "C_hi": "चित्तौड़गढ़",
+    "D_en": "Sirohi", "D_hi": "सिरोही",
+    "answer": "B",
+    "explanation_en": "Jalore is the southernmost district of Rajasthan.",
+    "explanation_hi": "जालोर राजस्थान का दक्षिणीतम जिला है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Deserts and Climate",
+    "question_en": "Which desert occupies the western part of Rajasthan?",
+    "question_hi": "राजस्थान के पश्चिमी भाग को कौन सा मरुस्थल घेरे में रखता है?",
+    "A_en": "Thar Desert", "A_hi": "थार मरुस्थल",
+    "B_en": "Kutch Desert", "B_hi": "कच्छ मरुस्थल",
+    "C_en": "Rajasthan Desert", "C_hi": "राजस्थान मरुस्थल",
+    "D_en": "Gobi Desert", "D_hi": "गोबी मरुस्थल",
+    "answer": "A",
+    "explanation_en": "The Thar Desert (Great Indian Desert) is the western part of Rajasthan.",
+    "explanation_hi": "थार मरुस्थल (महान भारतीय मरुस्थल) राजस्थान के पश्चिमी भाग को घेरे में रखता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Lakes and Water Bodies",
+    "question_en": "Which is the largest freshwater lake in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे बड़ा ताजे पानी का झील कौन सा है?",
+    "A_en": "Pichola Lake", "A_hi": "पीचोला झील",
+    "B_en": "Dhebar Lake", "B_hi": "धेबर झील",
+    "C_en": "Jaisamand Lake", "C_hi": "जैसमंद झील",
+    "D_en": "Sambhar Lake", "D_hi": "सांभर झील",
+    "answer": "A",
+    "explanation_en": "Pichola Lake in Udaipur is the largest freshwater lake in Rajasthan.",
+    "explanation_hi": "उदयपुर की पीचोला झील राजस्थान की सबसे बड़ी ताजे पानी की झील है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Mineral Resources",
+    "question_en": "Which mine is famous for zinc and lead ores in Rajasthan?",
+    "question_hi": "राजस्थान में जिंक और लेड के अयस्क के लिए कौन से खदान प्रसिद्ध हैं?",
+    "A_en": "Zawar Mines", "A_hi": "जावर खदान",
+    "B_en": "Khooniyan Mines", "B_hi": "खूनियान खदान",
+    "C_en": "Chandraprabha Mines", "C_hi": "चंद्रप्रभा खदान",
+    "D_en": "Bhuj Mines", "D_hi": "भूज खदान",
+    "answer": "A",
+    "explanation_en": "Zawar Mines in Zawar, Udaipur, are famous for zinc and lead ores.",
+    "explanation_hi": "उदयपुर में जावर की खदान जिंक और लेड के अयस्क के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Historical and Cultural Sites",
+    "question_en": "Which fort is known as the largest fort in India?",
+    "question_hi": "भारत के सबसे बड़े प्राकृतिक दुर्ग के रूप में कौन सा महल प्रसिद्ध है?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+    "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+    "D_en": "Gagron Fort", "D_hi": "गागरोन किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is recognized as the largest fort in India in terms of area.",
+    "explanation_hi": "चित्तौड़गढ़ किला क्षेत्रफल के मामले में भारत का सबसे बड़ा किला माना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Agriculture and Economy",
+    "question_en": "Which crop is Rajasthan's largest contributor to total food grain production?",
+    "question_hi": "राजस्थान की कुल खाद्य फसल उत्पादन में सबसे बड़ा योगदानकर्ता कौन सी फसल है?",
+    "A_en": "Wheat", "A_hi": "गेहूं",
+    "B_en": "Millet", "B_hi": "ज्वार",
+    "C_en": "Maize", "C_hi": "मक्का",
+    "D_en": "Pulses", "D_hi": "दालें",
+    "answer": "D",
+    "explanation_en": "Pulses account for the largest share in Rajasthan's total food grain production.",
+    "explanation_hi": "दालें राजस्थान के कुल खाद्य फसल उत्पादन में सबसे बड़ा हिस्सा हैं।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Climate and Weather",
+    "question_en": "Which region in Rajasthan is the driest?",
+    "question_hi": "राजस्थान में सबसे सूखा क्षेत्र कौन सा है?",
+    "A_en": "Marwar", "A_hi": "मारवाड़",
+    "B_en": "Saharanpur", "B_hi": "सहारनपुर",
+    "C_en": "Hadoti", "C_hi": "हड़तली",
+    "D_en": "Shekhawati", "D_hi": "शेखावाटी",
+    "answer": "A",
+    "explanation_en": "Marwar (northwest Rajasthan) receives the least rainfall, making it the driest region.",
+    "explanation_hi": "मारवाड़ (उत्तर-पश्चिम राजस्थान) में न्यूनतम वर्षा होती है, जिससे यह सबसे सूखा क्षेत्र है।"
+  }
+]
