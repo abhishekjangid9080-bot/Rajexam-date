@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income Accounting",
+"question_en": "Which of the following is included in the calculation of Gross National Product (GNP) at market prices?",
+"question_hi": "निम्नलिखित में से कौन-सा बाजार मूल्य पर सकल राष्ट्रीय उत्पाद (GNP) की गणना में शामिल है?",
+"A_en": "Value of goods produced by foreign nationals within India", "A_hi": "भारत के भीतर विदेशी नागरिकों द्वारा उत्पादित वस्तुओं का मूल्य",
+"B_en": "Value of services produced by Indian embassies abroad", "B_hi": "विदेशों में भारतीय दूतावासों द्वारा उत्पादित सेवाओं का मूल्य",
+"C_en": "Value of remittances from Indians working abroad", "B_hi": "विदेशों में कार्यरत भारतीयों से आने वाले प्रेषणों का मूल्य",
+"D_en": "Value of depreciation of capital stock", "D_hi": "पूंजीगत स्टॉक की मूल्यह्रास की मात्रा",
+"answer": "B",
+"explanation_en": "GNP includes the value of goods and services produced by the residents of a country, including services rendered by Indian embassies abroad.",
+"explanation_hi": "GNP में उस देश के निवासियों द्वारा उत्पादित वस्तुओं और सेवाओं का मूल्य शामिल होता है, जिसमें विदेशों में भारतीय दूतावासों द्वारा दी गई सेवाएँ भी होती हैं।"
+},
+{
+"subject": "Economy",
+"topic": "Inflation",
+"question_en": "If the Consumer Price Index (CPI) increases from 150 to 165 in a year, what is the rate of inflation?",
+"question_hi": "यदि उपभोक्ता मूल्य सूचकांक (CPI) एक वर्ष में 150 से ब
