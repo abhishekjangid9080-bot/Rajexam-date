@@ -1,0 +1,34 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is considered as the first capital of Rajasthan?",
+"question_hi": "राजस्थान के पहले राजधानी किस घंटे का वर्तमान है।",
+"A_en": "Amber Fort", "A_hi": "एमबर फोट",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Pushkar", "D_hi": "पुष्कर",
+"answer": "C",
+"explanation_en": "Amber Fort is not considered as the first capital of Rajasthan. The first capital of Rajasthan was Udaipur, also known as Fatehpur. However, Jaipur (known as Pink City) became the capital in 1727 AD.",
+"explanation_hi": "एमबर फोट राजस्थान के पहले राजधानी नहीं, लेकिन Udaipur (उदयपुर), भूमियाँ की अनुमानी थीं। लेकिन Jaipur (जापुर, सफेदना), ने 1727 से पूर्वर्थ निविदं।",
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the significance of Chittorgarh Fort in the history of Rajasthan?",
+"question_hi": "चीटोरगर फोट राजस्थल के विश्वभवन को क्या करने वाला है ?",
+"A_en": "Chittorgarh Fort played a significant role in the history of Rajasthan as it was the stronghold of the Mewar Kingdom during the medieval period.",
+"A_hi": "चीटोरगर फोट राजस्थल मध्यमवराजों के कानून को राजस्थल में रचना करने वाला है ?",
+"B_en": "Chittorgarh Fort was built by Rana Kumbha of the Meera Kingdom in the 13th century.",
+"B_hi": "चीटोरगर फोट के बनवाला है ?",
+"C_en": "Chittorgarh Fort was founded by Rana Kumbha of the Mewar Kingdom in the 13th century.",
+"C_hi": "चीटोरगर फोट की संतुलिंग के बनवाला है ?",
+"D_en": "Chittorgarh Fort was built by Rana Kumbha of the Mewar Kingdom in the 13th century.",
+"D_hi": "चीटोरगर फोट के दाने के बनवाला है ?",
+"E_en": "Chittorgarh Fort was constructed by Rana Kumbha of the Mewar Kingdom during the 13th century.",
+"E_hi": "चीटोरगर फोट के बनवाला है ?",
+"F_en": "Chittorgarh Fort was established by Rana Kumbha of the Mewar Kingdom in the 13th century.",
+"F_hi": "चीटोरोगर फोट के बनवाला है ?",
+"G_en": "Chittorgarh Fort was constructed by Rana Kumbha in the 13th century.",
+"G_hi": "चीटोरोगर फोट के बनवाला है ?"
+}
+]
