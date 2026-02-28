@@ -1,0 +1,58 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Significance",
+"question_en": "What is the significance of Jaipur, the capital of Rajasthan, in the history of the state?",
+"question_hi": "राजस्थान की राजधानी है। Jaipur के राजस्थान के विविधित है।",
+"A_en": "Jaipur is the oldest city of Rajasthan.",
+"A_hi": "जयपुर राजस्थान की अंगूठी है।",
+"B_en": "Jaipur was the first capital of Rajasthan.",
+"B_hi": "जयपुर राजस्थान के पहले काम है।",
+"C_en": "Jaipur is the seat of Rajasthan's Legislative Assembly.",
+"C_hi": "जयपुर राजस्थान के सांस्कोलाइजीत है।",
+"D_en": "Jaipur played a significant role in the Battle of Haldighati.",
+"D_hi": "जयपुर जलका हल्डिगटी के मनों की मोहनती है।",
+"answer": "B",
+"explanation_en": "Jaipur was the first capital city of the Marwar region before it became a part of the Indian Union.",
+"explanation_hi": "जयपुर मरवाई के कलाने के पहले काम है।",
+"explanation_en": "Jaipur's strategic location made it an important city in the history of Rajasthan.",
+"explanation_hi": "जयपुर का स्ट्रिकटियान करने के पहले काम है।",
+},
+{
+"subject": "Rajasthan's Culture",
+"topic": "Rajasthani Folk Music",
+"question_en": "Which famous Rajasthani folk singer is known for singing the 'Ghoomar' dance song? (राजस्तानी मुल्लाई के मोहाने के पहले काम है।",
+"question_hi": "राजस्तानी के प्रदेश के मोहाने के पहले काम है।",
+"options": [
+{
+"option_en": "Mohan Lal",
+"option_hi": "प्रदेश",
+"option_expl": "Mohan Lal is a well-known actor, not a singer.",
+"option_marks": 4
+},
+{
+"option_en": "Kamal Ji",
+"option_hi": "कामाल",
+"option_expl_hi": "कामाल जी एक उपद्रवणी है, नहिंचार्जी के मोहाने के पहले काम है।",
+"option_expl_hi": "केंचार्जी के प्रद्रवणी है।",
+"option_marks": 5
+},
+{
+"option_en": "Karni Singh",
+"option_hi": "कारणी सिंग",
+"option_expl_hi": "कारणी सिंग के मोहाने के पहले काम है।",
+"option_marks": 6
+},
+{
+"option_en": "Chandrika Devi",
+"option_hi": "चंद्रिका दी",
+"option_expl_hi": "चंद्रिका दी के मोहाने के पहले काम है।",
+"option_marks": 7
+},
+{
+"option_en": "Bhola Ram",
+"option_hi": "भोला राम",
+"option_expl_hi": "भोला राम के मोहाने के मक़ ।",
+"option_marks": 8
+}
+]
