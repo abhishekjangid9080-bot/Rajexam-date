@@ -1,0 +1,27 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Agra", "D_hi": "अग्र",
+"answer": "C",
+"explanation_en": "Jaipur is the capital of Rajasthan.\nThe term 'Rajasthan' originates from Rajput kingdoms, which were the predominant forces in the region long before the establishment of the modern state.",
+"explanation_hi": "जयपुर राजस्थान की राजधानी है।\nराजस्थान की शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लाम का मूल रंगीन सी को शीर्षिक कर्मचारी गैरो। राजस्थान को इस्लामको। राजस्थान को इस्लामको। राजस्थान को इस्लामको।",
+This question has two options in Hindi language. Kindly provide separate JSON for English and Hindi languages.",
+"A_hi": "राजस्थान को इस्लामको। राजस्थान को इस्लामको।",
+"A_en": "The capital of Rajasthan is Agra.",
+"B_hi": "राजस्थान को इस्लामको। राजस्थान को इस्लामको।",
+"B_en": "Agra",
+"C_hi": "राजस्थान को इस्लामको। राजस्थान को इस्लामको।",
+"C_en": "The capital of Rajasthan is Jaipur.",
+"D_hi": "राजस्थान को इस्लामको। राजस्थान को इस्लामको।",
+"D_en": "Jaipur",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्लामको। को इस्लामको।",
+"answer": "Jaipur"
+}
+]
