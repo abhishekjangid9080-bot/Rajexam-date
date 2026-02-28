@@ -1,0 +1,151 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the Rajasthan Culture subject. Let me start by thinking about different aspects of Rajasthan's culture. First, traditional dances come to mind. Kathakali is actually from Kerala, so I should avoid that. Maybe Garba? Wait, Garba is from Gujarat. Oh right, Rajasthan has folk dances like Ghoomar. That's a good one. Let me use that in a question.
+
+Next, festivals. Rajasthan has many, like Teej, Gangaur, and Mewar Festival. Maybe a question about which festival is associated with a specific region. For example, Gangaur is related to Jaipur. That could work.
+
+Music is another area. Rajasthan has folk music like Ballads and Bhajans. Maybe a question about which musical instrument is traditional. The Ghoomar dance is often accompanied by specific instruments. Let me check – they use instruments like Dholak and Flute. So a question about that.
+
+Cuisine is another topic. Famous dishes like Dal Baati Churma, Gatte ki Sabzi, Ker Sangri. Maybe a question asking which dish is a signature of Rajasthan.
+
+Art and crafts. Miniature paintings, blue pottery, Rajasthani folk art. A question about which type of art is popular in Rajasthan.
+
+Festivals and their significance. Teej is a monsoon festival celebrating the arrival of the rains. Let me verify that. Yes, Teej is celebrated in July-August, so a question about the significance of Teej.
+
+Cultural heritage sites. Chittorgarh Fort, Mehrangarh Fort, Hawa Mahal. Maybe a question about which fort is associated with a historical figure or event.
+
+Traditional attire. Men wear Angarkha or Gagra, women wear Ghagra-Choli with Odhni. A question about the traditional dress of Rajasthani women.
+
+Famous folk tales or characters. Pabuji Ki Phad, Ramlila, or the story of Pabuji. A question about which folk story is depicted in Phad paintings.
+
+Cultural symbols. The Marwar region's association with the Bikaner district. A question about the origin of Marwari culture.
+
+Wait, I need to ensure each question is in both Hindi and English. Also, the difficulty level should be appropriate for Rajasthan state exams. Let me check each topic for accuracy. For example, Ghoomar dance is from Rajasthan, definitely. Gangaur is indeed a major festival in Jaipur. The Dholak is a traditional instrument. Dal Baati is the most famous dish. Chittorgarh Fort is a UNESCO site. Odhni is the traditional veil. Phad paintings are from Kishangarh. Marwari culture is associated with Bikaner. 
+
+Now, structuring each question with options. Make sure the correct answer is clear but the options are challenging. Explanations should be concise and accurate. Let me start drafting each question with these elements. Check the JSON format example provided to ensure the structure is correct. No markdown, just raw JSON. Each question object must have all required fields. Let me count the questions to make sure there are 10. Alright, I think that's covered. Now time to write the JSON.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Dance",
+    "question_en": "Which of the following is a traditional folk dance of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान का पारंपरिक लोक नृत्य है?",
+    "A_en": "Garba", "A_hi": "गरबा",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Bhangra", "C_hi": "भंगड़ा",
+    "D_en": "Bharatanatyam", "D_hi": "भरतनाट्यम",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional folk dance from Rajasthan, performed by women in circular formations.",
+    "explanation_hi": "घूमर राजस्थान का पारंपरिक लोक नृत्य है, जिसमें महिलाएं गोल आकार में नृत्य करती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Festivals",
+    "question_en": "Which festival is celebrated in Rajasthan to mark the onset of the monsoon season?",
+    "question_hi": "राजस्थान में मानसून ऋतु के आगमन को चिह्नित करने के लिए कौन सा उत्सव मनाया जाता है?",
+    "A_en": "Diwali", "A_hi": "दिवाली",
+    "B_en": "Teej", "B_hi": "तीज",
+    "C_en": "Holi", "C_hi": "होली",
+    "D_en": "Gangaur", "D_hi": "गंगौर",
+    "answer": "B",
+    "explanation_en": "Teej is celebrated in Rajasthan during July-August to welcome the monsoon rains.",
+    "explanation_hi": "राजस्थान में तीज का उत्सव जुलाई-अगस्त में मनाया जाता है, जिससे मानसून की बरसातें शुरू होती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Cuisine",
+    "question_en": "Which of these is a signature dish of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान की एक विशिष्ट व्यंजन है?",
+    "A_en": "Biryani", "A_hi": "बिरयानी",
+    "B_en": "Dal Baati Churma", "B_hi": "दाल बाटी चूरमा",
+    "C_en": "Samosa", "C_hi": "समोसा",
+    "D_en": "Pani Puri", "D_hi": "पानी पुरी",
+    "answer": "B",
+    "explanation_en": "Dal Baati Churma is a traditional Rajasthani dish made of lentils, baati (bread), and sweet crumbled wheat.",
+    "explanation_hi": "दाल बाटी चूरमा एक पारंपरिक राजस्थानी व्यंजन है, जिसमें दाल, बाटी (रोटी) और मीठा चूरमा शामिल होता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Architecture",
+    "question_en": "Which of the following forts is located in Chittorgarh and symbolizes Rajput valor?",
+    "question_hi": "निम्नलिखित में से कौन सा किला चित्तौड़गढ़ में स्थित है और राजपूत साहस का प्रतीक है?",
+    "A_en": "Amber Fort", "A_hi": "अम्बर किला",
+    "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ किला",
+    "C_en": "Gwalior Fort", "C_hi": "ग्वालियर किला",
+    "D_en": "Mehrangarh Fort", "D_hi": "महिपालगढ़ किला",
+    "answer": "B",
+    "explanation_en": "Chittorgarh Fort is a UNESCO World Heritage Site and a symbol of Rajput bravery and heritage in Rajasthan.",
+    "explanation_hi": "चित्तौड़गढ़ किला एक यूनेस्को विश्व धरोहर स्थल है और राजस्थान में राजपूत साहस और विरासत का प्रतीक है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Music",
+    "question_en": "Which traditional instrument is commonly used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गायकी में आमतौर पर कौन सा पारंपरिक वाद्य यंत्र उपयोग किया जाता है?",
+    "A_en": "Sitar", "A_hi": "सितार",
+    "B_en": "Dholak", "B_hi": "ढोलक",
+    "C_en": "Guitar", "C_hi": "गिटार",
+    "D_en": "Sarod", "D_hi": "सरोद",
+    "answer": "B",
+    "explanation_en": "Dholak is a traditional drum used in Rajasthani folk music and dance performances.",
+    "explanation_hi": "ढोलक राजस्थानी लोक गायकी और नृत्य प्रदर्शनों में उपयोग किया जाने वाला एक पारंपरिक ड्रम है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Art",
+    "question_en": "Which of these is a unique form of Rajasthani folk art depicting episodes from mythology?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थानी लोक कला का एक अद्वितीय रूप है जो पौराणिक कथाओं के एपिसोड चित्रित करता है?",
+    "A_en": "Miniature Painting", "A_hi": "छोटे चित्रकारी",
+    "B_en": "Phad Painting", "B_hi": "फाड़ चित्रकारी",
+    "C_en": "Kalamkari", "C_hi": "कलमकारी",
+    "D_en": "Madhubani Art", "D_hi": "मधुबनी कला",
+    "answer": "B",
+    "explanation_en": "Phad Painting is a traditional Rajasthani art form that narrates stories from Hindu epics like the Ramayana.",
+    "explanation_hi": "फाड़ चित्रकारी राजस्थानी परंपरागत कला है जो रामायण जैसे हिंदू महाकाव्यों की कहानियों को चित्रित करती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Costumes",
+    "question_en": "What is the traditional attire for Rajasthani women during festivals?",
+    "question_hi": "उत्सवों के दौरान राजस्थानी महिलाओं के पारंपरिक पहनावा क्या है?",
+    "A_en": "Sari", "A_hi": "साड़ी",
+    "B_en": "Ghagra-Choli", "B_hi": "घगरा-चोली",
+    "C_en": "Lehenga", "C_hi": "लेहंगा",
+    "D_en": "Salwar Kameez", "D_hi": "सलवार कमीज़",
+    "answer": "B",
+    "explanation_en": "Ghagra-Choli is a traditional dress for Rajasthani women, often paired with an odhni (headscarf).",
+    "explanation_hi": "घगरा-चोली राजस्थानी महिलाओं के लिए एक पारंपरिक पोशाक है, जिसे अक्सर ओढ़नी (सिर के लिए वस्त्र) के साथ पहना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Tales",
+    "question_en": "Which of the following is a famous Rajasthani folk tale depicted in Phad paintings?",
+    "question_hi": "निम्नलिखित में से कौन सी राजस्थानी लोक कथा फाड़ चित्रकारियों में चित्रित है?",
+    "A_en": "Pabuji Ki Phad", "A_hi": "पाबूजी की फाड़",
+    "B_en": "Ramlila", "B_hi": "रामलीला",
+    "C_en": "Krishna Leela", "C_hi": "कृष्ण लीला",
+    "D_en": "Shiva Purana", "D_hi": "शिव पुराण",
+    "answer": "A",
+    "explanation_en": "Pabuji Ki Phad is a renowned Rajasthani folk tale depicting the life and victories of the folk deity Pabuji.",
+    "explanation_hi": "पाबूजी की फाड़ एक प्रसिद्ध राजस्थानी लोक कथा है जो लोकदेवता पाबूजी के जीवन और विजयों को चित्रित करती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Language",
+    "question_en": "Which of the following scripts is traditionally used to write the Rajasthani language?",
+    "question_hi": "निम्नलिखित में से कौन से लिपि का उपयोग पारंपरिक रूप से राजस्थानी भाषा के लिखने के लिए किया जाता है?",
+    "A_en": "Devanagari", "A_hi": "देवनागरी",
+    "B_en": "Brahmi", "B_hi": "ब्राह्मी",
+    "C_en": "Kharosthi", "C_hi": "खरोष्ठी",
+    "D_en": "Persian", "D_hi": "फारसी",
+    "answer": "A",
+    "explanation_en": "The Rajasthani language is traditionally written in the Devanagari script, similar to Hindi.",
+    "explanation_hi": "राजस्थानी भाषा पारंपरिक रूप से हिंदी की तरह देवनागरी लिपि में लिखी जाती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Heritage Sites",
+    "question_en": "Which of the following is a UNESCO World Heritage Site in Rajasthan associated with the Marwari community?",
+    "question_hi": "राजस्थान में मारवाड़ी समुदाय से जुड़ा यूनेस्को विश्व धरोहर स्थल कौन सा है?",
+    "A_en": "City Palace, Jaipur", "A_hi": "शहर का किला, जयपुर",
+    "B_en": "Jaisalmer Fort",
