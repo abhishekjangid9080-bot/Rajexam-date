@@ -1,0 +1,69 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan States and their Capitals",
+"question_en": "Which is the capital of Rajasthan, a state in India?",
+"question_hi": "राजस्थान, भारत में एक राज्य के बाद किस राजधानी होती है?",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Jaisalmer", "D_hi": "जासालमर",
+"answer": "C",
+"explanation_en": "Jaipur is the capital of Rajasthan, which is a state in India. It is located in the Central part of Rajasthan and is known as the 'Pink City' due to the pink-colored buildings in the old city.",
+"explanation_hi": "राजस्थान, भारत में एक राज्य है। इसका निर्माण के में है। इसके पूर्वी के प्रामी के विभाग में है। इसके प्राप्ति के प्रामी के विभाग में है। इन्नी के प्रामी के विभाग में है।",
+"options": [
+  {
+    "option": "Jodhpur",
+    "option_en": "Jodhpur",
+    "option_hi": "झूढम",
+    "image": ""
+  },
+  {
+    "option": "Ahmedabad",
+    "option_en": "Ahmedabad",
+    "option_hi": "अहमदद",
+    "image": ""
+  },
+  {
+    "option": "Jaipur",
+    "option_en": "Jaipur",
+    "option_hi": "झैपुर",
+    "image": ""
+  },
+  {
+    "option": "Bikaner",
+    "option_en": "Bikaner",
+    "option_hi": "बिकानेर",
+    "image": ""
+  },
+  {
+    "option": "Jaisalmer",
+    "option_en": "Jaisalmer",
+    "option_hi": "जासालमेर",
+    "image": ""
+  },
+  {
+    "option": "Kota",
+    "option_en": "Kota",
+    "option_hi": "कोटा",
+    "image": ""
+  },
+  {
+    "option": "Alwar",
+    "option_en": "Alwar",
+    "option_hi": "अलवार",
+    "image": ""
+  },
+  {
+    "option": "Bharatpur",
+    "option_en": "Bharatpur",
+    "option_hi": "भारतपुर",
+    "image": ""
+  },
+  {
+    "option": "Chittor",
+    "option_en": "Chittor",
+    "option_hi": "चितोर",
+    "image": ""
+  }
+]
