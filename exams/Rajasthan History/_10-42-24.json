@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Forts of Rajasthan",
+"question_en": "Which of the following forts is not located in Rajasthan?",
+"question_hi": "राजस्थान में प्रत्यक्षमता के विभिन्न किस पर्यटन नहीं राजस्थान में आवंद है।",
+"A_en": "Amber Fort",
+"A_hi": "अमेरिका किस पर्यटन है ?",
+"B_en": "Kumbhalgarh Fort",
+"B_hi": "कुम्बलगांड किस पर्यटन है ?",
+"C_en": "Meosar Fort",
+"C_hi": "मेयोसार किस पर्यटन है ?",
+"D_en": "Elewa Fort",
+"D_hi": "एलेवा किस पर्यटन है ?",
+"answer": "C",
+"explanation_en": "Meosar Fort is not located in Rajasthan. It is situated in Madhya Pradesh.",
+"explanation_hi": "मेयोसार किस राज्य में है? उसकी स्थान में है। वह मध्यप्रांतीय राज्य में है।",
+}
+]
