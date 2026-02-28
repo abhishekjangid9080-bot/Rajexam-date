@@ -1,0 +1,152 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway NTPC. The user has provided an example format, so I should follow that structure. Let me start by recalling important topics in Rajasthan History.
+
+First, the formation of Rajasthan. I remember that the state was formed on 15th May 1949. That's a key date. Then, the rulers and their contributions. For example, Maharaja Sawai Jai Singh II founded Jaipur. Another important topic is the merging of princely states; there were 19 princely states before 1947. The capital city is Jaipur, which is a common question.
+
+Next, the historical significance of certain cities. Jaisalmer was known as the "Golden City," and Udaipur as the "City of Lakes." The founder of Udaipur was Maharana Udai Singh II. The oldest fort in Rajasthan is Chittorgarh Fort, built by Raja Bappa Rawal in 734 AD. 
+
+The Battle of Khanwa in 1527 between Rana Sanga and Babur is significant. The famous Mewar ruler Rana Pratap Singh is known for the Battle of Haldighati against Akbar. 
+
+Also, the construction of the Hawa Mahal in Jaipur by Maharaja Sawai Pratap Singh in 1798. The Amber Fort in Jaipur was built by Raja Man Singh I.
+
+Let me check the dates and names to ensure accuracy. For example, the formation of Rajasthan was in 1949, not 1950. The 19 princely states merged to form Rajasthan. The founder of Mewar is Rana Kumbha. 
+
+Now, I need to structure each question with the subject, topic, question in both languages, options in both languages, answer letter, and explanations in both languages. Each question should be in a JSON format as per the example. 
+
+I should make sure that the topics cover various aspects: rulers, capitals, historical events, famous cities, and their founders. Varying the difficulty level by mixing common knowledge with specific facts. For example, the capital is common, but the number of princely states is more specific. 
+
+Need to avoid any markdown and ensure the JSON is valid. Let me draft each question step by step, cross-verifying the facts. Once done, review all to check for consistency and correctness.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Formation of Rajasthan",
+    "question_en": "When was Rajasthan officially formed as a state?",
+    "question_hi": "राजस्थान को राज्य के रूप में औपचारिक रूप से कब बनाया गया?",
+    "A_en": "1947", "A_hi": "1947",
+    "B_en": "1949", "B_hi": "1949",
+    "C_en": "1950", "C_hi": "1950",
+    "D_en": "1956", "D_hi": "1956",
+    "answer": "B",
+    "explanation_en": "Rajasthan was formed on May 15, 1949, by merging 19 princely states.",
+    "explanation_hi": "राजस्थान का गठन 15 मई 1949 को 19 रियासतों को मर्ज करके किया गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Their Contributions",
+    "question_en": "Who was the founder of Jaipur?",
+    "question_hi": "जयपुर के संस्थापक कौन थे?",
+    "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Raja Man Singh I", "C_hi": "राजा मन सिंह प्रथम",
+    "D_en": "Rana Sanga", "D_hi": "राणा संगा",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh II established Jaipur in 1727 as the capital of Amber State.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में अमेर राज्य की राजधानी के रूप में जयपुर की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Princely States",
+    "question_en": "How many princely states were merged to form Rajasthan?",
+    "question_hi": "राजस्थान के गठन के लिए कितनी रियासतों को मर्ज किया गया?",
+    "A_en": "15", "A_hi": "15",
+    "B_en": "17", "B_hi": "17",
+    "C_en": "19", "C_hi": "19",
+    "D_en": "21", "D_hi": "21",
+    "answer": "C",
+    "explanation_en": "Rajasthan was formed by merging 19 princely states after India's independence in 1947.",
+    "explanation_hi": "1947 में भारत की स्वतंत्रता के बाद राजस्थान के गठन के लिए 19 रियासतों को मर्ज किया गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Famous Cities",
+    "question_en": "Which city is known as the 'Golden City' of Rajasthan?",
+    "question_hi": "राजस्थान के कौन से शहर को 'सुनहरा शहर' के रूप में जाना जाता है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Jaisalmer is called the 'Golden City' due to its golden sand dunes and architectural style.",
+    "explanation_hi": "जैसलमेर को सुनहरे रेगिस्तान और वास्तुकला के कारण 'सुनहरा शहर' कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Battles",
+    "question_en": "Which battle was fought between Rana Sanga and Babur in 1527?",
+    "question_hi": "राणा संगा और बाबर के बीच 1527 में किस युद्ध में लड़ाई हुई?",
+    "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी के युद्ध",
+    "B_en": "Battle of Khanwa", "B_hi": "खानवा के युद्ध",
+    "C_en": "Battle of Chittorgarh", "C_hi": "चित्तौड़गढ़ के युद्ध",
+    "D_en": "Battle of Saraighat", "D_hi": "सरायगढ़ के युद्ध",
+    "answer": "B",
+    "explanation_en": "The Battle of Khanwa in 1527 was a decisive conflict between Rana Sanga and Babur's Mughal forces.",
+    "explanation_hi": "1527 में खानवा का युद्ध राणा संगा और मुगल बादशाह बाबर के सैनिक बल के बीच एक निर्णायक लड़ाई थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Famous Forts",
+    "question_en": "Which is the oldest fort in Rajasthan?",
+    "question_hi": "राजस्थान का सबसे पुराना किला कौन सा है?",
+    "A_en": "Amber Fort", "A_hi": "अम्बर किला",
+    "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ किला",
+    "C_en": "Jalor Fort", "C_hi": "जालोर किला",
+    "D_en": "Jaisalmer Fort", "D_hi": "जैसलमेर किला",
+    "answer": "B",
+    "explanation_en": "Chittorgarh Fort, built in 734 AD by Raja Bappa Rawal, is Rajasthan's oldest fort.",
+    "explanation_hi": "चित्तौड़गढ़ किला, जिसे 734 ई. में राजा बप्पा रावल द्वारा बनाया गया था, राजस्थान का सबसे पुराना किला है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Their Contributions",
+    "question_en": "Who established Udaipur as the capital of Mewar?",
+    "question_hi": "मेवाड़ की राजधानी के रूप में उदयपुर की स्थापना किसने की थी?",
+    "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+    "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+    "C_en": "Maharana Udai Singh II", "C_hi": "महाराणा उदय सिंह द्वितीय",
+    "D_en": "Rana Kumbha", "D_hi": "राणा कुंभ",
+    "answer": "C",
+    "explanation_en": "Maharana Udai Singh II founded Udaipur in 1559 as the new capital of Mewar.",
+    "explanation_hi": "महाराणा उदय सिंह द्वितीय ने 1559 में मेवाड़ की नई राजधानी के रूप में उदयपुर की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Famous Monuments",
+    "question_en": "In which year was the Hawa Mahal in Jaipur built?",
+    "question_hi": "जयपुर में हवा महल का निर्माण किस वर्ष किया गया था?",
+    "A_en": "1787", "A_hi": "1787",
+    "B_en": "1798", "B_hi": "1798",
+    "C_en": "1805", "C_hi": "1805",
+    "D_en": "1816", "D_hi": "1816",
+    "answer": "B",
+    "explanation_en": "The Hawa Mahal was constructed in 1798 by Maharaja Sawai Pratap Singh.",
+    "explanation_hi": "हवा महल का निर्माण 1798 में महाराजा सवाई प्रताप सिंह द्वारा करवाया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Events",
+    "question_en": "Which ruler of Mewar is famous for the Battle of Haldighati?",
+    "question_hi": "मेवाड़ के किस शासक को हल्दीघाटी के युद्ध के लिए प्रसिद्धि मिली?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Rana Kumbha", "C_hi": "राणा कुंभ",
+    "D_en": "Maharana Udai Singh II", "D_hi": "महाराणा उदय सिंह द्वितीय",
+    "answer": "B",
+    "explanation_en": "Maharana Pratap is renowned for the Battle of Haldighati against Akbar in 1576.",
+    "explanation_hi": "हल्दीघाटी के युद्ध में अकबर के खिलाफ महाराणा प्रताप की प्रसिद्धि है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Heritage",
+    "question_en": "Which of the following is known as the 'City of Lakes'?",
+    "question_hi": "निम्नलिखित में से किसे 'झीलों का शहर' के रूप में जाना जाता है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+    "D_en": "Kota", "D_hi": "कोटा",
+    "answer": "B",
+    "explanation_en": "Udaipur is called the 'City of Lakes' due to its numerous beautiful lakes like Pichola and Fateh Sagar.",
+    "explanation_hi": "उदयपुर को पिचोला और फतेह सागर जैसी लक्जरी झीलों के कारण 'झीलों का शहर' कहा जाता है।"
+  }
+]
