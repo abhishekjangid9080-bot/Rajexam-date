@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Key Economic Indicators",
+"question_en": "What is the gross domestic product (GDP) of Rajasthan in 2021-22?",
+"question_hi": "2021-22 वर्ष में राजस्थान का विविधता बिजन्स्वीकरण (GDP) क्या था?",
+"A_en": "Rs. 5.67 trillion",
+"A_hi": "रुलिया 5,67,000 crore",
+"B_en": "Rs. 5.5 trillion",
+"B_hi": "रुलिया 5,5,000 crore",
+"C_en": "Rs. 5.7 trillion",
+"C_hi": "रुलिया 5,7,000 crore",
+"D_en": "Rs. 5.4 trillion",
+"D_hi": "रुलिया 5,4,000 crore",
+"answer": "D",
+"explanation_en": "The GDP of Rajasthan in 2021-22 was Rs. 5.4 trillion. Rajasthan's GDP for the same year was Rs. 5,4,000 crore.",
+"explanation_hi": "2021-22 वर्ष में राजस्थान का GDP 5,4,000 crore रुलिया था। राजस्थान का GDP वर्षीय में 5,4,000 crore रुलिया था।",
+"keywords": ["Rajasthan", "GDP", "Revenue", "Economic Growth"]
+}
