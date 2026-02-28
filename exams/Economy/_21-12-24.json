@@ -1,0 +1,16 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the contribution of agriculture to India's GDP?",
+"question_hi": "भारत के GDP में आरक्षण के क्या भूमिका है?",
+"A_en": "20%", "A_hi": "राजनीतिक यात्रा",
+"B_en": "40%", "B_hi": "उत्तरकारक",
+"C_en": "30%", "C_hi": "पृष्ठबीच",
+"D_en": "25%", "D_hi": "अभिकृति",
+"answer": "D",
+"explanation_en": "Around 25% of India's GDP is contributed by agriculture.",
+"explanation_hi": "भारत के GDP में आरक्षण के क्षेत्र में क्या भूमिका होती है?",
+"explanation_hi": "भारत के GDP में आरक्षण के क्षेत्र में क्या भूमिका होती है?"
+}
+]
