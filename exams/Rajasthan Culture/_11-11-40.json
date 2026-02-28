@@ -1,0 +1,178 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan Culture for various exams like LDC, CET, RAS, SSC, and Railway. The instructions specify that each question must be in both Hindi and English, following the Testbook style, and formatted in a specific JSON structure. 
+
+First, I need to identify the subject and topic. The subject is Rajasthan Culture, but the topic isn't specified. Since it's a general culture topic, I'll cover various aspects like festivals, folk art, music, dance, traditional attire, cuisine, etc.
+
+Next, I should brainstorm 10 different topics within Rajasthan Culture. Let me list some possibilities:
+1. Folk dances (e.g., Ghoomar)
+2. Traditional attire (e.g., Bandhani)
+3. Festivals (e.g., Teej, Gangaur)
+4. Folk music instruments (e.g., Sural, Been)
+5. Famous dishes (e.g., Dal Baati Churma)
+6. Historical figures (e.g., Maharana Pratap)
+7. Architecture (e.g., Hawa Mahal, Mehrangarh Fort)
+8. Traditional crafts (e.g., Blue pottery)
+9. Folk tales (e.g., Pabuji Ki Phoolani)
+10. State symbols (e.g., state animal, bird, flower)
+
+Now, I need to create a question for each topic. Each question should have two correct options (A, B, C, D) with explanations in both languages. The difficulty level should be moderate, suitable for state exams.
+
+Let me start drafting the first question on Ghoomar dance. The question should ask which dance is associated with Rajasthan. Options could include Ghoomar, Bhangra (Punjab), Garba (Gujarat), and Dandiya (Gujarat). Answer is A.
+
+For the second question, traditional attire: Bandhani, Ghagra (from Punjab), Lehenga (common but maybe not specific), and Sari. Answer is A.
+
+Third question: Gangaur Festival celebrates the union of Gauri and Harihar (Shiva). Options might include other deities like Krishna and Radha, Rama and Sita, etc. Answer is B.
+
+Fourth question: Folk instrument Sural. Other options could be Dholak (Punjab), Daf (Bihar), and Dhol (Punjab). Answer is A.
+
+Fifth question: Famous dish Dal Baati Churma. Other options like Pav Bhaji (Maharashtra), Butter Chicken (Punjab), and Biryani (general). Answer is A.
+
+Sixth question: Maharana Pratap is associated with Rajsamand. Other options could be other forts like Chittorgarh, Udaipur, etc. Answer is B.
+
+Seventh question: Hawa Mahal in Jaipur. Other options like Udaipur, Jodhpur, Bikaner. Answer is C.
+
+Eighth question: Blue pottery. Options include Rajasthani, Gujarati, Marwari, etc. Answer is A.
+
+Ninth question: Folk tale Pabuji Ki Phoolani. Options could include other tales like Devi Sati, Rani Padmini, etc. Answer is A.
+
+Tenth question: State bird – Kathajodi. Other options like Peacock (India's national bird), Sarasa Crake (Kerala), etc. Answer is A.
+
+I need to ensure each question is clear, the options are distinct, and explanations correctly justify the answers. Also, check for any inaccuracies. For example, confirming that Gangaur is indeed dedicated to Gauri (Parvati) and Shiva (Harihar). Also, verifying that Sural is a traditional Rajasthani instrument.
+
+Now, translating each question into Hindi accurately. Make sure the Hindi terms are correct (e.g., गउर आऊँ महोत्सव for Gangaur Festival). Also, ensure that the explanations in Hindi are concise and accurate.
+
+Finally, structuring the JSON in the required format without any markdown. Validate each field to match the example provided. Ensure all keys are present: subject, topic, question_en, question_hi, options in both languages, answer, explanations in both languages. Since the topic is empty as per the example, I'll leave it blank in the JSON.
+</think>
+
+[
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which traditional dance form is associated with Rajasthan?",
+"question_hi": "राजस्थान के साथ जुड़े पारंपरिक नृत्य रूप कौन सा है?",
+"A_en": "Ghoomar", "A_hi": "घूमर",
+"B_en": "Bhangra", "B_hi": "भंगड़ा",
+"C_en": "Garba", "C_hi": "गरबा",
+"D_en": "Dandiya", "D_hi": "डंडिया",
+"answer": "A",
+"explanation_en": "Ghoomar is a traditional folk dance of Rajasthan, performed by women.",
+"explanation_hi": "घूमर राजस्थान का पारंपरिक लोक नृत्य है, जो महिलाओं द्वारा प्रस्तुत किया जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which of the following is a traditional attire of Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन राजस्थान का पारंपरिक पोशाक है?",
+"A_en": "Bandhani", "A_hi": "बन्धनी",
+"B_en": "Ghagra", "B_hi": "घगरा",
+"C_en": "Lehenga", "C_hi": "लेहंगा",
+"D_en": "Sari", "D_hi": "साड़ी",
+"answer": "A",
+"explanation_en": "Bandhani is a traditional Rajasthani art of tying and dyeing fabric.",
+"explanation_hi": "बन्धनी राजस्थान की पारंपरिक बुनाई और रंगाई की एक कला है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which festival is celebrated to honor the union of Gauri and Harihar?",
+"question_hi": "गौरी और हरिहर के मिलन के सम्मान में कौन सा त्योहार मनाया जाता है?",
+"A_en": "Gangaur", "A_hi": "गंगौर",
+"B_en": "Holi", "B_hi": "होली",
+"C_en": "Diwali", "C_hi": "दिवाली",
+"D_en": "Navratri", "D_hi": "नवरात्रि",
+"answer": "A",
+"explanation_en": "Gangaur is a Rajasthani festival dedicated to the goddess Gauri (Parvati) and Lord Shiva (Harihar).",
+"explanation_hi": "गंगौर राजस्थान का एक त्योहार है जो माँ गौरी (पार्वती) और भगवान शिव (हरिहर) के मिलन के सम्मान में मनाया जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which instrument is traditionally used in Rajasthani folk music?",
+"question_hi": "राजस्थानी लोक गान में पारंपरिक रूप से कौन सा वाद्य यंत्र उपयोग में लाया जाता है?",
+"A_en": "Sural", "A_hi": "सुरल",
+"B_en": "Dholak", "B_hi": "ढोलक",
+"C_en": "Daf", "C_hi": "दफ",
+"D_en": "Dhol", "D_hi": "ढोल",
+"answer": "A",
+"explanation_en": "Sural is a traditional Rajasthani string instrument used in folk music.",
+"explanation_hi": "सुरल राजस्थान का एक पारंपरिक तार वाद्य यंत्र है जो लोक संगीत में उपयोग होता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which dish is a signature cuisine of Rajasthan?",
+"question_hi": "राजस्थान की चिन्हित भोजन कौन सा है?",
+"A_en": "Dal Baati Churma", "A_hi": "दाल बाती चूरमा",
+"B_en": "Pav Bhaji", "B_hi": "पाव भाजी",
+"C_en": "Butter Chicken", "C_hi": "बटर चिकन",
+"D_en": "Biryani", "D_hi": "बर्यानी",
+"answer": "A",
+"explanation_en": "Dal Baati Churma is a traditional Rajasthani dish made with lentils, wheat balls, and sweet crumbles.",
+"explanation_hi": "दाल बाती चूरमा में दाल, गेहूं के गोले और मीठे टुकड़े शामिल होते हैं।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which historical figure is associated with the Rajsamand Fort?",
+"question_hi": "राजसमंद किले के साथ कौन सी ऐतिहासिक व्यक्ति जुड़ा हुआ है?",
+"A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+"B_en": "Rao Jodha", "B_hi": "राव जोधा",
+"C_en": "Raj Singh", "C_hi": "राज सिंह",
+"D_en": "Jaswant Singh", "D_hi": "जसवंत सिंह",
+"answer": "A",
+"explanation_en": "Rajsamand Fort is associated with the valor of Maharana Pratap, the 16th-century Rajput king.",
+"explanation_hi": "राजसमंद किला 16वीं सदी के राजपूत राजा महाराणा प्रताप के शौर्य के साथ जुड़ा हुआ है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which palace is known as the 'Palace of Winds' in Rajasthan?",
+"question_hi": "राजस्थान में कौन सा महल 'हवा का महल' के रूप में जाना जाता है?",
+"A_en": "Hawa Mahal", "A_hi": "हवा महल",
+"B_en": "Mehrangarh Fort", "B_hi": "मेहरंगढ़ किला",
+"C_en": "Amber Fort", "C_hi": "अम्बर किला",
+"D_en": "Chittorgarh Fort", "D_hi": "चित्तौड़गढ़ किला",
+"answer": "A",
+"explanation_en": "Hawa Mahal in Jaipur is called the 'Palace of Winds' due to its unique facade.",
+"explanation_hi": "जयपुर में हवा महल का एक अद्वितीय फैसेड है जिसके कारण इसे 'हवा का महल' कहा जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which craft is famous for its blue pottery in Rajasthan?",
+"question_hi": "राजस्थान में नीले डिजाइन के बरतनों के लिए कौन सी शिल्प कला प्रसिद्ध है?",
+"A_en": "Rajasthani Blue Pottery", "A_hi": "राजस्थानी नीला बरतन शिल्प",
+"B_en": "Gujarati Blue Pottery", "B_hi": "गुजराती नीला बरतन शिल्प",
+"C_en": "Marwari Blue Pottery", "C_hi": "मारवाड़ी नीला बरतन शिल्प",
+"D_en": "Kutchi Blue Pottery", "D_hi": "कच्ची नीला बरतन शिल्प",
+"answer": "A",
+"explanation_en": "Rajasthani Blue Pottery is a traditional craft using cobalt blue glaze on earthenware.",
+"explanation_hi": "राजस्थानी नीला बरतन शिल्प मिट्टी के बरतनों पर कोबाल्ट नीला ग्लेज लगाकर बनाया जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "Which folk tale is based on the love story of Rajasthani warrior Pabuji and Phoolan?",
+"question_hi": "कौन सी लोक कथा राजस्थानी योद्धा पाबूजी और फूलन के प्रेम कहानी पर आधारित है?",
+"A_en": "Pabuji Ki Phoolani", "A_hi": "पाबूजी की फूलनी",
+"B_en": "Devi Sati", "B_hi": "देवी सती",
+"C_en": "Rani Padmini", "C_hi": "रानी पद्मिनी",
+"D_en": "Mewar Rajkumari", "D_hi": "मेवाड़ राजकुमारी",
+"answer": "A",
+"explanation_en": "Pabuji Ki Phoolani is a Rajasthani folk tale about the love between Pabuji and Phoolan.",
+"explanation_hi": "पाबूजी की फूलनी राजस्थानी लोक कथा है जो पाबूजी और फूलन के प्रेम पर आधारित है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "",
+"question_en": "What is the state bird of Rajasthan?",
+"question_hi": "राजस्थान का राज्य पक्षी क्या है?",
+"A_en": "Kathajodi", "A_hi": "काथजोड़ी",
+"B_en": "Peacock", "B_hi": "मोर",
+"C_en": "Sarasa Crake", "C_hi": "सारसा क्रेक",
+"D_en": "Golden Peacock", "D_hi": "सुनहरा मोर",
+"answer": "A",
+"explanation_en": "Kathajodi is the state bird of Rajasthan, found in the Thar Desert.",
+"explanation_hi": "राजस्थान के राज्य पक्षी काथजोड़ी को थार मरुस्थल में पाया जाता है।"
+}
+]
