@@ -1,0 +1,148 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan History for various exams. First, I need to recall key events, rulers, and significant periods in Rajasthan's history. Since the topic isn't specified, I'll cover a range of important areas like ancient kingdoms, medieval rulers, independence movement, etc.
+
+Starting with the first question, maybe about the founder of the Mughal Empire. But wait, Mughal is more general Indian history. Maybe focus on Rajput rulers. Ah, the Rajputana region is central to Rajasthan. Let me think of key figures like Rana Pratap, Maharana Sanga. Or perhaps the capital of Marwar? Jodhpur is known as Marwar. That could be a question.
+
+Another angle: famous battles. The Battle of Haldighati between Rana Pratap and Akbar. That's a good topic. For the third question, maybe the founder of Jaipur, which is Maharaja Sawai Jai Singh. That's a solid point.
+
+I should also include the history of the Alwar state. The founder of Alwar was Sardar Bhiwani Das. That's another question. Then maybe about the integration of Rajasthan princely states post-independence, led by Rajendra Singh Bhopla.
+
+The Chauhan dynasty is significant too. Their capital was Ajmer. That's a good one. Also, the ruler who fought against Allauddin Khilji—Karnat Dev. That's a key battle in medieval history.
+
+The Khejarli massacre by Maharaja Man Singh. This event is important in the history of Rajasthan's resistance. For the 10th question, maybe the last ruler of Marwar before British annexation, which was Maharaja Ajit Singh.
+
+I need to ensure that each question has four options, with the correct answer marked. The explanations should link the answer to the question. Also, the options should be in both Hindi and English, following the testbook style. Let me check each question for accuracy and difficulty level. Make sure not to include any extra information, just the JSON as specified. Alright, compiling all these into the JSON structure now.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Medieval History",
+        "question_en": "Who was the founder of the Mewar kingdom?",
+        "question_hi": "मेवाड़ राज्य के संस्थापक कौन थे?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Raj Singh I", "B_hi": "राज सिंह प्रथम",
+        "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+        "D_en": "Karnadev", "D_hi": "कर्णदेव",
+        "answer": "C",
+        "explanation_en": "Rana Sanga was the founder of the Mewar kingdom and a prominent Rajput ruler.",
+        "explanation_hi": "राणा संगा मेवाड़ राज्य के संस्थापक और एक प्रमुख राजपूत शासक थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Ancient History",
+        "question_en": "Which region in Rajasthan is known for the Chauhan dynasty?",
+        "question_hi": "राजस्थान के किस क्षेत्र को चौहान वंश से जोड़कर बताया जाता है?",
+        "A_en": "Ajmer", "A_hi": "अजमेर",
+        "B_en": "Jodhpur", "B_hi": "जोधपुर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "A",
+        "explanation_en": "Ajmer was the capital of the Chauhan dynasty in Rajasthan.",
+        "explanation_hi": "अजमेर राजस्थान में चौहान वंश की राजधानी थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Rulers",
+        "question_en": "Who led the Rajput army against Allauddin Khilji?",
+        "question_hi": "अलाउद्दीन खिलजी के खिलाफ राजपूत सेना का नेतृत्व किसने किया था?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+        "C_en": "Karnat Dev", "C_hi": "कर्णत देव",
+        "D_en": "Raja Raja Singh", "D_hi": "राजा राजा सिंह",
+        "answer": "C",
+        "explanation_en": "Karnat Dev led the Rajput army against Allauddin Khilji in the Battle of Khanwa.",
+        "explanation_hi": "कर्णत देव अलाउद्दीन खिलजी के खिलाफ राजपूत सेना का नेतृत्व करते थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Colonial Period",
+        "question_en": "Who was the first ruler of Jaipur?",
+        "question_hi": "जयपुर के पहले शासक कौन थे?",
+        "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+        "B_en": "Raja Man Singh", "B_hi": "राजा मान सिंह",
+        "C_en": "Maharaja Sardar Singh", "C_hi": "महाराजा सरदार सिंह",
+        "D_en": "Raja Bhagwan Dass", "D_hi": "राजा भगवान दास",
+        "answer": "A",
+        "explanation_en": "Sawai Jai Singh II founded the city of Jaipur in 1727.",
+        "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जयपुर शहर की स्थापना की।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Freedom Movement",
+        "question_en": "Which ruler of Rajasthan was executed during the 1857 revolt?",
+        "question_hi": "1857 के विद्रोह के दौरान राजस्थान के किस शासक को फांसी दे दी गई थी?",
+        "A_en": "Raja Man Singh of Pali", "A_hi": "पाली के राजा मान सिंह",
+        "B_en": "Maharaja Sawai Singh", "B_hi": "महाराजा सवाई सिंह",
+        "C_en": "Raja Jaswant Singh of Nathdwara", "C_hi": "नाथद्वारा के राजा जसवंत सिंह",
+        "D_en": "Maharaja Ajit Singh", "D_hi": "महाराजा अजीत सिंह",
+        "answer": "A",
+        "explanation_en": "Raja Man Singh of Pali was executed by the British during the 1857 revolt.",
+        "explanation_hi": "पाली के राजा मान सिंह को 1857 के विद्रोह के दौरान अंग्रेजों द्वारा फांसी दे दी गई थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern History",
+        "question_en": "Who was the last ruler of the Alwar state before integration?",
+        "question_hi": "एकीकरण से पहले अलवर राज्य के अंतिम शासक कौन थे?",
+        "A_en": "Padmanabh Singh", "A_hi": "पद्मनाभ सिंह",
+        "B_en": "Maharaja Sawai Man Singh II", "B_hi": "महाराजा सवाई मान सिंह द्वितीय",
+        "C_en": "Maharaja Sardar Singh", "C_hi": "महाराजा सरदार सिंह",
+        "D_en": "Maharaja Sir Pratap Singh", "D_hi": "महाराजा सर प्रताप सिंह",
+        "answer": "D",
+        "explanation_en": "Maharaja Sir Pratap Singh was the last ruler of Alwar before its integration into India.",
+        "explanation_hi": "महाराजा सर प्रताप सिंह भारत में एकीकरण से पहले अलवर के अंतिम शासक थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Rulers",
+        "question_en": "Which Rajput ruler is known for the Khejarli massacre?",
+        "question_hi": "खेजरली नरसंहार के लिए किस राजपूत शासक के नाम से जाना जाता है?",
+        "A_en": "Maharaja Man Singh", "A_hi": "महाराजा मान सिंह",
+        "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+        "C_en": "Raja Jaswant Singh", "C_hi": "राजा जसवंत सिंह",
+        "D_en": "Maharaja Ajit Singh", "D_hi": "महाराजा अजीत सिंह",
+        "answer": "A",
+        "explanation_en": "Maharaja Man Singh of Jaipur ordered the Khejarli massacre in 1793.",
+        "explanation_hi": "जयपुर के महाराजा मान सिंह ने 1793 में खेजरली नरसंहार का आदेश दिया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Ancient History",
+        "question_en": "What was the capital of the Marwar region in ancient times?",
+        "question_hi": "प्राचीन काल में मारवाड़ क्षेत्र की राजधानी क्या थी?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+        "C_en": "Bikaner", "C_hi": "बीकानेर",
+        "D_en": "Churu", "D_hi": "चूरू",
+        "answer": "A",
+        "explanation_en": "Jodhpur was the capital of the Marwar region in ancient times.",
+        "explanation_hi": "जोधपुर प्राचीन काल में मारवाड़ क्षेत्र की राजधानी थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Freedom Movement",
+        "question_en": "Which Rajasthan leader was a prominent figure in the Quit India Movement?",
+        "question_hi": "राजस्थान के कौन से नेता भारत छोड़ो आंदोलन में प्रमुख व्यक्ति थे?",
+        "A_en": "Rajendra Singh Bhopla", "A_hi": "राजेंद्र सिंह भोपला",
+        "B_en": "Gangasagar Shukla", "B_hi": "गंगासागर शुक्ला",
+        "C_en": "Jagat Narain Lal", "C_hi": "जगत नारायण लाल",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "All three leaders played significant roles in the Quit India Movement in Rajasthan.",
+        "explanation_hi": "तीनों नेता राजस्थान में भारत छोड़ो आंदोलन में महत्वपूर्ण भूमिका निभाए थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern History",
+        "question_en": "Who was the last ruler of the Marwar state before British annexation?",
+        "question_hi": "अंग्रेजी अधिग्रहण से पहले मारवाड़ राज्य के अंतिम शासक कौन थे?",
+        "A_en": "Maharaja Ajit Singh", "A_hi": "महाराजा अजीत सिंह",
+        "B_en": "Raja Jaswant Singh", "B_hi": "राजा जसवंत सिंह",
+        "C_en": "Maharaja Man Singh", "C_hi": "महाराजा मान सिंह",
+        "D_en": "Raja Bhagwan Dass", "D_hi": "राजा भगवान दास",
+        "answer": "A",
+        "explanation_en": "Maharaja Ajit Singh was the last ruler of Marwar before British annexation in 1818.",
+        "explanation_hi": "महाराजा अजीत सिंह 1818 में अंग्रेजी अधिग्रहण से पहले मारवाड़ के अंतिम शासक थे।"
+    }
+]
