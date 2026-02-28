@@ -1,0 +1,25 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the name of the largest industrial sector in Rajasthan?",
+"question_hi": "राजस्थान में सर्वोत्र कार्यालय क्या है?",
+"A_en": "Manufacturing", "A_hi": "बनना",
+"B_en": "Agriculture", "B_hi": "आजमी",
+"C_en": "Services", "C_hi": "सेवा",
+"D_en": "Construction", "D_hi": "बंदूक बनना",
+"answer": "C",
+"explanation_en": "The largest sector in Rajasthan is Services, which includes sectors like banking, tourism, and education.",
+"explanation_hi": "राजस्थान में सर्वोत्र कार्यालय में बंदूक बनना क्या है?",
+"explanation_hi": "राजस्थान में सर्वोत्र कार्यालय में बंदूक बनना क्या है?",
+"question_hi": "राजस्थान में सर्वोत्र कार्यालय में बंदूक बनना क्या वर्ग के नाम क्या है?",
+"question_en": "What is the sector in which manufacturing falls under in Rajasthan's economy?",
+"answer": "राजस्थान के देश के नाम क्या है?",
+"answer_en": "What is the sector in which manufacturing falls under in India's economy?",
+"question_hi": "राजस्थान का इस्तेश के नाम क्या है?",
+"answer_hi": "राजस्थान के इस्तेश के नाम क्या है?",
+"answer": "Industrial",
+"answer_en": "What is the sector in which manufacturing falls under in India's economy?",
+"question_en": "What is the sector in which manufacturing falls under in India?",
+"answer": "Industrial"
+}
