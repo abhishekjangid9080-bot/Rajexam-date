@@ -1,0 +1,142 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan History tailored for exams like LDC, CET, RAS, SSC, and Railway. The instructions specify that each question must have both Hindi and English options, and the output needs to be in a strict JSON format without any extra text.
+
+First, I need to recall key topics in Rajasthan History. Important areas include ancient kingdoms, medieval rulers, Mughal influences, notable forts, historical events, and cultural aspects. Each question should be clear and specific to avoid ambiguity.
+
+Starting with the first question: Maybe about the founder of Mewar. Rana Sanga is a key figure. Next, the oldest surviving fort in Rajasthan is Chittorgarh Fort. Then, the founder of Jaipur, Sawai Jai Singh II. The battle of Khanwa where Babur defeated Rana Sanga. The ruler who shifted capital to Bikaner, Rao Bika. The ruler of Marwar during the Mughal period, Rao Mal. The founder of Udaipur, Maharana Udai Singh II. The ruler who defeated Mughal emperor Akbar, Rana Pratap. The city known as the "Blue City" is Jodhpur. Lastly, the ruler who signed the Treaty of Bhorat with the British, Maharaja Sawai Man Singh II.
+
+I need to ensure the options are plausible but with one correct answer. For example, in the question about the oldest fort, the options could include Amer, Chittorgarh, Jaisalmer, and Mehrangarh. Chittorgarh is correct. Also, explanations should be concise and accurate. Checking the difficulty level to make sure they're suitable for Rajasthan state exams but not too trivial. Need to verify facts to avoid errors. For example, confirming that Rao Bika did move the capital from Mandore to Bikaner. Also, verifying that the Treaty of Bhorat was indeed signed by Sawai Man Singh II. Once all questions are framed, double-check the JSON structure to ensure it matches the example provided. Making sure Hindi translations are correct and options are in the right order. Finally, confirming that the answer letters (A, B, C, D) align correctly with the correct choices.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Who is known as the founder of the Mewar kingdom in Rajasthan?",
+    "question_hi": "राजस्थान में मेवाड़ राज्य के संस्थापक के रूप में किसे जाना जाता है?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Rana Ratan Singh", "C_hi": "राणा रतन सिंह",
+    "D_en": "Rana Kumbha", "D_hi": "राणा कुंभा",
+    "answer": "C",
+    "explanation_en": "Rana Ratan Singh is considered the founder of the Mewar kingdom in Rajasthan.",
+    "explanation_hi": "राणा रतन सिंह को राजस्थान में मेवाड़ राज्य के संस्थापक के रूप में माना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Which is the oldest surviving fort in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे पुराना जिंदा किला कौन सा है?",
+    "A_en": "Amer Fort", "A_hi": "अमेर किला",
+    "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ किला",
+    "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+    "D_en": "Mehrangarh Fort", "D_hi": "मेहरांगढ़ किला",
+    "answer": "B",
+    "explanation_en": "Chittorgarh Fort is the oldest surviving fort in Rajasthan, built in the 7th century.",
+    "explanation_hi": "चित्तौड़गढ़ किला राजस्थान में सबसे पुराना जिंदा किला है, जो सातवीं शताब्दी में बनाया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Who founded the city of Jaipur in Rajasthan?",
+    "question_hi": "राजस्थान में जयपुर शहर की स्थापना किसने की थी?",
+    "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+    "B_en": "Maharaja Sawai Man Singh II", "B_hi": "महाराजा सवाई मान सिंह द्वितीय",
+    "C_en": "Raja Man Singh I", "C_hi": "राजा मान सिंह प्रथम",
+    "D_en": "Raja Bhagwant Das", "D_hi": "राजा भगवानता दास",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh II founded the city of Jaipur in 1727.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय ने वर्ष 1727 में जयपुर शहर की स्थापना की थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "In which battle did Babur defeat Rana Sanga of Mewar?",
+    "question_hi": "बाबर ने मेवाड़ के राणा संगा को किस युद्ध में हराया था?",
+    "A_en": "Battle of Khanwa", "A_hi": "खानवा का युद्ध",
+    "B_en": "Battle of Haldighati", "B_hi": "हल्दीघाटी का युद्ध",
+    "C_en": "Battle of Sarangpur", "C_hi": "सरांगपुर का युद्ध",
+    "D_en": "Battle of Gagron", "D_hi": "गगरौन का युद्ध",
+    "answer": "A",
+    "explanation_en": "Babur defeated Rana Sanga of Mewar in the Battle of Khanwa in 1527.",
+    "explanation_hi": "बाबर ने मेवाड़ के राणा संगा को वर्ष 1527 में खानवा के युद्ध में हराया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Who shifted the capital of Bikaner from Mandore to Bikaner?",
+    "question_hi": "भीकानेर की राजधानी को मंडोर से भीकानेर शहर में किसने स्थानांतरित किया था?",
+    "A_en": "Rao Bika", "A_hi": "राव बीका",
+    "B_en": "Rao Chandrasen", "B_hi": "राव चन्द्रसेन",
+    "C_en": "Rao Jodha", "C_hi": "राव जोधा",
+    "D_en": "Rao Ratan Singh", "D_hi": "राव रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Rao Bika shifted the capital of Bikaner from Mandore to Bikaner in the 15th century.",
+    "explanation_hi": "15वीं शताब्दी में राव बीका ने भीकानेर की राजधानी को मंडोर से भीकानेर शहर में स्थानांतरित किया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Who was the ruler of Marwar when Mughal emperor Akbar invaded Rajasthan?",
+    "question_hi": "मुगल शासक अकबर ने राजस्थान पर आक्रमण करते समय मारवाड़ का शासक कौन था?",
+    "A_en": "Rao Mal", "A_hi": "राव मल",
+    "B_en": "Rao Chandrasen", "B_hi": "राव चन्द्रसेन",
+    "C_en": "Rao Ratan Singh", "C_hi": "राव रतन सिंह",
+    "D_en": "Rao Bika", "D_hi": "राव बीका",
+    "answer": "A",
+    "explanation_en": "Rao Mal was the ruler of Marwar when Mughal emperor Akbar invaded Rajasthan.",
+    "explanation_hi": "जब मुगल सम्राट अकबर ने राजस्थान पर आक्रमण किया तो मारवाड़ के शासक राव मल थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Who founded the city of Udaipur in Rajasthan?",
+    "question_hi": "राजस्थान में उदयपुर शहर की स्थापना किसने की थी?",
+    "A_en": "Maharana Udai Singh II", "A_hi": "महाराणा उदय सिंह द्वितीय",
+    "B_en": "Maharaja Man Singh I", "B_hi": "महाराजा मान सिंह प्रथम",
+    "C_en": "Maharaja Sawai Jai Singh II", "C_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "D_en": "Maharaja Bhagwant Singh", "D_hi": "महाराजा भगवानता सिंह",
+    "answer": "A",
+    "explanation_en": "Maharana Udai Singh II founded the city of Udaipur in the 16th century.",
+    "explanation_hi": "16वीं शताब्दी में महाराणा उदय सिंह द्वितीय ने उदयपुर शहर की स्थापना की थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Which ruler of Rajasthan defeated Mughal emperor Akbar at the Battle of Haldighati?",
+    "question_hi": "राजस्थान के किस शासक ने हल्दीघाटी के युद्ध में मुगल सम्राट अकबर को हराया था?",
+    "A_en": "Rana Pratap", "A_hi": "महाराणा प्रताप",
+    "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+    "C_en": "Rao Chandrasen", "C_hi": "राव चन्द्रसेन",
+    "D_en": "Rao Ratan Singh", "D_hi": "राव रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Rana Pratap defeated Mughal emperor Akbar at the Battle of Haldighati in 1576.",
+    "explanation_hi": "1576 में महाराणा प्रताप ने हल्दीघाटी के युद्ध में मुगल सम्राट अकबर को हराया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Which city in Rajasthan is known as the 'Blue City'?",
+    "question_hi": "राजस्थान के कौन से शहर को 'ब्लू सिटी' के रूप में जाना जाता है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Jaipur", "C_hi": "जयपुर",
+    "D_en": "Jaisalmer", "D_hi": "जैसलमेर",
+    "answer": "A",
+    "explanation_en": "Jodhpur is known as the 'Blue City' due to its blue-painted buildings.",
+    "explanation_hi": "जोधपुर को उसके नीले रंग के घरों के कारण 'ब्लू सिटी' के नाम से जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajasthan History",
+    "question_en": "Who signed the Treaty of Bhorat with the British in Rajasthan?",
+    "question_hi": "राजस्थान में ब्रिटिश के साथ भोरात के संधि को किसने हस्ताक्षरित किया था?",
+    "A_en": "Maharaja Sawai Man Singh II", "A_hi": "महाराजा सवाई मान सिंह द्वितीय",
+    "B_en": "Maharaja Sawai Jai Singh II", "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "C_en": "Maharaja Bhim Singh", "C_hi": "महाराजा भीम सिंह",
+    "D_en": "Maharaja Ganga Singh", "D_hi": "महाराजा गंगा सिंह",
+    "answer": "A",
+    "explanation_en": "Maharaja Sawai Man Singh II signed the Treaty of Bhorat with the British in the 19th century.",
+    "explanation_hi": "19वीं शताब्दी में महाराजा सवाई मान सिंह द्वितीय ने ब्रिटिश के साथ भोरात के संधि पर हस्ताक्षर किया था।"
+  }
+]
