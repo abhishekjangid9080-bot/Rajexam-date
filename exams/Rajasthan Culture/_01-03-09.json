@@ -1,0 +1,175 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture, aligned with exams like LDC, CET, RAS, SSC, and Railway NTPC. The user wants them in a specific JSON format with both Hindi and English versions of the questions and options. Let me start by recalling key aspects of Rajasthan's culture.
+
+First, Rajasthan's folk music. Kama is a traditional dance, but which instrument is prominent? Maybe the Dholak? Or maybe the Surna? I should verify that. Also, folk dances like Ghoomar and Kalbeliya are important. For example, Kalbelia is associated with the Kalbeliya community and uses the dholak. 
+
+Rajasthan's folk songs often relate to themes like love, war, or daily life. Maybe a question on the types of songs. Then, festivals like Teej and Gangaur are significant. Teej is related to the worship of Parvati, so a question there. 
+
+Cuisine: Dal Baati Churma is a staple. What about other dishes like Ker Sangri or Gatte ki Sabzi? Also, traditional attire like Bandhani and Angarkha. 
+
+Art forms: Miniature paintings, but Rajasthan is also known for Rajasthani folk paintings. Maybe a question on a specific style like Phad painting. 
+
+Famous personalities: Mirabai, a devotional singer and saint. Or Raja Man Singh, associated with Mughal emperor Akbar. 
+
+Rajasthan has several UNESCO sites. Wait, is the City Palace of Jaipur a UNESCO site? Or maybe the Keoladeo National Park? The Ajmer Sharif Dargah is a famous Sufi shrine. 
+
+Handicrafts: Blue pottery is unique to Rajasthan. Also, block printing in Sanganer and Jaipur. 
+
+Now, structuring each question with options in both languages. Need to ensure the options are plausible but have one clear correct answer. For example, a question on the traditional dance of a community. 
+
+Let me start drafting:
+
+Question 1: Which dance is associated with the Kalbeliya community? Options: Ghoomar, Kalbeliya, Chakri, Kathakali. Answer: Kalbeliya.
+
+Question 2: Who is Mirabai associated with? Options: Krishna, Rama, Shiva, Ganesha. Answer: Krishna.
+
+Question 3: Which instrument is used in Rajasthani folk music? Options: Dholak, Sitar, Veena, Sarod. Answer: Dholak.
+
+Question 4: What is the significance of the Teej festival? Options: Worship of Durga, Parvati, Kali, Saraswati. Answer: Parvati.
+
+Question 5: Which dish is a staple in Rajasthani cuisine? Options: Dal Baati Churma, Biryani, Idli, Dosa. Answer: Dal Baati Churma.
+
+Question 6: What is the traditional attire for men in Rajasthan? Options: Angarkha, Dhoti, Kurta, Sherwani. Answer: Angarkha.
+
+Question 7: Which art form is famous for miniature paintings in Rajasthan? Options: Rajasthani, Pahari, Mughal, Odisha. Answer: Rajasthani.
+
+Question 8: Where is the Ajmer Sharif Dargah located? Options: Ajmer, Udaipur, Jodhpur, Kishangarh. Answer: Ajmer.
+
+Question 9: Which festival is celebrated with the "Ghoomar" dance? Options: Holi, Gangaur, Diwali, Teej. Answer: Gangaur.
+
+Question 10: What is the primary theme of Rajasthani folk songs? Options: Love, War, Agriculture, All of the above. Answer: All of the above.
+
+Now, I need to convert these into the JSON format as per the example. Ensure each question has subject, topic, question in both languages, four options in both, answer key, and explanations. The topic in the example was empty, so I'll leave it as an empty string. Also, the difficulty should be set according to Rajasthan culture exams, so maybe a mix of basic and some specific knowledge.
+
+Check for any errors. For example, in the options, are the translations correct? For the answer to question 4, Teej is the worship of Parvati. The explanation should clarify that. For the Ajmer Sharif Dargah, it's in Ajmer. The traditional attire for men is Angarkha, not Dhoti. 
+
+Make sure the JSON structure is correct, with commas and brackets properly placed. Also, explanations should be concise but informative. For example, explaining why Dholak is the correct instrument in Rajasthani music. 
+
+I think that's all. Time to put it all into the JSON format as specified.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which traditional dance is performed during the Teej festival in Rajasthan?",
+        "question_hi": "राजस्थान में तीज त्योहार के दौरान कौन-सा पारंपरिक नृत्य किया जाता है?",
+        "A_en": "Ghoomar", "A_hi": "घूमर",
+        "B_en": "Kalbeliya", "B_hi": "कालबेलिया",
+        "C_en": "Chakri", "C_hi": "चक्री",
+        "D_en": "Kathakali", "D_hi": "कथकली",
+        "answer": "A",
+        "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan, especially performed by women during festivals like Teej.",
+        "explanation_hi": "घूमर राजस्थान का एक पारंपरिक लोक नृत्य है, जिसे तीज जैसे त्योहारों में खासकर महिलाओं द्वारा प्रस्तुत किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is a famous folk song associated with Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन-सा राजस्थान से संबंधित एक प्रसिद्ध लोक गीत है?",
+        "A_en": "Ras Leela", "A_hi": "रस लीला",
+        "B_en": "Kalbeliya Kaliya", "B_hi": "कालबेलिया कालिया",
+        "C_en": "Bhajans of Mirabai", "C_hi": "मीराबाई के भजन",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "All the listed options are associated with Rajasthan's folk culture, including Ras Leela, Kalbeliya Kaliya, and Bhajans of Mirabai.",
+        "explanation_hi": "सभी उल्लिखित विकल्प राजस्थान की लोक संस्कृति से संबंधित हैं, जैसे रस लीला, कालबेलिया कालिया और मीराबाई के भजन।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which instrument is primarily used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक संगीत में मुख्य रूप से कौन-सा वाद्य उपकरण प्रयोग में लाया जाता है?",
+        "A_en": "Dholak", "A_hi": "ढोलक",
+        "B_en": "Sitar", "B_hi": "सितार",
+        "C_en": "Veena", "C_hi": "वीणा",
+        "D_en": "Sarod", "D_hi": "सरोद",
+        "answer": "A",
+        "explanation_en": "Dholak is a traditional percussion instrument widely used in Rajasthani folk music.",
+        "explanation_hi": "ढोलक एक पारंपरिक पर्क्यूशन वाद्य है जो राजस्थानी लोक संगीत में व्यापक रूप से उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is a traditional attire for men in Rajasthan?",
+        "question_hi": "राजस्थान में पुरुषों के लिए पारंपरिक पोशाक कौन-सा है?",
+        "A_en": "Angarkha", "A_hi": "अंगरक्खा",
+        "B_en": "Dhoti", "B_hi": "ढोली",
+        "C_en": "Kurta", "C_hi": "कुर्ता",
+        "D_en": "Sherwani", "D_hi": "शेरवानी",
+        "answer": "A",
+        "explanation_en": "Angarkha is a traditional men's attire in Rajasthan, often paired with a turban or pagri.",
+        "explanation_hi": "अंगरक्खा राजस्थान में एक पारंपरिक पुरुष पोशाक है, जिसे आमतौर पर टोपी या पगड़ी के साथ पहना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which festival is dedicated to the worship of Goddess Parvati in Rajasthan?",
+        "question_hi": "राजस्थान में देवी पार्वती के उपासना के लिए कौन-सा त्योहार मनाया जाता है?",
+        "A_en": "Teej", "A_hi": "तीज",
+        "B_en": "Gangaur", "B_hi": "गंगौर",
+        "C_en": "Makar Sankranti", "C_hi": "मकर संक्रांति",
+        "D_en": "Holi", "D_hi": "होली",
+        "answer": "A",
+        "explanation_en": "Teej is a significant festival in Rajasthan dedicated to the worship of Goddess Parvati.",
+        "explanation_hi": "तीज राजस्थान में देवी पार्वती के उपासना के लिए एक महत्वपूर्ण त्योहार है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is a signature dish of Rajasthani cuisine?",
+        "question_hi": "निम्नलिखित में से कौन-सा राजस्थानी खाने का एक विशिष्ट डिश है?",
+        "A_en": "Dal Baati Churma", "A_hi": "दाल बाटी चुरमा",
+        "B_en": "Biryani", "B_hi": "बिरयानी",
+        "C_en": "Idli", "C_hi": "इडली",
+        "D_en": "Dosa", "D_hi": "दोसा",
+        "answer": "A",
+        "explanation_en": "Dal Baati Churma is a traditional and iconic dish of Rajasthan.",
+        "explanation_hi": "दाल बाटी चुरमा राजस्थान का पारंपरिक और प्रतीकात्मक डिश है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is a form of Rajasthani folk painting?",
+        "question_hi": "निम्नलिखित में से कौन राजस्थानी लोक चित्रकला का एक रूप है?",
+        "A_en": "Phad Painting", "A_hi": "फाड़ चित्रकला",
+        "B_en": "Madhubani Painting", "B_hi": "मधुबनी चित्रकला",
+        "C_en": "Pattachitra", "C_hi": "पट्टचित्र",
+        "D_en": "Warli Painting", "D_hi": "वर्ली चित्रकला",
+        "answer": "A",
+        "explanation_en": "Phad Painting is a traditional folk art form from Rajasthan, depicting stories of deities and local legends.",
+        "explanation_hi": "फाड़ चित्रकला राजस्थान की एक पारंपरिक लोक शिल्पकला है, जो देवताओं और स्थानीय कथाओं के चित्रों को दर्शाती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Where is the Ajmer Sharif Dargah located?",
+        "question_hi": "अजमेर शरीफ दरगाह कहाँ स्थित है?",
+        "A_en": "Ajmer", "A_hi": "अजमेर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Jodhpur", "C_hi": "जोधपुर",
+        "D_en": "Kishangarh", "D_hi": "किशंगढ़",
+        "answer": "A",
+        "explanation_en": "Ajmer Sharif Dargah is a prominent Sufi shrine located in Ajmer, Rajasthan.",
+        "explanation_hi": "अजमेर शरीफ दरगाह राजस्थान में अजमेर में स्थित एक प्रमुख सूफी धार्मिक स्थल है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is a traditional Rajasthani handicraft?",
+        "question_hi": "निम्नलिखित में से कौन राजस्थानी पारंपरिक हाथ की कला है?",
+        "A_en": "Blue Pottery", "A_hi": "नीली मिट्टी के बरतन",
+        "B_en": "Zari Work", "B_hi": "जरी काम",
+        "C_en": "Embroidery", "C_hi": "शिल्पकला",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "D",
+        "explanation_en": "Blue Pottery, Zari Work, and Embroidery are all traditional Rajasthani handicrafts.",
+        "explanation_hi": "नीली मिट्टी के बरतन, जरी काम और शिल्पकला राजस्थान की पारंपरिक हाथ की कलाओं हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "",
+        "question_en": "Which of the following is associated with the Kalbeliya community in Rajasthan?",
+        "question_hi": "राजस्थान में कालबेलिया समुदाय के साथ निम्नलिखित में से कौन-सा संबंधित है?",
+        "A_en": "Kalbeliya Dance", "A_hi": "कालबेलिया नृत्य",
+        "B_en": "Snake
