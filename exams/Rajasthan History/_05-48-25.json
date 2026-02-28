@@ -1,0 +1,53 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Princely States",
+"question_en": "Which of the following was not a Princely State in Rajasthan?",
+"question_hi": "राजस्थान में कुछ नहीं हुए राज्यों के संतुलन में एक नहीं हुए राज्यों के वर्तमान संतुलन में वाले राज्यों के वर्तमान संतुलन में वाले राज्यों का वर्तमान संतुलन में वाले राज्यों के वर्तमान संतुलन में वाले राज्यों का वर्तमान संतुलन में वाले राज्यों का वर्तमान संतुलन में वाले राज्यों का वर्तमान संतुलन में वाले राज्यों का वर्तमान",
+"question_hi": "राज्योंका वर्तमान संतुलन में वाले राज्यों का वर्तमान",
+"A_hi": "राज्योंका वर्तमान संतुलनोंका वर्तमान",
+"B_hi": "राज्योंका वर्तमान संतुलनोंका",
+"C_hi": "राज्योंका वर्तमान संतुलनोंका",
+"D_hi": "राज्योंका वर्तमान संतुलनोंका",
+"answer": "B",
+"explanation_hi": "राज्योंका वर्तमान संतुलनोंका",
+"explanation_en": "राज्योंका वर्तमान संतुलनोंका",
+"options": [
+{
+"option_id": "1",
+"option_en": "राज्योंका वर्तमान संतुलनोंका",
+"option_hi": "राज्योंका वर्तमान संतुलनोंका",
+"option_explanation_en": "State-owned entities",
+"option_explanation_hi": "राज्य आयामंतुलनों",
+},
+{
+"option_id": "2",
+"option_en": "राजनी कोण वर्तमान",
+"option_hi": "राजनी कोण वर्तमान",
+"option_explanation_en": "Rajput Rulers",
+"option_explanation_hi": "राजपुत राजनों",
+},
+{
+"option_id": "3",
+"option_en": "राजरें",
+"option_hi": "राजरें",
+"option_explanation_en": "Rajput Princes",
+"option_explanation_hi": "राजपुत राजरों",
+},
+{
+"option_id": "4",
+"option_en": "मदराव",
+"option_hi": "मदराव",
+"option_explanation_en": "Maudaav",
+"option_explanation_hi": "मदराव",
+},
+{
+"option_id": "5",
+"option_en": "प्रें",
+"option_hi": "प्रें",
+"option_explanation_en": "प्रें",
+"option_explanation_hi": "प्रें",
+}]
+
+] 
+}
