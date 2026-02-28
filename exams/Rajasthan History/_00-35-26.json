@@ -1,0 +1,50 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan State and its Founding Kings",
+"question_en": "Which king founded the state of Rajasthan, and when?",
+"question_hi": "राजस्थान को किस सरकार ने शुरू किया, और कब?",
+"A_en": "Prithviraj Chauhan", "A_hi": "पृथ्वीराज चौहान",
+"B_en": "Amar Singh Rathore", "B_hi": "अमार सिंह रात्री",
+"C_en": "Nar Singh Meena", "C_hi": "नर सिंह मेना",
+"D_en": "Mewar", "D_hi": "मेवार",
+"answer": "A",
+"explanation_en": "Prithviraj Chauhan is credited with founding the state of Rajasthan in 1037 CE.",
+"explanation_hi": "पृथ्वीराज चौहान 1037 CE में राजस्थान को निर्मान लेते हैं।",
+"question_en": "Prithviraj Chauhan founded the state of Rajasthan in 1037 CE.",
+"question_hi": "पृथ्वीराज चौहान 1037 CE में राजस्थान को निर्मान लेते हैं।",
+"exam_type": "Higher Secondary Exam"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Royal Families and Their Contributions",
+"question_en": "Which royal family ruled Rajasthan before the establishment of the Indian Republic?",
+"question_hi": "राजशास्तां और उनके सहभावन",
+"option_en_1": "Kachwaha",
+"option_en_2": "Bikaner",
+"option_en_3": "Jodhpur",
+"option_en_4": "Jaisalmer",
+"option_hi_1": "कचवाहा",
+"option_hi_2": "बिकानेर",
+"option_hi_3": "जोधुर्मण",
+"option_hi_4": "जिसालमर",
+"answer": "Jodhpur",
+"explanation_en": "Before the establishment of the Indian Republic, Jodhpur's Rathore family ruled Rajasthan.",
+"explanation_hi": "भारत के प्रांगण को उन्ने बनामन की संतरांगना के Rajput सामर्शांती के संतरांगना के राजपूती के रमण के संतरांगना की समाज के राजपूती के रमण के संतरांगना के रामन के संतरांगना की समाज के राजपूती के रमण के संतरांगना की समाज के राजपूती के रमण के संतरांगना की समाज के राजपूती के रमण के संतरांगना की समाज के राजपूती के रमण के संतरांगना की समाज के राजपूती के रमण की समाज के संतरांगना की समाज के राजपूती के रमण की समाज की संतरांगना की समाज के राजपूती की समाज की संतरांगना की समाज की राजपूती की समाज की संतरांगना की समाज की राजपूती समाजकी संती समाज की राजपूती समाी संती समाजी राजपी संी समाजकी संती राजी संी समाजकी संती संती हराजी संी संी ही संी हराजी ही संी ही संी ही ही ही संी संी हराजी संी ही हराी ही ही ह",
+};
+},
+{
+"subject": "Rajasthan history",
+"topic": "Rajasthan Rulers",
+"question_en": "Which Rajasthan ruler founded the city of Ajmer?",
+"question_hi": "राजी ही ही ही हराी संी ही हराी हराी ही ही ही हराी ही ही",
+"option_en": {
+"A": "Ameer",
+"B": "Ajmer",
+"C": "Alwar",
+"D": "Alwar",
+"answer": "A",
+"explanation_en": "Amer was founded by Raja Meera Singh of Amber.",
+"explanation_hi": "अमी ही हराी ही हराी हराी ही हराी ही ही",
+}
+]
