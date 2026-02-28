@@ -1,0 +1,154 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Geography. The topics should cover various aspects like geography, rivers, historical places, etc. Let me start by recalling key points about Rajasthan's geography.
+
+First, Rajasthan's capital is Jaipur, so a question on that is a must. Then, major rivers like the Chambal and Luni River. The Luni River is important as it's a major river in the state. The Thar Desert is another key topic. The Aravalli Range runs through Rajasthan. Then there's the famous Mount Abu, which is the only hill station in Rajasthan. 
+
+Next, historical forts and cities like Chittorgarh Fort, which is a UNESCO site. The city of Jaisalmer is known for its sandstone architecture. The Khejarli village is associated with a significant incident in Rajasthan's history. The Ranthambore National Park is a key wildlife area. 
+
+Also, the Pushkar Lake is a notable water body. The desert region of Thar includes cities like Jodhpur. The river that flows into the Rann of Kutch is the Luni. The highest point in Rajasthan is Mount Abu. 
+
+I need to ensure that each question tests specific knowledge and the options are plausible. For example, for the capital question, options like Jodhpur, Udaipur, Bikaner are common but incorrect. For rivers, include other major rivers but the correct answer should be the one relevant to Rajasthan. 
+
+Each question should have explanations in both Hindi and English. Also, check the difficulty level to match Rajasthan State Exams, which are moderately challenging. Avoid overly technical terms but ensure the questions are not too easy. 
+
+Now, structure each question in the required JSON format. Make sure the translations are accurate. For example, "Chambal River" in Hindi is "चंबल नदी". 
+
+Double-check all facts. For instance, the Aravalli Range is the oldest mountain range in India, so that's a correct detail. The Thar Desert is part of the state's geography. 
+
+Once all 10 questions are drafted, review them for consistency in format and accuracy. Ensure no duplicate questions and that each topic is distinct. Finally, present them in the specified JSON array format without any extra text.
+</think>
+
+```json
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers",
+        "question_en": "Which river is known as the 'Lifeline of Rajasthan'?",
+        "question_hi": "कौन सी नदी 'राजस्थान के जीवनरेखा' के रूप में जानी जाती है?",
+        "A_en": "Chambal", "A_hi": "चंबल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Mahi", "C_hi": "माही",
+        "D_en": "Sabarmati", "D_hi": "साबरमती",
+        "answer": "B",
+        "explanation_en": "The Luni River is crucial for agriculture and water supply in southern Rajasthan.",
+        "explanation_hi": "लूनी नदी दक्षिणी राजस्थान में कृषि और पानी की आपूर्ति के लिए महत्वपूर्ण है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Mountains",
+        "question_en": "Which mountain range is the longest in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे लंबी पहाड़ी श्रृंखला कौन सी है?",
+        "A_en": "Aravallis", "A_hi": "अरावली",
+        "B_en": "Vindhyas", "B_hi": "विंध्याचल",
+        "C_en": "Satpura", "C_hi": "सतपुड़ा",
+        "D_en": "Nilgiri", "D_hi": "नीलगिरी",
+        "answer": "A",
+        "explanation_en": "The Aravalli Range runs from southwest to northeast in Rajasthan and is the oldest mountain range in India.",
+        "explanation_hi": "अरावली पर्वतमाला राजस्थान में दक्षिण-पश्चिम से उत्तर-पूर्व की ओर फैली हुई है और यह भारत की सबसे प्राचीन पहाड़ी श्रृंखला है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Deserts",
+        "question_en": "Which desert covers the largest area in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे बड़ा रेगिस्तान कौन सा है?",
+        "A_en": "Thar Desert", "A_hi": "थार मरुभूमि",
+        "B_en": "Kutch Desert", "B_hi": "कच्छ मरुभूमि",
+        "C_en": "Rajasthan Desert", "C_hi": "राजस्थान मरुभूमि",
+        "D_en": "Karakoram", "D_hi": "कराकोरम",
+        "answer": "A",
+        "explanation_en": "The Thar Desert, also known as the Great Indian Desert, is the largest desert in Rajasthan.",
+        "explanation_hi": "थार मरुभूमि, जिसे महान भारतीय मरुभूमि भी कहा जाता है, राजस्थान की सबसे बड़ी मरुभूमि है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "National Parks",
+        "question_en": "Which national park is famous for tigers in Rajasthan?",
+        "question_hi": "राजस्थान में बाघों के लिए कौन सा राष्ट्रीय उद्यान प्रसिद्ध है?",
+        "A_en": "Ranthambore National Park", "A_hi": "रणथंबोर राष्ट्रीय उद्यान",
+        "B_en": "Sariska National Park", "B_hi": "सरिस्का राष्ट्रीय उद्यान",
+        "C_en": "Keoladeo National Park", "C_hi": "केवलादेव राष्ट्रीय उद्यान",
+        "D_en": "Gir National Park", "D_hi": "गिर राष्ट्रीय उद्यान",
+        "answer": "A",
+        "explanation_en": "Ranthambore National Park is renowned for its tiger conservation efforts.",
+        "explanation_hi": "रणथंबोर राष्ट्रीय उद्यान बाघों के संरक्षण के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Historical Places",
+        "question_en": "Which fort in Rajasthan is a UNESCO World Heritage Site?",
+        "question_hi": "राजस्थान में यूनेस्को विश्व धरोहर स्थल है कौन सा महल?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+        "C_en": "Gwalior Fort", "C_hi": "ग्वालियर किला",
+        "D_en": "Fort William", "D_hi": "फोर्ट विलियम",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort is a UNESCO World Heritage Site and a symbol of Rajput valor.",
+        "explanation_hi": "चित्तौड़गढ़ किला एक यूनेस्को विश्व धरोहर स्थल है और राजपूत साहस का प्रतीक है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Water Bodies",
+        "question_en": "Which lake is known as the 'Lake of Joy' in Rajasthan?",
+        "question_hi": "राजस्थान में कौन सी झील 'खुशी की झील' के रूप में जानी जाती है?",
+        "A_en": "Pichola Lake", "A_hi": "पिछोला झील",
+        "B_en": "Doodh Talai Lake", "B_hi": "दूध तालाई झील",
+        "C_en": "Jaisamand Lake", "C_hi": "जैसमंद झील",
+        "D_en": "Pushkar Lake", "D_hi": "पुष्कर झील",
+        "answer": "C",
+        "explanation_en": "Jaisamand Lake, located near Udaipur, is famous as the 'Lake of Joy'.",
+        "explanation_hi": "जैसमंद झील, जो उदयपुर के पास है, 'खुशी की झील' के रूप में प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Cities",
+        "question_en": "Which city in Rajasthan is known as the 'Blue City'?",
+        "question_hi": "राजस्थान में कौन सा शहर 'नीले शहर' के रूप में जाना जाता है?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+        "answer": "A",
+        "explanation_en": "Jodhpur is called the Blue City due to its blue-painted houses.",
+        "explanation_hi": "जोधपुर को नीले रंग के घरों के कारण 'नीला शहर' कहा जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Hill Stations",
+        "question_en": "Which hill station is located in Rajasthan?",
+        "question_hi": "राजस्थान में कौन सी पहाड़ी घाटी है?",
+        "A_en": "Mount Abu", "A_hi": "माउंट अबू",
+        "B_en": "Nainital", "B_hi": "नैनीताल",
+        "C_en": "Mussoorie", "C_hi": "मसूरी",
+        "D_en": "Kullu", "D_hi": "कुल्लू",
+        "answer": "A",
+        "explanation_en": "Mount Abu is the only hill station in Rajasthan, located in the Aravalli Range.",
+        "explanation_hi": "माउंट अबू राजस्थान की एकमात्र पहाड़ी घाटी है, जो अरावली पर्वतमाला में स्थित है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Forts",
+        "question_en": "Which fort is known as the 'Golden Fort' in Rajasthan?",
+        "question_hi": "राजस्थान में कौन सा किला 'सुनहरा किला' के रूप में जाना जाता है?",
+        "A_en": "Jaisalmer Fort", "A_hi": "जैसलमेर किला",
+        "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ किला",
+        "C_en": "Ranthambore Fort", "C_hi": "रणथंबोर किला",
+        "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+        "answer": "A",
+        "explanation_en": "Jaisalmer Fort is called the Golden Fort due to its honey-colored sandstone architecture.",
+        "explanation_hi": "जैसलमेर किला इसकी शहद रंग के संगमरमर की वास्तुकला के कारण सुनहरा किला कहलाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Cultural Places",
+        "question_en": "Which temple complex in Rajasthan is dedicated to Lord Shiva?",
+        "question_hi": "राजस्थान में कौन सा मंदिर समूह भगवान शिव के समर्पित है?",
+        "A_en": "Amber Fort Temple", "A_hi": "अम्बर किला मंदिर",
+        "B_en": "Chand Baori Temple", "B_hi": "चांद बावड़ी मंदिर",
+        "C_en": "Mahakal Temple", "C_hi": "महाकाल मंदिर",
+        "D_en": "Bhimtal Temple", "D_hi": "भीमताल मंदिर",
+        "answer": "B",
+        "explanation_en": "Chand Baori, located in Abhaneri, is a stepwell complex dedicated to Lord Shiva.",
+        "explanation_hi": "चांद बावड़ी, जो अभानेरी में है, भगवान शिव के समर्पित एक चूल्हा समूह है।"
+    }
+]
+```
