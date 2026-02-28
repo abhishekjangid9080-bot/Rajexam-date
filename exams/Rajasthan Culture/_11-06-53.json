@@ -1,0 +1,198 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality multiple-choice questions on Rajasthan Culture for various exams. The instructions specify that each question must be in both Hindi and English, with options labeled A to D. The JSON structure is crucial here.
+
+First, I need to brainstorm topics within Rajasthan Culture. Maybe start with festivals, folk music, dance forms, famous personalities, historical figures, traditional attire, and architectural styles. Each question should cover a different sub-topic to ensure variety.
+
+For example, the first question could be about the famous folk dance of Rajasthan. The answer is Ghoomar, but I need to make sure the other options are plausible but incorrect. Then, the explanation should briefly explain why Ghoomar is the correct answer.
+
+Next, think about the origin of the folk song "Kalan". The options could be different regions of Rajasthan. The correct answer is Bhilwara, so the explanation should mention that it's from there and maybe a bit about the song itself.
+
+Moving on to traditional attire, like the Ghagra for women. The options could include other garments from different regions. The explanation should explain the significance of Ghagra in Rajasthani culture.
+
+For historical figures, Rajput kings are a good topic. Maharana Pratap is a key figure, so a question on him would be relevant. The options could be other Rajput rulers. The explanation should highlight his contributions.
+
+Then, there's the famous festival of Gangaur. The options could be other festivals like Teej, Holi, or Diwali. The explanation should note that Gangaur is celebrated in Jaipur.
+
+Rajasthani folk music instruments like the Dholak are important. The options could include other instruments like Daf, Sitar, or Sarangi. The explanation should mention the role of Dholak in their music.
+
+The origin of the folk dance Kalbeliya is from Kutch region. The options could be other regions. The explanation should connect the dance to the Kutch area and the community associated with it.
+
+Rajasthani cuisine's famous dish is Dal Baati Churma. The options could be other regional dishes. The explanation should explain the dish and its cultural significance.
+
+The traditional Rajasthani headgear, Pagari, is another topic. The options could include other headgear like Turban or Safa. The explanation should describe its use and symbolism.
+
+Lastly, a question on the origin of the folk song "Malwa Kali". The correct answer is the Malwa region. The options could be other regions, and the explanation should note the song's association with Malwa's culture.
+
+Each question must be checked for accuracy, ensuring that the correct answer is clearly the best option and the explanations are concise yet informative. Also, the difficulty should be appropriate for the target exams, not too easy but not too obscure. Making sure the language in both Hindi and English is clear and free of errors is essential for high-quality questions.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dance",
+    "question_en": "Which of the following is a famous folk dance of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान का प्रसिद्ध लोक नृत्य है?",
+    "A_en": "Ghoomar",
+    "A_hi": "घूमर",
+    "B_en": "Bhangra",
+    "B_hi": "भंगड़ा",
+    "C_en": "Kathak",
+    "C_hi": "कथक",
+    "D_en": "Garba",
+    "D_hi": "गरबा",
+    "answer": "A",
+    "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan, especially performed by women during festivals.",
+    "explanation_hi": "घूमर राजस्थान का पारंपरिक लोक नृत्य है, जिसे महिलाएं त्योहारों पर नृत्य करती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which traditional song is associated with the celebration of 'Kalan' in Rajasthan?",
+    "question_hi": "राजस्थान में 'कलन' के उत्सव के साथ कौन सा पारंपरिक गीत जुड़ा है?",
+    "A_en": "Chhoti Si Chhatri",
+    "A_hi": "छोटी सी छतरी",
+    "B_en": "Taj Mahal",
+    "B_hi": "ताज महल",
+    "C_en": "Kalan ki Chhoti Si Chhatri",
+    "C_hi": "कलन की छोटी सी छतरी",
+    "D_en": "Rajasthan Ke Pani Pani",
+    "D_hi": "राजस्थान के पानी पानी",
+    "answer": "C",
+    "explanation_en": "The song 'Kalan ki Chhoti Si Chhatri' is traditionally sung during the Kalan festival to celebrate agricultural prosperity.",
+    "explanation_hi": "'कलन की छोटी सी छतरी' गीत कलन उत्सव के दौरान खेती-बाड़ी की समृद्धि के उत्सव के साथ गाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional attire of Rajasthani women called?",
+    "question_hi": "राजस्थानी महिलाओं के पारंपरिक पहनावे को क्या कहा जाता है?",
+    "A_en": "Sari",
+    "A_hi": "साड़ी",
+    "B_en": "Chaniya Choli",
+    "B_hi": "चानिया चोली",
+    "C_en": "Ghagra",
+    "C_hi": "घगड़ा",
+    "D_en": "Lehenga",
+    "D_hi": "लेहंगा",
+    "answer": "C",
+    "explanation_en": "Ghagra is a long, flared skirt paired with a choli (blouse) and is iconic in Rajasthani traditional attire.",
+    "explanation_hi": "घगड़ा एक लंबी, फैली हुई स्कर्ट है, जिसे चोली (ब्लाउज) के साथ पहना जाता है और राजस्थानी पारंपरिक पहनावे में प्रतीकात्मक है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+    "question_hi": "राजस्थान में देवी गौरी की पूजा करने के लिए कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Diwali",
+    "A_hi": "दिवाली",
+    "B_en": "Gangaur",
+    "B_hi": "गंगौर",
+    "C_en": "Holi",
+    "C_hi": "होली",
+    "D_en": "Teej",
+    "D_hi": "तीज",
+    "answer": "B",
+    "explanation_en": "Gangaur is a significant festival in Rajasthan dedicated to the worship of Goddess Gauri, celebrated mainly in Jaipur.",
+    "explanation_hi": "गंगौर राजस्थान में देवी गौरी के आराधना के लिए मुख्य रूप से जयपुर में मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Instruments",
+    "question_en": "Which traditional musical instrument is commonly used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गान में आमतौर पर कौन सा पारंपरिक संगीत यंत्र उपयोग में लाया जाता है?",
+    "A_en": "Dholak",
+    "A_hi": "ढोलक",
+    "B_en": "Sitar",
+    "B_hi": "सितार",
+    "C_en": "Sarangi",
+    "C_hi": "सरंगी",
+    "D_en": "Flute",
+    "D_hi": "बोली",
+    "answer": "A",
+    "explanation_en": "Dholak is a two-headed drum commonly played in Rajasthani folk music and dances like Ghoomar.",
+    "explanation_hi": "ढोलक एक दो ड्रम है जो राजस्थानी लोक संगीत और घूमर नृत्य में अक्सर बजाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Historical Figures",
+    "question_en": "Who is considered the greatest Rajput king of Rajputana?",
+    "question_hi": "राजपूताना के सबसे महान राजपूत राजा कौन माने जाते हैं?",
+    "A_en": "Raja Man Singh I",
+    "A_hi": "राजा मन सिंह प्रथम",
+    "B_en": "Rana Pratap Singh",
+    "B_hi": "राणा प्रताप सिंह",
+    "C_en": "Raja Ratan Singh",
+    "C_hi": "राजा रतन सिंह",
+    "D_en": "Raja Bhojraj",
+    "D_hi": "राजा भोजराज",
+    "answer": "B",
+    "explanation_en": "Rana Pratap Singh is revered as a legendary Rajput king known for his valor and resistance against Mughal expansion.",
+    "explanation_hi": "राणा प्रताप सिंह को मुगलों के प्रसार के खिलाफ साहस और प्रतिरोध के लिए महान राजपूत राजा माना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Art",
+    "question_en": "Which of the following is a traditional form of painting from Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान की पारंपरिक चित्रकला के रूप है?",
+    "A_en": "Miniature Painting",
+    "A_hi": "मिनीएचर चित्रकला",
+    "B_en": "Pattachitra",
+    "B_hi": "पटचित्रा",
+    "C_en": "Madhubani",
+    "C_hi": "मधुबनी",
+    "D_en": "Warli",
+    "D_hi": "वारली",
+    "answer": "A",
+    "explanation_en": "Miniature painting is a traditional art form in Rajasthan, often depicting scenes from mythology and royal life.",
+    "explanation_hi": "मिनीएचर चित्रकला राजस्थान में पारंपरिक कला रूप है, जो अक्सर पौराणिक और राजवंशीय जीवन के दृश्यों को चित्रित करती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "What is the famous Rajasthani dish made with lentils and baati?",
+    "question_hi": "'डल और बाती' से बने राजस्थानी पकवान का नाम क्या है?",
+    "A_en": "Dal Bati Churma",
+    "A_hi": "डल बाती चुरमा",
+    "B_en": "Poha",
+    "B_hi": "पोहा",
+    "C_en": "Pani Puri",
+    "C_hi": "पानी पूरी",
+    "D_en": "Chole Bhature",
+    "D_hi": "चोले भटूरे",
+    "answer": "A",
+    "explanation_en": "Dal Bati Churma is a traditional Rajasthani dish consisting of baked wheat balls (bati), lentils (dal), and sweet crumbles (churma).",
+    "explanation_hi": "डल बाती चुरमा राजस्थानी परंपरागत पकवान है, जिसमें बेक किए गए गेहूं के बैगल (बाती), दाल (डल) और मीठे टुकड़े (चुरमा) शामिल हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Headgear",
+    "question_en": "Which traditional headgear is commonly worn by Rajasthani men?",
+    "question_hi": "राजस्थानी पुरुषों द्वारा सामान्य रूप से पहने जाने वाला पारंपरिक शीर्ष साजोसज का नाम क्या है?",
+    "A_en": "Pagri",
+    "A_hi": "पगड़ी",
+    "B_en": "Topi",
+    "B_hi": "टोपी",
+    "C_en": "Turban",
+    "C_hi": "गुच्छा",
+    "D_en": "Safa",
+    "D_hi": "सफा",
+    "answer": "A",
+    "explanation_en": "Pagri (long scarf) is a traditional headgear worn by Rajasthani men, symbolizing cultural identity and respect.",
+    "explanation_hi": "पगड़ी (लंबी स्कार्फ) राजस्थानी पुरुषों द्वारा पहने जाने वाला पारंपरिक शीर्ष साज़ोसज है जो सांस्कृतिक पहचान और सम्मान का प्रतीक है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Songs",
+    "question_en": "Which of the following folk songs is associated with the Malwa region of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन सा लोक गीत राजस्थान के मालवा क्षेत्र से संबंधित है?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कालबेलिया",
+    "B_en": "Malwa Kali",
+    "B_hi": "मालवा काली",
+    "C_en": "Ghoomar",
+    "C_hi": "घूमर",
+    "D_en": "Bhakti Geet",
+    "D_hi": "भक्ति गीत",
+    "answer": "B",
+    "explanation_en": "Malwa Kali is a traditional folk song from the Malwa region of Rajasthan, often performed during local festivals.",
+    "explanation_hi": "मालवा काली राजस्थान के मालवा क्षेत्र क
