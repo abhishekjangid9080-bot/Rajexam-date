@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let me start by brainstorming key areas within Rajasthan Culture. Major topics would include festivals, folk dances, traditional attire, famous monuments, languages, and cultural practices.
+
+First question: Maybe about famous folk dances. Rajasthan has several like Ghoomar, Kalbeliya, Chari, and Kathputli. I'll make a question asking which is the most famous. Options could be these four. Answer is Ghoomar.
+
+Second question: Traditional attire. For men, Angarkha is traditional. Options can include other garments like Sari, Lungi, Dhoti. Answer is Angarkha.
+
+Third question: State animal. Rajasthan's state animal is Chinkara. Options: Blackbuck, Chinkara, Nilgai, Blue Bull. Answer: Chinkara.
+
+Fourth question: Folk music instruments. Sitar is from elsewhere. Options: Sitar, Sarangi, Mandolin, Ghungroo. Answer: Sarangi.
+
+Fifth question: State bird. Peacock is common, but Rajasthan's is the same. Options include others like Crow, Parrot, Nightingale. Answer: Peacock.
+
+Sixth question: Famous festival. Gangaur is a major festival in Rajasthan. Options: Holi, Durga Puja, Bihu, Gangaur. Answer: Gangaur.
+
+Seventh question: Traditional dance by women. Ghoomar is performed by women. Options: Chari, Kalbeliya, Kathputli, Ghoomar. Answer: Ghoomar.
+
+Eighth question: State flower. Lotus is common, but Rajasthan's is the same. Options: Lotus, Rose, Jasmine, Marigold. Answer: Lotus.
+
+Ninth question: Traditional attire for women. Ghagra is a long skirt. Options: Sari, Ghagra, Lehenga, Churidar. Answer: Ghagra.
+
+Tenth question: Traditional puppetry. Kathputli is the famous puppet dance. Options: Kathputli, Puppets, Marionettes, Shadow puppetry. Answer: Kathputli.
+
+Now, I need to structure each question with Hindi and English options, explanations in both languages. Ensure difficulty is appropriate for the exams mentioned. Check for accuracy in facts. For example, confirm that Chinkara is indeed the state animal and Gangaur is a correct festival. Also, verify the traditional attire terms. Once all questions are drafted, format them into the required JSON structure without any extra text.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dances",
+    "question_en": "Which of the following is a traditional folk dance of Rajasthan performed by women?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान का परंपरागत लोक नृत्य है जो स्त्रियों द्वारा प्रस्तुत किया जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Chari", "C_hi": "चारी",
+    "D_en": "Kathputli", "D_hi": "कथपुतली",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional dance of Rajasthan performed by women, known for its graceful movements and colorful attire.",
+    "explanation_hi": "घूमर राजस्थान का एक परंपरागत नृत्य है जो स्त्रियों द्वारा प्रस्तुत किया जाता है, जिसमें सुंदर आंदोलन और रंगीन पोशाक के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional men's attire in Rajasthan?",
+    "question_hi": "राजस्थान में पुरुषों का परंपरागत पोशाक क्या है?",
+    "A_en": "Dhoti", "A_hi": "डोती",
+    "B_en": "Sari", "B_hi": "साड़ी",
+    "C_en": "Angarkha", "C_hi": "अंगरक्खा",
+    "D_en": "Lungi", "D_hi": "लंगी",
+    "answer": "C",
+    "explanation_en": "Angarkha is a traditional men's garment in Rajasthan, often adorned with intricate embroidery.",
+    "explanation_hi": "अंगरक्खा राजस्थान में पुरुषों के परंपरागत पोशाक है, जो अक्सर जटिल शिल्प के साथ सजाए जाते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which of the following is a prominent festival celebrated in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान में मनाए जाने वाला प्रमुख त्योहार है?",
+    "A_en": "Holi", "A_hi": "होली",
+    "B_en": "Gangaur", "B_hi": "गंगौर",
+    "C_en": "Diwali", "C_hi": "दिवाली",
+    "D_en": "Eid", "D_hi": "ईद",
+    "answer": "B",
+    "explanation_en": "Gangaur is a significant festival in Rajasthan dedicated to the goddess Gauri, celebrated with great enthusiasm.",
+    "explanation_hi": "गंगौर राजस्थान में मां गौरी के समर्पित एक महत्वपूर्ण त्योहार है, जिसे बड़ी उत्साह के साथ मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which of the following is a traditional musical instrument used in Rajasthani folk music?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थानी लोक संगीत में उपयोग किया जाने वाला परंपरागत संगीत यंत्र है?",
+    "A_en": "Sarangi", "A_hi": "सरंगी",
+    "B_en": "Sitar", "B_hi": "सीतार",
+    "C_en": "Shehnai", "C_hi": "शहनाई",
+    "D_en": "Tabla", "D_hi": "तबला",
+    "answer": "A",
+    "explanation_en": "Sarangi is a traditional Rajasthani instrument used to play both classical and folk music.",
+    "explanation_hi": "सरंगी राजस्थानी के परंपरागत संगीत यंत्र है जिसका उपयोग शास्त्रीय और लोक संगीत दोनों में किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "Which of the following is a famous Rajasthani dish made from millet flour?",
+    "question_hi": "निम्नलिखित में से कौन एक राजस्थानी व्यंजन है जो ज्वार या बाजरा के आटे से बनाया जाता है?",
+    "A_en": "Dal Baati Churma", "A_hi": "दाल बाटी चूरमा",
+    "B_en": "Gatte ki Sabzi", "B_hi": "गट्टे की सब्जी",
+    "C_en": "Pyaaz Kachori", "C_hi": "प्याज कचौरी",
+    "D_en": "Methi Thepla", "D_hi": "मेथी थेपला",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a staple dish in Rajasthani cuisine, made with millet-based baati and spicy lentil dal.",
+    "explanation_hi": "दाल बाटी चूरमा राजस्थानी खाने का एक मुख्य व्यंजन है, जिसमें ज्वार या बाजरा के बाटी और मसालेदार दाल होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Art Forms",
+    "question_en": "Which of the following is a traditional Rajasthani art form involving intricate mirror work?",
+    "question_hi": "निम्नलिखित में से कौन एक परंपरागत राजस्थानी कला रूप है जिसमें जटिल दर्पण कारीगरी शामिल है?",
+    "A_en": "Miniature Painting", "A_hi": "छोटी पेंटिंग",
+    "B_en": "Kadwa Embroidery", "B_hi": "कद्दवा शिल्प",
+    "C_en": "Blue Pottery", "C_hi": "ब्लू पोटरी",
+    "D_en": "Mirror Work", "D_hi": "दर्पण कारीगरी",
+    "answer": "D",
+    "explanation_en": "Mirror work (Shisha) is a traditional Rajasthani craft where small mirrors are embedded into fabrics or leather.",
+    "explanation_hi": "दर्पण कारीगरी (शिशा) एक परंपरागत राजस्थानी कला है जिसमें छोटे दर्पणों को कपड़े या चमड़े में डाला जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Languages",
+    "question_en": "Which of the following is the official language of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान की आधिकारिक भाषा है?",
+    "A_en": "Hindi", "A_hi": "हिंदी",
+    "B_en": "Marwari", "B_hi": "मारवाड़ी",
+    "C_en": "Gujarati", "C_hi": "गुजराती",
+    "D_en": "Punjabi", "D_hi": "पंजाबी",
+    "answer": "A",
+    "explanation_en": "Hindi is the official language of Rajasthan, though Marwari is widely spoken in rural areas.",
+    "explanation_hi": "हिंदी राजस्थान की आधिकारिक भाषा है, हालांकि मारवाड़ी ग्रामीण क्षेत्रों में बोली जाती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which of the following is a famous fort located in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन एक प्रसिद्ध राजस्थानी किला है?",
+    "A_en": "Red Fort", "A_hi": "लाल किला",
+    "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ किला",
+    "C_en": "Agra Fort", "C_hi": "आगरा किला",
+    "D_en": "Gwalior Fort", "D_hi": "ग्वालियर किला",
+    "answer": "B",
+    "explanation_en": "Chittorgarh Fort is one of the largest forts in Rajasthan, symbolizing the region's rich heritage.",
+    "explanation_hi": "चित्तौड़गढ़ किला राजस्थान में सबसे बड़ा किला है, जो इलाके की धनी विरासत का प्रतीक है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Tales",
+    "question_en": "Which of the following is a traditional Rajasthani folk tale collection?",
+    "question_hi": "निम्नलिखित में से कौन एक परंपरागत राजस्थानी लोक कथा संग्रह है?",
+    "A_en": "Panchatantra", "A_hi": "पंचतंत्र",
+    "B_en": "Rajasthani Akhyan", "B_hi": "राजस्थानी अख्यान",
+    "C_en": "Thakurmar Jhuli", "C_hi": "ठाकुरमा की झूली",
+    "D_en": "Shakuntala", "D_hi": "शकुंतला",
+    "answer": "B",
+    "explanation_en": "Rajasthani Akhyan is a collection of folk tales that highlight the cultural and moral values of Rajasthan.",
+    "explanation_hi": "राजस्थानी अख्यान राजस्थान के सांस्कृतिक और नैतिक मूल्यों को दर्शाने वाले लोक कथाओं का एक संग्रह है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Dance Forms",
+    "question_en": "Which of the following dances is performed during the monsoon season in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन सा नृत्य राजस्थान में बरसात के मौसम में प्रस्तुत किया जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Chakri", "B_hi": "चाकरी",
+    "C_en": "Ghoomar", "C_hi": "घूमर",
+    "D_en": "Kathak", "D_hi": "कथक",
+    "answer": "B",
+    "explanation_en": "Chakri is a folk dance performed during the rainy season, symbolizing the joy of farmers after the first monsoon showers.",
+    "explanation_hi": "चाकरी एक लोक नृत्य है जो बारिश के मौसम में प्रस्तुत किया जाता है, जो पहली बारिश के बाद किसानों के आनंद की ओर इशारा करता है।"
+  }
+]
