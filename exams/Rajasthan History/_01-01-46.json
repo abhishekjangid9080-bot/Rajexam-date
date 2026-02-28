@@ -1,0 +1,178 @@
+<think>
+Okay, let's start. The user wants 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, with explanations in both languages. The structure is JSON, and I have to make sure the difficulty level is appropriate for Rajasthan History topics.
+
+First, I need to identify key topics in Rajasthan History. Maybe start with ancient history. The Maurya and Gupta periods are important. Then medieval periods, like the Rajput kingdoms. The Mughal influence in Rajasthan is another area. The Marathas and British colonial period could be covered too. Also, important rulers like Raja Man Singh, Maharana Pratap, and their contributions.
+
+Let me think of the first question. What is a significant event in ancient Rajasthan history? The Maurya Empire included parts of Rajasthan. So a question about the Maurya ruler who ruled this area. Chandragupta Maurya might be the answer. But wait, Ashoka's rule was around the same time. Need to verify.
+
+Another topic: The establishment of the Rajput kingdoms. Who was the founder of the Guhilot dynasty? Ranasangha? Or maybe another name. Wait, the Guhilot dynasty was founded by Guhil, and their famous ruler was Rana Sanga. But the founder might be Guhil. Need to confirm.
+
+The Pratihara Empire was prominent in Rajasthan. Which ruler was known as Vatapajit? Maybe Bhoja Pratihara? I think Bhoja was a famous ruler of the Pratihara dynasty. He might have been called Vatapajit.
+
+Maharana Pratap is a key figure. His death in the Battle of Haldighati. Wait, he died in 1597. The battle was in 1576, but he died later. The question could be about the battle's outcome. The Mughal general was Man Singh Tomar.
+
+The Battle of Khanwa was between Babur and Rana Sanga in 1527. That's a good point for a question.
+
+The Kachwaha ruler who established Amber was Raja Man Singh. He was a Mughal general and founded the Amber state.
+
+The Sisodiya dynasty's capital was Chittorgarh. So a question about their capital city.
+
+For the medieval period, the Rajput rulers' alliances with Mughals. Akbar's alliance with Raja Man Singh. Raja Man Singh was a key Mughal general and a Kachwaha ruler.
+
+The Marathas in Rajasthan. The founder of the Maratha kingdom in Rajasthan was Peshwa Bajirao I? No, maybe it's a different figure. Wait, the Marathas expanded into Rajasthan in the 18th century. The question could be about their expansion.
+
+The British annexation of Rajasthan. The Doctrine of Lapse was used to take over princely states, like Gwalior and Jhansi. But Rajasthan's states were annexed through different means.
+
+Now, making sure each question has four options with correct answers. Need to avoid common mistakes. For example, the Guhilot dynasty's founder might be confused with Rana Sanga. So the options should include both names but the correct answer is Guhil.
+
+Also, check the explanations for accuracy. For example, the Pratihara ruler Bhoja Pratihara as Vatapajit needs a correct explanation.
+
+Each question must be in both languages. The English and Hindi versions should match in meaning. The explanations should clarify why the answer is correct.
+
+Finally, structure the JSON correctly. Each object has subject, topic, question in both languages, options, answer, and explanations. The topic is left empty as per the example. Difficulty level should be moderate since it's for Rajasthan exams.
+
+Let me go through each question step by step to ensure accuracy and correct formatting.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which ruler of the Pratihara Empire was famously known as 'Vatapajit'?",
+        "question_hi": "प्रतिहार राजवंश के किस शासक को 'वटापाजित' के रूप में प्रसिद्धि मिली थी?",
+        "A_en": "Bhoja Pratihara",
+        "A_hi": "भोज प्रतिहार",
+        "B_en": "Mihir Bhoja",
+        "B_hi": "मिहिर भोज",
+        "C_en": "Mahipala I",
+        "C_hi": "महीपाल I",
+        "D_en": "Vatsa Pratihara",
+        "D_hi": "वत्सा प्रतिहार",
+        "answer": "A",
+        "explanation_en": "Bhoja Pratihara, a prominent ruler of the Pratihara Empire, was known as 'Vatapajit' due to his victory over the Rashtrakutas.",
+        "explanation_hi": "भोज प्रतिहार, प्रतिहार साम्राज्य के प्रमुख शासक थे, जिन्हें 'वटापाजित' के रूप में जाना जाता था क्योंकि उन्होंने राष्ट्रकूटों पर विजय प्राप्त की।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which Rajput king defeated Akbar in the Battle of Haldighati?",
+        "question_hi": "हल्दीघाटी के युद्ध में अकबर को हराने वाला राजपूत राजा कौन था?",
+        "A_en": "Rana Sanga",
+        "A_hi": "राणा सांगा",
+        "B_en": "Maharana Pratap",
+        "B_hi": "महाराणा प्रताप",
+        "C_en": "Raja Man Singh",
+        "C_hi": "राजा मान सिंह",
+        "D_en": "Udai Singh II",
+        "D_hi": "उदय सिंह द्वितीय",
+        "answer": "B",
+        "explanation_en": "Maharana Pratap valiantly fought the Battle of Haldighati against the Mughal forces led by Man Singh Tomar, though it was a tactical draw but symbolized Rajput resistance.",
+        "explanation_hi": "महाराणा प्रताप ने मन सिंह तोमर के नेतृत्व में मुगलों के खिलाफ हल्दीघाटी के युद्ध में वीरता से लड़ा, हालांकि यह एक रणनीतिक ड्रॉ था लेकिन राजपूत प्रतिरोध का प्रतीक था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Who established the Amber kingdom in Rajasthan?",
+        "question_hi": "राजस्थान में अम्बर राज्य की स्थापना किसने की थी?",
+        "A_en": "Raja Raja Todar Mal",
+        "A_hi": "राजा राजा तोड़र मल",
+        "B_en": "Raja Man Singh",
+        "B_hi": "राजा मान सिंह",
+        "C_en": "Raja Bhim Singh",
+        "C_hi": "राजा भीम सिंह",
+        "D_en": "Raja Jai Singh",
+        "D_hi": "राजा जय सिंह",
+        "answer": "B",
+        "explanation_en": "Raja Man Singh, a Kachwaha ruler, founded the Amber kingdom in the 16th century as a Mughal vassal state.",
+        "explanation_hi": "राजा मान सिंह, एक कच्छवाह शासक, ने 16वीं शताब्दी में मुगल उप-राज्य रूप में अम्बर राज्य की स्थापना की।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which of the following dynasties ruled over Chittorgarh Fort for the longest period?",
+        "question_hi": "निम्नलिखित में से किस राजवंश ने चित्तौड़गढ़ किले के शासन के लिए सबसे लंबा समय बिताया?",
+        "A_en": "Chauhan",
+        "A_hi": "चौहान",
+        "B_en": "Sisodia",
+        "B_hi": "सिसोदिया",
+        "C_en": "Parmar",
+        "C_hi": "परमार",
+        "D_en": "Sangha",
+        "D_hi": "सांगा",
+        "answer": "B",
+        "explanation_en": "The Sisodia dynasty ruled Chittorgarh Fort for centuries, making it a symbol of Rajput valor and resistance.",
+        "explanation_hi": "सिसोदिया राजवंश ने शताब्दियों तक चित्तौड़गढ़ किला शासित किया, जिसे राजपूत शौर्य और प्रतिरोध का प्रतीक माना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which Mughal emperor was defeated by Maharana Pratap in the Battle of Haldighati?",
+        "question_hi": "महाराणा प्रताप ने हल्दीघाटी के युद्ध में किस मुगल सम्राट को हराया था?",
+        "A_en": "Akbar",
+        "A_hi": "अकबर",
+        "B_en": "Jahangir",
+        "B_hi": "जहांगीर",
+        "C_en": "Shah Jahan",
+        "C_hi": "शाहजहां",
+        "D_en": "Aurangzeb",
+        "D_hi": "औरंगजेब",
+        "answer": "A",
+        "explanation_en": "Maharana Pratap's resistance culminated in the inconclusive Battle of Haldighati against Akbar's forces in 1576.",
+        "explanation_hi": "महाराणा प्रताप का प्रतिरोध 1576 में अकबर के सैनिकों के खिलाफ हल्दीघाटी के युद्ध में आयोजित हुआ।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which of the following rulers was known as 'Raja Rawal' of Mewar?",
+        "question_hi": "निम्नलिखित में से किस शासक को मेवाड़ के 'राजा रावल' के रूप में जाना जाता था?",
+        "A_en": "Rana Pratap Singh",
+        "A_hi": "राणा प्रताप सिंह",
+        "B_en": "Rana Sanga",
+        "B_hi": "राणा सांगा",
+        "C_en": "Rana Kumbha",
+        "C_hi": "राणा कुंभा",
+        "D_en": "Rana Amar Singh",
+        "D_hi": "राणा अमर सिंह",
+        "answer": "C",
+        "explanation_en": "Rana Kumbha of Mewar was famously known as 'Raja Rawal' and expanded the kingdom's territorial reach.",
+        "explanation_hi": "मेवाड़ के राणा कुंभा को 'राजा रावल' के रूप में जाना जाता था और उन्होंने राज्य की क्षेत्रीय विस्तार किया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which Rajput ruler was a contemporary of Shah Jahan?",
+        "question_hi": "शाहजहां के समकालीन राजपूत शासक कौन था?",
+        "A_en": "Raja Jai Singh of Amber",
+        "A_hi": "अम्बर के राजा जय सिंह",
+        "B_en": "Raja Man Singh of Amber",
+        "B_hi": "अम्बर के राजा मान सिंह",
+        "C_en": "Raja Raj Singh of Mewar",
+        "C_hi": "मेवाड़ के राजा राज सिंह",
+        "D_en": "Raja Jaswant Singh of Marwar",
+        "D_hi": "मारवाड़ के राजा जसवंत सिंह",
+        "answer": "D",
+        "explanation_en": "Raja Jaswant Singh of Marwar was a prominent Rajput ruler during Shah Jahan's reign, known for his loyalty and diplomatic alliances.",
+        "explanation_hi": "मारवाड़ के राजा जसवंत सिंह शाहजहां के शासनकाल में प्रमुख राजपूत शासक थे, जिन्हें उनकी निष्ठा और राजनीतिक संधियों के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Who led the Mughal forces against Maharana Pratap in the Battle of Haldighati?",
+        "question_hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप के खिलाफ मुगल सैनिकों का नेतृत्व किसने किया था?",
+        "A_en": "Man Singh Tomar",
+        "A_hi": "मन सिंह तोमर",
+        "B_en": "Raja Todar Mal",
+        "B_hi": "राजा तोड़र मल",
+        "C_en": "Raja Bhagwant Das",
+        "C_hi": "राजा भगवानता दास",
+        "D_en": "Raja Jai Singh",
+        "D_hi": "राजा जय सिंह",
+        "answer": "A",
+        "explanation_en": "Man Singh Tomar, a Kachwaha Rajput, led the Mughal forces against Maharana Pratap in the Battle of Haldighati.",
+        "explanation_hi": "राजा मन सिंह तोमर, एक कच्छवाह राजपूत, ने हल्दीघाटी के युद्ध में महाराणा प्रताप के खिलाफ मुगल सैनिकों का नेतृत्व किया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "",
+        "question_en": "Which of the following forts was NOT built by Raja Man Singh of Amber?",
+        "question_hi": "निम्नलिखित में से कौन-सा किला अम्बर के राजा म
