@@ -1,0 +1,152 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality MCQs on Rajasthan History for various exams like LDC, CET, RAS, SSC, and Railway. The instructions mention that each question and options should be in both Hindi and English, following the Testbook style. The JSON structure has specific fields that need to be filled out.
+
+First, I need to decide on the topics within Rajasthan History. Since the topic is not specified, I should cover a range of important areas such as ancient kingdoms, notable rulers, historical events, cultural aspects, and significant monuments. Each question should be concise and test knowledge that is commonly expected in these exams.
+
+For each question, I need to ensure the English and Hindi versions are accurate. The answers must be correct, and explanations should clearly justify why the answer is right. I'll also need to make sure the difficulty level is appropriate for the exams mentioned—probably medium to hard, as Rajasthan History can be a competitive area.
+
+Let me start brainstorming questions. The first one could be about the founder of Jaipur. Then, maybe the capital of a medieval kingdom like Mewar. Another question could be about a historical figure associated with Rajasthan, such as Maharana Pratap. I should include some about important events, like the Battle of Khanwa. Including a question on a famous monument like Chittorgarh Fort would be good. Maybe a question on the establishment of a state like Sirohi. Also, some questions on administrative structures or historical unions, like the merging of princely states into India.
+
+I need to check for any possible errors in the facts. For example, ensuring that the correct rulers are associated with the correct regions. Also, verifying the exact dates or events, such as the construction of Nahargarh Fort. Each question must have four options with the correct answer marked. The explanations should be brief but informative enough to clarify the reasoning.
+
+Now, structuring each entry in the JSON format as per the example provided. Making sure that all fields are filled, including subject, topic (which is empty here, but maybe the user wants it left as is?), question in both languages, answer options in both languages, the correct answer, and explanations in both languages.
+
+Wait, the topic is empty in the example. The user might want to leave it blank, or maybe specify a particular sub-topic. Since the original topic is empty, I'll leave it as an empty string in each question. The user might be okay with that, given the example.
+
+I should also ensure that the JSON is valid. Using quotes, commas correctly, and avoiding any syntax errors. Testing the JSON structure to make sure it's correct. Maybe using a JSON validator tool if needed.
+
+Now, let me start drafting each question one by one, making sure they are diverse in content and cover different aspects of Rajasthan's history. After drafting, I'll cross-verify the facts to ensure accuracy. Finally, compile them into the required JSON format without any markdown or extra text.
+</think>
+
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the founder of the city of Jaipur?",
+"question_hi": "शहर जयपुर के स्थापक कौन थे?",
+"A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+"B_en": "Raja Man Singh I", "B_hi": "राजा मान सिंह प्रथम",
+"C_en": "Raja Bhoj Singh", "C_hi": "राजा भोज सिंह",
+"D_en": "Raja Jai Singh I", "D_hi": "राजा जय सिंह प्रथम",
+"answer": "A",
+"explanation_en": "Sawai Jai Singh II founded Jaipur in 1727 as the first planned city of Rajasthan.",
+"explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना की, जो राजस्थान का पहला नियोजित शहर था।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ruler of Mewar is famous for the Battle of Haldighati?",
+"question_hi": "हल्दीघाटी के युद्ध के लिए मेवाड़ के किस शासक का नाम जुड़ा हुआ है?",
+"A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+"B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+"C_en": "Rana Kumbha", "C_hi": "राणा कुंभा",
+"D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+"answer": "A",
+"explanation_en": "Maharana Pratap is renowned for his resistance against the Mughal Empire, particularly in the Battle of Haldighati in 1576.",
+"explanation_hi": "महाराणा प्रताप मुगल साम्राज्य के खिलाफ विरोध में जाने जाते हैं, खासकर 1576 में हल्दीघाटी के युद्ध में।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "In which year was Rajasthan formed as a state in India?",
+"question_hi": "राजस्थान को भारत में एक राज्य के रूप में कब बनाया गया था?",
+"A_en": "1947", "A_hi": "1947",
+"B_en": "1949", "B_hi": "1949",
+"C_en": "1950", "C_hi": "1950",
+"D_en": "1956", "D_hi": "1956",
+"answer": "D",
+"explanation_en": "Rajasthan was formed on 15th May 1956 by merging several princely states.",
+"explanation_hi": "राजस्थान को 15 मई 1956 को कई रियासतों को मर्ज करके बनाया गया था।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is the oldest fort in Rajasthan?",
+"question_hi": "निम्नलिखित में से राजस्थान का सबसे पुराना किला कौन सा है?",
+"A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+"B_en": "Amber Fort", "B_hi": "अंबर किला",
+"C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+"D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+"answer": "C",
+"explanation_en": "Jaisalmer Fort, built in 1156 CE, is the oldest surviving fort in Rajasthan.",
+"explanation_hi": "जैसलमेर किला, जो 1156 ईस्वी में बनाया गया था, राजस्थान में जीवित सबसे पुराना किला है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ruler of Rajasthan was known as 'Raja Raja'?",
+"question_hi": "राजस्थान के किस शासक को 'राजाराजा' के रूप में जाना जाता था?",
+"A_en": "Raja Man Singh I", "A_hi": "राजा मान सिंह प्रथम",
+"B_en": "Raja Sawai Jai Singh II", "B_hi": "राजा सवाई जय सिंह द्वितीय",
+"C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+"D_en": "Raja Bhoj Singh", "D_hi": "राजा भोज सिंह",
+"answer": "A",
+"explanation_en": "Raja Man Singh I was honored with the title 'Raja Raja' by Emperor Akbar for his bravery.",
+"explanation_hi": "राजा मान सिंह प्रथम को उनकी धैर्य से अकबर ने 'राजाराजा' की उपाधि दी थी।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ruler of Marwar is associated with the 'Panna Vijay' legend?",
+"question_hi": "'पन्ना विजय' के कहानी से मारवाड़ के किस शासक का नाम जुड़ा हुआ है?",
+"A_en": "Rao Chandra Singh", "A_hi": "राव चन्द्र सिंह",
+"B_en": "Rao Jodha", "B_hi": "राव जोधा",
+"C_en": "Rao Maldeo", "C_hi": "राव मल्ला",
+"D_en": "Rao Siyaji", "D_hi": "राव सियाजी",
+"answer": "A",
+"explanation_en": "Rao Chandra Singh of Marwar is celebrated in the legend of 'Panna Vijay', which is part of Rajasthani folklore.",
+"explanation_hi": "मारवाड़ के राव चन्द्र सिंह के बारे में 'पन्ना विजय' का कहानी राजस्थानी लोककथा का हिस्सा है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is a significant historical site in Sirohi district?",
+"question_hi": "निम्नलिखित में से सिरोही जिला में कौन सा ऐतिहासिक स्थल महत्वपूर्ण है?",
+"A_en": "Jaswant Thada", "A_hi": "जसवंत थड़ा",
+"B_en": "Ranakpur Temple", "B_hi": "राणाकपुर मंदिर",
+"C_en": "Sirohi Fort", "C_hi": "सिरोही किला",
+"D_en": "Dilwara Temples", "D_hi": "दिलवाड़ा मंदिर",
+"answer": "C",
+"explanation_en": "Sirohi Fort, built in the 15th century, is a notable historical site in the district.",
+"explanation_hi": "15वीं शताब्दी में बने सिरोही किला क्षेत्र का एक प्रमुख ऐतिहासिक स्थल है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ruler of Mewar defeated the Mughal forces at the Battle of Khanwa in 1527?",
+"question_hi": "1527 में खानवा के युद्ध में मेवाड़ के किस शासक ने मुगल सेना को पराजित किया था?",
+"A_en": "Rana Sanga", "A_hi": "राणा सांगा",
+"B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+"C_en": "Rana Kumbha", "C_hi": "राणा कुंभा",
+"D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+"answer": "A",
+"explanation_en": "Rana Sanga of Mewar defeated Babur's forces at the Battle of Khanwa in 1527.",
+"explanation_hi": "राणा सांगा ने 1527 में खानवा के युद्ध में बाबर की सेना को पराजित किया था।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which fort is known as the 'Gibraltar of Rajasthan'?",
+"question_hi": "'राजस्थान का जिब्राल्टर' के रूप में किस किला के लिए जाना जाता है?",
+"A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुंभलगढ़ किला",
+"C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+"D_en": "Amber Fort", "D_hi": "अंबर किला",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort is called the 'Gibraltar of Rajasthan' due to its massive walls and strategic location.",
+"explanation_hi": "कुंभलगढ़ किला अपनी भारी दीवारों और रणनीतिक स्थिति के कारण 'राजस्थान का जिब्राल्टर' के रूप में जाना जाता है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first ruler of the Jaipur state to adopt the title 'Sawai'?",
+"question_hi": "जयपुर राज्य के पहले शासक कौन थे जिसने 'सवाई' की उपाधि अपनाई?",
+"A_en": "Jai Singh I", "A_hi": "जय सिंह प्रथम",
+"B_en": "Sawai Jai Singh II", "B_hi": "सवाई जय सिंह द्वितीय",
+"C_en": "Sawai Singh", "C_hi": "सवाई सिंह",
+"D_en": "Sawai Man Singh", "D_hi": "सवाई मान सिंह",
+"answer": "A",
+"explanation_en": "Jai Singh I was the first ruler of Jaipur to use the title 'Sawai', signifying his sovereignty.",
+"explanation_hi": "जय सिंह प्रथम जयपुर के पहले शासक थे जिन्होंने 'सवाई' की उपाधि अपनाई, जो उनकी स्वायत्तता को दर्शाती है।"
+}
+]
