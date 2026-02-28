@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Indian Economy",
+"question_en": "What is MGNREGS? What is its significance?",
+"question_hi": "MGNREGS ka matlab kya hai aur iske parichay kaise pahuncha sakte hai?",
+"A_en": "Ministry of Social Justice and Empowerment",
+"A_hi": "मैंग एनएरियाई और संविधान और आधारित मैंग",
+"B_en": "National Rural Employment Guarantee Scheme",
+"B_hi": "राज्यों के लिए नेतृत्व और मानना",
+"C_en": "Urban Development",
+"C_hi": "श्रमी",
+"D_en": "Ministry of Textiles",
+"D_hi": "टेक्सी",
+"answer": "B",
+"explanation_en": "MGNREGS stands for National Rural Employment Guarantee Scheme. It is a flagship scheme of the Indian government aimed at providing minimum 100 days of employment to rural households in unemployed rural areas. The scheme was launched in 2005 and has had a significant impact on reducing rural poverty and stimulating economic growth.\n\nराज्यों के लिए नेतृत्व और मानना",
+"explanation_hi": "MGNREGS इस भारतीय राज्यों के लिए नेतृत्व और मानना",
+"explanation_en": "MGNREGS stands for National Rural Employment Guarantee Scheme. It is a flagship scheme of the Indian government aimed at providing minimum 100 days of employment to rural households in unemployed rural areas. The scheme was launched in 2005 and has had a significant impact on reducing rural poverty and stimulating economic growth."
+}
