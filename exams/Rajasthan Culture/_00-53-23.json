@@ -1,0 +1,144 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on Rajasthan Culture for various exams. First, I need to cover different aspects of Rajasthan's culture. Let me think about the key areas: folk music, dance, festivals, famous artists, traditional attire, handicrafts, historical figures in culture, etc.
+
+Starting with folk music, Rajasthan has several traditional instruments. The question can be about which instrument is associated with a specific region. Next, dance forms like Ghoomar are important. I should include a question about which district is known for Ghoomar. Then, festivals like Gangaur are significant for women, so a question on that. 
+
+Famous artists like Kishan Singh, a Rajasthani painter, should be covered. Traditional attire for men and women, such as Bandhani and Ghagra, are good topics. Handicrafts like blue pottery and jari work are unique to Rajasthan. 
+
+I need to ensure the questions are in both Hindi and English, with explanations in both languages. Let me check the difficulty level to match Rajasthan exams. Each question must have four options, and the answer should be accurate. Also, verify the explanations to provide clear reasoning. 
+
+Wait, for the question on the folk song "Kajari," I need to confirm which community it's associated with. Similarly, for the traditional dress of Bhil tribe, it's important to specify the correct option. Let me cross-validate each fact to avoid errors. Ensure that all options are plausible and the correct answer is clearly the right one. Once all 10 questions are framed, structure them in the required JSON format without any markdown.
+</think>
+
+[
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Folk Music",
+  "question_en": "Which traditional musical instrument is commonly used in Rajasthani folk music?",
+  "question_hi": "राजस्थानी लोक गानों में आमतौर पर कौन सा वाद्य यंत्र उपयोग में लाया जाता है?",
+  "A_en": "Sitar", "A_hi": "सितार",
+  "B_en": "Ghoomar", "B_hi": "घूमर",
+  "C_en": "Dholak", "C_hi": "ढोलक",
+  "D_en": "Flute", "D_hi": "बोली",
+  "answer": "C",
+  "explanation_en": "Dholak is a traditional percussion instrument used in Rajasthani folk music to provide rhythm.",
+  "explanation_hi": "ढोलक राजस्थानी लोक संगीत में ताल देने के लिए प्रयोग किया जाने वाला एक परंपरागत ताल वाद्य यंत्र है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Folk Dance",
+  "question_en": "Which Rajasthani folk dance is performed by women to celebrate the harvest season?",
+  "question_hi": "कौन सा राजस्थानी लोक नृत्य महिलाएं फसल के त्योहार के जश्न में प्रस्तुत करती हैं?",
+  "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+  "B_en": "Ghoomar", "B_hi": "घूमर",
+  "C_en": "Chhatri", "C_hi": "छत्री",
+  "D_en": "Bhawai", "D_hi": "भवैया",
+  "answer": "B",
+  "explanation_en": "Ghoomar is a traditional Rajasthani folk dance performed by women during harvest festivals.",
+  "explanation_hi": "घूमर एक परंपरागत राजस्थानी लोक नृत्य है जो महिलाएं फसल के त्योहार में प्रस्तुत करती हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Festivals",
+  "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+  "question_hi": "राजस्थान में देवी गौरी के सम्मान में कौन सा त्योहार मनाया जाता है?",
+  "A_en": "Gangaur", "A_hi": "गंगौर",
+  "B_en": "Teej", "B_hi": "तीज",
+  "C_en": "Diwali", "C_hi": "दिवाली",
+  "D_en": "Holi", "D_hi": "होली",
+  "answer": "A",
+  "explanation_en": "Gangaur is a festival dedicated to the goddess Gauri, celebrated by women in Rajasthan.",
+  "explanation_hi": "गंगौर देवी गौरी के सम्मान में मनाया जाने वाला एक त्योहार है, जिसे राजस्थान में महिलाएं मनाती हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Traditional Art",
+  "question_en": "Which of the following is a traditional painting style of Rajasthan?",
+  "question_hi": "निम्नलिखित में से कौन राजस्थान की एक परंपरागत चित्रकला शैली है?",
+  "A_en": "Madhubani", "A_hi": "मधुबनी",
+  "B_en": "Pattachitra", "B_hi": "पट्टचित्र",
+  "C_en": "Miniature", "C_hi": "माइनर",
+  "D_en": "Warli", "D_hi": "वरली",
+  "answer": "C",
+  "explanation_en": "Miniature painting is a traditional art form of Rajasthan, known for intricate detailing and vibrant colors.",
+  "explanation_hi": "माइनर चित्रकला राजस्थान की एक परंपरागत कला रूप है, जिसे जटिल विस्तार और जीवंत रंगों के लिए जाना जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Folk Music",
+  "question_en": "Which Rajasthani folk song is associated with the monsoon season?",
+  "question_hi": "कौन सा राजस्थानी लोक गीत मानसून ऋतु से जुड़ा हुआ है?",
+  "A_en": "Kajari", "A_hi": "काजरी",
+  "B_en": "Phagari", "B_hi": "फगरी",
+  "C_en": "Jai Jai Santoshi", "C_hi": "जय जय संतोषी",
+  "D_en": "Ghoomar", "D_hi": "घूमर",
+  "answer": "A",
+  "explanation_en": "Kajari is a traditional folk song sung during the rainy season in Rajasthan.",
+  "explanation_hi": "काजरी राजस्थान में वर्षा ऋतु में गाया जाने वाला एक परंपरागत लोक गीत है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Traditional Attire",
+  "question_en": "Which traditional attire is worn by Rajasthani women on special occasions?",
+  "question_hi": "राजस्थानी महिलाएं विशेष अवसरों पर कौन सा परंपरागत पहनावा पहनती हैं?",
+  "A_en": "Chaniya Choli", "A_hi": "चानिया चोली",
+  "B_en": "Sari", "B_hi": "सारी",
+  "C_en": "Bandhani", "C_hi": "बन्धनी",
+  "D_en": "Ghagra", "D_hi": "घगरा",
+  "answer": "A",
+  "explanation_en": "Chaniya Choli is a traditional outfit worn by Rajasthani women during festivals and special ceremonies.",
+  "explanation_hi": "चानिया चोली राजस्थानी महिलाएं त्योहारों और विशेष अवसरों पर पहनती हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Handicrafts",
+  "question_en": "Which of the following is a famous handicraft of Rajasthan?",
+  "question_hi": "निम्नलिखित में से कौन राजस्थान की एक प्रसिद्ध हस्तशिल्प वस्तु है?",
+  "A_en": "Blue Pottery", "A_hi": "ब्लू पोटरी",
+  "B_en": "Wooden Carving", "B_hi": "लकड़ी की चित्रकला",
+  "C_en": "Bamboo Work", "C_hi": "बांस काम",
+  "D_en": "Copper Crafts", "D_hi": "तांबा हस्तशिल्प",
+  "answer": "A",
+  "explanation_en": "Blue Pottery is a renowned handicraft of Rajasthan, known for its vibrant blue glaze and intricate designs.",
+  "explanation_hi": "ब्लू पोटरी राजस्थान की एक प्रसिद्ध हस्तशिल्प वस्तु है, जिसे उज्ज्वल नीले रंग और जटिल डिज़ाइनों के लिए जाना जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Folk Music",
+  "question_en": "Which Rajasthani folk singer is known for the song 'Jai Jai Santoshi'?",
+  "question_hi": "कौन से राजस्थानी लोक गायक ने 'जय जय संतोषी' गीत के लिए प्रसिद्धि प्राप्त की?",
+  "A_en": "Kishan Singh", "A_hi": "किशन सिंह",
+  "B_en": "Ratan Singh", "B_hi": "रतन सिंह",
+  "C_en": "Bhagwan Singh", "C_hi": "भगवान सिंह",
+  "D_en": "Chhote Lal", "D_hi": "छोटे लाल",
+  "answer": "A",
+  "explanation_en": "Kishan Singh, a renowned Rajasthani folk singer, popularized the song 'Jai Jai Santoshi'.",
+  "explanation_hi": "किशन सिंह, एक प्रसिद्ध राजस्थानी लोक गायक, ने 'जय जय संतोषी' गीत को लोकप्रिय बनाया।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Traditional Dances",
+  "question_en": "Which Rajasthani dance form is performed by men to mimic the movements of peacocks?",
+  "question_hi": "राजस्थान के कौन से नृत्य रूप में पुरुष मनमर्जी से मोरों के आंदोलनों के अनुकरण करते हैं?",
+  "A_en": "Chhatri", "A_hi": "छत्री",
+  "B_en": "Bhawai", "B_hi": "भवैया",
+  "C_en": "Kalbeliya", "C_hi": "कलबेलिया",
+  "D_en": "Ghoomar", "D_hi": "घूमर",
+  "answer": "C",
+  "explanation_en": "Kalbeliya is a traditional dance performed by men to imitate the movements of peacocks.",
+  "explanation_hi": "कलबेलिया एक परंपरागत नृत्य है, जिसमें पुरुष मोरों के आंदोलनों के अनुकरण करते हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Rajasthan Cultural Symbols",
+  "question_en": "Which of the following is a symbol of Rajasthani culture and is often depicted in Rajasthani art?",
+  "question_hi": "निम्नलिखित में से कौन राजस्थानी संस्कृति का एक प्रतीक है और अक्सर राजस्थानी कला में चित्रित किया जाता है?",
+  "A_en": "Camel", "A_hi": "ऊँट",
+  "B_en": "Elephant", "B_hi": "हाथी",
+  "C_en": "Peacock", "C_hi": "मोर",
+  "D_en": "Cow", "D_hi": "गाय",
+  "answer": "C",
+  "explanation_en": "The peacock is a prominent symbol of Rajasthani culture and is often featured in traditional art and crafts.",
+  "explanation_hi": "मोर राजस्थानी संस्कृति का एक प्रमुख प्रतीक है और अक्सर परंपरागत कला और हस्तशिल्प में चित्रित किया जाता है।"
+}
+]
