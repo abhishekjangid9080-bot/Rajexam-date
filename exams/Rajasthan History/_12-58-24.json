@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the author of the book 'Rajasthan Rajyapith'?",
+"question_hi": "‘राजस्थान राजप्रिया' की किताब की लिखित विचार केवल कौन लेखक हैं।",
+"A_en": "Sardar Vallabhbhai Jain",
+"A_hi": "सरदार वलभभाई जैं",
+"B_en": "Dr. Kailash Chandra Mitra",
+"B_hi": "ड्र. कैलाश चंद्र मित्र",
+"C_en": "Dr. K. M. Munshi",
+"C_hi": "ड्र. के.मी. मंसी",
+"D_en": "Dr. Gyan Chand",
+"D_hi": "ड्र. ज्यादार चंद",
+"answer": "C",
+"explanation_en": "Dr. K. M. Munshi is the author of the book 'Rajasthan Rajyapith'.",
+"explanation_hi": "Dr. K. M. Munshi राजस्थान राजपति की कितरन है।",
+}
+]
