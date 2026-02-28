@@ -1,0 +1,18 @@
+[
+{
+"subject": "Economy",
+"topic": "Growth of Indian Economy",
+"question_en": "What was India's GDP growth rate in 2020-21?",
+"question_hi": "2020-21 में भारत का GDP कितने प्रतिविद्यालय के लिए प्रश्न का उत्तर करो।",
+"A_en": "10.2%", "A_hi": "2020-21 में India mein GDP के उत्तर को प्राप्त करें।",
+"B_en": "8.2%",
+"B_hi": "2020-21 में India mein GDP के उत्तर को प्राप्त करें।",
+"C_en": "14.4%",
+"C_hi": "2020-21 में India mein GDP के उत्तर को प्राप्त करें।",
+"D_en": "6.5%",
+"D_hi": "2020-21 में India mein GDP के उत्तर को प्राप्त करें।",
+"answer": "D",
+"explanation_en": "According to World Bank data, India's GDP growth rate in 2020-21 was 6.5%.",
+"explanation_hi": "विश्व बैंक की जांची सार्वरियाल की राष्ट्र के 2020-21 में GDP का उत्पन उत्तर को प्राप्त करें।",
+}
+]
