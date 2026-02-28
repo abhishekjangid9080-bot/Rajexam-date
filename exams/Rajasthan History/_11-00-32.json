@@ -1,0 +1,136 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan History, following the given structure. First, I need to ensure that each question and its options are in both Hindi and English. The topic is Rajasthan History, so I should cover various aspects like ancient rulers, important events, cultural landmarks, etc.
+
+Starting with the first question, maybe about the founder of Rajputana. I remember that Raja Pratap Singh of Mewar is known as the father of Rajputana. The options could include other prominent rulers. Next, a question on the Battle of Haldighati between Maharana Pratap and Akbar. That's a significant historical event.
+
+Another important area is the role of Sardar Patel in merging princely states. So a question about that. The Jambusar rebellion led by Bhim Singh and others is another key point. The Raja Mansingh Tomar's contribution to Bundi's architecture could be a question.
+
+The Khejarli massacre, where the Bishnoi community showed bravery, is a good topic. The establishment of the Rajasthan state in 1956 is a straightforward question. The 1947 integration of princely states under Patel. Then, the historical role of the Alwar State in the 18th century. Finally, the Chittorgarh Fort's historical significance.
+
+I need to make sure the answer options are plausible, with the correct one marked. The explanations should be concise but informative. Also, checking the difficulty level to match Rajasthan's exam standards. Avoid any technical jargon but ensure accuracy. Let me verify each point's facts to prevent errors. For example, confirming the year Rajasthan was formed, the correct rulers, and historical events' details. Once all questions are drafted, format them strictly in JSON as per the example, ensuring both languages are present for each part. Double-check the structure to avoid typos or missing fields.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Ancient and Medieval Period",
+        "question_en": "Who is known as the 'Father of Rajputana'?",
+        "question_hi": "राजपूताना के 'नाती-दादा' के रूप में किसे जाना जाता है?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Raja Man Singh Tomar", "B_hi": "राजा मन सिंह तोमर",
+        "C_en": "Raja Ratan Singh of Chittorgarh", "C_hi": "चित्तौड़गढ़ के राजा रतन सिंह",
+        "D_en": "Raja Pratap Singh of Mewar", "D_hi": "मेवाड़ के राजा प्रताप सिंह",
+        "answer": "D",
+        "explanation_en": "Raja Pratap Singh of Mewar is considered the 'Father of Rajputana' for unifying Rajput clans against Mughal invasions.",
+        "explanation_hi": "मेवाड़ के राजा प्रताप सिंह राजपूताना के 'नाती-दादा' के रूप में जाने जाते हैं, क्योंकि उन्होंने मुग़ल आक्रमणों के खिलाफ राजपूत जातियों का एकीकरण किया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Medieval Period",
+        "question_en": "Which battle is associated with Maharana Pratap and Akbar?",
+        "question_hi": "महाराणा प्रताप और अकबर के बीच कौन सी लड़ाई जुड़ी हुई है?",
+        "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी का युद्ध",
+        "B_en": "Battle of Chittorgarh", "B_hi": "चित्तौड़गढ़ का युद्ध",
+        "C_en": "Battle of Kumbhalgarh", "C_hi": "कुंभलगढ़ का युद्ध",
+        "D_en": "Battle of Ranthambore", "D_hi": "रणथंबोर का युद्ध",
+        "answer": "A",
+        "explanation_en": "The Battle of Haldighati in 1576 was a major conflict between Maharana Pratap and the Mughal emperor Akbar.",
+        "explanation_hi": "1576 में हल्दीघाटी का युद्ध महाराणा प्रताप और मुग़ल सम्राट अकबर के बीच मुख्य संघर्ष था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern Period",
+        "question_en": "Who led the integration of Rajasthan princely states into a single state in 1947?",
+        "question_hi": "1947 में राजस्थान के रियासतों को एक राज्य में जोड़ने में किसकी अगुआई रही?",
+        "A_en": "Sardar Vallabhbhai Patel", "A_hi": "श्री सरदार वल्लभ भाई पटेल",
+        "B_en": "Maharaja Sawai Man Singh II", "B_hi": "महाराजा सवाई मन सिंह द्वितीय",
+        "C_en": "Gopal Singh Bhati", "C_hi": "गोपाल सिंह भाटी",
+        "D_en": "Kishan Singh", "D_hi": "किशन सिंह",
+        "answer": "A",
+        "explanation_en": "Sardar Vallabhbhai Patel played a pivotal role in merging Rajasthan's princely states into a unified state after independence.",
+        "explanation_hi": "श्री सरदार वल्लभ भाई पटेल ने स्वतंत्रता के बाद राजस्थान की रियासतों को एकीकृत राज्य में जोड़ने में महत्वपूर्ण भूमिका निभाई।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Cultural Heritage",
+        "question_en": "Which of the following is a famous heritage site in Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन राजस्थान का एक प्रसिद्ध धरोहर स्थल है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Hawa Mahal", "B_hi": "हवा महल",
+        "C_en": "City Palace, Jaipur", "C_hi": "जयपुर का शहर किला",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "Chittorgarh Fort, Hawa Mahal, and City Palace are all UNESCO World Heritage Sites in Rajasthan.",
+        "explanation_hi": "चित्तौड़गढ़ किला, हवा महल और शहर किला राजस्थान में यूनेस्को विश्व धरोहर स्थल हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Freedom Movement",
+        "question_en": "Which ruler of Rajasthan was involved in the 'Jambusar Movement' against British rule?",
+        "question_hi": "राजस्थान के किस शासक ने ब्रिटिश शासन के खिलाफ 'जंबूसर आंदोलन' में शामिल हुए थे?",
+        "A_en": "Bhagwan Singh of Jodhpur", "A_hi": "जोधपुर के भगवान सिंह",
+        "B_en": "Bhim Singh of Bikaner", "B_hi": "बीकानेर के भीम सिंह",
+        "C_en": "Sahib Singh of Dungarpur", "C_hi": "दुंगरपुर के साहिब सिंह",
+        "D_en": "Ratan Singh of Mewar", "D_hi": "मेवाड़ के रतन सिंह",
+        "answer": "B",
+        "explanation_en": "Bhim Singh of Bikaner actively participated in the Jambusar Movement against British colonial rule in the 19th century.",
+        "explanation_hi": "19वीं शताब्दी में बीकानेर के भीम सिंह ने ब्रिटिश उपनिवेशवाद के खिलाफ जंबूसर आंदोलन में सक्रिय रूप से भाग लिया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Political Integration",
+        "question_en": "In which year was the Rajasthan state formed after the merger of princely states?",
+        "question_hi": "रियासतों के एकीकरण के बाद राजस्थान राज्य किस वर्ष बनाया गया?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1949", "B_hi": "1949",
+        "C_en": "1950", "C_hi": "1950",
+        "D_en": "1956", "D_hi": "1956",
+        "answer": "D",
+        "explanation_en": "Rajasthan state was formally established on May 1, 1956, after the merger of 18 princely states.",
+        "explanation_hi": "1 अप्रैल 1956 को रियासतों के एकीकरण के बाद राजस्थान राज्य की घोषणा की गई।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Architecture",
+        "question_en": "Which king is credited with the construction of the Bundi Palace in Rajasthan?",
+        "question_hi": "राजस्थान में बूंदी किला के निर्माण के लिए किस राजा का श्रेय है?",
+        "A_en": "Raja Man Singh Tomar", "A_hi": "राजा मन सिंह तोमर",
+        "B_en": "Raja Ratan Singh of Mewar", "B_hi": "मेवाड़ के राजा रतन सिंह",
+        "C_en": "Raja Kumbha", "C_hi": "राजा कुंभा",
+        "D_en": "Raja Uday Singh", "D_hi": "राजा उदय सिंह",
+        "answer": "A",
+        "explanation_en": "Raja Man Singh Tomar of the Tomar dynasty was the founder of Bundi and constructed the Bundi Palace complex.",
+        "explanation_hi": "तोमर वंश के राजा मन सिंह तोमर बूंदी के संस्थापक थे और बूंदी किला निर्मित करने वाले थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Freedom Struggle",
+        "question_en": "Which of the following movements was led by the Bishnoi community for environmental conservation?",
+        "question_hi": "निम्नलिखित में से कौन सी आंदोलन वन पर्यावरण संरक्षण के लिए बिश्नोई समुदाय द्वारा नेतृत्व दिया गया था?",
+        "A_en": "Khejarli Movement", "A_hi": "खेजरली आंदोलन",
+        "B_en": "Chipko Movement", "B_hi": "चिपको आंदोलन",
+        "C_en": "Jambusar Movement", "C_hi": "जंबूसर आंदोलन",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "A",
+        "explanation_en": "The Khejarli Movement (1733) was initiated by the Bishnoi community to protect khejri trees in Marwar region.",
+        "explanation_hi": "1733 में खेजरली आंदोलन के माध्यम से बिश्नोई समुदाय ने मारवाड़ क्षेत्र में खेजरी वृक्षों के संरक्षण के लिए अपना बलिदान दिया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Kingdoms",
+        "question_en": "Which Rajput kingdom was known as 'The Land of Kings' due to its military strength?",
+        "question_hi": "सैन्य शक्ति के कारण किस राजपूत राज्य के लिए 'राजा की भूमि' के रूप में जाना जाता था?",
+        "A_en": "Mewar", "A_hi": "मेवाड़",
+        "B_en": "Marwar", "B_hi": "मारवाड़",
+        "C_en": "Alwar", "C_hi": "अलवर",
+        "D_en": "Sirohi", "D_hi": "सिरोही",
+        "answer": "A",
+        "explanation_en": "Mewar was renowned as 'The Land of Kings' for its unbroken line of valiant rulers and military prowess.",
+        "explanation_hi": "मेवाड़ को शौर्यपूर्ण शासकों और सैन्य शक्ति के कारण 'राजा की भूमि' के रूप में जाना जाता था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "19th Century",
+        "question_en": "Which ruler of Rajasthan was known as 'The Lion of Rajasthan'?",
+        "question_hi": "राजस्थान के किस शासक के लिए 'राजस्थान का सिंह' के रूप में जाना जाता था?",
+        "A_en": "Maharaja Sawai Jai Singh II", "A_hi": "महाराजा सवाई जय सिंह द्व
