@@ -1,0 +1,23 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the role of the Central Bank of India (RBI) in the Indian economy?",
+"question_hi": "भारतीय न्यायालय (RBI) का भारत के आयोजनाओं और नौकरी के बारे में क्या है?",
+"A_en": "Regulates banking and monetary policies.",
+"A_hi": "बैंकिंग और वैम्योगिक नियमित करते हैं।",
+"B_en": "Issues banknotes and coins.",
+"B_hi": "पैसा और मोनोग्राहरू करते हैं।",
+"C_en": "Facilitates monetary policy formulation.",
+"C_hi": "वैम्यक नियमित करते हैं।",
+"D_en": "Monitors and regulates commercial banks.",
+"D_hi": "बैंकों को चिंचित करते हैं।",
+"answer": "C",
+"explanation_en": "Central Bank of India (RBI) formulates monetary policies and plays a crucial role in maintaining the stability of the Indian economy.",
+"explanation_hi": "भारतीय मॉनोग्राहरू (RBI) वैम्यक नियमित करते हैंगे।",
+"exam_type": "MCQ",
+"exam_level": "SSC, Railway NTPC, Rajasthan Govt. Exams के परीकरण के लिए को अनुमान देते हैंगे।",
+"difficulty_level": "Medium",
+"marks": 1
+}
+]
