@@ -1,0 +1,18 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is Gross Domestic Product (GDP)?",
+"question_hi": "Gross आर्थिक निर्माण (GDP) क्या है?",
+"A_en": "GDP growth rate", "A_hi": "GDP योजना",
+"B_en": "GDP per capita", "B_hi": "प्रातिकीय GDP",
+"C_en": "GDP at current market prices", "C_hi": "वर्तमान मार्केट प्रतिकीय GDP",
+"D_en": "GDP at constant prices", "D_hi": "समयकार प्रतिकीय GDP",
+"answer": "D",
+"explanation_en": "GDP at constant prices refers to the total value of all goods and services produced within a country's economic borders during a specific time period, adjusted for price changes.\nExample: GDP at constant prices for the year 2020 in India was Rs. _______.",
+"explanation_hi": "समयकार प्रतिकीय GDP एक देश के आयोजना में मिनट का समाधिकार प्रतिकीय आयोजना के मूल में मिनट का समाधिकार प्रतिकीय संकेता मूल में मिनट का मान क्या है?",
+"answer": "2021",
+"explanation_en": "The GDP (Gross Domestic Product) of India in nominal terms was _______ in 2021.",
+"explanation_hi": "भारत के मूल में 2021 में GDP क्या है ?",
+}
+]
