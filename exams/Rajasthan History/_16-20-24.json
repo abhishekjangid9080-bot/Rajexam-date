@@ -1,0 +1,40 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Major Events",
+"question_en": "Which war did Maharana Pratap win against the Mughal Empire?",
+"question_hi": "महाराजा प्रतिपाल के लिए मुगल संघ के विभागों के बारे में कौन सी घाटी की बहादुर को प्रभाषण कोणी के लिए की समस्या का रूप से समझा जा सकता है?",
+"answer": "हिंदू संघ के लिए की समस्या का रूप से समझा जा सकता है?",
+"options": [
+{
+"option": "केंद्रीय संघ के लिए",
+"option_en": "Central Government",
+"option_hi": "केंद्रीय संघ के लिए"
+},
+{
+"option": "राज्य संघ के लिए",
+"option_en": "State Government",
+"option_hi": "राज्य संघ के लिए"
+},
+{
+"option": "प्रांतीय संघ के लिए",
+"option_en": "Inter-State Government",
+"option_hi": "प्रांतीय संघ के लिए"
+},
+{
+"option": "राजमंदिर के लिए",
+"option_en": "Rajasthan Royal Family",
+"option_hi": "राजमंदिर के लिए"
+},
+{
+"option": "इन्द्युति के लिए",
+"option_en": "Indian Nationalism",
+"option_hi": "इन्द्युति के लिए"
+}
+],
+"answer": "राजमंदिर के लिए",
+"explanation_en": "Maharaja Pratap Singh of Jaipur is considered as the founder of Rajasthan",
+"explanation_hi": "जैंका प्रताप सिंग एक राजमंदिर के लिए",
+"explanation": "इन्द्युति के लिए",
+}
+]
