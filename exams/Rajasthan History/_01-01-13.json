@@ -1,0 +1,196 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, with explanations in both languages as well. The format has to be strict JSON as per the example provided.
+
+First, I need to recall key topics in Rajasthan History. Important areas could include ancient kingdoms, Mughal influence, Maratha conflicts, prominent rulers like Maharana Pratap, historical events like the Battle of Haldighati, notable rulers of different regions, and cultural aspects. Also, important events in the 20th century leading to state formation.
+
+I should start by brainstorming possible questions. Let me think:
+
+1. **Founding of Jaipur**: Who founded Jaipur? Maharaja Sawai Jai Singh II is the answer. He established it in 1727.
+
+2. **Battle of Haldighati**: When did it occur? 1576, between Maharana Pratap and Akbar's forces.
+
+3. **Rajputana Agency**: Which British administrative unit governed Rajput states? That's the Rajputana Agency.
+
+4. **Rajasthan State Formation**: When was Rajasthan formed? 1949, after merging princely states.
+
+5. **Maharana Pratap's Horse**: What was his famous horse's name? Chetak.
+
+6. **Kumbhalgarh Fort**: Which ruler built it? Rana Kumbha in the 15th century.
+
+7. **Maratha Conflict with Rajputs**: Which Maratha leader fought with Rajputs? Durgadas Rathore was prominent.
+
+8. **Jaisalmer Fort**: When was it built? Around 1156 by Rajput ruler Rawal Jaisal.
+
+9. **Bhakti Movement in Rajasthan**: Who was a key figure? Meera Bai, the devotee of Krishna.
+
+10. **Rajasthan's Largest State Before India's Independence**: Which princely state was it? Jodhpur, with the Marwar region.
+
+Next, I need to structure each question with options. The options must be in both languages. The answer should be correct, and explanations in both Hindi and English.
+
+Let me check for accuracy. For example, the Battle of Haldighati is 1576, correct. Kumbhalgarh Fort by Rana Kumbha is right. Jaisalmer Fort around 1156. Rajasthan formed in 1949. The Rajputana Agency was established by the British. Maharana Pratap's horse Chetak is correct. Meera Bai is a key figure in the Bhakti movement here. Durgadas Rathore led Rajputs against the Marathas. Jodhpur was the largest princely state.
+
+Now, ensuring that the options are plausible. For example, in the Rajasthan formation question, other options could be 1947 (incorrect), 1950 (post-Constitution), etc. For the founder of Jaipur, options like Sawai Man Singh I instead of II might be a trick.
+
+Need to avoid any overlapping topics and cover a range of periods from ancient to modern history. Each question should test specific knowledge points without ambiguity.
+
+Finally, formatting into the required JSON structure with correct keys and ensuring no markdown is used. Let me draft each question step by step, checking the Hindi and English versions for correctness and consistency.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founding of Rajasthan Capitals",
+    "question_en": "Which ruler founded the city of Jaipur in 1727?",
+    "question_hi": "1727 में जयपुर शहर किस शासक द्वारा स्थापित किया गया था?",
+    "A_en": "Maharaja Man Singh I",
+    "A_hi": "महाराजा मन सिंह प्रथम",
+    "B_en": "Maharaja Sawai Jai Singh II",
+    "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "C_en": "Maharaja Jai Singh I",
+    "C_hi": "महाराजा जय सिंह प्रथम",
+    "D_en": "Maharaja Suraj Mal",
+    "D_hi": "महाराजा सूरज मल",
+    "answer": "B",
+    "explanation_en": "Jaipur was founded by Maharaja Sawai Jai Singh II in 1727 as a planned city.",
+    "explanation_hi": "महाराजा सवाई जय सिंह द्वितीय ने 1727 में जयपुर का निर्माण योजनाबद्ध शहर के रूप में किया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Battles",
+    "question_en": "What was the outcome of the Battle of Haldighati in 1576?",
+    "question_hi": "1576 में हल्दीघाटी के युद्ध का परिणाम क्या रहा?",
+    "A_en": "Rajputs won against Mughals",
+    "A_hi": "राजपूतों ने मुगलों पर जीत हासिल की",
+    "B_en": "Mughals won against Rajputs",
+    "B_hi": "मुगलों ने राजपूतों पर जीत हासिल की",
+    "C_en": "Both sides suffered heavy losses",
+    "C_hi": "दोनों पक्षों को भारी नुकसान हुआ",
+    "D_en": "A truce was declared",
+    "D_hi": "एक समझौता किया गया",
+    "answer": "B",
+    "explanation_en": "The Mughals, led by Akbar, emerged victorious in the Battle of Haldighati against Maharana Pratap.",
+    "explanation_hi": "मुगलों, अकबर के नेतृत्व में, हल्दीघाटी के युद्ध में महाराणा प्रताप पर विजय प्राप्त करने में सफल रहे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajputana Agency",
+    "question_en": "Which British administrative unit governed the Rajput states in Rajasthan?",
+    "question_hi": "राजस्थान के राजपूत राज्यों पर कौन सी ब्रिटिश प्रशासनिक इकाई शासन करती थी?",
+    "A_en": "Rajputana Agency",
+    "A_hi": "राजपूताना एजेंसी",
+    "B_en": "Marwar Agency",
+    "B_hi": "मारवाड़ एजेंसी",
+    "C_en": "Mewar Agency",
+    "C_hi": "मेवाड़ एजेंसी",
+    "D_en": "Alwar Agency",
+    "D_hi": "अलवर एजेंसी",
+    "answer": "A",
+    "explanation_en": "The Rajputana Agency was the British administrative unit responsible for governing the Rajput states in Rajasthan.",
+    "explanation_hi": "राजपूताना एजेंसी राजस्थान में राजपूत राज्यों की प्रशासनिक इकाई थी जो ब्रिटिश शासन के अधीन थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Formation of Rajasthan State",
+    "question_en": "In which year was the state of Rajasthan formed by merging princely states?",
+    "question_hi": "राजस्थान राज्य किस वर्ष में राज्य रहित राज्यों को मर्ज करके गठित किया गया था?",
+    "A_en": "1947",
+    "A_hi": "1947",
+    "B_en": "1949",
+    "B_hi": "1949",
+    "C_en": "1950",
+    "C_hi": "1950",
+    "D_en": "1956",
+    "D_hi": "1956",
+    "answer": "B",
+    "explanation_en": "Rajasthan was formed in 1949 by merging 22 princely states into a single state.",
+    "explanation_hi": "राजस्थान 1949 में 22 राज्य रहित राज्यों को मर्ज करके एकल राज्य के रूप में गठित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Rulers",
+    "question_en": "Who was the ruler of Mewar who fought against the Mughals during the 16th century?",
+    "question_hi": "16वीं शताब्दी में मुगलों के खिलाफ मेवाड़ के शासक कौन थे?",
+    "A_en": "Rana Sanga",
+    "A_hi": "राणा सांगा",
+    "B_en": "Rana Pratap",
+    "B_hi": "राणा प्रताप",
+    "C_en": "Rana Kumbha",
+    "C_hi": "राणा कुंभा",
+    "D_en": "Rana Ratan Singh",
+    "D_hi": "राणा रतन सिंह",
+    "answer": "B",
+    "explanation_en": "Rana Pratap of Mewar fought valiantly against the Mughals, particularly in the Battle of Haldighati.",
+    "explanation_hi": "मेवाड़ के राणा प्रताप ने मुगलों के खिलाफ विशेष रूप से हल्दीघाटी के युद्ध में शौर्यपूर्वक लड़ाई लड़ी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Monuments",
+    "question_en": "Which fort in Rajasthan was built by Rana Kumbha in the 15th century?",
+    "question_hi": "राजस्थान में 15वीं शताब्दी में राणा कुंभा द्वारा बनाए गए किले का नाम क्या है?",
+    "A_en": "Chittorgarh Fort",
+    "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Kumbhalgarh Fort",
+    "B_hi": "कुंभलगढ़ किला",
+    "C_en": "Jaisalmer Fort",
+    "C_hi": "जैसलमेर किला",
+    "D_en": "Amber Fort",
+    "D_hi": "अंबर किला",
+    "answer": "B",
+    "explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha in the 15th century and is a UNESCO World Heritage Site.",
+    "explanation_hi": "कुंभलगढ़ किला 15वीं शताब्दी में राणा कुंभा द्वारा निर्मित किया गया था और यह यूनेस्को विश्व धरोहर स्थल है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Maratha Rule",
+    "question_en": "Which Maratha leader was known for his resistance against the British in Rajasthan?",
+    "question_hi": "राजस्थान में ब्रिटिश के खिलाफ प्रतिरोध के लिए कौन सा मराठा नेता प्रसिद्ध था?",
+    "A_en": "Durgadas Rathore",
+    "A_hi": "दुर्गादास राठौड़",
+    "B_en": "Raj Singh Sisodia",
+    "B_hi": "राज सिंह सिसोदिया",
+    "C_en": "Maharaja Jaswant Singh",
+    "C_hi": "महाराजा जसवंत सिंह",
+    "D_en": "Maharaja Sawai Jai Singh II",
+    "D_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "answer": "A",
+    "explanation_en": "Durgadas Rathore was a prominent Maratha leader who resisted British influence in Rajasthan.",
+    "explanation_hi": "राजस्थान में ब्रिटिश प्रभाव के खिलाफ दुर्गादास राठौड़ एक प्रमुख मराठा नेता थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Forts",
+    "question_en": "Which fort in Rajasthan is known as the 'Golden Fort'?",
+    "question_hi": "राजस्थान में किस किले को 'सुनहरा किला' के रूप में जाना जाता है?",
+    "A_en": "Jaisalmer Fort",
+    "A_hi": "जैसलमेर किला",
+    "B_en": "Chittorgarh Fort",
+    "B_hi": "चित्तौड़गढ़ किला",
+    "C_en": "Kumbhalgarh Fort",
+    "C_hi": "कुंभलगढ़ किला",
+    "D_en": "Amber Fort",
+    "D_hi": "अंबर किला",
+    "answer": "A",
+    "explanation_en": "Jaisalmer Fort is famously known as the 'Golden Fort' due to its golden hue.",
+    "explanation_hi": "जैसलमेर किला सुनहरे रंग के कारण 'सुनहरा किला' के रूप में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Movements",
+    "question_en": "Who was the prominent Bhakti movement leader from Rajasthan?",
+    "question_hi": "राजस्थान से भक्ति आंदोलन का प्रमुख नेता कौन था?",
+    "A_en": "Ravidas",
+    "A_hi": "रविदास",
+    "B_en": "Meera Bai",
+    "B_hi": "मीरा बाई",
+    "C_en": "Surdas",
+    "C_hi": "सूरदास",
+    "D_en": "Kabir",
+    "D_hi": "कबीर",
+    "answer": "B",
+    "explanation_en": "Meera Bai was a prominent Bhakti movement leader from Rajasthan, devoted to Krishna.",
+    "explanation_hi": "मीरा बाई राजस्थान के भक्ति आंदोलन की प्रमुख नेता थीं, जो कृष्ण की भक्ति में प्रसिद्ध थीं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Largest Princely State",
+    "question_en
