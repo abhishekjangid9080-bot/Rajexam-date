@@ -1,0 +1,180 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan History for various exams like LDC, CET, RAS, SSC, and Railway. Each question needs to be in both Hindi and English, with options and explanations in both languages. The difficulty level should be set according to Rajasthan History standards.
+
+First, I need to recall important historical facts about Rajasthan. Topics could include ancient kingdoms, Mughal interactions, Rajput rulers, significant battles, architectural landmarks, and cultural heritage. Let me brainstorm some key points:
+
+1. **Rajput Kingdoms**: The region was divided into many small Rajput kingdoms like Mewar, Marwar, Sisodia, etc.
+2. **Rajputana**: The term used for the region of Rajputs in Rajasthan.
+3. **Important Battles**: Battles like Haldighati, where Maharana Pratap fought against the Mughals.
+4. **Founding of Jaipur**: Jaipur was established by Maharaja Sawai Jai Singh II in 1727.
+5. **Mughal Relations**: Akbar's annexation of Mewar, Rana Pratap's resistance.
+6. **Dewangarh Fort**: Associated with the Rajput kings.
+7. **Chittorgarh Fort**: A significant historical site in Rajasthan, symbolizing Rajput valor.
+8. **Rajasthan's Integration into India**: Post-independence, the princely states were merged.
+9. **Maharana Pratap**: Known for his resistance against Akbar.
+10. **Rajput Clans**: Sisodia, Kachwaha, etc., their contributions.
+
+Now, each question should test knowledge on these points. Let's start drafting. For example, the first question could be about the founder of Jaipur. The answer is Sawai Jai Singh II. Then, check for other possible options, maybe other rulers. Ensure that the options are plausible but incorrect. For explanations, keep them concise but informative.
+
+Next, verify the historical accuracy. For instance, when was Jaipur founded? 1727 AD by Sawai Jai Singh II. Correct. The Mughal ruler who annexed Mewar was Akbar. The battle of Haldighati was in 1576. The founder of the Kachwaha dynasty was Raja Kehar Mal. The Chittorgarh Fort was captured by Akbar. The Rajputana Reserve was established in 1857. The last ruler of Marwar was Maharaja Ajit Singh. The Sisodia clan's capital was Chittorgarh. The first ruler of Jaipur was Sawai Jai Singh II. The Rajputana Agency was established in 1886.
+
+Make sure each question has four options, with one correct. The explanations should clarify the correct answer without being too verbose. Also, ensure that the Hindi and English versions are accurate translations. Avoid any ambiguity. Check for any possible mistakes in dates or events. Once all 10 questions are drafted, review them to ensure they cover different aspects of Rajasthan's history and are of appropriate difficulty for the target exams.
+</think>
+
+[
+{
+  "subject": "Rajasthan History",
+  "topic": "Ancient and Medieval History",
+  "question_en": "Who founded the city of Jaipur in 1727 AD?",
+  "question_hi": "1727 ई. में जयपुर शहर की स्थापना किसने की थी?",
+  "A_en": "Maharaja Sawai Jai Singh II", 
+  "A_hi": "महाराजा सवाई जय सिंह द्वितीय",
+  "B_en": "Maharaja Jai Singh I", 
+  "B_hi": "महाराजा जय सिंह प्रथम",
+  "C_en": "Maharaja Sardar Singh", 
+  "C_hi": "महाराजा सरदार सिंह",
+  "D_en": "Maharaja Man Singh", 
+  "D_hi": "महाराजा मान सिंह",
+  "answer": "A",
+  "explanation_en": "Maharaja Sawai Jai Singh II founded Jaipur in 1727 AD to promote trade and astronomy.",
+  "explanation_hi": "महाराजा सवाई जय सिंह द्वितीय ने 1727 ई. में जयपुर की स्थापना व्यापार और खगोल विज्ञान की उन्नति के लिए की।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajputana Region",
+  "question_en": "Which Mughal ruler annexed the kingdom of Mewar in the 16th century?",
+  "question_hi": "16वीं शताब्दी में मेवाड़ के राज्य का अधिग्रहण किस मुग़ल शासक ने किया था?",
+  "A_en": "Akbar", 
+  "A_hi": "अकबर",
+  "B_en": "Humayun", 
+  "B_hi": "हुमायूं",
+  "C_en": "Babur", 
+  "C_hi": "बाबर",
+  "D_en": "Shah Jahan", 
+  "D_hi": "शाहजहां",
+  "answer": "A",
+  "explanation_en": "Akbar annexed Mewar after the death of Maharana Pratap in 1597.",
+  "explanation_hi": "महाराणा प्रताप की मृत्यु के बाद 1597 में अकबर ने मेवाड़ का अधिग्रहण कर लिया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Rulers",
+  "question_en": "The famous Battle of Haldighati (1576) was fought between Rana Pratap and which Mughal ruler?",
+  "question_hi": "प्रसिद्ध हल्दीघाटी के युद्ध (1576) में महाराणा प्रताप किस मुग़ल शासक से लड़े थे?",
+  "A_en": "Akbar", 
+  "A_hi": "अकबर",
+  "B_en": "Sher Shah Suri", 
+  "B_hi": "शेर शाह सूरी",
+  "C_en": "Babur", 
+  "C_hi": "बाबर",
+  "D_en": "Aurangzeb", 
+  "D_hi": "औरंगजेब",
+  "answer": "A",
+  "explanation_en": "The Battle of Haldighati was fought between Rana Pratap and Mughal Emperor Akbar in 1576.",
+  "explanation_hi": "1576 में हल्दीघाटी के युद्ध में महाराणा प्रताप ने मुग़ल सम्राट अकबर के खिलाफ लड़ाई लड़ी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Architectural Heritage",
+  "question_en": "Which fort in Rajasthan was constructed by the Kachwaha ruler Raja Kehar Mal in the 7th century?",
+  "question_hi": "राजस्थान में 7वीं शताब्दी में कच्छवाह राजा केहर मल द्वारा किस किले का निर्माण किया गया था?",
+  "A_en": "Amber Fort", 
+  "A_hi": "अम्बर किला",
+  "B_en": "Chittorgarh Fort", 
+  "B_hi": "चित्तौड़गढ़ किला",
+  "C_en": "Dewargarh Fort", 
+  "C_hi": "देवगढ़ किला",
+  "D_en": "Jaisalmer Fort", 
+  "D_hi": "जैसलमेर किला",
+  "answer": "A",
+  "explanation_en": "Amber Fort was founded by Raja Kehar Mal in the 7th century and expanded by later rulers.",
+  "explanation_hi": "अम्बर किला 7वीं शताब्दी में राजा केहर मल द्वारा निर्मित किया गया था और बाद के शासकों द्वारा विस्तारित किया गया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Clans",
+  "question_en": "Which Rajput clan ruled over the region of Bikaner for centuries?",
+  "question_hi": "कौन सी राजपूत जाति शताब्दियों तक बीकानेर क्षेत्र पर शासन करती रही?",
+  "A_en": "Kachwaha", 
+  "A_hi": "कच्छवाह",
+  "B_en": "Sisodia", 
+  "B_hi": "सिसोदिया",
+  "C_en": "Chauhan", 
+  "C_hi": "चौहान",
+  "D_en": "Kumhaar", 
+  "D_hi": "कुम्हार",
+  "answer": "D",
+  "explanation_en": "The Kumhaar clan ruled Bikaner for centuries, with the city established by Rao Bika in the 15th century.",
+  "explanation_hi": "कुम्हार जाति शताब्दियों तक बीकानेर पर शासन करती रही, जिसकी स्थापना 15वीं शताब्दी में राव बीका द्वारा की गई थी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajputana Agency",
+  "question_en": "When was the Rajputana Agency established to manage British relations with Rajput rulers?",
+  "question_hi": "राजपूत शासकों के साथ ब्रिटिश संबंधों के प्रबंधन के लिए राजपूताना एजेंसी की स्थापना कब की गई थी?",
+  "A_en": "1857", 
+  "A_hi": "1857",
+  "B_en": "1886", 
+  "B_hi": "1886",
+  "C_en": "1901", 
+  "C_hi": "1901",
+  "D_en": "1911", 
+  "D_hi": "1911",
+  "answer": "B",
+  "explanation_en": "The Rajputana Agency was established in 1886 to coordinate British relations with Rajput states.",
+  "explanation_hi": "राजपूताना एजेंसी 1886 में राजपूत राज्यों के साथ ब्रिटिश संबंधों के समन्वय के लिए स्थापित की गई थी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Historical Events",
+  "question_en": "Which Rajput ruler is known for resisting Mughal expansion in Rajasthan after the death of Maharana Pratap?",
+  "question_hi": "महाराणा प्रताप की मृत्यु के बाद राजस्थान में मुग़ल विस्तार के विरोध में जाने जाते हुए किस राजपूत शासक के बारे में बताया जाता है?",
+  "A_en": "Raja Ajit Singh of Marwar", 
+  "A_hi": "मारवाड़ के राजा अजीत सिंह",
+  "B_en": "Raja Jaswant Singh of Marwar", 
+  "B_hi": "मारवाड़ के राजा जसवंत सिंह",
+  "C_en": "Rana Amar Singh II of Mewar", 
+  "C_hi": "मेवाड़ के राणा अमर सिंह द्वितीय",
+  "D_en": "Maharaja Jaswant Singh of Jodhpur", 
+  "D_hi": "जोधपुर के महाराजा जसवंत सिंह",
+  "answer": "A",
+  "explanation_en": "Raja Ajit Singh of Marwar resisted Mughal expansion in Rajasthan after 1597.",
+  "explanation_hi": "1597 के बाद मारवाड़ के राजा अजीत सिंह ने राजस्थान में मुग़ल विस्तार का विरोध किया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Cultural Heritage",
+  "question_en": "Which Rajput ruler is associated with the construction of the famous Chittorgarh Fort?",
+  "question_hi": "प्रसिद्ध चित्तौड़गढ़ किले के निर्माण से किस राजपूत शासक से जोड़ा जाता है?",
+  "A_en": "Rana Kumbha", 
+  "A_hi": "राणा कुंभ",
+  "B_en": "Rana Sanga", 
+  "B_hi": "राणा संगा",
+  "C_en": "Rana Pratap", 
+  "C_hi": "राणा प्रताप",
+  "D_en": "Rana Ratan Singh", 
+  "D_hi": "राणा रतन सिंह",
+  "answer": "A",
+  "explanation_en": "Rana Kumbha expanded and fortified Chittorgarh Fort in the 15th century.",
+  "explanation_hi": "15वीं शताब्दी में राणा कुंभ ने चित्तौड़गढ़ किले का विस्तार और सुदृढीकरण किया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Modern History",
+  "question_en": "In which year did the princely state of Rajasthan merge with the Indian Union after independence?",
+  "question_hi": "स्वतंत्रता के बाद राजस्थान के रियासती राज्य भारतीय संघ में किस वर्ष मर्ज हुए?",
+  "A_en": "1947", 
+  "A_hi": "1947",
+  "B_en": "1949", 
+  "B_hi": "1949",
+  "C_en": "1950", 
+  "C_hi": "1950",
+  "D_en": "1956", 
+  "D_hi": "1956",
+  "answer": "B",
+  "explanation_en": "The princely state of Rajasthan merged into the Indian Union in 1949.",
+  "explanation_hi": "1949 में राजस्थान की रियासती राज्य भारतीय संघ में मर्ज हो गए।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Clans",
