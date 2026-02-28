@@ -1,0 +1,13 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Sectors",
+"question_en": "What is the primary sector in India?",
+"question_hi": "भारत में प्रधान शास्त्रीय विभाग क्या है।",
+"A_en": "Agriculture", "A_hi": "कामवासरी",
+"B_en": "Information Technology", "B_hi": "इंटरनेट टेक्सीन",
+"C_en": "Manufacturing", "C_hi": "बाजार और टेकॉनॉम",
+"D_en": "Services", "D_hi": "सेवाएं",
+"answer": "D",
+"explanation_en": "The primary sector in India primarily deals with agriculture and allied activities.\nIn Hindi, this can be explained as: \"भारत में प्रधान शास्त्रीय विभाग की मूल क्या है।\"",
+"explanation_hi": "भारत में प्रधान शास्त्रीय विभाग की मूल क्या है?\"
