@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान में प्रातिपदाधिकारी क्या है?",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मराठी",
+"C_en": "Tamil", "C_hi": "टैम्पियल",
+"D_en": "Gujarati", "D_hi": "गुजराती",
+"answer": "B",
+"explanation_en": "Marathi is the official language of Rajasthan. Hindi is the most widely spoken language, but Marathi is recognized as the official language.",
+"explanation_hi": "राजस्थान में मराठी विभिन्न भाषा है। हिंदी के सीधे हैं, कुछ लोगों में भी सीधे हैं, लेकिन मराठी भाषा इसके प्रमोट है।"
+}
+]
