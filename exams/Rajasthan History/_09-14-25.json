@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous battle was fought in Amer Fort?",
+"question_hi": "आमे के एमर कंप के बारेम किस महत्वपूर्ण पुनर्वास की प्रतिरोध के बारेम को क्या कहने के लिए उपयोगी है?",
+"A_en": "Amer Fort",
+"A_hi": "आमे कंप",
+"B_en": "Kachchh",
+"B_hi": "कच्छ",
+"C_en": "Mewar",
+"C_hi": "मेवार",
+"D_en": "Ranthambore",
+"D_hi": "रन्टहम्बर",
+"answer": "C",
+"explanation_en": "The famous battle of Amer was fought between the forces of Kachchh and Mewar in Amer Fort. The battle is also known as the 'Battle of Amer'.",
+"explanation_hi": "आमे कंप में Kachchh aur Mewar ki forces ko मेवार की मामे के बारेम में मुखया हुआ का हुआ में कैदी की वार्तका हुआ का हुआ ?",
+"explanation_hi": "आमे कंप में Kachchh aur Mewar ki Forces ko Amer ki Baram ka hakiya ka hakiya kya?"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Kingdoms",
+"question_en": "Which kingdom was ruled by Maharana Pratap Singh?",
+"question_hi": "महाराणा प्रताप सिंग के तेज़ी महंग किताब कौई कहा है।",
+"A_en": "Maharana Pratap Singh ruled the kingdom of Mewar.",
+"A_hi": "महाराणा प्रताप सिंग केज़िंग कौई किताब कहा है।",
+"B_en": "Maharana Pratap Singh ruled the kingdom of Mewar.",
+"B_hi": "महाराणा प्रताप सिंग केज़िंग कौई कौई किताब कहा है।",
+"C_en": "Maharana Pratap Singh ruled the kingdom of Mewar.",
+"C_hi": "महाराणा प्रताप सिंग कौई किताब कहा है।",
+"D_en": "Maharana Pratap Singh ruled the kingdom of Mewar.",
+"D_hi": "महाराणा प्रताप सिंग कौई किताब कहा है।",
+"answer": "C",
+"explanation_en": "Maharana Pratap Singh ruled the kingdom of Mewar.",
+"explanation_hi": "महाराणा प्रताप सिंग कौई किताब कहा है।",
+}
+]
