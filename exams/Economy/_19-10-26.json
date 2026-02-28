@@ -1,0 +1,112 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP and Economic Growth",
+"question_en": "What is the primary driver of economic growth in India?",
+"question_hi": "भारत के आयोग में प्रधान मंत्री क्या है?",
+"A_en": "Human Development",
+"A_hi": "विकास क्षेत्री",
+"B_en": "Investment",
+"B_hi": "इन्वेस्टम",
+"C_en": "Technology and innovation",
+"C_hi": "टेक्नोलॉजी aur इनवेस्टम",
+"D_en": "Demography",
+"D_hi": "डेमोग्राफ",
+"answer": "C",
+"explanation_en": "Technology and innovation play a significant role in driving economic growth in India. Innovative products, processes, and services contribute to the development of the economy. The term 'Technological innovation' includes advancements in various sectors like information technology, manufacturing, agriculture, etc. It helps improve productivity, efficiency, and competitiveness, leading to overall economic growth.",
+"explanation_hi": "भारत के आयोग में टेकॉनॉनोलॉजी aur इनॉवेस्टम को एक महत्वपूर्व की मूलकारक एकता और घरेलोड के अभिपूर्व की मूलकारक प्रतिस्पद के अभिपूर्व की मूलकारक एकता और घरेलोड के अभिपूर्व की मूलकारक प्रतिस्पद के अभिपूर्व की मूलकारक एकता और घरेलोड के अभिपूर्व की मूलकारक प्रतिस्पद के अभिपूर्व की मूलकारक एकता और घरेलोड के अभिपूर्व की मूलकारक प्रतिस्पद के अभिपूर्व की मूलकारक एकता और घरेलोड",
+{
+"question_en": "Which is the primary driver of economic growth and development in Rajasthan considering the backwardness of the Eastern part and advancement of the Western part?",
+"question_hi": "क्या प्रधान उत्तम आयोग और विकासन के पश्चार्क और पश्चार्क",
+"A_en": [
+{
+"option_en": "Investment",
+"option_hi": "इन्विप्लॉप",
+"option_key": 1
+},
+{
+"option_en": "Technology",
+"option_hi": "टेक्नॉटॉम",
+"option_key": 2
+},
+{
+"option_en": "Manpower",
+"option_hi": "मानपार",
+"option_key": 3
+},
+{
+"option_en": "Foreign Trade",
+"option_hi": "फोर्नु टार्ड",
+"option_key": 4
+}
+],
+"B_en": [
+{
+"option_en": "Demographic Factors",
+"option_hi": "डेमेग्राफ",
+"option_key": 5
+},
+{
+"option_en": "Agriculture",
+"option_hi": "आग्राफ",
+"option_key": 6
+},
+{
+"option_en": "Inflation",
+"option_hi": "इनफिलेन्ट",
+"option_key": 7
+},
+{
+"option_en": "Labor Force",
+"option_hi": "लॉबर फॉर",
+"option_key": 8
+}
+],
+"C_en": [
+{
+"option_en": "Investment",
+"option_hi": "इनसिप्ट",
+"option_key": 9
+},
+{
+"option_en": "Trade",
+"option_hi": "टॉर्ड",
+"option_key": 10
+},
+{
+"option_en": "Industry",
+"option_hi": "इनड",
+"option_key": 11
+}
+],
+"D_en": [
+{
+"option_en": "Education",
+"option_hi": "इकाशिप्ट",
+"option_key": 12
+},
+{
+"option_en": "Science",
+"option_hi": "इनड",
+"option_key": 13
+},
+{
+"option_en": "Technology",
+"option_hi": "इनड",
+"option_key": 14
+}
+]
+},
+"answer": "D",
+"explanation_en": "Education plays a crucial role in driving economic growth and development of a country. It provides skilled and knowledgeable workforce to industries, government, and sectors. Education enhances the overall development in various areas like science, technology, and innovation.",
+"explanation_hi": "इनड का इनड का इनड इनड इनड इनड इनड इनड",
+"explanation_en": "Education is essential for economic growth and development. It provides skilled and knowledgeable workforce to industries, government, and sectors. Education enhances the overall development in various areas like science, technology, and innovation.",
+"explanation_hi": "इनड इनड इनड इनड",
+"answer": "इनड",
+"explanation_en": "Education is crucial in creating a skilled and knowledgeable workforce to various sectors like science, technology, and innovation.",
+"explanation_hi": "इनड इनड इनड इनड",
+"answer": "इनड",
+"explanation_en": "Education plays a crucial role in creating a skilled and knowledgeable workforce to various sectors like science, technology, and innovation.",
+"explanation_hi": "इनड इनड",
+"answer": "इनड"
+}
