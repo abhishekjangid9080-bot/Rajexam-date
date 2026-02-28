@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capitals",
+"question_en": "Which city was the capital of Rajasthan before Jaipur?",
+"question_hi": "राजस्थान में पहले जापुर के राजधानी के बाद के किस समाज में राजधानी थी?",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Alwar", "C_hi": "अलवार",
+"D_en": "Sikar", "D_hi": "सिकार",
+"answer": "Jodhpur",
+"explanation_en": "Before Jaipur became the capital of Rajasthan, Udaipur was the capital of Mewar dynasty.",
+"explanation_hi": "जापुर राजस्थान के मांगलपुर में राजधानी बने के बार्ता को मॅवार संघ में राजधानी थी।",
+}
+]
