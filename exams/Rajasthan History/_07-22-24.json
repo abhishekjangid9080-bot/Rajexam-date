@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Indian king is associated with the construction of Chittorgarh Fort?",
+"question_hi": "चैटर्गरगढ के निर्माण के लिए किस भारतीय सर सम्बंधित है।",
+"A_en": "Rana Kumbha",
+"A_hi": "रानी कुम्भा",
+"B_en": "Rao Jodha",
+"B_hi": "राव जोधा",
+"C_en": "Prithviraj Chauhan",
+"C_hi": "प्रतिभूर्ज",
+"D_en": "Kumbha Rao Diwali",
+"D_hi": "कुम्भा दीवाली",
+"answer": "B",
+"explanation_en": "Rao Jodha is associated with the construction of Chittorgarh Fort.",
+"explanation_hi": "राव जोधा चैटर्गरगढ के निर्माण के लिए संबंधित है।",
+}
+]
