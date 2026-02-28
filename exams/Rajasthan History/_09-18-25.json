@@ -1,0 +1,68 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following cities were the capital of Rajasthan before Jaipur?",
+"question_hi": "राजस्थान में पिछले राजधनी के नामक निर्द्वारा के लिए बिल्डब्ल्यून के नामक निर्द्वारा के लिए प्राप्त सप्तां के नामक निर्द्वारा के लिए प्राप्त सप्तां के नामक निर्द्वारा के लिए प्राप्त सप्तां के नामक निर्द्वारा",
+"A": "डंगना",
+"B": "पौड़ी",
+"C": "माणसरगढ़",
+"D": "अरगंधल",
+"E": "चाविला",
+"F": "मंगलोम"
+},
+"question_hi": "राजस्थान के सप्तां के नामक निर्द्वारा",
+"options_hi": {
+"A": "डंगना",
+"B": "पौड़ी",
+"C": "माणसरगढ़",
+"D": "अरगंधल",
+"E": "चाविला",
+"F": "मंगलोम"
+},
+"answer_hi": "क",
+"question_en": "Name of the seven cities whose names are derived from the names of the seven queens of Rajasthan",
+"options_en": {
+"A": "Dungar",
+"B": "Chandravati",
+"C": "Mewar",
+"D": "Agarh",
+"E": "Chaauli",
+"F": "Mangalore",
+"G": "Karnavati"
+},
+"answer_en": "C",
+"explanation_hi": "राजस्थान के चाविला को श्रमणीय नामों के नाम के तथां के साथित नामों के नामों का मूल साधारण है।",
+"explanation_en": "Karnavati is the ancient city whose names are derived from the names of the seven queens of Rajasthan.",
+"question_en": "Which city was founded by the seven queens of Rajasthan?",
+"options_en": {
+"A": "Dungarpur",
+"B": "Chandrapur",
+"C": "Karnavati",
+"D": "Bhilwara",
+"E": "Chittorgarh",
+"F": "Jodhpur",
+"G": "Jaisalmer"
+},
+"answer_en": "C"
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first Rathore ruler of Jodhpur?",
+"question_hi": "जोधपुर में पहले Rathore समकान कौन थे।",
+"options_en": {
+"A": "Pratap Singh",
+"B": "Jagmohan Singh",
+"C": "Jait Singh",
+"D": "Sardar Sukhda",
+"E": "Pratap Singh",
+"F": "Jaswant Singh",
+"G": "Bhim Singh"
+},
+"answer_en": "E",
+"explanation_hi": "Jait Singh was the first Rathore ruler of Jodhpur.",
+"explanation_en": "Jait Singh was the first Rathore ruler of Jodhpur.",
+"question_hi": "जोधपुर में पहले Rathore समकान कौन थे।",
+}
+]
