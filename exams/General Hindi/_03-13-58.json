@@ -1,0 +1,131 @@
+[
+{
+"subject": "General Hindi",
+"topic": "वाक्य का अर्थ",
+"question_en": "The meaning of a sentence is derived from its",
+"question_hi": "वाक्य का अर्थ वह से प्राप्त होता है जिससे?",
+"A_en": "prefix", "A_hi": "पूर्ववर्ती",
+"B_en": "suffix", "B_hi": "प्रत्यय",
+"C_en": "root word", "C_hi": "मूल शब्द",
+"D_en": "context", "D_hi": "वाक्यांश"
+"answer": "D",
+"explanation_en": "A sentence's meaning is derived from the context in which it is used.",
+"explanation_hi": "वाक्य का अर्थ वह से प्राप्त होता है जिससे वह प्रयोग में लाया जाता है।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्यांश का अर्थ",
+"question_en": "The phrase 'पानी के बिना जीवन नहीं' means",
+"question_hi": "वाक्यांश 'पानी के बिना जीवन नहीं' का अर्थ है",
+"A_en": "There is no life without money", "A_hi": "पैसे के बिना जीवन नहीं है",
+"B_en": "There is no life without water", "B_hi": "पानी के बिना जीवन नहीं है",
+"C_en": "Life is very expensive", "C_hi": "जीवन बहुत महंगा है",
+"D_en": "Money is very important", "D_hi": "पैसा बहुत महत्वपूर्ण है"
+"answer": "B",
+"explanation_en": "The phrase 'पानी के बिना जीवन नहीं' means that life is not possible without water.",
+"explanation_hi": "वाक्यांश 'पानी के बिना जीवन नहीं' का अर्थ है कि जीवन पानी के बिना संभव नहीं है।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence can be classified into which of the following categories?",
+"question_hi": "वाक्य को निम्नलिखित वर्गों में वर्गीकृत किया जा सकता है",
+"A_en": "Simple, Compound, Complex", "A_hi": "सरल, मिश्रित, जटिल",
+"B_en": "Positive, Negative, Interrogative", "B_hi": "सकारात्मक, नकारात्मक, प्रश्नोत्तर",
+"C_en": "Active, Passive", "C_hi": "क्रियाविधि, प्रतिक्रियाविधि",
+"D_en": "All of the above", "D_hi": "सबकुछ"
+"answer": "D",
+"explanation_en": "A sentence can be classified into different categories such as Simple, Compound, Complex, Positive, Negative, Interrogative, Active, and Passive.",
+"explanation_hi": "वाक्य को विभिन्न वर्गों में वर्गीकृत किया जा सकता है, जैसे कि सरल, मिश्रित, जटिल, सकारात्मक, नकारात्मक, प्रश्नोत्तर, क्रियाविधि, और प्रतिक्रियाविधि।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence can be classified as simple if it has",
+"question_hi": "वाक्य को सरल वर्ग में वर्गीकृत किया जा सकता है यदि वह",
+"A_en": "more than one clause", "A_hi": "एक से अधिक करण",
+"B_en": "one independent clause", "B_hi": "एक स्वतंत्र करण",
+"C_en": "one dependent clause", "C_hi": "एक अधीन करण",
+"D_en": "no subject", "D_hi": "कोई विषय नहीं"
+"answer": "B",
+"explanation_en": "A sentence is classified as simple if it contains only one independent clause.",
+"explanation_hi": "वाक्य को सरल वर्ग में वर्गीकृत किया जा सकता है यदि वह एक स्वतंत्र करण ही हो।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence can be classified as compound if it has",
+"question_hi": "वाक्य को मिश्रित वर्ग में वर्गीकृत किया जा सकता है यदि वह",
+"A_en": "more than one independent clause", "A_hi": "एक से अधिक स्वतंत्र करण",
+"B_en": "one independent clause and one dependent clause", "B_hi": "एक स्वतंत्र करण और एक अधीन करण",
+"C_en": "no subject", "C_hi": "कोई विषय नहीं",
+"D_en": "one simple sentence", "D_hi": "एक सरल वाक्य"
+"answer": "A",
+"explanation_en": "A sentence is classified as compound if it contains more than one independent clause.",
+"explanation_hi": "वाक्य को मिश्रित वर्ग में वर्गीकृत किया जा सकता है यदि वह एक से अधिक स्वतंत्र करण ही हो।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence can be classified as complex if it has",
+"question_hi": "वाक्य को जटिल वर्ग में वर्गीकृत किया जा सकता है यदि वह",
+"A_en": "more than one clause", "A_hi": "एक से अधिक करण",
+"B_en": "one independent clause and one dependent clause", "B_hi": "एक स्वतंत्र करण और एक अधीन करण",
+"C_en": "no subject", "C_hi": "कोई विषय नहीं",
+"D_en": "one simple sentence", "D_hi": "एक सरल वाक्य"
+"answer": "B",
+"explanation_en": "A sentence is classified as complex if it contains one independent clause and one dependent clause.",
+"explanation_hi": "वाक्य को जटिल वर्ग में वर्गीकृत किया जा सकता है यदि वह एक स्वतंत्र करण और एक अधीन करण को साथ में हो।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence that has a subject and a predicate is called",
+"question_hi": "वाक्य जिसमें विषय और क्रिया होती है, उसे",
+"A_en": "Simple Sentence", "A_hi": "सरल वाक्य",
+"B_en": "Compound Sentence", "B_hi": "मिश्रित वाक्य",
+"C_en": "Complex Sentence", "C_hi": "जटिल वाक्य",
+"D_en": "All of the above", "D_hi": "सबकुछ"
+"answer": "D",
+"explanation_en": "A sentence that has a subject and a predicate is called a simple, compound, or complex sentence, depending on its structure.",
+"explanation_hi": "वाक्य जिसमें विषय और क्रिया होती है, उसे सरल, मिश्रित, या जटिल वाक्य के रूप में वर्गीकृत किया जा सकता है, जो उसकी संरचना पर निर्भर करता है।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence that begins with a question word such as 'what', 'where', 'when', etc. is called",
+"question_hi": "वाक्य जो किसी प्रश्न शब्द जैसे कि 'क्या, कहाँ, कब', आदि से शुरू होता है, उसे",
+"A_en": "Interrogative Sentence", "A_hi": "प्रश्नोत्तर वाक्य",
+"B_en": "Declarative Sentence", "B_hi": "व्याख्यात्मक वाक्य",
+"C_en": "Imperative Sentence", "C_hi": " आदेशात्मक वाक्य",
+"D_en": "All of the above", "D_hi": "सबकुछ"
+"answer": "A",
+"explanation_en": "A sentence that begins with a question word such as 'what', 'where', 'when', etc. is called an interrogative sentence.",
+"explanation_hi": "वाक्य जो किसी प्रश्न शब्द जैसे कि 'क्या, कहाँ, कब', आदि से शुरू होता है, उसे प्रश्नोत्तर वाक्य कहा जाता है।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence that ends with an exclamation mark is called",
+"question_hi": "वाक्य जो एक अंग्रेजी बिंदु चिन्ह से समाप्त होता है, उसे",
+"A_en": "Interrogative Sentence", "A_hi": "प्रश्नोत्तर वाक्य",
+"B_en": "Declarative Sentence", "B_hi": "व्याख्यात्मक वाक्य",
+"C_en": "Imperative Sentence", "C_hi": " आदेशात्मक वाक्य",
+"D_en": "Exclamatory Sentence", "D_hi": "विलापात्मक वाक्य"
+"answer": "D",
+"explanation_en": "A sentence that ends with an exclamation mark is called an exclamatory sentence.",
+"explanation_hi": "वाक्य जो एक अंग्रेजी बिंदु चिन्ह से समाप्त होता है, उसे विलापात्मक वाक्य कहा जाता है।"
+},
+{
+"subject": "General Hindi",
+"topic": "वाक्य की विशेषताएं",
+"question_en": "A sentence that can be used to give a command or an order is called",
+"question_hi": "वाक्य जो किसी आदेश या निर्देश के लिए उपयोग किया जा सकता है, उसे",
+"A_en": "Interrogative Sentence", "A_hi": "प्रश्नोत्तर वाक्य",
+"B_en": "Declarative Sentence", "B_hi": "व्याख्यात्मक वाक्य",
+"C_en": "Imperative Sentence", "C_hi": " आदेशात्मक वाक्य",
+"D_en": "All of the above", "D_hi": "सबकुछ"
+"answer": "C",
+"explanation_en": "A sentence that can be used to give a command or an order is called an imperative sentence.",
+"explanation_hi": "वाक्य जो किसी आदेश या निर्देश के लिए उपयोग किया जा सकता है, उसे आदेशात्मक वाक्य कहा जाता है।"
+}
