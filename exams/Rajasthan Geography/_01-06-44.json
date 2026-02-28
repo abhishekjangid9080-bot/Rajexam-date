@@ -1,0 +1,154 @@
+<think>
+Okay, let me start by understanding the user's requirements. They need 10 high-quality MCQs on Rajasthan Geography for various exams like LDC, CET, RAS, SSC, and Railway. The questions and answers need to be in both Hindi and English, following the Testbook style. The JSON structure example is provided, so I need to strictly adhere to that format. 
+
+First, I should identify key topics within Rajasthan Geography. Possible areas include rivers, districts, wildlife sanctuaries, historical sites, minerals, and geographical features. Each question should cover different aspects to ensure a comprehensive coverage.
+
+For each question, I need to create a clear question in both languages, four options (with at least one common incorrect option), the correct answer, and explanations in both languages. The difficulty level should be set according to Rajasthan-specific exams, so maybe some less obvious facts or specific data points.
+
+Let me brainstorm some questions. For example, the first question could be about the longest river in Rajasthan. The correct answer is the Chambal River. Then, a question on the highest peak in Rajasthan, which is Guru Shikhar in the Aravallis. Another could be about the largest district by area, which is Jaisalmer. 
+
+I need to ensure that the options are plausible but only one is correct. For example, when asking about the number of districts, the options could include 75, 76, 77, 78. As of recent data, Rajasthan has 76 districts, so 76 should be the correct answer. 
+
+Another question might involve the largest desert in Rajasthan, which is the Thar Desert. The Thar Desert covers most of Rajasthan's western part. I should also include questions on wildlife sanctuaries, like the Ranthambore Tiger Reserve, and the origin of major rivers like the Luni. 
+
+I need to check the facts for accuracy. For instance, the Guru Shikhar is part of the Mount Abu area. The Aravallis are the mountain range in Rajasthan. The Thar Desert is the major desert. The Luni River drains into the Rann of Kutch. 
+
+For each question, the explanations should briefly justify the correct answer. Also, the options in Hindi should be correctly translated to avoid any confusion. 
+
+I'll structure each question step by step, ensuring that the JSON format is correct. Each entry will have the subject, topic, question in English and Hindi, four options in both languages, the correct answer letter, and explanations in both languages. 
+
+Let me start drafting each question one by one, verifying the facts and making sure the options are well-structured. I'll also check that the difficulty level is appropriate for the target exams, not too basic but not overly obscure. 
+
+Finally, I'll compile all 10 questions into the JSON array, ensuring that each object follows the provided example's structure exactly, without any extra text or formatting issues.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers and Water Bodies",
+        "question_en": "Which river is known as the 'Lifeline of Rajasthan' due to its significance in the state's agriculture?",
+        "question_hi": "कौन सी नदी राजस्थान की कृषि के प्रति महत्व के कारण 'राजस्थान की नाभि' के रूप में जानी जाती है?",
+        "A_en": "Chambal", "A_hi": "चंबल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Machhua", "C_hi": "माचुआ",
+        "D_en": "Mahi", "D_hi": "माही",
+        "answer": "B",
+        "explanation_en": "The Luni River is crucial for irrigation in southern Rajasthan and supports agriculture in arid regions.",
+        "explanation_hi": "लूनी नदी दक्षिणी राजस्थान में सिंचाई के लिए महत्वपूर्ण है और मरुस्थलीय क्षेत्रों में कृषि का समर्थन करती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Geographical Features",
+        "question_en": "Which mountain range is located in the eastern part of Rajasthan and serves as the boundary between Rajasthan and Haryana?",
+        "question_hi": "राजस्थान के पूर्वी भाग में स्थित और राजस्थान-हरियाणा सीमा को अलग करने वाला पहाड़ी श्रृंखला कौन सी है?",
+        "A_en": "Aravalli", "A_hi": "अरावली",
+        "B_en": "Vindhyas", "B_hi": "विंध्याचल",
+        "C_en": "Satpura", "C_hi": "सतपुड़ा",
+        "D_en": "Sahyadri", "D_hi": "सह्याद्रि",
+        "answer": "A",
+        "explanation_en": "The Aravalli Range runs from Gujarat to Delhi and forms the boundary between Rajasthan and Haryana near the eastern edge.",
+        "explanation_hi": "अरावली पर्वतमाला गुजरात से दिल्ली तक फैली हुई है और राजस्थान-हरियाणा की पूर्वी सीमा को बनाती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Deserts",
+        "question_en": "What is the name of the desert that covers a significant portion of western Rajasthan?",
+        "question_hi": "पश्चिमी राजस्थान के बड़े हिस्से को कवर करने वाले मरुस्थल का नाम क्या है?",
+        "A_en": "Thar Desert", "A_hi": "थार मरुस्थल",
+        "B_en": "Rann of Kutch", "B_hi": "कच्छ का रान",
+        "C_en": "Kutch Desert", "C_hi": "कच्छ मरुस्थल",
+        "D_en": "Gurjar Desert", "D_hi": "गुजर मरुस्थल",
+        "answer": "A",
+        "explanation_en": "The Thar Desert, also known as the Great Indian Desert, spans western Rajasthan and is an arid region with sand dunes.",
+        "explanation_hi": "थार मरुस्थल, जिसे महान भारतीय मरुस्थल के रूप में भी जाना जाता है, पश्चिमी राजस्थान में फैला है और रेत की टीले से भरा है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Wildlife Sanctuaries",
+        "question_en": "Which wildlife sanctuary in Rajasthan is famous for its population of Indian wild buffalo?",
+        "question_hi": "राजस्थान में भारतीय जंगली गौ के लिए प्रसिद्ध प्राणी संरक्षित क्षेत्र कौन सा है?",
+        "A_en": "Ranthambore National Park", "A_hi": "रणथंबोर राष्ट्रीय उद्यान",
+        "B_en": "Kumbhalgarh Wildlife Sanctuary", "B_hi": "कुंभलगढ़ प्राणी संरक्षित क्षेत्र",
+        "C_en": "Sariska Tiger Reserve", "C_hi": "सरिस्का टाइगर रिजर्व",
+        "D_en": "Kisangarh Sanctuary", "D_hi": "कीसांगढ़ संरक्षित क्षेत्र",
+        "answer": "D",
+        "explanation_en": "Kisangarh Sanctuary is known for its large population of Indian wild buffalo and diverse ecosystems.",
+        "explanation_hi": "कीसांगढ़ संरक्षित क्षेत्र भारतीय जंगली गौ की बड़ी आबादी और विविध पारिस्थितिक तंत्र के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Historical Sites",
+        "question_en": "Which historical site in Rajasthan is located near the town of Chittorgarh and is a UNESCO World Heritage Site?",
+        "question_hi": "चित्तौड़गढ़ के पास स्थित राजस्थान का कौन सा ऐतिहासिक स्थल यूनेस्को विश्व धरोहर स्थल है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+        "C_en": "Mehrangarh Fort", "C_hi": "महेंद्रगढ़ किला",
+        "D_en": "Jaisalmer Fort", "D_hi": "जैसलमेर किला",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort is a UNESCO World Heritage Site and symbolizes Rajput valor and history.",
+        "explanation_hi": "चित्तौड़गढ़ किला यूनेस्को विश्व धरोहर स्थल है और राजपूत साहस और इतिहास का प्रतीक है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Districts",
+        "question_en": "Which district in Rajasthan is the largest in terms of geographical area?",
+        "question_hi": "राजस्थान के कौन सा जिला भौगोलिक क्षेत्र के मुताबिक सबसे बड़ा है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Ajmer", "C_hi": "अजमेर",
+        "D_en": "Churu", "D_hi": "चूरू",
+        "answer": "A",
+        "explanation_en": "Jaisalmer District covers approximately 34,224 square kilometers and is the largest in Rajasthan.",
+        "explanation_hi": "जैसलमेर जिला लगभग 34,224 वर्ग किमी क्षेत्र में फैला है और राजस्थान का सबसे बड़ा जिला है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Climate",
+        "question_en": "Which region of Rajasthan experiences the highest annual rainfall?",
+        "question_hi": "राजस्थान का कौन सा क्षेत्र सबसे अधिक वार्षिक वर्षा वाला है?",
+        "A_en": "Aravalli Range", "A_hi": "अरावली पर्वतमाला",
+        "B_en": "Thar Desert", "B_hi": "थार मरुस्थल",
+        "C_en": "Mewar Region", "C_hi": "मेवाड़ क्षेत्र",
+        "D_en": "Marwar Region", "D_hi": "मारवाड़ क्षेत्र",
+        "answer": "A",
+        "explanation_en": "The Aravalli Range receives the highest rainfall due to its elevation and location blocking the monsoon winds.",
+        "explanation_hi": "अरावली पर्वतमाला के ऊंचाई और मानसूनी हवाओं की बाधा के कारण वहां सबसे अधिक वर्षा होती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Minerals",
+        "question_en": "Which mineral is Rajasthan most famous for besides marble?",
+        "question_hi": "मार्बल के अलावा राजस्थान किस खनिज के लिए सबसे प्रसिद्ध है?",
+        "A_en": "Zinc", "A_hi": "जस्ता",
+        "B_en": "Lignite", "B_hi": "लिग्नाइट",
+        "C_en": "Ruby", "C_hi": "रूबी",
+        "D_en": "Copper", "D_hi": "तांबा",
+        "answer": "A",
+        "explanation_en": "Rajasthan is one of the largest producers of zinc and lead in India, with major mines in the Zawar region.",
+        "explanation_hi": "राजस्थान भारत में जस्ता और निकेल के सबसे बड़े उत्पादकों में से एक है, जहां ज़ावर क्षेत्र में मुख्य खनिज खदानें हैं।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Hydrology",
+        "question_en": "Which river in Rajasthan drains into the Rann of Kutch?",
+        "question_hi": "राजस्थान में कौन सी नदी कच्छ के रान में डूबती है?",
+        "A_en": "Chambal", "A_hi": "चंबल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Banas", "C_hi": "बनास",
+        "D_en": "Mahi", "D_hi": "माही",
+        "answer": "B",
+        "explanation_en": "The Luni River is the only major river in Rajasthan that drains into the Rann of Kutch in Gujarat.",
+        "explanation_hi": "लूनी नदी राजस्थान में गुजरात के कच्छ के रान में डूबने वाली एकमात्र प्रमुख नदी है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Geographical Extremes",
+        "question_en": "Which town in Rajasthan is the southernmost point of the state?",
+        "question_hi": "राजस्थान में राज्य का दक्षिणीतम बिंदु कौन सा शहर है?",
+        "A_en": "Nagaur", "A_hi": "नागौर",
+        "B_en": "Chittorgarh", "B_hi": "चित्तौड़गढ़",
+        "C_en": "Dholpur", "C_hi": "ढोलपुर",
+        "D_en": "Kota", "D_hi": "कोटा",
+        "answer": "D",
+        "explanation_en": "Kota is the southernmost town in Rajasthan, located near the Madhya Pradesh border.",
+        "explanation_hi": "कोटा राजस्थान
