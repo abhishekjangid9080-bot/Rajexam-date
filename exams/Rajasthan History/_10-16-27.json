@@ -1,0 +1,196 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a capital of Rajasthan?",
+"question_hi": "निम्नलिखित में एक राजस्थान के राजधानी नहीं है।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Agra", "C_hi": "आगरा",
+"D_en": "Kota", "D_hi": "कोटा",
+"answer": "C",
+"explanation_en": "Agra is not a capital of Rajasthan. Agra is the capital of Uttar Pradesh.",
+"explanation_hi": "आगरा राजस्थान के राजधानी नहीं है। Agra, Uttar Pradesh के राजधानी है।",
+"explanation_hi": ""
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following Rajasthani kings was known for his architectural contributions?",
+"question_hi": "राजस्थान के लैंगीजी के अर्थ पुराणियों के लैंगीजी के अर्थ पुराणियों के लैंगीजी के अर्थ पुराणियों का विभाग मैंगीजी का अर्थ है।",
+"question_hi": "राजस्थान के लांगीजी के अर्थ पुराणियों का अर्थ है।",
+"options": [
+{
+"option_en": "Adil Shahi",
+"option_hi": "आदिल शाही",
+"option_difficulty": "Easy",
+"option_correct": "B"
+},
+{
+"option_en": "Rajasthan",
+"option_hi": "राजस्थान",
+"option_difficulty": "Medium",
+"option_correct": "A"
+},
+{
+"option_en": "Marwar-Jodhpur",
+"option_hi": "मार्वार-जोधपुर",
+"option_difficulty": "Difficult",
+"option_correct": "A"
+}
+]
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor is associated with the construction of Mehrangarh Fort?",
+"question_hi": "मेहरंगार के खालीदा विभाग के कौने समाजवादी है।",
+"options": [
+{
+"option_en": "Rao Jodha",
+"option_hi": "राओ जोध",
+"option_difficulty": "Medium",
+"option_correct": "A"
+},
+{
+"option_en": "Prithviraj Chauhan",
+"option_hi": "प्रतीतिर्षभ",
+"option_difficulty": "Moderate",
+"option_correct": "B"
+},
+{
+"option_en": "Akbar",
+"option_hi": "अभिप्रकार",
+"option_difficulty": "Hard",
+"option_correct": "C"
+}
+]
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which dynasty was responsible for the construction of Amer Fort?",
+"question_hi": "एमेर के बेल्वास को कौने समाजवादी की बजगत है।",
+"options": [
+{
+"option_en": "Rana Kumbha",
+"option_hi": "राना कुम्भ",
+"option_difficulty": "Moderate",
+"option_correct": "B"
+},
+{
+"option_en": "Jai Singh II",
+"option_hi": "जयसिंगी येंगी मैन",
+"option_difficulty": "Easy",
+"option_correct": "C"
+},
+{
+"option_en": "Rana Rawal Khem Singh",
+"option_hi": "राणा रावाल कहम सिंगी",
+"option_difficulty": "Moderate",
+"option_correct": "A"
+}
+]
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Mughal emperor was instrumental in constructing Mehrangarh Fort?",
+"question_hi": "मुगाल महरंगी येंगी मेंगी महरंगी मींगी",
+"options": [
+{
+"option_en": "Aurangzeb",
+"option_hi": "आरांगी आरांगी",
+"option_difficulty": "Easy",
+"option_correct": "A"
+},
+{
+"option_en": "Salim Ali",
+"option_hi": "देंगंगी देंगी",
+"option_difficulty": "Moderate",
+"option_correct": "B"
+},
+{
+"option_en": "Aurangzeb",
+"option_hi": "आरांगी",
+"option_difficulty": "Hard",
+"option_correct": "D"
+}
+]
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who built the Chittor Palace?",
+"question_hi": "चीटर की ची",
+"options": [
+{
+"option_en": "Ala Singh",
+"option_hi": "आंगी",
+"option_difficulty": "Easy",
+"option_correct": "C"
+},
+{
+"option_en": "Jaisam Khan",
+"option_hi": "आंगी",
+"option_difficulty": "Moderate",
+"option_correct": "B"
+},
+{
+"option_en": "Gaj Singh",
+"option_hi": "खांगंगी",
+"option_difficulty": "Hard",
+"option_correct": "D"
+}
+]
+],
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which queen is associated with Jaipur's Amer Fort?",
+"question_hi": "जेींगी",
+"options": [
+{
+"option_en": "Rani Jahan",
+"option_hi": "खांगी",
+"option_difficulty": "Medium",
+"option_correct": "C"
+},
+{
+"option_en": "Pratap Singh",
+"option_hi": "कांी",
+"option_difficulty": "Hard",
+"option_correct": "B"
+},
+{
+"option_en": "Shri Gaur",
+"option_hi": "खांगी",
+"option_difficulty": "Hard",
+"option_correct": "A"
+}
+]
+], [
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor is associated with Jaisam Fort?",
+"question_hi": "जेेींगी",
+"options": [
+{
+"option_en": "Rao Jaisam",
+"option_hi": "खांगेंगी",
+"option_difficulty": "Medium",
+"option_correct": "B"
+},
+{
+"option_en": "Jaisam Jaisam",
+"option_hi": "खांगेंगी",
+"option_difficulty": "Hard",
+"option_correct": "A"
+},
+{
+"option_en": "Rao Jaisam",
+"option_hi": "खांगेंगी",
+"option_difficulty": "Hard",
+"option_correct": "D"
+}]
