@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is NOT a capital city of a Rajasthani state?",
+"question_hi": "निम्नलिखित में से कौन राजस्थान की एक राज्य के कामयाबी नहीं है।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jaisalmer", "C_hi": "जयसालमर",
+"D_en": "Alwar", "D_hi": "अलवार",
+"answer": "D",
+"explanation_en": "Alwar is not the capital city of any Rajasthani state.\nAlwar is a district in Uttar Pradesh, India.",
+"explanation_hi": "अलवार राजस्थान की एक राज्य के कामयाबी नहीं है।",
+}
+]
