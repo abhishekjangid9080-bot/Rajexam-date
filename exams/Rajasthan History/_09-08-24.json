@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical fort is associated with the Marwar region?",
+"question_hi": "मरवाई कालेखिक किले क्या है?",
+"A_en": "Amer Fort", "A_hi": "आमर किले",
+"B_en": "Mehrangarh Fort", "B_hi": "महरंगार किले",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Nahargarh Fort", "D_hi": "नाहरगढ़ किले",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort is associated with the Marwar region, located in Jodhpur. Amer Fort is the king's palace and not a historical fort.",
+"explanation_hi": "महरंगार किले मरवाई के संबंधित है, जो जोधुर जिले में स्थित है। Amer Fort है मंत्री के घर है और इसके प्राचीन निवेशन के समाधित है।",
+}
+]
