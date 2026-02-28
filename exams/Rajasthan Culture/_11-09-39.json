@@ -1,0 +1,152 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. The user specified that each question should be in Hindi and English with the testbook style. Let me start by recalling key aspects of Rajasthan's culture. 
+
+First, Rajasthani folk music and dance come to mind. There's the Ghoomar dance, which is a women's dance from the Marwar region. So maybe a question on that. Then there's the traditional attire, like the angarkha for men and ghagra choli for women. Another topic could be festivals, like Teej or Gangaur. 
+
+Rajasthan is also known for its folk songs, such as 'Manganiyar' and 'Kathputli' (puppetry). The Bishnoi community is known for their conservation efforts, especially the Khejri tree. The language section could include Rajasthani dialects like Marwari, Mewari, and Bhatri.
+
+Temples like the Dilwara Temples in Mount Abu or the Jain temples in Bikaner might be good topics. The folk art of 'Kathputli' is another area. Also, the traditional handicrafts like blue pottery and block printing from Jaipur. 
+
+For each question, I need to ensure the options are plausible but the correct answer is accurate. Let me start drafting the first question on Ghoomar dance. The options should include other dances like Kalbeliya, Kathakali, and Rauf. The answer is B for Ghoomar. 
+
+Next, the traditional attire of Rajasthani women. The correct answer is Ghagra Choli. Then a question on the Bishnoi community and their tree. The Khejri tree is correct. 
+
+For folk music, Manganiyar is a community known for it. The Kathputli puppetry is a traditional form. The Dilwara Temples are in Mount Abu. The folk song 'Teesra Band' is from the film 'Teesra Band', but wait, that's a Bollywood song. Maybe another song like 'Lajwanti' or 'Kalwa Chalke Chal'. 
+
+Wait, need to verify. 'Teesra Band' is indeed a folk song. The language question: Marwari is a dialect. The puppetry question is Kathputli. The correct answer for the folk song associated with the Thar Desert is 'Bhawaiya'. 
+
+I need to check each question's facts to ensure accuracy. Also, make sure the explanations are concise and in both languages. Let me structure each question step by step, ensuring the JSON format is correct with Hindi and English in both question and options. Double-checking topics like festivals, dance forms, and cultural aspects to cover a broad range as per Rajasthan's culture.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Folk Dance",
+        "question_en": "Which of the following is a traditional Rajasthani folk dance performed by women?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थानी लोक नृत्य है जो महिलाओं द्वारा किया जाता है?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Kathakali", "C_hi": "कथकली",
+        "D_en": "Rauf", "D_hi": "रौफ",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional Rajasthani folk dance performed by women, characterized by graceful movements and vibrant traditional attire.",
+        "explanation_hi": "घूमर एक परंपरागत राजस्थानी लोक नृत्य है जिसे महिलाएं परिधान करती हैं, जिसमें आकर्षक आंदोलन और रंगीन परंपरागत पोशाक का लक्षण होता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Traditional Attire",
+        "question_en": "What is the traditional attire of Rajasthani women called?",
+        "question_hi": "राजस्थानी महिलाओं के परम्परागत पोशाक का नाम क्या है?",
+        "A_en": "Sari", "A_hi": "साड़ी",
+        "B_en": "Ghagra Choli", "B_hi": "घगरा चोली",
+        "C_en": "Salwar Kameez", "C_hi": "सलवार कमीज",
+        "D_en": "Lungi", "D_hi": "लॉन्गी",
+        "answer": "B",
+        "explanation_en": "Ghagra Choli is the traditional attire of Rajasthani women, consisting of a long skirt and a short top.",
+        "explanation_hi": "घगरा चोली राजस्थानी महिलाओं का परंपरागत पोशाक है, जो लंबी स्कर्ट और छोटे शर्ट का निर्माण करता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Folk Music",
+        "question_en": "Which of the following is a traditional Rajasthani folk song?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थानी लोक गीत है?",
+        "A_en": "Lajwanti", "A_hi": "लाजवंती",
+        "B_en": "Manganiyar", "B_hi": "मंगनियार",
+        "C_en": "Kalgi", "C_hi": "कलगी",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "Lajwanti, Manganiyar, and Kalgi are all traditional Rajasthani folk songs performed during festivals and celebrations.",
+        "explanation_hi": "लाजवंती, मंगनियार और कलगी सभी परंपरागत राजस्थानी लोक गीत हैं जिन्हें त्योहारों और उत्सवों के दौरान प्रस्तुत किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Folk Art",
+        "question_en": "Which of the following is a traditional Rajasthani folk art form?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थानी लोक कला का रूप है?",
+        "A_en": "Kathputli", "A_hi": "कथपुटली",
+        "B_en": "Miniature Painting", "B_hi": "मिनीएचर चित्रकारी",
+        "C_en": "Blue Pottery", "C_hi": "ब्लू पॉटरी",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "Kathputli (puppetry), Miniature Painting, and Blue Pottery are all traditional folk art forms of Rajasthan.",
+        "explanation_hi": "कथपुटली (पापलियों का कला), मिनीएचर चित्रकारी और ब्लू पॉटरी सभी राजस्थान के परंपरागत लोक कला रूप हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Festivals",
+        "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri and Parvati?",
+        "question_hi": "राजस्थान में कौन सा त्योहार देवी गौरी और पार्वती के सम्मान में मनाया जाता है?",
+        "A_en": "Teej", "A_hi": "तीज",
+        "B_en": "Gangaur", "B_hi": "गंगौर",
+        "C_en": "Diwali", "C_hi": "दिवाली",
+        "D_en": "Holi", "D_hi": "होली",
+        "answer": "B",
+        "explanation_en": "Gangaur is a traditional Rajasthani festival dedicated to the goddess Gauri and Parvati, celebrated by married women.",
+        "explanation_hi": "गंगौर राजस्थान का एक परंपरागत त्योहार है जो देवी गौरी और पार्वती के सम्मान में मनाया जाता है, खासकर विवाहित महिलाओं द्वारा।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Language",
+        "question_en": "Which of the following is a dialect spoken in Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन सी राजस्थान में बोली जाने वाली बोली है?",
+        "A_en": "Marwari", "A_hi": "मरवाड़ी",
+        "B_en": "Mewari", "B_hi": "मेवाड़ी",
+        "C_en": "Bhatri", "C_hi": "भाटरी",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "Marwari, Mewari, and Bhatri are all regional dialects spoken in different parts of Rajasthan.",
+        "explanation_hi": "मरवाड़ी, मेवाड़ी और भाटरी सभी राजस्थान में विभिन्न स्थानों में बोली जाने वाली प्रांतीय बोलियाँ हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Folk Songs",
+        "question_en": "Which Rajasthani folk song is associated with the Thar Desert region?",
+        "question_hi": "कौन सा राजस्थानी लोक गीत थार मरुभूमि क्षेत्र से संबंधित है?",
+        "A_en": "Bhawaiya", "A_hi": "भावाईया",
+        "B_en": "Kajari", "B_hi": "काजरी",
+        "C_en": "Manganiyar", "C_hi": "मंगनियार",
+        "D_en": "Kalgi", "D_hi": "कलगी",
+        "answer": "A",
+        "explanation_en": "Bhawaiya is a traditional Rajasthani folk song commonly sung in the Thar Desert region.",
+        "explanation_hi": "भावाईया एक परंपरागत राजस्थानी लोक गीत है जो थार मरुभूमि क्षेत्र में आमतौर पर गाया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Cuisine",
+        "question_en": "Which dish is a staple in Rajasthani cuisine?",
+        "question_hi": "राजस्थानी खाने में कौन सा पकवान आम है?",
+        "A_en": "Gatte ki Sabzi", "A_hi": "गट्टे की सब्जी",
+        "B_en": "Dal Bafla", "B_hi": "दाल बाफ़ला",
+        "C_en": "Methi Thepla", "C_hi": "मेथी थेपला",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "Gatte ki Sabzi, Dal Bafla, and Methi Thepla are all popular dishes in Rajasthani cuisine.",
+        "explanation_hi": "गट्टे की सब्जी, दाल बाफ़ला और मेथी थेपला सभी राजस्थानी खाने में लोकप्रिय पकवान हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Folk Music Instruments",
+        "question_en": "Which traditional musical instrument is commonly used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक संगीत में कौन सा परंपरागत संगीत यंत्र आमतौर पर उपयोग किया जाता है?",
+        "A_en": "Sarangi", "A_hi": "सरंगी",
+        "B_en": "Dholak", "B_hi": "ढोलक",
+        "C_en": "Ghungroo", "C_hi": "घंगरू",
+        "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "Sarangi, Dholak, and Ghungroo are all traditional instruments used in Rajasthani folk music.",
+        "explanation_hi": "सरंगी, ढोलक और घंगरू सभी राजस्थानी लोक संगीत में उपयोग किए जाने वाले परंपरागत वाद्य यंत्र हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Rajasthani Folk Art - Kathputli",
+        "question_en": "What is the traditional Rajasthani art of puppetry called?",
+        "question_hi": "परंपरागत राजस्थानी पापलियों के कला का नाम क्या है?",
+        "A_en": "Kathputli", "A_hi": "कथपुटली",
+        "B_en": "Terakhat", "B_hi": "तेराखट",
+        "C_en": "Kamadhas", "C_hi": "कामधास",
+        "D_en": "Miniature Painting", "D_hi": "मिनीएचर चित्रकारी",
+        "answer": "A",
+        "explanation_en": "Kathputli is a traditional Rajasthani form of puppetry where string puppets are used to perform folk tales.",
+        "explanation_hi": "कथपुटली एक परंपरागत राजस्थानी पापलियों के रूप है जिसमें तार वाले पापलियों का उपयोग लोक कथाओं के प्रसंग में किया जाता है।"
+    }
+]
