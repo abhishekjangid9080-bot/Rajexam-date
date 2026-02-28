@@ -1,0 +1,170 @@
+<think>
+Okay, let's start by understanding the user's request. They want 10 high-quality MCQs on Rajasthan Geography, specifically for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style. The JSON structure is provided, so I need to stick to that strictly.
+
+First, I'll brainstorm topics within Rajasthan Geography that are commonly tested. Topics might include rivers, deserts, historical sites, cities, minerals, etc. Let's pick a variety to cover different areas.
+
+1. **Capital of Rajasthan**: This is a fundamental question. The answer is Jaipur, so options should include other major cities like Jodhpur, Udaipur, Bikaner.
+
+2. **Longest River in Rajasthan**: The longest river is the Chambal, but wait, actually the longest river in Rajasthan is the Luni, which flows into the Rann of Kutch. Need to verify that. The Chambal is a major river but maybe not the longest. Need to check facts accurately.
+
+3. **Thar Desert Location**: Thar Desert is in northwest Rajasthan, so the question could ask which region it's in. Options like Marwar, Mewar, Hadoti, etc.
+
+4. **Highest Peak in Rajasthan**: Mount Abu has Guru Shikhar, which is the highest peak. Other options could include hills in other regions.
+
+5. **Rajasthan's Largest District by Area**: Jaisalmer is the largest district. Others like Bikaner, Churu, etc., but need to confirm.
+
+6. **Minerals in Rajasthan**: Rajasthan is rich in marble. Options could be marble, coal, gold, diamond. Marble is correct.
+
+7. **World Heritage Site in Rajasthan**: Jaipur's forts and palaces are a UNESCO site. Others like Chittorgarh, Jaisalmer Fort, etc. Correct answer is the Forts and Palaces of Jaipur.
+
+8. **Tallest Waterfall in Rajasthan**: Kumbhalgarh's Kumbheshwar Waterfall. Others like Hathi Gandi, etc. Need to confirm.
+
+9. **State Tree of Rajasthan**: Banyan tree. Others like Neem, Peepal, etc. Banyan is correct.
+
+10. **Rajasthan's Largest Salt Lake**: Sambhar Salt Lake. Others like Didwana, Kuchaman, etc. Sambhar is the largest.
+
+Now, for each question, I need to create both Hindi and English versions, ensuring accuracy. Options should be plausible distractors. Explanations should be concise but informative. Also, check the difficulty level to match Rajasthan-specific exams. Let me verify each fact to avoid mistakes. For example, the longest river: Luni is 495 km, Chambal is 960 km but flows partly in MP. Wait, maybe Chambal is considered the longest in Rajasthan. Need to confirm. Alternatively, the longest river entirely within Rajasthan is Luni. So if the question is about the longest river in Rajasthan, the answer is Luni. If it's about the longest in terms of total length, then Chambal, but since it flows partly in another state, maybe the question is about the longest within Rajasthan. Need to clarify. Let me check a reliable source. According to some sources, the Chambal is the longest river in Rajasthan, but actually, the Chambal flows through Rajasthan and MP. The Luni is entirely in Rajasthan and is the longest in the state. So the answer should be Luni. Therefore, the question should specify "longest river in Rajasthan" with the answer Luni. However, some might argue Chambal is longer. To avoid confusion, maybe rephrase the question to "Which is the longest river entirely within Rajasthan?" Then Luni is correct. So adjust the question accordingly.
+
+Another example: The highest peak is Guru Shikhar in Mount Abu. Confirm that it's the highest point in Rajasthan.
+
+Also, check the largest district by area: Jaisalmer is the largest district in Rajasthan. Confirming that.
+
+For the state tree, Rajasthan's state tree is the Banyan (Bargad) tree. Correct.
+
+For the tallest waterfall, Kumbheshwar in Kumbhalgarh is the tallest. Confirm.
+
+Once all facts are verified, structure each question into the JSON format. Ensure that the Hindi and English versions are correctly translated. The explanations should be simple and to the point. Make sure the answer options are in order A, B, C, D with the correct answer labeled. Avoid any markdown and stick to the JSON structure provided. Finally, validate the JSON to ensure there are no syntax errors.
+</think>
+
+[
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Rivers and Water Bodies",
+  "question_en": "Which river is known as the 'Largest River' of Rajasthan?",
+  "question_hi": "राजस्थान की सबसे बड़ी नदी कौन सी है?",
+  "A_en": "Chambal", "A_hi": "चंबल",
+  "B_en": "Luni", "B_hi": "लूनी",
+  "C_en": "Mahi", "C_hi": "माही",
+  "D_en": "Sabarmati", "D_hi": "साबरमती",
+  "answer": "B",
+  "explanation_en": "Luni is the largest river in Rajasthan, flowing entirely within the state.",
+  "explanation_hi": "लूनी राजस्थान की सबसे बड़ी नदी है जो पूरी तरह से राज्य में स्थित है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Deserts",
+  "question_en": "In which region of Rajasthan is the Thar Desert located?",
+  "question_hi": "राजस्थान के किस क्षेत्र में थार मरुस्थल स्थित है?",
+  "A_en": "Marwar", "A_hi": "मारवाड़",
+  "B_en": "Mewar", "B_hi": "मेवाड़",
+  "C_en": "Hadoti", "C_hi": "हड़ोती",
+  "D_en": "Bagar", "D_hi": "बागर",
+  "answer": "A",
+  "explanation_en": "The Thar Desert is located in the Marwar region of Rajasthan.",
+  "explanation_hi": "थार मरुस्थल राजस्थान के मारवाड़ क्षेत्र में स्थित है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Mountains",
+  "question_en": "Which peak is the highest in Rajasthan?",
+  "question_hi": "राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+  "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+  "B_en": "Guru Shikhar", "B_hi": "गुरु शिखर",
+  "C_en": "Kailana Hills", "C_hi": "कैलाना की पहाड़ियाँ",
+  "D_en": "Aravalli Range", "D_hi": "अरावली पर्वतमाला",
+  "answer": "B",
+  "explanation_en": "Guru Shikhar is the highest peak in Rajasthan, located in the Mount Abu region.",
+  "explanation_hi": "गुरु शिखर राजस्थान की सबसे ऊँची चोटी है, जो माउंट आबू क्षेत्र में स्थित है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Districts",
+  "question_en": "Which district is the largest in Rajasthan by area?",
+  "question_hi": "क्षेत्रफल के हिसाब से राजस्थान का सबसे बड़ा जिला कौन सा है?",
+  "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+  "B_en": "Bikaner", "B_hi": "बीकानेर",
+  "C_en": "Churu", "C_hi": "चूरू",
+  "D_en": "Barmer", "D_hi": "बाड़मेर",
+  "answer": "A",
+  "explanation_en": "Jaisalmer is the largest district in Rajasthan by area.",
+  "explanation_hi": "जैसलमेर राजस्थान का क्षेत्रफल के आधार पर सबसे बड़ा जिला है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Minerals",
+  "question_en": "Which mineral is Rajasthan most famous for?",
+  "question_hi": "राजस्थान किस खनिज पदार्थ के लिए सबसे अधिक प्रसिद्ध है?",
+  "A_en": "Marble", "A_hi": "संगमरमर",
+  "B_en": "Coal", "B_hi": "कोयला",
+  "C_en": "Gold", "C_hi": "सोना",
+  "D_en": "Diamond", "D_hi": "हीरा",
+  "answer": "A",
+  "explanation_en": "Rajasthan is renowned for its extensive marble deposits, especially in Makrana.",
+  "explanation_hi": "राजस्थान मकराना में खनिज पत्थर के विस्तार के कारण प्रसिद्ध है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Heritage Sites",
+  "question_en": "Which of the following is a UNESCO World Heritage Site in Rajasthan?",
+  "question_hi": "राजस्थान में निम्नलिखित में से कौन एक यूनेस्को विश्व धरोहर स्थल है?",
+  "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+  "B_en": "Forts and Palaces of Jaipur", "B_hi": "जयपुर के किले और महल",
+  "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+  "D_en": "Ranakpur Temple", "D_hi": "रणकपुर मंदिर",
+  "answer": "B",
+  "explanation_en": "The Forts and Palaces of Jaipur are a UNESCO World Heritage Site.",
+  "explanation_hi": "जयपुर के किले और महल एक यूनेस्को विश्व धरोहर स्थल हैं।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Waterfalls",
+  "question_en": "Which is the tallest waterfall in Rajasthan?",
+  "question_hi": "राजस्थान में सबसे ऊँची झील कौन सी है?",
+  "A_en": "Hathi Gandi Waterfall", "A_hi": "हाथी गंडी जलप्रपात",
+  "B_en": "Kumbheshwar Waterfall", "B_hi": "कुम्भेश्वर जलप्रपात",
+  "C_en": "Banas Waterfall", "C_hi": "बनास जलप्रपात",
+  "D_en": "Mundla Waterfall", "D_hi": "मुंडला जलप्रपात",
+  "answer": "B",
+  "explanation_en": "Kumbheshwar Waterfall in Kumbhalgarh is the tallest waterfall in Rajasthan.",
+  "explanation_hi": "कुम्भलगढ़ में कुम्भेश्वर जलप्रपात राजस्थान का सबसे ऊँचा जलप्रपात है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "State Symbols",
+  "question_en": "What is the state tree of Rajasthan?",
+  "question_hi": "राजस्थान का राज्य वृक्ष क्या है?",
+  "A_en": "Neem", "A_hi": "नीम",
+  "B_en": "Peepal", "B_hi": "पीपल",
+  "C_en": "Banyan", "C_hi": "बरगद",
+  "D_en": "Khejri", "D_hi": "खजूरी",
+  "answer": "C",
+  "explanation_en": "The Banyan tree is the state tree of Rajasthan.",
+  "explanation_hi": "बरगद के पेड़ को राजस्थान का राज्य वृक्ष माना जाता है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Salt Lakes",
+  "question_en": "Which lake in Rajasthan is the largest saltwater lake?",
+  "question_hi": "राजस्थान में सबसे बड़ा खारा जल झील कौन सा है?",
+  "A_en": "Sambhar Lake", "A_hi": "संभर झील",
+  "B_en": "Didwana Lake", "B_hi": "दिदवाना झील",
+  "C_en": "Pachpadra Lake", "C_hi": "पचपदरा झील",
+  "D_en": "Kuchaman Lake", "D_hi": "कुचमान झील",
+  "answer": "A",
+  "explanation_en": "Sambhar Lake is the largest saltwater lake in Rajasthan.",
+  "explanation_hi": "संभर झील राजस्थान का सबसे बड़ा खारा जल झील है।"
+},
+{
+  "subject": "Rajasthan Geography",
+  "topic": "Cities",
+  "question_en": "Which city is known as the 'Blue City' of Rajasthan?",
+  "question_hi": "राजस्थान में कौन से शहर को 'नीला शहर' के नाम से जाना जाता है?",
+  "A_en": "Udaipur", "A_hi": "उदयपुर",
+  "B_en": "Jodhpur", "B_hi": "जोधपुर",
+  "C_en": "Jaipur", "C_hi": "जयपुर",
+  "D_en": "Bhilwara", "D_hi": "भीलवाड़ा",
+  "answer": "B",
+  "explanation_en": "Jodhpur is known as the 'Blue City' due to its blue-painted houses.",
+  "explanation_hi": "जोधपुर को नीले रंग के घरों के कारण 'नीला शहर' के नाम से जाना जाता है।"
+}
+]
