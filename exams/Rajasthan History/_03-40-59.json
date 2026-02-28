@@ -1,0 +1,131 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, specifically for the topic provided. The user wants each question and options in both Hindi and English, following the Testbook style. The format must be strict JSON, with the example provided as a template. Let me start by recalling key points in Rajasthan history.
+
+First, the founder of Mewar. Udaipur is known as the city of lakes. Rana Pratap Singh is a key figure here. Then, the capital of Rajputana, which might be Jaipur. The ruler of the Kalbeliya community—maybe Ghanashyam Das? The first railway line in Rajasthan was opened in 1870, from Ajmer to Delhi. The famous ruler of Marwar—Jaswant Singh I from Jodhpur. The ruler who defeated Mughal emperor Akbar—Raja Man Singh of Amber. The oldest fort in Rajasthan is Chittorgarh Fort. The ruler who signed the Treaty of Bhorat—Raja Jai Singh of Jaipur. And the famous ruler of Hadoti, Raja Ratan Singh of Bundi.
+
+Now, I need to structure each question with subject, topic, question in both languages, options, answer, and explanations. Let me check the difficulty level. Rajasthan History questions should be of moderate to high difficulty, suitable for competitive exams like LDC, CET, RAS, etc. I need to ensure that the questions are factually accurate and the options are plausible but distinct. The explanations should be concise and to the point. Let me verify each fact for accuracy. For example, Chittorgarh Fort is indeed the oldest and largest, built by Raja Bappa Rawal. Rana Pratap Singh founded Udaipur. Treaty of Bhorat was signed by Sawai Jai Singh. Each question must have unique options and correct answers based on reliable historical sources. I'll now format each question into the JSON structure, ensuring the keys match the example. Also, the topic field is empty in the example, so I'll leave it as an empty string. Let me make sure all the translations are correct and the explanations are clear. Once done, I'll validate the JSON for syntax errors. Alright, time to compile the 10 questions.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the founder of the city of Udaipur (Mewar)?",
+    "question_hi": "उदयपुर (मेवाड़) के संस्थापक कौन थे?",
+    "A_en": "Rana Pratap Singh", "A_hi": "राणा प्रताप सिंह",
+    "B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+    "C_en": "Maharana Kumbha", "C_hi": "महाराणा कुंभा",
+    "D_en": "Rana Udai Singh II", "D_hi": "राणा उदय सिंह द्वितीय",
+    "answer": "D",
+    "explanation_en": "Udaipur was founded by Maharana Udai Singh II in 1559 as the capital of Mewar.",
+    "explanation_hi": "उदयपुर की स्थापना महाराणा उदय सिंह द्वितीय ने 1559 में मेवाड़ की राजधानी के रूप में की गई थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan is known as the 'Raja of Rajas'?",
+    "question_hi": "राजस्थान के किस शासक के राजा राजाओं के राजा के नाम से जाना जाता है?",
+    "A_en": "Malik Kafur", "A_hi": "मलिक काफूर",
+    "B_en": "Raja Man Singh I", "B_hi": "राजा मन सिंह प्रथम",
+    "C_en": "Raja Sawai Jai Singh", "C_hi": "राजा सवाई जय सिंह",
+    "D_en": "Raja Ratan Singh", "D_hi": "राजा रतन सिंह",
+    "answer": "C",
+    "explanation_en": "Raja Sawai Jai Singh of Jaipur is known as the 'Raja of Rajas' due to his administrative and architectural contributions.",
+    "explanation_hi": "जयपुर के राजा सवाई जय सिंह को उनके प्रशासनिक और स्थिति संबंधी योगदान के कारण 'राजा राजाओं के राजा' के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who built the famous Chittorgarh Fort?",
+    "question_hi": "चित्तौड़गढ़ किला किसके द्वारा बनाया गया था?",
+    "A_en": "Raja Bappa Rawal", "A_hi": "राजा बप्पा रावल",
+    "B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+    "C_en": "Rana Pratap Singh", "C_hi": "राणा प्रताप सिंह",
+    "D_en": "Maharana Kumbha", "D_hi": "महाराणा कुंभा",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort was built by Raja Bappa Rawal of the Guhila dynasty in the 8th century.",
+    "explanation_hi": "चित्तौड़गढ़ किला 8वीं शताब्दी में गुहिलों के राजा बप्पा रावल द्वारा निर्मित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan defeated the Mughal emperor Akbar?",
+    "question_hi": "राजस्थान के किस शासक ने मुगल सम्राट अकबर को पराजित किया?",
+    "A_en": "Raja Man Singh I", "A_hi": "राजा मन सिंह प्रथम",
+    "B_en": "Raja Prithviraj Chauhan", "B_hi": "राजा प्रताप सिंह",
+    "C_en": "Rana Sanga", "C_hi": "राणा सांगा",
+    "D_en": "Maharana Pratap", "D_hi": "महाराणा प्रताप",
+    "answer": "C",
+    "explanation_en": "Rana Sanga defeated Mughal emperor Akbar in the Battle of Khanwa in 1527.",
+    "explanation_hi": "राणा सांगा ने 1527 में खानवा के युद्ध में मुगल सम्राट अकबर को पराजित किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which of the following rulers signed the Treaty of Bhorat in 1707?",
+    "question_hi": "1707 में भोरत संधि पर किस शासक ने हस्ताक्षर किया था?",
+    "A_en": "Raja Jai Singh of Amber", "A_hi": "अम्बर के राजा जय सिंह",
+    "B_en": "Raja Raj Singh of Mewar", "B_hi": "मेवाड़ के राजा राज सिंह",
+    "C_en": "Raja Dheer Singh of Bikaner", "C_hi": "बीकानेर के राजा धीर सिंह",
+    "D_en": "Raja Man Singh of Jaipur", "D_hi": "जयपुर के राजा मन सिंह",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh of Amber signed the Treaty of Bhorat with the Mughal emperor Bahadur Shah I.",
+    "explanation_hi": "अम्बर के सवाई जय सिंह ने मुगल सम्राट बहादुर शाह प्रथम के साथ भोरत संधि पर हस्ताक्षर किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "The famous 'Khejadiya Fair' is associated with which ruler of Rajasthan?",
+    "question_hi": "प्रसिद्ध 'खेजड़िया मेला' राजस्थान के किस शासक से संबंधित है?",
+    "A_en": "Raja Man Singh of Amber", "A_hi": "अम्बर के राजा मन सिंह",
+    "B_en": "Raja Sawai Jai Singh of Jaipur", "B_hi": "जयपुर के राजा सवाई जय सिंह",
+    "C_en": "Raja Dungar Singh of Bikaner", "C_hi": "बीकानेर के राजा दुंगर सिंह",
+    "D_en": "Raja Ratan Singh of Bundi", "D_hi": "बुंदी के राजा रतन सिंह",
+    "answer": "D",
+    "explanation_en": "The Khejadiya Fair is associated with Raja Ratan Singh of Bundi, who encouraged the festival to promote art and culture.",
+    "explanation_hi": "खेजड़िया मेला बुंदी के राजा रतन सिंह से संबंधित है, जिन्होंने कला और संस्कृति को बढ़ावा देने के लिए इस पर्व को आयोजित किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan is known for the construction of the 'Chand Baori' stepwell?",
+    "question_hi": "राजस्थान के किस शासक के निर्माण के लिए 'चांद बोरी' कुंआ से जाना जाता है?",
+    "A_en": "Raja Chunda of Mewar", "A_hi": "मेवाड़ के राजा चुंडा",
+    "B_en": "Raja Rawal of Bundi", "B_hi": "बुंदी के राजा रावल",
+    "C_en": "Raja Man Singh of Amber", "C_hi": "अम्बर के राजा मन सिंह",
+    "D_en": "Raja Bhoj of Merta", "D_hi": "मेरठ के राजा भोज",
+    "answer": "B",
+    "explanation_en": "The Chand Baori stepwell was built by Raja Rawal of Bundi in the 14th century for water conservation.",
+    "explanation_hi": "चांद बोरी कुंआ बुंदी के राजा रावल द्वारा 14वीं शताब्दी में पानी के संरक्षण के लिए निर्मित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan was known as 'Shivraj'?",
+    "question_hi": "राजस्थान के किस शासक के 'शिवराज' के नाम से जाना जाता है?",
+    "A_en": "Raja Dungar Singh of Bikaner", "A_hi": "बीकानेर के राजा दुंगर सिंह",
+    "B_en": "Raja Man Singh of Amber", "B_hi": "अम्बर के राजा मन सिंह",
+    "C_en": "Raja Sawai Jai Singh of Jaipur", "C_hi": "जयपुर के राजा सवाई जय सिंह",
+    "D_en": "Raja Ratan Singh of Bundi", "D_hi": "बुंदी के राजा रतन सिंह",
+    "answer": "D",
+    "explanation_en": "Raja Ratan Singh of Bundi was known as 'Shivraj' due to his devotion to Lord Shiva.",
+    "explanation_hi": "बुंदी के राजा रतन सिंह को शिवराज के रूप में जाना जाता है क्योंकि उन्होंने भगवान शिव की भक्ति की थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the first ruler of Rajasthan to introduce the system of 'Dharmashala' (charitable rest houses)?",
+    "question_hi": "राजस्थान के पहले शासक कौन थे जिन्होंने 'धर्मशाला' (दान कर्म के आवास) प्रणाली का प्रवर्तन किया?",
+    "A_en": "Raja Man Singh of Amber", "A_hi": "अम्बर के राजा मन सिंह",
+    "B_en": "Raja Sawai Jai Singh of Jaipur", "B_hi": "जयपुर के राजा सवाई जय सिंह",
+    "C_en": "Raja Ratan Singh of Bundi", "C_hi": "बुंदी के राजा रतन सिंह",
+    "D_en": "Raja Udai Singh II of Mewar", "D_hi": "मेवाड़ के राजा उदय सिंह द्वितीय",
+    "answer": "A",
+    "explanation_en": "Raja Man Singh of Amber was the first to establish Dharmashalas to provide shelter for travelers and pilgrims.",
+    "explanation_hi": "अम्बर के राजा मन सिंह यात्रियों और तीर्थयात्रियों के लिए आवास प्रदान करने के लिए धर्मशालाओं की स्थापना करने वाले पहले शासक थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan is associated with the 'Kishangarh School of Miniature Painting'?",
+    "question_hi": "राजस्थान के किस शासक के साथ 'किशंगढ़ छोटे चित्र चित
