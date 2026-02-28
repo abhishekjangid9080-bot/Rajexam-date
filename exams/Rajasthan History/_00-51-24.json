@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Kingdoms",
+"question_en": "Which king founded the Mewar Kingdom in Rajasthan?",
+"question_hi": "राजस्थान मेवर किस राजधानी ने श्रमीकांना की राज्य बनाई।",
+"A_en": "Rao Jodha", "A_hi": "राव जोधा",
+"B_en": "Rao Kriya Singh", "B_hi": "राव कृया सिंग",
+"C_en": "Pratap Singh", "C_hi": "प्रताप सिंग",
+"D_en": "Rao Bika", "D_hi": "राव बिका",
+"answer": "D",
+"explanation_en": "Pratap Singh, also known as Rao Bika, founded the Mewar kingdom in Rajasthan.",
+"explanation_hi": "प्रताप सिंग, राव बिका के राजधानी के नाम मेवार के राजधानी को बना।",
+"explanation_HI": "राव बिका, राजधानी के नाम के राजधानी के बना।",
+}
