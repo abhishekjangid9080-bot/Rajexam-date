@@ -1,0 +1,179 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let's start by recalling important aspects of Rajasthan's culture. First, there's the traditional dance. Kalbeliya is a famous dance form from Rajasthan, right? So one question could be about which dance is associated with Rajasthan. The options could include Kalbeliya, Bharatanatyam, Kathak, etc.
+
+Next, music. There's the Ghoomar dance, which is also a key part of Rajasthani culture. Maybe a question asking about the traditional dance of Rajasthan performed by women. Options like Ghoomar, Garba, Bhangra, etc. Then, the festival of Gangaur, which is celebrated in Rajasthan, especially by women. A question on which festival is celebrated in honor of Goddess Gauri.
+
+Cuisine is another area. Dal Baati Churma is a traditional dish. A question about the staple food could be useful. Folk songs like Mewari, Marwari, and Rajasthani Ghazals. Maybe a question on the traditional folk songs of Rajasthan.
+
+Rajasthan's folk art includes miniature paintings, blue pottery, and block printing. A question on the traditional art form from Rajasthan could be about this.
+
+Then there's the attire. Men traditionally wear Angarkha or Ghagra, and women wear Ghagra-Choli with Turban (Odhani). Maybe a question on the traditional attire of Rajasthani women.
+
+Rajasthan's architecture is famous for its forts and palaces. A question asking which city is known as the 'Pink City' would refer to Jaipur. Another could be about a specific architectural style like Rajasthani architecture, which is a blend of Rajput and Mughal styles.
+
+Festivals like Teej, which is a monsoon festival celebrated by women, could be another question. Also, the Jaipur Literature Festival is a notable event in Rajasthan.
+
+In terms of difficulty, the questions should be of moderate to high level, testing the candidate's depth of knowledge. Each question must have four options with one correct answer. The explanation should be concise but informative enough to clarify the correct answer.
+
+Let me check if I have enough topics covered: dance, music, festivals, cuisine, folk art, attire, architecture, and specific events. That's about 8 topics. Need two more. Maybe include a question on the folk deity or a famous temple. The Mahakaleshwar Temple in Udaipur is dedicated to Lord Shiva. Alternatively, the folk deity Devnarayan. Another could be about the traditional games, like Gullak or Kite flying during festivals.
+
+I need to ensure that all options are plausible and the correct answer is clear. For example, in the question about the capital, the options should have correct and similar-sounding names. Also, the explanations should justify why the answer is correct and why the other options are not.
+
+Now, structuring each question with subject, topic, question in English and Hindi, four options in both languages, the correct answer, and explanations in both languages. The topic field should be filled with specific sub-topics like "Festivals of Rajasthan", "Traditional Dances of Rajasthan", etc.
+
+I need to make sure that the JSON format matches the example provided, with all required fields. Each question should be unique and cover different aspects of Rajasthan's culture without repeating the same topic. Also, the difficulty level should be appropriate for the mentioned exams, which are state-level and competitive, so the questions should be challenging but answerable with good preparation.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dances",
+    "question_en": "Which of the following dances is a traditional folk dance of Rajasthan performed by women?",
+    "question_hi": "निम्नलिखित में से कौन-सा नृत्य राजस्थान का एक पारंपरिक लोक नृत्य है जिसे महिलाओं द्वारा किया जाता है?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कालबेलिया",
+    "B_en": "Ghoomar",
+    "B_hi": "घूमर",
+    "C_en": "Bhangra",
+    "C_hi": "भंगड़ा",
+    "D_en": "Garba",
+    "D_hi": "गरबा",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional Rajasthani dance performed by women, known for its graceful circular movements.",
+    "explanation_hi": "घूमर एक पारंपरिक राजस्थानी नृत्य है जिसे महिलाएं करती हैं और इसके आकर्षक वृत्ताकार आंदोलन के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival in Rajasthan is celebrated to honor the goddess Gauri and mark the arrival of spring?",
+    "question_hi": "राजस्थान में गौरी देवी के सम्मान में और बसंत ऋतु के आगमन के लिए कौन-सा त्योहार मनाया जाता है?",
+    "A_en": "Gangaur",
+    "A_hi": "गंगौर",
+    "B_en": "Diwali",
+    "B_hi": "दिवाली",
+    "C_en": "Holi",
+    "C_hi": "होली",
+    "D_en": "Navratri",
+    "D_hi": "नवरात्रि",
+    "answer": "A",
+    "explanation_en": "Gangaur is a significant festival in Rajasthan dedicated to Goddess Gauri, symbolizing marital harmony and the arrival of spring.",
+    "explanation_hi": "गंगौर राजस्थान में गौरी देवी के सम्मान में मनाया जाने वाला एक महत्वपूर्ण त्योहार है, जो विवाहिता के संबंधों और बसंत ऋतु के आगमन को चिह्नित करता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "Which of the following is a traditional food dish of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सा राजस्थान का पारंपरिक खाना है?",
+    "A_en": "Biryani",
+    "A_hi": "बिरयानी",
+    "B_en": "Dal Baati Churma",
+    "B_hi": "दाल बाती चूरमा",
+    "C_en": "Pani Puri",
+    "C_hi": "पानी पुरी",
+    "D_en": "Dhokla",
+    "D_hi": "ढोकला",
+    "answer": "B",
+    "explanation_en": "Dal Baati Churma is a staple meal in Rajasthan, consisting of lentils, wheat balls, and sweet crushed wheat.",
+    "explanation_hi": "दाल बाती चूरमा राजस्थान में एक प्रमुख भोजन है, जिसमें दाल, गेहूं के गोले और मीठे गेहूं के टुकड़े शामिल होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Art",
+    "question_en": "Which of the following art forms is traditionally associated with Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सा कला रूप राजस्थान के साथ पारंपरिक रूप से संबंधित है?",
+    "A_en": "Miniature Painting",
+    "A_hi": "एकांकी चित्रकला",
+    "B_en": "Sculpture",
+    "B_hi": "शिल्प",
+    "C_en": "Ceramics",
+    "C_hi": "सिरेमिक्स",
+    "D_en": "Pottery",
+    "D_hi": "मिट्टी के बरतन",
+    "answer": "A",
+    "explanation_en": "Miniature painting is a traditional art form of Rajasthan, often depicting scenes from mythology, royal life, and nature.",
+    "explanation_hi": "एकांकी चित्रकला राजस्थान की एक पारंपरिक कला रूप है, जोकि आमतौर पर पौराणिक कथाओं, राजवंश के जीवन और प्रकृति की झलक प्रस्तुत करती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which of the following is a traditional folk song style of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सा राजस्थान का पारंपरिक लोक गीत शैली है?",
+    "A_en": "Bhajani",
+    "A_hi": "भजनी",
+    "B_en": "Thumri",
+    "B_hi": "ठुमरी",
+    "C_en": "Kajli Gaadi",
+    "C_hi": "काजली गाड़ी",
+    "D_en": "Rasgulla",
+    "D_hi": "रसगुल्ला",
+    "answer": "C",
+    "explanation_en": "Kajli Gaadi is a traditional Rajasthani folk song performed during the monsoon season, celebrating the arrival of rain.",
+    "explanation_hi": "काजली गाड़ी राजस्थान का एक पारंपरिक लोक गीत है, जोकि वर्षा ऋतु के आगमन के दौरान मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which city in Rajasthan is known as the 'Pink City'?",
+    "question_hi": "राजस्थान में कौन-सा शहर 'गुलाबी शहर' के रूप में प्रसिद्ध है?",
+    "A_en": "Jodhpur",
+    "A_hi": "जोधपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Bikaner",
+    "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Jaipur is called the 'Pink City' due to its pink-colored buildings, including the iconic Hawa Mahal.",
+    "explanation_hi": "जयपुर को 'गुलाबी शहर' के रूप में जाना जाता है, क्योंकि इसकी इमारतों का रंग गुलाबी है, जिसमें हवा महल जैसी प्रतिष्ठित इमारतें शामिल हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional attire worn by Rajasthani women?",
+    "question_hi": "राजस्थानी महिलाएं पहने हुए पारंपरिक पोशाक क्या है?",
+    "A_en": "Sari",
+    "A_hi": "साड़ी",
+    "B_en": "Ghagra-Choli",
+    "B_hi": "घगरा-चोली",
+    "C_en": "Salwar Kameez",
+    "C_hi": "सलवार कमीज",
+    "D_en": "Lehenga",
+    "D_hi": "लेहंगा",
+    "answer": "B",
+    "explanation_en": "Ghagra-Choli is a traditional outfit worn by Rajasthani women, paired with an ornate odhni (turban) or dupatta.",
+    "explanation_hi": "घगरा-चोली राजस्थानी महिलाओं द्वारा पहने जाने वाला एक पारंपरिक पोशाक है, जिसे ओढ़नी (तुर्बन) या दुपट्टा के साथ पहना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Deities",
+    "question_en": "Which of the following is a revered folk deity in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सा राजस्थान में पूजा जाने वाला एक लोक देवता है?",
+    "A_en": "Mahaveer",
+    "A_hi": "महावीर",
+    "B_en": "Devnarayan",
+    "B_hi": "देवनरायण",
+    "C_en": "Krishna",
+    "C_hi": "कृष्णा",
+    "D_en": "Ganesh",
+    "D_hi": "गणेश",
+    "answer": "B",
+    "explanation_en": "Devnarayan is a popular folk deity in Rajasthan, particularly worshipped in the Hadoti region for protection against diseases.",
+    "explanation_hi": "देवनरायण राजस्थान में एक लोकप्रिय लोक देवता है, जिसे बीमारियों से बचाव के लिए हड़ोती क्षेत्र में पूजा जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival in Rajasthan is celebrated to welcome the monsoon season?",
+    "question_hi": "राजस्थान में बरसात की ऋतु के स्वागत के लिए कौन-सा त्योहार मनाया जाता है?",
+    "A_en": "Kala Chauth",
+    "A_hi": "काला चौथ",
+    "B_en": "Gangaur",
+    "B_hi": "गंगौर",
+    "C_en": "Kajli Mahotsav",
+    "C_hi": "काजली महोत्सव",
+    "D_en": "Diwali",
+    "D_hi": "दिवाली",
+    "answer": "C",
+    "explanation_en": "Kajli Mahotsav is a Rajasthani festival welcoming the monsoon, celebrated with music, dance, and Kajli songs.",
+    "explanation_hi": "काजली महोत्सव राजस्थान में बरसात के आगमन के स्वागत के लिए मनाया जाने वाला एक त्योहार है, जिस
