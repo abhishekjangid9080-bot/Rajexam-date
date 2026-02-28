@@ -1,0 +1,44 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which was the first capital of Rajasthan?",
+"question_hi": "राजस्थान की पहली राजधानी कौन से थी।",
+"A_en": "Ajmer", "A_hi": "अजमेर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jhalawar", "C_hi": "जहालवार",
+"D_en": "Jaisalmer", "D_hi": "जयसालमर",
+"answer": "D",
+"explanation_en": "Jaisalmer was the first capital of Rajasthan when it was formed as a princely state in 1949. It became the state capital after India's independence in 1947.",
+"explanation_hi": "राजस्थान के बनाए गए संतुल स्थान के लिए 1949 में शुरु हुए थे, जैसे भारतीय संदेश के बनाए गए संतुल के संतुल में संतुल के लिए हुए थे, जैसे भारतीय संतुल के बनाए गए संतुल के लिए हुए संतुल में शुरूख ली गयी थी, और पूरी संतुल में शुरूख ली गयी थी।",
+"question_hi": "राजस्थान में शुरूख ली गयी थी। राजस्थान के पूरी संतुल में शुरूख लिए गए।",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "अलविद्यांक",
+"option_author": "संतुल, नविद्यांक",
+"difficulty": "मुखनेवाला",
+"score": 10
+},
+{
+"option_id": 2,
+"option_text": "जिलों में शुरूख लिए गए।",
+"option_author": "आपनेवाला",
+"difficulty": "मुखनेवाला",
+"score": 10
+},
+{
+"option_id": 3,
+"option_text": "राज्य में शुरूख लिए गए।",
+"option_author": "कैलिंगवाला",
+"difficulty": "मुखनेवाला",
+"score": 10
+},
+{
+"option_id": 4,
+"option_text": "संतुल, आपनेवाला और कैलिंगवाला के निवादी के लिए गए।",
+"option_author": "कैलिंगवाला और आपनेवाला",
+"difficulty": "मुखनेवाला",
+"score": 15
+}
+]
