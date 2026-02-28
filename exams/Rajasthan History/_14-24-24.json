@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है।",
+"A_en": "Udaipur",
+"A_hi": "उदयपुर",
+"B_en": "Jodhpur",
+"B_hi": "जोधपुर",
+"C_en": "Jaipur",
+"C_hi": "जयपुर",
+"D_en": "Ajmer",
+"D_hi": "अजमेर",
+"answer": "J",
+"explanation_en": "Jaipur is the capital of Rajasthan.\nराजस्थान की राजधानी है\nजयपुर",
+"explanation_hi": "राजस्थान की राजधानी है\nजोधपुर",
+"difficulty_level": "Easy"
+}
+]
