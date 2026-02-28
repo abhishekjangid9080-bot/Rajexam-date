@@ -1,0 +1,52 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Rao Jodha?",
+"question_hi": "राजा राव जोध ने किस प्रमुखी घर बनाया।",
+"A_en": "Amber Fort", "A_hi": "अमेरिका घर",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुमभागल घर",
+"C_en": "Mehrangarh Fort", "C_hi": "मेहरांघर घर",
+"D_en": "Jaigarh Fort", "D_hi": "जयघर घर",
+"answer": "C",
+"explanation_en": "Mehrangarh Fort was built by Raja Rao Jodha.\nRaja Rao Jodha was a Rajput ruler who founded the city of Jodhpur and built the Mehrangarh Fort as his capital.",
+"explanation_hi": "राजा राव जोध ने जोधपुर के स्थापन करने के लिए जोधपुर का नाम क्या है? एक राजपुर का संतुल्यांक के लिए नाम क्या है? एक राजपुर का संतुल्यांक के लिए नाम क्या है? एक राजपुर का संतुल्यांक के लिए नाम क्या है? एक राजपुर का संतुल्यांक के लिए नाम क्या है? एक राजपुर का संतुल्यांक के लिए नाम क्या है?",
+"options": [
+{
+"option_number": 1,
+"option_text_en": "Kumbhalgarh",
+"option_text_hi": "कुभलगढ़",
+"option_correct_en": "Kumbhalgarh"
+},
+{
+"option_number": 2,
+"option_text_en": "Jaisamand",
+"option_text_hi": "जयसामांड",
+"option_correct_en": "Jaisamand"
+},
+{
+"option_number": 3,
+"option_text_en": "Amber",
+"option_text_hi": "अमबेर",
+"option_correct_en": "Amber"
+},
+{
+"option_number": 4,
+"option_text_en": "Balsamand",
+"option_text_hi": "बालसमांड",
+"option_correct_en": "Balsamand"
+},
+{
+"option_number": 5,
+"option_text_en": "Riwar",
+"option_text_hi": "रिवार",
+"option_correct_en": "Riwar"
+},
+{
+"option_number": 6,
+"option_text_en": "Kumbhalgarh",
+"option_text_hi": "कुभलगढ़",
+"option_correct_en": "Kumbhalgarh"
+}
+]
+]
