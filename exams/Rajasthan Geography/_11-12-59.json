@@ -1,0 +1,160 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for Rajasthan Geography, specifically for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following a specific JSON format. First, I need to ensure that each question is relevant to Rajasthan's geography and covers different topics within it. 
+
+Starting with the first question: The capital of Rajasthan. That's a basic one, so I'll include it to test fundamental knowledge. The answer is Jaipur. Next, I can move to the largest district by area. I remember that Jaisalmer is the largest, so that's a good second question.
+
+For the third question, identifying the state's river. The Chambal is a significant river in Rajasthan, so that's a good choice. Then the fourth question could be about the smallest district. I think it's Dungarpur, but I need to verify that. 
+
+The fifth question can be about the highest peak in Rajasthan. I recall that Guru Shikhar is the highest, located in the Aravallis. The sixth question might be about the desert region. Thar Desert is the correct answer here.
+
+Next, the seventh question could focus on the largest irrigation project. Chambal Project is a major one, so that's a good fit. The eighth question can be about the state bird, which is the Peacock. 
+
+For the ninth question, the southernmost district. I think it's Banswara, but I should double-check. The tenth question can be about the river that forms the border with Gujarat. The Sabarmati is the one that does that. 
+
+I need to make sure all the information is accurate. For example, confirming the largest district by area is Jaisalmer. Checking the smallest district—Dungarpur might be correct, but sometimes there's confusion with other districts. The highest peak is definitely Guru Shikhar. 
+
+Also, the explanations should be concise and in both languages. I need to ensure that the options are not confusing and are clear. Each question should test specific knowledge without ambiguity. 
+
+I'll structure each JSON object with subject, topic, questions in both languages, options, answer, and explanations. The topic field is empty in the example, but maybe it's better to specify it as "Rajasthan Geography" for clarity. Wait, the user's example shows the topic as empty. Hmm, maybe they just want the subject there. I'll follow the example and leave the topic as an empty string.
+
+Now, translating all the questions into Hindi accurately is important. For instance, "राजस्थान का सबसे बड़ा जिला कौन सा है?" for the largest district. The options should also be correctly translated. 
+
+I need to avoid any markdown and ensure the JSON is correctly formatted. Each question should have unique identifiers and proper syntax. Also, checking that the answer letters (A, B, C, D) are consistent. 
+
+Finally, reviewing each question for difficulty level appropriate for Rajasthan State Exams. They should be straightforward but require accurate knowledge. No trick questions, just factual information based on Rajasthan's geography. Once all 10 are ready, I'll format them into the required JSON structure without any extra text.
+</think>
+
+```json
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "What is the capital of Rajasthan?",
+    "question_hi": "राजस्थान की राजधानी क्या है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Jaipur", "B_hi": "जयपुर",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Jaipur is the capital of Rajasthan.",
+    "explanation_hi": "जयपुर राजस्थान की राजधानी है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which is the largest district in Rajasthan by area?",
+    "question_hi": "राजस्थान का क्षेत्रफल के हिसाब से सबसे बड़ा जिला कौन सा है?",
+    "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+    "B_en": "Churu", "B_hi": "चूरू",
+    "C_en": "Banswara", "C_hi": "बांसवाड़ा",
+    "D_en": "Dungarpur", "D_hi": "दूंगरपुर",
+    "answer": "A",
+    "explanation_en": "Jaisalmer is the largest district in Rajasthan by area.",
+    "explanation_hi": "जैसलमेर राजस्थान का क्षेत्रफल के हिसाब से सबसे बड़ा जिला है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which river is known as the lifeline of Rajasthan?",
+    "question_hi": "राजस्थान की किस नदी को जीवन रेखा के रूप में जाना जाता है?",
+    "A_en": "Chambal", "A_hi": "चम्बल",
+    "B_en": "Luni", "B_hi": "लूनी",
+    "C_en": "Mahi", "C_hi": "मही",
+    "D_en": "Sabarmati", "D_hi": "साबरमती",
+    "answer": "A",
+    "explanation_en": "Chambal is considered the lifeline of Rajasthan due to its significance in irrigation and power generation.",
+    "explanation_hi": "चम्बल नदी को राजस्थान की जीवन रेखा माना जाता है क्योंकि इसका अत्यधिक महत्व अनुप्रदेशन और बिजली उत्पादन में है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which district is the southernmost in Rajasthan?",
+    "question_hi": "राजस्थान में दक्षिणीतम जिला कौन सा है?",
+    "A_en": "Dungarpur", "A_hi": "दूंगरपुर",
+    "B_en": "Banswara", "B_hi": "बांसवाड़ा",
+    "C_en": "Chittorgarh", "C_hi": "चित्तौड़गढ़",
+    "D_en": "Udaipur", "D_hi": "उदयपुर",
+    "answer": "B",
+    "explanation_en": "Banswara is the southernmost district of Rajasthan.",
+    "explanation_hi": "बांसवाड़ा राजस्थान का दक्षिणीतम जिला है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which peak is the highest in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+    "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+    "B_en": "Guru Shikhar", "B_hi": "गुरु शिखर",
+    "C_en": "Kumbhalgarh", "C_hi": "कुंभलगढ़",
+    "D_en": "Sariska", "D_hi": "सरिस्का",
+    "answer": "B",
+    "explanation_en": "Guru Shikhar is the highest peak in Rajasthan, located in the Aravalli Range.",
+    "explanation_hi": "गुरु शिखर राजस्थान की सबसे ऊँची चोटी है, जो अरावली पर्वत श्रेणी में स्थित है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which region of Rajasthan is known for its desert landscape?",
+    "question_hi": "राजस्थान के किस क्षेत्र को रेगिस्तान के लैंडस्केप के लिए जाना जाता है?",
+    "A_en": "Thar Desert", "A_hi": "थार रेगिस्तान",
+    "B_en": "Aravalli Range", "B_hi": "अरावली पर्वत श्रेणी",
+    "C_en": "Mewar Region", "C_hi": "मेवाड़ क्षेत्र",
+    "D_en": "Hadoti Region", "D_hi": "हड़तल क्षेत्र",
+    "answer": "A",
+    "explanation_en": "The Thar Desert, also known as the Rajasthan Desert, covers a major part of western Rajasthan.",
+    "explanation_hi": "थार रेगिस्तान, जिसे राजस्थान रेगिस्तान भी कहा जाता है, पश्चिमी राजस्थान के लगभग आधे हिस्से पर फैला हुआ है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which river forms the boundary between Rajasthan and Gujarat?",
+    "question_hi": "राजस्थान और गुजरात के बीच सीमा किस नदी द्वारा बनती है?",
+    "A_en": "Chambal", "A_hi": "चम्बल",
+    "B_en": "Sabarmati", "B_hi": "साबरमती",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Mahi", "D_hi": "मही",
+    "answer": "B",
+    "explanation_en": "The Sabarmati River forms the boundary between Rajasthan and Gujarat in the south.",
+    "explanation_hi": "साबरमती नदी दक्षिण में राजस्थान और गुजरात के बीच सीमा बनाती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "What is the state bird of Rajasthan?",
+    "question_hi": "राजस्थान का राज्य पक्षी क्या है?",
+    "A_en": "Peacock", "A_hi": "मोर",
+    "B_en": "Crow", "B_hi": "कोयला",
+    "C_en": "Parrot", "C_hi": "गौरे",
+    "D_en": "Eagle", "D_hi": "गिद्ध",
+    "answer": "A",
+    "explanation_en": "The peacock is the state bird of Rajasthan.",
+    "explanation_hi": "मोर राजस्थान का राज्य पक्षी है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which district is the smallest in Rajasthan by area?",
+    "question_hi": "राजस्थान में क्षेत्रफल के हिसाब से सबसे छोटा जिला कौन सा है?",
+    "A_en": "Dungarpur", "A_hi": "दूंगरपुर",
+    "B_en": "Chittorgarh", "B_hi": "चित्तौड़गढ़",
+    "C_en": "Banswara", "C_hi": "बांसवाड़ा",
+    "D_en": "Sirohi", "D_hi": "सिरोही",
+    "answer": "D",
+    "explanation_en": "Sirohi is the smallest district in Rajasthan by area.",
+    "explanation_hi": "सिरोही राजस्थान का क्षेत्रफल के हिसाब से सबसे छोटा जिला है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which project is the largest irrigation project in Rajasthan?",
+    "question_hi": "राजस्थान में अनुप्रदेशन के क्षेत्र में सबसे बड़ा परियोजना कौन सी है?",
+    "A_en": "Chambal Project", "A_hi": "चम्बल परियोजना",
+    "B_en": "Mahi Bajaj Sagar Project", "B_hi": "मही बाजाज सागर परियोजना",
+    "C_en": "Bhakra Nangal Project", "C_hi": "भाखड़ा नांगल परियोजना",
+    "D_en": "Sardar Sarovar Project", "D_hi": "सरदार सरोवर परियोजना",
+    "answer": "A",
+    "explanation_en": "The Chambal Project is the largest irrigation project in Rajasthan.",
+    "explanation_hi": "चम्बल परियोजना राजस्थान में अनुप्रदेशन के क्षेत्र में सबसे बड़ी परियोजना है।"
+  }
+]
+```
