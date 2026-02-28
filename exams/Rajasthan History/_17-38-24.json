@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन खुद भागीदेंगें किया गया फोर्ट?",
+"A_en": "Meena Bazaar", "A_hi": "मेना बाजार",
+"B_en": "Umaid Bhawan", "B_hi": "उमाईद भावना",
+"C_en": "Fort Mehrangarh", "C_hi": "फोर्ट मेहरांगर",
+"D_en": "Clock Tower", "D_hi": "चक्रवाल",
+"answer": "C",
+"explanation_en": "Fort Mehrangarh is a famous fort located in Jodhpur, Rajasthan.",
+"explanation_hi": "राजस्थान के जोड़ी मेहरांगर एक राजस्थान में जोड़ी मेहरांगर है।",
+}
+]
