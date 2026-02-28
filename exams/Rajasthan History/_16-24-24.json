@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace in Jaipur was built by Maharaja Jai Singh II?",
+"question_hi": "जयपुर महाराजा जैसिंग II के बनने वाले महत्त्वारा क्या है।",
+"A_en": "Amber Fort",
+"A_hi": "अमेरिका मंगल",
+"B_en": "Hawa Mahal",
+"B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II",
+"C_hi": "सावाई महाराजा सवाई मंगल का उपयोगी",
+"D_en": "Pratapgarh Fort",
+"D_hi": "प्रतापगढ़ मंगल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace in Jaipur, built by Maharaja Sawai Pratap Singh.",
+"explanation_hi": "हवा महाल एक लॉलिया मंगल के निवासी है। यह बेंकर सावाई मंगल का इन्सार है।",
+}
+]
