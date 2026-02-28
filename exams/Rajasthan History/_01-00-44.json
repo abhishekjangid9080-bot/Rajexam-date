@@ -1,0 +1,164 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions for Rajasthan History, targeting exams like LDC, CET, RAS, SSC, and Railway NTPC. Let me start by brainstorming key topics in Rajasthan History. The user mentioned the topic is empty, so I'll need to cover various aspects like ancient kingdoms, Mughal period, Maratha influence, British colonization, and important historical events or figures.
+
+First, I should recall major events, rulers, and periods in Rajasthan's history. For example, the establishment of the Rajput kingdoms, the role of Rajputs in resisting Mughals, notable figures like Maharana Pratap, the integration of princely states into India, and significant battles like the Battle of Haldighati. Also, important cultural contributions and historical sites like Chittorgarh Fort, Mehrangarh Fort, and Udaipur's history.
+
+Next, I need to ensure each question tests the candidate's understanding of specific historical facts. Let's think about possible questions. For example, a question on the founder of Udaipur, the ruler who defeated Mughals at Haldighati, or the last ruler of a particular state before integration. Each question should have four options, with the correct answer and explanations in both Hindi and English.
+
+I should check the difficulty level to match the exams. Rajasthan History for these exams often includes factual questions with some moderate ones. I need to avoid very obscure facts but include well-known events and figures. Also, ensure that the options are plausible but only one is correct.
+
+Let me outline the questions one by one. Start with the first question: Who was the founder of Udaipur? Answer is Maharana Udai Singh II. Next, the Battle of Haldighati was fought between Akbar and Maharana Pratap. Then, the ruler of Marwar who shifted capital to Jodhpur, which is Rao Jodha. The integration of Rajasthan princely states under Sardar Vallabhbhai Patel. The capital of Mewar during Rajput period, Chittorgarh. The ruler who gave the slogan 'Jai Hind' in 1905, Sir Prithvi Singh. The last ruler of Bikaner before independence, Gaj Singh. The historical site of the Battle of Khanwa, where Babur defeated Rana Sanga. The person who built the city of Jaisalmer, Rawal Jaisal. Finally, the ruler who founded the Kumbhalgarh Fort, Rana Kumbha.
+
+For each question, I need to write the question in English and Hindi, then four options in both languages. The answer should be the correct option letter. Explanations should be concise, explaining why that option is correct. Also, ensure translations are accurate between English and Hindi without any errors.
+
+I need to verify the facts again to confirm correctness. For example, Rao Jodha did establish Jodhpur in 1459. Maharana Pratap indeed fought against Akbar at Haldighati. Sardar Patel's role in integrating princely states is a key point. Also, the founder of Udaipur is Udai Singh II, moving from Chittorgarh due to Humayun's threat. Jaisalmer was founded by Rawal Jaisal in 1156 AD. Kumbhalgarh Fort was built by Rana Kumbha, known for its long wall. Sir Prithvi Singh of Alwar gave 'Jai Hind' slogan in 1905. Gaj Singh was the last ruler of Bikaner before independence. Battle of Khanwa was between Babur and Rana Sanga in 1527. Sir Sawai Jai Singh II merged princely states, but Patel is the right answer for integration. Chittorgarh was the capital during Rajput rule.
+
+Once all facts are verified, structure each question in the required JSON format. Make sure the JSON is valid, with proper commas and brackets. Each object in the array should have all required fields: subject, topic (left empty as per user), question in both languages, options A to D, answer, and explanations in both languages. Check for any typos or formatting issues. Since the user wants raw JSON without any extra text, ensure that the output is exactly as specified.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the founder of the city of Udaipur?",
+    "question_hi": "उदयपुर शहर के स्थापक कौन थे?",
+    "A_en": "Maharana Pratap",
+    "A_hi": "महाराणा प्रताप",
+    "B_en": "Maharana Udai Singh II",
+    "B_hi": "महाराणा उदय सिंह द्वितीय",
+    "C_en": "Rao Jodha",
+    "C_hi": "राव जोधा",
+    "D_en": "Maharaja Jai Singh",
+    "D_hi": "महाराजा जय सिंह",
+    "answer": "B",
+    "explanation_en": "Udaipur was founded by Maharana Udai Singh II in 1559 CE as a safe haven for the Mewar kingdom.",
+    "explanation_hi": "उदयपुर मेवार राज्य के लिए सुरक्षित अपनी राजधानी के रूप में महाराणा उदय सिंह द्वितीय द्वारा 1559 ई. में स्थापित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which battle was fought between Maharana Pratap and Emperor Akbar?",
+    "question_hi": "महाराणा प्रताप और अकबर द्वारा कौन-सी लड़ाई लड़ी गई थी?",
+    "A_en": "Battle of Haldighati",
+    "A_hi": "हल्दीघाटी की लड़ाई",
+    "B_en": "Battle of Khanwa",
+    "B_hi": "खानवा की लड़ाई",
+    "C_en": "Battle of Saraighat",
+    "C_hi": "सराइगढ़ की लड़ाई",
+    "D_en": "Battle of Chillianwala",
+    "D_hi": "चिलियनवाला की लड़ाई",
+    "answer": "A",
+    "explanation_en": "The Battle of Haldighati in 1576 was a significant conflict between Maharana Pratap and the Mughal emperor Akbar.",
+    "explanation_hi": "1576 में हल्दीघाटी की लड़ाई महाराणा प्रताप और मुगल सम्राट अकबर के बीच महत्वपूर्ण छापा मारे गए थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who shifted the capital of Marwar from Mandore to Jodhpur?",
+    "question_hi": "मारवाड़ की राजधानी मन्दौर से जोधपुर कहाँ शिफ्ट करने वाला राजा कौन था?",
+    "A_en": "Rao Chandra Singh",
+    "A_hi": "राव चन्द्र सिंह",
+    "B_en": "Rao Jodha",
+    "B_hi": "राव जोधा",
+    "C_en": "Rao Bika",
+    "C_hi": "राव बिका",
+    "D_en": "Rao Maldeo",
+    "D_hi": "राव मल्लदेव",
+    "answer": "B",
+    "explanation_en": "Rao Jodha founded Jodhpur in 1459 and shifted the capital from Mandore to Jodhpur.",
+    "explanation_hi": "राव जोधा ने 1459 में जोधपुर की स्थापना की और मन्दौर से राजधानी जोधपुर ले आए।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which leader played a key role in the integration of Rajasthan princely states into India?",
+    "question_hi": "राजस्थान के रियासतों को भारत में सम्मिलित करने में किस नेता की भूमिका महत्वपूर्ण रही?",
+    "A_en": "Sardar Vallabhbhai Patel",
+    "A_hi": "सरदार वल्लभ भाई चीतल",
+    "B_en": "Mahatma Gandhi",
+    "B_hi": "महात्मा गांधी",
+    "C_en": "Subhash Chandra Bose",
+    "C_hi": "सुभाष चंद्र बोस",
+    "D_en": "Jawaharlal Nehru",
+    "D_hi": "जवाहर लाल नेहरू",
+    "answer": "A",
+    "explanation_en": "Sardar Vallabhbhai Patel was instrumental in integrating Rajasthan's princely states into the Indian Union post-independence.",
+    "explanation_hi": "सरदार वल्लभ भाई चीतल आजादी के बाद राजस्थान की रियासतों को भारतीय संघ में सम्मिलित करने में महत्वपूर्ण भूमिका निभाई।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler gave the slogan 'Jai Hind' for the first time in 1905?",
+    "question_hi": "1905 में 'जय हिन्द' नारा पहली बार किस शासक द्वारा दिया गया था?",
+    "A_en": "Maharaja Sawai Jai Singh II",
+    "A_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "B_en": "Sir Prithvi Singh of Alwar",
+    "B_hi": "अलवर के सर पृथ्वी सिंह",
+    "C_en": "Maharaja Ganga Singh of Bikaner",
+    "C_hi": "बीकानेर के महाराजा गंगा सिंह",
+    "D_en": "Maharaja Man Singh of Jaipur",
+    "D_hi": "जयपुर के महाराजा मन सिंह",
+    "answer": "B",
+    "explanation_en": "Sir Prithvi Singh of Alwar first used the slogan 'Jai Hind' in 1905 to boost Indian nationalism.",
+    "explanation_hi": "1905 में अलवर के सर पृथ्वी सिंह ने भारतीय राष्ट्रवाद को बढ़ावा देने के लिए 'जय हिन्द' नारा दिया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which fort is known as the 'Forte of the Forts' in Rajasthan?",
+    "question_hi": "राजस्थान में 'फॉर्ट ऑफ़ द फॉर्ट्स' के रूप में किस किले को जाना जाता है?",
+    "A_en": "Chittorgarh Fort",
+    "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Kumbhalgarh Fort",
+    "B_hi": "कुंभलगढ़ किला",
+    "C_en": "Amber Fort",
+    "C_hi": "अंबर किला",
+    "D_en": "Gagron Fort",
+    "D_hi": "गगरौन किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is renowned as the 'Forte of the Forts' due to its historical significance and grandeur.",
+    "explanation_hi": "चित्तौड़गढ़ किला अपने ऐतिहासिक महत्व और शान के कारण 'फॉर्ट ऑफ़ द फॉर्ट्स' के रूप में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who built the city of Jaisalmer?",
+    "question_hi": "जैसलमेर शहर किसके द्वारा निर्मित किया गया था?",
+    "A_en": "Rao Jaisal",
+    "A_hi": "राव जैसल",
+    "B_en": "Rao Bika",
+    "B_hi": "राव बिका",
+    "C_en": "Rao Maldeo",
+    "C_hi": "राव मल्लदेव",
+    "D_en": "Rao Lunkaran",
+    "D_hi": "राव लुंकरान",
+    "answer": "A",
+    "explanation_en": "Jaisalmer was founded by Rawal Jaisal in 1156 CE as a fortified city in the Thar Desert.",
+    "explanation_hi": "जैसलमेर रावल जैसल द्वारा 1156 ई. में थार के रेगिस्तान में एक बलुई शहर के रूप में स्थापित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan is known as the 'Rana of the Wall'?",
+    "question_hi": "राजस्थान के किस शासक को 'कील के राना' के नाम से जाना जाता है?",
+    "A_en": "Rana Kumbha",
+    "A_hi": "राणा कुंभा",
+    "B_en": "Rana Sanga",
+    "B_hi": "राणा सांगा",
+    "C_en": "Rana Pratap",
+    "C_hi": "राणा प्रताप",
+    "D_en": "Rana Amar Singh",
+    "D_hi": "राणा अमर सिंह",
+    "answer": "A",
+    "explanation_en": "Rana Kumbha earned the title 'Rana of the Wall' for constructing the massive wall of Kumbhalgarh Fort.",
+    "explanation_hi": "राणा कुंभा ने कुंभलगढ़ किले की विशाल दीवार बनाने के कारण 'कील के राना' के नाम से प्रसिद्धि प्राप्त की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which battle was fought between Rana Sanga and Babur?",
+    "question_hi": "राणा सांगा और बाबर के बीच कौन-सी लड़ाई लड़ी गई थी?",
+    "A_en": "Battle of Khanwa",
+    "A_hi": "खानवा की लड़ाई",
+    "B_en": "Battle of Haldighati",
+    "B_hi": "हल्दीघाटी क
