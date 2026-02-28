@@ -1,0 +1,171 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway NTPC. The instructions specify that each question must be in both Hindi and English, following the Testbook style. The JSON structure is provided, and the difficulty level should be set according to Rajasthan History's standard. 
+
+First, I need to identify key topics within Rajasthan History. Possible areas include ancient kingdoms, Mughal period, British Raj, notable rulers, historical events, and cultural heritage. Let me list some important facts:
+
+1. **Rajasthan's Formation**: Rajasthan became a state on 15th May 1949 after merging various princely states.
+2. **Princely States**: States like Mewar, Marwar, and Sisodia dynasty.
+3. **Rulers**: Maharana Pratap (Mewar), Raja Man Singh I (Mughal era), Rao Chandrasen (Marwar).
+4. **Historical Battles**: Battle of Haldighati (1576), Battle of Khanwa (1527).
+5. **Cultural Heritage**: Folk music, dance, forts like Chittorgarh, Amber.
+6. **Famous Temples and Forts**: Dilwara Temples, Mehrangarh Fort.
+7. **Rajput Dynasties**: Sisodia, Kachwaha, Rathore.
+8. **Important Events**: Mewar's resistance against Mughals, Marwar's migration to Jodhpur.
+
+Now, formulating questions. Each should test specific knowledge. For example, a question on the formation date of Rajasthan as a state. Another on the ruler associated with the Sisodia dynasty. Need to ensure that the correct answers are unambiguous and that distractors (wrong options) are plausible but incorrect.
+
+Next, translating the questions and options into Hindi accurately. For example, "Who was the ruler of Mewar during the Battle of Haldighati?" becomes "हल्दीघाटी के युद्ध के दौरान मेवाड़ के शासक कौन थे?"
+
+For explanations, keep them concise but informative. For instance, explaining that Maharana Pratap led the Rajputs against Akbar in Haldighati.
+
+Need to check the difficulty level. Since these are state-level exams, questions should be factual but not too obscure. Avoid very niche topics unless they are commonly known in Rajasthan's history.
+
+Let me draft a sample question to ensure the structure is correct. For example:
+
+Question: In which year did Rajasthan become a state?
+Options: A. 1947, B. 1949, C. 1950, D. 1952
+Answer: B. 1949
+Explanation: Rajasthan was formed on 15th May 1949.
+
+Now, ensure all 10 questions cover different aspects. Let's check for repetition and coverage. Topics could include:
+
+1. Formation date of Rajasthan
+2. Ruler of Mewar in Haldighati
+3. Ruler who migrated from Marwar to Jodhpur
+4. Battle of Khanwa
+5. Founder of Jaipur
+6. Builder of Dilwara Temples
+7. Mewar's resistance leader against Mughals
+8. Founder of Udaipur
+9. Rajput dynasty of Jodhpur
+10. First ruler of Rajasthan after independence
+
+Each of these topics is distinct and covers different areas of Rajasthan History. Now, create the JSON structure with these questions, ensuring correct translations and accurate information.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Formation of Rajasthan State",
+        "question_en": "In which year was Rajasthan formed as a state?",
+        "question_hi": "राजस्थान कब एक राज्य के रूप में गठित हुआ था?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1949", "B_hi": "1949",
+        "C_en": "1950", "C_hi": "1950",
+        "D_en": "1956", "D_hi": "1956",
+        "answer": "B",
+        "explanation_en": "Rajasthan was formed as a state on 15 May 1949 by merging several princely states.",
+        "explanation_hi": "राजस्थान का गठन 15 मई 1949 को कई रियासतों के मर्ज करके किया गया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Battles",
+        "question_en": "Which battle was fought between Maharana Pratap and Akbar in 1576?",
+        "question_hi": "1576 में महाराणा प्रताप और अकबर के बीच कौन सा युद्ध लड़ा गया था?",
+        "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी का युद्ध",
+        "B_en": "Battle of Khanwa", "B_hi": "खानवा का युद्ध",
+        "C_en": "Battle of Sarangpur", "C_hi": "सरंगपुर का युद्ध",
+        "D_en": "Battle of Kumbhalgarh", "D_hi": "कुंभलगढ़ का युद्ध",
+        "answer": "A",
+        "explanation_en": "The Battle of Haldighati in 1576 was a major conflict between Maharana Pratap and Mughal forces led by Man Singh I.",
+        "explanation_hi": "1576 में हल्दीघाटी का युद्ध महाराणा प्रताप और मुगल बलों (मन सिंह द्वारा नेतृत्व में) के बीच एक प्रमुख युद्ध था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Dynasties",
+        "question_en": "Which Rajput dynasty established the city of Udaipur?",
+        "question_hi": "उदयपुर शहर की स्थापना किस राजपूत वंश द्वारा की गई थी?",
+        "A_en": "Sisodia", "A_hi": "सिसोदिया",
+        "B_en": "Kachwaha", "B_hi": "कच्छवाहा",
+        "C_en": "Rathore", "C_hi": "राठौर",
+        "D_en": "Chauhan", "D_hi": "चौहान",
+        "answer": "A",
+        "explanation_en": "The Sisodia Rajputs of Mewar founded Udaipur in 1559 as the capital of their kingdom.",
+        "explanation_hi": "मेवाड़ के सिसोदिया राजपूतों ने 1559 में अपने राज्य की राजधानी के रूप में उदयपुर की स्थापना की।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Famous Rulers",
+        "question_en": "Who was the ruler of Jodhpur during the Marwar migration?",
+        "question_hi": "मारवाड़ के पलायन के दौरान जोधपुर के शासक कौन थे?",
+        "A_en": "Rao Jodha", "A_hi": "राओ जोधा",
+        "B_en": "Rao Chandrasen", "B_hi": "राओ चंद्रसेन",
+        "C_en": "Rao Bika", "C_hi": "राओ बीका",
+        "D_en": "Rao Ude Singh", "D_hi": "राओ उदे सिंह",
+        "answer": "B",
+        "explanation_en": "Rao Chandrasen led the Marwar migration to establish Jodhpur as a new capital in 1484.",
+        "explanation_hi": "राओ चंद्रसेन ने 1484 में जोधपुर को एक नए राजधानी के रूप में स्थापित करने के लिए मारवाड़ के पलायन का नेतृत्व किया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Cultural Heritage",
+        "question_en": "Which fort in Rajasthan is known as the 'City of Sun'?",
+        "question_hi": "राजस्थान में किस किले को 'सूर्य का शहर' के रूप में जाना जाता है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+        "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+        "D_en": "Mehrangarh Fort", "D_hi": "महरांगढ़ किला",
+        "answer": "C",
+        "explanation_en": "Jaisalmer Fort, known as the 'City of Sun,' is a well-preserved medieval fort in Rajasthan.",
+        "explanation_hi": "जैसलमेर किला, जिसे 'सूर्य का शहर' के रूप में जाना जाता है, राजस्थान में एक अच्छी तरह से संरक्षित मध्यकालीन किला है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Events",
+        "question_en": "The Battle of Khanwa (1527) was fought between Babur and which Rajput ruler?",
+        "question_hi": "खानवा के युद्ध (1527) में बाबर और किस राजपूत शासक के बीच लड़ाई हुई थी?",
+        "A_en": "Rao Maldeo", "A_hi": "राओ मल्लोदेव",
+        "B_en": "Rao Bika", "B_hi": "राओ बीका",
+        "C_en": "Rana Sanga", "C_hi": "रणा संगा",
+        "D_en": "Rao Chandrasen", "D_hi": "राओ चंद्रसेन",
+        "answer": "C",
+        "explanation_en": "The Battle of Khanwa in 1527 was a decisive conflict between Babur and Rana Sanga of Mewar.",
+        "explanation_hi": "1527 में खानवा के युद्ध में बाबर और मेवाड़ के राणा संगा के बीच एक निर्णायक लड़ाई हुई थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founders of Cities",
+        "question_en": "Who is known as the founder of Jaipur city?",
+        "question_hi": "जयपुर शहर के स्थापक के रूप में किसे जाना जाता है?",
+        "A_en": "Raja Man Singh I", "A_hi": "राजा मन सिंह प्रथम",
+        "B_en": "Sawai Jai Singh II", "B_hi": "सवाई जय सिंह द्वितीय",
+        "C_en": "Rao Bika", "C_hi": "राओ बीका",
+        "D_en": "Rao Chandrasen", "D_hi": "राओ चंद्रसेन",
+        "answer": "B",
+        "explanation_en": "Sawai Jai Singh II established Jaipur in 1727 as a planned city with a grid layout.",
+        "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जाली लेआउट वाले जयपुर की स्थापना की।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Temples and Architecture",
+        "question_en": "The Dilwara Temples are located in which city of Rajasthan?",
+        "question_hi": "राजस्थान के कौन से शहर में दिल्वाड़ा मंदिर स्थित हैं?",
+        "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+        "B_en": "Mount Abu", "B_hi": "माउंट आबू",
+        "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "B",
+        "explanation_en": "The Dilwara Temples are a group of Jain temples located at Mount Abu, Rajasthan.",
+        "explanation_hi": "दिल्वाड़ा मंदिर जैन मंदिरों का एक समूह है जो राजस्थान के माउंट आबू में स्थित है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Resistance to Mughals",
+        "question_en": "Which Rajput ruler was the main opponent of Akbar in the Ranthambore Fort?",
+        "question_hi": "रांतमढ़ा किला में अकबर के खिलाफ मुख्य विरोधी राजपूत शासक कौन थे?",
+        "A_en": "Raja Man Singh", "A_hi": "राजा मन सिंह",
+        "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+        "C_en": "Raja Bharmal", "C_hi": "राजा भरमल",
+        "D_en": "Raja Udai Singh II", "D_hi": "राजा उदय सिंह द्वितीय",
+        "answer": "D",
+        "explanation_en": "Raja Udai Singh II of Mewar resisted Mughal forces at Ranthambore Fort during Akbar's reign.",
+        "explanation_hi": "मेवाड़ के राजा उदय सिंह द्वितीय ने अकबर के शासनकाल में रांतमढ़ा किले में मुगल बलों का विरोध किया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern Rajasthan",
+        "question_en": "Who was the first Governor of Rajasthan after independence?",
+        "question_hi": "स्वतंत्रता के बाद राजस्थान के पहले राज्यपाल कौन थे?",
+        "A_en": "Shyamlal Gupta", "A_hi": "श्यामलाल गुप्ता",
+        "B_en": "Choudhary Devi", "B_hi": "चौधरी देवी",
+        "C_en": "
