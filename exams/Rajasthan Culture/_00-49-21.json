@@ -1,0 +1,151 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling key points about Rajasthan's culture. First, festivals are a big part. There's Gangaur, Teej, and Gudi Padwa. Then there's traditional attire—men wear angarkha and ghagra-choli for women. Folk music and dance forms like Ghoomar and Kalbeliya are important. Famous dishes include dal bati churma. Architecture like havelis and forts (e.g., Amber Fort) are significant. Also, the state animal, the chinkara, and the state bird, the great Indian bustard. Maybe include something about the Jaipur Literature Festival. Let me make sure each question is unique and covers different aspects. Check the difficulty level to be suitable for Rajasthan exams. Ensure options are in both Hindi and English, and explanations are concise. Avoid any overlap in topics. Let me list the topics for each question:
+
+1. State animal
+2. Traditional dance of women
+3. Festival after Holi
+4. Traditional attire for men
+5. State bird
+6. Folk music instruments
+7. Famous dish
+8. State flower
+9. Historical fort near Jaipur
+10. Annual literary festival
+
+Now, structure each question with the correct answer and plausible distractors. Verify facts to avoid errors. For example, Chinkara is the state animal. Ghoomar is the traditional dance for women. Teej is a post-Holi festival. Angarkha is the men's attire. Great Indian bustard is the state bird. Sitar and tabla might be instruments used. Dal bati churma is the dish. Rohira is the state flower. Amber Fort is the historical site. Jaipur Literature Festival is the event. Need to write explanations in both languages. Check for clarity and correctness. Make sure options are in order A to D and the answer is correctly noted. Avoid using any markdown, just the JSON. Double-check the JSON structure against the example provided. Ensure Hindi spellings are correct. Align explanations with the correct answer. Once done, validate the JSON to prevent syntax errors.
+</think>
+
+```json
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals and Traditions",
+        "question_en": "Which festival is celebrated in Rajasthan to honor married women and their deities?",
+        "question_hi": "राजस्थान में विवाहित महिलाओं और उनके देवताओं के सम्मान में कौन सा त्योहार मनाया जाता है?",
+        "A_en": "Gangaur", "A_hi": "गंगौर",
+        "B_en": "Teej", "B_hi": "तीज",
+        "C_en": "Gudi Padwa", "C_hi": "गुड़ी पड़वा",
+        "D_en": "Holi", "D_hi": "होली",
+        "answer": "A",
+        "explanation_en": "Gangaur is a festival celebrated in Rajasthan to honor married women and their deities, symbolizing marital harmony.",
+        "explanation_hi": "गंगौर राजस्थान में विवाहित महिलाओं और उनके देवताओं के सम्मान में मनाया जाने वाला त्योहार है जो वैवाहिक सद्भाव का प्रतीक है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "What is the traditional attire for men in Rajasthan?",
+        "question_hi": "राजस्थान में पुरुषों के लिए पारंपरिक पोशाक क्या है?",
+        "A_en": "Ghagra-Choli", "A_hi": "घगरा-चोली",
+        "B_en": "Saree", "B_hi": "साड़ी",
+        "C_en": "Angarkha", "C_hi": "अंगरक्खा",
+        "D_en": "Salwar Kameez", "D_hi": "सलवार कमीज़",
+        "answer": "C",
+        "explanation_en": "Angarkha is a traditional male attire in Rajasthan, often paired with a turban and churidar.",
+        "explanation_hi": "अंगरक्खा राजस्थान में पुरुषों का पारंपरिक पोशाक है, जिसे आमतौर पर टोपी और चुरिदार के साथ पहना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Music",
+        "question_en": "Which folk dance is traditionally performed by women in Rajasthan?",
+        "question_hi": "राजस्थान में पारंपरिक रूप से महिलाओं द्वारा कौन सा लोक नृत्य प्रदर्शित किया जाता है?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Chakri", "C_hi": "चक्री",
+        "D_en": "Dandia", "D_hi": "डांडिया",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional folk dance performed by women in Rajasthan, characterized by graceful spinning movements.",
+        "explanation_hi": "घूमर राजस्थान में महिलाओं द्वारा प्रदर्शित किया जाने वाला पारंपरिक लोक नृत्य है, जिसकी विशेषता अंगूठी के आंकड़ों की सुंदर गति है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Dance and Music Instruments",
+        "question_en": "Which of the following instruments is traditionally used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक गीतों में पारंपरिक रूप से कौन सा वाद्य यंत्र उपयोग में लाया जाता है?",
+        "A_en": "Sitar", "A_hi": "सितार",
+        "B_en": "Dholak", "B_hi": "ढोलक",
+        "C_en": "Harmonium", "C_hi": "हारमोनियम",
+        "D_en": "Guitar", "D_hi": "गिटार",
+        "answer": "B",
+        "explanation_en": "Dholak is a traditional percussion instrument used in Rajasthani folk music and festivals.",
+        "explanation_hi": "ढोलक राजस्थानी लोक गीतों और त्योहारों में उपयोग किया जाने वाला एक पारंपरिक तालवाद्य है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which dish is a staple of Rajasthani cuisine and made with wheat and lentils?",
+        "question_hi": "राजस्थानी व्यंजनों में कौन सा व्यंजन गेहूं और दाल से बना मुख्य व्यंजन है?",
+        "A_en": "Dal Bati Churma", "A_hi": "दाल बाती चूरमा",
+        "B_en": "Poha", "B_hi": "पोहा",
+        "C_en": "Pulao", "C_hi": "पुलाव",
+        "D_en": "Kheer", "D_hi": "कीर",
+        "answer": "A",
+        "explanation_en": "Dal Bati Churma is a traditional Rajasthani dish made with lentils, wheat buns, and sweet crumbles.",
+        "explanation_hi": "दाल बाती चूरमा एक पारंपरिक राजस्थानी व्यंजन है जिसमें दाल, गेहूं के बरेले और मीठे टुकड़े शामिल होते हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Architecture",
+        "question_en": "Which of the following is a famous historical fort in Rajasthan?",
+        "question_hi": "राजस्थान में निम्न में से कौन सा प्रसिद्ध ऐतिहासिक किला है?",
+        "A_en": "Amber Fort", "A_hi": "अम्बर किला",
+        "B_en": "Red Fort", "B_hi": "लाल किला",
+        "C_en": "Lahori Gate", "C_hi": "लाहौरी गेट",
+        "D_en": "Agra Fort", "D_hi": "आगरा किला",
+        "answer": "A",
+        "explanation_en": "Amber Fort is a renowned historical fort located in Jaipur, Rajasthan, known for its architectural grandeur.",
+        "explanation_hi": "अम्बर किला राजस्थान के जयपुर में एक प्रसिद्ध ऐतिहासिक किला है जिसकी वास्तुकला शानदार है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "State Symbols",
+        "question_en": "What is the state animal of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य प्राणी क्या है?",
+        "A_en": "Chinkara", "A_hi": "चींकरा",
+        "B_en": "Tiger", "B_hi": "बाघ",
+        "C_en": "Lion", "C_hi": "शेर",
+        "D_en": "Leopard", "D_hi": "चीता",
+        "answer": "A",
+        "explanation_en": "Chinkara is the state animal of Rajasthan, symbolizing the desert ecosystem of the state.",
+        "explanation_hi": "चींकरा राजस्थान का राज्य प्राणी है जो राज्य के मरूद्भिद एकाधिकरण का प्रतीक है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "State Birds",
+        "question_en": "What is the state bird of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य पक्षी क्या है?",
+        "A_en": "Peacock", "A_hi": "मोर",
+        "B_en": "Eagle", "B_hi": "गिद्ध",
+        "C_en": "Great Indian Bustard", "C_hi": "ग्रेट इंडियन बस्टर्ड",
+        "D_en": "Parrot", "D_hi": "वल्कला",
+        "answer": "C",
+        "explanation_en": "The Great Indian Bustard is the state bird of Rajasthan, known for its declining population and habitat in arid regions.",
+        "explanation_hi": "ग्रेट इंडियन बस्टर्ड राजस्थान का राज्य पक्षी है जिसकी आबादी लगातार घट रही है और जो मरुस्थलीय क्षेत्रों में पाया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "State Flowers",
+        "question_en": "Which flower is the state flower of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य पुष्प कौन सा है?",
+        "A_en": "Rose", "A_hi": "गुलाब",
+        "B_en": "Rohida", "B_hi": "रोहिड़ा",
+        "C_en": "Jasmine", "C_hi": "गुलचेरा",
+        "D_en": "Lily", "D_hi": "कमलिनी",
+        "answer": "B",
+        "explanation_en": "Rohida is the state flower of Rajasthan, commonly found in the Thar Desert and symbolizing resilience.",
+        "explanation_hi": "रोहिड़ा राजस्थान का राज्य पुष्प है जो थार मरुस्थल में पाया जाता है और टिकाऊपन का प्रतीक है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals and Events",
+        "question_en": "Which of the following is a major literary festival held in Rajasthan?",
+        "question_hi": "राजस्थान में आयोजित एक प्रमुख साहित्यिक त्योहार निम्न में से कौन सा है?",
+        "A_en": "Jaipur Literature Festival", "A_hi": "जयपुर साहित्य महोत्सव",
+        "B_en": "Kumbh Mela", "B_hi": "कुंभ मेला",
+        "C_en": "Pushkar Camel Fair", "C_hi": "पुष्कर ऊंट मेला",
+        "D_en": "Holi Festival", "D_hi": "होली त्योहार",
+        "answer": "A",
+        "explanation_en": "The Jaipur Literature Festival is one of the largest literary events in Asia, held annually in Rajasthan.",
+        "explanation_hi": "जयपुर साहित्य महोत्सव एशिया के सबसे बड़े साहित्यिक आयोजन में से एक है जो प्रतिवर्ष राजस्थान में आयोजित किया जाता है।"
+    }
+]
+```
