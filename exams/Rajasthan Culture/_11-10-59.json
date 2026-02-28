@@ -1,0 +1,158 @@
+<think>
+Okay, let's start by understanding the user's request. They want 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. The questions and options need to be in both Hindi and English, following the Testbook style. The JSON structure is specified, and I need to strictly adhere to it.
+
+First, I'll brainstorm topics within Rajasthan Culture. Possible areas include festivals, dance forms, traditional attire, historical places, folk music, cuisine, and art. Let's pick a variety to cover different aspects.
+
+1. **Festivals**: Rajasthan is known for its vibrant festivals like Gangaur, Teej, Maha Shivaratri in Mount Abu. A question could be about the significance or origin of Gangaur.
+2. **Dance**: Traditional dances like Ghumar, Kalbeliya, Chari, Kathputli (string puppetry). Maybe a question on which dance is associated with a particular community.
+3. **Traditional Attire**: Men wear angarkha, ghagra for women. Maybe a question on a specific attire and its regional use.
+4. **Historical Places**: Forts like Amber, Mehrangarh, Chittorgarh. A question could ask about the location or architecture of a famous fort.
+5. **Folk Music Instruments**: Instruments like dholak, been, pakhawaj. A question on the primary use of a specific instrument.
+6. **Cuisine**: Dishes like dal bati, gatte ki subzi, ker sangri. A question could be about a dish native to a specific region.
+7. **Art Forms**: Miniature paintings, blue pottery, Rajasthani crafts. A question on the origin or technique of a particular art.
+8. **Folktales and Literature**: Characters like Pabuji, Devnarayan. A question on a folk character associated with a specific region.
+9. **Religious Sites**: Temples like Dilwara, Shree Nathji Temple. A question about the location or significance of a temple.
+10. **Geographical Influence on Culture**: How the arid landscape influenced architecture and clothing (e.g., jali work for ventilation).
+
+Now, for each topic, I need to frame a question with four options. Let's start with the first one.
+
+**Question 1**: Which festival in Rajasthan celebrates the bond between women and Goddess Parvati?
+Options: Gangaur (related to Parvati), Teej (also a festival but for married women), Maha Shivaratri, Holi. Answer is Gangaur.
+
+**Question 2**: Which dance is performed by the Kalbeliya community? Answer: Kalbeliya dance.
+
+**Question 3**: Traditional dress for Rajasthani women. Ghagra and choli are common. Confirm if that's correct.
+
+**Question 4**: Fort associated with Rajputana. Amber Fort in Jaipur. Others like Chittorgarh, Mehrangarh. Answer: Amber.
+
+**Question 5**: Instrument used in Ghoomar dance. Dholak is commonly used. Other options like daf, sitar, etc.
+
+**Question 6**: Dish from Barmer. Ker sangri is popular in Barmer. Others like dal bati are more general.
+
+**Question 7**: Miniature paintings school. Kishangarh is known for its style. Others like Bundi, Jaipur.
+
+**Question 8**: Folk character Pabuji. He's from Jalore region. Answer: Jalore.
+
+**Question 9**: Temple in Mount Abu. Dilwara Temples are Jain. Others like Shree Nathji are Vaishnav.
+
+**Question 10**: Jali work in houses. To provide ventilation in hot climate. Other options like decoration, insulation, etc.
+
+Now, translating each question and options into Hindi. Ensure the Hindi translations are accurate and match the context. Also, explanations should clarify the correct answer. Check for any possible ambiguity in options and make sure the correct answer is clearly the best choice.
+
+Finally, structure the JSON array with all 10 questions following the provided example. Ensure the JSON syntax is correct, with proper commas and brackets. Double-check for any typos or formatting issues.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which festival in Rajasthan is dedicated to the bond between women and Goddess Parvati?",
+        "question_hi": "राजस्थान में महिलाओं और देवी पार्वती के बीच बांध को समर्पित कौन सा त्योहार है?",
+        "A_en": "Gangaur Festival", "A_hi": "गंगौर त्योहार",
+        "B_en": "Teej Festival", "B_hi": "तीज त्योहार",
+        "C_en": "Holi Festival", "C_hi": "होली त्योहार",
+        "D_en": "Maha Shivaratri", "D_hi": "महाशिवरात्रि",
+        "answer": "A",
+        "explanation_en": "Gangaur is a Rajasthani festival celebrating the bond between women and Goddess Parvati.",
+        "explanation_hi": "गंगौर राजस्थान का त्योहार है जो महिलाओं और देवी पार्वती के बीच बांध को समर्पित है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Dance",
+        "question_en": "Which traditional dance is performed by the Kalbeliya community in Rajasthan?",
+        "question_hi": "राजस्थान में कौन सा पारंपरिक नृत्य कलबेलिया समुदाय द्वारा नृत्य किया जाता है?",
+        "A_en": "Kalbeliya Dance", "A_hi": "कलबेलिया नृत्य",
+        "B_en": "Ghoomar Dance", "B_hi": "घूमर नृत्य",
+        "C_en": "Chari Dance", "C_hi": "चारी नृत्य",
+        "D_en": "Kathputli Dance", "D_hi": "कथपुतली नृत्य",
+        "answer": "A",
+        "explanation_en": "Kalbeliya Dance is performed by the Kalbeliya community, often associated with snake charming and folk traditions.",
+        "explanation_hi": "कलबेलिया नृत्य कलबेलिया समुदाय द्वारा किया जाता है, जो अक्सर सांप भटकाने और लोक परंपराओं से जुड़ा हुआ है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "What is the traditional attire for Rajasthani women?",
+        "question_hi": "राजस्थानी महिलाओं के पारंपरिक पहनावे क्या हैं?",
+        "A_en": "Sari", "A_hi": "साड़ी",
+        "B_en": "Frock", "B_hi": "फ्रॉक",
+        "C_en": "Ghagra and Choli", "C_hi": "घगरा और चोली",
+        "D_en": "Salwar Kameez", "D_hi": "सलवार कमीज़",
+        "answer": "C",
+        "explanation_en": "Ghagra and Choli are the traditional attire for Rajasthani women, often brightly colored and elaborately embroidered.",
+        "explanation_hi": "घगरा और चोली राजस्थानी महिलाओं के पारंपरिक पहनावे हैं, जो अक्सर जोरदार रंगों और जटिल नान अंकित होते हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Places",
+        "question_en": "Which fort in Rajasthan is associated with the Rajputana kingdom and is located in Jaipur?",
+        "question_hi": "राजस्थान में जयपुर में स्थित राजपूताना राज्य से जुड़े कौनसा किला है?",
+        "A_en": "Amber Fort", "A_hi": "अम्बर किला",
+        "B_en": "Chittorgarh Fort", "B_hi": "चीत्तौड़गढ़ किला",
+        "C_en": "Mehrangarh Fort", "C_hi": "मेहरंगढ़ किला",
+        "D_en": "Jaisalmer Fort", "D_hi": "जैसलमेर किला",
+        "answer": "A",
+        "explanation_en": "Amber Fort in Jaipur is a symbol of Rajputana royalty and is known for its blend of Hindu and Mughal architecture.",
+        "explanation_hi": "जयपुर में अम्बर किला राजपूताना शाहीत्व की पहचान है और मुगल और हिंदू वास्तुकला के मिश्रण के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Music",
+        "question_en": "Which traditional instrument is commonly used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक गानों में आमतौर पर कौन सा पारंपरिक वाद्य उपकरण उपयोग किया जाता है?",
+        "A_en": "Dholak", "A_hi": "ढोलक",
+        "B_en": "Flute", "B_hi": "बांसुरी",
+        "C_en": "Guitar", "C_hi": "गिटार",
+        "D_en": "Violin", "D_hi": "वायोलिन",
+        "answer": "A",
+        "explanation_en": "Dholak is a traditional drum used in Rajasthani folk music, especially in dances like Ghoomar.",
+        "explanation_hi": "ढोलक राजस्थानी लोक गानों में उपयोग किया जाने वाला एक पारंपरिक ड्रम है, खासकर घूमर नृत्य में।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which dish is traditionally associated with the Barmer region of Rajasthan?",
+        "question_hi": "राजस्थान में बाड़मेर क्षेत्र के साथ पारंपरिक रूप से कौन सा व्यंजन जुड़ा हुआ है?",
+        "A_en": "Dal Bati", "A_hi": "दाल बाती",
+        "B_en": "Ker Sangri", "B_hi": "केर संगड़ी",
+        "C_en": "Gatte ki Subzi", "C_hi": "गट्टे की सब्जी",
+        "D_en": "Churma", "D_hi": "चूरमा",
+        "answer": "B",
+        "explanation_en": "Ker Sangri is a traditional dish from the Barmer region made with desert legumes (ker) and beans (sangri).",
+        "explanation_hi": "केर संगड़ी बाड़मेर क्षेत्र का एक पारंपरिक व्यंजन है, जो रेगिस्तानी दाल (केर) और दालें (संगड़ी) से बनाया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Art",
+        "question_en": "Which art form in Rajasthan is known for its miniature paintings inspired by Mughal and Rajput traditions?",
+        "question_hi": "राजस्थान के कौन से कला रूप मुगल और राजपूत परंपराओं से प्रेरित नक्शाकृत चित्रों के लिए जाना जाता है?",
+        "A_en": "Kishangarh Painting", "A_hi": "किशनगढ़ चित्रकला",
+        "B_en": "Blue Pottery", "B_hi": "नीली मिट्टी",
+        "C_en": "Miniature Painting", "C_hi": "नक्शाकृत चित्रकला",
+        "D_en": "Wood Carving", "D_hi": "लकड़ी की तस्वीर अंकित",
+        "answer": "C",
+        "explanation_en": "Miniature painting in Rajasthan combines Mughal and Rajput styles, often depicting mythological and royal themes.",
+        "explanation_hi": "राजस्थान में नक्शाकृत चित्रकला मुगल और राजपूत शैलियों के मिश्रण के साथ, अक्सर पौराणिक और राजकुमारी विषयों को दर्शाती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folktales",
+        "question_en": "Which folk character is associated with the Jalore region of Rajasthan?",
+        "question_hi": "राजस्थान के जालौर क्षेत्र से कौन सा लोक किरदार जुड़ा हुआ है?",
+        "A_en": "Pabuji", "A_hi": "पाबूजी",
+        "B_en": "Devnarayan", "B_hi": "देवनरायण",
+        "C_en": "Teejaji", "C_hi": "तीजाजी",
+        "D_en": "Bhakta Pritam", "D_hi": "भक्त प्रीतम",
+        "answer": "A",
+        "explanation_en": "Pabuji is a folk hero from the Jalore region, celebrated in the Pabuji Ki Phad painting tradition.",
+        "explanation_hi": "पाबूजी जालौर क्षेत्र से एक लोक हीरो हैं, जिनकी तुलना पाबूजी की फाड़ चित्रकला परंपरा में की जाती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Temples",
+        "question_en": "Which temple in Rajasthan is dedicated to Jain Tirthankars and is located in Mount Abu?",
+        "question_hi": "राजस्थान में माउंट आबू में स्थित जैन तीर्थंकरों के लिए समर्पित कौन सा मंदिर है?",
+        "A_en": "Dilwara Temples", "A_hi": "दिलवाड़ा मंदिर",
+        "B_en": "Shree Nathji Temple", "B_hi": "श्री नाथजी मंदिर",
+        "C_en": "Mahadev Temple", "C_hi": "महादेव मंदिर",
+        "D_en": "Birla Mandir", "D_hi": "बिरला
