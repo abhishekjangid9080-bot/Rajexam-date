@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is NOT a princely state of Rajasthan?",
+"question_hi": "राजस्थान के बीमांड कौन-सा नहीं राजस्थान के मंत्रालय नहीं थे।",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Jaisalmer", "B_hi": "जयसालमर",
+"C_en": "Alwar", "C_hi": "अलवार",
+"D_en": "Udaipur", "D_hi": "उदायपुर",
+"answer": "C",
+"explanation_en": "Alwar was not a princely state of Rajasthan.",
+"explanation_hi": "अलवार राजस्थान मंत्रालय नहीं थे।",
+}
+]
