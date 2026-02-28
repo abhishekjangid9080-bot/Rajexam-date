@@ -1,0 +1,125 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway (NTPC). Let me start by brainstorming the key topics within Rajasthan Culture. 
+
+First, traditional festivals like Gangaur, Teej, and Mewar festivals come to mind. Then there's folk music and dance, such as Ghoomar, Kalbeliya, and Kathak. Art forms like miniature painting, blue pottery, and block printing are significant. Architecture and palaces like Hawa Mahal, City Palace, and Umaid Bhawan are important. Folk tales and epics like Pabuji Ki Phad and Devi Sati's stories. Cuisine is another area—dishes like Dal Baati Churma, Gatte ki Sabzi. Languages and dialects like Rajasthani, Marwari. Costumes and attire such as Bandhani (tie-dye), Ghagra, and Angarkha. Historical figures like Maharana Pratap, Rajput warriors. Museums and cultural institutions like Rajasthan State Museum. Lastly, cultural practices like Chhota Chokhi, Jharokha Darshan.
+
+Now, I need to structure each question following the given JSON format. Each question should have both Hindi and English versions, options in both languages, the correct answer, and explanations in both languages. The difficulty level should be moderate to tough, suitable for competitive exams. I must ensure that the topics are evenly covered and that each question is distinct. Also, check for any repetition of topics for the 10 questions. Let me start drafting each question step by step, making sure the facts are accurate and the options are plausible distractors. Need to avoid any errors in facts, like correct names of places or events. For example, in the first question about Gangaur Festival, I should confirm it's celebrated in Jaipur. For the folk dance question, Ghoomar is indeed associated with Bhilwara. Let me verify each fact as I go along to maintain accuracy.
+</think>
+
+[
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Festivals",
+  "question_en": "Which festival is celebrated to honor the goddess Gauri and symbolizes marital harmony in Rajasthan?",
+  "question_hi": "राजस्थान में माता गौरी की आराधना करके विवाहित जीवन की शांति की अपेक्षा में मनाया जाने वाला उत्सव कौन-सा है?",
+  "A_en": "Gangaur", "A_hi": "गंगौर",
+  "B_en": "Teej", "B_hi": "तीज",
+  "C_en": "Mewar", "C_hi": "मेवाड़",
+  "D_en": "Gadaria", "D_hi": "गदरिया",
+  "answer": "A",
+  "explanation_en": "Gangaur is a Hindu festival celebrated in Rajasthan to honor the goddess Gauri and symbolizes marital harmony.",
+  "explanation_hi": "गंगौर राजस्थान में माता गौरी की आराधना करके मनाया जाने वाला उत्सव है जो विवाहित जीवन की शांति की अपेक्षा में मनाया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Dance",
+  "question_en": "Which traditional folk dance of Rajasthan is performed by women and is characterized by graceful movements and colorful attire?",
+  "question_hi": "राजस्थान के पारंपरिक लोक नृत्य में से कौन-सा नृत्य महिलाओं द्वारा मन्ना जाता है और इसमें सुंदर आंदोलन एवं रंगीन पोशाक धारण की जाती है?",
+  "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+  "B_en": "Ghoomar", "B_hi": "घूमर",
+  "C_en": "Chhatri", "C_hi": "छत्री",
+  "D_en": "Kathak", "D_hi": "कथक",
+  "answer": "B",
+  "explanation_en": "Ghoomar is a traditional Rajasthani dance performed by women, known for its graceful movements and vibrant attire.",
+  "explanation_hi": "घूमर एक पारंपरिक राजस्थानी नृत्य है जिसे महिलाएं पारंपरिक रूप से मन्ना करती हैं और इसमें सुंदर आंदोलन एवं रंगीन पोशाक धारण की जाती है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Music",
+  "question_en": "Which instrument is traditionally used in Rajasthani folk music to accompany songs and dances?",
+  "question_hi": "राजस्थानी लोक गानों और नृत्यों के साथ नृत्यों के साथ कौन-सा वाद्य यंत्र पारंपरिक रूप से प्रयोग किया जाता है?",
+  "A_en": "Sitar", "A_hi": "सितार",
+  "B_en": "Pungi", "B_hi": "पुंगी",
+  "C_en": "Harmonium", "C_hi": "हारमोनियम",
+  "D_en": "Mridangam", "D_hi": "मृदंगम",
+  "answer": "B",
+  "explanation_en": "Pungi is a traditional Rajasthani wind instrument used in folk music to accompany songs and dances.",
+  "explanation_hi": "पुंगी एक पारंपरिक राजस्थानी वाद्य यंत्र है जिसे लोक गीतों और नृत्यों के साथ नृत्यों के साथ प्रयोग किया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Architecture",
+  "question_en": "Which palace in Rajasthan is known as the 'Palace of Winds' and is a symbol of the state's architectural heritage?",
+  "question_hi": "राजस्थान के कौन-सा महल 'हवा महल' के रूप में जाना जाता है और इसे राज्य के आर्किटेक्चरल विरासत के प्रतीक के रूप में माना जाता है?",
+  "A_en": "City Palace", "A_hi": "शहरी महल",
+  "B_en": "Umaid Bhawan", "B_hi": "उमाइद भवन",
+  "C_en": "Hawa Mahal", "C_hi": "हवा महल",
+  "D_en": "Jal Mahal", "D_hi": "जल महल",
+  "answer": "C",
+  "explanation_en": "Hawa Mahal, located in Jaipur, is known as the 'Palace of Winds' and symbolizes Rajasthan's architectural heritage.",
+  "explanation_hi": "हवा महल, जयपुर में स्थित है, 'हवा महल' के रूप में जाना जाता है और इसे राजस्थान के आर्किटेक्चरल विरासत के प्रतीक के रूप में माना जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Cuisine",
+  "question_en": "Which traditional Rajasthani dish is made with a combination of lentils, wheat balls, and a sweet crumbly dessert?",
+  "question_hi": "कौन-सा पारंपरिक राजस्थानी व्यंजन दाल, गेहूं के गोले और एक मीठे टूटे हुए मिठाई के संयोजन से बनाया जाता है?",
+  "A_en": "Dal Baati Churma", "A_hi": "दाल बाती चूरमा",
+  "B_en": "Ker Sangri", "B_hi": "केर संगरी",
+  "C_en": "Gatte ki Sabzi", "C_hi": "गट्टे की सब्जी",
+  "D_en": "Laal Maas", "D_hi": "लाल मांस",
+  "answer": "A",
+  "explanation_en": "Dal Baati Churma is a traditional Rajasthani dish that includes lentils, wheat balls, and a sweet crumbly dessert.",
+  "explanation_hi": "दाल बाती चूरमा एक पारंपरिक राजस्थानी व्यंजन है जिसमें दाल, गेहूं के गोले और एक मीठे टूटे हुए मिठाई के संयोजन से बनाया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Art Forms",
+  "question_en": "Which traditional art form of Rajasthan is characterized by intricate miniature paintings depicting historical and mythological themes?",
+  "question_hi": "राजस्थान के कौन-सा पारंपरिक कला रूप ऐतिहासिक और पौराणिक विषयों के जटिल मिनीएचर चित्रों से विशिष्ट है?",
+  "A_en": "Blue Pottery", "A_hi": "ब्लू पॉटरी",
+  "B_en": "Block Printing", "B_hi": "ब्लॉक प्रिंटिंग",
+  "C_en": "Miniature Painting", "C_hi": "मिनीएचर चित्रकारी",
+  "D_en": "Bandhani", "D_hi": "बन्धनी",
+  "answer": "C",
+  "explanation_en": "Miniature Painting is a traditional Rajasthani art form characterized by intricate depictions of historical and mythological themes.",
+  "explanation_hi": "मिनीएचर चित्रकारी एक पारंपरिक राजस्थानी कला रूप है जो ऐतिहासिक और पौराणिक विषयों के जटिल चित्रों से विशिष्ट है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Languages",
+  "question_en": "Which language is the primary language spoken in the Marwar region of Rajasthan?",
+  "question_hi": "राजस्थान के मारवाड़ क्षेत्र में कौन-सी भाषा प्रमुख रूप से बोली जाती है?",
+  "A_en": "Kathiawari", "A_hi": "कठियावाड़ी",
+  "B_en": "Mewari", "B_hi": "मेवाड़ी",
+  "C_en": "Shekhawati", "C_hi": "शेखवाटी",
+  "D_en": "Marwari", "D_hi": "मारवाड़ी",
+  "answer": "D",
+  "explanation_en": "Marwari is the primary language spoken in the Marwar region of Rajasthan.",
+  "explanation_hi": "मारवाड़ी राजस्थान के मारवाड़ क्षेत्र में प्रमुख रूप से बोली जाने वाली भाषा है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Costumes",
+  "question_en": "Which traditional Rajasthani attire is characterized by a long, flowing skirt and a short upper garment, often worn by women?",
+  "question_hi": "कौन-सा पारंपरिक राजस्थानी पोशाक लंबी, प्रवाहित झगड़ा और एक छोटे ऊपरी वस्त्र के द्वारा विशिष्ट है जो अक्सर महिलाओं द्वारा पहना जाता है?",
+  "A_en": "Ghagra", "A_hi": "गढ़गढ़ा",
+  "B_en": "Sari", "B_hi": "साड़ी",
+  "C_en": "Churidar", "C_hi": "चुरिदार",
+  "D_en": "Angarkha", "D_hi": "अंगरखा",
+  "answer": "A",
+  "explanation_en": "Ghagra is a traditional Rajasthani attire for women, characterized by a long, flowing skirt and a short upper garment.",
+  "explanation_hi": "गढ़गढ़ा महिलाओं के लिए एक पारंपरिक राजस्थानी पोशाक है जो लंबी, प्रवाहित झगड़ा और एक छोटे ऊपरी वस्त्र के द्वारा विशिष्ट है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Historical Figures",
+  "question_en": "Which Rajput ruler is renowned for his bravery and resistance against the Mughal Empire, particularly at the Battle of Haldighati?",
+  "question_hi": "कौन-से राजपूत शासक के बहादुरी और मुग़ल साम्राज्य के खिलाफ हल्दीघाटी के युद्ध में प्रतिरोध के लिए प्रसिद्ध हैं?",
+  "A_en": "Raja Ratan Singh", "A_hi": "राजा रतन सिंह",
+  "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+  "C_en": "Raja Man Singh", "C_hi": "राजा मन सिंह",
+  "D_en": "Raja Bhagwat Singh", "D_hi": "राजा भागवत सिंह",
+  "answer": "B",
+  "explanation_en": "Maharana Pratap is renowned for his bravery and resistance against the Mughal Empire, especially at the Battle of Haldighati.",
+  "explanation_hi": "महाराणा प्रताप के बहादुरी और मुग़ल साम्राज्य के खिलाफ हल्दीघाटी के युद
