@@ -1,0 +1,140 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on Rajasthan Culture for various exams. First, I need to ensure the topics are relevant. Rajasthan Culture is vast, so I should cover different aspects like festivals, music, dance, art, architecture, and traditional attire.
+
+For each question, I need both Hindi and English versions. The example provided uses "question_en" and "question_hi". I'll have to make sure the translations are accurate and that the options are in both languages as well. Also, the answer and explanation need to be in both languages.
+
+Difficulty level should be set according to Rajasthan Culture exams. So, questions shouldn't be too easy or too obscure. They should test knowledge of key cultural elements. Let me brainstorm topics: maybe start with traditional dance forms like Ghoomar or Kathakali. Wait, Kathakali is from Kerala, so better stick to local ones. Then, folk music instruments like Surna or Dholak. Festivals like Teej, Gangaur, or Gudariya. Traditional attire like Gangua saree or Angarkha. Architecture like Hawa Mahal or Mehrangarh Fort. Folktales or historical figures like Pabuji or Devi Sati. Maybe also include things like Rajasthani cuisine or specific art forms like miniature paintings.
+
+I need to check for common misconceptions. For example, which dance is performed by women? Ghoomar is a popular one. Or which festival is related to monsoon? Teej is celebrated after the monsoon starts. Also, the correct spelling of names and places. For explanations, keep them concise but informative. Make sure the correct answer is clear but the options are plausible.
+
+Let me start drafting the first question. Subject: Rajasthan Culture, Topic: Folk Dances. Question could be about which dance is performed by women. Options: Ghoomar, Kalbeliya, Kathakali, Bhangra. Answer is Ghoomar. Explanation: Ghoomar is a traditional folk dance in Rajasthan performed by women.
+
+Next question on folk music instruments. Which is a traditional musical instrument used in Rajasthani folk music? Options: Sitar (from North India), Ghoomar (a dance), Dholak, Sarangi. Answer: Dholak. Explanation: Dholak is a traditional Rajasthani instrument used in folk music.
+
+Third question on festivals. Which festival is celebrated to honor the goddess Gauri? Options: Teej, Gangaur, Gudariya, Holi. Answer: Gangaur. Explanation: Gangaur is a festival dedicated to Gauri, the goddess of love.
+
+Fourth question on traditional attire. What is the traditional attire of Rajasthani women? Options: Gangua saree, Saree (general), Lehenga, Ghagra. Answer: Gangua saree. Explanation: Gangua saree is a traditional Rajasthani saree made with specific patterns.
+
+Fifth question on architecture. Which fort is located in Jodhpur? Options: Mehrangarh, Amber, Chittorgarh, Udaipur. Answer: Mehrangarh. Explanation: Mehrangarh Fort is in Jodhpur, a major landmark.
+
+Sixth question on folktales. Which folk character is associated with Rajasthani mythology? Options: Pabuji, Krishna, Rama, Hanuman. Answer: Pabuji. Explanation: Pabuji is a legendary figure in Rajasthani folklore, part of the Kathputli (puppet) stories.
+
+Seventh question on cuisine. Which dish is a popular Rajasthani dish? Options: Dal Baati Churma, Biryani, Idli, Dosa. Answer: Dal Baati Churma. Explanation: It's a staple dish in Rajasthan.
+
+Eighth question on folk music. Which instrument is used in Rajasthani folk music for playing high-pitched sounds? Options: Surna, Flute, Veena, Sarangi. Answer: Surna. Explanation: Surna is a wind instrument used for high-pitched sounds.
+
+Ninth question on dance forms. Which dance form involves movements that mimic the movement of peacocks? Options: Kalbeliya, Kathakali, Chakri, Garba. Answer: Chakri. Explanation: Chakri dance is performed in Udaipur, mimicking peacock movements.
+
+Tenth question on historical figures. Which historical figure is associated with the city of Bundi? Raja Raja Singh, Maharaja Sawai Jai Singh, Raja Uday Singh, Raja Man Singh. Answer: Raja Raja Singh. Explanation: Raja Raja Singh was the ruler of Bundi, known for the Bundi School of painting.
+
+Now, I need to structure each question in JSON format, ensuring all fields are present and correct. Check for any errors in the options and explanations. Make sure the translations are accurate. Also, confirm that the answer choices are in the right format (A, B, C, D) and that the explanations correctly justify the answers. Avoid any repetition in topics and cover a diverse range of cultural aspects.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dances",
+    "question_en": "Which Rajasthani folk dance is traditionally performed by women and involves swirling movements?",
+    "question_hi": "कौन सा राजस्थानी लोक नृत्य परंपरा से महिलाओं द्वारा किया जाता है और जिसमें घूमने के हरकत शामिल होते हैं?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Chakri", "C_hi": "चक्री",
+    "D_en": "Kathakali", "D_hi": "कथकली",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional Rajasthani folk dance performed by women, characterized by circular movements and vibrant attire.",
+    "explanation_hi": "घूमर महिलाओं द्वारा परंपरागत रूप से किया जाने वाला राजस्थानी लोक नृत्य है, जिसमें घूमने के हरकत और उज्ज्वल पोशाक शामिल होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which instrument is commonly used in Rajasthani folk music to produce high-pitched sounds?",
+    "question_hi": "राजस्थानी लोक गानों में उच्च-तार प्रभाव उत्पन्न करने के लिए कौन सा यंत्र आम तौर पर उपयोग किया जाता है?",
+    "A_en": "Sarangi", "A_hi": "सरंगी",
+    "B_en": "Dholak", "B_hi": "ढोलक",
+    "C_en": "Surna", "C_hi": "सुरना",
+    "D_en": "Flute", "D_hi": "बोले",
+    "answer": "C",
+    "explanation_en": "Surna, a traditional wind instrument, is used in Rajasthani folk music for its high-pitched notes.",
+    "explanation_hi": "सुरना, एक परंपरागत वायु वाद्य यंत्र, राजस्थानी लोक गानों में उच्च-तार प्रभाव उत्पन्न करने के लिए उपयोग किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival in Rajasthan is dedicated to honoring the goddess Gauri?",
+    "question_hi": "राजस्थान में गौरी देवी के सम्मान में कौन सा उत्सव मनाया जाता है?",
+    "A_en": "Teej", "A_hi": "तीज",
+    "B_en": "Gangaur", "B_hi": "गंगौर",
+    "C_en": "Holi", "C_hi": "होली",
+    "D_en": "Diwali", "D_hi": "दीवाली",
+    "answer": "B",
+    "explanation_en": "Gangaur is a Rajasthani festival dedicated to Gauri, the goddess of love and fertility.",
+    "explanation_hi": "गंगौर राजस्थान में गौरी देवी के सम्मान में मनाया जाने वाला एक उत्सव है, जो प्रेम और संतान की देवी है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "Which traditional attire is associated with Rajasthani women and features a red and black color scheme?",
+    "question_hi": "कौन सा परंपरागत पोशाक राजस्थानी महिलाओं से जुड़ा है और जिसमें लाल और काला रंग योजना शामिल है?",
+    "A_en": "Ghagra", "A_hi": "गहगहरा",
+    "B_en": "Gangua Sari", "B_hi": "गंगुआ सारी",
+    "C_en": "Lehenga", "C_hi": "लेहंगा",
+    "D_en": "Chaniya Choli", "D_hi": "चानिया चोली",
+    "answer": "B",
+    "explanation_en": "The Gangua Sari is a traditional Rajasthani saree known for its red and black color scheme and intricate designs.",
+    "explanation_hi": "गंगुआ सारी एक परंपरागत राजस्थानी सारी है जिसके लाल और काला रंग योजना और जटिल डिज़ाइन पहचान बनाते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which fort in Rajasthan is known for its stunning architecture and is located in Jodhpur?",
+    "question_hi": "राजस्थान में जो दुर्ग अपने शानदार आर्किटेक्चर के लिए प्रसिद्ध है और जोधपुर में स्थित है?",
+    "A_en": "Amber Fort", "A_hi": "अंबर दुर्ग",
+    "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ दुर्ग",
+    "C_en": "Hawa Mahal", "C_hi": "हवा महल",
+    "D_en": "Mehrangarh Fort", "D_hi": "मेहरंगढ़ दुर्ग",
+    "answer": "D",
+    "explanation_en": "Mehrangarh Fort in Jodhpur is renowned for its impressive architecture and historical significance.",
+    "explanation_hi": "जोधपुर में मेहरंगढ़ दुर्ग अपने प्रभावशाली आर्किटेक्चर और ऐतिहासिक महत्व के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folktales",
+    "question_en": "Which legendary figure is central to the Rajasthani puppet theater (Kathputli)?",
+    "question_hi": "कौन सी प्रसिद्ध आकृति राजस्थानी कतापुतली नाटक (कथपुतली) के केंद्र में है?",
+    "A_en": "Pabuji", "A_hi": "पाबूजी",
+    "B_en": "Krishna", "B_hi": "कृष्ण",
+    "C_en": "Rama", "C_hi": "राम",
+    "D_en": "Hanuman", "D_hi": "भगवान हनुमान",
+    "answer": "A",
+    "explanation_en": "Pabuji is a central character in Rajasthani Kathputli, representing valor and justice.",
+    "explanation_hi": "पाबूजी राजस्थानी कथपुतली में केंद्रीय चरित्र हैं, जो साहस और न्याय के प्रतीक हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "Which dish is a traditional Rajasthani recipe made with hard wheat dough and served with ghee?",
+    "question_hi": "कौन सा व्यंजन राजस्थानी व्यंजन का एक परंपरागत नुस्खा है, जिसमें सख्त गेहूं की आटा का प्रयोग होता है और जिसे घी के साथ परोसा जाता है?",
+    "A_en": "Dal Baati Churma", "A_hi": "डल बाती चुरमा",
+    "B_en": "Poha", "B_hi": "पोहा",
+    "C_en": "Kheer", "C_hi": "कीर",
+    "D_en": "Biryani", "D_hi": "बर्यानी",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a traditional Rajasthani dish made of lentils, Baati (hard wheat bread), and sweetened crumbled bread.",
+    "explanation_hi": "डल बाती चुरमा लेहनी, बाती (सख्त गेहूं का रोटी) और मीठे टूटकर रोटी के साथ बना एक परंपरागत राजस्थानी व्यंजन है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dances",
+    "question_en": "Which Rajasthani dance form is performed to mimic the movements of a peacock?",
+    "question_hi": "राजस्थान में कौन सा नृत्य रूप मयूर के हरकत के दोहराने के लिए प्रदर्शित किया जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Chakri", "B_hi": "चक्री",
+    "C_en": "Ghoomar", "C_hi": "घूमर",
+    "D_en": "Kathakali", "D_hi": "कथकली",
+    "answer": "B",
+    "explanation_en": "Chakri is a Rajasthani dance form performed in Udaipur, mimicking the movements of a peacock.",
+    "explanation_hi": "चक्री उदयपुर में प्रदर्शित एक राजस्थानी नृत्य रूप है, जो मयूर के हरकत के दोहराने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Historical
