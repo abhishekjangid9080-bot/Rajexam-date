@@ -1,0 +1,230 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions for Rajasthan Geography for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. The questions should be in both Hindi and English, with options labeled A to D. The answers and explanations must also be in both languages. Let me start by recalling important topics in Rajasthan Geography.
+
+First, capital cities. Jaipur is the capital, but maybe other districts have capitals too. For example, Jodhpur is the capital of Jodhpur district. Wait, no, Jodhpur is the district headquarter. Similarly, Udaipur is another major city. I should check if there are other capitals that might be a point of confusion.
+
+Next, rivers. Rajasthan is known for its arid climate, but there are rivers like Chambal, Sindh, and Luni. The Luni River doesn't flow into the sea but terminates in the Thar Desert. That could be a question point.
+
+Mountains and hills. The Aravalli Range is significant in Rajasthan. Places like Mount Abu are in the Aravallis. The highest peak in the Aravallis is Guru Shikhar in Mount Abu. That's a good fact for a question.
+
+Deserts. The Thar Desert covers a large part of Rajasthan. The state's geography is largely desert and semi-desert. Another question could be about the percentage of Rajasthan covered by desert.
+
+Soil types. Different regions have different soils. For example, alluvial soils in the river valleys, arid soils in the desert areas. Maybe a question about the dominant soil type in Rajasthan.
+
+Famous lakes. Rajasthan has several lakes, like Pushkar, Pichola in Udaipur, and Jaisamand. Pushkar has the Pushkar Lake associated with Lord Brahma. Udaipur is known as the city of lakes.
+
+Major rivers. The Chambal is a tributary of the Yamuna. The Sindh is a tributary of the Indus. But the Luni is unique as it doesn't flow into the sea. That's a good question.
+
+Historical forts. Rajasthan has many forts, like Mehrangarh, Jaisalmer Fort, and Chittorgarh Fort. The forts are often located in hilly areas for defense.
+
+Climatology. Rajasthan experiences high temperatures. The hottest place is usually Barmer or Jaisalmer. The state has a hot desert climate with low rainfall.
+
+Natural vegetation. The vegetation is mainly thorny bushes in the desert, with some grasslands. The Keoladeo National Park in Bharatpur is a wetland with different vegetation.
+
+Wait, need to ensure each question is unique and covers different aspects. Let me outline the topics:
+
+1. Capital of Rajasthan.
+2. Capital of Jodhpur district.
+3. River that doesn't flow into a sea.
+4. Highest peak in Aravallis.
+5. Desert covering Rajasthan.
+6. Major river and its tributary.
+7. City known as the "City of Lakes".
+8. District with highest population.
+9. State with which Rajasthan shares boundary.
+10. Soil type in desert areas.
+
+Now, check the facts:
+
+- Rajasthan's capital is Jaipur.
+- Jodhpur district's capital is Jodhpur.
+- Luni is the river that doesn't flow into the sea.
+- Guru Shikhar is the highest peak in Aravallis.
+- Thar Desert covers Rajasthan.
+- Chambal is a tributary of Yamuna; Sindh is a tributary of Indus.
+- Udaipur is the City of Lakes.
+- Jaipur district has the highest population.
+- Rajasthan shares border with Pakistan (Thar Desert side), Gujarat, Madhya Pradesh, Haryana, and Punjab.
+- Arid soils are found in desert areas.
+
+Need to make sure the options are plausible. For example, in the capital question, options could be other major cities. For rivers, include other rivers like Chambal, Sindh, and Luni. For the highest peak, include other hills like Abu Hill. For the desert question, maybe confuse with other deserts like Thar, but Thar is correct.
+
+Also, ensure explanations are concise and factual. Avoid any ambiguity. For example, the explanation for the Luni river question should state that it terminates in the Thar Desert.
+
+Now, structure each question with the required JSON format. Use the example provided to maintain consistency. Check for any spelling errors in Hindi and English. Ensure the answer is marked correctly.
+
+Let's start drafting each question step by step.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Capital Cities",
+    "question_en": "Which city is known as the 'Blue City' of Rajasthan?",
+    "question_hi": "राजस्थान के 'ब्लू सिटी' के रूप में किस शहर को जाना जाता है?",
+    "A_en": "Jodhpur",
+    "A_hi": "जोधपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Chittorgarh",
+    "D_hi": "चित्तौड़गढ़",
+    "answer": "A",
+    "explanation_en": "Jodhpur is known as the 'Blue City' due to its blue-painted houses.",
+    "explanation_hi": "जोधपुर को 'ब्लू सिटी' के रूप में जाना जाता है क्योंकि यहाँ के घरों का रंग नीला होता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers",
+    "question_en": "Which river in Rajasthan does not flow into the sea?",
+    "question_hi": "राजस्थान में कौन सी नदी समुद्र में नहीं गिरती है?",
+    "A_en": "Chambal",
+    "A_hi": "चम्बल",
+    "B_en": "Sindh",
+    "B_hi": "सिंधु",
+    "C_en": "Luni",
+    "C_hi": "लूनी",
+    "D_en": "Mahi",
+    "D_hi": "माही",
+    "answer": "C",
+    "explanation_en": "Luni is the only river in Rajasthan that does not flow into the sea and ends in the Thar Desert.",
+    "explanation_hi": "लूनी राजस्थान की वह अकेली नदी है जो समुद्र में नहीं गिरती है और थार मरूभूमि में समाप्त हो जाती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Mountains",
+    "question_en": "What is the highest peak in the Aravalli Range?",
+    "question_hi": "अरावली पर्वतमाला में सर्वोच्च शिखर कौन सा है?",
+    "A_en": "Mount Abu",
+    "A_hi": "माउंट अबू",
+    "B_en": "Guru Shikhar",
+    "B_hi": "गुरु शिखर",
+    "C_en": "Kumbhalgarh",
+    "C_hi": "कुंभलगढ़",
+    "D_en": "Dhankarla",
+    "D_hi": "धंकरला",
+    "answer": "B",
+    "explanation_en": "Guru Shikhar is the highest peak in the Aravalli Range, located in Mount Abu.",
+    "explanation_hi": "गुरु शिखर अरावली पर्वतमाला में सबसे ऊँचा शिखर है, जो माउंट अबू में स्थित है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Deserts",
+    "question_en": "Which desert covers more than 60% of Rajasthan's area?",
+    "question_hi": "राजस्थान के क्षेत्र के 60% से अधिक हिस्सा कौन सी मरूभूमि घेरती है?",
+    "A_en": "Thar Desert",
+    "A_hi": "थार मरूभूमि",
+    "B_en": "Kutch Desert",
+    "B_hi": "कच्छ मरूभूमि",
+    "C_en": "Sahara Desert",
+    "C_hi": "सहरा मरूभूमि",
+    "D_en": "Gobi Desert",
+    "D_hi": "गोबी मरूभूमि",
+    "answer": "A",
+    "explanation_en": "The Thar Desert covers a significant portion of Rajasthan's geographical area.",
+    "explanation_hi": "थार मरूभूमि राजस्थान के भौगोलिक क्षेत्र का महत्वपूर्ण हिस्सा घेरती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Cities",
+    "question_en": "Which city is known as the 'Pearl of Rajasthan'?",
+    "question_hi": "राजस्थान के 'मोती' के रूप में किस शहर को जाना जाता है?",
+    "A_en": "Jaisalmer",
+    "A_hi": "जैसलमेर",
+    "B_en": "Udaipur",
+    "B_hi": "उदयपुर",
+    "C_en": "Ajmer",
+    "C_hi": "अजमेर",
+    "D_en": "Kota",
+    "D_hi": "कोटा",
+    "answer": "B",
+    "explanation_en": "Udaipur is called the 'Pearl of Rajasthan' due to its beautiful lakes and palaces.",
+    "explanation_hi": "उदयपुर को राजस्थान का 'मोती' कहा जाता है क्योंकि इसके सुंदर झीलों और महलों के कारण।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers",
+    "question_en": "Which river is a tributary of the Indus?",
+    "question_hi": "कौन सी नदी सिंधु नदी की सहायक नदी है?",
+    "A_en": "Chambal",
+    "A_hi": "चम्बल",
+    "B_en": "Sindh",
+    "B_hi": "सिंधु",
+    "C_en": "Beas",
+    "C_hi": "व्यास",
+    "D_en": "Ravi",
+    "D_hi": "रावी",
+    "answer": "B",
+    "explanation_en": "Sindh is a tributary of the Indus River, flowing through Rajasthan.",
+    "explanation_hi": "सिंधु नदी सिंधु नदी की एक सहायक नदी है जो राजस्थान से गुजरती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Climate",
+    "question_en": "Which district in Rajasthan is the hottest?",
+    "question_hi": "राजस्थान में कौन सा जिला सबसे गर्म है?",
+    "A_en": "Barmer",
+    "A_hi": "बाड़मेर",
+    "B_en": "Jaisalmer",
+    "B_hi": "जैसलमेर",
+    "C_en": "Churu",
+    "C_hi": "चूरू",
+    "D_en": "Jodhpur",
+    "D_hi": "जोधपुर",
+    "answer": "B",
+    "explanation_en": "Jaisalmer is known for having the hottest climate in Rajasthan.",
+    "explanation_hi": "जैसलमेर के राजस्थान के सबसे गर्म जिला होने के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Lakes",
+    "question_en": "Which lake is associated with Lord Brahma in Rajasthan?",
+    "question_hi": "राजस्थान में कौन सी झील महर्षि ब्रह्मा से संबंधित है?",
+    "A_en": "Pushkar Lake",
+    "A_hi": "पुष्कर झील",
+    "B_en": "Pichola Lake",
+    "B_hi": "पिचोला झील",
+    "C_en": "Jaisamand Lake",
+    "C_hi": "जैसमंद झील",
+    "D_en": "Doodh Talai Lake",
+    "D_hi": "दूध तालाई झील",
+    "answer": "A",
+    "explanation_en": "Pushkar Lake is associated with Lord Brahma and is a major pilgrimage site.",
+    "explanation_hi": "पुष्कर झील महर्षि ब्रह्मा से संबंधित है और एक प्रमुख तीर्थ स्थल है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Districts",
+    "question_en": "Which district is the largest in Rajasthan by area?",
+    "question_hi": "क्षेत्रफल के अनुसार राजस्थान का सबसे बड़ा जिला कौन सा है?",
+    "A_en": "Barmer",
+    "A_hi": "बाड़मेर",
+    "B_en": "Jaisalmer",
+    "B_hi": "जैसलमेर",
+    "C_en": "Churu",
+    "C_hi": "चूरू",
+    "D_en": "Jodhpur",
+    "D_hi": "जोधपुर",
+    "answer": "A",
+    "explanation_en": "Barmer is the largest district in Rajasthan by area.",
+    "explanation_hi": "बाड़मेर राजस्थान का क्षेत्रफल के अनुसार सबसे बड़ा जिला है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Soil",
+    "question_en": "Which soil type is predominant in the desert areas of Rajasthan?",
+    "question_hi": "राजस्थान के मरुस्थलीय क्षेत्रों में कौन सी मिट्टी प्रमुख है?",
+    "A_en": "Alluvial Soil",
+    "A_hi": "अववाहिक मिट्टी",
+    "B_en": "Arid Soil",
+    "B_hi": "शुष्क मिट्टी",
+    "C_en": "Laterite Soil",
+    "C_hi": "लेटेराइट मिट्टी",
+    "D_en": "Black Soil",
+    "D_hi": "काली मिट्टी",
+    "answer": "B",
+    "explanation_en": "Arid soil is predominant in the desert regions of Rajasthan due to low rainfall and high evaporation.",
+    "explanation_hi": "राजस्थान के मरुस्थलीय क्षेत्रों में शुष्क मिट्टी प्रमुख है क्योंकि यहाँ बरसात कम और सूख जाता है।"
+  }
+]
