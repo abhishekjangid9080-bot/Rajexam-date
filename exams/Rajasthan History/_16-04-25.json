@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Mansingh I?",
+"question_hi": "राजा मंसिंगी एक्सेन ने किस प्रमोजन किया?",
+"A_en": "Amber Fort", "A_hi": "अम्बर फोट",
+"B_en": "Kishangarh Fort", "B_hi": "किशंगरों की फोट",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्बलगढ़ फोट",
+"D_en": "Meena Bazaar", "D_hi": "मेना बाजार",
+"answer": "A",
+"explanation_en": "Amber Fort was built by Raja Mansingh I. Raja Mansingh I was the Maharaja of Jaipur and constructed the Amber Fort as his capital city.",
+"explanation_hi": "राजा मन्सिंगी अमेर फोट ने ख़ाना गृहर फोट की बना। ख़ाना गृहर सी मैंगी के महाराज़ा गृहर की बना।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajputs in Rajasthan",
+"question_en": "Who were the original Rajput clans in Rajasthan?",
+"question_hi": "राजस्थान में बेट्रेट क्या पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्रेट के पूर्वाने राजपुत्तवाने बेट्र",
+ 
+"question_en": "Which tribe did Rajasthan belong to before the arrival of the Rajputs?",
+"question_hi": "राजपुत्तवाने बैट्र के पूर्वाने बैट कैट्र",
+"options": [
+{
+"A_en": "Tauravas",
+"A_hi": "तौरानैट्र",
+"B_en": "Pratihas",
+"B_hi": "पौरौर",
+"C_en": "Ahichhins",
+"C_hi": "आहिंर",
+"D_en": "Airishas",
+"D_hi": "आरौिंर",
+"answer": "B",
+"explanation_en": "राजपौरानौर आर",
+"explanation_hi": "राजपौरानौर आर आरिंर",
+}
+]
