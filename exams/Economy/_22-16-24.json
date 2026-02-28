@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "Finance and Budget",
+"question_en": "What is the term for the annual financial plan of a country?",
+"question_hi": "देश के एक साली अर्थशास्त्र क्या कहना होता है?",
+"A_en": "Budget", "A_hi": "व्यापी",
+"B_en": "Finance", "B_hi": "वित्त",
+"C_en": "Accounting", "C_hi": "अभिव्यापी",
+"D_en": "Economics", "D_hi": "विवेक",
+"answer": "D",
+"explanation_en": "Annual financial plan of a country is called the budget. In Hindi, it is referred to as 'व्यापी'.",
+"explanation_hi": "देश का एक वर्षीय व्यापी (विवेक) क्या है?"
+}
+]
