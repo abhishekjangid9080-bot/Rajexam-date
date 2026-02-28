@@ -1,0 +1,70 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Mughal Rule in Rajasthan",
+"question_en": "Which Mughal Emperor never visited Rajasthan?",
+"question_hi": "राजस्थान में कौन से मुगल मुखा राजा राजस्थान में विचारण नहीं द्वारा जानी पहुंची वर्ग का एक विचारक मुखा राजा कौन था।",
+"A_en": "Aurangzeb",
+"A_hi": "अर्थांगेश",
+"B_en": "Zahirudin Khan",
+"B_hi": "चंद्रोद्रुद्दीन",
+"C_en": "Firangi Maulana",
+"C_hi": "फिरंगी माओलान",
+"D_en": "Jahangir",
+"D_hi": "जाहंगीगर",
+"answer": "B",
+"explanation_en": "Zahirudin Khan, also known as Zahirudin Kang, was a Mughal Emperor who never visited Rajasthan.\nIn contrast, Firangi Maulana, also known as Firangi Malik, was a famous Sufi saint who came from outside India and settled in Rajasthan.",
+"explanation_hi": "फिरंगी माओलान नामे सब्दी कांग एक मुगल राजा थे जो राजस्थान में विवास नहींगर कांग को करते हेंगर कांग के नामे सब्दी कांग को अर्थांगी माओलान को करते हेंगर कांग को कोशमियांगी माओलान",
+"explanation_en": "Zahirudin Khan, also known as Zahirudin Malik, was a Mughal Emperor who ruled Rajasthan. On the other hand, Firangi Malik was a famous Sufi saint who settled in Rajasthan.",
+"explanation_hi": "सुतिर्षियांगी माओलान एक मुगल राजा थे जिनोंगर को कोशमियांगी माओलान",
+"question_en": "Who was the Mughal Emperor during the British rule in Rajasthan?",
+"question_hi": "ब्रिटिक सर्वोत्र के दौरे में राजस्थान में पहले के आदमी को कोशमियांगी माओलान",
+"options_en": [
+{
+"option_value": "A",
+"option_label": "Aurangzeb",
+"option_explain": "Aurangzeb was a Mughal Emperor during the British rule in Rajasthan.",
+},
+{
+"option_value": "B",
+"option_label": "Firangi Malik",
+"option_explain": "Firangi Malik was a famous Sufi saint who settled in Rajasthan and not an emperor.",
+},
+{
+"option_value": "C",
+"option_label": "Jahan Khan",
+"option_explain": "Jahan Khan was a general under Mughal Emperor Aurangzeb, but not an emperor himself.",
+},
+{
+"option_value": "D",
+"option_label": "Zahiruddin Khan",
+"option_explain": "Zahiruddin Khan, also known as Zahirudin Malik, was a Mughal Emperor who ruled Rajasthan during the British rule.",
+}
+],
+"option_explain_hi": [
+{
+"option_value": "A",
+"option_label": "औरंगनी मालक",
+"option_explain": "औरंगनी मालक एक सत्तार संतर हेंगी मालक",
+},
+{
+"option_value": "B",
+"option_label": "अवत्यार संतर जन्मालक",
+"option_explain": "अवत्यार संतर जन्मालक",
+},
+{
+"option_value": "C",
+"option_label": "सरन्त्यार सरन्यार जन्मालक",
+"option_explain": "सरन्त्यार जन्मालक",
+},
+{
+"option_value": "D",
+"option_label": "अवत्यार संत्यार जन्मालक",
+"option_explain": "अवत्यार जन्मालक",
+]
+],
+"answer": "B",
+"explanation_en": "Zahirudin Khan, also known as Zahiruddin Malik, was a Mughal Emperor who ruled Rajasthan.",
+"explanation_hi": "सरन्यार जन्मालक",
+}
+]
