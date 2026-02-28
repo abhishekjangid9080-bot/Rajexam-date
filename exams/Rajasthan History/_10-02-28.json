@@ -1,0 +1,159 @@
+<think>
+Okay, let's start by understanding the user's request. They need 10 high-quality multiple-choice questions on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. Each question must be in both Hindi and English, with explanations in both languages. The JSON structure example provided shows the required format, so I need to strictly follow that.
+
+First, I need to identify key topics in Rajasthan History. Topics like ancient kingdoms, medieval history, notable rulers, historical events, and cultural aspects come to mind. Since the difficulty level should be set according to Rajasthan History exams, the questions shouldn't be too easy or overly complex.
+
+For each question, I need to ensure that the question and options are in both languages. The answers and explanations also need to be accurately translated. Let's brainstorm some topics. Maybe start with the oldest cities in Rajasthan, important rulers like Maharaja Sawai Jai Singh II, historical battles, and cultural heritage.
+
+Let me think of the first question: Which is the oldest city in Rajasthan? The options could include Jaisalmer, Bikaner, Chittorgarh, and Udaipur. The correct answer is Jaisalmer, known as the Golden City. The explanation should mention its establishment in the 12th century.
+
+Next question could be about the founder of Jaipur. Sawai Jai Singh II is the correct answer. Other options might be Raja Man Singh, Maharaja Ajit Singh, or Raja Todar Mal. The explanation needs to highlight his role in founding Jaipur in 1727.
+
+Another topic could be the historical name of Nathdwara. The answer is Nandban, which was renamed by Maharana Raj Singh I. Other options could be nearby places like Nathdwara itself or other locations.
+
+For the medieval period, the question about the ruler who defeated the Mughals might be about Maharana Pratap. Options could include Rana Sanga, Maharana Udai Singh, and Rao Mal. The explanation should note Pratap's resistance against Akbar.
+
+A question on the capital of the Mewar kingdom in the 15th century would involve Chittorgarh, as it was the main fort. Other options like Udaipur (which became the capital later), Rajsamand, or Kota need to be considered.
+
+Cultural aspects could include the famous folk dance, Ghoomar. Other options like Kalbeliya, Chhau, or Garba are from other regions. The explanation should specify that Ghoomar is from Rajasthan.
+
+Notable historical events: The Battle of Khanwa in 1527 between Babur and Rana Sanga. Options could mix up other battles like Haldighati or Saraighat.
+
+The question about the person who built the Hawa Mahal, which is Sawai Jai Singh II, differentiating from other builders. The options should include other rulers to avoid confusion.
+
+The city known as the "Heritage City" is Udaipur, famous for its palaces and Mewar heritage. Other options like Jodhpur or Jaipur might be considered, but Udaipur is correct.
+
+Lastly, the founder of the Kachwaha dynasty, which is Raja Kehar Mal. Other options could include Raja Ratan Singh or Raja Man Singh. The explanation should note his role in establishing the dynasty in the 12th century.
+
+I need to ensure that all translations are accurate. For example, "oldest city" in Hindi is "सबसे पुराना शहर". Also, checking for any possible confusion in the options is important to maintain the question's validity. Each explanation must clearly justify the correct answer without ambiguity. Once all 10 questions are drafted, I'll structure them into the JSON format as specified, making sure to follow the example's order and required fields.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Ancient and Medieval Period",
+        "question_en": "Which is the oldest city in Rajasthan?",
+        "question_hi": "राजस्थान का सबसे पुराना शहर कौन-सा है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Bikaner", "B_hi": "बीकानेर",
+        "C_en": "Chittorgarh", "C_hi": "चित्तौड़गढ़",
+        "D_en": "Udaipur", "D_hi": "उदयपुर",
+        "answer": "A",
+        "explanation_en": "Jaisalmer is considered the oldest city in Rajasthan, established in the 12th century.",
+        "explanation_hi": "जैसलमेर राजस्थान का सबसे पुराना शहर माना जाता है, जिसकी स्थापना 12वीं शताब्दी में की गई थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern Period",
+        "question_en": "Who founded the city of Jaipur in 1727?",
+        "question_hi": "1727 में जयपुर शहर की स्थापना किसने की थी?",
+        "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+        "B_en": "Raja Man Singh", "B_hi": "राजा मान सिंह",
+        "C_en": "Maharaja Ajit Singh", "C_hi": "महाराजा अजीत सिंह",
+        "D_en": "Raja Todar Mal", "D_hi": "राजा तोडर मल",
+        "answer": "A",
+        "explanation_en": "Sawai Jai Singh II founded Jaipur in 1727 as a planned city with a grid layout.",
+        "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना एक नियोजित शहर के रूप में ग्रिड लेआउट के साथ की थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Cultural Heritage",
+        "question_en": "Which of the following is the historical name of Nathdwara?",
+        "question_hi": "निम्नलिखित में से कौन-सा नथद्वारा का ऐतिहासिक नाम है?",
+        "A_en": "Nandban", "A_hi": "नंदबान",
+        "B_en": "Merta", "B_hi": "मेरता",
+        "C_en": "Rajsamand", "C_hi": "राजसमंद",
+        "D_en": "Dungarpur", "D_hi": "डूंगरपुर",
+        "answer": "A",
+        "explanation_en": "Nathdwara was historically known as Nandban before being renamed by Maharana Raj Singh I.",
+        "explanation_hi": "नथद्वारा के ऐतिहासिक नाम नंदबान था, जिसे महाराणा राज सिंह प्रथम द्वारा पुन: नामित किया गया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Medieval Rulers",
+        "question_en": "Which Rajput ruler defeated the Mughal forces in the Battle of Haldighati?",
+        "question_hi": "हल्दीघाटी के युद्ध में मुगल बलों को हराने वाला राजपूत शासक कौन था?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+        "C_en": "Maharana Udai Singh", "C_hi": "महाराणा उदय सिंह",
+        "D_en": "Rao Mal", "D_hi": "राओ मल",
+        "answer": "A",
+        "explanation_en": "Maharana Pratap is renowned for his resistance against the Mughals and victory at Haldighati.",
+        "explanation_hi": "महाराणा प्रताप मुगलों के खिलाफ प्रतिरोध के लिए प्रसिद्ध हैं और हल्दीघाटी में जीत के लिए जाने जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Medieval Kingdoms",
+        "question_en": "Which city was the capital of the Mewar kingdom in the 15th century?",
+        "question_hi": "15वीं शताब्दी में मेवाड़ राज्य की राजधानी कौन-सा शहर था?",
+        "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Rajsamand", "C_hi": "राजसमंद",
+        "D_en": "Kota", "D_hi": "कोटा",
+        "answer": "A",
+        "explanation_en": "Chittorgarh was the capital of the Mewar kingdom until the 15th century, after which Udaipur became the capital.",
+        "explanation_hi": "चित्तौड़गढ़ 15वीं शताब्दी तक मेवाड़ राज्य की राजधानी रहा, जिसके बाद उदयपुर राजधानी बन गया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Cultural Heritage",
+        "question_en": "Which of the following is a famous folk dance of Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन-सा राजस्थान का प्रसिद्ध लोक नृत्य है?",
+        "A_en": "Ghoomar", "A_hi": "घूमर",
+        "B_en": "Kalbeliya", "B_hi": "कलबेलिया",
+        "C_en": "Chhau", "C_hi": "छौ",
+        "D_en": "Garba", "D_hi": "गरबा",
+        "answer": "A",
+        "explanation_en": "Ghoomar is a traditional dance of Rajasthan, especially performed by women.",
+        "explanation_hi": "घूमर राजस्थान का एक पारंपरिक नृत्य है, जिसे खासकर महिलाओं द्वारा प्रस्तुत किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Events",
+        "question_en": "In which year did the Battle of Khanwa take place between Babur and Rana Sanga?",
+        "question_hi": "बाबर और राणा सांगा के बीच कब हल्दीघाटी के युद्ध में लड़ाई हुई थी?",
+        "A_en": "1527", "A_hi": "1527",
+        "B_en": "1528", "B_hi": "1528",
+        "C_en": "1529", "C_hi": "1529",
+        "D_en": "1530", "D_hi": "1530",
+        "answer": "A",
+        "explanation_en": "The Battle of Khanwa was fought in 1527 between Babur of the Mughal Empire and Rana Sanga of Mewar.",
+        "explanation_hi": "हल्दीघाटी की लड़ाई मुगल साम्राज्य के बाबर और मेवाड़ के राणा सांगा के बीच 1527 में लड़ी गई थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Architecture",
+        "question_en": "Who built the Hawa Mahal in Jaipur?",
+        "question_hi": "जयपुर में हवा महल का निर्माण किसने करवाया था?",
+        "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+        "B_en": "Maharaja Man Singh", "B_hi": "महाराजा मान सिंह",
+        "C_en": "Raja Ram Singh", "C_hi": "राजा राम सिंह",
+        "D_en": "Maharaja Sawai Singh", "D_hi": "महाराजा सवाई सिंह",
+        "answer": "A",
+        "explanation_en": "Sawai Jai Singh II constructed the Hawa Mahal in Jaipur to provide ventilation and cool air to the palace.",
+        "explanation_hi": "सवाई जय सिंह द्वितीय ने जयपुर में हवा महल का निर्माण राजमहल में हवा के संचार और ठंडक लाने के लिए करवाया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Cultural Heritage",
+        "question_en": "Which city is known as the 'Heritage City of India'?",
+        "question_hi": "कौन-सा शहर 'भारत का ऐतिहासिक शहर' के रूप में जाना जाता है?",
+        "A_en": "Udaipur", "A_hi": "उदयपुर",
+        "B_en": "Jodhpur", "B_hi": "जोधपुर",
+        "C_en": "Jaipur", "C_hi": "जयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "A",
+        "explanation_en": "Udaipur is known as the 'Heritage City of India' due to its palaces, lakes, and rich cultural legacy.",
+        "explanation_hi": "उदयपुर 'भारत का ऐतिहासिक शहर' मेने के कारण जाना जाता है क्योंकि इसमें महल, झीलें और समृद्ध सांस्कृतिक विरासत है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Ancient Rulers",
+        "question_en": "Who founded the Kachwaha dynasty in Rajasthan?",
+        "question_hi": "राजस्थान में कच्छवाहा वंश की स्थापना किसने की थी?",
+        "A_en": "Raja Kehar Mal", "A_hi": "राजा केहर मल",
+        "B_en": "Raja Ratan Singh", "B_hi": "राजा रतन सिंह",
+        "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+        "D_en": "Raja Duda", "D_hi": "राजा दुदा",
+        "answer": "A",
+        "explanation_en": "Raja Kehar Mal established the Kachwaha dynasty in 1192 AD, which
