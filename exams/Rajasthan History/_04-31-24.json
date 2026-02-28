@@ -1,0 +1,60 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Capital and Famous Cities",
+"question_en": "What is the capital of Rajasthan and which are the other famous cities in the state?",
+"question_hi": "राजस्थान की राजधानी और राजस्थान के राजधानी के साथ, राजस्थान के अन्य पसंदीदा समुदायों के नाम और उनकी विविधता ?",
+"A": {
+"text": "Rajasthan की राजधानी है - Jaipur, जयपुर, Udaipur, Jodhpur, Jaisalmer aur Alwar. उनमें सबसे पहले जानने का अन्य समुदायों के नाम",
+"options": [
+{
+"option": "A",
+"answer": "Jaipur",
+"name": "जयपुर",
+"type": "famous city"
+},
+{
+"option": "B",
+"answer": "Udaipur",
+"name": "उदयपुर",
+"type": "famous city"
+},
+{
+"option": "C",
+"answer": "Jodhpur",
+"name": "जोधपुर",
+"type": "famous city"
+},
+{
+"option": "D",
+"answer": "Jaisalmer",
+"name": "जयसलमर",
+"type": "famous city"
+},
+{
+"option": "E",
+"answer": "Alwar",
+"name": "अलवार",
+"type": "famous city"
+}
+]
+},
+{
+"option": "F",
+"answer": "Jhunjhunu",
+"name": "जुंगून",
+"type": "famous city"
+},
+{
+"option": "G",
+"answer": "Churu",
+"name": "चुरू",
+"type": "famous city"
+},
+{
+"option": "H",
+"answer": "Sikar",
+"name": "सिकार",
+"type": "famous city"
+}
+]
