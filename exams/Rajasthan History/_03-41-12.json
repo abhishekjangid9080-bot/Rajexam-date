@@ -1,0 +1,153 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The user wants the questions in both Hindi and English, with explanations in both languages. The format has to be strict JSON, following the provided example. Let me start by brainstorming important topics in Rajasthan History.
+
+First, key dynasties and their rulers. The Rajputs, Mughals, and Rathores come to mind. Maybe a question about the founder of the Marwar region. Then, historical events like the Battle of Haldighati or the reign of Raja Man Singh. Also, important cities like Chittorgarh and their significance. Cultural aspects like festivals or architectural marvels. Maybe include some important treaties or alliances. Let me think of each question step by step.
+
+1. Founder of Marwar region. The answer is Rao Jodha. Need to present options with other Rajput rulers.
+2. Capital of Mewar. Chittorgarh is correct. Other options like Udaipur, Jaipur, Jodhpur.
+3. Battle of Haldighati. Rana Pratap vs Akbar. Options might include other battles.
+4. Founder of Jaipur. Sawai Jai Singh is the correct answer. Others like Raja Man Singh, Maharaja Ajit Singh.
+5. City known as the "Blue City". Jodhpur is famous for its blue architecture. Others like Udaipur, Jaisalmer, Jodhpur.
+6. Raja Man Singh's contribution. He was a Rajput king who helped Akbar. Options about military, architecture, etc.
+7. City known as the "White City". Udaipur because of marble structures. Others like Jodhpur, Jaipur, Bikaner.
+8. Treaty of 1818. Marwar's Rao Umed Singh signed it with the British. Options with other rulers.
+9. Historical significance of Chittorgarh Fort. Captured by Alauddin Khilji. Others like Mahmud of Ghazni, Babur.
+10. Ruler who shifted capital to Kishangarh. Maharaja Abhay Singh of Marwar. Others like Raja Jai Singh, Rana Sanga.
+
+Now, translating each question into Hindi. Ensure the options are in both languages. Check for correctness and clarity. Make sure explanations are concise. For example, for the first question, the explanation would mention Rao Jodha establishing Jodhpur as the capital.
+
+Need to verify all facts to avoid errors. Make sure the difficulty level is appropriate for these exams. Avoid very obscure facts but not too common either. Balance the questions across different aspects of Rajasthan History. Check JSON structure strictly, using the example provided. No markdown, just raw JSON.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Dynasties",
+    "question_en": "Who is the founder of the Marwar region?",
+    "question_hi": "मारवाड़ क्षेत्र के स्थापक कौन हैं?",
+    "A_en": "Rao Jodha", "A_hi": "राव जोधा",
+    "B_en": "Maharaja Man Singh", "B_hi": "महाराजा मन सिंह",
+    "C_en": "Raja Pratap Singh", "C_hi": "राजा प्रताप सिंह",
+    "D_en": "Raja Ratan Singh", "D_hi": "राजा रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Rao Jodha founded the Marwar region and established Jodhpur as its capital.",
+    "explanation_hi": "राव जोधा मारवाड़ क्षेत्र के स्थापक थे और उन्होंने जोधपुर को राजधानी के रूप में स्थापित किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mewar",
+    "question_en": "Which city is known as the capital of Mewar?",
+    "question_hi": "मेवाड़ की राजधानी कौन सा शहर है?",
+    "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Jaipur", "C_hi": "जयपुर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "A",
+    "explanation_en": "Chittorgarh is historically considered the capital of Mewar.",
+    "explanation_hi": "चित्तौड़गढ़ प्राचीनकाल से मेवाड़ की राजधानी माना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Military History",
+    "question_en": "Which battle was fought between Rana Pratap and Akbar?",
+    "question_hi": "राणा प्रताप और अकबर के बीच कौन सी लड़ाई लड़ी गई थी?",
+    "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी की लड़ाई",
+    "B_en": "Battle of Khanwa", "B_hi": "खानवा की लड़ाई",
+    "C_en": "Battle of Panipat", "C_hi": "पानीपत की लड़ाई",
+    "D_en": "Battle of Chittorgarh", "D_hi": "चित्तौड़गढ़ की लड़ाई",
+    "answer": "A",
+    "explanation_en": "The Battle of Haldighati in 1576 was a significant conflict between Rana Pratap and the Mughal Emperor Akbar.",
+    "explanation_hi": "1576 में हल्दीघाटी की लड़ाई राणा प्रताप और मुगल सम्राट अकबर के बीच हुई थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders",
+    "question_en": "Who is credited with the establishment of Jaipur?",
+    "question_hi": "जयपुर की स्थापना किसके श्रेय दिया जाता है?",
+    "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+    "B_en": "Maharaja Ajit Singh", "B_hi": "महाराजा अजीत सिंह",
+    "C_en": "Raja Man Singh", "C_hi": "राजा मन सिंह",
+    "D_en": "Maharaja Bhim Singh", "D_hi": "महाराजा भीम सिंह",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh II founded Jaipur in 1727 as the new capital of Amber.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में अम्बेर की नई राजधानी के रूप में जयपुर की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cities and Forts",
+    "question_en": "Which city is known as the 'Blue City' of Rajasthan?",
+    "question_hi": "राजस्थान का कौन सा शहर 'ब्लू सिटी' के रूप में जाना जाता है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "A",
+    "explanation_en": "Jodhpur is called the 'Blue City' due to its blue-painted houses in the old city.",
+    "explanation_hi": "जोधपुर को पुराने शहर में नीले रंग के घरों के कारण 'ब्लू सिटी' के नाम से जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Contributions",
+    "question_en": "Which ruler of Rajasthan is associated with the construction of the 'Karni Mata Temple' in Deshnoke?",
+    "question_hi": "राजस्थान के किस शासक से देशनोके में 'कर्णी माता मंदिर' के निर्माण का संबंध है?",
+    "A_en": "Maharaja Man Singh", "A_hi": "महाराजा मन सिंह",
+    "B_en": "Maharaja Sawai Jai Singh", "B_hi": "महाराजा सवाई जय सिंह",
+    "C_en": "Maharaja Bhim Singh", "C_hi": "महाराजा भीम सिंह",
+    "D_en": "Maharaja Abhay Singh", "D_hi": "महाराजा अभय सिंह",
+    "answer": "A",
+    "explanation_en": "Maharaja Man Singh of Marwar commissioned the Karni Mata Temple in Deshnoke.",
+    "explanation_hi": "मारवाड़ के महाराजा मन सिंह ने देशनोके में कर्णी माता मंदिर के निर्माण का आदेश दिया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Architecture",
+    "question_en": "Which city is known as the 'White City' due to its marble architecture?",
+    "question_hi": "संगमरमर आर्किटेक्चर के कारण कौन सा शहर 'व्हाइट सिटी' के रूप में जाना जाता है?",
+    "A_en": "Udaipur", "A_hi": "उदयपुर",
+    "B_en": "Jodhpur", "B_hi": "जोधपुर",
+    "C_en": "Jaipur", "C_hi": "जयपुर",
+    "D_en": "Ajmer", "D_hi": "अजमेर",
+    "answer": "A",
+    "explanation_en": "Udaipur is called the 'White City' because of its white marble structures like the City Palace.",
+    "explanation_hi": "उदयपुर को शहर पल्ली जैसी संगमरमर की संरचनाओं के कारण 'व्हाइट सिटी' के नाम से जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Treaties",
+    "question_en": "Which treaty marked the end of the Marwar confederacy's independence?",
+    "question_hi": "मारवाड़ संघ की स्वतंत्रता का अंत दर्शाने वाला कौन सा संधि था?",
+    "A_en": "Treaty of 1818", "A_hi": "1818 का संधि",
+    "B_en": "Treaty of 1758", "B_hi": "1758 का संधि",
+    "C_en": "Treaty of 1809", "C_hi": "1809 का संधि",
+    "D_en": "Treaty of 1835", "D_hi": "1835 का संधि",
+    "answer": "A",
+    "explanation_en": "The Treaty of 1818 marked the end of the Marwar confederacy's independence under British suzerainty.",
+    "explanation_hi": "1818 का संधि ब्रिटिश उपराष्ट्रीयता के तहत मारवाड़ संघ की स्वतंत्रता के अंत को दर्शाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Events",
+    "question_en": "Who was the ruler of Mewar during the reign of Akbar?",
+    "question_hi": "अकबर के शासनकाल में मेवाड़ का शासक कौन था?",
+    "A_en": "Rana Pratap", "A_hi": "राणा प्रताप",
+    "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+    "C_en": "Rana Ratan Singh", "C_hi": "राणा रतन सिंह",
+    "D_en": "Rana Udai Singh", "D_hi": "राणा उदय सिंह",
+    "answer": "A",
+    "explanation_en": "Rana Pratap was the ruler of Mewar during Akbar's reign and resisted Mughal expansion.",
+    "explanation_hi": "राणा प्रताप अकबर के शासनकाल में मेवाड़ के शासक थे और मुगल विस्तार का विरोध किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Capitals",
+    "question_en": "Which ruler of Marwar shifted the capital to Kishangarh?",
+    "question_hi": "मारवाड़ के किस शासक ने राजधानी को किशंगढ़ में शिफ्ट कर दिया था?",
+    "A_en": "Maharaja Abhay Singh", "A_hi": "महाराजा अभय सिंह",
+    "B_en": "Maharaja Man Singh", "B_hi": "महाराजा मन सिंह",
+    "C_en": "Maharaja Raja Singh", "C_hi": "महाराजा राजा सिंह",
+    "D_en": "Maharaja Jaswant Singh", "D_hi": "महाराजा जसवंत सिंह",
+    "answer": "A",
+    "explanation_en": "Maharaja Abhay Singh shifted the capital of Marwar to Kishangarh in the 18th century.",
+    "explanation_hi": "18वीं सदी में महाराजा अभय सिंह ने मारवाड़ की राजधानी को किशंगढ़ में शिफ्ट कर दिया।"
+  }
+]
