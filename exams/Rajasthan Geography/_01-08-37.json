@@ -1,0 +1,146 @@
+<think>
+Okay, let's start with this task. The user wants me to create 10 high-quality MCQs on Rajasthan Geography for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following a specific JSON format. 
+
+First, I need to recall the key topics in Rajasthan Geography. Possible areas include rivers, major cities, geographical features, mineral resources, famous historical places, and administrative divisions. Each question should be clear and factual, ensuring there's one correct answer.
+
+For the first question, maybe the capital of Rajasthan. That's a basic one. The answer is Jaipur. Next, the longest river in Rajasthan. The Chambal River is the longest. Then, the state bird could be the Sarus Crane. For the highest peak, Mount Abu is the highest point. The Thar Desert is located in the western part. The largest district by area is Jaisalmer. The famous Mehrangarh Fort is in Jodhpur. The river that doesn't flow in Rajasthan might be the Sabarmati, which flows through Gujarat. The major mineral resource in Rajasthan is salt, especially in the Sambhar Salt Lake. Lastly, the famous Pushkar Lake is in Ajmer.
+
+I need to make sure the options are plausible. For example, in the capital question, Jodhpur, Jaipur, Udaipur, and Bikaner are all cities in Rajasthan, but only Jaipur is correct. For the river question, options could include other major rivers like Luni or Banas, but Chambal is the longest. Each explanation should be concise, confirming the correct answer and briefly explaining why the others are incorrect.
+
+I'll structure each question in the required JSON format, translating the questions and options into both Hindi and English. The answer choices should be labeled A to D, with the correct answer indicated. Explanations in both languages will help clarify the reasoning without being too lengthy. 
+
+I need to check for any potential errors, like mixing up the names of cities or rivers. For instance, making sure that the Sabarmati is indeed not a river in Rajasthan. Also, verifying that the Sambhar Salt Lake is the correct source of salt in Rajasthan. Ensuring that the geographical terms are accurately translated into Hindi will be important for clarity. Once all questions are drafted, a final review to confirm the difficulty level is appropriate for the target exams.
+</think>
+
+[
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers",
+"question_en": "Which is the longest river in Rajasthan?",
+"question_hi": "राजस्थान की सबसे लंबी नदी कौन सी है?",
+"A_en": "Chambal", "A_hi": "चम्बल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Banas", "C_hi": "बनास",
+"D_en": "Mahi", "D_hi": "मही",
+"answer": "A",
+"explanation_en": "Chambal is the longest river in Rajasthan, flowing through the state from northeast to southwest.",
+"explanation_hi": "चम्बल राजस्थान की सबसे लंबी नदी है जो उत्तर-पूर्व से दक्षिण-पश्चिम तक राज्य में प्रवाहित होती है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Wildlife",
+"question_en": "What is the state bird of Rajasthan?",
+"question_hi": "राजस्थान का राज्य पक्षी क्या है?",
+"A_en": "Peacock", "A_hi": "मोर",
+"B_en": "Great Indian Bustard", "B_hi": "ग्रेट इंडियन बस्टर्ड",
+"C_en": "Sarus Crane", "C_hi": "सारस क्रेन",
+"D_en": "Blackbuck", "D_hi": "ब्लैकबक",
+"answer": "C",
+"explanation_en": "Sarus Crane is the state bird of Rajasthan, symbolizing the state's diverse ecosystems and wetlands.",
+"explanation_hi": "सारस क्रेन राजस्थान का राज्य पक्षी है, जो राज्य के विविध पारिस्थितिक तंत्रों और झीलों का प्रतीक है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Geography",
+"question_en": "Which district in Rajasthan is known as the 'Land of Desert'?",
+"question_hi": "राजस्थान में किस जिले को 'रेगिस्तान की भूमि' के रूप में जाना जाता है?",
+"A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+"B_en": "Bikaner", "B_hi": "बीकानेर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Churu", "D_hi": "चूरू",
+"answer": "A",
+"explanation_en": "Jaisalmer is known as the 'Land of Desert' due to its vast Thar Desert landscape.",
+"explanation_hi": "जैसलमेर को 'रेगिस्तान की भूमि' के रूप में जाना जाता है क्योंकि इसके विशाल थार मरुस्थल के दृश्य हैं।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Mountains",
+"question_en": "Which is the highest peak in Rajasthan?",
+"question_hi": "राजस्थान का सबसे ऊँचा शिखर कौन सा है?",
+"A_en": "Kumbhalgarh", "A_hi": "कुंभलगढ़",
+"B_en": "Mount Abu", "B_hi": "माउंट अबू",
+"C_en": "Jalore", "C_hi": "जालोर",
+"D_en": "Jaigarh", "D_hi": "जैगर्ह",
+"answer": "B",
+"explanation_en": "Mount Abu is the highest peak in Rajasthan, located in the Aravalli Range.",
+"explanation_hi": "माउंट अबू राजस्थान का सबसे ऊँचा शिखर है, जो अरावली पर्वत शृंखला में स्थित है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Deserts",
+"question_en": "In which part of Rajasthan is the Thar Desert located?",
+"question_hi": "राजस्थान के किस हिस्से में थार मरुस्थल स्थित है?",
+"A_en": "Southern", "A_hi": "दक्षिणी",
+"B_en": "Northern", "B_hi": "उत्तरी",
+"C_en": "Western", "C_hi": "पश्चिमी",
+"D_en": "Eastern", "D_hi": "पूर्वी",
+"answer": "C",
+"explanation_en": "The Thar Desert is located in the western part of Rajasthan, bordering Pakistan.",
+"explanation_hi": "थार मरुस्थल राजस्थान के पश्चिमी भाग में स्थित है, जो पाकिस्तान के सीमा पर है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Districts",
+"question_en": "Which is the largest district in Rajasthan by area?",
+"question_hi": "राजस्थान में क्षेत्रफल के हिसाब से सबसे बड़ा जिला कौन सा है?",
+"A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+"B_en": "Barmer", "B_hi": "बाड़मेर",
+"C_en": "Churu", "C_hi": "चूरू",
+"D_en": "Jodhpur", "D_hi": "जोधपुर",
+"answer": "A",
+"explanation_en": "Jaisalmer is the largest district in Rajasthan by area, covering vast desert regions.",
+"explanation_hi": "जैसलमेर राजस्थान में क्षेत्रफल के हिसाब से सबसे बड़ा जिला है, जो विशाल रेगिस्तानी क्षेत्रों को कवर करता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Historical Sites",
+"question_en": "Which fort in Rajasthan is known as the 'Fort of the King of the Desert'?",
+"question_hi": "राजस्थान में रेगिस्तान के राजा के पिरामिड के रूप में कौन सा पिरामिड जाना जाता है?",
+"A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+"B_en": "Mehrangarh Fort", "B_hi": "महेरांगढ़ किला",
+"C_en": "Amber Fort", "C_hi": "अम्बर किला",
+"D_en": "Jaisalmer Fort", "D_hi": "जैसलमेर किला",
+"answer": "D",
+"explanation_en": "Jaisalmer Fort is known as the 'Fort of the King of the Desert' due to its strategic location and grandeur in the desert.",
+"explanation_hi": "जैसलमेर किला 'रेगिस्तान के राजा के पिरामिड' के रूप में जाना जाता है क्योंकि इसकी रणनीतिक स्थिति और रेगिस्तान में इसकी विशालता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers",
+"question_en": "Which river does not flow in Rajasthan?",
+"question_hi": "राजस्थान में कौन सी नदी बहती नहीं है?",
+"A_en": "Sabarmati", "A_hi": "साबरमती",
+"B_en": "Chambal", "B_hi": "चम्बल",
+"C_en": "Mahi", "C_hi": "मही",
+"D_en": "Banas", "D_hi": "बनास",
+"answer": "A",
+"explanation_en": "Sabarmati flows through Gujarat and does not flow in Rajasthan.",
+"explanation_hi": "साबरमती गुजरात में बहती है और राजस्थान में बहती नहीं है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Minerals",
+"question_en": "Which mineral is most abundant in Rajasthan?",
+"question_hi": "राजस्थान में कौन सा खनिज सबसे अधिक मात्रा में मिलता है?",
+"A_en": "Salt", "A_hi": "नमक",
+"B_en": "Copper", "B_hi": "तांबा",
+"C_en": "Mica", "C_hi": "मैग्नेटिक चूर्ण",
+"D_en": "Limestone", "D_hi": "चूना पत्थर",
+"answer": "A",
+"explanation_en": "Salt is the most abundant mineral in Rajasthan, particularly in the Sambhar Salt Lake.",
+"explanation_hi": "राजस्थान में नमक सबसे अधिक मात्रा में मिलता है, खासकर संभर लवण झील में।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Lakes",
+"question_en": "Which lake in Rajasthan is known as the 'City of Lakes'?",
+"question_hi": "राजस्थान में कौन सी झील 'झीलों का शहर' के रूप में जानी जाती है?",
+"A_en": "Pushkar Lake", "A_hi": "पुष्कर झील",
+"B_en": "Sambhar Lake", "B_hi": "संभर झील",
+"C_en": "Jaisamand Lake", "C_hi": "जैसमांद झील",
+"D_en": "Pichola Lake", "D_hi": "पिचोला झील",
+"answer": "C",
+"explanation_en": "Jaisamand Lake is known as the 'City of Lakes' due to its vast water body and historical significance.",
+"explanation_hi": "जैसमांद झील को 'झीलों का शहर' के रूप में जाना जाता है क्योंकि इसका विशाल जल निकाय और ऐतिहासिक महत्व है।"
+}
+]
