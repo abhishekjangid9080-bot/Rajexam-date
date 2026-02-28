@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort palace is known for its marble inlaid work and is located in Jaipur?",
+"question_hi": "जयपुर में पूछी जाती है बड़ी फोट पॉलिस का नाम, जो मालका प्रचारित करता है?",
+"A_en": "Amber Fort", "A_hi": "अम्बर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Palace of Winds", "C_hi": "वाहनी की मंदिर",
+"D_en": "Chand Baori", "D_hi": "चंद्रो बॉरी",
+"answer": "B",
+"explanation_en": "Amber Fort and Hawa Mahal are both famous for their marble inlaid work, but Hawa Mahal, also known as Palace of Winds, is specifically located in Jaipur.\n\nजोड़ी को राजस्थान के मार्चर के लिखित किया गया है?",
+"explanation_hi": "अम्बर फोट और हाउ माहल हों के लिखित किया गया है, लेकिन हाउ माहल को पूछी गई है।",
+"answer": "B",
+"explanation_en": "Amber Fort and Hawa Mahal are both famous for their intricate work, but Hawa Mahal, also known as the Palace of Winds, is specifically located in Jaipur.\nजोड़ी की उद्यत के लिखित किया है, हाउ माहल को पूछी गई है।"
+}
+]
