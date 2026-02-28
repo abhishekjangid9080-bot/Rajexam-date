@@ -1,0 +1,155 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, specifically on the topic provided. The user mentioned that the topics can be from Rajasthan State Exams like LDC, CET, RAS, and also SSC and Railway exams. Each question must be in both Hindi and English, following the Testbook style. The JSON format is strict, so I need to ensure that each question includes the subject, topic, question in both languages, four options (A-D), the correct answer, and explanations in both languages. The difficulty level should match Rajasthan History standards.
+
+First, I should brainstorm important topics in Rajasthan History. Possible areas include ancient history, medieval period, Mughal influence, Rajput kingdoms, historical figures, significant events, and cultural heritage. I need to ensure that the questions cover a range of these areas to provide a comprehensive practice set.
+
+For each question, I need to think of a clear and concise question. Let's start with the first one. Maybe about the ancient capital of Rajasthan. I know that Ujjain was a significant city in ancient times. Then, a question on the founder of the Mewar dynasty could be another topic. The founder is Rana Sanga, perhaps. Wait, actually, the Mewar kingdom was established by Bappa Rawal. I need to verify that. Bappa Rawal is considered the founder of the Guhila dynasty, which ruled Mewar. So, the correct answer would be Bappa Rawal. That's a good first question.
+
+Next, the capital of Rajputana. Wait, Rajputana is a region, not a state. The capital of Rajputana was probably Jaipur? Or maybe Delhi? Hmm, Rajputana was a term used by the British for the region of Rajputs. The capitals of the various Rajput states were different, like Jaipur for Jaipur state, Udaipur for Mewar, etc. But if the question is about the term Rajputana, the British Raj referred to the area as Rajputana, but there's no single capital. Maybe the question is about the headquarters of the Rajputana Agency, which was Jaipur. That could be a question.
+
+Another topic: the ruler who resisted Mughal emperor Akbar. Rana Pratap Singh comes to mind. He fought against Akbar at the Battle of Haldighati. So a question on who resisted Akbar in Rajasthan would be Rana Pratap.
+
+The founder of Jodhpur State. Jodhpur was founded by Rao Jodha. So that's another question. The date when the first Jhunjhunu State was established. Maybe in the 17th century. Alternatively, the establishment of the Marwar kingdom by Rao Jodha in 1459. But I need to check the exact dates for different states.
+
+The Battle of Khanwa was fought between Babur and Rajput Rana Sanga. That's a key historical event. So a question on the Battle of Khanwa.
+
+The founder of the Shekhawati region's power. The Shekhawati region is associated with the Shekhawat community. Maybe Maharaja Sawai Jai Singh of Jaipur? Wait, the Shekhawat rulers were part of the Rajput clans. The Shekhawati region includes Jhunjhunu and Alwar. The founder of Jhunjhunu State was Raja Ratan Singh Shekhawat in the 17th century. That could be a question.
+
+The ruler who defeated the Mughal forces under Man Singh during the siege of Chittorgarh. Rana Pratap? Or another ruler. The siege of Chittorgarh in 1568 was led by Akbar, and Rana Pratap was a key figure, but he was a nephew of Udai Singh II. Udai Singh II was the ruler of Mewar at that time. So the correct answer would be Udai Singh II.
+
+The historical site known as the "White Fort" is Chittorgarh Fort. Alternatively, the Mehrangarh Fort in Jodhpur is known for its white color. Wait, Chittorgarh Fort is also called White Fort. Need to confirm. Chittorgarh Fort is indeed referred to as the White Fort due to its white marble construction. So a question on the "White Fort" in Rajasthan.
+
+The historical event where the Marathas defeated the Mughals. The Battle of Palkhed? No, that's in Maharashtra. In Rajasthan, maybe the Battle of Khanwa was between Rajputs and Mughals. Alternatively, the Battle of Agra in 1770, but that's when Marathas supported the Mughals. Hmm. Alternatively, the Battle of Sirohi in 1743 where the Marathas under Dattaji Shinde fought against the Mewar rulers. Maybe not a key exam question. Alternatively, the Marathas did have some influence in Rajasthan but major battles might not be as prominent. Perhaps a better question would be about the ruler who established the Rajputana Railway. The first railway line in Rajasthan was between Agra and Delhi, but Rajputana Railway was established in 1870s. The founder of the Rajputana Railway was under the British, so maybe not a suitable question. Let me think again.
+
+Another possible question: The founder of the Kota State. Kota was established by Rao Madho Singh in the 17th century. So a question on the founder of Kota State.
+
+I need to make sure that each question is unique and covers different aspects. Let me list out the topics again:
+
+1. Ancient capital of Rajasthan – Ujjain
+2. Founder of Mewar dynasty – Bappa Rawal
+3. Capital of Rajputana Agency – Jaipur
+4. Ruler who resisted Akbar – Rana Pratap
+5. Founder of Jodhpur State – Rao Jodha
+6. Battle of Khanwa – Babur vs Rana Sanga
+7. Founder of Jhunjhunu State – Raja Ratan Singh Shekhawat
+8. Ruler defeated Mughals at Chittorgarh – Udai Singh II
+9. White Fort – Chittorgarh Fort
+10. Founder of Kota State – Rao Madho Singh
+
+Now, I need to verify the accuracy of these points. For example, Ujjain was indeed a major city in ancient times, part of Avanti. Bappa Rawal founded the Guhila dynasty. Rajputana Agency's headquarters was in Jaipur. Rana Pratap resisted Akbar. Rao Jodha founded Jodhpur. Battle of Khanwa in 1527 between Babur and Rana Sanga. Jhunjhunu State was founded by Raja Ratan Singh Shekhawat in the 17th century. Udai Singh II was the ruler of Mewar during the siege of Chittorgarh by Akbar. Chittorgarh Fort is known as the White Fort. Kota was founded by Rao Madho Singh in 1659.
+
+Now, structuring each question with options in both Hindi and English. The options should have plausible distractors. For example, in the first question about the ancient capital, options could be Ujjain, Jaipur, Udaipur, Bikaner. The answer is Ujjain. Similarly for others.
+
+Need to ensure that the explanations are concise and accurate. For example, in the question about the founder of Mewar, the explanation would mention that Bappa Rawal established the Guhila dynasty in the 7th century.
+
+Now, let me format each question according to the JSON structure provided. Each question will have the subject, topic (left blank as per the example, but maybe the user wants the topic filled. Wait, in the example given, the topic is empty. So I should follow that. The example has "topic": "".
+
+So, each question will have:
+
+- subject: "Rajasthan History"
+- topic: ""
+- question_en and question_hi
+- Options A-D in both languages
+- answer (A, B, C, D)
+- explanations in both languages
+
+Let me start drafting each question step by step, ensuring accuracy and proper formatting.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which of the following cities was an ancient capital of Rajasthan?",
+    "question_hi": "राजस्थान की प्राचीन राजधानी निम्नलिखित में से कौन सी थी?",
+    "A_en": "Ujjain", "A_hi": "उज्जैन",
+    "B_en": "Jaipur", "B_hi": "जयपुर",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "A",
+    "explanation_en": "Ujjain was a major city in ancient Rajasthan and served as a capital during the Avanti kingdom.",
+    "explanation_hi": "उज्जैन प्राचीन राजस्थान में एक प्रमुख शहर था और अवंती राज्य के दौरान राजधानी के रूप में कार्य करता था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who is considered the founder of the Mewar dynasty?",
+    "question_hi": "मेवाड़ राजवंश के संस्थापक कौन माने जाते हैं?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Bappa Rawal", "B_hi": "भट्टारक रावल",
+    "C_en": "Rana Pratap", "C_hi": "राणा प्रताप",
+    "D_en": "Maharana Amar Singh", "D_hi": "महाराणा अमर सिंह",
+    "answer": "B",
+    "explanation_en": "Bappa Rawal is regarded as the founder of the Guhila dynasty, which ruled over Mewar.",
+    "explanation_hi": "भट्टारक रावल को मेवाड़ पर शासन करने वाले गुहिला राजवंश के संस्थापक माना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan resisted the Mughal emperor Akbar?",
+    "question_hi": "राजस्थान के किस शासक ने मुगल सम्राट अकबर का विरोध किया?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+    "C_en": "Maharaja Jaswant Singh", "C_hi": "महाराजा जसवंत सिंह",
+    "D_en": "Maharana Pratap", "D_hi": "महाराणा प्रताप",
+    "answer": "D",
+    "explanation_en": "Maharana Pratap resisted Akbar's rule and is famous for the Battle of Haldighati.",
+    "explanation_hi": "महाराणा प्रताप अकबर के शासन का विरोध करते रहे और हल्दिघाटी के युद्ध के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who founded the Jodhpur State in Rajasthan?",
+    "question_hi": "राजस्थान में जोधपुर राज्य की स्थापना किसने की थी?",
+    "A_en": "Raja Man Singh", "A_hi": "राजा मान सिंह",
+    "B_en": "Rao Jodha", "B_hi": "राव जोधा",
+    "C_en": "Raja Bhoj", "C_hi": "राजा भोज",
+    "D_en": "Raja Ratan Singh", "D_hi": "राजा रतन सिंह",
+    "answer": "B",
+    "explanation_en": "Rao Jodha established the Marwar kingdom and founded Jodhpur in 1459.",
+    "explanation_hi": "राव जोधा ने मारवाड़ राज्य की स्थापना की और जोधपुर की स्थापना 1459 में की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "The Battle of Khanwa in 1527 was fought between Babur and which Rajput ruler?",
+    "question_hi": "1527 में खानवा के युद्ध में बाबर और किस राजपूत शासक के बीच लड़ाई हुई थी?",
+    "A_en": "Rana Pratap", "A_hi": "राणा प्रताप",
+    "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+    "C_en": "Rana Udai Singh", "C_hi": "राणा उदय सिंह",
+    "D_en": "Raja Man Singh", "D_hi": "राजा मान सिंह",
+    "answer": "B",
+    "explanation_en": "The Battle of Khanwa was fought between Babur and Rana Sanga of Mewar.",
+    "explanation_hi": "खानवा के युद्ध में बाबर और मेवाड़ के राणा संगा के बीच लड़ाई हुई थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which of the following forts is known as the 'White Fort'?",
+    "question_hi": "निम्नलिखित में से किस किले को 'सफेद किला' के रूप में जाना जाता है?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Mehrangarh Fort", "B_hi": "महरांगढ़ किला",
+    "C_en": "Kumbhalgarh Fort", "C_hi": "कुंभलगढ़ किला",
+    "D_en": "Jaigarh Fort", "D_hi": "जैगरह किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is famously known as the 'White Fort' due to its white marble construction.",
+    "explanation_hi": "चित्तौड़गढ़ किला अपने सफेद संगमरमर के निर्माण के कारण 'सफेद किला' के रूप में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the founder of the Kota State in Rajasthan?",
+    "question_hi": "राजस्थान में कोटा राज्य के संस्थापक कौन थे?",
+    "A_en": "Rao Jodha", "A_hi": "राव जोधा",
+    "B_en": "Raja Ratan Singh", "B_hi": "राजा रतन सिंह",
+    "C_en": "Rao Madho Singh", "C_hi": "राव माधो सिंह",
+    "D_en": "Raja Bhoj", "D_hi": "राजा भोज",
+    "answer": "C",
+    "explanation_en": "Rao Madho Singh established the Kota State in the 17th century.",
+    "explanation_hi": "राव माधो सिंह ने 17वीं शताब्दी में कोटा राज्य की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Mewar was defeated by Akbar during the siege of Chittorgarh?",
+    "question_hi": "चित्तौड़गढ़ के घेराबंदी के दौरान अकब
