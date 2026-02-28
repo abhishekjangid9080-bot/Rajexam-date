@@ -1,0 +1,82 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous forts in Rajasthan are associated with the Marwar-Jodhpur region?",
+"question_hi": "राजस्थान में जर्जोर में संबंधित हैंग के कई मंदिरों के नाम क्या हैंगे?",
+"A_en": "Mehsana Fort, Amber Fort, Sisodia Rani Kamavali Ka Vaal, and Lalgarh Palace",
+"A_hi": "मेहना कंदरि, एम्बे कंदरि, सिसोड़ी रानी कामावाली का वाले, और लालगढ़ पाली
+"B_en": "Agra Fort, Jaisalmer Fort, Udaipur Fort, and Bikaner Fort",
+"B_hi": "आग्रह कंदरि, जयसालमेर कंदरि, उदायपुर कंदरि, बिकानेर कंदरि",
+"C_en": "Kishangarh Fort, Chittorgarh Fort, Chittor Fort, and Chittaur Fort",
+"C_hi": "किशांगनगांड, चीटौर कंदरि, चीटौर कंदरि, एन्डेयार कंदरि",
+"D_en": "Amber Fort, Mandore Temple, Tilonia Fort, and Sirsiya Fort",
+"D_hi": "अम्बर कंदरि, मानदार मेम, तीलोना कंदरि, सिरसिया कंदरि",
+"E_en": "Dausa Fort, Rajasthan Sanskrit Academy, Kishangarh Fort, and Dholpur Fort",
+"E_hi": "दाउसा कंदरि, राजस्तान Sanskrit Academy, किशांगांड, दोलपुर कंदरि",
+"F_en": "Sawai Madhopur Fort, Maharaja Surajmal Institute, Ranthambore Fort, and Amer Fort",
+"F_hi": "सावाई माधोपुर कंदरि, महाराजस्तान सूरजमाल इनाइस्टोंग, रंथमबूर कंदरि, अमीर कंदरि",
+"G_en": "Ranthambore Fort, Rajasthan Sanskrit Academy, Sawai Madhopur Fort, aur Amer Fort",
+"G_hi": "रंथमबूर कंदरि, राजस्तान Sanskrit Academy, सावाई माधोपुर कंदरि, अमीर कंदरि",
+"options": [
+{
+"option_no": 1,
+"option_text_en": "Ranthambore Fort",
+"option_text_hi": "रंथमबूर कंदरि",
+"is_correct": true
+},
+{
+"option_no": 2,
+"option_text_en": "Rajasthan Sanskrit Academy",
+"option_text_hi": "राजस्तान Sanskrit Academy",
+"is_correct": false
+},
+{
+"option_no": 3,
+"option_text_en": "Sawai Madhopur Fort",
+"option_text_hi": "सावाई माधोपुर कंदरि",
+"is_correct": false
+},
+{
+"option_no": 4,
+"option_text_en": "Dausa Fort",
+"option_text_hi": "दाउसा कंदरि",
+"is_correct": false
+},
+{
+"option_no": 5,
+"option_text_en": "Amer Fort",
+"option_text_hi": "अमीर कंदरि",
+"is_correct": false
+},
+{
+"option_no": 6,
+"option_text_en": "Kishangarh Fort",
+"option_text_hi": "किशानगांग",
+"is_correct": false
+},
+{
+"option_no": 7,
+"option_text_en": "Banswara Fort",
+"option_text_hi": "बानसवारा कंदरि",
+"is_correct": false
+},
+{
+"option_no": 8,
+"option_text_en": "Jaisamand Fort",
+"option_text_hi": "जैसमानगांग",
+"is_correct": false
+},
+{
+"option_no": 9,
+"option_text_en": "Kumbhalgarh Fort",
+"option_text_hi": "कुमबहालगांग",
+"is_correct": false
+},
+{
+"option_no": 10,
+"option_text_en": "Udaipur Fort",
+"option_text_hi": "उदापतमांग",
+"is_correct": false
+}
+]
