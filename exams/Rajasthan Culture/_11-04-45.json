@@ -1,0 +1,187 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let me start by recalling key aspects of Rajasthan's culture. Topics could include folk music, dance, festivals, traditional attire, famous personalities, historical sites, cuisine, and art forms.
+
+First question: Maybe about the traditional dress. For women, Ghagra and Choli is common. For men, Angarkha or Pagadi. Let me check if that's accurate. Yes, Ghagra and Choli are correct for women.
+
+Second question: Folk dances. Kalbeliya is a well-known dance form. It's associated with the Kalbeliya community. Another option could be Ghoomar, which is also famous. Need to make sure the dances and their names are correctly paired.
+
+Third question: Folk music instruments. Sural is a traditional wind instrument. Maybe include options like Sural, Bansuri, etc. Sural is correct here.
+
+Fourth question: Famous festivals. Teej is an important festival celebrated in Rajasthan, especially by women. Other options could be Gangaur or Gudi Padwa. Teej is definitely a key festival.
+
+Fifth question: Traditional cuisine. Dal Baati Churma is a staple dish. Other options could be Laal Maas, Gatte ki Sabzi, etc. Make sure the correct answer is highlighted.
+
+Sixth question: Folk songs associated with specific communities. Bhajan by the Bishnoi community is a good example. Check if that's accurate. Yes, Bishnoi have Bhajans as a part of their culture.
+
+Seventh question: Historical forts. Chittorgarh Fort is a major historical site. Other options like Mehrangarh, Jaisalmer, etc., can be distractors.
+
+Eighth question: Traditional art forms. Miniature painting is prominent in Rajasthan, especially in Mewar region. Other options like Block printing or Blue pottery can be included.
+
+Ninth question: Famous folk tales. Pabuji Ki Phani is a notable folk play. Check if that's correct. Pabuji is a historical figure, so the play is accurate.
+
+Tenth question: Traditional jewelry. Nathni (nose ring) is a common accessory. Other options like Jhumka (earrings), Maang Tikka, etc. Ensure the correct term is used in Hindi and English.
+
+Need to structure each question with the subject, topic (which is empty in the example), the question in both languages, four options in both languages, the correct answer, and explanations in both languages. Difficulty level should be appropriate for Rajasthan exams, so questions should test knowledge of specific details and not be too trivial.
+
+Check for any overlaps or repeated topics. Ensure that each question is unique and covers different aspects of the culture. Also, verify the accuracy of the facts, maybe cross-reference with reliable sources to avoid errors. For example, confirming that Kalbeliya dance is indeed associated with the Kalbeliya community, which it is. Similarly, Teej is a significant festival where women fast and celebrate.
+
+Make sure the JSON structure follows the given example exactly, with all keys present and correct. Use "Rajasthan Culture" as the subject, leave the topic empty as in the example. Use Hindi and English for each part of the question. The answer should be a single letter corresponding to the correct option. Explanations should be concise but informative.
+
+Double-check the options to ensure the correct answer is present and the other options are plausible distractors. For example, in the question about traditional attire for women, options like Ghagra Choli, Sari, Lehenga, etc., with Ghagra Choli as the correct answer.
+
+Once all 10 questions are drafted, review them for clarity and correctness. Ensure that the explanations correctly justify the answers and that there's no ambiguity. Make sure the JSON syntax is correct, with proper commas and brackets. Also, the Hindi and English options should be correctly translated without any typos.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which traditional dress is commonly worn by Rajasthani women?",
+    "question_hi": "राजस्थान की महिलाएं आमतौर पर कौन सा परम्परागत पोशाक पहनती हैं?",
+    "A_en": "Ghagra and Choli",
+    "A_hi": "घगरा और चोली",
+    "B_en": "Sari",
+    "B_hi": "सारी",
+    "C_en": "Lehenga",
+    "C_hi": "लेहंगा",
+    "D_en": "Anarkali Suit",
+    "D_hi": "अंगरकी सूट",
+    "answer": "A",
+    "explanation_en": "Ghagra and Choli are traditional Rajasthani attire for women, known for their vibrant colors and intricate embroidery.",
+    "explanation_hi": "घगरा और चोली महिलाओं के परम्परागत राजस्थानी पोशाक हैं, जिनके उज्ज्वल रंग और जटिल शिल्प के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which Rajasthani folk dance is associated with the serpent charmers?",
+    "question_hi": "राजस्थानी लोक नृत्य में से कौन-सा सांप नृत्यिकाओं से संबंधित है?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar",
+    "B_hi": "घूमर",
+    "C_en": "Bhagoria",
+    "C_hi": "भागोरिया",
+    "D_en": "Chari",
+    "D_hi": "चरी",
+    "answer": "A",
+    "explanation_en": "Kalbeliya dance is performed by the Kalbeliya community, traditionally associated with snake charming.",
+    "explanation_hi": "कलबेलिया नृत्य कलबेलिया समुदाय द्वारा किया जाता है, जो परंपरागत रूप से सांप नृत्यिका से संबंधित है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which instrument is traditionally used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गान में परम्परागत रूप से कौन सा वाद्य यंत्र उपयोग में लाया जाता है?",
+    "A_en": "Sural",
+    "A_hi": "सूरल",
+    "B_en": "Bansuri",
+    "B_hi": "बांसुरी",
+    "C_en": "Dholak",
+    "C_hi": "ढोलक",
+    "D_en": "Sitar",
+    "D_hi": "सितार",
+    "answer": "A",
+    "explanation_en": "Sural is a traditional Rajasthani wind instrument used in folk music, especially in the Mewar region.",
+    "explanation_hi": "सूरल एक परम्परागत राजस्थानी हवा वाला वाद्य यंत्र है, जिसका उपयोग मेवाड़ क्षेत्र में लोक गान में किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which festival is celebrated in Rajasthan to honor the arrival of the monsoon?",
+    "question_hi": "राजस्थान में मानसून के आगमन के सम्मान में कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Teej",
+    "A_hi": "तीज",
+    "B_en": "Gangaur",
+    "B_hi": "गंगौर",
+    "C_en": "Makar Sankranti",
+    "C_hi": "मकर संक्रांति",
+    "D_en": "Holi",
+    "D_hi": "होली",
+    "answer": "A",
+    "explanation_en": "Teej is celebrated in Rajasthan to welcome the monsoon, with women fasting and offering prayers for the well-being of their husbands.",
+    "explanation_hi": "तीज राजस्थान में मानसून के आगमन के सम्मान में मनाया जाता है, जिसमें महिलाएं पूजा-अर्चना करते हुए अपने पति की लंबी आयु के लिए व्रत रखती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "What is the traditional Rajasthani dish made with red meat and spices?",
+    "question_hi": "लाल मांस और मसालों वाला परम्परागत राजस्थानी व्यंजन कौन सा है?",
+    "A_en": "Dal Baati Churma",
+    "A_hi": "दाल बाती चूरमा",
+    "B_en": "Laal Maas",
+    "B_hi": "लाल मांस",
+    "C_en": "Gatte ki Sabzi",
+    "C_hi": "गट्टे की सब्जी",
+    "D_en": "Panchkuta",
+    "D_hi": "पांचकुटा",
+    "answer": "B",
+    "explanation_en": "Laal Maas is a spicy Rajasthani curry made with mutton or goat meat, known for its bold flavors and red color.",
+    "explanation_hi": "लाल मांस में भेड़ या बकरे का मांस शामिल होता है, जिसे तीखे मसालों से बनाया जाता है और इसका लाल रंग विशिष्टता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which Rajasthani folk song is associated with the Bishnoi community?",
+    "question_hi": "कौन सा राजस्थानी लोक गीत बिश्नोई समुदाय से संबंधित है?",
+    "A_en": "Bhajan",
+    "A_hi": "भजन",
+    "B_en": "Kaliya",
+    "B_hi": "कालिया",
+    "C_en": "Thara",
+    "C_hi": "ठारा",
+    "D_en": "Manganiyar",
+    "D_hi": "मंगनियार",
+    "answer": "A",
+    "explanation_en": "The Bishnoi community is known for singing Bhajans, which are devotional songs dedicated to deities like Devi Saraswati.",
+    "explanation_hi": "बिश्नोई समुदाय भजन गाने के लिए जाना जाता है, जो देवी सरस्वती जैसे देवताओं के समर्पित धार्मिक गीत होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which historical fort is a symbol of Rajput valor in Rajasthan?",
+    "question_hi": "राजपूत शौर्य के प्रतीक के रूप में राजस्थान में कौन सा ऐतिहासिक किला प्रसिद्ध है?",
+    "A_en": "Chittorgarh Fort",
+    "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Amber Fort",
+    "B_hi": "अंबर किला",
+    "C_en": "Jaisalmer Fort",
+    "C_hi": "जैसलमेर किला",
+    "D_en": "Kumbhalgarh Fort",
+    "D_hi": "कुंभलगढ़ किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is renowned for symbolizing Rajput courage during battles like the Chauhan resistance against the Delhi Sultanate.",
+    "explanation_hi": "चित्तौड़गढ़ किला दिल्ली सल्तनत के खिलाफ चौहान विरोध के दौरान राजपूत शौर्य के प्रतीक के रूप में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which Rajasthani art form is known for its miniature paintings?",
+    "question_hi": "कौन सा राजस्थानी कला रूप नानिकले चित्रों के लिए जाना जाता है?",
+    "A_en": "Miniature Painting",
+    "A_hi": "नानिकला चित्रकला",
+    "B_en": "Blue Pottery",
+    "B_hi": "नीली मिट्टी की बरतन",
+    "C_en": "Block Printing",
+    "C_hi": "ब्लॉक प्रिंटिंग",
+    "D_en": "Cameo Work",
+    "D_hi": "कैमो शिल्प",
+    "answer": "A",
+    "explanation_en": "Miniature painting is a traditional Rajasthani art form that flourished in royal courts, especially in the Mewar region.",
+    "explanation_hi": "नानिकला चित्रकला एक परम्परागत राजस्थानी कला रूप है, जो मेवाड़ क्षेत्र के राजवंशों में विशेष रूप से फलीभूत हुई।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "",
+    "question_en": "Which traditional Rajasthani folk play is based on the life of Pabuji, a legendary merchant?",
+    "question_hi": "पाबुजी, एक प्रसिद्ध व्यापारी के जीवन पर आधारित परम्परागत राजस्थानी लोक नाटक कौन सा है?",
+    "A_en": "Pabuji Ki Phani",
+    "A_hi": "पाबुजी की फानी",
+    "B_en": "Kathputli",
+    "B_hi": "कथपुतली",
+    "C_en": "Kalbeliya Natak",
+    "C_hi": "कलबेलिया नाटक",
+    "D_en": "Taru",
+    "D_hi": "तारु",
+    "answer": "A",
+    "explanation_en": "Pabuji Ki Phani is a traditional Rajasthani folk play depicting the adventures of Pabuji, a legendary merchant and hero.",
+    "explanation_hi": "पाबुजी की फानी एक परम्परागत राजस्थानी लोक नाटक है, जो पाबुजी के
