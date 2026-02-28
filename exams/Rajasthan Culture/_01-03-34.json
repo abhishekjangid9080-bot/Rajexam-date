@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions about Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let me start by recalling important aspects of Rajasthan's culture. 
+
+First, traditional attire comes to mind. For men, the angarkha and turban are traditional. For women, the ghagra and choli with a dupatta. Maybe a question on that.
+
+Then there's folk music and dance. Kalbeliya dance is famous, performed by the Kalbeliya community. Another option could be Ghoomar, which is a popular Rajasthani dance. Maybe a question on that.
+
+Festivals are another key area. Teej is a significant festival, especially for women. Gangaur is another important one, celebrated in Jaipur. Diwali is a festival but not specific to Rajasthan. So a question on festivals.
+
+Art and crafts: Miniature paintings, especially from the Rajput schools. Blue pottery is also a specialty. Maybe a question on traditional crafts.
+
+Cuisine: Dal Baati Churma is the most iconic dish. Other dishes like Ker Sangri, Gatte ki Sabzi. A question on traditional dishes.
+
+Architecture: Jaipur is known as the Pink City. Mehrangarh Fort in Jodhpur, Hawa Mahal in Jaipur. A question about notable architectural landmarks.
+
+Languages: Rajasthan has several languages like Rajasthani, Marwari, and others. Official language is Hindi, but Rajasthani is also recognized. A question on regional languages.
+
+Famous personalities: Tansen is a legendary musician from Rajasthan. Rajkumar Shriram Sharma is a noted writer. A question on notable figures.
+
+Cultural symbols: The Mehrangarh Museum, Rajasthan's state animal (Chinkara), state bird (Great Indian Bustard). A question on state symbols.
+
+Literature: Rajasthan has a rich literary tradition. Names like Raskhan, Kavindra, and Rajshekhar. A question on literary contributions.
+
+Let me structure these into 10 questions, ensuring the difficulty level is appropriate for the exams mentioned. Each question should have four options, with the correct answer and explanations in both Hindi and English. I'll follow the given JSON format strictly.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "Which traditional attire is commonly worn by Rajasthani women during festivals?",
+    "question_hi": "पर्वों में राजस्थानी महिलाएं आमतौर पर कौन सा पारंपरिक पहनावा पहनती हैं?",
+    "A_en": "Angarkha", "A_hi": "अंगरखा",
+    "B_en": "Chaniya Choli", "B_hi": "चानिया चोली",
+    "C_en": "Lehenga Choli", "C_hi": "लेहंगा चोली",
+    "D_en": "Pajama Kameez", "D_hi": "पजामा कमीज़",
+    "answer": "C",
+    "explanation_en": "Lehenga Choli (Ghagra Choli) is a traditional attire for Rajasthani women, especially during festivals and weddings.",
+    "explanation_hi": "लेहंगा चोली (घगरा चोली) राजस्थानी महिलाओं के पारंपरिक पहनावा है, विशेष रूप से त्योहारों और शादियों में।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dance",
+    "question_en": "Which dance form is performed by the Kalbeliya community in Rajasthan?",
+    "question_hi": "राजस्थान में कलबेलिया समुदाय द्वारा कौन से नृत्य की आयोजित की जाती है?",
+    "A_en": "Ghoomar", "A_hi": "घूमर",
+    "B_en": "Kalbeliya", "B_hi": "कलबेलिया",
+    "C_en": "Chari", "C_hi": "चारी",
+    "D_en": "Gangani", "D_hi": "गंगनी",
+    "answer": "B",
+    "explanation_en": "Kalbeliya dance is performed by the Kalbeliya community and is known for its hypnotic movements and serpentine dance style.",
+    "explanation_hi": "कलबेलिया नृत्य कलबेलिया समुदाय द्वारा आयोजित की जाती है और इसके हिप्नोटिक आंदोलनों और सर्पाकार नृत्य शैली के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is dedicated to the worship of the goddess Gauri in Rajasthan?",
+    "question_hi": "राजस्थान में भगवानी गौरी के आराधना के लिए कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Teej", "A_hi": "तीज",
+    "B_en": "Gangaur", "B_hi": "गंगौर",
+    "C_en": "Diwali", "C_hi": "दिवाली",
+    "D_en": "Holi", "D_hi": "होली",
+    "answer": "B",
+    "explanation_en": "Gangaur is a Rajasthani festival dedicated to the goddess Gauri, celebrated mainly in Jaipur.",
+    "explanation_hi": "गंगौर राजस्थान का एक त्योहार है जो भगवानी गौरी के समर्पित है, जो मुख्य रूप से जयपुर में मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "What is the most iconic Rajasthani dish made from millet and lentils?",
+    "question_hi": "जिरी और दाल से बनने वाला राजस्थानी खाने का सबसे प्रतिष्ठित व्यंजन कौन सा है?",
+    "A_en": "Dal Baati Churma", "A_hi": "दाल बाती चूरमा",
+    "B_en": "Ker Sangri", "B_hi": "केर संगड़ी",
+    "C_en": "Bajra Atta Roti", "C_hi": "बाजरा आटा रोटी",
+    "D_en": "Gatte ki Sabzi", "D_hi": "गट्टे की सब्जी",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a staple dish in Rajasthan, made from lentils, millet, and sweetened with ghee and sugar.",
+    "explanation_hi": "दाल बाती चूरमा राजस्थान में एक मुख्य व्यंजन है, जिरी, दाल और घी और चीनी के साथ मीठा होता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which city is known as the 'Pink City' of India?",
+    "question_hi": "किस शहर को भारत की 'गुलाबी शहर' के रूप में जाना जाता है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Jaipur", "B_hi": "जयपुर",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Jaipur is called the 'Pink City' due to its pink-colored buildings and architecture.",
+    "explanation_hi": "जयपुर को गुलाबी रंग के इमारतों और वास्तुकला के कारण 'गुलाबी शहर' के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Language",
+    "question_en": "Which language is primarily spoken in the Marwar region of Rajasthan?",
+    "question_hi": "राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से कौन सी भाषा बोली जाती है?",
+    "A_en": "Rajasthani", "A_hi": "राजस्थानी",
+    "B_en": "Marwari", "B_hi": "मारवाड़ी",
+    "C_en": "Bhilodi", "C_hi": "भीलोड़ी",
+    "D_en": "Mewari", "D_hi": "मेवाड़ी",
+    "answer": "B",
+    "explanation_en": "Marwari is the primary language spoken in the Marwar region of Rajasthan.",
+    "explanation_hi": "मारवाड़ी राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से बोली जाने वाली भाषा है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Literature",
+    "question_en": "Which Rajasthani poet is known as the 'Bhakti Kavi'?",
+    "question_hi": "किस राजस्थानी कवि को 'भक्ति कवि' के रूप में जाना जाता है?",
+    "A_en": "Raskhan", "A_hi": "रसखान",
+    "B_en": "Kavindra", "B_hi": "कविंद्र",
+    "C_en": "Rajshekhar", "C_hi": "राजशेखर",
+    "D_en": "Chand Bardai", "D_hi": "चंद बरदाई",
+    "answer": "A",
+    "explanation_en": "Raskhan is known as the 'Bhakti Kavi' for his devotional poetry dedicated to Lord Krishna.",
+    "explanation_hi": "रसखान को बाबा कृष्ण द्वारा उनकी भक्ति भावना की कविताओं के लिए 'भक्ति कवि' के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Art and Craft",
+    "question_en": "Which traditional craft of Rajasthan is known for its intricate blue pottery?",
+    "question_hi": "राजस्थान के कौन से पारंपरिक हस्तशिल्प के लिए उनके जटिल नीले बरतन प्रसिद्ध हैं?",
+    "A_en": "Miniature Painting", "A_hi": "लघु चित्रकला",
+    "B_en": "Blue Pottery", "B_hi": "नीले बरतन",
+    "C_en": "Block Printing", "C_hi": "ब्लॉक प्रिंटिंग",
+    "D_en": "Mirror Work", "D_hi": "दर्पण कार्य",
+    "answer": "B",
+    "explanation_en": "Blue pottery is a traditional craft of Rajasthan, known for its intricate designs and use of cobalt blue glaze.",
+    "explanation_hi": "नीले बरतन राजस्थान के पारंपरिक हस्तशिल्प हैं, जिनके जटिल डिज़ाइन और कोबाल्ट नीले ग्लेज के उपयोग के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Music",
+    "question_en": "Who is considered the 'Nadir Shah of Music' from Rajasthan?",
+    "question_hi": "राजस्थान से मूल किसे 'संगीत के नादिर शाह' के रूप में माना जाता है?",
+    "A_en": "Tansen", "A_hi": "तानसेन",
+    "B_en": "Ravi Shankar", "B_hi": "रविशंकर",
+    "C_en": "Pandit Ravi", "C_hi": "पंडित रवि",
+    "D_en": "Bismillah Khan", "D_hi": "बिस्मिल्ला खान",
+    "answer": "A",
+    "explanation_en": "Tansen, a legendary musician from Rajasthan, is often referred to as the 'Nadir Shah of Music' for his mastery in classical music.",
+    "explanation_hi": "तानसेन, एक प्रसिद्ध राजस्थानी संगीतकार, क्लासिकल संगीत में अपनी विशिष्टता के कारण 'संगीत के नादिर शाह' के रूप में जाने जाते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "State Symbols",
+    "question_en": "What is the state bird of Rajasthan?",
+    "question_hi": "राजस्थान का राज्य पक्षी क्या है?",
+    "A_en": "Peacock", "A_hi": "मोर",
+    "B_en": "Great Indian Bustard", "B_hi": "ग्रेट इंडियन बस्टर्ड",
+    "C_en": "Eagle", "C_hi": "गिद्ध",
+    "D_en": "Parrot", "D_hi": "कबूतर",
+    "answer": "B",
+    "explanation_en": "The Great Indian Bustard is the state bird of Rajasthan and is found in the Thar Desert region.",
+    "explanation_hi": "ग्रेट इंडियन बस्टर्ड राजस्थान का राज्य पक्षी है और इसे थार मरुस्थल क्षेत्र में पाया जाता है।"
+  }
+]
