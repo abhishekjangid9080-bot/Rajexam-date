@@ -1,0 +1,164 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling various aspects of Rajasthan's culture such as festivals, folk music, dance forms, historical sites, traditional attire, cuisine, and famous personalities.
+
+First, I'll list possible topics. For example, festivals like Gangaur and Teej, dances like Ghoomar and Kalbeliya, folk songs, traditional attire like Bandhani and Ghagra, famous historical sites like Mehrangarh Fort, Jaigarh Fort, etc. Also, cultural aspects like blue pottery, puppetry, and Rajasthani cuisine items like dal-bati-churma.
+
+Next, I need to ensure that each question is in both Hindi and English, with options in both languages. The answer and explanations should also be in both languages. The difficulty level should be moderate to align with Rajasthan-specific exams.
+
+Let me start drafting the first question. The topic could be a famous festival. Gangaur is a significant festival in Rajasthan. The question could be about which festival is dedicated to goddess Gauri. Options can include other festivals like Teej, Holi, or Diwali to create distractors.
+
+For the second question, perhaps about a traditional dance form. Kalbeliya is a well-known dance, so the question could be which dance is performed by the Kalbeliya community. Options could include Ghoomar, Kathakali, or Bhangra.
+
+Third question could be about a famous historical site. Mehrangarh Fort in Jodhpur is a key site. The question might ask which fort is located in Jodhpur.
+
+Fourth question on folk music. Baaja is a traditional musical instrument. The question could ask which instrument is played in Rajasthani folk music, with options like Sitar, Flute, or Veena.
+
+Fifth question about traditional attire. Ghagra is a traditional dress for women. The question could ask which is a traditional women's attire.
+
+Sixth question on a famous personality. Rajkumar Sharma is a well-known folk singer. The question might ask who is a famous Rajasthani folk singer.
+
+Seventh question about a famous dish. Dal-Bati-Churma is a staple. The question could be about the main dish of Rajasthan.
+
+Eighth question on a historical figure. Maharaja Jai Singh II founded Jaipur. The question could ask who founded Jaipur.
+
+Ninth question about a traditional craft. Blue pottery is unique to Rajasthan. The question could ask which craft is associated with Udaipur.
+
+Tenth question on a famous temple. Dilwara Temples in Mount Abu. The question might ask which temple is located in Mount Abu.
+
+Now, I need to structure each of these into the JSON format provided. Each entry must have the subject, topic, question in English and Hindi, options A to D in both languages, the correct answer, and explanations in both languages. I'll ensure that the options are plausible distractors and the explanations are concise but accurate.
+
+I should check for any possible errors, like incorrect facts or mismatched options. Also, the difficulty level should be moderate, focusing on commonly known aspects of Rajasthan culture that are likely to appear in state exams. Making sure that the languages are correctly translated and the JSON structure is strictly followed without any markdown or extra text.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which festival in Rajasthan is dedicated to Goddess Gauri?",
+        "question_hi": "राजस्थान में कौन सा त्यौहार गौरी देवी के समर्पित है?",
+        "A_en": "Gangaur", "A_hi": "गंगौर",
+        "B_en": "Teej", "B_hi": "तीज",
+        "C_en": "Holi", "C_hi": "होली",
+        "D_en": "Diwali", "D_hi": "दिवाली",
+        "answer": "A",
+        "explanation_en": "Gangaur is the oldest and most popular festival in Rajasthan dedicated to Goddess Gauri.",
+        "explanation_hi": "गंगौर राजस्थान का सबसे प्राचीन और लोकप्रिय त्योहार है जो गौरी देवी के समर्पित है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Dance Forms",
+        "question_en": "Which dance is performed by the Kalbeliya community of Rajasthan?",
+        "question_hi": "राजस्थान के कलबेलिया समुदाय किस नृत्य को प्रस्तुत करते हैं?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Kathakali", "C_hi": "कथकली",
+        "D_en": "Bhangra", "D_hi": "भंगड़ा",
+        "answer": "A",
+        "explanation_en": "Kalbeliya dance is performed by the Kalbeliya community of Rajasthan, often depicting the movements of a snake.",
+        "explanation_hi": "राजस्थान के कलबेलिया समुदाय कलबेलिया नृत्य प्रस्तुत करते हैं, जो अक्सर सांप के आंदोलनों को चित्रित करता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Sites",
+        "question_en": "Which fort is located in Jodhpur, Rajasthan?",
+        "question_hi": "राजस्थान के जोधपुर में कौन सा किला स्थित है?",
+        "A_en": "Mehrangarh Fort", "A_hi": "मेहरांगढ़ किला",
+        "B_en": "Jaigarh Fort", "B_hi": "जैसलमेर किला",
+        "C_en": "Chittorgarh Fort", "C_hi": "चित्तौड़गढ़ किला",
+        "D_en": "Amber Fort", "D_hi": "अंबर किला",
+        "answer": "A",
+        "explanation_en": "Mehrangarh Fort in Jodhpur is one of the largest and most prominent forts in Rajasthan.",
+        "explanation_hi": "जोधपुर में मेहरांगढ़ किला राजस्थान के सबसे बड़े और प्रमुख किलों में से एक है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Music",
+        "question_en": "Which traditional musical instrument is used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक गीतों में किस पारंपरिक संगीत यंत्र का उपयोग किया जाता है?",
+        "A_en": "Baaja", "A_hi": "बाजा",
+        "B_en": "Sitar", "B_hi": "सितार",
+        "C_en": "Flute", "C_hi": "बोली",
+        "D_en": "Veena", "D_hi": "वीणा",
+        "answer": "A",
+        "explanation_en": "Baaja is a traditional Rajasthani musical instrument used in folk music.",
+        "explanation_hi": "बाजा राजस्थानी लोक गीतों में उपयोग किया जाने वाला एक पारंपरिक संगीत यंत्र है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "Which of the following is a traditional women's attire in Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थान में पारंपरिक महिला पहनावा है?",
+        "A_en": "Bandhani", "A_hi": "बन्धनी",
+        "B_en": "Sari", "B_hi": "साड़ी",
+        "C_en": "Ghagra", "C_hi": "घगरा",
+        "D_en": "Churidar", "D_hi": "चुरिदार",
+        "answer": "C",
+        "explanation_en": "Ghagra is a traditional women's attire in Rajasthan, often paired with a choli and odhani.",
+        "explanation_hi": "घगरा राजस्थान में पारंपरिक महिला पहनावा है, जो अक्सर चोली और ओड़नी के साथ जोड़ा जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Singers",
+        "question_en": "Who is a well-known folk singer from Rajasthan?",
+        "question_hi": "राजस्थान से कौन सा लोक गायक प्रसिद्ध है?",
+        "A_en": "Rajkumar Sharma", "A_hi": "राजकुमार शर्मा",
+        "B_en": "Lata Mangeshkar", "B_hi": "लता मंगेशकर",
+        "C_en": "A.R. Rahman", "C_hi": "ए. आर. रहमान",
+        "D_en": "Kishore Kumar", "D_hi": "किशोर कुमार",
+        "answer": "A",
+        "explanation_en": "Rajkumar Sharma is a renowned folk singer from Rajasthan, known for his contributions to Rajasthani folk music.",
+        "explanation_hi": "राजकुमार शर्मा राजस्थान के एक प्रसिद्ध लोक गायक हैं, जिन्हें राजस्थानी लोक गायन में योगदान के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which dish is considered the staple food of Rajasthan?",
+        "question_hi": "कौन सा व्यंजन राजस्थान के मुख्य खाद्य पदार्थ के रूप में माना जाता है?",
+        "A_en": "Dal-Bati-Churma", "A_hi": "दाल-बाती-चूरमा",
+        "B_en": "Poha", "B_hi": "पोहा",
+        "C_en": "Upma", "C_hi": "उपमा",
+        "D_en": "Dosa", "D_hi": "डोसा",
+        "answer": "A",
+        "explanation_en": "Dal-Bati-Churma is the traditional staple food of Rajasthan, especially in the desert regions.",
+        "explanation_hi": "दाल-बाती-चूरमा राजस्थान का पारंपरिक मुख्य खाद्य पदार्थ है, खासकर रेगिस्तानी क्षेत्रों में।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Figures",
+        "question_en": "Who founded the city of Jaipur in Rajasthan?",
+        "question_hi": "राजस्थान में शहर जयपुर की स्थापना किसने की थी?",
+        "A_en": "Maharaja Jai Singh II", "A_hi": "महाराजा जय सिंह द्वितीय",
+        "B_en": "Raja Man Singh", "B_hi": "राजा मान सिंह",
+        "C_en": "Maharaja Sawai Jai Singh", "C_hi": "महाराजा सवाई जय सिंह",
+        "D_en": "Maharaja Ajit Singh", "D_hi": "महाराजा अजीत सिंह",
+        "answer": "A",
+        "explanation_en": "Maharaja Jai Singh II founded the city of Jaipur in 1727 AD, named after himself.",
+        "explanation_hi": "महाराजा जय सिंह द्वितीय ने 1727 ई. में शहर जयपुर की स्थापना की थी, जिसका नाम अपने नाम पर रखा गया था।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Crafts",
+        "question_en": "Which traditional craft is associated with Udaipur, Rajasthan?",
+        "question_hi": "राजस्थान के उदयपुर से कौन सी पारंपरिक कला संबंधित है?",
+        "A_en": "Blue Pottery", "A_hi": "नीला बरतन बनाना",
+        "B_en": "Miniature Painting", "B_hi": "लघु चित्रकला",
+        "C_en": "Wood Carving", "C_hi": "लकड़ी की तस्वीर बनाना",
+        "D_en": "Bamboo Craft", "D_hi": "बांस का हाथ का काम",
+        "answer": "A",
+        "explanation_en": "Blue Pottery is a traditional craft of Udaipur, known for its vibrant cobalt blue color.",
+        "explanation_hi": "नीला बरतन उदयपुर की पारंपरिक कला है, जिसके लिए उज्ज्वल नीले रंग के कारण प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Temples",
+        "question_en": "In which city are the Dilwara Temples located?",
+        "question_hi": "दिलवाड़ा मंदिर किस शहर में स्थित हैं?",
+        "A_en": "Mount Abu", "A_hi": "माउंट अबू",
+        "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+        "C_en": "Chittorgarh", "C_hi": "चित्तौड़गढ़",
+        "D_en": "Pushkar", "D_hi": "पुष्कर",
+        "answer": "A",
+        "explanation_en": "Dilwara Temples are located in Mount Abu, Rajasthan, dedicated to Lord Shiva.",
+        "explanation_hi": "दिलवाड़ा मंदिर राजस्थान में माउंट अबू में स्थित हैं, जो भगवान शिव के समर्पित हैं।"
+    }
+]
