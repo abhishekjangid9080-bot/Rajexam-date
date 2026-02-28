@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which iconic palace is located in Udaipur?",
+"question_hi": "उदयपुर में किस ऐसे मंदिर हैंगे?",
+"A_en": "Monsoon Palace", "A_hi": "मॉनसों स्पूर्ण मंदिर",
+"B_en": "Lal Chand Udaipur", "B_hi": "लाल चंद्र उदयपुर",
+"C_en": "Raj Mandir", "C_hi": "राज मंदिर",
+"D_en": "Fateh Prakash Palace", "D_hi": "फटेह प्रकाश मंदिर",
+"answer": "C",
+"explanation_en": "The Raj Mandir is the iconic palace located in Udaipur.",
+"explanation_hi": "उदयपुर में राज मंदिर है।",
+"explanation_hi": ""
+}
+]
