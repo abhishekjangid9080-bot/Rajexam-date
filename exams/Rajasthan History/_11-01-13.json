@@ -1,0 +1,184 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, suitable for exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling important topics in Rajasthan History. The region has a rich history with various kingdoms, dynasties, and significant events.
+
+First, I'll think about major dynasties like the Mauryas, Guptas, Rajputs, Mughals, and British. Important rulers such as Rana Pratap, Maharana Sanga, and Akbar come to mind. Key battles like Haldighati, events like the formation of Rajasthan as a state, and important cultural aspects like forts and historical sites. Also, notable festivals and their historical significance.
+
+I should ensure that each question covers a different aspect to cover the topic comprehensively. Let me list possible topics for each question:
+
+1. Founder of Jaipur.
+2. Battle of Haldighati.
+3. Capital of Mewar.
+4. Founder of Udaipur.
+5. Rajput ruler who resisted Mughal expansion.
+6. Formation year of Rajasthan state.
+7. Dynasty that ruled Marwar.
+8. Ruler associated with the construction of Amber Fort.
+9. Founder of Ajmer.
+10. Important treaty in Rajput-Mughal relations.
+
+Now, for each question, I need to frame the question in both Hindi and English, provide four options (A-D), the correct answer, and explanations in both languages. The difficulty level should be moderate, as per Rajasthan History exams.
+
+Let me verify the facts to ensure accuracy. For example, Maharana Pratap is associated with Haldighati. Udaipur was founded by Maharana Udai Singh II. Jaipur's founder is Sawai Jai Singh. Marwar was ruled by the Rathore dynasty. The formation of Rajasthan state was in 1956. Akbar's son, Salim (Jahangir), was involved with Rajputs. Ajmer was founded by Ajayadev Chauhan. The Treaty of Mandala is important between Rajputs and Mughals. Amber Fort was built by Raja Man Singh I. Chittorgarh is the Mewar capital.
+
+I need to structure each question in the required JSON format, ensuring that both Hindi and English are correctly translated and that the explanations are concise but informative. Also, check that the answer options are plausible and the correct answer is accurate.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Dynasties",
+    "question_en": "Who founded the city of Jaipur?",
+    "question_hi": "राजस्थान के शहर जयपुर का संस्थापक कौन था?",
+    "A_en": "Raja Man Singh I",
+    "A_hi": "राजा मान सिंह प्रथम",
+    "B_en": "Sawai Jai Singh II",
+    "B_hi": "सवाई जय सिंह द्वितीय",
+    "C_en": "Raja Raja Singh",
+    "C_hi": "राजा राजा सिंह",
+    "D_en": "Maharana Pratap",
+    "D_hi": "महाराणा प्रताप",
+    "answer": "B",
+    "explanation_en": "Sawai Jai Singh II, a Rajput ruler of Amber, founded Jaipur in 1727 as part of the 'City of the Victors'.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय, अम्बर के राजपूत शासक, ने 1727 में जयपुर की स्थापना 'विजय के नगर' के रूप में की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Key Battles",
+    "question_en": "Which battle was a decisive confrontation between Maharana Pratap and the Mughal Emperor Akbar?",
+    "question_hi": "महाराणा प्रताप और मुगल सम्राट अकबर के बीच कौन सा युद्ध निर्णायक था?",
+    "A_en": "Battle of Chittorgarh",
+    "A_hi": "चित्तौड़गढ़ का युद्ध",
+    "B_en": "Battle of Haldighati",
+    "B_hi": "हल्दीघाटी का युद्ध",
+    "C_en": "Battle of Khanwa",
+    "C_hi": "खानवा का युद्ध",
+    "D_en": "Battle of Mandore",
+    "D_hi": "मांडले का युद्ध",
+    "answer": "B",
+    "explanation_en": "The Battle of Haldighati in 1576 was a significant conflict where Maharana Pratap resisted Mughal expansion into Mewar.",
+    "explanation_hi": "1576 में हल्दीघाटी का युद्ध महाराणा प्रताप द्वारा मेवार में मुगल विस्तार के खिलाफ प्रतिरोध का महत्वपूर्ण युद्ध था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Capitals",
+    "question_en": "Which city was the capital of the Mewar kingdom during the Rajput era?",
+    "question_hi": "राजपूत काल में मेवार राज्य की राजधानी कौन सा शहर था?",
+    "A_en": "Chittorgarh",
+    "A_hi": "चित्तौड़गढ़",
+    "B_en": "Udaipur",
+    "B_hi": "उदयपुर",
+    "C_en": "Kumbhalgarh",
+    "C_hi": "कुंभलगढ़",
+    "D_en": "Rajsamand",
+    "D_hi": "राजसमंद",
+    "answer": "A",
+    "explanation_en": "Chittorgarh served as the capital of the Mewar kingdom until the 16th century when the capital was shifted to Udaipur.",
+    "explanation_hi": "16 वीं शताब्दी तक चित्तौड़गढ़ मेवार राज्य की राजधानी रही।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders of Cities",
+    "question_en": "Who established the city of Udaipur?",
+    "question_hi": "उदयपुर शहर की स्थापना किसने की थी?",
+    "A_en": "Maharana Udai Singh II",
+    "A_hi": "महाराणा उदय सिंह द्वितीय",
+    "B_en": "Raja Man Singh I",
+    "B_hi": "राजा मान सिंह प्रथम",
+    "C_en": "Rawal Ratan Singh",
+    "C_hi": "रावल रतन सिंह",
+    "D_en": "Maharaja Jaswant Singh",
+    "D_hi": "महाराजा जसवंत सिंह",
+    "answer": "A",
+    "explanation_en": "Maharana Udai Singh II founded Udaipur in 1559 as a safe haven for the Mewar kingdom after losing Chittorgarh to Akbar.",
+    "explanation_hi": "महाराणा उदय सिंह द्वितीय ने 1559 में चित्तौड़गढ़ के अकबर से हार के बाद मेवार के लिए उदयपुर की स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Resistance to Mughal Empire",
+    "question_en": "Which Rajput ruler is renowned for resisting Mughal expansion in Rajasthan during the 16th century?",
+    "question_hi": "16वीं शताब्दी में राजस्थान में मुगल विस्तार के खिलाफ प्रतिरोध करने वाले प्रसिद्ध राजपूत शासक कौन थे?",
+    "A_en": "Raja Bhoj",
+    "A_hi": "राजा भोज",
+    "B_en": "Maharana Pratap",
+    "B_hi": "महाराणा प्रताप",
+    "C_en": "Raja Man Singh I",
+    "C_hi": "राजा मान सिंह प्रथम",
+    "D_en": "Maharaja Jaswant Singh",
+    "D_hi": "महाराजा जसवंत सिंह",
+    "answer": "B",
+    "explanation_en": "Maharana Pratap is celebrated for his valiant resistance against Mughal Emperor Akbar, particularly in the Battle of Haldighati.",
+    "explanation_hi": "महाराणा प्रताप के खूबसूरत प्रतिरोध के लिए, खासकर हल्दीघाटी के युद्ध में मुगल सम्राट अकबर के खिलाफ, प्रसिद्धि हासिल है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Formation of Rajasthan",
+    "question_en": "In which year was Rajasthan formed as a state of India?",
+    "question_hi": "राजस्थान को भारत के राज्य के रूप में किस वर्ष का गठन किया गया था?",
+    "A_en": "1947",
+    "A_hi": "1947",
+    "B_en": "1949",
+    "B_hi": "1949",
+    "C_en": "1956",
+    "C_hi": "1956",
+    "D_en": "1960",
+    "D_hi": "1960",
+    "answer": "C",
+    "explanation_en": "Rajasthan was officially formed as a state of India on 1 November 1956 through the States Reorganisation Act.",
+    "explanation_hi": "1 नवंबर 1956 को राजस्थान राज्य संगठन अधिनियम के माध्यम से राजस्थान को भारत का एक राज्य घोषित कर दिया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Dynasties",
+    "question_en": "Which dynasty ruled over the Marwar region of Rajasthan for centuries?",
+    "question_hi": "राजस्थान के मारवाड़ क्षेत्र पर शताब्दियों तक शासन करने वाला कौन सा राजवंश था?",
+    "A_en": "Sisodia",
+    "A_hi": "सिसोदिया",
+    "B_en": "Solanki",
+    "B_hi": "सोलंकी",
+    "C_en": "Rathore",
+    "C_hi": "राठौर",
+    "D_en": "Parmar",
+    "D_hi": "परमार",
+    "answer": "C",
+    "explanation_en": "The Rathore dynasty was the dominant ruling family of Marwar (Jodhpur) and played a significant role in Rajasthan's history.",
+    "explanation_hi": "राठौर वंश मारवाड़ (जोधपुर) का प्रमुख शासन परिवार था और राजस्थान के इतिहास में महत्वपूर्ण भूमिका निभाई।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Forts",
+    "question_en": "Which Mughal emperor commissioned the construction of the Amber Fort in Jaipur?",
+    "question_hi": "जयपुर में अम्बर किला के निर्माण का आदेश किस मुगल सम्राट ने दिया था?",
+    "A_en": "Akbar",
+    "A_hi": "अकबर",
+    "B_en": "Jahangir",
+    "B_hi": "जहांगीर",
+    "C_en": "Shah Jahan",
+    "C_hi": "शाहजहां",
+    "D_en": "Aurangzeb",
+    "D_hi": "औरंगजेब",
+    "answer": "B",
+    "explanation_en": "The Amber Fort in Jaipur was commissioned by Raja Man Singh I, and its construction was supported during the reign of Emperor Jahangir.",
+    "explanation_hi": "जयपुर में अम्बर किला राजा मान सिंह प्रथम द्वारा आदिस्थापित किया गया था, और इसके निर्माण का समर्थन सम्राट जहांगीर के शासनकाल में किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Ancient Kingdoms",
+    "question_en": "Who founded the city of Ajmer and established it as a significant center of the Rajput Chauhan dynasty?",
+    "question_hi": "अजमेर शहर की स्थापना किसने की थी और इसे राजपूत चौहान वंश का महत्वपूर्ण केंद्र कैसे बनाया गया?",
+    "A_en": "Raja Ajayadev Chauhan",
+    "A_hi": "राजा अजयदेव चौहान",
+    "B_en": "Raja Ratan Singh Chauhan",
+    "B_hi": "राजा रतन सिंह चौहान",
+    "C_en": "Raja Prithviraj Chauhan",
+    "C_hi": "राजा प्रताप सिंह चौहान",
+    "D_en": "Raja Man Singh Chauhan",
+    "D_hi": "राजा मान सिंह चौहान",
+    "answer": "A",
+    "explanation_en": "Raja Ajayadev Chauhan founded Ajmer in the 8th century and established it as a key stronghold of the Chauhan dynasty.",
+    "explanation_hi": "राजा अजयदेव चौहान ने 8वीं शताब्दी में अजमेर की स्थापना की और इसे चौहान वंश का महत्वपूर्ण स्थायी किला बनाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Treaties and Diplomacy",
+    "question_en": "Which treaty marked a significant peace agreement between the Rajputs and the Mughal Empire under Emperor Akbar?",
+    "question_hi": "मुगल साम्राज्य के सम्राट अकबर के शासनकाल में राजपूतों और
