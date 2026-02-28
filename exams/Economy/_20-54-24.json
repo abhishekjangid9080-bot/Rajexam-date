@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP of Indian States",
+"question_en": "Which Indian state has the highest GDP?",
+"question_hi": "भारत के अन्यायी राज्य के GDP के सबसे ऊपरी रहना है।",
+"A_en": "Andhra Pradesh", "A_hi": "अंधरा प्रादेशिक",
+"B_en": "Tamil Nadu", "B_hi": "तामिल नाद",
+"C_en": "Uttar Pradesh", "C_hi": "उत्तर प्रदेश",
+"D_en": "Karnataka", "D_hi": "कर्नाटक",
+"answer": "C",
+"explanation_en": "Uttar Pradesh has the highest GDP among the states in India.",
+"explanation_hi": "अतिरिक राज्य के अंतरांग राज्य के GDP का सबसे ऊपयोगी",
+}
+]
