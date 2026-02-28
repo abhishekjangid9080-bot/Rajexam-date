@@ -1,0 +1,65 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Early History of Rajasthan",
+"question_en": "Which empire ruled Rajasthan before the establishment of the Marwar Sultanate?",
+"question_hi": "राजस्थान में मर्रवार सांस्कृतिप्रवेश किस संगठन के बाद मुख्यालय की संरक्षण करते थे?",
+"A_en": "The Rajputs",
+"A_hi": "राजपूतों",
+"B_en": "The Guptas",
+"B_hi": "गुप्त",
+"C_en": "The Mughals",
+"C_hi": "मुघल",
+"D_en": "The Tomaras",
+"D_hi": "तोमराज",
+"answer": "B",
+"explanation_en": "The Guptas were the ruling empire after the establishment of the Marwar Sultanate in Rajasthan.",
+"explanation_hi": "मुख्तुकों के बाद राजस्थान में मर्वार सत्तार के बाग के बाग में क्या संगठन करते थे?",
+"answer": "B",
+"explanation_en": "The Guptas ruled Rajasthan after the establishment of the Marwar Sultanate in Rajasthan.",
+"explanation_hi": "मुख्तुकों के बाग में राजस्थान को संगठन करते थे।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan under the rule of Maharaja Man Singh",
+"question_en": "Who was the commander-in-chief of Maharaja Man Singh's army?",
+"question_hi": "महाराज मंगलसींग के सैन्यां के सहायक अधिकार वहींग को कौन सहायता करते थे।",
+"options": [
+{
+"option_en": "Ishwari Singh",
+"option_hi": "इस्वारी सिंग",
+"option_explanation_en": "Ishwari Singh was a renowned Rajput warrior and commander under Maharaja Man Singh.",
+"option_explanation_hi": "इस्वारी सिंग एक श्रमिक राजपूत और मन सिंग के सहायक अधिकार थे।",
+},
+{
+"option_en": "Bhagirath Singh",
+"option_hi": "भगिर्ता सिंग",
+"option_explanation_en": "Bhagirath Singh was a general in the army of Maharana Pratap.",
+"option_explanation_hi": "भगिर्ता सिंग एकचिक महराना प्रताप के अभियांक थे।",
+},
+{
+"option_en": "Shiv Singh",
+"option_hi": "शिव सिंग",
+"option_explanation_en": "Shiv Singh was a commander-in-chief of Rana Kumbha.",
+"option_explanation_hi": "शिव सिंग एक राणा कुभामे के कामनक अधिकार थे।",
+},
+{
+"option_en": "Jai Singh",
+"option_hi": "जैरी सिंग",
+"option_explanation_en": "Jai Singh was a general under Maharana Pratap.",
+"option_explanation_hi": "जैरी सिंग एक महाराणा प्रताप के अभामे के साधार थे।",
+},
+{
+"option_en": "Rao Jodh Singh",
+"option_hi": "राओ जोड़ सिंग",
+"option_explanation_en": "Rao Jodh Singh was a general under Maharaja Rao Khem Singh.",
+"option_explanation_hi": "राओ जोड़ सिंग एक महाराणा के केम खे के साधार थे",
+},
+{
+"option_en": "Maharaja Rao Khem Singh",
+"option_hi": "महाराणा खम खे केम",
+"option_explanation_en": "Maharaja Rao Khem Singh was a prominent Rajput king who ruled over Rajasthan.",
+"option_explanation_hi": "महाराणा खम खेम केम",
+}
+]}
+]
