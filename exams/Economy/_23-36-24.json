@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Gross Domestic Product (GDP)",
+"question_en": "What is the primary contributor to Rajasthan's GDP?",
+"question_hi": "राजस्थान की ग्रॉस डोमन्टिविल प्रमोट (GDP) के प्रमोट का मुख्य सहायक क्या है।",
+"A_en": "Agriculture",
+"A_hi": "बौद्धिक",
+"B_en": "Industry",
+"B_hi": "आर्थिक",
+"C_en": "Services",
+"C_hi": "सहायक सेवाएं",
+"D_en": "Tourism",
+"D_hi": "ट्यूरेंस",
+"answer": "C",
+"explanation_en": "Services sector contributes significantly to Rajasthan's GDP, as it accounts for a major portion of the state's economy.",
+"explanation_hi": "राजस्थान की GDP में सेवा सेवाएं का विभाग राज्य का विकार करने मैं में महत्ता है।",
+}
+]
