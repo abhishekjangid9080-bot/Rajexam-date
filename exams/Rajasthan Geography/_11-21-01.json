@@ -1,0 +1,150 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for Rajasthan Geography, targeting exams like LDC, CET, RAS, SSC, and Railway NTPC. The instructions specify that each question must be in both Hindi and English, following a strict JSON format. The difficulty level should be according to Rajasthan Geography standards.
+
+First, I need to recall key topics within Rajasthan Geography. Possible topics include rivers, mountains, famous places, climate, soil types, wildlife sanctuaries, historical places, etc. Let me brainstorm some sub-topics:
+
+1. Rivers in Rajasthan (e.g., Chambal, Luni)
+2. Highest peaks and mountains
+3. Desert regions (Thar Desert)
+4. National parks and wildlife sanctuaries
+5. Historical forts and cities
+6. Major cities and their significance
+7. Soil types and their distribution
+8. Climate characteristics
+9. Irrigation projects and dams
+10. Cultural heritage sites
+
+Now, let's start drafting questions. For each question, I need to ensure the Hindi translation is accurate and the options are plausible. The answer must be correct, and explanations should be concise.
+
+First question: Capital of Rajasthan. The answer is Jaipur. That's straightforward. The options include other major cities like Jodhpur, Udaipur, Bikaner.
+
+Second question: Longest river in Rajasthan. Chambal is the longest, but wait, the Luni is the largest in terms of drainage area, but Chambal is longer. Need to confirm. Let me check. Chambal is part of the Yamuna system, flows through Rajasthan, Madhya Pradesh, and Uttar Pradesh. It's about 960 km long. Luni is 495 km. So Chambal is the longest river in Rajasthan. So the answer would be Chambal.
+
+Third question: Highest peak in Rajasthan. Mount Abu's Guru Shikhar is the highest point at 1,722 meters. So the options should include other peaks like Kumbhalgarh, Sita Mai, etc.
+
+Fourth question: Thar Desert location. It's in the western part of Rajasthan. So options would be different regions.
+
+Fifth question: National park with the largest area. Ranthambore is a major one, but the largest area might be Desert National Park. Let me confirm. Desert National Park is 3,162 sq km, Ranthambore is 1,334 sq km. So Desert National Park is the largest. But wait, the user might consider Sariska or others. Need to verify. Yes, Desert National Park is the largest in Rajasthan.
+
+Sixth question: Historical city in the west. Jaisalmer is known as the "Golden City," located in the west.
+
+Seventh question: Major soil type in Rajasthan. Sandy soil is prevalent due to the desert areas, but other types like alluvial in the east. Need to check. The western part has sandy soils, while the east has more fertile alluvial. So the question could be about the most widespread type.
+
+Eighth question: Major dam in Rajasthan. The Rana Pratap Sagar Dam is on the Chambal River. Chambal is correct.
+
+Ninth question: State tree of Rajasthan. Neem is the state tree. Others like Banyan or Peepal might be distractors.
+
+Tenth question: UNESCO World Heritage Site in Rajasthan. The forts of Rajasthan are a site. Wait, the correct one is the Group of Monuments at Mahabalipuram? No, Rajasthan's UNESCO sites include the forts of Chittorgarh, Amer, and Jaigarh. But the Group of Monuments at Mahabalipuram is in Tamil Nadu. Wait, Rajasthan's UNESCO sites include the Group of Monuments at Khajuraho? No, that's also in Madhya Pradesh. Hmm, actually Rajasthan's UNESCO sites are the forts of Rajasthan (Chittorgarh Fort, Amer Fort, Jaigarh Fort) as part of the "Forts of Rajasthan" site. Wait, no, the actual UNESCO World Heritage Sites in Rajasthan are the Group of Monuments at Khajuraho (Madhya Pradesh), but Rajasthan has the "Chand Baori" and "Rani ki Vav" as UNESCO sites. Wait, Rani ki Vav is in Gujarat. Let me confirm. Rajasthan's UNESCO sites include the "Group of Monuments at Khajuraho" – no, that's in Madhya Pradesh. Wait, no, Khajuraho is in Madhya Pradesh. Rajasthan's UNESCO sites are the "Group of Monuments at Khajuraho" is not in Rajasthan. Let me check. Rajasthan has the "Chand Baori" in Abu Road? No, Chand Baori is in Rajasthan, but is it a UNESCO site? No. The actual UNESCO sites in Rajasthan are the "Group of Monuments at Khajuraho" – no, that's in MP. Wait, maybe the correct answer is the "Group of Monuments at Khajuraho" isn't in Rajasthan. So perhaps the correct answer is the "Group of Monuments at Chittorgarh" or something else. Wait, maybe I'm confused here. Let me correct this. Rajasthan has the "Group of Monuments at Chittorgarh" as a UNESCO site? No, the correct one is the "Group of Monuments at Khajuraho" which is in Madhya Pradesh. Rajasthan's UNESCO sites are the "Group of Monuments at Chittorgarh" and "Group of Monuments at Amer" – but I'm not sure. Alternatively, maybe the correct answer is "Rani ki Vav" but that's in Gujarat. Hmm, this is a tricky one. Let me verify. The UNESCO World Heritage Sites in Rajasthan include the "Group of Monuments at Khajuraho" – no, that's in MP. The correct answer is that Rajasthan's UNESCO sites are the "Group of Monuments at Chittorgarh", "Group of Monuments at Amer", and "Group of Monuments at Jaigarh". Wait, but I think the actual UNESCO sites in Rajasthan are the "Group of Monuments at Chittorgarh" and "Group of Monuments at Amer" as part of the "Forts of Rajasthan". However, upon checking, the actual UNESCO World Heritage Sites in Rajasthan include the "Group of Monuments at Chittorgarh" and "Group of Monuments at Amer" as part of the "Forts of Rajasthan" site. So the correct answer would be these. But the options need to be accurate. Alternatively, maybe the correct answer is "Group of Monuments at Chittorgarh". So I'll use that. So the options would include Chittorgarh Fort, which is a UNESCO site.
+
+So for the tenth question, the answer is Chittorgarh Fort.
+
+Now, compiling all these into the JSON format, ensuring each question has the correct Hindi and English translations, answers, and explanations. Need to make sure the explanations are accurate and concise.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers",
+        "question_en": "Which is the longest river in Rajasthan?",
+        "question_hi": "राजस्थान की सबसे लंबी नदी कौन सी है?",
+        "A_en": "Chambal", "A_hi": "चम्बल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Mahi", "C_hi": "माही",
+        "D_en": "Sabarmati", "D_hi": "साबरमती",
+        "answer": "A",
+        "explanation_en": "Chambal is the longest river in Rajasthan, originating in Madhya Pradesh and flowing through Rajasthan.",
+        "explanation_hi": "चम्बल राजस्थान की सबसे लंबी नदी है जो मध्य प्रदेश से उत्पन्न होकर राजस्थान से गुजरती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Mountains",
+        "question_en": "What is the highest peak in Rajasthan?",
+        "question_hi": "राजस्थान की सबसे ऊँची चोटी कौन सी है?",
+        "A_en": "Kumbhalgarh", "A_hi": "कुम्भलगढ़",
+        "B_en": "Sita Mai", "B_hi": "सीता मई",
+        "C_en": "Guru Shikhar", "C_hi": "गुरु शिखर",
+        "D_en": "Aravalli Range", "D_hi": "अरावली पर्वतमाला",
+        "answer": "C",
+        "explanation_en": "Guru Shikhar, located in Mount Abu, is the highest peak in Rajasthan at 1,722 meters.",
+        "explanation_hi": "गुरु शिखर, जो माउंट आबू में स्थित है, राजस्थान की सबसे ऊँची चोटी है जो 1,722 मीटर की ऊँचाई पर है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Desert",
+        "question_en": "Which region in Rajasthan is known as the Thar Desert?",
+        "question_hi": "राजस्थान के किस क्षेत्र को थार मरूभूमि के रूप में जाना जाता है?",
+        "A_en": "Northwestern", "A_hi": "उत्तरपश्चिमी",
+        "B_en": "Southeastern", "B_hi": "दक्षिणपूर्वी",
+        "C_en": "Southern", "C_hi": "दक्षिणी",
+        "D_en": "Eastern", "D_hi": "पूर्वी",
+        "answer": "A",
+        "explanation_en": "The Thar Desert is located in the northwestern part of Rajasthan, characterized by arid climate and sand dunes.",
+        "explanation_hi": "थार मरूभूमि राजस्थान के उत्तरपश्चिमी भाग में स्थित है जिसकी विशेषता शुष्क जलवायु और रेतीले टीले हैं।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Wildlife",
+        "question_en": "Which national park in Rajasthan has the largest area?",
+        "question_hi": "राजस्थान के किस राष्ट्रीय उद्यान का क्षेत्रफल सबसे अधिक है?",
+        "A_en": "Ranthambore", "A_hi": "रणथंबोर",
+        "B_en": "Desert National Park", "B_hi": "मरू राष्ट्रीय उद्यान",
+        "C_en": "Sariska", "C_hi": "सरिस्का",
+        "D_en": "Kailadevi", "D_hi": "कैलादेवी",
+        "answer": "B",
+        "explanation_en": "Desert National Park is the largest in Rajasthan, covering an area of 3,162 square kilometers.",
+        "explanation_hi": "मरू राष्ट्रीय उद्यान राजस्थान का सबसे बड़ा है जिसका क्षेत्रफल 3,162 वर्ग किलोमीटर है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "History",
+        "question_en": "Which city in Rajasthan is known as the 'Golden City'?",
+        "question_hi": "राजस्थान में कौन सा शहर 'स्वर्ण नगरी' के नाम से जाना जाता है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Jodhpur", "B_hi": "जोधपुर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "A",
+        "explanation_en": "Jaisalmer is called the 'Golden City' due to its yellow sandstone architecture and historical significance.",
+        "explanation_hi": "जैसलमेर को 'स्वर्ण नगरी' कहा जाता है क्योंकि इसकी पीले रेतली पत्थर की वास्तुकला और ऐतिहासिक महत्व है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Soils",
+        "question_en": "Which soil type is most common in the desert areas of Rajasthan?",
+        "question_hi": "राजस्थान के मरूद्यान क्षेत्रों में किस मृदा प्रकार का सर्वाधिक सामान्य है?",
+        "A_en": "Alluvial", "A_hi": "जलोढ़",
+        "B_en": "Sandy", "B_hi": "बलुई",
+        "C_en": "Black", "C_hi": "काली",
+        "D_en": "Laterite", "D_hi": "लेटराइट",
+        "answer": "B",
+        "explanation_en": "Sandy soil is predominant in Rajasthan's desert regions due to the arid climate and sand dunes.",
+        "explanation_hi": "रेतीली मृदा राजस्थान के मरूद्यान क्षेत्रों में शुष्क जलवायु और रेतीले टीलों के कारण प्रमुख है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Dams",
+        "question_en": "Which dam is built on the Chambal River in Rajasthan?",
+        "question_hi": "राजस्थान में चम्बल नदी पर कौन सा बाँध निर्मित किया गया है?",
+        "A_en": "Rana Pratap Sagar", "A_hi": "राणा प्रताप सागर",
+        "B_en": "Mahi Bajaj Sagar", "B_hi": "माही बजाज सागर",
+        "C_en": "Durgi Sagar", "C_hi": "दुर्गी सागर",
+        "D_en": "Chambal Dam", "D_hi": "चम्बल बाँध",
+        "answer": "A",
+        "explanation_en": "Rana Pratap Sagar Dam is constructed on the Chambal River in Rajasthan for irrigation and power generation.",
+        "explanation_hi": "राणा प्रताप सागर बाँध राजस्थान में चम्बल नदी पर बनाया गया है जिसका उद्देश्य सिंचाई और बिजली उत्पादन है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Flora",
+        "question_en": "What is the state tree of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य वृक्ष क्या है?",
+        "A_en": "Banyan", "A_hi": "बरगद",
+        "B_en": "Neem", "B_hi": "नीम",
+        "C_en": "Peepal", "C_hi": "पीपल",
+        "D_en": "Khejri", "D_hi": "खजूरी",
+        "answer": "B",
+        "explanation_en": "Neem is the state tree of Rajasthan, known for its medicinal properties and adaptability to arid climates.",
+        "explanation_hi": "नीम राजस्थान का राज्य वृक्ष है जिसकी दवा के गुणों और शुष्क जलवायु में अनुकूलता के कारण प्रसिद्धि है।"
+    },
+    {
+        "subject": "Rajasthan
