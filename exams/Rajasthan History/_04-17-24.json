@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Capitals",
+"question_en": "What are the capital cities of Rajasthan and the other three major states of India?",
+"question_hi": "राजस्थान और एकता के अनुसार राजधानी और पूर्वी राज्यों के राजधानी के विभाग",
+"A_en": "Jodhpur, Bihar, Gujarat, and Uttar Pradesh", "A_hi": "जोधपुर, बिहार, बिहार, और उत्तर प्रदेश",
+"B_en": "Jaipur, Bihar, Gujarat, and Chhattisgarh", "B_hi": "जयपुर, बिहार, गुजरात, और छत्रपुर",
+"C_en": "Jaipur, Bihar, Gujarat, and Madhya Pradesh", "C_hi": "जयपुर, बिहार, गुजरात, और मध्येत प्रदेश",
+"D_en": "Jaipur, Bihar, Gujarat, and Haryana", "D_hi": "जयपुर, बिहार, गुजरात, और हरियां",
+"answer": "C",
+"explanation_en": "Jaipur is the capital of Rajasthan, and the other options are the capitals of Bihar, Gujarat, Madhya Pradesh, and Haryana respectively.",
+"explanation_hi": "जयपुर राजस्थान के राजधान है, और अभिप्रत: बिहार, गुजरात, मध्येत प्रदेश, और हरियां",
+"explanation": "The correct answer is option C as Jaipur is the capital of Rajasthan, and the other options represent the capitals of Bihar, Gujarat, Madhya Pradesh, and Haryana respectively.",
+"question_en": "Which is the capital of Rajasthan and the capitals of the other three Indian states mentioned?",
+"question_hi": "राजस्थान के राजधान और अभिप्रत: बिहार, गुजरात, मध्येत प्रदेश, और हरियां",
+"question_ar": "ما عاصمة راجستان والعواصم للثلاثة ولايات الهندية الأخرى المذكورة؟"
+}
