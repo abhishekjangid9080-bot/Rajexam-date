@@ -1,0 +1,170 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs for Rajasthan Geography, specifically for exams like LDC, CET, RAS, SSC, and Railway. The instructions mention that each question should have options in both Hindi and English, following the Testbook style. The JSON format is crucial here, so I need to make sure I stick to the structure provided.
+
+First, I need to identify the correct topic. The original query didn't specify a topic, but looking at the example, the topic is left empty. However, in the example, the subject is Rajasthan Geography, so maybe the topic is implied. Wait, the user provided a JSON example where the topic is left as an empty string. So, I can leave the topic field empty as per the example.
+
+Next, the difficulty level should be set according to Rajasthan Geography exams. That means the questions should cover important aspects but not be too trivial. Topics like rivers, major cities, historical sites, and geographical features are typical.
+
+Let me brainstorm some topics. For example, major rivers in Rajasthan like the Chambal, Banas, or Luni. Then, major cities and their districts, important national parks like Ranthambore, desert regions like the Thar Desert, and significant historical sites.
+
+I need to ensure that each question is in both languages. The user provided an example where the question and options are translated. So, I'll have to translate each part accurately. Also, the answer and explanations should be in both languages.
+
+Let me start drafting the first question. Maybe about the longest river in Rajasthan. The Chambal is a tributary of the Yamuna and flows through Rajasthan. The options could include other rivers like Banas, Luni, and Mahi. The answer would be Chambal.
+
+Second question could be about the state tree of Rajasthan, which is the Banyan tree. Other options might include Neem, Peepal, and Ashoka. Need to confirm the exact state symbols.
+
+Third question: The highest peak in Rajasthan is Mount Abu. The options could be other hills like Kumbhalgarh, Jaipur, or Udaipur. Wait, Kumbhalgarh is a hill range, but the highest point is Guru Shikhar in Mount Abu. So, the answer is Mount Abu.
+
+Fourth question: The desert area of Rajasthan is called Thar Desert. Other options like Marwar, Mewar, or Shekhawati. Thar Desert is correct.
+
+Fifth question: Largest district by area is Bikaner. But wait, I need to check if it's Bikaner or Jaisalmer. Let me recall: Rajasthan's largest district is Bikaner, but sometimes Jaisalmer is considered part of the desert region. Wait, the actual largest by area is Bikaner. Let me verify. According to data, Bikaner is the largest district in Rajasthan by area. So answer is Bikaner.
+
+Sixth question: The state animal is Chinkara. Options could include Camel, Blue Bull, or Blackbuck. Chinkara (Indian Gazelle) is the state animal.
+
+Seventh question: Rajasthan's main source of irrigation is the canals from the Chambal Project. Other options might be underground water, rainfall, or tanks. The Chambal Project's canals are a major source.
+
+Eighth question: The famous lake in Ajmer is Ana Sagar. Other options like Pushkar, Daulat sagar, or Fateh Sagar. Ana Sagar is the correct one.
+
+Ninth question: The state bird is the Laughing Dove. Other options like Peacock, Parrot, or Pigeon. Laughing Dove (Hooded Laughingthrush) is the state bird.
+
+Tenth question: The river that doesn't flow in Rajasthan is Godavari. Others like Chambal, Banas, and Luni are in Rajasthan. Godavari is in southern states.
+
+Now, I need to structure each question into the JSON format. Ensure that the keys are correct, and the explanations are concise and accurate. Also, check for any possible errors in the facts. For example, confirming the state symbols, largest districts, and river details.
+
+I need to make sure that the translations are accurate. For example, "Chambal" in Hindi is "चंबल", "Bikaner" is "बीकानेर", etc. Also, explanations should clearly state the reason for the correct answer.
+
+After drafting all ten, I'll review each to ensure they meet the criteria and are of appropriate difficulty for the target exams. Avoid any technical jargon that might confuse students. Keep the questions straightforward but testing the key concepts.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which river is considered the largest river in Rajasthan?",
+    "question_hi": "राजस्थान में कौन सी नदी सबसे बड़ी नदी मानी जाती है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Banas", "B_hi": "बनास",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Mahi", "D_hi": "माही",
+    "answer": "A",
+    "explanation_en": "The Chambal River is the largest river in Rajasthan, flowing through the state and joining the Yamuna.",
+    "explanation_hi": "चंबल नदी राजस्थान की सबसे बड़ी नदी है, जो राज्य में प्रवाहित होकर यमुना के साथ मिलती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which district is the largest by area in Rajasthan?",
+    "question_hi": "राजस्थान में कौन सा जिला क्षेत्रफल में सबसे बड़ा है?",
+    "A_en": "Bikaner", "A_hi": "बीकानेर",
+    "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+    "C_en": "Churu", "C_hi": "चूरू",
+    "D_en": "Jodhpur", "D_hi": "जोधपुर",
+    "answer": "A",
+    "explanation_en": "Bikaner is the largest district in Rajasthan by area, covering approximately 48,157 km².",
+    "explanation_hi": "बीकानेर राजस्थान का क्षेत्रफल में सबसे बड़ा जिला है, जो लगभग 48,157 किमी² के क्षेत्र को शामिल करता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "What is the official tree of Rajasthan?",
+    "question_hi": "राजस्थान का राज्य वृक्ष क्या है?",
+    "A_en": "Banyan", "A_hi": "बरगद",
+    "B_en": "Neem", "B_hi": "नीम",
+    "C_en": "Peepal", "C_hi": "पीपल",
+    "D_en": "Ashoka", "D_hi": "आशोक",
+    "answer": "A",
+    "explanation_en": "The banyan tree is the official tree of Rajasthan, symbolizing strength and longevity.",
+    "explanation_hi": "बरगद वृक्ष राजस्थान का राज्य वृक्ष है, जो शक्ति और दीर्घायु का प्रतीक है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which region of Rajasthan is known as the Thar Desert?",
+    "question_hi": "राजस्थान के किस क्षेत्र को थार मरूभूमि के नाम से जाना जाता है?",
+    "A_en": "Marwar", "A_hi": "मारवाड़",
+    "B_en": "Mewar", "B_hi": "मेवाड़",
+    "C_en": "Shekhawati", "C_hi": "शेखावाटी",
+    "D_en": "Hadoti", "D_hi": "हड़कोटी",
+    "answer": "A",
+    "explanation_en": "Marwar region in western Rajasthan is famous for the Thar Desert, characterized by sandy plains and arid climate.",
+    "explanation_hi": "पश्चिमी राजस्थान का मारवाड़ क्षेत्र थार मरूभूमि के लिए प्रसिद्ध है, जिसमें रेतीले मैदान और शुष्क जलवायु है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which of the following is the state animal of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन सा जानवर राजस्थान का राज्य पशु है?",
+    "A_en": "Chinkara", "A_hi": "चींकारा",
+    "B_en": "Camel", "B_hi": "ऊंट",
+    "C_en": "Blue Bull", "C_hi": "नीला बैल",
+    "D_en": "Blackbuck", "D_hi": "काला बैल",
+    "answer": "A",
+    "explanation_en": "The chinkara (Indian gazelle) is the state animal of Rajasthan, found in desert regions.",
+    "explanation_hi": "चींकारा (भारतीय गजेला) राजस्थान का राज्य पशु है, जो मरुस्थलीय क्षेत्रों में पाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which lake is located in the city of Ajmer?",
+    "question_hi": "अजमेर शहर में कौन सा झील स्थित है?",
+    "A_en": "Anasagar", "A_hi": "अनासागर",
+    "B_en": "Pushkar", "B_hi": "पुष्कर",
+    "C_en": "Daulat sagar", "C_hi": "दौलत सागर",
+    "D_en": "Fateh Sagar", "D_hi": "फतेह सागर",
+    "answer": "A",
+    "explanation_en": "Anasagar Lake is situated in Ajmer, constructed in the 12th century by Maharaja Ajai Chand.",
+    "explanation_hi": "अनासागर झील अजमेर में स्थित है, जिसका निर्माण 12वीं शताब्दी में महाराजा अजय चंद द्वारा करवाया गया था।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which of the following is the highest peak in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन सी राजस्थान की सबसे ऊँची चोटी है?",
+    "A_en": "Mount Abu", "A_hi": "माउंट अबू",
+    "B_en": "Kumbhalgarh", "B_hi": "कुंभलगढ़",
+    "C_en": "Jaipur", "C_hi": "जयपुर",
+    "D_en": "Udaipur", "D_hi": "उदयपुर",
+    "answer": "A",
+    "explanation_en": "Mount Abu is the highest peak in Rajasthan, with Guru Shikhar being its highest point (1,722 m).",
+    "explanation_hi": "माउंट अबू राजस्थान की सबसे ऊँची चोटी है, जिसके शीर्ष गुरु शिखर 1,722 मीटर की ऊँचाई पर स्थित है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which river is the primary source of irrigation in Rajasthan?",
+    "question_hi": "राजस्थान में सिंचाई का मुख्य स्रोत कौन सी नदी है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Banas", "B_hi": "बनास",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Mahi", "D_hi": "माही",
+    "answer": "A",
+    "explanation_en": "The Chambal River provides major canals for irrigation in Rajasthan, including the Gandhi Sagar and Rana Pratap Sagar projects.",
+    "explanation_hi": "चंबल नदी राजस्थान में सिंचाई के लिए मुख्य स्रोत है, जिसमें गांधी सागर और राणा प्रताप सागर परियोजनाएं शामिल हैं।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which of the following is the state bird of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन सा पक्षी राजस्थान का राज्य पक्षी है?",
+    "A_en": "Laughing Dove", "A_hi": "हँसता कबूतर",
+    "B_en": "Peacock", "B_hi": "मोर",
+    "C_en": "Parrot", "C_hi": "गौरैया",
+    "D_en": "Pigeon", "D_hi": "कबूतर",
+    "answer": "A",
+    "explanation_en": "The laughing dove (Hooded Laughingthrush) is the state bird of Rajasthan, known for its unique call.",
+    "explanation_hi": "हँसता कबूतर (हुडेड लौफिंगथ्रश) राजस्थान का राज्य पक्षी है, जिसकी विशिष्ट आवाज के कारण पहचाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "",
+    "question_en": "Which river does not flow through Rajasthan?",
+    "question_hi": "राजस्थान से नहीं गुजरने वाली नदी कौन सी है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Banas", "B_hi": "बनास",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Godavari", "D_hi": "गोदावरी",
+    "answer": "D",
+    "explanation_en": "The Godavari River flows through southern India and does not pass through Rajasthan.",
+    "explanation_hi": "गोदावरी नदी दक्षिण भारत में प्रवाहित होती है और राजस्थान से नहीं गुजरती है।"
+  }
+]
