@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor ruled over Rajasthan during the Mughal rule?",
+"question_hi": "मुगल मार्ग में राजस्थान को सरकारींग किस सर्वोत्र कामयाबी में हुई?",
+"A_en": "Akbar",
+"A_hi": "अकबर",
+"B_en": "Aurangzeb",
+"B_hi": "अरोंगज",
+"C_en": "Shah Jahan",
+"C_hi": "शाह जाहां",
+"D_en": "Firangis",
+"D_hi": "फ़िरांगिस",
+"answer": "C",
+"explanation_en": "Shah Jahan was the emperor who ruled over Rajasthan during the Mughal reign. He is popularly known as the builder of the Taj Mahal.",
+"explanation_hi": "शाह जाहां राजस्थान में मुगल राज्य के में किस सर्वोत्र में हुए राजा की जानकारी हैं।",
+"explanation_hi": "शाह जाहां राजने को राजस्थान में चंगो के में राजा की जानकारी होती है।",
+"answer": "C",
+"question_en": "Which emperor ruled over Rajasthan during the reign of Chandragupta?",
+"question_hi": "चंद्रगुप्ति के राजने के वर्षीं में राजा की जानकारी होती है।",
+"question_hi": "चंद्रगुप्ति के वर्षीं में राजा की जानकारी होती है।",
+"options": [
+{
+"option_number": 1,
+"option_en": "Ashoka",
+"option_hi": "ाशोक",
+"answer": "D"
+},
+{
+"option_number": 2,
+"option_en": "Harsh Vardhan",
+"option_hi": "हर्ष वर्द्ध",
+"answer": "C"
+},
+{
+"option_number": 3,
+"option_en": "Kushalpal Singh",
+"option_hi": "कुशालपाल सिंग",
+"answer": "A"
+},
+{
+"option_number": 4,
+"option_en": "Bhim Singh",
+"option_hi": "बीम सिंग",
+"answer": "B"
+}
+]
+]
