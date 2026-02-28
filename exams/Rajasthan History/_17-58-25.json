@@ -1,0 +1,64 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic fort is associated with the story of Maharana Pratap?",
+"question_hi": "महारा��نعيمमूरा संगठित मुख्य संगठन का संबंधित क्या है?",
+"A_en": "Amber Fort", "A_hi": "अमरी भागल",
+"B_en": "Meena Bazar", "B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्बलगढ़ भागल",
+"D_en": "Jaipur", "D_hi": "जयपुर",
+"answer": "C",
+"explanation_en": "Kumbhalgarh Fort is associated with the story of Maharana Pratap as it is the stronghold where he fought the Battle of Haldighati against the Mughals.",
+"explanation_hi": "महाराणी प्रतिरोध के लिए, कुम्बलगढ़ भागल पैलिस्ट के लीने के लिए, मुगाल भगवान के लीने के लिए की निमी से समर्थ के लिए, प्रधान के लिए के लिए, मैं से सम्रात के लिए, ब्लाईट के लिए के सम्रात के लिए, सरणी के लिए के लिए, मार्ग के लिए, पति के लिए।",
+"B_hi": "डेनियों के लिए, संगती के लिए, पौड़ी के लिए, मलाल से लिए।",
+"options": [
+{
+"option_id": "1",
+"question_en": "Who is the founder of Jaisalmer?",
+"question_hi": "जयसालमेर के सभागियों के लिए, लोक के लिए, मलाल के लिए",
+"option_hi": [
+{
+"option_id": "1",
+"option_en": "Prince Samrat Jaisal Singh",
+"option_hi": "पैरिंग यूर",
+"answer": "1",
+"explanation_en": "Prince Samrat Jaisal Singh is considered the founder of Jaisalmer.",
+"explanation_hi": "पैरिंग यूर के लिए, लोक के लिए, मलाल के लिए",
+"option_images": ""
+},
+{
+"option_id": "2",
+"option_en": "King Pratap Singh",
+"option_hi": "किंग प्रताप सिंग",
+"answer": "2",
+"explanation_en": "King Pratap Singh is famous for his bravery but not considered its founder.",
+"explanation_hi": "किंग प्रताप सिंग की गुणामंद हैंग प्रताप सिंग के लिए, लोक के लिए, मालाल के लिए",
+"option_images": ""
+}
+],
+"difficulty_level": "Intermediate"
+},
+{
+"option_id": "3",
+"option_en": "Jaitsahi",
+"option_hi": "जैटसाही",
+"answer": "3",
+"explanation_en": "Jaitsahi is a legendary Rajput queen, not a founder of Jaipur.",
+"explanation_hi": "जैटसाही राजपुर के लिए, लोक के लिए, मालाल के लिए",
+"option_images": ""
+}
+],
+"difficulty_level": "Easy"
+},
+{
+"option_id": "4",
+"option_en": "Amber",
+"option_hi": "एमबर",
+"answer": "4",
+"explanation_en": "Amber Fort was built by Rana Jaisa Singhji, not its founder.",
+"explanation_hi": "अमबर के लिए, वर के लिए, एमबर के लिए",
+"option_images": ""
+}
+]
+]
