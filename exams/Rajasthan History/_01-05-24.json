@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Palaces and Forts",
+"question_en": "Which palace is known for its beautiful frescoes and intricate carvings?",
+"question_hi": "राजस्थान के नकदों और अलग करने वाले संगमरमाने के palace कौन से हैं ?",
+"A_en": "Amber Fort",
+"A_hi": "अम्बर फोट",
+"B_en": "Nahargarh Fort",
+"B_hi": "नहार्गार्ज़ु Fort",
+"C_en": "Rajmahal Palace",
+"C_hi": "राजमहाल Palace",
+"D_en": "Kumbhalgarh Fort",
+"D_hi": "कुम्भलगढ़ Fort",
+"answer": "B",
+"explanation_en": "Nahargarh Fort is known for its beautiful frescoes and intricate carvings.",
+"explanation_hi": "नहार्गार्ज़ु Fort के लिए हैं अच्छी फ्रेस और अलगी करने वाले स्टडीजी",
+}
+]
