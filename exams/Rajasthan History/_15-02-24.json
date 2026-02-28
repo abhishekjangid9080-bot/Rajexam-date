@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Monuments",
+"question_en": "Which historical monument is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा भवन है?",
+"A_en": "Amer Fort", "A_hi": "अमेर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Galta Temple", "C_hi": "गलता मंदिर",
+"D_en": "Central Museum", "D_hi": "केंद्रीय मूम",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a historical monument located in Jaipur, Rajasthan. It is a palace built with intricate lattice work and is a popular tourist attraction.",
+"explanation_hi": "हावा महाल जापान के राजस्थान में स्थित है। यह पाल का संस्थान के लिखनी का संस्थान की एक प्रमों में सर्वेंचरैंचर मानवकोंचर है।",
+"answer_id": "Hawa Mahal",
+"question_en": "Which historical monument is located in Jaipur?",
+"question_hi": "जापान कोंचा भवन है।",
+}
+]
