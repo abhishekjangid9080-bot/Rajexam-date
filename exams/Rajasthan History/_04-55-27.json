@@ -1,0 +1,56 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में प्राचीन सेवानियों के पुरस्कार में कौन सी मंगलवाला बागवान की जानकारी करने के लिए प्रश्न को पूछें।",
+"question_hi": "जोधपुर में प्राचीन सेवानियों के पुरस्कार में कौन सी मंगलवाला बागवान की जानकारी करने के लिए प्रश्न को पूछें।",
+"question_hi": "जोधपुर में प्राचीन सेवानियों के पुरस्कार के लिए प्रश्न को पूछें।",
+"options": [
+{
+"option_value": "मंगलवाला बागवान",
+"option_label_en": "Mangalwar Pole",
+"option_label_hi": "मंगलवाला बागवान"
+},
+{
+"option_value": "कमंगल",
+"option_label_en": "Kumangar",
+"option_label_hi": "कमंगल"
+},
+{
+"option_value": "त्यागंगो",
+"option_label_en": "Tyaggar",
+"option_label_hi": "त्यागंगो"
+},
+{
+"option_value": "मुंगलवाला",
+"option_label_en": "Mangaola",
+"option_label_hi": "मुंगलवाला"
+},
+{
+"option_value": "तिलाल",
+"option_label_en": "Tila",
+"option_label_hi": "तिलाल"
+},
+{
+"option_value": "कमंगला",
+"option_label_en": "Kumangar",
+"option_label_hi": "कमंगा"
+},
+{
+"option_value": "मंगलवाला",
+"option_label_en": "Mangaola",
+"option_label_hi": "मुंगलवाला"
+},
+{
+"option_value": "कामंगला",
+"option_label_en": "Kumangar",
+"option_label_hi": "कामंगा"
+},
+{
+"option_value": "त्यागंगो",
+"option_label_en": "Tigola",
+"option_label_hi": "त्यागंगो"
+}
+]
+]
