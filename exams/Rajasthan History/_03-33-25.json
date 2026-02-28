@@ -1,0 +1,33 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is NOT a capital of a Rajasthani state?",
+"question_hi": "सभी विभागों में कौन सी नहीं राजस्थानी राज्य के राजधानी है ?",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Alwar", "C_hi": "अल्वाड़",
+"D_en": "Jaisalmer", "D_hi": "जयसालमर",
+"answer": "A",
+"explanation_en": "Alwar is not the capital of any Rajasthani state.",
+"explanation_hi": "अल्वाड़ को राजस्थानी राज्य के राजधानी है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which fort was built by the Rajput ruler Khushal Singh of Bundi?",
+"question_hi": "बंदी के राजपूत के बारंगे प्राधीन को मुख्याल विभगवान से बनी है।",
+"A_en": "Khushal Singh of Bundi",
+"A_hi": "बंदी के राजपूत के बारंगे प्राधीन से बनी है।",
+"B_en": "Gosain Singh of Kishangarh",
+"B_hi": "किशांगे प्राधिकार से बनी है।",
+"C_en": "Kalchuri Singh of Karauli",
+"C_hi": "काल्चौरी सिंगे से बनी है।",
+"D_en": "Maan Singh of Sisodiya Rajput",
+"D_hi": "सिसोदीय राजपुतों से बनी है।",
+"answer": "A",
+"explanation_en": "Khushal Singh of Kishangarh was the ruler from whom the fort was built.",
+"explanation_hi": "खुशाल सिंगे से बनी है।",
+"explanation_hi": "खसाल सिंगे से बनियां से बनी है।",
+}
+]
