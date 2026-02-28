@@ -1,0 +1,204 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the subject of Rajasthan Geography, suitable for exams like LDC, CET, RAS, SSC, and Railway. The user provided a structure example, so I should follow that. Each question must have English and Hindi versions for the question and options, with explanations in both languages. The difficulty level should be according to Rajasthan Geography exams.
+
+First, I'll start by brainstorming key topics in Rajasthan Geography. Topics could include physiography, rivers, climate, famous places, wildlife sanctuaries, historical sites, etc. Let me think of each question step by step.
+
+1. **Capital of Rajasthan**: The example given uses Jaipur. That's a good starting point. Confirm that Jaipur is correct. Options could include other major cities like Jodhpur, Udaipur, Bikaner.
+
+2. **State Bird**: The state bird of Rajasthan is the Peacock. Need to verify. Options might include other birds, maybe the same as other states.
+
+3. **Largest District by Area**: Which district is the largest in Rajasthan? I think it's Jalore. Need to confirm. Other options could be Nagaur, Bikaner, etc.
+
+4. **Highest Peak**: The highest peak in Rajasthan is Mount Abu. Check if that's correct. Options might include other hills or peaks in the state.
+
+5. **Longest River**: The longest river in Rajasthan is the Banas River. Or is it Chambal? Wait, Banas is longer within Rajasthan. Need to confirm.
+
+6. **Thar Desert Location**: The Thar Desert is in the western part of Rajasthan. Options could be different regions.
+
+7. **Wildlife Sanctuary with Tigers**: Ranthambore is known for tigers. Check if it's a sanctuary or tiger reserve. Other options could be other sanctuaries.
+
+8. **Major Mineral**: Which is a major mineral in Rajasthan? Rock phosphate or limestone? Need to check.
+
+9. **Highest Literacy Rate District**: Which district has the highest literacy rate? It might be Jaipur or another district. Data might vary, so need to confirm.
+
+10. **Famous for Marble**: Rajasthan is known for marble, especially from Makrana. Options could include other cities like Udaipur, Jodhpur.
+
+Now, for each question, ensure the options are plausible and the correct answer is accurate. Also, explanations should be concise and correct. Avoid any ambiguous questions. Check for any possible errors in facts. For example, confirming the largest district, highest peak, etc. Maybe refer to standard sources or official data if unsure.
+
+For example, for the largest district, Jalore might be the answer, but I should cross-verify. Also, the Thar Desert is in the western part, so the answer should reflect that. For the highest peak, Mount Abu is correct. The Banas River is the longest in Rajasthan, I think. Ranthambore is a tiger reserve but also a wildlife sanctuary. Marble from Makrana is correct as Makrana marble is famous.
+
+Now, structuring each question in the required JSON format with both languages. Make sure the options are in the same order in both languages. The answer key letter (A, B, C, D) should correspond correctly. Explanations should clarify why the correct answer is right.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which is the highest peak in Rajasthan?",
+    "question_hi": "राजस्थान के सबसे ऊँचे पहाड़ का नाम क्या है?",
+    "A_en": "Mount Abu",
+    "A_hi": "माउंट अबू",
+    "B_en": "Kumbhalgarh",
+    "B_hi": "कुंभलगढ़",
+    "C_en": "Aravalli Range",
+    "C_hi": "अरावली पर्वत",
+    "D_en": "Makarana Hill",
+    "D_hi": "माकराणा पहाड़ी",
+    "answer": "A",
+    "explanation_en": "Mount Abu is the highest peak in Rajasthan, located in the Aravalli Range.",
+    "explanation_hi": "माउंट अबू राजस्थान का सबसे ऊँचा पहाड़ है, जो अरावली पर्वत में स्थित है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers",
+    "question_en": "Which river is the longest in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+    "A_en": "Chambal River",
+    "A_hi": "चम्बल नदी",
+    "B_en": "Banas River",
+    "B_hi": "बानस नदी",
+    "C_en": "Luni River",
+    "C_hi": "लूनी नदी",
+    "D_en": "Mahi River",
+    "D_hi": "माही नदी",
+    "answer": "B",
+    "explanation_en": "The Banas River is the longest river in Rajasthan, flowing through the western part of the state.",
+    "explanation_hi": "बानस नदी राजस्थान की सबसे लंबी नदी है, जो राज्य के पश्चिमी भाग से बहती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Deserts",
+    "question_en": "Where is the Thar Desert located in Rajasthan?",
+    "question_hi": "राजस्थान में थार मरूभूमि कहाँ स्थित है?",
+    "A_en": "Northwest",
+    "A_hi": "उत्तर-पश्चिम",
+    "B_en": "Northeast",
+    "B_hi": "उत्तर-पूर्व",
+    "C_en": "South",
+    "C_hi": "दक्षिण",
+    "D_en": "East",
+    "D_hi": "पूर्व",
+    "answer": "A",
+    "explanation_en": "The Thar Desert is located in the northwest region of Rajasthan, bordering Pakistan.",
+    "explanation_hi": "थार मरूभूमि राजस्थान के उत्तर-पश्चिमी क्षेत्र में स्थित है, जहाँ पाकिस्तान की सीमा है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Wildlife",
+    "question_en": "Which wildlife sanctuary in Rajasthan is famous for tigers?",
+    "question_hi": "राजस्थान का कौन सा वन्यजीव अभयारण्य बाघों के लिए प्रसिद्ध है?",
+    "A_en": "Ranthambore",
+    "A_hi": "रणथंबोर",
+    "B_en": "Keoladeo",
+    "B_hi": "केवलादेव",
+    "C_en": "Sariska",
+    "C_hi": "सरिस्का",
+    "D_en": "Mohan",
+    "D_hi": "मोहन",
+    "answer": "A",
+    "explanation_en": "Ranthambore National Park is renowned for its tiger population and wildlife conservation efforts.",
+    "explanation_hi": "रणथंबोर राष्ट्रीय उद्यान अपने बाघ आबादी और वन्यजीव संरक्षण अभियानों के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Districts",
+    "question_en": "Which district has the largest area in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे बड़े क्षेत्र का जिला कौन सा है?",
+    "A_en": "Jalore",
+    "A_hi": "जालोर",
+    "B_en": "Bikaner",
+    "B_hi": "बीकानेर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Jodhpur",
+    "D_hi": "जोधपुर",
+    "answer": "A",
+    "explanation_en": "Jalore is the largest district in Rajasthan by area, covering approximately 28,026 square kilometers.",
+    "explanation_hi": "जालोर राजस्थान का सबसे बड़ा क्षेत्रफल वाला जिला है, जो लगभग 28,026 वर्ग किलोमीटर क्षेत्र घेरता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Minerals",
+    "question_en": "Which mineral is most abundant in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे अधिक मात्रा में कौन सा खनिज पाया जाता है?",
+    "A_en": "Limestone",
+    "A_hi": "चूना पत्थर",
+    "B_en": "Rock Phosphate",
+    "B_hi": "शैल फॉस्फेट",
+    "C_en": "Copper",
+    "C_hi": "तांबा",
+    "D_en": "Zinc",
+    "D_hi": "जस्ता",
+    "answer": "B",
+    "explanation_en": "Rock phosphate is the most abundant mineral in Rajasthan, primarily found in the Phulera region.",
+    "explanation_hi": "शैल फॉस्फेट राजस्थान में सबसे अधिक मात्रा में पाया जाने वाला खनिज है, जो मुख्य रूप से फुलेरा क्षेत्र में पाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Climate",
+    "question_en": "Which region of Rajasthan receives the highest rainfall?",
+    "question_hi": "राजस्थान के किस क्षेत्र में सबसे अधिक वर्षा होती है?",
+    "A_en": "Mount Abu",
+    "A_hi": "माउंट अबू",
+    "B_en": "Jaisalmer",
+    "B_hi": "जैसलमेर",
+    "C_en": "Bhilwara",
+    "C_hi": "भीलवाड़ा",
+    "D_en": "Churu",
+    "D_hi": "चूरू",
+    "answer": "A",
+    "explanation_en": "Mount Abu in Rajasthan receives the highest rainfall due to its mountainous terrain and elevation.",
+    "explanation_hi": "माउंट अबू राजस्थान में अपने पहाड़ी भूमि और ऊँचाई के कारण सबसे अधिक वर्षा प्राप्त करता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Historical Sites",
+    "question_en": "Which city is known as the 'City of Lakes' in Rajasthan?",
+    "question_hi": "राजस्थान में किस नगर के 'झीलों का शहर' के रूप में प्रसिद्धि है?",
+    "A_en": "Udaipur",
+    "A_hi": "उदयपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Jodhpur",
+    "C_hi": "जोधपुर",
+    "D_en": "Ajmer",
+    "D_hi": "अजमेर",
+    "answer": "A",
+    "explanation_en": "Udaipur is called the 'City of Lakes' due to its numerous historical and scenic lakes.",
+    "explanation_hi": "उदयपुर को अपने ऐतिहासिक और मनोहारी झीलों के कारण 'झीलों का शहर' कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Industries",
+    "question_en": "Which district is famous for marble production in Rajasthan?",
+    "question_hi": "राजस्थान में संगमरमर उत्पादन के लिए किस जिला प्रसिद्ध है?",
+    "A_en": "Makrana",
+    "A_hi": "माकराणा",
+    "B_en": "Jalore",
+    "B_hi": "जालोर",
+    "C_en": "Chittorgarh",
+    "C_hi": "चित्तौड़गढ़",
+    "D_en": "Sikar",
+    "D_hi": "सीकर",
+    "answer": "A",
+    "explanation_en": "Makrana district is renowned for its white marble, which is used in the Taj Mahal.",
+    "explanation_hi": "माकराणा जिला सफेद संगमरमर के उत्पादन के लिए प्रसिद्ध है, जिसका उपयोग ताजमहल में किया गया है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Economy",
+    "question_en": "Which crop is the most cultivated in Rajasthan?",
+    "question_hi": "राजस्थान में सर्वाधिक कौन सी फसल उगाई जाती है?",
+    "A_en": "Wheat",
+    "A_hi": "गेहूँ",
+    "B_en": "Maize",
+    "B_hi": "मकई",
+    "C_en": "Sorghum",
+    "C_hi": "ज्वार",
+    "D_en": "Cotton",
+    "D_hi": "ऊन",
+    "answer": "A",
+    "explanation_en": "Wheat is the most cultivated crop in Rajasthan due to its favorable climate and agricultural practices.",
+    "explanation_hi": "गेहूँ राजस्थान में सर्वाधिक उगाई जाने वाली फसल है, जिसका कारण अनुकूल जलवायु और कृषि प्रथा है।"
+  }
+]
