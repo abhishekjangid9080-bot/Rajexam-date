@@ -1,0 +1,107 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Founding Kings",
+"question_en": "Which of the following Rajasthani kings established the city of Jaipur?",
+"question_hi": "राजस्थान के हिंदू राजधानी उत्तर प्रदेश में स्वैधानिका के लिए कां राजधानी गतिविद्या किए गए ?",
+"options_en": [
+{
+"option_text": "Prithviraj Chauhan",
+"option_value": "Prithviraj Chauhan",
+"option_explain_en": "Prithviraj Chauhan was a famous Rajput king who established the city of Jaipur in the 14th century."
+},
+{
+"option_text": "Jai Singh",
+"option_value": "Jai Singh",
+"option_explain_en": "Jai Singh II was a Mughal general who later became a Rajput king and founded Jaipur in 1727."
+},
+{
+"option_text": "Rana Kumbha",
+"option_value": "Rana Kumbha",
+"option_explain_en": "Rana Kumbha was a Hindu Rajput king who played a significant role in the construction of Amer Fort and may have been involved in the establishment of Jaipur."
+},
+{
+"option_text": "Maharaja Sawai Man Singh I",
+"option_value": "Maharaja Sawai Man Singh I",
+"option_explain_en": "Maharaja Sawai Man Singh I was a Rajput king who ruled Jaipur and played a crucial role in its development."
+},
+{
+"option_text": "Vikramaditya II",
+"option_value": "Vikramaditya II",
+"option_explain_en": "Vikramaditya II was a Hindu king who ruled Jaipur during his reign and contributed to its growth."
+}
+],
+"answer_en": "Jai Singh",
+"answer_hi": "जैसिंग",
+"answer_explain_en": "Jai Singh II was a Mughal general who later became a Rajput king and founded Jaipur in 1727."
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Culture",
+"options_en": [
+{
+"option_text": "Chandela Dynasty",
+"option_value": "Chandela Dynasty",
+"option_explain_en": "The Chandela Dynasty was influential in developing Rajasthani art, music, and architecture."
+},
+{
+"option_text": "Rathore Dynasty",
+"option_value": "Rathore Dynasty",
+"option_explain_en": "The Rathore Dynasty is famous for its contribution to Rajasthani culture through art, literature, and warfare."
+},
+{
+"option_text": "Thar Desert",
+"option_value": "Thar Desert",
+"option_explain_en": "The Thar Desert, located in Rajasthan, is known for its arid climate and nomadic lifestyle."
+},
+{
+"option_text": "Rao Jodhaji",
+"option_value": "Rao Jodhaji",
+"option_explain_en": "Rao Jodhaji is a historical figure associated with the establishment and development of Kishangarh Fort."
+},
+{
+"option_text": "Mewar",
+"option_value": "Mewar",
+"option_explain_en": "Mewar is a region in Rajasthan that has played a significant role in Rajasthani history, art, and culture."
+}
+],
+"answer_en": "Rathore Dynasty",
+"answer_hi": "राधोकांग",
+"answer_explain_en": "The Rathore Dynasty, founded by Rao Jodha, played a crucial role in shaping Rajasthani culture through art, literature, and warfare."
+}
+],
+{
+"subject": "Rajasthani Cuisine",
+"topic": "Local Festivals",
+"options_en": [
+{
+"option_text": "Gangaur",
+"option_value": "Gangaur",
+"option_explain_en": "Gangaur is a popular Rajasthani festival that celebrates the worship of Goddess Gangaur and is celebrated in many parts of Rajasthan."
+},
+{
+"option_text": "Teej",
+"option_value": "Teej",
+"option_explain_en": "Teej is another Rajasthani festival that celebrates the Hindu trinity of Lord Shiva, Goddess Parvati, and Lord Hanuman."
+},
+{
+"option_text": "Kite Festival",
+"option_value": "Kite Festival",
+"option_explain_en": "The Kite Festival, also known as Udaiyani Ekraj, is a unique Rajasthani celebration that takes place every year on Makar Sankranti."
+},
+{
+"option_text": "Rajasthani Cuisine",
+"option_value": "Rajasthani Cuisine",
+"option_explain_en": "Rajasthani cuisine is known for its spicy dishes like laal maas, gatte ki rabri, and mawa ka kachori."
+},
+{
+"option_text": "Jaipur Festival",
+"option_value": "Jaipur Festival",
+"option_explain_en": "The Jaipur Festival is an annual event showcasing the rich culture and traditions of Rajasthan, with events like folk dances, puppet shows, and traditional crafts."
+}
+],
+"answer_en": "Kite Festival",
+"answer_hi": "कीट फेस्माता विशीयाटा नार्थियाटा",
+"answer_hi_explain": "The Kite Festival, also known as Udaiyani Ekraj, is a unique celebration of Rajasthani culture and showcases the art of kite flying in Rajasthan."
+}
+]
