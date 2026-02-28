@@ -1,0 +1,22 @@
+[
+{
+"subject": "Economy",
+"topic": "Government Policies and Programmes",
+"question_en": "Which of the following is NOT a part of the National Rural Employment Guarantee Act?",
+"question_hi": "नेशनल उत्तराधिकारी का मामला में कौन से नहीं होने वाला नेशनल योजना है?",
+"A_en": "National Rural Employment Guarantee Programme",
+"A_hi": "नेशनल उत्तराधिकारी परिक्षण",
+"B_en": "कॉमोर्ड समिति",
+"B_hi": "कॉमोर्ड समिति",
+"C_en": "Industrial Policy",
+"C_hi": "इंडियन प्रयोग काम",
+"D_en": "National Small Industries Corporation",
+"D_hi": "नागरीय उत्पादन काम",
+"answer": "C",
+"explanation_en": "The National Small Industries Corporation is not a part of the National Rural Employment Guarantee Scheme.",
+"explanation_hi": "नागरीय उत्पादन काम निवेशन काम नहीं नागरीय उत्पादन काम निवेशन काम नहीं",
+"D",
+"explanation_hi": "नागरीय उत्पादन काम निवेशन काम नहीं",
+"explanation_en": "The National Small Industries Corporation is not a part of the National Rural Employment Guarantee Scheme."
+}
+]
