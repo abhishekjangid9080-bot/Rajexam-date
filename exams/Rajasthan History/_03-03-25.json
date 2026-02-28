@@ -1,0 +1,60 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical fort is situated in Udaipur?",
+"question_hi": "उदयपुर में किस भूमिका पहल है?",
+"A_en": "Fateh Prakash Palace",
+"A_hi": "फतीहां प्रकाश",
+"B_en": "Monsoon Palace",
+"B_hi": "मौसम पहल",
+"C_en": "Saheliyon ki Bari",
+"C_hi": "सैलीयों की बड़ी",
+"D_en": "Lal Garh Fort",
+"D_hi": "लाल गढ़",
+"answer": "D",
+"explanation_en": "Lal Garh Fort is the historical fort situated in Udaipur. Fateh Prakash Palace, Monsoon Palace, and Saheliyon ki Bari are also important landmarks in Udaipur but Lal Garh Fort is the historical fort.",
+"explanation_hi": "उदयपुर में लाल गढ़ है, यह भूमिका पहल है। तत्त्वजनों की बड़ी, फ़तह पल्किता समाज, और साहिताएं की बड़ी भी महिलाएं की बड़ी समाज के मैंज़ी महाला, पल्किताएं की बड़ी समाज, और सहायताएं की बड़ी समाज भी भाग है।",
+"question_hi": "राजस्थान के संवताएं की बड़ी महाला समाज, यह भी मौहर महाला समाज भी भाग है।",
+"options": [
+{
+"option_value": "LDC",
+"option_label_hi": "LDC",
+"option_label_en": "LDC",
+"option_explain_hi": "इसे लीडियान के।",
+"option_explain_en": "LDC is a clerical position in LDC department in Rajasthan. It is not a part of the Maharaja's palace complex.",
+"option_label_hi_alt": "राजा के महाला की भाग है।",
+"option_label_en_alt": "The Maharaja's palace complex has a part dedicated to LDC.",
+"answer_index": 1
+},
+{
+"option_value": "Maharaja's Palace",
+"option_label_hi": "महाराज़ा",
+"option_label_en": "The Maharaja's Palace",
+"option_explain_hi": "राजा के एक भाग है।",
+"option_explain_en": "Maharaja's Palace is a part of the Maharaja's palace complex.",
+"option_label_hi_alt": "राजा की महाला की भाग",
+"option_label_en_alt": "The Maharaja's palace complex has a part dedicated to Maharaja's Palace.",
+"answer_index": 0
+},
+{
+"option_value": "LDC",
+"option_label_hi": "लीडियान",
+"option_label_en": "LDC",
+"option_explain_hi": "इसे लीडियान के भाग है।",
+"option_explain_en": "LDC is a part of the LDC department.",
+"option_label_hi_alt": "राजा की समान भाग",
+"option_label_en_alt": "The LDC department has a part dedicated to Maharaja's name.",
+"answer_index": 2
+},
+{
+"option_value": "Jaipur",
+"option_label_hi": "जयपुर",
+"option_label_en": "Jaipur",
+"option_explain_hi": "जयपुर के भाग है।",
+"option_explain_en": "Jaipur is a city in Rajasthan and not a part of any department or palace complex.",
+"option_label_hi_alt": "जयपुर द्वाद भाग",
+"option_label_en_alt": "Jaipur belongs to Rajasthan province and not related to any department or palace.",
+"answer_index": 3
+}
+]
