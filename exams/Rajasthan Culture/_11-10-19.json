@@ -1,0 +1,153 @@
+<think>
+Okay, let's tackle this query. The user wants 10 high-quality MCQs on Rajasthan Culture for various exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style. The JSON format is strict, so I need to make sure each question includes all required fields. 
+
+First, I need to identify the topics within Rajasthan Culture. Possible topics could be traditional music, dance, festivals, folk art, famous personalities, historical figures, local customs, architecture, etc. Since the topic is empty in the example, maybe each question can cover different aspects.
+
+I should start by brainstorming key elements of Rajasthan's culture. For example, Ghoomar dance, Kalbeliya, Chhota Udaipur's stone statues, Marwar music, etc. Also, important festivals like Teej, Gangaur, and Holi with colors in Rajasthan. Folk tales like Pabuji Ki and Devi Sati's stories.
+
+Next, for each question, I need to create a clear question in both languages. Options should be in both Hindi and English. The correct answer and explanations in both languages are necessary. The difficulty level should match Rajasthan state exams, so questions shouldn't be too obscure but require some knowledge beyond general awareness.
+
+Let me think of the first question. Maybe about the traditional dance of Rajasthan. Ghoomar is a well-known one. So the question could be "Which traditional dance is associated with Rajasthan?" with options like Ghoomar, Kathak, Bhangra, etc. Answer is A for Ghoomar.
+
+Second question could be on a famous festival. Gangaur is a major festival in Rajasthan. So the question might be "Which festival is celebrated in Rajasthan to honor the goddess Gauri?" with options like Gangaur, Holi, Dussehra, etc. Answer is A again.
+
+Third question could be about a folk art form. Pachhai is a famous folk painting from Rajasthan. The question could be "Which of the following is a traditional folk painting style of Rajasthan?" with options like Pachhai, Madhubani, Warli, etc. Answer is A.
+
+Fourth question might be about a traditional musical instrument. Sitar is not Rajasthani; it's more from North India. Maybe Bansuri? Or maybe the correct instrument is Sural Hathi or another. Wait, Rajasthani folk music uses instruments like the dholak, been, and manjira. But the question needs to be about a specific instrument. Let me check. The Sarangi is used in Rajasthani music. So the question could be "Which traditional musical instrument is commonly used in Rajasthani folk music?" with options like Sarangi, Sitar, Flute, etc. Answer is A.
+
+Fifth question on a famous folk tale. Pabuji Ki is a popular folk tale. So the question could be "Which folk tale is associated with the Rajasthan region?" with options like Pabuji Ki, Ramayana, Mahabharata, etc. Answer is A.
+
+Sixth question could be about a specific dance form. Kalbeliya is a dance form from Rajasthan, performed by the Kalbeliya community. The question: "Which dance form is traditionally performed by the Kalbeliya community in Rajasthan?" Options: Kalbeliya, Kathak, Bhangra, etc. Answer is A.
+
+Seventh question about a traditional craft. Blue pottery is a traditional craft of Rajasthan. The question: "Which traditional craft is known as 'Blue Pottery' and is native to Rajasthan?" Options: Blue Pottery, Pottery, Woodwork, etc. Answer is A.
+
+Eighth question on a famous festival's timing. Teej is celebrated during the monsoon season. So the question: "In which season is the festival of Teej celebrated in Rajasthan?" Options: Summer, Monsoon, Winter, etc. Answer is B.
+
+Ninth question about a famous dance by women. Ghoomar is performed by women, so the question: "Which traditional dance is predominantly performed by women in Rajasthan?" Options: Ghoomar, Kathak, etc. Answer is A.
+
+Tenth question on a famous folk singer. Ghulam Ali is a renowned folk singer from Rajasthan. The question: "Who is a famous Rajasthani folk singer known for his ghazal singing?" Options: Ghulam Ali, etc. Answer is A.
+
+Now, I need to structure each of these into the JSON format. Ensure that each question has the correct structure with all fields. Check for any errors in the options and explanations. Make sure the explanations are concise and accurate. Also, verify the translations between Hindi and English to avoid any discrepancies. Once that's done, compile all 10 questions into the required JSON array.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Dances",
+        "question_en": "Which traditional dance is associated with Rajasthan?",
+        "question_hi": "राजस्थान से संबंधित पारंपरिक नृत्य कौन-सा है?",
+        "A_en": "Ghoomar", "A_hi": "घूमर",
+        "B_en": "Kathak", "B_hi": "कथक",
+        "C_en": "Bhangra", "C_hi": "भंगड़ा",
+        "D_en": "Kuchipudi", "D_hi": "कुचिपुड़ी",
+        "answer": "A",
+        "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan, performed by women.",
+        "explanation_hi": "घूमर राजस्थान का एक पारंपरिक लोक नृत्य है, जिसे महिलाएं प्रदर्शित करती हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+        "question_hi": "राजस्थान में देवी गौरी के सम्मान में कौन-सा त्योहार मनाया जाता है?",
+        "A_en": "Gangaur", "A_hi": "गंगौर",
+        "B_en": "Holi", "B_hi": "होली",
+        "C_en": "Diwali", "C_hi": "दिवाली",
+        "D_en": "Dussehra", "D_hi": "दसहरा",
+        "answer": "A",
+        "explanation_en": "Gangaur is a festival celebrated in Rajasthan to honor Goddess Gauri, associated with marital harmony.",
+        "explanation_hi": "गंगौर राजस्थान में देवी गौरी के सम्मान में मनाया जाने वाला एक त्योहार है, जो वैवाहिक एकता से संबंधित है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Art",
+        "question_en": "Which of the following is a traditional folk painting style of Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन-सा राजस्थान का एक पारंपरिक लोक चित्रकला शैली है?",
+        "A_en": "Pachhai", "A_hi": "पच्चाई",
+        "B_en": "Madhubani", "B_hi": "मधुबनी",
+        "C_en": "Warli", "C_hi": "वर्ली",
+        "D_en": "Kalamkari", "D_hi": "कलमकारी",
+        "answer": "A",
+        "explanation_en": "Pachhai is a traditional folk painting style of Rajasthan, often depicting scenes from nature and daily life.",
+        "explanation_hi": "पच्चाई राजस्थान की एक पारंपरिक लोक चित्रकला शैली है, जो प्रकृति और दिन-प्रतिदिन के जीवन के दृश्यों का चित्रण करती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Music",
+        "question_en": "Which traditional musical instrument is commonly used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोकगीतों में आमतौर पर कौन-सा पारंपरिक संगीत वाद्य यंत्र उपयोग में लाया जाता है?",
+        "A_en": "Sarangi", "A_hi": "सरंगी",
+        "B_en": "Sitar", "B_hi": "सितार",
+        "C_en": "Flute", "C_hi": "बांसुरी",
+        "D_en": "Tabla", "D_hi": "तबला",
+        "answer": "A",
+        "explanation_en": "Sarangi is a traditional musical instrument widely used in Rajasthani folk music.",
+        "explanation_hi": "सरंगी राजस्थानी लोकगीतों में व्यापक रूप से उपयोग किया जाने वाला पारंपरिक संगीत वाद्य यंत्र है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Tales",
+        "question_en": "Which folk tale is associated with the Rajasthan region?",
+        "question_hi": "राजस्थान क्षेत्र से संबंधित कौन-सी लोककथा है?",
+        "A_en": "Pabuji Ki", "A_hi": "पबूजी की",
+        "B_en": "Ramayana", "B_hi": "रामायण",
+        "C_en": "Mahabharata", "C_hi": "महाभारत",
+        "D_en": "Panchatantra", "D_hi": "पंचतंत्र",
+        "answer": "A",
+        "explanation_en": "Pabuji Ki is a popular Rajasthani folk tale centered around the life of a legendary figure, Pabuji.",
+        "explanation_hi": "पबूजी की राजस्थानी लोककथाओं में एक लोकप्रिय है, जो एक प्रसिद्ध पात्र पबूजी के जीवन पर केंद्रित है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Dances",
+        "question_en": "Which dance form is traditionally performed by the Kalbeliya community in Rajasthan?",
+        "question_hi": "राजस्थान में कलबेलिया समुदाय द्वारा परंपरागत रूप से कौन-सा नृत्य रूप कार्य किया जाता है?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Kathak", "B_hi": "कथक",
+        "C_en": "Bhangra", "C_hi": "भंगड़ा",
+        "D_en": "Kuchipudi", "D_hi": "कुचिपुड़ी",
+        "answer": "A",
+        "explanation_en": "Kalbeliya is a traditional dance form performed by the Kalbeliya community in Rajasthan, often linked to serpent worship.",
+        "explanation_hi": "कलबेलिया राजस्थान में कलबेलिया समुदाय द्वारा प्रदर्शित एक परंपरागत नृत्य रूप है, जो कभी-कभी सर्प पूजा से जुड़ा रहता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Crafts",
+        "question_en": "Which traditional craft is known as 'Blue Pottery' and is native to Rajasthan?",
+        "question_hi": "कौन-सी पारंपरिक शिल्पकला 'ब्लू पोटरी' के रूप में जानी जाती है और राजस्थान की घरेलू है?",
+        "A_en": "Blue Pottery", "A_hi": "ब्लू पोटरी",
+        "B_en": "Pottery", "B_hi": "मिट्टी के बरतन",
+        "C_en": "Woodwork", "C_hi": "लकड़ी की शिल्पकला",
+        "D_en": "Textile", "D_hi": "बुनाई",
+        "answer": "A",
+        "explanation_en": "Blue Pottery is a traditional craft of Rajasthan, characterized by its vibrant blue glaze and intricate designs.",
+        "explanation_hi": "ब्लू पोटरी राजस्थान की एक पारंपरिक शिल्पकला है, जिसमें जीवंत नीले रंग के लेप और जटिल डिज़ाइन होते हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "In which season is the festival of Teej celebrated in Rajasthan?",
+        "question_hi": "राजस्थान में तीज का त्योहार किस मौसम में मनाया जाता है?",
+        "A_en": "Summer", "A_hi": "गर्मी",
+        "B_en": "Monsoon", "B_hi": "मानसून",
+        "C_en": "Winter", "C_hi": "सर्दी",
+        "D_en": "Spring", "D_hi": "वसंत",
+        "answer": "B",
+        "explanation_en": "Teej is a festival celebrated during the monsoon season in Rajasthan, dedicated to the worship of Goddess Parvati.",
+        "explanation_hi": "तीज का त्योहार राजस्थान में मानसून मौसम में मनाया जाता है, जो देवी पार्वती की पूजा के लिए होता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Dances",
+        "question_en": "Which traditional dance is predominantly performed by women in Rajasthan?",
+        "question_hi": "राजस्थान में मुख्य रूप से महिलाओं द्वारा प्रदर्शित कौन-सा पारंपरिक नृत्य किया जाता है?",
+        "A_en": "Ghoomar", "A_hi": "घूमर",
+        "B_en": "Kathak", "B_hi": "कथक",
+        "C_en": "Bhangra", "C_hi": "भंगड़ा",
+        "D_en": "Kuchipudi", "D_hi": "कुचिपुड़ी",
+        "answer": "A",
+        "explanation_en": "Ghoomar is a traditional dance form of Rajasthan, predominantly performed by women during festivals.",
+        "explanation_hi": "घूमर राजस्थान का एक परंपरागत नृत्य रूप है, जिसे त्योहारों के दौरान महिलाएं मुख्य रूप से प्रदर्शित करती हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic
