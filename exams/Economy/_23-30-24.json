@@ -1,0 +1,29 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP at Current Prices",
+"question_en": "What is the Gross Domestic Product (GDP) of Rajasthan in 2020 at Current Prices?",
+"question_hi": "2020 में राजस्थान में वर्षीय विकीय प्रमाण क्या था?",
+"A_en": "Rs. 104,000 crore",
+"A_hi": "104,000 करोड़",
+"B_en": "Rs. 94,000 crore",
+"B_hi": "94,000 करोड़",
+"C_en": "Rs. 120,000 crore",
+"C_hi": "120,000 करोड़",
+"D_en": "Rs. 86,000 crore",
+"D_hi": "86,000 करोड़",
+"answer": "A",
+"explanation_en": "The Gross Domestic Product (GDP) of Rajasthan in 2020 at Current Prices was Rs. 104,000 crore.",
+"explanation_hi": "राजस्थान के वर्षीय प्रमाण किसीना के 2020 में Current Prices में समाधिकरण की मान क्या थी? ।\n" +
+"\n" +
+"A - Rs. 104,000 crore\n" +
+"B - Rs. 94,000 crore\n" +
+"C - Rs. 120,000 crore\n" +
+"D - Rs. 86,000 crore",
+"explanation_hi": "राजस्थान के वर्षीय प्रमाणीय मान क्या थी?\n" +
+"\n" +
+"A - Rs. 104,000 crore\n" +
+"B - Rs. 94,000 crore\n" +
+"C - Rs. 120,000 crore\n" +
+"D - Rs. 86,000 crore"
+}
