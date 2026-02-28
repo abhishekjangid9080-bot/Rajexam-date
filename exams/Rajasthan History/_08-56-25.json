@@ -1,0 +1,48 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which royal family was associated with the establishment of the city of Jaipur?",
+"question_hi": "जयपुर के नेताओं ने किस नेताओं का संबंधित संस्करण विभाग में बात करें।",
+"A_en": "King Ram Singh II",
+"A_hi": "राम सिंह श्रेणी के बार्मिंग",
+"B_en": "King Man Singh I",
+"B_hi": "मंगलवाल सिंह श्रेणी के बार्मिंग",
+"C_en": "Rajput Rajas",
+"C_hi": "राज्यपालकों",
+"D_en": "Mughal Emperor Akbar",
+"D_hi": "मुगल मुखपाल",
+"answer": "B",
+"explanation_en": "King Man Singh I, also known as Akbar the Great, is credited with the establishment of Jaipur, which is also called the Pink City. King Ram Singh II belongs to the Rampur Rajputs. Rajput Rajas refers to the Rajput clans who have ruled Rajasthan over the years.\n\nमुगल मुखपाल में निर्माण किसी किसी से जोड़ने के लिए जापान, जिसे भी क़रीना के नाम पर रखा गया है। राजपाणी के राजा को जापान कहा गया है, जिसे किसे के नाम पर सिखा गया है।",
+"question_hi": "जापान को राजपाणी को जापान किसे के नाम पर सिखा गया है, जो मैंस्टैर मैंस्टाइर में के राजपाणी को सिखा गया है।",
+"answer": "B",
+"options": [
+{
+"option_id": "1",
+"option_hi": "मैंस्टाइर मैंस्टाइर में राजपाणी",
+"option_en": "Mansatir Mansastir mein Rajapani",
+"option_explanation_hi": "मैंस्टाइर मैंस्टाइर mein Rajapani ka yeh adhikar hai ki yahांस्टाइर मैंस्टाइर mein Rajapani",
+"option_explanation_en": "The authority to rule Rajapani belongs to Mansatir Mansastir in which Mansatir Mansastir mein Rajapani ka yeh adhikar hai ki yahांस्टाइर मैंस्टाइर mein Rajapani",
+},
+{
+"option_id": "2",
+"option_hi": "मैंस्टाइर मैंस्टाइर mein Rajapani ka yeh adhikar hai ki yahा।",
+"option_en": "The authority to rule Rajapani belongs to Mantir Mantir in which Mantir Mantir mein Rajapani ka yeh adhikar hai ki yahा।",
+"option_explanation_hi": "मैंटिर मांटिर mein Rajapani ka yeh adhikar hai ki yahā।",
+"option_explanation_en": "Mantir Mantir in which Mantir Mantir mein Rajapani ka yeh adhikar hai ki yahā।",
+},
+{
+"option_id": "3",
+"option_hi": "मंदों मंदों mein Rajapani ka yeh adhikar hai ki yahा।",
+"option_en": "Mandon Mandon mein Rajapani ka yeh adhikar hai ki yahā।",
+"option_explanation_hi": "मांदों mein Rajapani ka yeh adhikar hai ki yahā।",
+"option_explanation_en": "Mandon Mandon in which Mandon mein Rajapani ka yeh adhikar hai ki yahā।",
+},
+{
+"option_id": "4",
+"option_hi": "मंदों मंदों mein Rajapani ka yeh adhikar hai ki yahा।",
+"option_en": "Mandon Mandon mein Rajapani ka yeh adhikar hai ki yahā।",
+"option_explanation_hi": "मांदों mein Rajapani ka yeh adhikar hai ki yahā।",
+"option_explanation_en": "Mandon Mandon in which Mandon mein Rajapani ka yeh adhikar hai ki yahā।",
+}
+]
