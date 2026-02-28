@@ -1,0 +1,166 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Geography for exams like LDC, CET, RAS, SSC, and Railway. The instructions are clear: each question needs to be in both Hindi and English, with options in both languages, and explanations too. The format has to be strict JSON structure as per the example provided.
+
+First, I need to brainstorm topics under Rajasthan Geography. Possible areas could be rivers, districts, minerals, tourist places, historical facts, etc. Since the difficulty level should match Rajasthan exams, the questions shouldn't be too simple but also not overly complex. They should test knowledge that's relevant to the state.
+
+Let me start with the first question. The example given is about the capital, which is straightforward. But I need to avoid repeating that. Maybe next on the list is rivers. The Chambal River is significant in Rajasthan. So a question about which river flows through Rajasthan and its tributaries. For example, the Chambal is a tributary of the Yamuna. That could be a good question.
+
+Another topic could be the districts. Rajasthan has 80 districts now, but maybe the user is looking for a historical count. Wait, I need to verify the current number. Let me check: as of 2023, Rajasthan has 80 districts. So a question asking for the number of districts, with options close to it. But maybe the question is outdated if exams are using older data. Hmm, better to check recent sources. Let's say the answer is 80, but some options might be 78 or 85. Need to make sure.
+
+Minerals in Rajasthan: Rajasthan is a major producer of marble. So a question on which mineral is found in abundance. Options could include gypsum, marble, limestone, etc. The answer would be marble, as it's famous for marble production.
+
+Tourist attractions: Jaipur is known for the Hawa Mahal. So a question asking where the Hawa Mahal is located. Options could be Jaipur, Udaipur, Jodhpur, etc. The answer is Jaipur.
+
+Historical facts: Which ruler founded Chittorgarh Fort? The answer is Rana Ratan Singh. Need to confirm the correct ruler for that. Alternatively, maybe the founder of a different fort. Need to verify historical facts.
+
+Agriculture: Which crop is the main crop in Rajasthan? The answer could be wheat, as it's a major crop there. Other options like rice, millet, cotton. But I think wheat is the primary one.
+
+Wildlife: Which national park is located in Rajasthan? Keoladeo National Park in Bharatpur. So the question would be about which national park is there, with options.
+
+Rajasthan's geography also includes the Thar Desert. So a question on which desert is in Rajasthan. Options could be Thar, Thar Desert, Kutch, etc.
+
+Another topic could be the longest river in Rajasthan. The Banas River is the longest, but I need to confirm. Wait, actually, the Chambal flows into the Yamuna and is longer than Banas. Wait, maybe the Banas is longer within Rajasthan. Let me check: Chambal's length in Rajasthan is about 340 km, Banas is 600 km. So Banas is longer. So the question would be about the longest river in Rajasthan.
+
+Cultural aspects: Which festival is not celebrated in Rajasthan? Holi is celebrated, Diwali, Gangaur, and maybe something else like Bihu, which is from Assam. So Bihu would be the odd one out.
+
+Now, I need to ensure each question has four options, with the correct one marked. Also, explanations in both languages. Need to be careful with the order of options (A, B, C, D) and the answer letter.
+
+Let me start drafting each question step by step, making sure the information is accurate and the difficulty level is appropriate for the exams mentioned. Also, check for any possible errors in facts. For example, confirming which district has the highest population. According to recent data, Jaipur is the most populous district. So the question on that would have Jaipur as the answer.
+
+Another question could be about the highest peak in Rajasthan. The answer is Guru Shikhar in Mount Abu. So the question would be about the highest peak, with options including other mountains.
+
+Each question needs to be distinct and cover different aspects of Rajasthan's geography to ensure a comprehensive set for the exams.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers and Drainage",
+    "question_en": "Which river is considered the lifeline of Rajasthan and is a tributary of the Yamuna?",
+    "question_hi": "राजस्थान के जीवनरेखा और यमुना की एक सहायक नदी कौन सी है?",
+    "A_en": "Chambal", "A_hi": "चम्बल",
+    "B_en": "Banas", "B_hi": "बानस",
+    "C_en": "Mahi", "C_hi": "माही",
+    "D_en": "Luni", "D_hi": "लूनी",
+    "answer": "A",
+    "explanation_en": "The Chambal River is crucial for agriculture and is a major tributary of the Yamuna.",
+    "explanation_hi": "चम्बल नदी कृषि के लिए महत्वपूर्ण है और यमुना की एक प्रमुख सहायक नदी है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Districts and Administration",
+    "question_en": "How many districts does Rajasthan currently have?",
+    "question_hi": "राजस्थान में वर्तमान में कितने जिले हैं?",
+    "A_en": "78", "A_hi": "78",
+    "B_en": "80", "B_hi": "80",
+    "C_en": "82", "C_hi": "82",
+    "D_en": "85", "D_hi": "85",
+    "answer": "B",
+    "explanation_en": "Rajasthan was divided into 80 districts in 2023.",
+    "explanation_hi": "2023 में राजस्थान को 80 जिलों में विभाजित कर दिया गया था।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Minerals and Resources",
+    "question_en": "Which mineral is Rajasthan most famous for?",
+    "question_hi": "राजस्थान किस खनिज के लिए सबसे अधिक प्रसिद्ध है?",
+    "A_en": "Gypsum", "A_hi": "जिप्सम",
+    "B_en": "Marble", "B_hi": "मार्बल",
+    "C_en": "Lignite", "C_hi": "लिग्नाइट",
+    "D_en": "Salt", "D_hi": "नमक",
+    "answer": "B",
+    "explanation_en": "Rajasthan is the largest producer of marble in India.",
+    "explanation_hi": "राजस्थान भारत में मार्बल के सबसे बड़े उत्पादक हैं।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Tourist Attractions",
+    "question_en": "Where is the famous Hawa Mahal located?",
+    "question_hi": "प्रसिद्ध हवा महल कहाँ स्थित है?",
+    "A_en": "Udaipur", "A_hi": "उदयपुर",
+    "B_en": "Jaipur", "B_hi": "जयपुर",
+    "C_en": "Jodhpur", "C_hi": "जोधपुर",
+    "D_en": "Ajmer", "D_hi": "अजमेर",
+    "answer": "B",
+    "explanation_en": "Hawa Mahal is a landmark of Jaipur's architecture and royalty.",
+    "explanation_hi": "हवा महल जयपुर की इमारत का एक प्रतीक और शाही विरासत है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Historical Forts",
+    "question_en": "Which ruler founded the Chittorgarh Fort?",
+    "question_hi": "चित्तौड़गढ़ किला किस शासक द्वारा स्थापित किया गया था?",
+    "A_en": "Rana Kumbha", "A_hi": "राणा कुंभ",
+    "B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+    "C_en": "Rana Pratap", "C_hi": "राणा प्रताप",
+    "D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+    "answer": "D",
+    "explanation_en": "Rana Ratan Singh is credited with the construction of Chittorgarh Fort.",
+    "explanation_hi": "चित्तौड़गढ़ किले का निर्माण राणा रतन सिंह द्वारा करवाया गया था।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Agriculture",
+    "question_en": "What is the primary crop grown in Rajasthan?",
+    "question_hi": "राजस्थान में मुख्य रूप से कौन सी फसल उगाई जाती है?",
+    "A_en": "Rice", "A_hi": "चावल",
+    "B_en": "Wheat", "B_hi": "गेहूं",
+    "C_en": "Cotton", "C_hi": "ऊन",
+    "D_en": "Sugarcane", "D_hi": "गन्ना",
+    "answer": "B",
+    "explanation_en": "Wheat is the most cultivated crop in Rajasthan due to its semi-arid climate.",
+    "explanation_hi": "राजस्थान की अर्द्ध-शुष्क जलवायु के कारण गेहूं सबसे अधिक उगाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Wildlife",
+    "question_en": "Which national park is located in Rajasthan?",
+    "question_hi": "राजस्थान में कौन सा राष्ट्रीय उद्यान स्थित है?",
+    "A_en": "Kanha", "A_hi": "कन्हाई",
+    "B_en": "Ranthambore", "B_hi": "रणथंभौर",
+    "C_en": "Corbett", "C_hi": "कॉर्बेट",
+    "D_en": "Bharatpur", "D_hi": "भरतपुर",
+    "answer": "B",
+    "explanation_en": "Ranthambore National Park is famous for its tiger population.",
+    "explanation_hi": "रणथंभौर राष्ट्रीय उद्यान अपने बाघा आबादी के लिए प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Deserts",
+    "question_en": "Which desert is located in Rajasthan?",
+    "question_hi": "राजस्थान में कौन सा मरुभूमि स्थित है?",
+    "A_en": "Thar Desert", "A_hi": "थार के मरुभूमि",
+    "B_en": "Kutch Desert", "B_hi": "कच्छ के मरुभूमि",
+    "C_en": "Rajasthan Desert", "C_hi": "राजस्थान के मरुभूमि",
+    "D_en": "Aravalli Desert", "D_hi": "अरावली के मरुभूमि",
+    "answer": "A",
+    "explanation_en": "The Thar Desert covers a significant portion of western Rajasthan.",
+    "explanation_hi": "थार के मरुभूमि राजस्थान के पश्चिमी भाग का एक महत्वपूर्ण हिस्सा है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Geographical Features",
+    "question_en": "What is the longest river in Rajasthan?",
+    "question_hi": "राजस्थान की सबसे लंबी नदी क्या है?",
+    "A_en": "Chambal", "A_hi": "चम्बल",
+    "B_en": "Banas", "B_hi": "बानस",
+    "C_en": "Mahi", "C_hi": "माही",
+    "D_en": "Luni", "D_hi": "लूनी",
+    "answer": "B",
+    "explanation_en": "The Banas River is the longest river in Rajasthan, flowing through the state.",
+    "explanation_hi": "बानस नदी राजस्थान की सबसे लंबी नदी है जो राज्य में प्रवाहित होती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Festivals",
+    "question_en": "Which festival is not traditionally celebrated in Rajasthan?",
+    "question_hi": "राजस्थान में परंपरागत रूप से कौन सा त्योहार नहीं मनाया जाता है?",
+    "A_en": "Holi", "A_hi": "होली",
+    "B_en": "Diwali", "B_hi": "दीवाली",
+    "C_en": "Gangaur", "C_hi": "गंगौर",
+    "D_en": "Bihu", "D_hi": "भोगली",
+    "answer": "D",
+    "explanation_en": "Bihu is a festival of Assam and not traditionally celebrated in Rajasthan.",
+    "explanation_hi": "भोगली आसाम का एक त्योहार है जिसे राजस्थान में परंपरागत रूप से मनाया नहीं जाता है।"
+  }
+]
