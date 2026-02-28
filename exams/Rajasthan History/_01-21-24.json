@@ -1,0 +1,21 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Culture",
+"question_en": "Which language is widely spoken in Rajasthan?",
+"question_hi": "राजस्थान में कौन-सा भाषा लोगों को विशेष रूप से पढ़ने की मदद करती है?",
+"A_en": "Marwari",
+"A_hi": "मर्वाई",
+"B_en": "Hindi",
+"B_hi": "हिंदी",
+"C_en": "English",
+"C_hi": "अंग्रेजी",
+"D_en": "Tibetan",
+"D_hi": "ताबियन",
+"answer": "B",
+"explanation_en": "Hindi is widely spoken and studied in Rajasthan for assistance.",
+"explanation_hi": "राजस्थान में सभी लोगों को सहयोगी क्या एसियाई वाली हिंदी में पढ़ने की मदद करती है?",
+"answer": "B",
+"explanation_en": "Hindi is widely spoken and studied in Rajasthan for assistance.",
+"explanation_hi": "राजस्थान में सभी लोगों को सहयोगी हिंदी में पढ़ने की मदद करती है ?",
+}
