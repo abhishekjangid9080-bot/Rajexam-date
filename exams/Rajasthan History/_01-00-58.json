@@ -1,0 +1,146 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, specifically on the topic provided. The user wants the questions in both Hindi and English, with explanations in both languages as well. The format must be strict JSON as per their example.
+
+First, I should recall key events, figures, and periods in Rajasthan's history. Let's start with the ancient and medieval periods. The Mauryan Empire, Guhilas, Pratiharas, and the rise of Rajput kingdoms are important. Then the Mughal period, followed by British rule and the integration of princely states into Rajasthan.
+
+I need to ensure each question has four options, with the correct answer labeled. The difficulty level should be moderate, suitable for exams like LDC, CET, RAS, etc. Let me think of 10 distinct topics: maybe the founder of Jaipur, integration of princely states, important battles, key rulers, etc.
+
+For each question, I'll need to write the question in both languages, four options in both, the correct answer, and explanations in both. For example, the first question could be about the founder of Jaipur, with options including Sawai Jai Singh, Maharana Pratap, etc. The answer is Sawai Jai Singh.
+
+Another question could be about the ruler who defeated Mughal Emperor Akbar, like Rana Sanga. Then a question on the merger of Rajasthan states post-independence. Also, important battles like Haldighati, rulers like Chhatrasal, and key historical sites like Chittorgarh Fort.
+
+I need to make sure the options are plausible but not too tricky. Avoid any factual errors. Check the explanations to be concise but informative. Let me list out the topics and structure each question step by step, ensuring all parts are covered. Also, verify the historical facts to ensure accuracy. Once structured, format it into the JSON as specified, without any markdown or extra text.
+</think>
+
+[
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Rulers and Kingdoms",
+  "question_en": "Who was the founder of the city of Jaipur?",
+  "question_hi": "शहर जयपुर के स्थापक कौन थे?",
+  "A_en": "Raja Man Singh I", "A_hi": "राजा मान सिंह प्रथम",
+  "B_en": "Sawai Jai Singh II", "B_hi": "सवाई जय सिंह द्वितीय",
+  "C_en": "Maharana Pratap", "C_hi": "महाराणा प्रताप",
+  "D_en": "Raja Bhoj", "D_hi": "राजा भोज",
+  "answer": "B",
+  "explanation_en": "Sawai Jai Singh II founded Jaipur in 1727 and it became the capital of the Kachhwaha Rajput kingdom.",
+  "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना की और यह कच्छवाह राजपूत राज्य की राजधानी बन गई।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Mughal and Maratha Periods",
+  "question_en": "Which Rajput ruler defeated Mughal Emperor Akbar in the Battle of Haldighati?",
+  "question_hi": "खालीगड़ी के युद्ध में मुगल सम्राट अकबर को पराजित करने वाले राजपूत राजा कौन थे?",
+  "A_en": "Rana Sanga", "A_hi": "राणा सांगा",
+  "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+  "C_en": "Raja Man Singh I", "C_hi": "राजा मान सिंह प्रथम",
+  "D_en": "Raja Bhoj", "D_hi": "राजा भोज",
+  "answer": "B",
+  "explanation_en": "Maharana Pratap of Mewar defeated Mughal Emperor Akbar in the Battle of Haldighati in 1576.",
+  "explanation_hi": "मेवाड़ के महाराणा प्रताप ने 1576 में खालीगड़ी के युद्ध में मुगल सम्राट अकबर को पराजित किया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Integration of States",
+  "question_en": "When was Rajasthan formed by the merger of princely states?",
+  "question_hi": "प्रांतीय राज्यों के मर्ज करके राजस्थान का निर्माण कब हुआ?",
+  "A_en": "1947", "A_hi": "1947",
+  "B_en": "1948", "B_hi": "1948",
+  "C_en": "1949", "C_hi": "1949",
+  "D_en": "1950", "D_hi": "1950",
+  "answer": "C",
+  "explanation_en": "Rajasthan was formed on 15 May 1949 by merging 22 princely states of Rajputana.",
+  "explanation_hi": "15 मई 1949 को राजपूताना के 22 प्रांतीय राज्यों के मर्ज करके राजस्थान का निर्माण हुआ।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Ancient and Medieval History",
+  "question_en": "Which dynasty was responsible for the construction of the Chittorgarh Fort?",
+  "question_hi": "चीतरगढ़ किले के निर्माण के लिए कौन सी वंश उत्तरदायी थी?",
+  "A_en": "Parihars", "A_hi": "प्रतिहार",
+  "B_en": "Chauhans", "B_hi": "चौहान",
+  "C_en": "Sisodiyas", "C_hi": "सिसोदिया",
+  "D_en": "Kachwahas", "D_hi": "कच्छवाह",
+  "answer": "C",
+  "explanation_en": "The Sisodiya dynasty of Mewar was responsible for the construction and expansion of the Chittorgarh Fort.",
+  "explanation_hi": "मेवाड़ की सिसोदिया वंश चीतरगढ़ किले के निर्माण और विस्तार के लिए उत्तरदायी थी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rulers and Their Contributions",
+  "question_en": "Who was the ruler of Marwar who shifted the capital from Mandore to Jodhpur?",
+  "question_hi": "मारवाड़ के उस शासक का नाम बताइए जिसने मांडला से राजधानी को जोधपुर शिफ्ट कर दिया था?",
+  "A_en": "Rao Chandra Singh", "A_hi": "राओ चंद्र सिंह",
+  "B_en": "Rao Jodha", "B_hi": "राओ जोधा",
+  "C_en": "Rao Bika", "C_hi": "राओ बीका",
+  "D_en": "Rao Maldeo", "D_hi": "राओ मल्लदेव",
+  "answer": "B",
+  "explanation_en": "Rao Jodha shifted the capital of Marwar from Mandore to Jodhpur in 1459.",
+  "explanation_hi": "राओ जोधा ने 1459 में मारवाड़ की राजधानी मांडला से जोधपुर शिफ्ट कर दी।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Freedom Movement",
+  "question_en": "Which ruler of Rajasthan was a prominent leader in the Indian Freedom Struggle?",
+  "question_hi": "भारतीय स्वतंत्रता आंदोलन में राजस्थान के कौन से शासक प्रमुख नेता रहे?",
+  "A_en": "Maharaja Sawai Jai Singh II", "A_hi": "महाराजा सवाई जय सिंह द्वितीय",
+  "B_en": "Maharaja Sawai Man Singh I", "B_hi": "महाराजा सवाई मान सिंह प्रथम",
+  "C_en": "Maharaja Umaid Singh", "C_hi": "महाराजा उमाइद सिंह",
+  "D_en": "Maharaja Bhim Singh", "D_hi": "महाराजा भीम सिंह",
+  "answer": "B",
+  "explanation_en": "Maharaja Sawai Man Singh I of Jaipur was an active participant in the Indian Freedom Movement and contributed significantly.",
+  "explanation_hi": "जयपुर के महाराजा सवाई मान सिंह प्रथम भारतीय स्वतंत्रता आंदोलन में सक्रिय भाग ले रहे थे और इसमें महत्वपूर्ण योगदान दिए।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Historical Events",
+  "question_en": "Which battle marked the beginning of the decline of Rajput power in Rajasthan?",
+  "question_hi": "राजस्थान में राजपूत शक्ति के क्षीण होने की शुरुआत किस युद्ध के साथ हुई?",
+  "A_en": "Battle of Haldighati", "A_hi": "खालीगड़ी का युद्ध",
+  "B_en": "Battle of Khanwa", "B_hi": "खानवा का युद्ध",
+  "C_en": "Battle of Chittorgarh", "C_hi": "चीतरगढ़ का युद्ध",
+  "D_en": "Battle of Sarangpur", "D_hi": "सरंगपुर का युद्ध",
+  "answer": "B",
+  "explanation_en": "The Battle of Khanwa (1527) between Rana Sanga and Babur marked the decline of Rajput power in Rajasthan.",
+  "explanation_hi": "राणा सांगा और बाबर के बीच खानवा का युद्ध (1527) राजस्थान में राजपूत शक्ति के क्षीण होने की शुरुआत के निशान के रूप में जाना जाता है।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Archaeology and Culture",
+  "question_en": "Which ancient city is known as the 'Garden of the Desert' in Rajasthan?",
+  "question_hi": "राजस्थान में किस प्राचीन शहर के नाम से 'मरुस्थल का बगीचा' के रूप में जाना जाता है?",
+  "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+  "B_en": "Bikaner", "B_hi": "बीकानेर",
+  "C_en": "Udaipur", "C_hi": "उदयपुर",
+  "D_en": "Pushkar", "D_hi": "पुष्कर",
+  "answer": "A",
+  "explanation_en": "Jaisalmer, a historic city in Rajasthan, is often referred to as the 'Garden of the Desert' due to its lush greenery amidst the arid desert.",
+  "explanation_hi": "राजस्थान का पुराना शहर जैसलमेर 'मरुस्थल का बगीचा' के नाम से जाना जाता है क्योंकि इसमें शुष्क मरुस्थल के बीच हरियाली है।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rulers and Their Achievements",
+  "question_en": "Who was the ruler of Bikaner who built the Junagarh Fort?",
+  "question_hi": "बीकानेर के उस शासक का नाम बताइए जिसने जूनागढ़ किला निर्मित किया था।",
+  "A_en": "Raja Rai Singh", "A_hi": "राजा राम सिंह",
+  "B_en": "Raja Anoop Singh", "B_hi": "राजा अनूप सिंह",
+  "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+  "D_en": "Raja Bhagwan Singh", "D_hi": "राजा भगवान सिंह",
+  "answer": "A",
+  "explanation_en": "Raja Rai Singh of Bikaner built the Junagarh Fort in the 15th century.",
+  "explanation_hi": "बीकानेर के राजा राम सिंह ने 15वीं शताब्दी में जूनागढ़ किला निर्मित किया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Historical Sites",
+  "question_en": "Which fort in Rajasthan is known as the 'Lalit Kila'?",
+  "question_hi": "राजस्थान में कौन सा किला 'ललित किला' के रूप में जाना जाता है?",
+  "A_en": "Chittorgarh Fort", "A_hi": "चीतरगढ़ किला",
+  "B_en": "Amber Fort", "B_hi": "अंबर किला",
+  "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+  "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+  "answer": "B",
+  "explanation_en": "Amber Fort in Jaipur is also known as 'Lalit Kila' due to its artistic and architectural beauty.",
+  "explanation_hi": "जयपुर के अंबर किले को इसके कलात्मक और स्थितियां शारीरिक सुंदरता के कारण 'ललित किला' के नाम से भी जाना जाता है।"
+}
+]
