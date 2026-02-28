@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में कौन से मंगल के साथ स्थित है।",
+"A_en": "Amer Fort", "A_hi": "अमेर कोण",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II", "C_hi": "सावाई महाराज सवाई मंगल की जन्म केवल के बार्मांग में ही है",
+"D_en": "Kalika Mata Temple", "D_hi": "कालिका माता मंगल",
+"answer": "B",
+"explanation_en": "The Hawa Mahal is a famous palace in Jaipur, known for its unique architecture. It is not related to Maharaja Sawai Man Singh II or his baramangas.",
+"explanation_hi": "हाउ महाल जापुर में ज्ञानी किया किया गया है, जहां यह स्वतियांग के बार्मांग में भी है।",
+"explanation_hi": "हाउ महाल, जहां यह स्वतियांग के बार्मांग में भी है।"
+}
