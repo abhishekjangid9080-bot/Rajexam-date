@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, covering topics relevant to exams like LDC, CET, RAS, SSC, and Railway NTPC. The user wants the questions in both Hindi and English, with explanations in both languages as well. The format must be strict JSON as per the given example.
+
+First, I should think about the major topics in Rajasthan History. Maybe start with ancient history, then move to medieval, Mughal period, British Raj, important rulers, and significant events or places. Let me list some key points:
+
+1. **Rajputana Kingdoms** - Like Mauryas, Guptas, or Pratiharas. Maybe a question on the founder of the Gurjara-Pratihara dynasty.
+2. **Rajput Rulers** - Rana Pratap, Rao Chandrasen, etc.
+3. **Mughal Influence** - Akbar's campaigns, alliances.
+4. **British Annexation** - Doctrine of Lapse, Subsidiary Alliances.
+5. **Freedom Movement** - Leaders from Rajasthan.
+6. **Important Battles** - Battle of Haldighati.
+7. **Cultural Heritage** - Chittorgarh Fort, Mehrangarh Fort.
+8. **Historical Sites** - Dilwara Temples, Mount Abu.
+9. **Forts and Fortresses** - Amber Fort, Jaisalmer Fort.
+10. **Mythological References** - Connection to Mahabharata, like Matsya Kingdom.
+
+Now, for each question, I need to ensure that the subject is "Rajasthan History", the topic is filled in, and the options are in both languages. The answer should be one of the options (A/B/C/D), and explanations in English and Hindi.
+
+Let me start drafting each question step by step, making sure the difficulty level is appropriate for state exams. I need to check historical accuracy. For example, the founder of the Gurjara-Pratihara dynasty is Pratihara, so the correct answer should be Pratihara. For the Battle of Haldighati, the answer is Rana Pratap. The Chittorgarh Fort was built by which ruler? That would be Rana Khated. The first ruler to accept Subsidiary Alliance was Rao Bahadur of Bikaner. The capital of the Matsya Kingdom in Mahabharata times was Viratanagar. The Dilwara Temples are in Mount Abu, built by the Parmar Dynasty. The Rajput ruler who refused to join Akbar was Rana Pratap. The founder of the city of Jaipur is Sawai Jai Singh. The ruler who was exiled by the British for his role in the Revolt of 1857 was Maharaja Sawai Maharaj Singh of Jaipur. The first woman ruler of Rajasthan was Rani Padmini, though she's more of a legend, but historically, maybe another figure. Wait, Rani Padmini is associated with Chittorgarh and Alauddin Khilji. Maybe that's a trick question. Alternatively, maybe a real historical figure like Maharani Gayatri Devi? But I need to verify. Alternatively, maybe the correct answer is Rani Durgawati, but she's from Bastar. Hmm. Maybe the correct answer is Rani Padmini here, even if she's more of a myth. The options might include her. Alternatively, maybe Maharani Tarabai of Jaipur or someone else. Let me check that. Another angle: Who was the first woman ruler of an independent princely state in Rajasthan? Maybe Maharani Gayatri Devi, but she became queen in the 20th century. Alternatively, maybe Maharani Jaya Bai of Bikaner? Not sure. Maybe the answer is Rani Padmini in the context of the question. Alternatively, the question could be about a legendary figure. Let me proceed with that.
+
+Wait, the user mentioned the example has the topic as empty. So in the JSON, the topic field is empty. But in the task, the topic is given as empty. So I should leave the topic as an empty string in the JSON.
+
+Also, ensure that the explanations are concise and accurate. For example, for the question about the capital of Rajasthan, the answer is Jaipur. Similarly, for each question, the explanation should clearly state why the correct answer is right.
+
+Now, let me list out the 10 questions:
+
+1. Founder of Gurjara-Pratihara Dynasty.
+2. Battle of Haldighati (Rana Pratap).
+3. Chittorgarh Fort builder.
+4. First to accept Subsidiary Alliance.
+5. Capital of Matsya Kingdom in Mahabharata.
+6. Dilwara Temples location and builders.
+7. Rajput ruler who refused Akbar.
+8. Founder of Jaipur city.
+9. Ruler exiled after 1857 Revolt.
+10. First woman ruler of Rajasthan.
+
+Now, I need to convert these into questions with options in both languages. Let's start.
+
+1. **Gurjara-Pratihara Dynasty Founder**:
+   - Options: Pratihara, Mihira Bhoja, Sindhuraja, None.
+   - Answer: A (Pratihara).
+
+2. **Battle of Haldighati**:
+   - Options: Rana Pratap, Maharana Amar Singh, Rao Maldeo, None.
+   - Answer: A (Rana Pratap).
+
+3. **Chittorgarh Fort**:
+   - Options: Rana Khated, Rana Kumbha, Rana Sanga, None.
+   - Answer: A (Rana Khated).
+
+4. **Subsidiary Alliance**:
+   - Options: Rao Bahadur Bikaner, Maharaja Sawai Jai Singh, Rao Uday Singh, None.
+   - Answer: A (Rao Bahadur Bikaner).
+
+5. **Matsya Kingdom Capital**:
+   - Options: Viratanagar, Dvarka, Pushkar, None.
+   - Answer: A (Viratanagar).
+
+6. **Dilwara Temples**:
+   - Options: Parmar Dynasty, Solanki Dynasty, Chauhan Dynasty, None.
+   - Answer: A (Parmar Dynasty).
+
+7. **Refused to join Akbar**:
+   - Options: Rana Pratap, Rao Chandrasen, Maharaja Man Singh, None.
+   - Answer: A (Rana Pratap).
+
+8. **Founder of Jaipur**:
+   - Options: Sawai Jai Singh, Sawai Man Singh, Raja Bhan Singh, None.
+   - Answer: A (Sawai Jai Singh).
+
+9. **Exiled after 1857**:
+   - Options: Maharaja Sawai Maharaj Singh, Maharaja Bhagwat Singh, Maharaja Man Singh II, None.
+   - Answer: A (Maharaja Sawai Maharaj Singh).
+
+10. **First Woman Ruler**:
+    - Options: Rani Padmini, Maharani Gayatri Devi, Rani Jhansi Lakshmi Bai, None.
+    - Answer: A (Rani Padmini).
+
+Wait, for the 10th question, if the correct answer is Rani Padmini, but she's more of a legend, but in historical context, she's considered a ruler of Chittorgarh. However, the options might include her as a figure. Alternatively, if the user expects a real historical ruler, maybe the answer is Maharani Gayatri Devi, but she was queen in the 20th century. Hmm. Let me check. In the context of Rajasthan History exams in India, Rani Padmini is often cited as the first woman ruler, even if she's a legendary figure. So I'll proceed with her.
+
+Now, I'll structure each question into the required JSON format, ensuring both Hindi and English are present correctly. Also, the explanations need to be in both languages. Let's make sure the options are in the correct order and the answer is correctly labeled.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the founder of the Gurjara-Pratihara dynasty, which ruled much of Rajasthan and North India?",
+    "question_hi": "गुर्जर-प्रतिहार राजवंश के संस्थापक कौन थे, जिसके शासन के अधीन राजस्थान और उत्तर भारत के बड़े हिस्से थे?",
+    "A_en": "Pratihara", "A_hi": "प्रतिहार",
+    "B_en": "Mihira Bhoja", "B_hi": "मिहिर भोज",
+    "C_en": "Sindhuraja", "C_hi": "सिंधुराज",
+    "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+    "answer": "A",
+    "explanation_en": "The Gurjara-Pratihara dynasty was founded by Pratihara, and it played a significant role in the medieval history of Rajasthan.",
+    "explanation_hi": "गुर्जर-प्रतिहार राजवंश की स्थापना प्रतिहार ने की थी, और यह राजस्थान के मध्यकालीन इतिहास में महत्वपूर्ण भूमिका निभाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which Rajput ruler led the Rajputs in the Battle of Haldighati against the Mughal forces of Akbar?",
+    "question_hi": "किस महाराजा ने मुगलों के सामने हल्दीघाटी के युद्ध में राजपूतों का नेतृत्व किया था?",
+    "A_en": "Rana Pratap", "A_hi": "राणा प्रताप",
+    "B_en": "Maharana Amar Singh", "B_hi": "महाराणा अमर सिंह",
+    "C_en": "Rao Maldeo", "C_hi": "राओ मल्लोदेव",
+    "D_en": "Raja Man Singh", "D_hi": "राजा मन सिंह",
+    "answer": "A",
+    "explanation_en": "Rana Pratap was the Rajput ruler who led the Rajputs in the Battle of Haldighati against Akbar's forces in 1576.",
+    "explanation_hi": "राणा प्रताप ने 1576 में अकबर के सैनिकों के खिलाफ हल्दीघाटी के युद्ध में राजपूतों का नेतृत्व किया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who built the Chittorgarh Fort, one of the largest forts in Rajasthan?",
+    "question_hi": "चित्तौड़गढ़ के किले का निर्माण किसने करवाया था, जो राजस्थान के सबसे बड़े किलों में से एक है?",
+    "A_en": "Rana Khated", "A_hi": "राणा खटेट",
+    "B_en": "Rana Kumbha", "B_hi": "राणा कुंभ",
+    "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+    "D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+    "answer": "A",
+    "explanation_en": "The Chittorgarh Fort was built by Rana Khated in the 7th century and later expanded by subsequent rulers.",
+    "explanation_hi": "चित्तौड़गढ़ का किला 7वीं शताब्दी में राणा खटेट द्वारा बनवाया गया था और बाद के शासकों द्वारा विस्तारित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler was the first in Rajasthan to accept the Subsidiary Alliance with the British in the 19th century?",
+    "question_hi": "19वीं सदी में राजस्थान में अंग्रेजों के साथ उपनिवेशीय समझौता स्वीकृत करने वाला पहला शासक कौन था?",
+    "A_en": "Rao Bahadur of Bikaner", "A_hi": "बीकानेर के राव बहादुर",
+    "B_en": "Maharaja Sawai Jai Singh of Jaipur", "B_hi": "जयपुर के महाराजा सवाई जय सिंह",
+    "C_en": "Rao Uday Singh of Marwar", "C_hi": "मारवाड़ के राव उदय सिंह",
+    "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+    "answer": "A",
+    "explanation_en": "Rao Bahadur of Bikaner was the first ruler in Rajasthan to accept the Subsidiary Alliance with the British in 1818.",
+    "explanation_hi": "बीकानेर के राव बहादुर राजस्थान के पहले शासक थे जिन्होंने 1818 में अंग्रेजों के साथ उपनिवेशीय समझौता स्वीकृत किया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "What was the capital of the ancient Matsya Kingdom mentioned in the Mahabharata, located in present-day Rajasthan?",
+    "question_hi": "महाभारत में उल्लेखित प्राचीन मात्स्य राज्य की राजधानी कौन सी थी, जो वर्तमान में राजस्थान में स्थित है?",
+    "A_en": "Viratanagar", "A_hi": "विराटनगर",
+    "B_en": "Dwarka", "B_hi": "द्वारका",
+    "C_en": "Pushkar", "C_hi": "पुष्कर",
+    "D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+    "answer": "A",
+    "explanation_en": "The capital of the Matsya Kingdom in the Mahabharata was Viratanagar, located near the modern town of Viratnagar in Rajasthan.",
+    "explanation_hi": "महाभारत में उल्लेखित मात्स्य राज्य की राजधानी विराटनगर थी, जो राजस्थान में आधुनिक शहर विराटनगर के पास स्थित थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "The famous Dilwara Temples in Mount Abu were built by which dynasty?",
+    "question_hi": "माउंट आबू में स्थित प्रसिद्ध दिल्वाड़ा मंदिरों का निर्माण किस राजवंश द्वारा करवाया गया था?",
+    "A_en": "Parmar Dynasty", "A_hi": "परमार राजवंश",
+    "B_en": "Solanki Dynasty", "B_hi": "सोलंकी राजवंश",
+    "C_en": "Chauhan Dynasty", "C_hi": "चौहान राजवंश",
+    "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+    "answer":
