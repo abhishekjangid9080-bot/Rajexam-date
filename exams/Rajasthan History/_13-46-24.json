@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which is the largest fort in Rajasthan?",
+"question_hi": "राजस्थान में सबसे बड़ा कठिनाई कोणों का उद्वारा क्या है?",
+"A_en": "Amer Fort", "A_hi": "अमेर कठिनाई",
+"B_en": "Mehrangarh Fort", "B_hi": "मेरनगर कठिनाई",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुंभालगढ़ कठिनाई",
+"D_en": "Jaisalmer Fort", "D_hi": "जयसालमर कठिनाई",
+"answer": "D",
+"explanation_en": "Jaisalmer Fort is the largest forts in Rajasthan.",
+"explanation_hi": "जयसालमर कठिनाई, राजस्थान में सबसे बड़ी कठिनाई है।",
+}
+]
