@@ -1,0 +1,193 @@
+<think>
+Okay, I need to create 10 high-quality MCQs about Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling important aspects of Rajasthan's culture. Rajasthan is known for its forts, folk music, dances, festivals, traditional attire, and art.
+
+First, I should think about key topics within Rajasthan Culture. Folk music and dances like Ghoomar, Kalbeliya, and Garba come to mind. Famous festivals like Gangaur, Teej, and Mewar Festival are significant. Traditional clothing like Ghagra-Choli for women and Angarkha for men. Also, important art forms like Miniature Painting and crafts like Blue Pottery. Notable personalities like Meera Bai and Rajasthani cuisine elements like Dal Baati Churma.
+
+Now, each question needs to have options in both Hindi and English. The answers should be accurate, and explanations should clarify why the correct answer is right. Difficulty level should be moderate, suitable for state-level exams. Let me start drafting each question one by one.
+
+Question 1: Which dance form is associated with Rajasthan? Options could be Kathak, Kathakali, Ghoomar, Garba. Correct answer is Ghoomar.
+
+Question 2: The famous festival of Gangaur is celebrated in Rajasthan to honor which goddess? Options: Durga, Gauri, Kali, Saraswati. Correct is Gauri.
+
+Question 3: Traditional attire of Rajasthani women includes Ghagra and what else? Options: Choli, Sari, Lehenga, Shawl. Answer is Choli.
+
+Question 4: Which folk dance is performed by men in Rajasthan, often with sticks? Kanchani, Kalbeliya, Garba, Chari. Answer is Kanchani.
+
+Question 5: The art of miniature painting is prominent in which region of Rajasthan? Udaipur, Jodhpur, Jaipur, Bikaner. Correct is Udaipur, as Mewar is known for it.
+
+Question 6: Which instrument is commonly used in Rajasthani folk music? Sarangi, Dholak, Flute, Guitar. Answer is Dholak.
+
+Question 7: The famous Rajasthani dish "Dal Baati Churma" is a combination of which ingredients? Dal, Baati, Churma. Options may include other items. Correct is the combination.
+
+Question 8: Who is the famous Rajasthani folk singer known for her contributions to Rajasthani music? Prem Chand, Lata Mangeshkar, Bhajanmata, Ravi Shankar. Answer is Bhajanmata.
+
+Question 9: Which of the following is a traditional Rajasthani art form involving intricate patterns on paper? Kalamkari, Warli, Mola Art, Madhubani. Answer is Mola Art, though I need to confirm if it's Rajasthani. Maybe another option.
+
+Wait, Mola Art is from Rajasthan? Or is it from another state. Let me think. Mola Art is actually from Telangana. So maybe replace with another art form. Maybe Miniature Painting or Blue Pottery. So adjust the question to that.
+
+Question 9 revised: Which of the following is a traditional Rajasthani art form involving intricate patterns on paper? Miniature Painting, Blue Pottery, Kalamkari, Warli. Correct is Miniature Painting.
+
+Question 10: The folk dance "Kalbeliya" is performed to honor which deity? Snake God, Lord Shiva, Lord Krishna, Goddess Durga. Answer is Snake God, as Kalbeliya is associated with snake charmers.
+
+I need to double-check each fact for accuracy. For example, Gangaur is indeed dedicated to Gauri, who is Parvati. Miniature painting is prominent in Mewar (Udaipur). Dholak is the drum used in Rajasthani music. Bhajanmata is a prominent folk singer. Kanchani dance is performed by men with sticks. Mola Art isn't Rajasthani, so replaced it with Miniature Painting.
+
+Now, structure each question in JSON format with the required fields. Ensure the translations are correct in both Hindi and English. The explanations should clearly state why the correct answer is right.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Dance",
+    "question_en": "Which Rajasthani folk dance is traditionally performed by women and involves swirling movements?",
+    "question_hi": "राजस्थानी लोक नृत्य में घूमर किस लिंग से सम्बंधित है और इसमें किस प्रकार के आंदोलन शामिल होते हैं?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar",
+    "B_hi": "घूमर",
+    "C_en": "Chari",
+    "C_hi": "चारी",
+    "D_en": "Kathak",
+    "D_hi": "कथक",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional Rajasthani folk dance performed by women, characterized by its graceful, swirling movements.",
+    "explanation_hi": "घूमर एक पारंपरिक राजस्थानी लोक नृत्य है जो महिलाओं द्वारा किया जाता है और इसमें धीमे घूमने के आंदोलन शामिल होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Festivals",
+    "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+    "question_hi": "राजस्थान में गौरी देवी के सम्मान में कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Gangaur",
+    "A_hi": "गंगौर",
+    "B_en": "Teej",
+    "B_hi": "तीज",
+    "C_en": "Diwali",
+    "C_hi": "दिवाली",
+    "D_en": "Holi",
+    "D_hi": "होली",
+    "answer": "A",
+    "explanation_en": "Gangaur is a festival celebrated in Rajasthan and Madhya Pradesh to honor the goddess Gauri.",
+    "explanation_hi": "गंगौर राजस्थान और मध्य प्रदेश में देवी गौरी के सम्मान में मनाया जाने वाला एक त्योहार है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Attire",
+    "question_en": "What is the traditional attire of Rajasthani women?",
+    "question_hi": "राजस्थानी महिलाओं का पारंपरिक पोशाक क्या है?",
+    "A_en": "Sari",
+    "A_hi": "साड़ी",
+    "B_en": "Ghagra and Choli",
+    "B_hi": "घगरा और चोली",
+    "C_en": "Salwar Kameez",
+    "C_hi": "सल्वार कमीज़",
+    "D_en": "Lehenga",
+    "D_hi": "लेहंगा",
+    "answer": "B",
+    "explanation_en": "Rajasthani women traditionally wear Ghagra and Choli as their traditional attire.",
+    "explanation_hi": "राजस्थानी महिलाएं अपने पारंपरिक पोशाक के रूप में घगरा और चोली पहनती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Music",
+    "question_en": "Which instrument is prominently used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गायकी में कौन सा वाद्य यंत्र प्रमुख रूप से उपयोग होता है?",
+    "A_en": "Sarangi",
+    "A_hi": "सरंगी",
+    "B_en": "Dholak",
+    "B_hi": "ढोलक",
+    "C_en": "Flute",
+    "C_hi": "बांसुरी",
+    "D_en": "Guitar",
+    "D_hi": "गिटार",
+    "answer": "B",
+    "explanation_en": "Dholak is a traditional drum used in Rajasthani folk music and dances.",
+    "explanation_hi": "ढोलक राजस्थानी लोक गायकी और नृत्य में प्रयुक्त एक पारंपरिक ड्रम है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Art",
+    "question_en": "Which art form is famous for intricate miniature paintings in Rajasthan?",
+    "question_hi": "राजस्थान में जटिल मिनीएचर चित्रकारी के लिए कौन सा कला रूप प्रसिद्ध है?",
+    "A_en": "Miniature Painting",
+    "A_hi": "मिनीएचर चित्रकारी",
+    "B_en": "Blue Pottery",
+    "B_hi": "ब्लू पॉटरी",
+    "C_en": "Kalamkari",
+    "C_hi": "कलमकारी",
+    "D_en": "Warli",
+    "D_hi": "वरली",
+    "answer": "A",
+    "explanation_en": "Miniature Painting is a renowned art form in Rajasthan, especially in the Mewar region.",
+    "explanation_hi": "मिनीएचर चित्रकारी राजस्थान में एक प्रसिद्ध कला रूप है, विशेष रूप से मेवाड़ क्षेत्र में।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Cuisine",
+    "question_en": "Which dish is a combination of dal, baati, and churma, a staple of Rajasthani cuisine?",
+    "question_hi": "कौन सा व्यंजन दाल, बाती और चूरमा का संयोजन है, जो राजस्थानी खाने का एक प्रमुख हिस्सा है?",
+    "A_en": "Gatte ki Sabzi",
+    "A_hi": "गट्टे की सब्जी",
+    "B_en": "Dal Baati Churma",
+    "B_hi": "दाल बाती चूरमा",
+    "C_en": "Kheer",
+    "C_hi": "कीर",
+    "D_en": "Poha",
+    "D_hi": "पोहा",
+    "answer": "B",
+    "explanation_en": "Dal Baati Churma is a traditional Rajasthani dish consisting of lentils, deep-fried dough balls, and sweet crumbled wheat.",
+    "explanation_hi": "दाल बाती चूरमा एक पारंपरिक राजस्थानी व्यंजन है जिसमें दाल, भूने हुए आटे के गोले और मीठा तोड़ा हुआ गेहूँ शामिल होता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Singers",
+    "question_en": "Who is a renowned Rajasthani folk singer known for preserving the traditional music of Rajasthan?",
+    "question_hi": "राजस्थानी पारंपरिक संगीत के संरक्षण के लिए प्रसिद्ध राजस्थानी लोक गायक कौन है?",
+    "A_en": "Bhajanmata",
+    "A_hi": "भजनमाता",
+    "B_en": "Lata Mangeshkar",
+    "B_hi": "लता मंगेशकर",
+    "C_en": "Ravi Shankar",
+    "C_hi": "रवि शंकर",
+    "D_en": "Prem Chand",
+    "D_hi": "प्रेमचंद",
+    "answer": "A",
+    "explanation_en": "Bhajanmata is a celebrated Rajasthani folk singer who has contributed significantly to preserving Rajasthani music.",
+    "explanation_hi": "भजनमाता एक प्रसिद्ध राजस्थानी लोक गायक हैं जिन्होंने राजस्थानी संगीत के संरक्षण में महत्वपूर्ण योगदान दिया है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Folk Dances",
+    "question_en": "Which Rajasthani folk dance is performed by men and involves the use of sticks?",
+    "question_hi": "कौन सा राजस्थानी लोक नृत्य पुरुषों द्वारा नृत्य किया जाता है और इसमें छड़ियों का उपयोग होता है?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कलबेलिया",
+    "B_en": "Kanchani",
+    "B_hi": "कांचनी",
+    "C_en": "Chari",
+    "C_hi": "चारी",
+    "D_en": "Ghoomar",
+    "D_hi": "घूमर",
+    "answer": "B",
+    "explanation_en": "Kanchani is a Rajasthani folk dance performed by men, where they use sticks in their movements.",
+    "explanation_hi": "कांचनी एक राजस्थानी लोक नृत्य है जिसे पुरुषों द्वारा किया जाता है और इसमें छड़ियों का उपयोग होता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Rajasthani Architecture",
+    "question_en": "Which city in Rajasthan is known for its white marble palace, the City Palace?",
+    "question_hi": "राजस्थान में श्वेत संगमरमर के पलाने, शहर के पलाने के लिए कौन सा शहर प्रसिद्ध है?",
+    "A_en": "Jodhpur",
+    "A_hi": "जोधपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Bikaner",
+    "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Jaipur is famous for the City Palace, a majestic white marble palace located in the heart of the city.",
+    "explanation_hi": "जयपुर शहर के पलाने के लिए प्रसिद्ध है, जो शहर के हृदय में स्थित एक शानदार श्वेत संगमरमर का पलाना है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic":
