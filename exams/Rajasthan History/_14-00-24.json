@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Famous Kings",
+"question_en": "Which famous king is associated with the establishment of Jodhpur?",
+"question_hi": "जोधपुर के परिवर्तन के लिए कौन सा महत्वपूर्वी प्रधान है।",
+"A_en": "Rao Jodh Singh",
+"A_hi": "राव जोधसिंग",
+"B_en": "Prithviraj Chauhan",
+"B_hi": "पृथ्वी चौधरी",
+"C_en": "Rao Gaekwad",
+"C_hi": "राव गैकवाद",
+"D_en": "Rao Devi",
+"D_hi": "राव दी",
+"answer": "D",
+"explanation_en": "Rao Devi is associated with the establishment of Jodhpur.",
+"explanation_hi": "राव दी जोधपुर के प्राप्ति के लिए संबंधित है।",
+}
+]
