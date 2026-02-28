@@ -1,0 +1,142 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style. First, I need to recall key facts about Rajasthan's history. Topics could include ancient kingdoms, important rulers, cultural aspects, and historical events.
+
+The example given is about the capital, which is straightforward. To make the questions more engaging, I should cover various eras and aspects. Let me think of different areas: Mauryan period, medieval dynasties like Mewar, Marwar, the role of Rajput kings, historical battles, and important historical sites.
+
+For each question, I need to ensure the answer is accurate. Let's start with the capital. The example is correct with Jaipur. Next, maybe the founder of Jaipur. Sawai Jai Singh II is the right answer. Then, the oldest known kingdom could be Sapta Sindhu or Indus Valley. The Mewar kingdom's ruler Rana Sanga is important. The battle of Haldighati was between Rana Pratap and Akbar. The founder of Udaipur is Udai Singh II. The capital of Marwar was Jodhpur, founded by Rao Jodha. The ruler who fought with Maharana Pratap could be Man Singh Tomar. The ancient name of Pushkar is Pushkara. Lastly, the capital of Rajputana was Delhi during Mughal rule.
+
+I need to structure each question with options in both languages. Also, explanations should be concise but informative. Let me check each fact again to avoid errors. For example, the oldest kingdom might be the Indus Valley in Rajasthan, but sometimes Sapta Sindhu is considered. Also, the battle of Haldighati was in 1576. Ensure all names are correctly spelled and the options are plausible. Avoid any ambiguity in the questions. Once verified, format them into the required JSON structure without markdown. Make sure the answer keys are correctly assigned.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Ancient Rajasthan",
+        "question_en": "Which ancient kingdom is considered the oldest in Rajasthan?",
+        "question_hi": "राजस्थान में कौन-सा प्राचीन राज्य सबसे पुराना माना जाता है?",
+        "A_en": "Sapta Sindhu", "A_hi": "सप्त सिंधु",
+        "B_en": "Mewar", "B_hi": "मेवाड़",
+        "C_en": "Marwar", "C_hi": "मारवाड़",
+        "D_en": "Jaisalmer", "D_hi": "जैसलमेर",
+        "answer": "A",
+        "explanation_en": "The Sapta Sindhu region, part of the Indus Valley Civilization, is considered the oldest kingdom in Rajasthan.",
+        "explanation_hi": "सप्त सिंधु क्षेत्र, जो सिंधु घाटी सभ्यता का हिस्सा था, राजस्थान का सबसे पुराना राज्य माना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Medieval Rajasthan",
+        "question_en": "Who founded the city of Jaipur in 1727?",
+        "question_hi": "1727 में जयपुर शहर की स्थापना किसने की थी?",
+        "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+        "B_en": "Raja Man Singh Tomar", "B_hi": "राजा मन सिंह तोमर",
+        "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+        "D_en": "Rao Jodha", "D_hi": "राव जोधा",
+        "answer": "A",
+        "explanation_en": "Sawai Jai Singh II, the Kachwaha ruler of Amber, founded Jaipur in 1727 to establish a new capital.",
+        "explanation_hi": "एम्बर के कच्छवाहा शासक सवाई जय सिंह द्वितीय ने 1727 में एक नए राजधानी के रूप में जयपुर की स्थापना की थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Rulers",
+        "question_en": "Which Rajput ruler is known as the 'Swaran Chandar' (Golden Star)?",
+        "question_hi": "किस राजपूत शासक के लिए 'स्वर्ण चंदर' (स्वर्ण तारा) के नाम से जाना जाता है?",
+        "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+        "B_en": "Rao Chandrasen", "B_hi": "राव चंद्रसेन",
+        "C_en": "Maharana Pratap", "C_hi": "महाराणा प्रताप",
+        "D_en": "Raja Man Singh Tomar", "D_hi": "राजा मन सिंह तोमर",
+        "answer": "C",
+        "explanation_en": "Maharana Pratap earned the title 'Swaran Chandar' for his valor and resistance against Mughal expansion.",
+        "explanation_hi": "महाराणा प्रताप के शौर्य और मुगल विस्तार के खिलाफ प्रतिरोध के लिए उन्हें 'स्वर्ण चंदर' के खिताब से सम्मानित किया गया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Battles",
+        "question_en": "In which battle did Maharana Pratap defeat the Mughal forces in 1576?",
+        "question_hi": "1576 में महाराणा प्रताप ने मुगल सेना को किस लड़ाई में हराया था?",
+        "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी की लड़ाई",
+        "B_en": "Battle of Khanwa", "B_hi": "खानवा की लड़ाई",
+        "C_en": "Battle of Sarangpur", "C_hi": "सरंगपुर की लड़ाई",
+        "D_en": "Battle of Kumbhalgarh", "D_hi": "कुंभलगढ़ की लड़ाई",
+        "answer": "C",
+        "explanation_en": "Maharana Pratap defeated the Mughal forces led by Man Singh Tomar in the Battle of Sarangpur in 1576.",
+        "explanation_hi": "1576 में महाराणा प्रताप ने राजा मन सिंह तोमर के नेतृत्व वाली मुगल सेना को सरंगपुर की लड़ाई में हराया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founders of Rajasthan Cities",
+        "question_en": "Who founded the city of Udaipur?",
+        "question_hi": "उदयपुर शहर की स्थापना किसने की थी?",
+        "A_en": "Raja Man Singh Tomar", "A_hi": "राजा मन सिंह तोमर",
+        "B_en": "Udai Singh II", "B_hi": "उदय सिंह द्वितीय",
+        "C_en": "Maharana Pratap", "C_hi": "महाराणा प्रताप",
+        "D_en": "Rao Jodha", "D_hi": "राव जोधा",
+        "answer": "B",
+        "explanation_en": "Udai Singh II founded Udaipur in 1559, naming it after his son Udai.",
+        "explanation_hi": "उदय सिंह द्वितीय ने 1559 में उदयपुर की स्थापना अपने पुत्र उदय के नाम पर की थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Clans",
+        "question_en": "Which Rajput clan ruled over the region of Mewar?",
+        "question_hi": "मेवाड़ क्षेत्र पर कौन-सा राजपूत क्लान शासन करता था?",
+        "A_en": "Sisodia", "A_hi": "सिसोदिया",
+        "B_en": "Kachwaha", "B_hi": "कच्छवाहा",
+        "C_en": "Chauhan", "C_hi": "चौहान",
+        "D_en": "Parmar", "D_hi": "परमार",
+        "answer": "A",
+        "explanation_en": "The Sisodia Rajputs were the dominant rulers of Mewar, known for their valor and heritage.",
+        "explanation_hi": "मेवाड़ के शासक सिसोदिया राजपूत थे, जिन्हें शौर्य और विरासत के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Monuments",
+        "question_en": "Which fort is known as the 'White Fort' of Rajasthan?",
+        "question_hi": "किस किले को राजस्थान का 'सफेद किला' कहा जाता है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अंबर किला",
+        "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+        "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort, built by Raja Chitrangad, is known as the 'White Fort' due to its white marble architecture.",
+        "explanation_hi": "चित्तौड़गढ़ किला, जो राजा चित्रंगद द्वारा निर्मित था, अपने श्वेत मार्बल वास्तुकला के कारण 'सफेद किला' के नाम से जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajasthan's Capital",
+        "question_en": "Which ruler shifted the capital of Rajasthan from Chittorgarh to Udaipur?",
+        "question_hi": "राजस्थान की राजधानी को चित्तौड़गढ़ से उदयपुर किस शासक द्वारा स्थानांतरित किया गया था?",
+        "A_en": "Udai Singh II", "A_hi": "उदय सिंह द्वितीय",
+        "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+        "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+        "D_en": "Raja Man Singh Tomar", "D_hi": "राजा मन सिंह तोमर",
+        "answer": "A",
+        "explanation_en": "Udai Singh II shifted the capital from Chittorgarh to Udaipur in 1559 to escape Mughal attacks.",
+        "explanation_hi": "उदय सिंह द्वितीय ने मुगल हमलों से बचने के लिए 1559 में चित्तौड़गढ़ से उदयपुर तक राजधानी को स्थानांतरित कर दिया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajasthan's Culture",
+        "question_en": "Which dance form is traditionally performed during the Teej festival in Rajasthan?",
+        "question_hi": "राजस्थान में तीज त्योहार के दौरान पारंपरिक रूप से कौन-सा नृत्य रूप नृत्य किया जाता है?",
+        "A_en": "Kalbeliya", "A_hi": "कालबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Chakri", "C_hi": "चक्री",
+        "D_en": "Kathak", "D_hi": "कथक",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional Rajasthani dance performed by women, especially during Teej festivals.",
+        "explanation_hi": "घूमर एक पारंपरिक राजस्थानी नृत्य है, जिसे महिलाएं, विशेष रूप से तीज त्योहारों के दौरान नृत्य करती हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajasthan's Geography",
+        "question_en": "Which river is the lifeline of the Thar Desert region in Rajasthan?",
+        "question_hi": "राजस्थान में थार मरूभूमि क्षेत्र के लिए कौन-सी नदी मुख्य जीवन रेखा मानी जाती है?",
+        "A_en": "Chambal", "A_hi": "चम्बल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Ghaggar", "C_hi": "घग्घर",
+        "D_en": "Sabarmati", "D_hi": "साबरमती",
+        "answer": "B",
+        "explanation_en": "The Luni River is the primary water source for the Thar Desert region in Rajasthan.",
+        "explanation_hi": "लूनी नदी राजस्थान के थार मरूभूमि क्षेत्र के लिए मुख्य पानी का स्रोत है।"
+    }
+]
