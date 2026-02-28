@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा मंगलवाला है।",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगाराज़्य",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुंभालगढ़ मंगलवाला",
+"C_en": "Birla Mandir", "C_hi": "बिल्ड मंत्र",
+"D_en": "Amer Fort", "D_hi": "अमेर मंगलवाला",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort is located in Jodhpur.",
+"explanation_hi": "कुंभालगढ़ मंगलवाला जोध्यंत्र मंगलवाला से पार है।",
+}
+]
