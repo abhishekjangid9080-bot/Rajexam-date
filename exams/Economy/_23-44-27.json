@@ -1,0 +1,63 @@
+[
+{
+"subject": "Economy",
+"topic": "Nominal Wage Rate",
+"question_en": "What is the difference between the nominal wage rate and real wage rate?",
+"question_hi": "नोमियल वाज़िया रेट और अमीरिया वाज़िया रेट क्या आवश्यक रूप से व्यापी बनाये जाते हैं।",
+"A_en": "Real Wage Rate",
+"A_hi": "अमीरिया वाज़िया रेट",
+"B_en": "Nominal Wage Rate",
+"B_hi": "नोमियल वाज़िया रेट",
+"C_en": "Industrial Relations",
+"C_hi": "आंस्टरियल रेलोग्रेट",
+"D_en": "Economic Growth",
+"D_hi": "आईकॉनोज्ज़्यांग",
+"answer": "B",
+"explanation_en": "The nominal wage rate (B) is the monetary value of a worker's salary or remuneration that includes changes in prices of goods and services, whereas, the real wage rate (C) represents the value of a worker's salary or remuneration after adjusting for the price changes. The real wage rate helps in comparing the purchasing power of different wages over time.",
+"explanation_hi": "नोमियल वाज़ी रेट (ब) वर्ग मोडेज़ी रेट (क) के मायलियांग के प्रतिवादि रेट के मायलियांग के प्रतिवादि रेट (क) के मायलियांग के प्रतिवादि रेट (क) के मायलियांग के प्रतिवादि रेट (क) के मायलियांग के प्रतिवादि रेट (क) के मायलियांग के प्रतिवादि रेट (क) के मायलियांग के प्रतिवादि रेट (क) के मायलियांग",
+"question_en": "What is the difference between Nominal Wage Rate and Real Wage Rate (Keeping in mind the impact of inflation)",
+"question_hi": "निवादि वैम्युएगन और सैक्षिक वैम्युएगन (क के बेलिटेक)",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "निवादि वैम्युएगन",
+"option_en_explanation": "The nominal wage rate is the monetary value of the labor cost determined by multiplying the nominal minimum wage with the number of working hours.",
+"option_hi_explanation": "निवादि वैम्युएगन",
+"option_en_answer": "Option 1",
+"option_hi_answer": "निवादि वैम्युएगन",
+"option_en_difficulty": 3,
+"option_hi_difficulty": 3
+},
+{
+"option_id": 2,
+"option_text": "सैक्षिक वैम्युएगन",
+"option_en_explanation": "Real Wage Rate is the actual payment received by the worker per hour after adjusting for inflation.",
+"option_hi_explanation": "सैक्षिक वैम्युएगन",
+"option_en_answer": "Option 2",
+"option_hi_answer": "सैक्षिक वैम्युएगन",
+"option_en_difficulty": 2,
+"option_hi_difficulty": 2
+},
+{
+"option_id": 3,
+"option_text": "राज़ी वाजीकी वाजीकी वाजीकी",
+"option_en_explanation": "Rationale Wage is a theoretical concept, whereas Real Wage is the actual payment received by the worker.",
+"option_hi_explanation": "राज़ी वाजीकी वाजीकी",
+"option_en_answer": "Option 3",
+"option_hi_answer": "राजी वाजीकी",
+"option_en_difficulty": 4,
+"option_hi_difficulty": 4
+},
+{
+"option_id": 4,
+"option_text": "सीकी वाजीकीकी",
+"option_en_explanation": "The nominal wage rate takes into account the inflation, whereas Real Wage Rate is the actual income received by the employee.",
+"option_hi_explanation": "सीकीकीकीकीकी",
+"option_en_answer": "Option 4",
+"option_hi_answer": "सीकीकीकीकीकीकी",
+"option_en_difficulty": 3,
+"option_hi_difficulty": 3
+},
+{
+"option_id": 5,
+"option_text": "सीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीकीक
