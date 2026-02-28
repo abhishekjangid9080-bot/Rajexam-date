@@ -1,0 +1,149 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. The instructions specify that each question must be in both Hindi and English, following the Testbook style, and in a strict JSON format. 
+
+First, I need to identify relevant topics within Rajasthan Culture. Possible areas include folk dances, festivals, historical figures, art forms, traditional attire, famous monuments, music, and regional languages. Each question should be of moderate difficulty, suitable for the mentioned exams.
+
+For each question, I need to create a question and four options in both languages. The answer should be accurate, and explanations should clarify the correct choice. Let's brainstorm some questions.
+
+1. **Folk Dance**: Rajasthan is known for dances like Ghoomar, Kalbeliya, Kathakali. Wait, Kathakali is from Kerala. So correct options should be Ghoomar and Kalbeliya. Maybe a question on which is a traditional dance of Rajasthan.
+
+2. **Festivals**: Major festivals include Gangaur, Teej, Mewar festival. Need to confirm which are specific to Rajasthan.
+
+3. **Traditional Attire**: Mohair shawls (Kasida) are from Rajasthan. Maybe a question on traditional dress.
+
+4. **Music Instruments**: Sitar is not Rajasthani, but instruments like Dholak, Bansuri, Sarangi are. Need to verify which are traditional.
+
+5. **Historical Figures**: Rajput kings like Maharana Pratap, Raja Man Singh. Their contributions to Rajasthan culture.
+
+6. **Monuments**: Amber Fort, Hawa Mahal, Mehrangarh Fort. Need to associate them with their locations.
+
+7. **Languages**: Rajasthani languages like Marwari, Mewari. Maybe a question on regional languages.
+
+8. **Art Forms**: Miniature paintings, Blue pottery, Warli (Wait, Warli is from Maharashtra). Correct art forms from Rajasthan.
+
+9. **Cuisine**: Famous dishes like Dal Baati Churma, Gatte ki Sabzi. Confirm authenticity.
+
+10. **Famous Dances**: Ghoomar is performed by women, Kalbeliya is a male dance. Maybe a question on the gender associated with these dances.
+
+Now, checking for accuracy. For example, Ghoomar is indeed a Rajasthani dance. Kalbeliya is also from Rajasthan, performed by the Kalbeliya community. Mewar is a region in Rajasthan, but not a festival. Gangaur is a major festival in Rajasthan. The Amber Fort is in Jaipur. Dholak is a traditional drum in Rajasthan. Mohair shawls are made in Rajasthan. Maharana Pratap is a key historical figure. Rajasthani languages include Marwari and Mewari. Blue pottery is a craft from Rajasthan. Miniature paintings are a Rajasthani art form.
+
+Need to structure each question with correct options and explanations. Ensure that the options are plausible, with the correct answer in one of the four. Avoid trick questions but maintain challenge. Also, make sure the explanations are concise and accurate. Let's draft each question step by step, cross-verifying facts for correctness.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Dance",
+        "question_en": "Which of the following is a traditional folk dance of Rajasthan performed by women?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थान का पारंपरिक लोक नृत्य है जिसे महिलाएं प्रस्तुत करती हैं?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Bhangra", "C_hi": "भंगड़ा",
+        "D_en": "Bharatanatyam", "D_hi": "भरतनाट्यम",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan performed by women, known for its vibrant movements and colorful attire.",
+        "explanation_hi": "घूमर राजस्थान का पारंपरिक लोक नृत्य है जिसे महिलाएं प्रस्तुत करती हैं, इसे उत्साही आंदोलनों और रंगीन पोशाक के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+        "question_hi": "राजस्थान में देवी गौरी की पूजा करने के लिए कौन सा त्योहार मनाया जाता है?",
+        "A_en": "Diwali", "A_hi": "दिवाली",
+        "B_en": "Gangaur", "B_hi": "गंगौर",
+        "C_en": "Holi", "C_hi": "होली",
+        "D_en": "Navratri", "D_hi": "नवरात्रि",
+        "answer": "B",
+        "explanation_en": "Gangaur is a prominent festival in Rajasthan dedicated to honoring the goddess Gauri, symbolizing the union of Shiva and Parvati.",
+        "explanation_hi": "गंगौर राजस्थान का एक प्रमुख त्योहार है जिसे देवी गौरी की पूजा करने के लिए मनाया जाता है, जो शिव और पार्वती के संघ को दर्शाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "Which traditional garment is commonly worn by Rajasthani women during festivals?",
+        "question_hi": "अनुष्ठानों में राजस्थानी महिलाएं आमतौर पर कौन से पारंपरिक पहनावे को पहनती हैं?",
+        "A_en": "Sari", "A_hi": "साड़ी",
+        "B_en": "Ghagra-Choli", "B_hi": "घगड़ा-चोली",
+        "C_en": "Sherwani", "C_hi": "शेरवानी",
+        "D_en": "Dhoti", "D_hi": "दोटी",
+        "answer": "B",
+        "explanation_en": "Ghagra-Choli is a traditional outfit worn by Rajasthani women during festivals, often paired with a dupatta.",
+        "explanation_hi": "घगड़ा-चोली राजस्थानी महिलाओं द्वारा अनुष्ठानों में पहना जाने वाला पारंपरिक पहनावा है, जिसे अक्सर दुपट्टा के साथ पहना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Music Instruments",
+        "question_en": "Which musical instrument is traditionally used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक संगीत में पारंपरिक रूप से कौन सा संगीत यंत्र उपयोग किया जाता है?",
+        "A_en": "Sitar", "A_hi": "सितार",
+        "B_en": "Dholak", "B_hi": "ढोलक",
+        "C_en": "Veena", "C_hi": "वीणा",
+        "D_en": "Harmonium", "D_hi": "हारमोनियम",
+        "answer": "B",
+        "explanation_en": "Dholak is a traditional percussion instrument used in Rajasthani folk music, especially during festivals and celebrations.",
+        "explanation_hi": "ढोलक राजस्थानी लोक संगीत में पारंपरिक ताल यंत्र है, विशेषकर उत्सवों और अनुष्ठानों के दौरान इसका उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Figures",
+        "question_en": "Who was the legendary Rajput king of Mewar known for his valor against the Mughal Empire?",
+        "question_hi": "मेवाड़ के मुग़ल साम्राज्य के खिलाफ वीरता के लिए प्रसिद्ध राजपूत राजा कौन थे?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Raja Man Singh", "B_hi": "राजा मान सिंह",
+        "C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+        "D_en": "Raja Bhoj", "D_hi": "राजा भोज",
+        "answer": "A",
+        "explanation_en": "Maharana Pratap was a legendary Rajput king of Mewar who famously resisted the Mughal Empire and is celebrated for his bravery.",
+        "explanation_hi": "महाराणा प्रताप मेवाड़ के प्रसिद्ध राजपूत राजा थे जो मुग़ल साम्राज्य के खिलाफ प्रतिरोध के लिए जाने जाते हैं और उनकी वीरता के लिए प्रसिद्ध हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Monuments",
+        "question_en": "Which historical fort is located in Jaipur and is known as the 'Amber Fort'?",
+        "question_hi": "जयपुर में स्थित कौन सा ऐतिहासिक दुर्ग 'अम्बर किला' के नाम से जाना जाता है?",
+        "A_en": "Hawa Mahal", "A_hi": "हवा महल",
+        "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+        "C_en": "Nahargarh Fort", "C_hi": "नहरगढ़ किला",
+        "D_en": "Chittorgarh Fort", "D_hi": "चित्तौड़गढ़ किला",
+        "answer": "B",
+        "explanation_en": "Amber Fort is a historical fort located in Jaipur, renowned for its intricate architecture and royal heritage.",
+        "explanation_hi": "अम्बर किला जयपुर में स्थित एक ऐतिहासिक किला है, जिसे जटिल वास्तुकला और राजकुमारी वंश के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which dish is considered the staple food of Rajasthan?",
+        "question_hi": "राजस्थान के भोजन का मुख्य व्यंजन कौन सा माना जाता है?",
+        "A_en": "Dal Baati Churma", "A_hi": "दाल बाटी चूरमा",
+        "B_en": "Pani Puri", "B_hi": "पानी पूरी",
+        "C_en": "Biryani", "C_hi": "बिरयानी",
+        "D_en": "Idli Sambar", "D_hi": "इडली साबड़ी",
+        "answer": "A",
+        "explanation_en": "Dal Baati Churma is a traditional Rajasthani dish considered the staple food, made with lentils, wheat balls (baati), and sweetened crumbly mixture (churma).",
+        "explanation_hi": "दाल बाटी चूरमा राजस्थानी भोजन का मुख्य व्यंजन है, जो मसूरी, गेहूं के गोले (बाटी) और मीठे टूटे हुए मिश्रण (चूरमा) से बनाया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Languages",
+        "question_en": "Which language is primarily spoken in the Marwar region of Rajasthan?",
+        "question_hi": "राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से कौन सी भाषा बोली जाती है?",
+        "A_en": "Marwari", "A_hi": "मारवाड़ी",
+        "B_en": "Mewari", "B_hi": "मेवाड़ी",
+        "C_en": "Braj", "C_hi": "ब्रज",
+        "D_en": "Lahari", "D_hi": "लहारी",
+        "answer": "A",
+        "explanation_en": "Marwari is the primary language spoken in the Marwar region of Rajasthan, known for its distinct dialect and cultural influence.",
+        "explanation_hi": "मारवाड़ी राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से बोली जाने वाली भाषा है, जिसके अपने विशिष्ट बोली और सांस्कृतिक प्रभाव हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Art Forms",
+        "question_en": "Which traditional art form of Rajasthan is associated with miniature paintings?",
+        "question_hi": "राजस्थान के पारंपरिक कला रूप में से कौन सा छोटे चित्रकला (मिनिएचर पेंटिंग) से जुड़ा है?",
+        "A_en": "Blue Pottery", "A_hi": "ब्लू पोटरी",
+        "B_en": "Miniature Painting", "B_hi": "मिनिएचर चित्रकला",
+        "C_en": "Warli Painting", "C_hi": "वर्ली चित्रकला",
+        "D_en": "Madhubani Painting", "D_hi": "मधुबनी चित्रकला",
+        "answer": "B",
+        "explanation_en": "Miniature Painting is a traditional art form in Rajasthan, characterized by intricate details and often depicting royal themes.",
+        "explanation_hi": "मिनिएचर चित्रकला राजस्थान की एक पारंपरिक कला रूप है, जिसमें जटिल विवरण होते हैं और अक
