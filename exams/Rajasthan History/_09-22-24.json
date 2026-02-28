@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Famous Festivals",
+"question_en": "Which festival is celebrated with great enthusiasm in Rajasthan?",
+"question_hi": "राजस्थान में महत्ता क्या festival बड़े आशास्त्रेंद्रिया के साथ जीतना होता है।",
+"A_en": "Kite Festival (Udaipur)",
+"A_hi": "कीट फेस्टर (उदयपुर)",
+"B_en": "Cultural Festivals (Jaisalmer)",
+"B_hi": "कलाकारी फेस्टर (जयसालमेर)",
+"C_en": "Holi (Jaipur)",
+"C_hi": "होली (जयपुर)",
+"D_en": "Food Festival (Jodhpur)",
+"D_hi": "भारतीय फेस्टर (जोधौर)",
+"answer": "C",
+"explanation_en": "Holi, also known as the Festival of Colors, is celebrated with great enthusiasm in Jaipur.",
+"explanation_hi": "होली, जयपुर में बैनेवाली पूर्वासाने वाली संग",
+}
