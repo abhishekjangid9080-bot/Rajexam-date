@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP of Indian States",
+"question_en": "Which Indian state has the highest GDP in 2021?",
+"question_hi": "2021 में भारत के एक राज्य 2021 में सरल एक्सप्रेस के उच्च गर्मित राज्य है।",
+"A_en": "Gujarat",
+"A_hi": "गुजरात",
+"B_en": "Maharashtra",
+"B_hi": "महाराष्ट्र",
+"C_en": "Tamil Nadu",
+"C_hi": "तमिलनाडू",
+"D_en": "Andhra Pradesh",
+"D_hi": "अंधरात्रिया",
+"answer": "B",
+"explanation_en": "Maharashtra had the highest GDP in India in 2021.",
+"explanation_hi": "2021 में भारत में सरल पूर्वागों का उच्च GDP होंगे।",
+}
+]
