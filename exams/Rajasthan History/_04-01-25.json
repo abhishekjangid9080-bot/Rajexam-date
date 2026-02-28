@@ -1,0 +1,33 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous monument in Rajasthan is known as 'The Pink City'?",
+"question_hi": "राजस्थान में कौन सा प्रमोटन 'पंजीकरणीय घर' के नाम से जाना जाता है?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका फोट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Rajmahal", "C_hi": "राजमहाल",
+"D_en": "Palace of Winds", "D_hi": "विधान",
+"answer": "B",
+"explanation_en": "Hawa Mahal, located in Jaipur, is known as the 'Palace of Winds' due to its unique design that allows the cool breeze to flow through its many windows.",
+"explanation_hi": "जैपूर में हावा महाल, इसका विशेष संकेत है कि इसके अन्यान्स का रेखा है, जो नेशान प्रयोग को शीर्षित करने का विशेष संकेत है, जो एक अन्यान प्रयोगम को उत्तर समुद्रांनंदर प्रयोगम का उपयोगम है, जैसा समुद्रांनंदर ने योग्याना प्रयोगम का उपयोगम है।",
+"question_en": "Who was the ruler who erected Jaisamandar Lake?",
+"question_hi": "जैसामंदर ने किस रोलका उपयोगम का उत्तर नव्याना प्रयोगम है।",
+"A_en": "Jaisamandar", "A_hi": "जैसामंदर",
+"B_en": "Amber", "B_hi": "अमर",
+"C_en": "Saheliyon ki Rani Garden", "C_hi": "साहिलीयों की गैर्न",
+"D_en": "Windiwari", "D_hi": "वायंदरी"
+"answer": "B",
+"explanation_en": "Amber, also known as Jaisamandar, is the ruler who built Jaisamandar Lake.",
+"explanation_hi": "अमर, जैसामंदर के नाम केविशानकी सम्पतित विस्तर",
+"question_en": "Who built Jaisamandar Lake?",
+"question_hi": "जैसामंदर का नाम समानकी सम्पतित विस्तर",
+"A_en": "Amber", "A_hi": "अमर",
+"B_en": "Jaipur", "B_hi": "जैपूर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Jaisamand", "D_hi": "जैसामंद",
+"answer": "A",
+"explanation_en": "Amber, also known as Jaipur, is the ruler who built Jaisamandar Lake.",
+"explanation_hi": "अमर, जैपूर मेंट का नाम जैसामंदर लेका संतर",
+}
+]
