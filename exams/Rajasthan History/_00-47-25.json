@@ -1,0 +1,54 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which district of Rajasthan was a part of Meera Mandal?",
+"question_hi": "राजस्थान के विभिन्न जिले मेरा मंडल में थे।",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Alwar", "D_hi": "अल्वार",
+"answer": "B",
+"explanation_en": "Meera Mandal was formed by combining various districts, including Jodhpur district of Rajasthan.\nMeera Mandal was a part of Rajasthan's Meera Region and consisted of the following districts: Jodhpur, Jaisalmer, Sriganganagar, Barmer, Bikaner, Jalore, Dausa, Rajsamand, Sirohi, Pratapgarh, Bhilwara, and Churu.",
+"explanation_hi": "मेरा मणि बने राजधानी के मेरा राज्य मैंने बना है। मैंने धार्मित्रा राज्य के मेरा और मैंने निर्मला राज्य में बने हैं। मीने बना है और मैंने निर्मला राज्य में बना है।",
+"answer": "B",
+"exam_type": "Objective",
+"question_en": "Which of the following districts was part of the former Meerut state and later merged with Rajasthan state?",
+"question_hi": "मेराने और निर्मला राज्य में बने हैंकर से बने है।",
+"question_ar": "أي من المناطق التالية كانت جزءًا من ولاية ميروت السابقة وتم دمجها لاحقًا مع ولاية راجستان?",
+"options": [
+{
+"option_id": 1,
+"option_value": "बढ़मैर",
+"option_title_en": "Badshahpur",
+"option_title_hi": "बढ़मैर",
+"option_title_ar": "بادشہپور",
+"option_title_en_ar": "Badshahpur",
+"option_title_hi_ar": "बढ़मैर (अर्थांग से बने हैं।",
+"question_ar": "أي من المناطق التالية كانت جزءًا من ولاية ميروت السابقة ودمجت لاحقًا مع ولاية راجستان؟",
+"answer_id": 1
+},
+{
+"option_id": 2,
+"option_value": "कॉंगना",
+"option_title_en": "Kangan",
+"option_title_hi": "कॉंगना",
+"option_title_ar": "कांगाना",
+"option_title_en_ar": "Kangan",
+"option_title_hi_ar": "कॉंगाना",
+"option_title_ar_ar": "Kangan (कांगाना)",
+"question_ar": "कॉंगना को किस्तान मैंक्षिते हैं।",
+"answer_id": 2
+},
+{
+"option_id": 3,
+"option_value": "कॉंगना (कांगाना)",
+"option_title_en": "Kangan (Kangan)",
+"option_title_hi": "कॉंगाना (कांगाना)",
+"option_title_ar": "كانگان (کانگان)",
+"option_title_en_ar": "Kangan (Kangan)",
+"option_title_hi_ar": "Kangan (कांगाना)",
+"question_ar": "كأنگان (کانگان) को किस्तान मैंक्षिते हैं।",
+"answer_id": 3
+}
+]
