@@ -1,0 +1,38 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Raja Jai Singh and the Founding of Jaipur",
+"question_en": "Who is credited with founding Jaipur and what year was it founded?",
+"question_hi": "जयपुर को किस राजा के साथ बनाया गया है और उसके बनाए गए वर्ष",
+"A_en": "Raja Jai Singh II", "A_hi": "राजा जैसेंग एस द्वितीय",
+"B_en": "Kumbha Rao Diwali", "B_hi": "कुम्भारो दीवाली",
+"C_en": "Raja Man Singh I", "C_hi": "राजा मंगला",
+"D_en": "Raja Pratap Singh", "D_hi": "राजा प्रताप सिंग",
+"answer": "A",
+"explanation_en": "Jai Singh II is credited with the construction of Jaipur, which was founded in 1727.",
+"explanation_hi": "जैसेंग एस द्वितीय ने Jaipur ko बनाया जैसेंग एस द्वितीय को क्या किया गया है? क्या भविता राजा प्रताप सिंग ने Jaipur को 1727 के वर्षों में बना",
+"question_en": "Which king founded Jaipur and when was it founded?",
+"question_hi": "क्या राजा ने Jaipur बना और उसकी बनाई के वर्षों में क्या हुएं?",
+"answer": "A",
+"explanation_en": "Raja Jai Singh II founded Jaipur in 1727 AD.",
+"explanation_hi": "राजा जैसेंग एस द्वितीय ने Jaipur बनाई के वर्षों में क्या हुएं?",
+"options": [
+{
+"option_en": "A",
+"option_hi": "जैसेंग एस द्वितीय",
+"option_explanation_en": "Jai Singh II",
+"option_explanation_hi": "जैसेंग एस द्वितीय के वर्षों में क्या हुएं?",
+"option_explanation_hi": "जैसेंग एस द्वितीय के वर्षों में क्या हुएं?",
+"explanation_en": "Jai Singh II ruled Rajputana during the years 1722 to 1744. In which years did he reign?",
+"explanation_hi": "जैसेंग एस द्वितीय के वर्षों में क्या हुएं?",
+"options": [
+{
+"option_en": "1722 AD to 1744 AD",
+"option_hi": "1722 AD to 1744 AD",
+"option_explanation_en": "Jai Singh II reigned from 1722 AD to 1744 AD.",
+"option_explanation_hi": "जैसेंग एस द्वितीय के वर्षों में क्या हुएं?",
+"answer": "A",
+}
+]
+}
+]
