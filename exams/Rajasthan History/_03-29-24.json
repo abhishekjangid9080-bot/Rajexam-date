@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous historical fort is located in Jaipur?",
+"question_hi": "जयपुर में कई पुराने संग्रहणों और निष्कारणों के विवरण के लिए",
+"A_en": "Amber Fort", "A_hi": "अमेरिका संग्रह",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "City Palace", "C_hi": "शहर मंदिर",
+"D_en": "Nahargarh Fort", "D_hi": "नाहरगढ़ संग्रह",
+"answer": "B",
+"explanation_en": "Amber Fort, also known as Amer Fort, is a famous historical monument located in Jaipur. It is built on a hill and is best known for its unique architectural design.",
+"explanation_hi": "अमेरिका संग्रह",
+"explanation_en_alt": "Hawa Mahal, known as the Wind Palace, is a beautiful palace located in Jaipur. It is famous for its intricate carvings and design.",
+"explanation_hi_alt": "हावा महाल",
+"explanation_en_alt2": "City Palace, located in the heart of Jaipur, is a blend of Rajasthani and Mughal architectural styles. It is a popular tourist destination.",
+"explanation_hi_alt2": "शहर मंदिर",
+"explanation_en_alt3": "Nahargarh Fort, built by Maharaja Sangram Singh II, is a famous fort located in Jaipur. It provides a panoramic view of the city.",
+"explanation_hi_alt3": "नाहरगढ़ संग्रह",
+}
