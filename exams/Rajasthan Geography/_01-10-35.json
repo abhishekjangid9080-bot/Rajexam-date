@@ -1,0 +1,212 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Geography for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. The questions need to be in both Hindi and English, with explanations in both languages as well. The JSON structure must be strict, following the example provided.
+
+First, I need to choose relevant topics within Rajasthan Geography. Possible topics could include rivers, mountains, historical sites, cities, mineral resources, etc. Let me brainstorm some topics.
+
+1. Rivers: The Chambal, Luni, Narmada, etc., are important. For example, which river is known as the lifeline of Rajasthan?
+2. Highest peak: Mount Abu is the highest point, so a question on that.
+3. Major cities: Like Jaipur, Jodhpur, Udaipur, Bikaner.
+4. Mineral resources: Rajasthan is rich in certain minerals like marble, limestone, etc.
+5. Deserts: Thar Desert is a key topic.
+6. Historical forts: Like Mehrangarh Fort, Chittorgarh Fort.
+7. Largest districts by area: Which district is the largest?
+8. Lakes: Pushkar Lake, Pichola Lake.
+9. Traditional dance forms: Kathak, Garba, etc., but maybe that's more culture than geography.
+10. Agriculture: Major crops like wheat, millet.
+
+Wait, the user mentioned "Topic" in the example but it's empty. Maybe they want each question to have a different topic. So perhaps each question is on a different sub-topic under Rajasthan Geography.
+
+Let me list out 10 topics:
+
+1. Capital of Rajasthan
+2. Highest mountain peak in Rajasthan
+3. Longest river in Rajasthan
+4. Largest district by area
+5. Major mineral resources of Rajasthan
+6. Famous forts of Rajasthan
+7. Important lakes in Rajasthan
+8. Thar Desert location in Rajasthan
+9. Historical significance of a site like Chittorgarh
+10. River originating from Mount Abu
+
+Now, for each topic, create a question with options in both languages. Ensure the answer is accurate and explanations are clear.
+
+Check for accuracy. For example, the capital is Jaipur. Highest peak is Guru Shikhar at Mount Abu. Longest river is Chambal. Largest district by area is Jaisalmer. Major minerals: Limestone, marble, gypsum. Famous forts: Mehrangarh, Jaisalmer Fort. Important lakes: Pichola, Fateh Sagar. Thar Desert is in the northwestern part. Chittorgarh Fort is a UNESCO site. River originating from Mount Abu: Sabarmati or Luni.
+
+Need to verify these facts. For example, is Chambal the longest river in Rajasthan? Or is it the Luni? Wait, Chambal is longer than Luni. The Luni is the largest river in Rajasthan by discharge, but length-wise, Chambal is longer. So that's correct.
+
+For the mineral question, Rajasthan is rich in limestone, gypsum, and marble. So options could include these.
+
+Famous forts: Mehrangarh Fort in Jodhpur, Jaisalmer Fort, etc.
+
+Lakes: Pushkar Lake in Ajmer, Pichola in Udaipur.
+
+Thar Desert is in the northwestern part of Rajasthan, covering districts like Jaisalmer, Bikaner.
+
+Chittorgarh Fort's historical significance: It was the capital of Mewar and has temples and palaces.
+
+River originating from Mount Abu: Luni? Or Sabarmati? Wait, Sabarmati originates from the western slopes of Mount Abu. Luni is in the eastern part. So the correct answer might be Luni. Hmm, need to confirm.
+
+Let me check: The Luni river originates near Ajmer, in the Aravalli range. The Sabarmati river originates from Mount Abu. So if the question is about a river originating from Mount Abu, the answer is Sabarmati.
+
+Okay, that's a good point. Need to ensure each question is factually correct.
+
+Now, structuring each question with options in both languages. Make sure the translations are accurate. Avoid any English words in the Hindi options. Use appropriate terms.
+
+Also, the answer should be the correct option. Explanations should clearly state why the answer is correct.
+
+Let me start drafting the JSON array with these 10 questions.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Capital of Rajasthan",
+        "question_en": "Which city is the capital of Rajasthan?",
+        "question_hi": "राजस्थान की राजधानी कौन सा शहर है?",
+        "A_en": "Jodhpur",
+        "A_hi": "जोधपुर",
+        "B_en": "Jaipur",
+        "B_hi": "जयपुर",
+        "C_en": "Udaipur",
+        "C_hi": "उदयपुर",
+        "D_en": "Bikaner",
+        "D_hi": "बीकानेर",
+        "answer": "B",
+        "explanation_en": "Jaipur is the capital of Rajasthan, established in 1727 by Maharaja Sawai Jai Singh II.",
+        "explanation_hi": "जयपुर राजस्थान की राजधानी है, जिसकी स्थापना महाराजा सवाई जय सिंह द्वितीय द्वारा 1727 में की गई थी।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Highest Mountain Peak",
+        "question_en": "What is the highest mountain peak in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे ऊँची पहाड़ी चोटी कौन सी है?",
+        "A_en": "Guru Shikhar",
+        "A_hi": "गुरु शिखर",
+        "B_en": "Kumbhalgarh Peak",
+        "B_hi": "कुम्भलगढ़ चोटी",
+        "C_en": "Mount Abu Peak",
+        "C_hi": "माउंट अबू चोटी",
+        "D_en": "Sariska Peak",
+        "D_hi": "सरिस्का चोटी",
+        "answer": "A",
+        "explanation_en": "Guru Shikhar, located in the Abu Mountains, is the highest peak in Rajasthan at 1,722 meters.",
+        "explanation_hi": "गुरु शिखर, अबू पहाड़ियों में स्थित है, राजस्थान की सबसे ऊँची चोटी है जो 1,722 मीटर की ऊँचाई पर है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Longest River",
+        "question_en": "Which river is the longest in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+        "A_en": "Chambal",
+        "A_hi": "चम्बल",
+        "B_en": "Luni",
+        "B_hi": "लूनी",
+        "C_en": "Machhiwara",
+        "C_hi": "मच्छीवाड़ा",
+        "D_en": "Sabarmati",
+        "D_hi": "साबरमती",
+        "answer": "A",
+        "explanation_en": "The Chambal River, a tributary of the Yamuna, is the longest river in Rajasthan, flowing through Madhya Pradesh and Rajasthan.",
+        "explanation_hi": "चम्बल नदी, जो यमुना की सहायक नदी है, राजस्थान में सबसे लंबी नदी है जो मध्य प्रदेश और राजस्थान में प्रवाहित होती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Largest District by Area",
+        "question_en": "Which district is the largest in Rajasthan by area?",
+        "question_hi": "क्षेत्रफल के हिसाब से राजस्थान में सबसे बड़ा जिला कौन सा है?",
+        "A_en": "Jaisalmer",
+        "A_hi": "जैसलमेर",
+        "B_en": "Barmer",
+        "B_hi": "बाड़मेर",
+        "C_en": "Churu",
+        "C_hi": "चूरू",
+        "D_en": "Jalore",
+        "D_hi": "जालौर",
+        "answer": "A",
+        "explanation_en": "Jaisalmer District, located in the Thar Desert, covers an area of about 33,791 km², making it the largest district in Rajasthan.",
+        "explanation_hi": "जैसलमेर जिला, जो थार मरूभूमि में स्थित है, लगभग 33,791 वर्ग किमी के क्षेत्रफल के साथ राजस्थान का सबसे बड़ा जिला है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Major Mineral Resources",
+        "question_en": "Which mineral is most abundant in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे अधिक पाई जाने वाली खनिज कौन सी है?",
+        "A_en": "Limestone",
+        "A_hi": "चूना पत्थर",
+        "B_en": "Copper",
+        "B_hi": "तांबा",
+        "C_en": "Iron Ore",
+        "C_hi": "लौह अयस्क",
+        "D_en": "Coal",
+        "D_hi": "कोयला",
+        "answer": "A",
+        "explanation_en": "Rajasthan is rich in limestone, with significant deposits in districts like Sirohi and Rajsamand, used extensively in cement production.",
+        "explanation_hi": "राजस्थान चूना पत्थर में समृद्ध है, जिसके महत्वपूर्ण भंडार सीरोही और राजसमंद जैले जिलों में हैं, जिसका निर्माण बिना उत्पादन में व्यापक रूप से उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Historical Forts",
+        "question_en": "Which fort is known as the 'Fort of Sun'?",
+        "question_hi": "'सूर्य के महल' के रूप में कौन सा महल प्रसिद्ध है?",
+        "A_en": "Mehrangarh Fort",
+        "A_hi": "महरांगढ़ महल",
+        "B_en": "Jaisalmer Fort",
+        "B_hi": "जैसलमेर महल",
+        "C_en": "Chittorgarh Fort",
+        "C_hi": "चित्तौड़गढ़ महल",
+        "D_en": "Kumbhalgarh Fort",
+        "D_hi": "कुम्भलगढ़ महल",
+        "answer": "B",
+        "explanation_en": "Jaisalmer Fort, built in 1156 AD by Rawal Jaisal, is known as the 'Sun Fort' due to its sandstone architecture and solar alignment.",
+        "explanation_hi": "जैसलमेर महल, जिसकी स्थापना 1156 ईस्वी में रावल जयसिल द्वारा की गई थी, 'सूर्य के महल' के रूप में प्रसिद्ध है क्योंकि इसकी बलुआ पत्थर की आर्किटेक्चर और सौर संरेखण है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Important Lakes",
+        "question_en": "Which lake is situated in the middle of a desert in Rajasthan?",
+        "question_hi": "राजस्थान में मरूभूमि के बीच स्थित झील कौन सी है?",
+        "A_en": "Pichola Lake",
+        "A_hi": "पिचोला झील",
+        "B_en": "Fateh Sagar Lake",
+        "B_hi": "फतेह सागर झील",
+        "C_en": "Pushkar Lake",
+        "C_hi": "पुष्कर झील",
+        "D_en": "Jaisamand Lake",
+        "D_hi": "जैसमंद झील",
+        "answer": "C",
+        "explanation_en": "Pushkar Lake, located in the Thar Desert, is a sacred lake surrounded by Brahma temples and is central to the Pushkar Mela.",
+        "explanation_hi": "पुष्कर झील, जो थार मरूभूमि में स्थित है, ब्रह्मा मंदिरों से घिरी हुई पवित्र झील है और पुष्कर मेले के केंद्र में है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Thar Desert Location",
+        "question_en": "In which part of Rajasthan is the Thar Desert located?",
+        "question_hi": "थार मरूभूमि राजस्थान के किस भाग में स्थित है?",
+        "A_en": "Northwest",
+        "A_hi": "उत्तर-पश्चिम",
+        "B_en": "Northeast",
+        "B_hi": "उत्तर-पूर्व",
+        "C_en": "Southwest",
+        "C_hi": "दक्षिण-पश्चिम",
+        "D_en": "Southeast",
+        "D_hi": "दक्षिण-पूर्व",
+        "answer": "A",
+        "explanation_en": "The Thar Desert covers the northwest part of Rajasthan, including districts like Bikaner, Jaisalmer, and Barmer.",
+        "explanation_hi": "थार मरूभूमि राजस्थान के उत्तर-पश्चिम भाग में फैली हुई है, जिसमें बीकानेर, जैसलमेर और बाड़मेर जैले जिले शामिल हैं।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Cultural Heritage Site",
+        "question_en": "Which of the following is a UNESCO World Heritage Site in Rajasthan?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थान में यूनेस्को विश्व धरोहर स्थल है?",
+        "A_en": "Chittorgarh Fort",
+        "A_hi": "चित्तौड़गढ़ महल",
+        "B_en": "Umaid Bhawan Palace",
+        "B_hi": "उमैद भवन महल",
+        "C_en": "Hawa Mahal",
+        "C_hi": "हवा महल",
+        "D_en": "Jag Mandir",
+        "D_hi": "जग मंदिर",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort, a symbol of Rajput valor, was inscribed as a UNESCO World Heritage Site
