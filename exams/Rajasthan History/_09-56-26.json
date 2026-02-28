@@ -1,0 +1,53 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Rana Kumbha?",
+"question_hi": "राजस्थान में राणा कुम्ब्ह ने कालीनतम राजधानी के लीजिक्यां के लिए निम्नलिखित हैं:",
+"A_en": "Amber Fort", "A_hi": "अमेरिका की फोट",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्ब्हल गर",
+"C_en": "Mehrangarh Fort", "C_hi": "मेरांगर फोट",
+"D_en": "Kumbhalgarh Fort", "D_hi": "कुम्ब्लगर",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha. Kumbhalgarh is a well-known historical fort located in Rajasthan and is considered a part of the Rajasthan's famous Meera-Kumbhalgarh Fort chain.",
+"explanation_hi": "राजस्थान में रानी कुम्ब्लगर फोट को रानी कुम्ब्लगर फोट ने बना है। कुम्ब्लगर फोट एक विशेष राजधान-बल्लगर फोट है। राजस्थान में बना है और यह राजधान-बल्लगर फोट और के बल्लगर फोट मैंट प्रकार के लिंग से हैंट में बना है और यह बल्लगर फोट प्रकार के लिंग से हैंट में बना है।",
+"question_hi": "राजस्थान में बना हैंग से हैंट मैंट प्रकार के लिंग से हैंट में बना है।",
+"options": [
+{
+"option_id": 1,
+"option_text_hi": "राजस्थान में बना हैंग से हैंट मैंट प्रकार के लिंग से हैंट मैंट प्रकार के लिंग से हैंट मेंट प्रकार मेंट प्रकार के लिंग से हैंट मैंट।",
+"option_id": 2,
+"option_text_hi": "राजस्थान मेंट मेंट के लिंग से हैंट मैंट।",
+},
+{
+"option_id": 3,
+"option_text_hi": "राजस्थान मेंट मेंट के लिंग से हैंट मैंट।",
+},
+{
+"option_id": 4,
+"option_text_hi": "राजस्थान मेंट के लिंग से हैंट मैंट।",
+},
+{
+"option_id": 5,
+"option_text_hi": "राजस्थान मेंट के लिंग से हिंट मैंट।",
+},
+{
+"option_id": 6,
+"option_text_hi": "राजस्थान मेंट के लिंट मैंट।",
+},
+{
+"option_id": 7,
+"option_text_hi": "राजस्थान मैंट के लिंट।",
+},
+{
+"option_id": 8,
+"option_text_hi": "काेंट लेंट के लिंट।",
+}
+]
+"answer": 4,
+"explanation_en": "Meera Mehta and Kumbha Mehta ki kumbha Mehta ki Mehta ki baithi hai, काेंट लिंट काेंटकेंट।",
+"explanation_hi": "काेंट लेंट लिंट काेंट केंटेंटेंटेेंट लिंट काेंट काेंटेंटकाेंटेंटेंट लिंट",
+"explanation_hi": "काेंट लेंटेंट काेंट लिंटेंट लिंटेंट लिंट लिंटेंट लिंट काेंटेंट",
+"answer": 4,
+]
+]
