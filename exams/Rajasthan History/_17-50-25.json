@@ -1,0 +1,99 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rashtriya Madhyamik Exam (Class 10) ",
+"question_en": "Who was the first Maharaja of Jaipur?",
+"question_hi": "जयपुर के पहले महाराज़ी कौन थे?",
+"A_en": "Amar Singh",
+"A_hi": "अमर सिंग",
+"B_en": "Jai Singh",
+"B_hi": "जय सिंग",
+"C_en": "Mewar Risaldar",
+"C_hi": "मेवर रिसल्डर",
+"D_en": "Rao Bika",
+"D_hi": "राव बिका",
+"answer": "B",
+"explanation_en": "Jai Singh was the first Maharaja of Jaipur. He was a great astronomer and built the famous Jantar Mantar observatory in Jaipur. (जय सिंग राजधानी के पहले महाराज़ी है। उन्हें बड़े समासार और Jaipur main famous Jantar Mantar जांतर मांतर ऑब्सार मनोर प्रामय ने बनी एक गैसरी के पहले महाराज़ी है।",
+"question_hi": "जय सिंग राजधानी के पहले महाराज़ी है।",
+"options": [
+{
+"option_id": 1,
+"option_text_hi": "जैसरी",
+"option_text_en": "Queen",
+"option_text_ar": "الملكة",
+"option_answer": "B",
+"option_difficulty": "2"
+},
+{
+"option_id": 2,
+"option_text_hi": "जय सिंग",
+"option_text_en": "Jai Singh",
+"option_text_ar": "جاي سينغ",
+"option_answer": "A",
+"option_difficulty": "1"
+},
+{
+"option_id": 3,
+"option_text_hi": "मंगलों की चित्रमित्रमी",
+"option_text_en": "Mangal Singh",
+"option_text_ar": "مانجال سينغ",
+"option_answer": "C",
+"option_difficulty": "3"
+},
+{
+"option_id": 4,
+"option_text_hi": "राजा केंचां कें",
+"option_text_en": "King Kings",
+"option_text_ar": "الملك الملوك",
+"option_answer": "D",
+"option_difficulty": "4"
+},
+{
+"option_id": 5,
+"option_text_hi": "शामित्रमी",
+"option_text_en": "Samrat Singh",
+"option_text_ar": "السلطان سنغ",
+"option_answer": "E",
+"option_difficulty": "2"
+},
+{
+"option_id": 6,
+"option_text_hi": "राजपूर्व केंचां",
+"option_text_en": "Rajapurv ka Kehta",
+"option_text_ar": "الملك القدماء",
+"option_answer": "F",
+"option_difficulty": "3"
+},
+{
+"option_id": 7,
+"option_text_hi": "अलाजमी",
+"option_text_en": "Alazmi",
+"option_text_ar": "آل جامي",
+"option_answer": "G",
+"option_difficulty": "1"
+},
+{
+"option_id": 8,
+"option_text_hi": "शामित्रमी",
+"option_text_en": "Samrat Singh",
+"option_text_ar": "السُلطان سنغ",
+"option_answer": "H",
+"option_difficulty": "2"
+},
+{
+"option_id": 9,
+"option_text_hi": "मंगलों",
+"option_text_en": "Mangal Singh",
+"option_text_ar": "المغول",
+"option_answer": "I",
+"option_difficulty": "3"
+},
+{
+"option_id": 10,
+"option_text_hi": "राजपूर्व केंचां",
+"option_text_en": "Rajapurv ka Kehta",
+"option_text_ar": "الملك القدماء",
+"option_answer": "J",
+"option_difficulty": "4"
+}
+]
