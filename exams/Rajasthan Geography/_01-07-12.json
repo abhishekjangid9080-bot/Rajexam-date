@@ -1,0 +1,136 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Geography for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let me start by recalling key topics in Rajasthan's geography. First, the state's capital is Jaipur, so that's an easy one. Next, the Thar Desert is a significant feature. Then there's the Aravalli Range, which is important for geography questions. Rivers like the Chambal and its tributaries might come up. I should also include questions about the largest district, which is Jaisalmer. The longest river in Rajasthan is the Chambal, right? Then maybe a question about the highest peak in the Aravallis, which is Guru Shikhar. Oh, and the Rann of Kutch is in the western part. The famous marble city is Makrana, known for white marble. Lastly, the largest wildlife sanctuary, which is Khichan wildlife sanctuary in Jaisalmer. I need to structure each question with options in both English and Hindi, following the testbook style. Let me make sure the options are plausible and the correct answer is accurate. Also, explanations in both languages. I'll check the difficulty level to match Rajasthan exams. Each question should have a clear topic. Let me list them out and verify the facts again to avoid mistakes.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Physiography",
+        "question_en": "Which mountain range is located in Rajasthan?",
+        "question_hi": "राजस्थान में स्थित पर्वत श्रृंखला कौन सी है?",
+        "A_en": "Aravalli", "A_hi": "अरावली",
+        "B_en": "Vindhya", "B_hi": "विन्ध्य",
+        "C_en": "Satpura", "C_hi": "सतपुड़ा",
+        "D_en": "Nilgiri", "D_hi": "नीलगिरी",
+        "answer": "A",
+        "explanation_en": "The Aravalli Range is the oldest mountain range in India and runs through Rajasthan.",
+        "explanation_hi": "अरावली पर्वत श्रृंखला भारत की सबसे पुरानी पर्वत श्रृंखला है और राजस्थान में फैली हुई है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Deserts and Landforms",
+        "question_en": "Which desert is located in the eastern part of Rajasthan?",
+        "question_hi": "राजस्थान के पूर्वी भाग में कौन सा मरुस्थल स्थित है?",
+        "A_en": "Thar Desert", "A_hi": "थार मरुस्थल",
+        "B_en": "Kutch Desert", "B_hi": "कच्छ मरुस्थल",
+        "C_en": "Rajasthan Desert", "C_hi": "राजस्थान मरुस्थल",
+        "D_en": "Ladakh Desert", "D_hi": "लद्दाख मरुस्थल",
+        "answer": "A",
+        "explanation_en": "The Thar Desert, also known as the Rajasthan Desert, is located in the eastern part of Rajasthan.",
+        "explanation_hi": "थार मरुस्थल, जिसे राजस्थान मरुस्थल भी कहा जाता है, राजस्थान के पूर्वी भाग में स्थित है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers",
+        "question_en": "Which river is the longest in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+        "A_en": "Chambal", "A_hi": "चम्बल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Mahi", "C_hi": "माही",
+        "D_en": "Sabarmati", "D_hi": "साबरमती",
+        "answer": "A",
+        "explanation_en": "The Chambal River is the longest river in Rajasthan, flowing through the state before joining the Yamuna.",
+        "explanation_hi": "चम्बल नदी राजस्थान की सबसे लंबी नदी है, जो राज्य में प्रवाहित होकर यमुना में मिलती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Districts",
+        "question_en": "Which district is the largest in Rajasthan by area?",
+        "question_hi": "क्षेत्रफल के अनुसार राजस्थान का सबसे बड़ा जिला कौन सा है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Bikaner", "B_hi": "बीकानेर",
+        "C_en": "Churu", "C_hi": "चूरू",
+        "D_en": "Barmer", "D_hi": "बाड़मेर",
+        "answer": "A",
+        "explanation_en": "Jaisalmer is the largest district in Rajasthan, covering a vast area of the Thar Desert.",
+        "explanation_hi": "जैसलमेर राजस्थान का सबसे बड़ा जिला है, जो थार मरुस्थल के विशाल क्षेत्र को शामिल करता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Capital and Cities",
+        "question_en": "What is the capital of Rajasthan?",
+        "question_hi": "राजस्थान की राजधानी क्या है?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Jaipur", "B_hi": "जयपुर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "B",
+        "explanation_en": "Jaipur is the capital of Rajasthan, known for its pink city and historical monuments.",
+        "explanation_hi": "जयपुर राजस्थान की राजधानी है, जिसे गुलाबी नगरी और ऐतिहासिक स्मारकों के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Climate",
+        "question_en": "Which region in Rajasthan receives the highest rainfall?",
+        "question_hi": "राजस्थान में सबसे अधिक वर्षा कहाँ होती है?",
+        "A_en": "Thar Desert", "A_hi": "थार मरुस्थल",
+        "B_en": "Aravalli Range", "B_hi": "अरावली पर्वत श्रृंखला",
+        "C_en": "Mount Abu", "C_hi": "माउंट आबू",
+        "D_en": "Churu District", "D_hi": "चूरू जिला",
+        "answer": "C",
+        "explanation_en": "Mount Abu, located in the Aravalli Range, is the only hill station in Rajasthan and receives the highest rainfall due to its elevation.",
+        "explanation_hi": "माउंट आबू, जो अरावली पर्वत श्रृंखला में स्थित है, राजस्थान का एकमात्र हिल स्टेशन है और अपनी ऊंचाई के कारण सबसे अधिक वर्षा प्राप्त करता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Wildlife",
+        "question_en": "Which wildlife sanctuary is the largest in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे बड़ा वन्यजीव अभयारण्य कौन सा है?",
+        "A_en": "Ranthambore National Park", "A_hi": "रानीथम्बोर राष्ट्रीय उद्यान",
+        "B_en": "Kumbhalgarh Wildlife Sanctuary", "B_hi": "कुम्भलगढ़ वन्यजीव अभयारण्य",
+        "C_en": "Sariska National Park", "C_hi": "सरिस्का राष्ट्रीय उद्यान",
+        "D_en": "Desert National Park", "D_hi": "मरु राष्ट्रीय उद्यान",
+        "answer": "D",
+        "explanation_en": "The Desert National Park in Jaisalmer is the largest wildlife sanctuary in Rajasthan, covering a vast desert ecosystem.",
+        "explanation_hi": "जैसलमेर में स्थित मरु राष्ट्रीय उद्यान राजस्थान का सबसे बड़ा वन्यजीव अभयारण्य है, जो विशाल मरुस्थलीय पारिस्थितिकी तंत्र को कवर करता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Economic Geography",
+        "question_en": "Which region of Rajasthan is known as the 'Marble City'?",
+        "question_hi": "राजस्थान के किस क्षेत्र को 'मैर्बल सिटी' के नाम से जाना जाता है?",
+        "A_en": "Jaipur", "A_hi": "जयपुर",
+        "B_en": "Makrana", "B_hi": "माकराणा",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Jodhpur", "D_hi": "जोधपुर",
+        "answer": "B",
+        "explanation_en": "Makrana in Jaisalmer district is known for its white marble, used in the Taj Mahal and other historical monuments.",
+        "explanation_hi": "जैसलमेर जिले के माकराणा को श्वेत मार्बल के लिए जाना जाता है, जिसका उपयोग ताजमहल और अन्य ऐतिहासिक स्मारकों में किया गया है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Cultural Geography",
+        "question_en": "Which city is known as the 'Pink City' in Rajasthan?",
+        "question_hi": "राजस्थान में किस शहर को 'गुलाबी शहर' के नाम से जाना जाता है?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Jaipur", "B_hi": "जयपुर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "B",
+        "explanation_en": "Jaipur is called the Pink City due to the pink-colored buildings constructed during the 19th-century renovation.",
+        "explanation_hi": "जयपुर को 19वीं सदी के पुराने निर्माण के दौरान गुलाबी रंग की इमारतों के कारण 'गुलाबी शहर' कहा जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Geographical Features",
+        "question_en": "Which is the highest peak in the Aravalli Range?",
+        "question_hi": "अरावली पर्वत श्रृंखला के सबसे ऊपर कौन सा शिखर है?",
+        "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+        "B_en": "Kumbhalgarh", "B_hi": "कुम्भलगढ़",
+        "C_en": "Guru Shikhar", "C_hi": "गुरु शिखर",
+        "D_en": "Sariska Hills", "D_hi": "सरिस्का पहाड़ियाँ",
+        "answer": "C",
+        "explanation_en": "Guru Shikhar, located in Mount Abu, is the highest peak in the Aravalli Range, standing at 1,722 meters.",
+        "explanation_hi": "माउंट आबू में स्थित गुरु शिखर अरावली पर्वत श्रृंखला का सबसे ऊँचा शिखर है, जो 1,722 मीटर की ऊँचाई पर है।"
+    }
+]
