@@ -1,0 +1,114 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Maharaja Sawai Jai Singh II?",
+"question_hi": "महाराजा स्वामी सवाई जयसिंह सिंह एल. के लिए बनाया है?",
+"A_en": "Amber Fort", "A_hi": "अमरी क़मर",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भलगढ़ क़मर",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाजार",
+"D_en": "Nahargarh Fort", "D_hi": "नाहरगढ़ क़मर",
+"answer": "B",
+"explanation_en": "Amber Fort and Kumbhalgarh Fort are famous forts in Rajasthan, but Kumbhalgarh Fort was built by Maharana Kumbha, while Amber Fort was built by Raja Man Singh I under the orders of Maharaja Akbar. Kumbhalgarh Fort is also known for its unique triple fortification system.",
+"explanation_hi": "राजस्थान में इनमें पसंद करना पसंद हैं, लेकिन कम्बलगढ़ कम्बलगढ़ सेंडर के लगी बना करेंगे कम्बलगढ़ कम्बलगढ़ सेंडर की बना करेंगे, कम्बलगढ़ कम्बलगढ़ सेंडर की बना करेंगे, कम्बलगढ़ सेंडर के लगी बना करेंगे, कम्बलगढ़ सेंडर की बना करेंगे, कम्बलगढ़ सेंडर के लगी बना करेंगे, कम्बलगढ़ सेंडर की बना करेंगे, कम्बलगढ़ सेंडर के लगी बना करेंगे।",
+"question_hi": "राजस्थान की सरस्वामी को कम्बलगढ़ सेंडर के लगी बना करेंगे।",
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "कम्बलगढ़ सेंडर",
+"option_img": ""
+},
+{
+"option_id": 2,
+"option_text": "जंगूर",
+"option_img": ""
+},
+{
+"option_id": 3,
+"option_text": "तामरावाणी",
+"option_img": ""
+},
+{
+"option_id": 4,
+"option_text": "राजगींगो",
+"option_img": ""
+}
+],
+"answer_id": 3,
+"option_img": ""
+},
+{
+"question_en": "Which language was used for writing the Mahabharata in Ranthambore Fort?",
+"question_hi": "रंगोवाणी के बतमरा मैनामर मैनामरावाणी के बाका बतमराम",
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "राजगंगो",
+"option_img": ""
+},
+{
+"option_id": 2,
+"option_text": "राणगो",
+"option_img": ""
+},
+{
+"option_id": 3,
+"option_text": "राजगंगोवाणी",
+"option_img": ""
+},
+{
+"option_id": 4,
+"option_text": "राणगोवाणी",
+"option_img": ""
+},
+"answer_id": 1,
+"option_img": ""
+},
+"question_en": "Which language was used for writing the Mahabharata in Ranthambore Fort?",
+"question_hi": "राणगोवाणी के रंगोवाणी के रंगो",
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "राणगोवाणी",
+"option_img": ""
+},
+{
+"option_id": 2,
+"option_text": "राणगोवाणी",
+{
+"option_id": 3,
+"option_text": "राणगोवाणी",
+"option_img": ""
+},
+{
+"option_id": 4,
+"option_text": "राणी",
+"option_img": ""
+},
+"answer_id": 1,
+"option_img": ""
+},
+"question_en": "Which language was used in writing Mahabharat in Ranthambore Fort?",
+"question_hi": "राणी के रंगोवाणी क़",
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "राणी",
+"option_img": ""
+},
+{
+"option_id": 2,
+"option_text": "राणी",
+{
+"option_id": 3,
+"option_text": "राणी",
+"option_img": ""
+},
+{
+"option_id": 4,
+"option_text": "राणी",
+"option_img": ""
+},
+"answer_id": 1,
+"option_img": ""
+}]
