@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Geography, specifically on the topic of rivers. Let me start by recalling important rivers in Rajasthan. The main ones are the Chambal, Luni, Banas, Mahi, and Sabarmati. I should also consider their tributaries and where they flow through.
+
+First question: Which river is known as the lifeline of Rajasthan? The Chambal comes to mind because it's significant for irrigation and ecology. Let me check that fact. Yes, Chambal is often referred to as the lifeline due to its role in agriculture.
+
+Next, the Luni River is important. It's an endorheic river that doesn't flow into the sea. What's its origin? The Aravalli Range. That could be another question. Let me confirm if that's correct. Yes, Luni originates in the Aravallis, flows through Rajasthan, and ends in the Rann of Kutch.
+
+The Banas River is another key river. It's a tributary of the Chambal. I can ask about its tributaries or the districts it flows through. For example, Banas flows through Alwar and Dausa districts. Let me verify that. Correct, Banas starts in Alwar and flows through Dausa before joining Chambal.
+
+Mahi River is another one. It's a west-flowing river that joins the Arabian Sea. Wait, but in Rajasthan, Mahi flows through and then enters Gujarat. So a question about its origin in Rajasthan could be valid. Mahi's origin is in the Hadavas village of Banswara district. Let me confirm that. Yes, that's accurate.
+
+The Sabarmati River's upper part is in Rajasthan. It originates in the Aravallis, specifically in the Pushkar Valley. So a question about its origin. Correct, Sabarmati starts in Ajmer's Pushkar Valley.
+
+Now, which river is not a tributary of the Chambal? The options could be Banas, Kali Sindh, Parbati, and Mahi. Mahi is a separate river, not a Chambal tributary. That's a good question.
+
+The Ghaggar River is seasonal and flows through Rajasthan, but it's a non-perennial river. A question about which river is seasonal could include Ghaggar. Yes, Ghaggar is a seasonal river.
+
+The Kali Sindh River is another tributary of Chambal. A question about its confluence location. It meets Chambal in Dausa district. Let me check that. Yes, Kali Sindh joins Chambal in Dausa.
+
+The Ruparel River is one of the tributaries of Chambal. A question about which river is not a tributary of Chambal. Maybe the Mahi again, but need another river. Wait, the Mahi is separate. So Ruparel is a tributary, so the question could be about tributaries.
+
+Lastly, the Sipra River is a major river in the Hadoti region. It flows through Kota and ends in the Chambal. A question about Sipra's confluence point with Chambal. It meets near Kota. Correct.
+
+I need to ensure all the facts are accurate and the options are plausible. Also, explanations should be concise and in both Hindi and English. Let me structure each question with the correct answer and explanations, making sure the difficulty aligns with Rajasthan State Exams.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river is known as the lifeline of Rajasthan?",
+    "question_hi": "राजस्थान में कौन-सी नदी जीवनरेखा के रूप में जानी जाती है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Luni", "B_hi": "लूनी",
+    "C_en": "Banas", "C_hi": "बनास",
+    "D_en": "Mahi", "D_hi": "मही",
+    "answer": "A",
+    "explanation_en": "Chambal is considered the lifeline of Rajasthan due to its significant role in agriculture, ecology, and hydroelectric power.",
+    "explanation_hi": "चंबल को राजस्थान की जीवनरेखा माना जाता है क्योंकि इसकी कृषि, पारिस्थितिकी और जलविद्युत शक्ति में महत्वपूर्ण भूमिका है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river originates from the Aravalli Range and ends in the Rann of Kutch?",
+    "question_hi": "कौन-सी नदी अरावली पर्वतमाला से निकलकर कच्छ की रण में समाप्त होती है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Luni", "B_hi": "लूनी",
+    "C_en": "Banas", "C_hi": "बनास",
+    "D_en": "Mahi", "D_hi": "मही",
+    "answer": "B",
+    "explanation_en": "The Luni River originates in the Aravalli Range and flows into the Rann of Kutch in Gujarat.",
+    "explanation_hi": "लूनी नदी अरावली पर्वतमाला से निकलकर गुजरात की कच्छ की रण में बहती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river flows through Alwar and Dausa districts before joining the Chambal?",
+    "question_hi": "कौन-सी नदी अलवर और दौसा जिलों से गुजरकर चंबल से मिलती है?",
+    "A_en": "Banas", "A_hi": "बनास",
+    "B_en": "Chambal", "B_hi": "चंबल",
+    "C_en": "Kali Sindh", "C_hi": "काली सिंध",
+    "D_en": "Mahi", "D_hi": "मही",
+    "answer": "A",
+    "explanation_en": "The Banas River flows through Alwar and Dausa districts before joining the Chambal River.",
+    "explanation_hi": "बनास नदी अलवर और दौसा जिलों से गुजरकर चंबल नदी से मिलती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river originates in the Hadavas village of Banswara district?",
+    "question_hi": "कौन-सी नदी बांसवाड़ा जिले के हदावास गांव से निकलती है?",
+    "A_en": "Mahi", "A_hi": "मही",
+    "B_en": "Chambal", "B_hi": "चंबल",
+    "C_en": "Banas", "C_hi": "बनास",
+    "D_en": "Luni", "D_hi": "लूनी",
+    "answer": "A",
+    "explanation_en": "The Mahi River originates in the Hadavas village of Banswara district.",
+    "explanation_hi": "मही नदी बांसवाड़ा जिले के हदावास गांव से निकलती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river is a tributary of the Chambal?",
+    "question_hi": "चंबल की एक उपनदी कौन-सी है?",
+    "A_en": "Parbati", "A_hi": "परबती",
+    "B_en": "Mahi", "B_hi": "मही",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Sabarmati", "D_hi": "साबरमती",
+    "answer": "A",
+    "explanation_en": "Parbati is a major tributary of the Chambal River.",
+    "explanation_hi": "परबती नदी चंबल की प्रमुख उपनदी है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river is not a tributary of the Chambal?",
+    "question_hi": "चंबल की उपनदी नहीं है वह कौन-सी नदी है?",
+    "A_en": "Kali Sindh", "A_hi": "काली सिंध",
+    "B_en": "Mahi", "B_hi": "मही",
+    "C_en": "Banas", "C_hi": "बनास",
+    "D_en": "Ruparel", "D_hi": "रुपारेल",
+    "answer": "B",
+    "explanation_en": "Mahi is not a tributary of the Chambal River.",
+    "explanation_hi": "मही नदी चंबल की उपनदी नहीं है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river is known for its seasonal flow in Rajasthan?",
+    "question_hi": "राजस्थान में कौन-सी नदी मौसमी प्रवाह के लिए प्रसिद्ध है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Ghaggar", "B_hi": "घग्घर",
+    "C_en": "Banas", "C_hi": "बनास",
+    "D_en": "Luni", "D_hi": "लूनी",
+    "answer": "B",
+    "explanation_en": "Ghaggar is a seasonal river in Rajasthan, often dry during non-rainy months.",
+    "explanation_hi": "घग्घर नदी राजस्थान में मौसमी प्रवाह के लिए प्रसिद्ध है, जो अक्सर वर्षा ऋतु के अलावा सूखी रहती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river flows through the Hadoti region of Rajasthan?",
+    "question_hi": "राजस्थान के हड़ताल क्षेत्र से कौन-सी नदी गुजरती है?",
+    "A_en": "Sipra", "A_hi": "सिप्रा",
+    "B_en": "Chambal", "B_hi": "चंबल",
+    "C_en": "Banas", "C_hi": "बनास",
+    "D_en": "Luni", "D_hi": "लूनी",
+    "answer": "A",
+    "explanation_en": "The Sipra River flows through the Hadoti region of Rajasthan.",
+    "explanation_hi": "सिप्रा नदी राजस्थान के हड़ताल क्षेत्र से गुजरती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river is a tributary of the Sabarmati River and originates in Rajasthan?",
+    "question_hi": "साबरमती नदी की एक उपनदी है और जो राजस्थान में उत्पन्न होती है, कौन-सी नदी है?",
+    "A_en": "Ruparel", "A_hi": "रुपारेल",
+    "B_en": "Banas", "B_hi": "बनास",
+    "C_en": "Chambal", "C_hi": "चंबल",
+    "D_en": "Kali Sindh", "D_hi": "काली सिंध",
+    "answer": "A",
+    "explanation_en": "Ruparel is a tributary of the Sabarmati River and originates in Rajasthan.",
+    "explanation_hi": "रुपारेल साबरमती नदी की एक उपनदी है और राजस्थान में उत्पन्न होती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers of Rajasthan",
+    "question_en": "Which river's confluence with the Chambal is located near Kota?",
+    "question_hi": "कौन-सी नदी की चंबल से संगम राजस्थान के कोटा के पास है?",
+    "A_en": "Sipra", "A_hi": "सिप्रा",
+    "B_en": "Banas", "B_hi": "बनास",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Mahi", "D_hi": "मही",
+    "answer": "A",
+    "explanation_en": "The Sipra River converges with the Chambal near Kota, Rajasthan.",
+    "explanation_hi": "राजस्थान के कोटा के पास सिप्रा नदी चंबल से मिलती है।"
+  }
+]
