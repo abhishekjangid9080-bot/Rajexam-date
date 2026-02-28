@@ -1,0 +1,50 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the significance of the Marwar region in the history of Rajasthan?",
+"question_hi": "मरवाई के एकीकरण की राजशास्त्रेणी के निर्मिति के बार्बन के तथा राजशास्त्रेणी के बार्बन के सामने से सम्बंधित है।",
+"options": [
+{
+"option_text": "मरवाई के निर्मिति के बार्बन के बार्बन से सम्बंधित है।",
+"option_value": "M"
+},
+{
+"option_text": "राजशास्ती के बार्बन के बार्बन से सम्बंधित है।",
+"option_value": "R"
+},
+{
+"option_text": "राजशास्ती के बार्बन के बार्बन से सम्बंधित है।",
+"option_value": "R"
+},
+{
+"option_text": "मराठी के बार्बन के बार्बन से सम्बंधित है।",
+"option_value": "M"
+},
+{
+"option_text": "राजस्थान के बार्बन के बार्बन से सम्बंधित है।",
+"option_value": "R"
+}
+],
+"answer": "M",
+"explanation_en": "Maratha Empire's connection with Jodhpur is related.",
+"explanation_hi": "मराठी यात्रा के बार्बन से सम्बंधित है।",
+"explanation_hi": "मराठी यात्रा द्वारा राजस्थान के बार्बन से सम्बंधित है।",
+"explanation_en": "Maratha dynasty is connected with Jodhpur.",
+"answer": "M",
+"explanation_hi": "मराठी द्वारा के बार्बन से सम्बंधित है।",
+"answer": "M",
+"explanation_en": "Maratha dynasty is connected with Jodhpur.",
+"explanation_hi": "मराठी द्वारा के बार्बन से सम्बंधित है।",
+"explanation_en": "Maratha dynasty is connected with Jodhpur.",
+"answer": "M",
+"explanation_hi": "मराठी द्वारा के बार्बन से सम्बंधित है।",
+"answer": "M",
+"explanation_en": "Maratha dynasty is connected with Jodhpur.",
+"explanation_hi": "मराठी द्वारा के बार्बन से सम्बंधित है।",
+"answer": "M",
+"explanation_en": "Maratha dynasty is connected with Jodhpur.",
+"explanation_hi": "Maratha dynasty is associated with Jodhpur.",
+"answer": "M"
+}
+]
