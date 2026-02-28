@@ -1,0 +1,15 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What is the concept of National Income?",
+"question_hi": "राष्ट्रीय आर्मी क्या करना है?",
+"A_en": "Gross National Product (GNP)", "A_hi": "सरल राष्ट्रीय प्रतिकूल (GNP)",
+"B_en": "Gross National Consumption (GNC)", "B_hi": "सरल राष्ट्रीय आंदोलन (GNC)",
+"C_en": "Net National Product (NNP)", "C_hi": "नेशनल राष्ट्रीय प्रतिकूल (NNP)",
+"D_en": "Factor Product (FP)", "D_hi": "कार्यक्रम प्रतिकूल (FP)",
+"answer": "C",
+"explanation_en": "Net National Product (NNP) refers to the value of all goods and services produced in a country after deducting the depreciation of capital goods. It is a measure of a country's economic productivity. In contrast, Gross National Product (GNP) includes the value of goods and services produced both within the country and abroad, including remittances from abroad. Factor Product (FP) includes only the value of goods and services produced within the country using country's factors of production, such as labor and capital. Net National Product (NNP) is a more accurate measure of a country's economic performance.",
+"explanation_hi": "नेशनल राष्ट्रीय प्रतिकूल (NNP) refers to the value of all goods and services produced in a country after deducting the depreciation of capital goods. It is a measure of a country's economic productivity. In contrast, Gross National Product (GNP) includes the value of goods and services produced both within the country and abroad, including remittances from abroad. Factor Product (FP) includes only the value of goods and services produced within the country using the country's factors of production, such as labor and capital. Net National Product (NNP) is a more accurate measure of a country's economic performance.",
+"explanation_hi": "Net National Product (NNP) refers to the value of all goods and services produced in a country after deducting the depreciation of capital goods. It is a measure of a country's economic productivity. In contrast, Gross National Product (GNP) includes the value of goods and services produced both within the country and abroad, including remittances from abroad. Factor Product (FP) includes only the value of goods and services produced within the country using the country's factors of production, such as labor and capital. Net National Product (NNP) is a more accurate measure of a country's economic performance."
+}
