@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा मंदिर है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगर्घ Fort",
+"B_en": "Khejarli Fort", "B_hi": "खेजारली किला",
+"C_en": "Jaswant Thada", "C_hi": "जसवंत तादात",
+"D_en": "Rao Jodha Rock Shelter", "D_hi": "राव जोधा रोक सेलर",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a famous fort located in Jodhpur, built by Rao Jodha in the 1555 CE. It is known for its intricate carvings and beautiful architecture.",
+"explanation_hi": "मेरंगर्घ Fort, built by Rao Jodha in 1555 AD, is a famous fort located in Jodhpur. It is renowned for its intricate carvings and stunning architecture."
+}
+]
