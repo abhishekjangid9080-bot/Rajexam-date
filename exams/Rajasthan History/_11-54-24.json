@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace in Jaipur was built by Maharaja Jai Singh II?",
+"question_hi": "जयपुर महाराजा जयसिंह सिंह द्वारा बनाया गया एक अम्मान पल्कितियाँ।",
+"A_en": "Amber Palace",
+"A_hi": "अम्बर पल्कितियाँ",
+"B_en": "Hawa Mahal",
+"B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II",
+"C_hi": "सवाई महाराजा सवाई मंसुल द्वारा बनाया गया कितना",
+"D_en": "Cenotaph of Maharaja Sawai Man Singh I",
+"D_hi": "सवाई मंसुल द्वारा बनाया गया कितना",
+"answer": "D",
+"explanation_en": "The Cenotaph of Maharaja Sawai Man Singh I, also known as the White City, was built by Maharaja Sawai Man Singh I.",
+"explanation_hi": "महाराजा सवाई मंसुल द्वारा बनाया गया कितना",
+}
+]
