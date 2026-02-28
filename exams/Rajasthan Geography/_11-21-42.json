@@ -1,0 +1,161 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Geography, targeting exams like LDC, CET, RAS, SSC, and Railway. The user wants both Hindi and English versions of the questions and options, following the Testbook style. The JSON structure example provided is crucial here.
+
+First, I should list out key topics in Rajasthan Geography that are commonly tested. Topics might include rivers, districts, historical sites, natural resources, climate, and geographical features. Let me brainstorm a few areas:
+
+1. Major rivers in Rajasthan.
+2. Districts and their positions (e.g., largest/smallest).
+3. Historical and cultural sites.
+4. Natural resources like minerals.
+5. Geographical features like the Thar Desert.
+6. Climate zones.
+7. National parks and wildlife sanctuaries.
+8. Important lakes (e.g., Sambhar Lake).
+9. Highest and lowest points.
+10. Irrigation projects.
+
+Next, I need to ensure each question has four options, with the correct answer and explanations in both languages. The difficulty level should align with Rajasthan-specific exams, so factual accuracy is key. I should cross-check data for correctness, like the largest district (Jaisalmer) or the smallest (Dholpur). For rivers, the correct answers need to be verified, such as Luni being the longest river in Rajasthan.
+
+I need to avoid any ambiguous questions. For example, when asking about the largest district, it's important to confirm that Jaisalmer is indeed the largest by area. Similarly, for the highest point, the correct answer is Mount Kailash but the highest peak in Rajasthan is actually Mount Abu's Guru Shikhar. Wait, I need to check that. Yes, Guru Shikhar is the highest peak in Rajasthan, part of the Aravalli Range. So that's an important correction.
+
+Another point is the Thar Desert, which covers a significant portion of western Rajasthan. The question about the desert's location should be straightforward. For national parks, Ranthambore is a key one. The Sambhar Lake is the largest inland saltwater lake in India, so that's a good fact to include.
+
+When creating options, I should include common distractors. For example, when asking about the largest district, options might include other large districts like Jodhpur or Jalore. For rivers, including the Luni, Chambal, and Mahi, which are prominent in Rajasthan.
+
+I also need to ensure that the explanations are concise and directly answer why the correct option is right. For instance, explaining that Jaisalmer is the largest district by area, not population. For the highest mountain, clarifying that Guru Shikhar is the highest point in Rajasthan, part of the Aravallis.
+
+Now, structuring each question with the required fields: subject, topic, question in English and Hindi, four options, answer key, and explanations. Let me start drafting each question one by one, making sure the Hindi translation is accurate and the options are in the same language. Also, verifying the answer's correctness through reliable sources or existing knowledge.
+
+I'll start with the first question about the largest district, then move to rivers, historical sites, natural resources, etc. Each question should test a specific fact without overlap. After drafting all ten, I'll review the JSON structure to ensure it matches the example provided, without any extra text or formatting issues.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers and Water Bodies",
+    "question_en": "Which river is known as the 'Luni River' and is the only river in Rajasthan that flows into the Gulf of Khambhat?",
+    "question_hi": "कौन-सी नदी 'लूनी नदी' के नाम से जानी जाती है और राजस्थान में ऐसी एकमात्र नदी है जो खम्भात की खाड़ी में बहती है?",
+    "A_en": "Chambal", "A_hi": "चम्बल",
+    "B_en": "Mahi", "B_hi": "मही",
+    "C_en": "Luni", "C_hi": "लूनी",
+    "D_en": "Sabarmati", "D_hi": "साबरमती",
+    "answer": "C",
+    "explanation_en": "The Luni River is the only river in Rajasthan that flows into the Gulf of Khambhat after originating in the Aravalli Range.",
+    "explanation_hi": "लूनी नदी अरावली पर्वत के मूल से उत्पन्न होकर खम्भात की खाड़ी में बहती है, राजस्थान में ऐसी एकमात्र नदी है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Districts and Geography",
+    "question_en": "Which district is the largest in terms of area in Rajasthan?",
+    "question_hi": "कौन-सा जिला क्षेत्रफल के हिसाब से राजस्थान का सबसे बड़ा है?",
+    "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+    "B_en": "Jodhpur", "B_hi": "जोधपुर",
+    "C_en": "Bikaner", "C_hi": "बीकानेर",
+    "D_en": "Udaipur", "D_hi": "उदयपुर",
+    "answer": "A",
+    "explanation_en": "Jaisalmer is the largest district in Rajasthan by area, covering approximately 38,925 km².",
+    "explanation_hi": "जैसलमेर राजस्थान का क्षेत्रफल के हिसाब से सबसे बड़ा जिला है, जो लगभग 38,925 किमी² में फैला हुआ है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Mountains and Ranges",
+    "question_en": "What is the highest peak in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे ऊँची चोटी कौन-सी है?",
+    "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+    "B_en": "Guru Shikhar", "B_hi": "गुरु शिखर",
+    "C_en": "Kumbhalgarh", "C_hi": "कुंभलगढ़",
+    "D_en": "Aravalli Range", "D_hi": "अरावली पर्वतमाला",
+    "answer": "B",
+    "explanation_en": "Guru Shikhar, part of the Aravalli Range, is the highest peak in Rajasthan with an elevation of 1,722 meters.",
+    "explanation_hi": "गुरु शिखर, अरावली पर्वतमाला का हिस्सा, राजस्थान में सबसे ऊँची चोटी है जिसकी ऊँचाई 1,722 मीटर है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Deserts and Landforms",
+    "question_en": "Which desert covers the western part of Rajasthan?",
+    "question_hi": "राजस्थान के पश्चिमी भाग को कौन-सा रेगिस्तान घेरे हुए है?",
+    "A_en": "Thar Desert", "A_hi": "थार मरुभूमि",
+    "B_en": "Sahara Desert", "B_hi": "सहारा मरुभूमि",
+    "C_en": "Kutch Desert", "C_hi": "कच्छ मरुभूमि",
+    "D_en": "Gobi Desert", "D_hi": "गोबी मरुभूमि",
+    "answer": "A",
+    "explanation_en": "The Thar Desert, also known as the Great Indian Desert, covers the western part of Rajasthan.",
+    "explanation_hi": "थार मरुभूमि, जिसे महान भारतीय मरुभूमि भी कहा जाता है, राजस्थान के पश्चिमी भाग को घेरे हुए है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "National Parks and Wildlife",
+    "question_en": "Which national park in Rajasthan is famous for its tiger population?",
+    "question_hi": "राजस्थान का कौन-सा राष्ट्रीय उद्यान अपने बाघ जनसंख्या के लिए प्रसिद्ध है?",
+    "A_en": "Ranthambore National Park", "A_hi": "रणथंबोर राष्ट्रीय उद्यान",
+    "B_en": "Keoladeo National Park", "B_hi": "केवलादेव राष्ट्रीय उद्यान",
+    "C_en": "Sariska National Park", "C_hi": "सरिस्का राष्ट्रीय उद्यान",
+    "D_en": "Desert National Park", "D_hi": "रेगिस्तान राष्ट्रीय उद्यान",
+    "answer": "A",
+    "explanation_en": "Ranthambore National Park is renowned for being a major tiger reserve in Rajasthan.",
+    "explanation_hi": "रणथंबोर राष्ट्रीय उद्यान राजस्थान में बाघ के प्रमुख अभयारण्य के रूप में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Lakes and Water Bodies",
+    "question_en": "Which lake is the largest inland saltwater lake in India?",
+    "question_hi": "कौन-सी झील भारत की सबसे बड़ी आंतरिक खारे पानी की झील है?",
+    "A_en": "Sambhar Lake", "A_hi": "संभर झील",
+    "B_en": "Pichola Lake", "B_hi": "पिचोला झील",
+    "C_en": "Dhebar Lake", "C_hi": "धेबर झील",
+    "D_en": "Rupa Lake", "D_hi": "रूपा झील",
+    "answer": "A",
+    "explanation_en": "Sambhar Lake is the largest inland saltwater lake in India, located in Rajasthan.",
+    "explanation_hi": "संभर झील भारत की सबसे बड़ी आंतरिक खारे पानी की झील है, जो राजस्थान में स्थित है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Climate and Weather",
+    "question_en": "Which region in Rajasthan experiences the highest temperature?",
+    "question_hi": "राजस्थान में कौन-सा क्षेत्र अधिकतम तापमान अनुभव करता है?",
+    "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+    "B_en": "Churu", "B_hi": "चूरू",
+    "C_en": "Bikaner", "C_hi": "बीकानेर",
+    "D_en": "Jodhpur", "D_hi": "जोधपुर",
+    "answer": "A",
+    "explanation_en": "Jaisalmer, being in the Thar Desert, records the highest temperatures in Rajasthan.",
+    "explanation_hi": "जैसलमेर, जो थार मरुभूमि में है, राजस्थान में अधिकतम तापमान रिकॉर्ड करता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Historical Sites",
+    "question_en": "Which fort is known as the 'Fort of Victory' in Rajasthan?",
+    "question_hi": "राजस्थान में कौन-सा किला 'जय के किले' के रूप में जाना जाता है?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Amber Fort", "B_hi": "अंबर किला",
+    "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+    "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is historically known as the 'Fort of Victory' due to its strategic significance in battles.",
+    "explanation_hi": "चित्तौड़गढ़ किला युद्धों में रणनीतिक महत्व के कारण 'जय के किले' के रूप में इतिहास में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Mineral Resources",
+    "question_en": "Which district is the leading producer of marble in Rajasthan?",
+    "question_hi": "राजस्थान में मार्बल के उत्पादन में कौन-सा जिला प्रमुख उत्पादक है?",
+    "A_en": "Ajmer", "A_hi": "अजमेर",
+    "B_en": "Alwar", "B_hi": "अलवर",
+    "C_en": "Sawai Madhopur", "C_hi": "सवाई माधोपुर",
+    "D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+    "answer": "B",
+    "explanation_en": "Alwar district is the largest producer of marble in Rajasthan, known for its white and pink marble.",
+    "explanation_hi": "अलवर जिला राजस्थान में सफेद और गुलाबी मार्बल के उत्पादन में सबसे बड़ा उत्पादक है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Irrigation Projects",
+    "question_en": "Which canal is the longest irrigation canal in Rajasthan?",
+    "question_hi": "राजस्थान में कौन-सा नहर सबसे लंबी सिंचाई नहर है?",
+    "A_en": "Chambal Canal", "A_hi": "चम्बल नहर",
+    "B_en": "Ghaghar Canal", "B_hi": "घग्घर नहर",
+    "C_en": "Narmada Canal", "C_hi": "नर्मदा नहर",
+    "D_en": "Mahi Sankar Canal", "D_hi": "मही संखर नहर",
+    "answer": "A",
+    "explanation_en": "The Chambal Canal is the longest irrigation canal in Rajasthan, part of the Chambal Project.",
+    "explanation_hi": "चम्बल नहर राजस्थान में सबसे लंबी स
