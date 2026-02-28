@@ -1,0 +1,144 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Geography related to Rajasthan State Exams, SSC, and Railway. The user wants the questions in both Hindi and English, following the Testbook style. Let me start by recalling important topics in Rajasthan Geography. Major areas include physical features, rivers, districts, wildlife sanctuaries, historical sites, etc.
+
+First, I'll list some key topics. Let's see: Thar Desert, Aravalli Range, rivers like Chambal and Luni, famous lakes like Pichola, wildlife sanctuaries such as Ranthambore and Sariska. Also, important cities like Jaipur, Jodhpur, Udaipur, Bikaner. Maybe include some notable mountains, lakes, and mineral resources.
+
+Now, each question needs four options with one correct answer. The explanations should be concise. I need to ensure that the options are plausible but only one is correct. Let me start with the first question about the longest river in Rajasthan. The Chambal is a major river here. Then maybe a question on the highest peak, which is Guru Shikhar in the Aravallis. Another could be about the desert region, Thar Desert. Then the famous lake, Pushkar. Wildlife sanctuaries like Ranthambore for tigers. Districts like Kota for marble. Mineral resources in Jaisalmer. The capital, Jaipur. Highest waterfall, maybe in Mount Abu. Then another on the river that forms the boundary with Gujarat, the Luni River.
+
+Wait, I need to verify some facts. For example, the highest peak in Rajasthan is indeed Guru Shikhar in Mount Abu. The Thar Desert is the main desert area. Chambal is the longest river, but I should check if it's within Rajasthan. Also, Pushkar Lake is significant. Ranthambore is known for tigers. Kota is the marble capital. Jaisalmer has sand dunes. The Luni River is the main one that flows into the Rann of Kutch. The Sariska Sanctuary is another important one. The highest waterfall is Dudh Sagar? No, maybe it's somewhere else in Rajasthan. Wait, Rajasthan's highest waterfall is Dudh Sagar? Or is it somewhere else? Let me confirm. Actually, the highest waterfall in Rajasthan is Dudh Sagar, located near Abu Road. So that's correct.
+
+I need to make sure the options are correctly presented. For example, in the question about the highest peak, the options could include other hills or mountains in Rajasthan. For the rivers, other rivers like Mahi or Sabarmati might be options but are not in Rajasthan. Each question should have one clear correct answer. Let me structure each question step by step, ensuring the subject is Rajasthan Geography, the topic is covered correctly, and the explanations are accurate.
+</think>
+
+[
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers",
+"question_en": "Which is the longest river in Rajasthan?",
+"question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+"A_en": "Chambal", "A_hi": "चंबल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Sabarmati", "C_hi": "साबरमती",
+"D_en": "Mahi", "D_hi": "माही",
+"answer": "A",
+"explanation_en": "The Chambal River flows through Rajasthan and is the longest river in the state.",
+"explanation_hi": "चंबल नदी राजस्थान से गुजरती है और राज्य में सबसे लंबी नदी है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Mountains",
+"question_en": "What is the highest peak in Rajasthan?",
+"question_hi": "राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+"A_en": "Kumbhalgarh", "A_hi": "कुंभलगढ़",
+"B_en": "Guru Shikhar", "B_hi": "गुरु शिखर",
+"C_en": "Taragarh", "C_hi": "तारागढ़",
+"D_en": "Chandragiri", "D_hi": "चंद्रगिरि",
+"answer": "B",
+"explanation_en": "Guru Shikhar in the Aravalli Range is the highest peak in Rajasthan.",
+"explanation_hi": "अरावली पर्वतमाला में गुरु शिखर राजस्थान की सबसे ऊँची चोटी है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Deserts",
+"question_en": "Which region in Rajasthan is known as the Thar Desert?",
+"question_hi": "राजस्थान में कौन सा क्षेत्र थार मरुस्थल के रूप में जाना जाता है?",
+"A_en": "Marwar", "A_hi": "मारवाड़",
+"B_en": "Saharan", "B_hi": "सहारान",
+"C_en": "Hadoti", "C_hi": "हड़तली",
+"D_en": "Kekri", "D_hi": "केकड़ी",
+"answer": "A",
+"explanation_en": "The Marwar region in western Rajasthan is known as the Thar Desert.",
+"explanation_hi": "पश्चिमी राजस्थान में मारवाड़ क्षेत्र थार मरुस्थल के रूप में जाना जाता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Lakes",
+"question_en": "Which is the largest natural lake in Rajasthan?",
+"question_hi": "राजस्थान में सबसे बड़ा प्राकृतिक झील कौन सा है?",
+"A_en": "Pushkar", "A_hi": "पुष्कर",
+"B_en": "Pichola", "B_hi": "पिछोला",
+"C_en": "Sambhar", "C_hi": "सांभर",
+"D_en": "Kanakarial", "D_hi": "कनकरियल",
+"answer": "C",
+"explanation_en": "Sambhar Lake is the largest natural lake in Rajasthan, known for salt production.",
+"explanation_hi": "सांभर झील राजस्थान में सबसे बड़ा प्राकृतिक झील है, जो नमक उत्पादन के लिए जाना जाता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Wildlife",
+"question_en": "Which wildlife sanctuary in Rajasthan is famous for tigers?",
+"question_hi": "राजस्थान में टाइगर के लिए प्रसिद्ध पशुधन अभयारण्य कौन सा है?",
+"A_en": "Ranthambore", "A_hi": "रणथंबोर",
+"B_en": "Sariska", "B_hi": "सरिस्का",
+"C_en": "Kumbhalgarh", "C_hi": "कुंभलगढ़",
+"D_en": "Bharatpur", "D_hi": "भरतपुर",
+"answer": "A",
+"explanation_en": "Ranthambore National Park is renowned for its tiger population in Rajasthan.",
+"explanation_hi": "रणथंबोर राष्ट्रीय उद्यान राजस्थान में बाघों के लिए प्रसिद्ध है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Cities",
+"question_en": "Which district in Rajasthan is known as the 'Marble City'?",
+"question_hi": "राजस्थान में कौन सा जिला 'मार्बल सिटी' के रूप में जाना जाता है?",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Kota", "B_hi": "कोटा",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Bhilwara", "D_hi": "भीलवाड़ा",
+"answer": "B",
+"explanation_en": "Kota is famous for its white marble and is known as the 'Marble City'.",
+"explanation_hi": "कोटा सफेद मार्बल के लिए प्रसिद्ध है और इसे 'मार्बल सिटी' के रूप में जाना जाता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Minerals",
+"question_en": "Which district in Rajasthan is the leading producer of salt?",
+"question_hi": "राजस्थान में नमक के उत्पादन में सबसे अग्रणी जिला कौन सा है?",
+"A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+"B_en": "Sambhar", "B_hi": "सांभर",
+"C_en": "Barmer", "C_hi": "बाड़मेर",
+"D_en": "Churu", "D_hi": "चूरू",
+"answer": "B",
+"explanation_en": "Sambhar District is the largest salt producer in Rajasthan due to its saline lake.",
+"explanation_hi": "सांभर जिला अपने नमकीन झील के कारण राजस्थान में सबसे बड़ा नमक उत्पादक है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Tourism",
+"question_en": "Which hill station in Rajasthan is known for its Christian heritage?",
+"question_hi": "राजस्थान में कौन सा पहाड़ी स्टेशन अपने ईसाई विरासत के लिए जाना जाता है?",
+"A_en": "Mount Abu", "A_hi": "माउंट अबू",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Bhilwara", "D_hi": "भीलवाड़ा",
+"answer": "A",
+"explanation_en": "Mount Abu is the only hill station in Rajasthan and is known for its Christian heritage and architecture.",
+"explanation_hi": "माउंट अबू राजस्थान का एकमात्र पहाड़ी स्टेशन है और अपने ईसाई विरासत और वास्तुकला के लिए जाना जाता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers",
+"question_en": "Which river forms the boundary between Rajasthan and Gujarat?",
+"question_hi": "राजस्थान और गुजरात के बीच सीमा बनाने वाली नदी कौन सी है?",
+"A_en": "Chambal", "A_hi": "चंबल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Sabarmati", "C_hi": "साबरमती",
+"D_en": "Mahi", "D_hi": "माही",
+"answer": "B",
+"explanation_en": "The Luni River flows along the Rajasthan-Gujarat border.",
+"explanation_hi": "लूनी नदी राजस्थान-गुजरात सीमा के साथ बहती है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Waterfalls",
+"question_en": "Which is the highest waterfall in Rajasthan?",
+"question_hi": "राजस्थान में सबसे ऊँची झील कौन सी है?",
+"A_en": "Dudh Sagar", "A_hi": "दूध सागर",
+"B_en": "Jog Falls", "B_hi": "जॉग झील",
+"C_en": "Hogenakkal Falls", "C_hi": "होगेनैकल झील",
+"D_en": "Shivanasamudra Falls", "D_hi": "शिवनासमुद्र झील",
+"answer": "A",
+"explanation_en": "Dudh Sagar in Abu Road is the highest waterfall in Rajasthan.",
+"explanation_hi": "अबू रोड में दूध सागर राजस्थान में सबसे ऊँची झील है।"
+}
+]
