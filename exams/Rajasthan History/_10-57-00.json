@@ -1,0 +1,159 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on Rajasthan History for various exams like LDC, CET, RAS, etc. The instructions specify that each question must have Hindi and English options in Testbook style, and the format must be strict JSON. First, I need to recall key topics in Rajasthan History.
+
+Rajasthan History covers ancient kingdoms, medieval era, freedom struggle, and significant events. Important topics include the formation of Rajasthan state, prominent rulers, historical events, and cultural heritage. Let's brainstorm some key points:
+
+1. Formation of Rajasthan State in 1948.
+2. Raja Raja Singh of Bikaner.
+3. Rani Padmini and Alauddin Khilji's story.
+4. Maharaja Sawai Jai Singh II and Jaipur's establishment.
+5. Role in the Indian independence movement.
+6. Marwar region's history with Jodhpur.
+7. The Chauhan dynasty in Mewar (Udaipur).
+8. The Kumbhalgarh Fort.
+9. Battle of Haldighati between Maharana Pratap and Akbar.
+10. Rao Jodha and the founding of Jodhpur.
+
+Each of these topics can form a question. Now, ensuring the difficulty aligns with Rajasthan's exam standards. Questions should be factual but not too obscure. For example, the formation year of Rajasthan is a key fact. The Rani Padmini legend is popular and often tested. The Battle of Haldighati is a significant event.
+
+Next, translating the questions and options into both Hindi and English. Need to be careful with proper nouns like names and places to maintain accuracy. For example, "Raja Raja Singh" in Hindi would be "राजा राजा सिंह". The answer options should have the correct option highlighted, and explanations in both languages.
+
+Now, structuring each question in the specified JSON format. Let's start with the first question about the formation year. The answer is 1948. Then, the ruler of Bikaner during the 18th century—Raja Raja Singh. Rani Padmini's story with Alauddin Khilji. Sawai Jai Singh II established Jaipur. The leader of Rajasthan's freedom movement—Vishnu Deo. Marwar region's capital is Jodhpur. The Chauhan dynasty's capital in Mewar is Chittorgarh. Kumbhalgarh Fort built by Raja Man Singh. Battle of Haldighati between Pratap and Akbar. Rao Jodha founded Jodhpur.
+
+Need to ensure that the options are shuffled and the correct answer is clearly the intended one. Also, explanations should reinforce the correct fact. Checking for any typos or factual errors. For example, Raja Man Singh is the correct builder of Kumbhalgarh. The Battle of Haldighati is in 1576.
+
+Finally, compiling all 10 questions into the JSON array as per the example. Making sure each entry follows the structure exactly, with subject, topic, question in both languages, options in both, answer, and explanations. The topic field is left empty as per the example. Difficulty level is moderate, covering key points relevant to Rajasthan's history exams.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "In which year was the state of Rajasthan formed?",
+    "question_hi": "राजस्थान राज्य कब बनाया गया था?",
+    "A_en": "1947", "A_hi": "1947",
+    "B_en": "1948", "B_hi": "1948",
+    "C_en": "1956", "C_hi": "1956",
+    "D_en": "1950", "D_hi": "1950",
+    "answer": "B",
+    "explanation_en": "Rajasthan was formed on 15 May 1948 by merging several princely states.",
+    "explanation_hi": "15 मई 1948 को कई रियासतों के मर्ज करके राजस्थान का निर्माण किया गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the ruler of Bikaner during the 18th century?",
+    "question_hi": "18वीं शताब्दी में बीकानेर के शासक कौन थे?",
+    "A_en": "Raja Raja Singh", "A_hi": "राजा राजा सिंह",
+    "B_en": "Raja Abhay Singh", "B_hi": "राजा अभय सिंह",
+    "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+    "D_en": "Raja Suraj Mal", "D_hi": "राजा सूरज मल",
+    "answer": "A",
+    "explanation_en": "Raja Raja Singh was a prominent ruler of Bikaner known for his governance and military strategies.",
+    "explanation_hi": "राजा राजा सिंह बीकानेर के प्रमुख शासक थे और उन्हें अपने शासन और सैन्य रणनीतियों के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Mewar is associated with the legend of Rani Padmini?",
+    "question_hi": "मेवाड़ के किस शासक से रानी पद्मिनी की कहानी जुड़ी है?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+    "C_en": "Rana Ratan Singh", "C_hi": "राणा रतन सिंह",
+    "D_en": "Rana Kumbha", "D_hi": "राणा कुम्भ",
+    "answer": "C",
+    "explanation_en": "Rana Ratan Singh of Mewar is linked to the legendary story of Rani Padmini and Alauddin Khilji.",
+    "explanation_hi": "मेवाड़ के राणा रतन सिंह रानी पद्मिनी और अलाउद्दीन खिलजी की प्रसिद्ध कहानी से जुड़े हुए हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who established the city of Jaipur in 1727?",
+    "question_hi": "1727 में जयपुर शहर किसने स्थापित किया था?",
+    "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+    "B_en": "Raja Man Singh", "B_hi": "राजा मान सिंह",
+    "C_en": "Raja Bhoj Singh", "C_hi": "राजा भोज सिंह",
+    "D_en": "Raja Suraj Mal", "D_hi": "राजा सूरज मल",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh II founded Jaipur as a planned city with a unique blend of architecture.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय ने एक नियोजित शहर के रूप में जयपुर की स्थापना की जिसमें वास्तुकला का अनूठा मिश्रण था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which leader of Rajasthan actively participated in the Indian independence movement?",
+    "question_hi": "राजस्थान के कौन से नेता भारतीय स्वतंत्रता आंदोलन में सक्रिय भाग लेते रहे?",
+    "A_en": "Vishnu Deo", "A_hi": "विष्णु देव",
+    "B_en": "Chandra Shekhar Azad", "B_hi": "चंद्र शेखर आजाद",
+    "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+    "D_en": "Maharaja Sawai Jai Singh", "D_hi": "महाराजा सवाई जय सिंह",
+    "answer": "A",
+    "explanation_en": "Vishnu Deo was a prominent leader who mobilized the masses for the independence movement in Rajasthan.",
+    "explanation_hi": "विष्णु देव राजस्थान में स्वतंत्रता आंदोलन में जनता को एकत्रित करने वाले प्रमुख नेता थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which region of Rajasthan is known as 'Marwar'?",
+    "question_hi": "राजस्थान के किस क्षेत्र को 'मारवाड़' के नाम से जाना जाता है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+    "C_en": "Barmer", "C_hi": "बाड़मेर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "A",
+    "explanation_en": "Jodhpur region is historically referred to as Marwar due to its cultural and geographic significance.",
+    "explanation_hi": "जोधपुर क्षेत्र ऐतिहासिक रूप से सांस्कृतिक और भौगोलिक महत्व के कारण मारवाड़ के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "What is the capital of the Marwar region in Rajasthan?",
+    "question_hi": "राजस्थान में मारवाड़ क्षेत्र की राजधानी क्या है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Bikaner", "B_hi": "बीकानेर",
+    "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+    "D_en": "Churu", "D_hi": "चूरू",
+    "answer": "A",
+    "explanation_en": "Jodhpur is the historical capital of the Marwar region in Rajasthan.",
+    "explanation_hi": "जोधपुर राजस्थान में मारवाड़ क्षेत्र की ऐतिहासिक राजधानी है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which dynasty ruled over the region of Mewar (Udaipur)?",
+    "question_hi": "मेवाड़ (उदयपुर) क्षेत्र पर कौन सा वंश शासन करता था?",
+    "A_en": "Chauhan", "A_hi": "चौहान",
+    "B_en": "Sisodia", "B_hi": "सिसोदिया",
+    "C_en": "Kachwaha", "C_hi": "कच्छवाह",
+    "D_en": "Parmar", "D_hi": "परमार",
+    "answer": "A",
+    "explanation_en": "The Chauhan dynasty was historically prominent in the Mewar region of Rajasthan.",
+    "explanation_hi": "चौहान वंश ऐतिहासिक रूप से राजस्थान के मेवाड़ क्षेत्र में प्रमुख था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which fort in Rajasthan was built by Raja Man Singh of Mewar?",
+    "question_hi": "राजस्थान में मेवाड़ के राजा मान सिंह द्वारा किस किले का निर्माण किया गया था?",
+    "A_en": "Kumbhalgarh Fort", "A_hi": "कुंभलगढ़ किला",
+    "B_en": "Chittorgarh Fort", "B_hi": "चित्तौड़गढ़ किला",
+    "C_en": "Amber Fort", "C_hi": "अम्बर किला",
+    "D_en": "Dilwara Fort", "D_hi": "दिलवाड़ा किला",
+    "answer": "A",
+    "explanation_en": "Raja Man Singh of Mewar is credited with the construction of Kumbhalgarh Fort.",
+    "explanation_hi": "मेवाड़ के राजा मान सिंह कुंभलगढ़ किले के निर्माण के लिए जाने जाते हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which battle is associated with Maharana Pratap and Akbar?",
+    "question_hi": "महाराणा प्रताप और अकबर के साथ कौन सी लड़ाई जुड़ी है?",
+    "A_en": "Battle of Haldighati", "A_hi": "हल्दीघाटी की लड़ाई",
+    "B_en": "Battle of Khanwa", "B_hi": "खानवा की लड़ाई",
+    "C_en": "Battle of Chittorgarh", "C_hi": "चित्तौड़गढ़ की लड़ाई",
+    "D_en": "Battle of Ajmer", "D_hi": "अजमेर की लड़ाई",
+    "answer": "A",
+    "explanation_en": "The Battle of Haldighati in 1576 was a significant conflict between Maharana Pratap and the Mughal emperor Akbar.",
+    "explanation_hi": "1576 में हल्दीघाटी की लड़ाई महाराणा प्रताप और मुगल बादशाह अकबर के बीच महत्वपूर्ण युद्ध था।"
+  }
+]
