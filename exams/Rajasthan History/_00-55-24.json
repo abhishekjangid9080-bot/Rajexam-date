@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Sultanate Period",
+"question_en": "Which emirate was established by Sultan Bahadur Shah in 1527?",
+"question_hi": "1527 में सत्ताधारणा कौन से सत्ताधारणा संस्करण में बाहदर्शन शाह ने बनाया गया ?",
+"A_en": "Mewar",
+"A_hi": "मेवार",
+"B_en": "Marwar",
+"B_hi": "मर्वार",
+"C_en": "Jodhpur",
+"C_hi": "जोधौलपुर",
+"D_en": "Jaipur",
+"D_hi": "जयपुर",
+"answer": "D",
+"explanation_en": "Bahadur Shah founded the Jaipur State in 1527.",
+"explanation_hi": "1527 में Bahadur Shah Jaipur स्टेट बनाया गया।",
+}
+]
