@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Rawal Jisram?",
+"question_hi": "राजस्थान में रावल जीस्राम ने किया बनाया किस लोकप्रदेशी तथा हिस्सागर ?",
+"A_en": "Amer Fort",
+"A_hi": "आमे कंधर",
+"B_en": "Mehrangarh Fort",
+"B_hi": "मेरणगढ़ कंधर",
+"C_en": "Kumbhalgarh Fort",
+"C_hi": "कुम्भलगढ़ कंधर",
+"D_en": "Nahargarh Fort",
+"D_hi": "नाहार कंधर",
+"answer": "B",
+"explanation_en": "Amer Fort is the palace of Kumbhalgarh Fort, while Mehrangarh Fort is the actual fort built by Rawal Jaisalmer. The correct answer is Mehrangarh Fort.",
+"explanation_hi": "आमे का वास्तव कंधर है, जबतिहाली के लोकप्रधान की उत्तरांचर बना है। सचिवाचर के लोकप्रधान में उत्तरांचर है।",
+"answer": "B"
+}
