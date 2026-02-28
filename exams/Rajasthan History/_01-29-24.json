@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is NOT a famous fort in Rajasthan?",
+"question_hi": "राजस्थान में कौन सा नहीं शुभारत है ?",
+"A_en": "Amber Fort", "A_hi": "अमेर Fort",
+"B_en": "Chittorgarh Fort", "B_hi": "चीटरगढ़ Fort",
+"C_en": "Meerpur Kshetra", "C_hi": "मीरपुर क्षेत्र",
+"D_en": "Hawa Mahal", "D_hi": "हवा महाल",
+"answer": "C",
+"explanation_en": "Meerpur Kshetra is not a fort. It is a tehsil located in Jhalrapatan district.",
+"explanation_hi": "Meerpur Kshetra एक तेजस्वाती स्थान है जो जल्रापाटन जिले में है।",
+"D": "Meerpur Kshetra",
+"E": "Hawa Mahal"
+}
+]
