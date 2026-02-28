@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical palace is located in Jaipur?",
+"question_hi": "जयपुर में किस अभिगमनता पर्ची है?",
+"A_en": "Amer Fort", "A_hi": "अमेर फोट्ट",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Raj Mandir", "C_hi": "राज मंदिर",
+"D_en": "City Palace", "D_hi": "शहर पर्ची",
+"answer": "D",
+"explanation_en": "The City Palace is a historical palace located in Jaipur.\nIn Hindi, it translates to: 'शहर पर्ची एक जयपुर में स्थित है।",
+"explanation_hi": "जयपुर में शहर पर्ची एक अभिगमनत स्थित होंगे।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rashtriya Sainik Board Exam",
+"question_en": "Which organization is responsible for organizing the National Defence Academy entrance exam?",
+"question_hi": "राष्ट्रीय संघ राष्ट्रीय सैन्य एयरपाउंट एचिंग एनेंट किसी एयरपाउंट एनेंट एचिंग एनेंट एचिंग एनेंट एचिंग एचिंग एनेंट एचिंग एचिंग एनेंट एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग एचिंग",
+
+},
+{
+"subject": "Rajasthan Examinations",
+"topic": "Rajasthan History",
+"question_en": "What is the significance of Chittorgarh Fort in Rajasthan?",
+"question_hi": "चीटोरगांग के राजसत्त मिंग के",
+"A_en": "It was built during the rule of Maharaja Surajmal in 16th century.",
+"A_hi": "चीटोर सराजसत्त मिंग के 16वंग मिंग",
+"B_en": "It was built by Maharaja Pratap Singh in 18th century.",
+"B_hi": "चीटोर सराजसत्त मिंग 18वंग",
+"C_en": "It is popular for its architectural marvels",
+"C_hi": "चीटोर सराजसत्त मिंग के अरवंर",
+"answer": "B",
+"explanation_en": "The Chittorgarh Fort was built by Maharaja Pratap Singh in the 18th century and is popular for its beautiful architecture.",
+"explanation_hi": "चीटोर सराजसत्त मिंर, चीटर सराजसत्त मिंर, चीटोर",
+}
+]
