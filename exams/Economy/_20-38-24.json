@@ -1,0 +1,18 @@
+[
+{
+"subject": "Economy",
+"topic": "Labor Market",
+"question_en": "What is the unemployment rate in India as of 2021?",
+"question_hi": "भारत में 2021 में क्या उत्तरीन रेजीटी है।",
+"A_en": "7.1%", "A_hi": "7.1%",
+"B_en": "9.5%", "B_hi": "9.5%",
+"C_en": "12.3%", "C_hi": "12.3%",
+"D_en": "10.2%", "D_hi": "10.2%",
+"answer": "D",
+"explanation_en": "According to the latest available data, the unemployment rate in India as of 2021 is 10.2%. This information can be found in various credible sources tracking Indian labor market data.",
+"explanation_hi": "सबसे अन्यान्नों के माध्यमिति वाले अभिप्रतिरोधी देखते हैं कि भारत में 2021 में 10.2% का उत्तरीनों की व्याखनी वाली करो।",
+"Candidate": "Candidate",
+"Candidate_en": "Candidate",
+"Candidate_hi": "प्रत्याखनी वाली करो।"
+}
+]
