@@ -1,0 +1,46 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Rao Jodha in Jodhpur?",
+"question_hi": "राव जोधर ने जोधपुर में बनाया गया कौरम्मत कौन से बनाया?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगाराघर",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्बलगढ़ फोट",
+"C_en": "Amer Fort", "C_hi": "अमेर फोट",
+"D_en": "Jaigarh Fort", "D_hi": "जयगढ़ फोट",
+"answer": "D",
+"explanation_en": "Jaigarh Fort was built by Rao Jodha in Jodhpur.\nराव जोधर ने जोधपुर में बनाया है।",
+"explanation_hi": "राव जोधर ने जोधपुर में बनाया है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Leaders of Rajasthan",
+"question_en": "Who was the founder of Jaisalmer?",
+"question_hi": "जयसालमेर कंपनी कौंचा फाउन खालीलंदा का पैंक कौडी की स्तरीं।",
+"question_hi": "जयसालमेर को खालीलंदा को आरमों का पैंक है।",
+"explanation_en": "Jaisalmer, founded by Rajasthan's ruler Jaisal Singh, is known for its fort, Jaisalmer Fort (जयसालमेर की पुजारी का पैंक है।",
+"explanation_hi": "जयसालमेर, Rajasthan के राजा जयसालंदा के बड़ियां का पैंक है।",
+"answer": "D",
+"options": [
+{
+"option": "Jaisalmer",
+"option_en": "Jaisalmer",
+"option_hi": "जयसालमेर"
+},
+{
+"option": "Jodhpur",
+"option_en": "Jodhpur",
+"option_hi": "जोधपुर"
+},
+{
+"option": "Jhunjhunu",
+"option_en": "Jhunjhunu",
+"option_hi": "जुझूनु"
+},
+{
+"option": "Bikaner",
+"option_en": "Bikaner",
+"option_hi": "बिकानेर"
+}
+]
+}
