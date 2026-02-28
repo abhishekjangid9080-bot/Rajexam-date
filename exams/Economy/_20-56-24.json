@@ -1,0 +1,17 @@
+[
+{
+"subject": "Economy",
+"topic": "National Income",
+"question_en": "What is the formula used to calculate the Net National Product (NNP) at factor price level?",
+"question_hi": "नौकरी मूल्य स्थान/विभाग की समझौते पर नौकरी की नौकरी की मूल्य स्थान आदर्शी",
+"A_en": "GNP formula", "A_hi": "ग्लॉबर",
+"B_en": "GNP formula at factor price level", "B_hi": "फैक्टर प्रतिशत के प्रातिशत",
+"C_en": "GNP formula at market price level", "C_hi": "मार्केट प्रतिशत के प्रातिशत",
+"D_en": "GNP formula at purchasing power parity (PPP) level", "D_hi": "पूर्वानगर परिणाम",
+"answer": "D",
+"explanation_en": "The correct answer is D. The formula used to calculate Net National Product (GNP) at purchasing power parity (PPP) level is known as the PPP formula. In this method, the prices of goods and services in different countries are adjusted to a common price level to compare the standard of living between countries.",
+"explanation_hi": "विस्तर पूर्वानगर परिणाम की प्रातिशत प्रातिशत प्रातिशत पूर्वानगर प्रातिशत",
+"answer": "D",
+"explanation_en": "The formula used to calculate Net National Product (GNP) at purchasing power parity (PPP) level is known as the PPP formula. In this method, the prices of goods and services in different countries are adjusted to a common price level to compare the standard of living between countries.",
+"explanation_hi": "पूर्वानगर प्रातिशत प्रातिशत प्रातिशत ",
+]
