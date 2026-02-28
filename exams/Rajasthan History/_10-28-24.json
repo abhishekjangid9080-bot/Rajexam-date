@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है।",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Jaipur",
+"C_hi": "जयपुर",
+"D_en": "Jaisalmer",
+"D_hi": "जयसालमर",
+"answer": "C",
+"explanation_en": "Jaipur is the capital of Rajasthan. Rajasthan was founded by Maharaja Sawai Jai Singh II and he chose Jaipur as the capital city.",
+"explanation_hi": "राजस्थान महाभारत महाभारत में बना गया है। राजस्थान महाभारत में बना गया है। Maharaja Sawai Jai Singh II ने Jaipur को राजधानी केली।",
+}
+]
