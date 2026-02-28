@@ -1,0 +1,26 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor established the city of Jaipur?",
+"question_hi": "जयपुर के निर्माण करने वाले सरकारी कौन थे।",
+"A_en": "Alauddin Khalji", "A_hi": "अलादीन खालजी",
+"B_en": "Pratap Singh", "B_hi": "प्रताप सिंह",
+"C_en": "Chetak Singh", "C_hi": "चेताक सिंह",
+"D_en": "Krishna Singh", "D_hi": "कृष्ण सिंह",
+"answer": "B",
+"explanation_en": "Pratap Singh is the emperor who established Jaipur. He is also known as Amber Rai and founded the Amber Fort in Jaipur. The city of Jaipur was originally called Amber before it was renamed in honor of him.",
+"explanation_hi": "प्रताप सिंह राजन है जयपुर को तथा यह आंदोलन मांगा है, उसने आंदोलन की जंगल के मानने वाला है। जयपुर को प्रधानंदोलन नाम बदला गया है।",
+"question_hi": "जयपुर राजस्थान, उसने बिराजपुर को तीन विमान दिए गए हैं।",
+"question_en": "Which emperor gave the name Jaipur to Birla Mandir?",
+"answer": "B",
+"explanation_en": "Pratap Singh, also known as Amber, is the emperor who renamed Jaipur after the Birla family. The Birla Mandir in Jaipur was named after the Birla family who were patrons of the arts and had a significant presence in Jaipur.",
+"explanation_hi": "प्रातपंड़ा, अम्बर की नाम से जापुर की राजस्थान नाम के कार्तिक तथा बिरला मंदिर के लिए गए।",
+"option_codes": ["A", "B", "C", "D"],
+"question_en": "Who gave the name Jaipur to the Birla Temple?",
+"question_hi": "बिरला मंदिर के नाम कार्तिकों के लिए गए।",
+"answer": "B",
+"explanation_en": "Pratap Singh, also known as Amber, is the one who named the Birla Temple.",
+"explanation_hi": "प्रातपंड़ा, अम्बर को बिरला मंदिर के नाम कार्तिकों के लिए गए।",
+}
+]
