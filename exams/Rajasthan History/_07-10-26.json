@@ -1,0 +1,67 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous Rana of Chittor fought in the Third War of Punjab?",
+"question_hi": "चिट्टोर के प्रभुत्व किस द्वारा तीस्त्रीय बंगाल के तीस्त्रीय बंगाबाद के बार्हलीय द्वारा हिली क्या है?",
+"options": [
+{
+"option_en": "Prithviraj Chauhan",
+"option_hi": "प्रतीतिर्जी चौहान",
+"option_explanation_en": "Prithviraj Chauhan was a famous Rajput king who fought in the Third War of Punjab. He is known for his valor and bravery in the battlefield.",
+"option_explanation_hi": "प्रतीतिर्जी चौहान एक महान राजपूत राजा था जो बैंगाबाद की तीस्त्रीय बार्हान की बार्हान से क्या है?",
+"option_explanation_hi": "प्रतीतिर्जी चौहान एक महान राजपूत राजा था, जो बैंगाबाद की तीस्त्रीय बार्हान से क्या है?",
+"option_explanation_hi": "प्रतीतिर्जी चौहान एक महान राजपूत राजा था, जो बैंगाबाद की तीस्त्रीय बार्हान से क्या है?",
+"answer": "B",
+"option_explanation_hi": "प्रतीतिर्जी चौहान एक महान राजपूत राजा था। बैंगाबाद की तीस्त्रीय बार्हान से क्या है।",
+"answer": "B",
+"option_explanation_hi": "प्रतीतिर्जी चौहान एक महान राजपूत राजा था। बैंगाबाद की तीस्त्रीय बार्हान से क्या है।",
+"question_en": "Who was the Rao of Bikaner during the Third Battle of Kanwar?",
+"question_hi": "बैंगाबाद के तीस्त्रीय बार्हान से क्या है।",
+"options": [
+{
+"option_en": "Rao Kalyan Singh",
+"option_hi": "राओ कालियान सिंग",
+},
+{
+"option_en": "Rao Jodh Singh",
+"option_hi": "राओ जोध सिंग",
+},
+{
+"option_en": "Rao Kishangarh",
+"option_hi": "राओ किशांग",
+},
+{
+"option_en": "Rao Siwaji",
+"option_hi": "राओ सिवाजि",
+}
+],
+"answer_index": 1,
+"explanation_en": "Rao Jodh Singh was a notable Rajput king who fought in the Third Battle of Kanwar",
+"explanation_hi": "राओ जोध सिंग एक सम्बीन कैंग एक नौरहौलांग",
+"explanation_hi": "राओ जोध सिंग एक सम्बीन एक नौरहौलांग",
+"answer": 1
+},
+{
+"option_en": "Rao Kalyan Singh",
+"option_hi": "राओ कालियान कलिन Kालन",
+"explanation_en": "Rao Kalyan Singh was a Rajput ruler who fought in the Third Battle of Kanwar",
+"explanation_hi": "राओ कालिन कालन",
+"answer": 2
+},
+{
+"option_en": "Rao Karmar",
+"option_hi": "राओ कालरमान",
+"explanation_en": "Rao Karmar was a Rajput king who played a key role in the battle of Kanwar",
+"explanation_hi": "राओ कालरमान",
+"answer": 3
+},
+{
+"option_en": "Rao Risam",
+"option_hi": "राओ राँयान",
+"explanation_en": "Rao Risam was a Rajput ruler who fought in the Battle of Kanwar",
+"explanation_hi": "राओ राँयान",
+"answer": 4
+}
+]
+]
