@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Mughal Emperor founded the city of Jaipur?",
+"question_hi": "जयपुर के मुगल राजनीतिक मंसले के लिए जयपुर का स्थानांतर्गत कौन सी संतुष प्रभुती की सन्तुष प्रभुती की संतुष प्रभुती की सन्तुष",
+"question_hi": "जयपुर का स्थानांत्रिया की संतुष प्रभुती की सन्तुष",
+"A_en": "Jaipur was founded by the Raja Man Singh I.",
+"A_hi": "जयपुर मन सिंग I ने बनाया गया है।",
+"B_en": "Jaipur was founded by Maharana Kumbha.",
+"B_hi": "जयपुर महाराणा कुमभ",
+"C_en": "Jaipur was established by Maharaja Jai Singh II.",
+"C_hi": "जयपुर महाराणा जैसिंग II ने बनाया गया है।",
+"D_en": "Jaipur was founded by Maharaja Man Singh I.",
+"D_hi": "जयपुर महाराणा मान सिंग I ने बनाया गया है।",
+"answer": "C",
+"explanation_en": "Jai Singh II is the correct founder of Jaipur.",
+"explanation_hi": "जैसिंग II ही जयपुर के बनायने के लिएगे हैंकरणी।",
+}
+]
