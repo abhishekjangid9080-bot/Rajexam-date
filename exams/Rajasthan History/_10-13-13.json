@@ -1,0 +1,157 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The user wants the questions in both Hindi and English, following Testbook style. The JSON structure is provided, so I must ensure each entry is in the correct format. Let me start by brainstorming some key topics in Rajasthan History.
+
+First, important dynasties like the Guhilot (Mewar), Kachwaha (Jaipur), Sisodia, and others come to mind. Then there are significant rulers such as Maharana Pratap, Raja Man Singh, Rao Maldeo, etc. Historical events like the establishment of Jaipur, the Battle of Haldighati, and the role of Rajputana in the Mughal Empire are important. Also, historical places like Chittorgarh Fort, Amber Fort, and the role of Rajputs in independence movements.
+
+I need to ensure the difficulty level is appropriate for these exams—maybe mix basic and a bit more complex questions. Let me list possible questions:
+
+1. Founder of Jaipur (Sawai Jai Singh)
+2. Ruler of Mewar (Rana Sanga)
+3. Battle of Haldighati (Maharana Pratap vs Akbar)
+4. Capital of Marwar (Jodhpur)
+5. Ruler known as "Mewar's Sun" (Rana Pratap)
+6. Founder of Udaipur (Maharana Udai Singh II)
+7. Ruler of Marwar (Rao Jodha)
+8. Capital of Mewar before Chittorgarh (Chittorgarh)
+9. Raja Man Singh's role (Kachwaha ruler)
+10. Important historical site (Chittorgarh Fort)
+
+Now, for each question, I need to write the question in both languages, four options, correct answer, and explanations. Let me check for accuracy. For example, Jaipur was founded by Sawai Jai Singh in 1727. Maharana Pratap was the ruler of Mewar and fought at Haldighati. Rao Jodha founded Jodhpur. Udaipur was founded by Udai Singh II. Raja Man Singh was a Kachwaha ruler who was a Rajput leader in Akbar's army. Chittorgarh Fort is a UNESCO site.
+
+I need to make sure options are plausible and the correct answer is accurate. Also, explanations should be concise but informative. Let me structure each JSON object carefully, ensuring language matches the question and answer. Double-check the names and terms in Hindi to avoid transliteration errors. For example, "Raja Man Singh" is "राजा मन सिंह" in Hindi. Confirm the correct spelling of names like Rao Maldeo as "राव मल्देव".
+
+Once all 10 are drafted, verify the JSON syntax to prevent errors. Ensure that all fields are filled and that the answer keys are correct. Finally, check the difficulty level—should be moderate, suitable for competitive exams. Include a mix of dates, names, and events to cover different aspects of Rajasthan History.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founders and Rulers",
+        "question_en": "Who founded the city of Jaipur in 1727?",
+        "question_hi": "राजस्थान के शहर जयपुर की स्थापना 1727 में किसने की थी?",
+        "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+        "B_en": "Raja Man Singh I", "B_hi": "राजा मन सिंह प्रथम",
+        "C_en": "Maharana Pratap", "C_hi": "महाराणा प्रताप",
+        "D_en": "Rao Jodha", "D_hi": "राव जोधा",
+        "answer": "A",
+        "explanation_en": "Sawai Jai Singh II founded Jaipur in 1727 as the capital of Amber State.",
+        "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में अम्बर राज्य की राजधानी के रूप में जयपुर की स्थापना की थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rulers of Mewar",
+        "question_en": "Which ruler of Mewar is known as 'Ranakpur's Sun'?",
+        "question_hi": "मेवाड़ के किस शासक को 'रणकपूर का सूर्य' के रूप में जाना जाता है?",
+        "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+        "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+        "C_en": "Rana Kumbha", "C_hi": "राणा कुंभा",
+        "D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+        "answer": "B",
+        "explanation_en": "Maharana Pratap of Mewar is revered as 'Ranakpur's Sun' for his valor.",
+        "explanation_hi": "मेवाड़ के महाराणा प्रताप को उनकी विशालता के कारण 'रणकपूर का सूर्य' के रूप में जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Battle of Haldighati",
+        "question_en": "The Battle of Haldighati (1576) was fought between Maharana Pratap and whom?",
+        "question_hi": "हल्दीघाटी का युद्ध (1576) महाराणा प्रताप और किसके बीच लड़ा गया था?",
+        "A_en": "Bairam Khan", "A_hi": "बीरम खान",
+        "B_en": "Raja Man Singh", "B_hi": "राजा मन सिंह",
+        "C_en": "Akbar", "C_hi": "अकबर",
+        "D_en": "Rana Sanga", "D_hi": "राणा संगा",
+        "answer": "C",
+        "explanation_en": "Maharana Pratap fought the Battle of Haldighati against Emperor Akbar's forces.",
+        "explanation_hi": "महाराणा प्रताप ने हल्दीघाटी का युद्ध अकबर के सेना के खिलाफ लड़ा।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founders of Cities",
+        "question_en": "Which ruler founded the city of Jodhpur?",
+        "question_hi": "शहर जोधपुर की स्थापना किस शासक ने की थी?",
+        "A_en": "Rao Jodha", "A_hi": "राव जोधा",
+        "B_en": "Rao Maldeo", "B_hi": "राव मल्देव",
+        "C_en": "Rao Chandra Singh", "C_hi": "राव चंद्र सिंह",
+        "D_en": "Rao Raja Sur Singh", "D_hi": "राव राजा सुर सिंह",
+        "answer": "A",
+        "explanation_en": "Rao Jodha founded the city of Jodhpur in 1459 as the capital of Marwar.",
+        "explanation_hi": "मरवाड़ की राजधानी के रूप में राव जोधा ने 1459 में जोधपुर की स्थापना की थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Figures",
+        "question_en": "Who was the ruler of Mewar at the time of the Battle of Haldighati?",
+        "question_hi": "हल्दीघाटी के युद्ध के समय मेवाड़ के शासक कौन थे?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+        "C_en": "Rana Kumbha", "C_hi": "राणा कुंभा",
+        "D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+        "answer": "A",
+        "explanation_en": "Maharana Pratap was the ruler of Mewar during the Battle of Haldighati.",
+        "explanation_hi": "हल्दीघाटी के युद्ध के समय महाराणा प्रताप मेवाड़ के शासक थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founders of Udaipur",
+        "question_en": "Who founded the city of Udaipur in 1559?",
+        "question_hi": "1559 में शहर उदयपुर की स्थापना किसने की थी?",
+        "A_en": "Maharana Udai Singh II", "A_hi": "महाराणा उदय सिंह द्वितीय",
+        "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+        "C_en": "Rana Sanga", "C_hi": "राणा संगा",
+        "D_en": "Rana Kumbha", "D_hi": "राणा कुंभा",
+        "answer": "A",
+        "explanation_en": "Maharana Udai Singh II founded Udaipur in 1559 as the capital of Mewar.",
+        "explanation_hi": "महाराणा उदय सिंह द्वितीय ने 1559 में मेवाड़ की राजधानी के रूप में उदयपुर की स्थापना की थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rulers of Marwar",
+        "question_en": "Which ruler of Marwar is known for the 'Lohgarh' fort?",
+        "question_hi": "मरवाड़ के किस शासक को 'लोहगढ़' किले के लिए जाना जाता है?",
+        "A_en": "Rao Jodha", "A_hi": "राव जोधा",
+        "B_en": "Rao Maldeo", "B_hi": "राव मल्देव",
+        "C_en": "Rao Chandra Singh", "C_hi": "राव चंद्र सिंह",
+        "D_en": "Rao Raja Sur Singh", "D_hi": "राव राजा सुर सिंह",
+        "answer": "B",
+        "explanation_en": "Rao Maldeo of Marwar is known for building the Lohgarh fort.",
+        "explanation_hi": "मरवाड़ के राव मल्देव लोहगढ़ किले के निर्माता के रूप में जाने जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Capitals",
+        "question_en": "What was the capital of Mewar before Chittorgarh?",
+        "question_hi": "चित्तौड़गढ़ के रूप में मेवाड़ की राजधानी के पहले क्या राजधानी थी?",
+        "A_en": "Ranakpur", "A_hi": "रणकपूर",
+        "B_en": "Chittorgarh", "B_hi": "चित्तौड़गढ़",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Kumbhalgarh", "D_hi": "कुंभलगढ़",
+        "answer": "B",
+        "explanation_en": "Chittorgarh was the capital of Mewar before the establishment of Udaipur.",
+        "explanation_hi": "उदयपुर की स्थापना से पहले चित्तौड़गढ़ मेवाड़ की राजधानी थी।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Kachwaha Rulers",
+        "question_en": "Who was the Kachwaha ruler who served as a commander in Akbar's army?",
+        "question_hi": "अकबर के सेना में एक आयुक्त के रूप में किस कच्छवा शासक ने सेवा की थी?",
+        "A_en": "Raja Man Singh I", "A_hi": "राजा मन सिंह प्रथम",
+        "B_en": "Sawai Jai Singh I", "B_hi": "सवाई जय सिंह प्रथम",
+        "C_en": "Raja Raja Singh", "C_hi": "राजा राजा सिंह",
+        "D_en": "Raja Bhagwant Das", "D_hi": "राजा भागवंत दास",
+        "answer": "A",
+        "explanation_en": "Raja Man Singh I of the Kachwaha dynasty was a prominent general in Akbar's army.",
+        "explanation_hi": "कच्छवा वंश के राजा मन सिंह प्रथम अकबर के सेना के एक प्रमुख जनरल थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Sites",
+        "question_en": "Which of the following is a UNESCO World Heritage Site in Rajasthan?",
+        "question_hi": "निम्न में से कौन सा राजस्थान में यूनेस्को विश्व धरोहर स्थल है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+        "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+        "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort is a UNESCO World Heritage Site, known for its historical significance.",
+        "explanation_hi": "चित्तौड़गढ़ किला एक यूनेस्को विश्व धरोहर स्थल है, जो अपने ऐतिहासिक महत्व के लिए जाना जाता है।"
+    }
+]
