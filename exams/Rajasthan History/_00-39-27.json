@@ -1,0 +1,139 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, specifically covering topics relevant to Rajasthan State Exams like LDC, CET, RAS, SSC, and Railway (NTPC). The user provided a JSON example, so I should follow that structure closely. Let me start by recalling key topics in Rajasthan's history.
+
+First, the establishment of the kingdom. Rajputs are a significant part of Rajasthan's history. The Mauryan Empire might have had influence, but Rajputs like the Guhils and Chauhans are more prominent. The Chauhan ruler Prithviraj Chauhan is a key figure. Then there's the Mughal period—Akbar's conquest of Mewar and Rana Pratap's resistance. The Marathas under Sindhia also had a role. The Rajputana Agency and British Raj are important for modern history. The integration of princely states into India after independence is another key point. Diwans like C. Rajagopalachari and Sir C. S. Venkatachari were important in post-independence administration. Also, historical sites like Chittorgarh Fort, Mehrangarh Fort, and the role of queens like Rani Padmini feature in legends.
+
+I should ensure each question has four options in both English and Hindi, with the correct answer marked. The difficulty should be moderate, testing factual knowledge and some historical context. Let me list possible questions:
+
+1. Founder of Mewar Kingdom
+2. First Rajput ruler to resist Mughals
+3. Location of Chittorgarh Fort
+4. Ruler who fought against Rana Pratap
+5. Diwan appointed after Rajasthan's formation
+6. Rajput ruler associated with Rani Padmini
+7. Rajputana Agency's role during British Raj
+8. Founder of Jaipur
+9. Integration of Rajasthan princely states
+10. Ruler associated with Chittorgarh Fort
+
+Now, I need to verify each fact. For example, Guhils are considered founders of Mewar, so Guhil is correct. Rana Sanga defeated Mughal forces, but Rana Pratap is more famous for resisting Akbar. Chittorgarh is in Chittorgarh district. Rana Pratap's son, Amar Singh, submitted to Akbar. C.R. was the first Diwan. Rana Ratan Singh is linked to Rani Padmini. Rajputana Agency administered Rajput states under British. Sawai Jai Singh founded Jaipur. Thakur of Bharatpur integrated into Rajasthan. Maharana Pratap is associated with Chittorgarh.
+
+I should make sure options are plausible. For example, in the founder of Mewar, options might include Guhils, Chauhans, etc. For the Diwan question, options could be C.R., Patel, etc. Also, check that explanations are concise and accurate.
+
+Now, structure each question into the JSON format, ensuring translations are correct. Avoid any markdown, just raw JSON. Let me proceed step by step for each question, checking facts again to prevent errors.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founding of Rajput Kingdoms",
+        "question_en": "Which dynasty is credited as the founder of the Mewar Kingdom in Rajasthan?",
+        "question_hi": "राजस्थान में मेवाड़ राज्य की स्थापना किस राजवंश के नाम से की गई थी?",
+        "A_en": "Chauhan", "A_hi": "चौहान",
+        "B_en": "Guil", "B_hi": "गुहिल",
+        "C_en": "Kachwaha", "C_hi": "कच्छवाह",
+        "D_en": "Sisodia", "D_hi": "सिसोदिया",
+        "answer": "B",
+        "explanation_en": "The Guil (Guhil) dynasty is traditionally credited with founding the Mewar Kingdom in Rajasthan.",
+        "explanation_hi": "गुहिल (गुहिल) वंश परंपरागत रूप से राजस्थान में मेवाड़ राज्य की स्थापना के लिए जिम्मेदार माना जाता है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Resistance to Mughals",
+        "question_en": "Which Rajput ruler is famously associated with resisting Mughal expansion in Rajasthan?",
+        "question_hi": "राजस्थान में मुग़लों के विस्तार का प्रतिरोध करने वाले राजपूत शासक कौन है?",
+        "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+        "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+        "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+        "D_en": "Maharaja Jaswant Singh", "D_hi": "महाराजा जसवंत सिंह",
+        "answer": "B",
+        "explanation_en": "Rana Pratap is renowned for his fierce resistance against the Mughal Empire, particularly during the Battle of Haldighati.",
+        "explanation_hi": "राणा प्रताप मुग़ल साम्राज्य के विरुद्ध लड़ाई खासकर हल्दीघाटी के युद्ध में अपने प्रतिरोध के लिए प्रसिद्ध हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Forts and Monuments",
+        "question_en": "Which fort in Rajasthan is historically linked to the legend of Rani Padmini?",
+        "question_hi": "राजस्थान में किस किले को रानी पद्मिनी के लेजेंड से ऐतिहासिक रूप से जोड़ा गया है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Mehrangarh Fort", "B_hi": "महरांगढ़ किला",
+        "C_en": "Amber Fort", "C_hi": "अम्बर किला",
+        "D_en": "Gagron Fort", "D_hi": "गगरोन किला",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort is historically associated with the legend of Rani Padmini, as depicted in the epic Padmavat.",
+        "explanation_hi": "चित्तौड़गढ़ किला पद्मावत लेजेंड के साथ ऐतिहासिक रूप से जुड़ा हुआ है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Mughal Era in Rajasthan",
+        "question_en": "Which Mughal emperor conquered Chittorgarh Fort under the leadership of Rana Sanga?",
+        "question_hi": "राणा संगा के नेतृत्व में मुग़ल सम्राट ने चित्तौड़गढ़ किला कब पर महाराज राणा संगा के नेतृत्व में जीता था?",
+        "A_en": "Akbar", "A_hi": "अकबर",
+        "B_en": "Humayun", "B_hi": "हुमायूँ",
+        "C_en": "Shah Jahan", "C_hi": "शाहजहाँ",
+        "D_en": "Jahangir", "D_hi": "जहाँगीर",
+        "answer": "A",
+        "explanation_en": "Akbar captured Chittorgarh Fort in 1568 after defeating Rana Sanga's forces.",
+        "explanation_hi": "अकबर ने 1568 में राणा संगा के बल को हराकर चित्तौड़गढ़ किला जीत लिया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern Rajasthan Formation",
+        "question_en": "Who was the first Diwan of independent Rajasthan after its formation in 1948?",
+        "question_hi": "1948 में स्वतंत्र राजस्थान के गठन के बाद राज्य के पहले डायन कौन थे?",
+        "A_en": "C. Rajagopalachari", "A_hi": "सी. राजगोपालचारी",
+        "B_en": "Sir C. S. Venkatachari", "B_hi": "श्री सी. एस. वेंकटचारी",
+        "C_en": "Motilal Tejawat", "C_hi": "मोतीलाल तेजावत",
+        "D_en": "Jaswant Singh", "D_hi": "जसवंत सिंह",
+        "answer": "A",
+        "explanation_en": "C. Rajagopalachari was the first Diwan of independent Rajasthan after its formation in 1948.",
+        "explanation_hi": "सी. राजगोपालचारी 1948 में स्वतंत्र राजस्थान के गठन के बाद राज्य के पहले डायन हुए।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajputana Agency",
+        "question_en": "Which British official was the first to establish the Rajputana Agency to govern the princely states of Rajasthan?",
+        "question_hi": "राजस्थान के रियासती राज्यों का शासन करने के लिए राजपूताना एजेंसी की स्थापना करने वाला पहला ब्रिटिश अधिकारी कौन था?",
+        "A_en": "Lord Canning", "A_hi": "लॉर्ड कैनिंग",
+        "B_en": "Lord Dalhousie", "B_hi": "लॉर्ड डलहौजी",
+        "C_en": "Lord Lytton", "C_hi": "लॉर्ड लिटन",
+        "D_en": "Lord Curzon", "D_hi": "लॉर्ड कर्जन",
+        "answer": "C",
+        "explanation_en": "Lord Lytton established the Rajputana Agency in 1884 to administer the princely states of Rajasthan under British rule.",
+        "explanation_hi": "लॉर्ड लिटन ने 1884 में राजपूताना एजेंसी की स्थापना की ताकि राजस्थान के रियासती राज्यों का शासन किया जा सके।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Founding of Jaipur",
+        "question_en": "Who was the founder of the city of Jaipur, and under whose patronage was it established?",
+        "question_hi": "जयपुर शहर के स्थापक कौन थे और किसके प्रतिपालन में इसकी स्थापना की गई थी?",
+        "A_en": "Sawai Jai Singh II, Mughal Emperor", "A_hi": "सवाई जय सिंह द्वितीय, मुग़ल सम्राट",
+        "B_en": "Raja Man Singh I, Mughal Emperor", "B_hi": "राजा मान सिंह प्रथम, मुग़ल सम्राट",
+        "C_en": "Raja Bhoj, Chouhan King", "C_hi": "राजा भोज, चौहान राजा",
+        "D_en": "Maharaja Sawai Jai Singh II, Mughal Emperor", "D_hi": "महाराजा सवाई जय सिंह द्वितीय, मुग़ल सम्राट",
+        "answer": "D",
+        "explanation_en": "Jaipur was founded by Maharaja Sawai Jai Singh II in 1727 under the patronage of the Mughal Emperor.",
+        "explanation_hi": "जयपुर की स्थापना महाराजा सवाई जय सिंह द्वितीय ने 1727 में मुग़ल सम्राट के प्रतिपालन में की गई।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Integration of Princely States",
+        "question_en": "Which ruler of Bharatpur refused to join independent India and was later integrated?",
+        "question_hi": "भारतपुर के किस शासक ने स्वतंत्र भारत में शामिल होने का अस्वीकार कर दिया और बाद में एकीकृत किया गया?",
+        "A_en": "Maharaja Sawai Man Singh", "A_hi": "महाराजा सवाई मान सिंह",
+        "B_en": "Maharaja Udai Bhan", "B_hi": "महाराजा उदय भान",
+        "C_en": "Thakur Raja of Bharatpur", "C_hi": "भारतपुर के तख्तराजा",
+        "D_en": "Maharaja Sardar Singh", "D_hi": "महाराजा सरदार सिंह",
+        "answer": "C",
+        "explanation_en": "The Thakur Raja of Bharatpur initially refused to join independent India but was later integrated into Rajasthan.",
+        "explanation_hi": "भारतपुर के तख्तराजा ने शुरू में स्वतंत्र भारत में शामिल होने से इनकार कर दिया लेकिन बाद में राजस्थान में एकीकृत कर दिया गया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajput Chieftains",
+        "question_en": "Which Rajput ruler is known as the 'Hindu Samudragupta' for his military conquests?",
+        "question_hi": "अपनी सैन्य विजयों के लिए किस राजपूत शासक को 'हिंदू समुद्रगुप्त' के रूप में जाना जाता है?",
+        "A_en": "Rana Pratap", "A_hi": "राणा प्रताप",
+        "B_en": "Rana Sanga", "B_hi": "राणा संगा",
+        "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+        "D_en": "Maharaja Jai Singh", "D_hi": "मह
