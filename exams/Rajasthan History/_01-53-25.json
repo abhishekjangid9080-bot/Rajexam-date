@@ -1,0 +1,90 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस पसंदीदा कठोरता है?",
+"A_en": "Amer Fort", "A_hi": "अमेर कठोरता",
+"B_en": "Sisodiya Rani Ka Mandir", "B_hi": "सिसोडीया रानी का मांडिया",
+"C_en": "Hawa Mahal", "C_hi": "हवा महाल",
+"D_en": "Jal Mahal", "D_hi": "जल महाल",
+"answer": "C",
+"explanation_en": "Hawa Mahal is a famous landmark in Jaipur, known for its unique architecture.\n(Jaipur, the capital of Rajasthan, is also known as the Pink City due to the color of its buildings.)",
+"explanation_hi": "हवा महाल जैसे राजस्थान का एक परमणिया का निर्द्वारा है, ज्ञान के लिए स्पष्ट विज्ञान के लीजेंड हैएंवारा, ज्ञान के लीजेंड हैएंवारा, ज्ञान के लीजेंड हैएंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा, ज्ञान के लीजेंवारा",
+"options_langs": ["Hindi", "English"],
+"answer_lang": "Hindi",
+"question_en": "Which is the capital city of Rajasthan?",
+"question_hi": "राजस्थान के राजपूर्वाल्बलिया की उधर्मणिका",
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "Jodhpur",
+"option_en": "Jodhpur",
+"option_hi": "जोधपुर",
+"option_img": ""
+},
+{
+"option_id": 2,
+"option_text": "Jaipur",
+"option_en": "Jaipur",
+"option_hi": "जापुर",
+"option_img": ""
+},
+{
+"option_id": 3,
+"option_text": "Udaipur",
+"option_en": "Udaipur",
+"option_hi": "उदाईपुर",
+"option_img": ""
+},
+{
+"option_id": 4,
+"option_text": "Alwar",
+"option_en": "Alwar",
+"option_hi": "अलवार",
+"option_img": ""
+}
+],
+"answer_id": 2,
+"answer_en": "Jaipur",
+"answer_hi": "जापुर",
+"answer_img": ""
+},
+{
+"question_en": "Which is the most famous forts of Rajasthan?",
+"question_hi": "राजस्थान मेंदेर के केवारा के का कोणिका",
+"options": [
+{
+"option_id": 1,
+"option_text": "Amer Fort",
+"option_en": "Amer Fort",
+"option_hi": "अमेर कोणिका",
+"option_img": ""
+},
+{
+"option_id": 2,
+"option_text": "Kumbalgarh Fort",
+"option_en": "Kumbalgarh Fort",
+"option_hi": "कुबालगार कोणिका",
+"option_img": ""
+},
+{
+"option_id": 3,
+"option_text": "Nathdwara Fort",
+"option_en": "Nathdwara Fort",
+"option_hi": "नाथदोवारा",
+"option_img": ""
+},
+{
+"option_id": 4,
+"option_text": "Ranthambh Fort",
+"option_en": "Ranthambh Fort",
+"option_hi": "रंथंमहोथंयारा",
+"option_img": ""
+],
+"answer_id": 4,
+"answer_en": "Ranthambh Fort",
+"answer_hi": "रंथंमहोथंयारा",
+"answer_img": ""
+}
+]
