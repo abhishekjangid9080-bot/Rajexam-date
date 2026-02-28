@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Kingdoms",
+"question_en": "Which Rajput kingdom was founded by Rao Jodha?",
+"question_hi": "राजपूतों की क्षेत्र को राजोधा ने बनाया गया है।",
+"A_en": "Mewar", "A_hi": "मेवार",
+"B_en": "Marwar", "B_hi": "मरवार",
+"C_en": "Chittor", "C_hi": "चितोर",
+"D_en": "Jodhpur", "D_hi": "जोधपुर",
+"answer": "D",
+"explanation_en": "Rao Jodha founded the Rajput kingdom of Jodhpur, also known as Marwar.",
+"explanation_hi": "राजोधा ने राजपूतों की क्षेत्र को जोधपुर (मरवार) माना जाता है।",
+}
+]
