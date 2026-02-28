@@ -1,0 +1,48 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन से महत्वपूर्ण कठिनाई मैंट हैं?",
+"A_en": "Mehrangarh Fort", "A_hi": "मैंट मेहंरंगर",
+"B_en": "Udaipur Fort", "B_hi": "उदयपुर मैंट",
+"C_en": "Ajmer Fort", "C_hi": "अजमेर मैंट",
+"D_en": "Jaisalmer Fort", "D_hi": "जयसलमर मैंट",
+"answer": "D",
+"explanation_en": "Mehrangarh Fort is located in Jodhpur. However, the correct answer is D, which represents Jaisalmer Fort as it is the famous forts situated in Rajasthan.",
+"explanation_hi": "मैंट मेहंरंगर राजस्थान में प्रश्न सचिवाल मैंट हैं, लेकिन उत्तरों की जवाब D है, जैसेलर मैंट का सर्वाल है, ज्ञान का निर्माण है। 
+
+[JSON Output]
+
+[
+{
+"subject": "Rajasthan History",
+"topic": "Legendary Kings and Queens",
+"question_en": "Which legendary queen is associated with Chittorgarh Fort?",
+"question_hi": "चिट्टोगाढ़ा फोट के संतुल कित्तर की संतुल परत्तर की संतुल है।",
+"A_en": "King Bhim Singh II",
+"A_hi": "बीम सिंग एल पुरातनिक संतुल की संतुल है।",
+"B_en": "Prince Ratan Singh",
+"B_hi": "प्रातिनिक सिंग संतुल है।",
+"C_en": "King Kumbha Rao Diwana",
+"C_hi": "कुम्बा राव दीवा",
+"D_en": "King Pratap Singh",
+"D_hi": "प्रताप सिंग संतुल है।",
+"answer": "D",
+"explanation_en": "Pratap Singh II was a legendary king associated with Chittor.",
+"explanation_hi": "Pratap Singh II चिट्टोर के लाक्षी के राजन है।",
+"question_en": "Which king was married to Maharani Kumbha?",
+"question_hi": "महाराणी कुम्बा के संतुल मैंट के लाक्षी का केंट के राजन है।",
+"A_en": "King Pratap Singh I",
+"A_hi": "प्रताप सिंग I राजन है।",
+"B_en": "King Rana Kumbha",
+"B_hi": "राजन कुम्बा",
+"C_en": "King Pratap Singh II",
+"C_hi": "प्रताप सिंग II राजन है।",
+"D_en": "King Rana Kumbha",
+"D_hi": "राजन कुम्बा",
+"answer": "C",
+"explanation_en": "King Pratap Singh II was married to Maharani Kumbha. Therefore, the king associated with Maharani Kumbha is Kumbha.",
+"explanation_hi": "प्रताप सिंग II राजन कुम्बा के संतुल है।",
+"question_en": "Who was the queen of King Pratap Singh II?",
+"question_hi": "प्रताप सिंग II के संतुल के सिंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन केंग II राजन
