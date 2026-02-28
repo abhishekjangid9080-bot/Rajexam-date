@@ -1,0 +1,148 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for Rajasthan History, suitable for exams like LDC, CET, RAS, SSC, and Railway NTPC. The instructions specify that each question and its options must be in both Hindi and English, following the Testbook style. The JSON structure is already provided, so I need to make sure the output strictly adheres to that format.
+
+First, I need to recall key facts from Rajasthan History. Topics could include dynasties, important rulers, historical events, cultural aspects, etc. Each question should be challenging enough for the exams mentioned but not too obscure. Let me brainstorm some topics. For example, the founder of Jaipur, the ruler who merged princely states into Rajasthan, important battles, historical monuments, etc.
+
+I need to ensure that the questions are varied and cover different aspects of Rajasthan's history. Let me start with the first question. Maybe about the founder of Jaipur. Sir Jagat Singh I invited architects from Delhi to build Jaipur. The answer is Sir Jagat Singh I. The options should include other rulers to confuse, like Sawai Jai Singh II, who actually built the city, but the founder is Jagat Singh I. Wait, no, Sawai Jai Singh II is known as the founder of Jaipur. Hmm, I need to verify that. Let me think: Sawai Jai Singh II established Jaipur in 1727. So the correct answer would be Sawai Jai Singh II. Maybe I made a mistake here. Let me confirm. Yes, Sawai Jai Singh II (1699–1743) founded Jaipur. So the first question's answer is B.
+
+Next, the ruler who merged princely states. That would be Maharaja Sawai Man Singh II. He played a key role in the integration of Rajasthan. So another question here. Options could include other rulers like Rajendra Singh, Jai Singh II, etc. The answer is Sawai Man Singh II.
+
+Third question: The ruler known as "Madho Singh". Wait, there's a ruler named Madho Singh I of Jaipur, who ruled in the 18th century. Maybe a question on his contributions. Or perhaps the title "Madho Singh" refers to another ruler. Alternatively, the question could be about the ruler who introduced the "Rajasthan State Reorganization Act" or something else. Wait, maybe the ruler known as "Ghanshyam Singh" or another name. Alternatively, the founder of Mewar's capital, Chittorgarh. Rana Hammir defeated Alauddin Khilji. The battle of Kumbhalgarh. Or the ruler who gave up the throne to his son, like Sawai Jai Singh II. Hmm.
+
+Fourth question: The ruler of Mewar who defeated Alauddin Khilji. That would be Maharana Hammir. He defeated the Delhi Sultanate's forces led by Alauddin Khilji in 1303. So the question is about that battle. The answer is Maharana Hammir.
+
+Fifth question: The ruler who established the fort of Bikaner. That would be Rao Bika, who founded Bikaner in the 15th century. The options could include Rao Jodha (founded Jodhpur), Raja Man Singh (founder of Jaipur), etc.
+
+Sixth question: The ruler known as "Sangram Singh". That's a title used by several Rajput rulers, like Prithviraj Chauhan (Sangram Singh I) and later Maharana Sanga (Sangram Singh II). So the question could be about which ruler was called Sangram Singh. The answer would be Maharana Sanga (Sangram Singh II) of Mewar.
+
+Seventh question: The ruler who introduced the "Rajasthan State Reorganization Act". Wait, the integration of Rajasthan was done by Sawai Man Singh II, but the state reorganization happened in 1956. Maybe the question is about the ruler who merged princely states. The answer is Sawai Man Singh II.
+
+Eighth question: The founder of the Kishangarh state. That would be Kishan Singh, a Rao of the Kishangarh state in the 17th century. The options could include other rulers.
+
+Ninth question: The ruler who built the City Palace in Udaipur. That's Maharana Udai Singh II, who founded Udaipur in the 16th century. The options could be other rulers like Maharana Pratap, Sawai Jai Singh, etc.
+
+Tenth question: The ruler who died in the Battle of Haldighati. That's Maharana Pratap of Mewar. He died in 1576 after the battle against Akbar.
+
+Now, I need to structure each question with the correct Hindi and English versions, options, answer, and explanations. Let me check each for accuracy. For example, the founder of Jaipur is Sawai Jai Singh II, so the first question's answer is B. The ruler who merged princely states is Sawai Man Singh II (option C). The ruler who defeated Alauddin Khilji is Maharana Hammir (option C). The founder of Bikaner is Rao Bika (option A). The ruler known as Sangram Singh II is Maharana Sanga (option B). The founder of Kishangarh is Kishan Singh (option A). The builder of Udaipur's City Palace is Udai Singh II (option B). The ruler who died in Haldighati is Maharana Pratap (option C).
+
+I need to ensure that all options are plausible distractors, not obviously wrong. For example, in the question about the founder of Jaipur, options could include Sawai Jai Singh II, Jagat Singh I, etc. But I need to verify the correct historical facts. Sawai Jai Singh II is indeed the correct founder of Jaipur, so the answer is B.
+
+Also, explanations should be concise and in both languages. For example, for the first question, the explanation in English is "Sawai Jai Singh II established Jaipur in 1727 as the capital of the Kachwaha Rajput kingdom." Similarly in Hindi.
+
+Now, compiling all these into the JSON structure as per the example. Each entry should have the subject, topic (which is left empty as per the user's example), question in both languages, options with translations, the correct answer letter, and explanations in both languages. The topic field is empty in the example, so I'll leave it as an empty string.
+
+Let me check each question again for accuracy and ensure that the options are correctly ordered. Also, make sure that the answer letters (A, B, C, D) are correctly assigned based on the correct answer. For example, if the correct answer is option B, then the "answer" field should be "B".
+
+After verifying all the facts and structuring the JSON correctly, the final output should be a list of 10 JSON objects meeting the requirements.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who is known as the founder of Jaipur?",
+    "question_hi": "जयपुर के स्थापक के रूप में किसे जाना जाता है?",
+    "A_en": "Sawai Jai Singh II",
+    "A_hi": "सवाई जय सिंह द्वितीय",
+    "B_en": "Jagat Singh I",
+    "B_hi": "जगत सिंह प्रथम",
+    "C_en": "Maharana Pratap",
+    "C_hi": "महाराणा प्रताप",
+    "D_en": "Rao Bika",
+    "D_hi": "राव बीका",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh II established Jaipur in 1727 as the capital of the Kachwaha Rajput kingdom.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना करवाई और कच्छवाहा राजपूत साम्राज्य की राजधानी के रूप में इसे स्थापित किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan is known as 'Sangram Singh'?",
+    "question_hi": "राजस्थान के किस शासक को 'संग्राम सिंह' के रूप में जाना जाता है?",
+    "A_en": "Raja Man Singh",
+    "A_hi": "राजा मन सिंह",
+    "B_en": "Maharana Sanga",
+    "B_hi": "महाराणा सांगा",
+    "C_en": "Raja Raja Singh",
+    "C_hi": "राजा राजा सिंह",
+    "D_en": "Maharaja Sawai Man Singh II",
+    "D_hi": "महाराजा सवाई मान सिंह द्वितीय",
+    "answer": "B",
+    "explanation_en": "Maharana Sanga of Mewar was known as 'Sangram Singh' and is remembered for resisting Mughal expansion.",
+    "explanation_hi": "मेवाड़ के महाराणा सांगा को 'संग्राम सिंह' के रूप में जाना जाता है और मुगल साम्राज्य के विस्तार के खिलाफ उनके प्रतिरोध के लिए याद किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who founded the city of Bikaner?",
+    "question_hi": "बीकानेर शहर की स्थापना किसने की थी?",
+    "A_en": "Rao Bika",
+    "A_hi": "राव बीका",
+    "B_en": "Rao Jodha",
+    "B_hi": "राव जोधा",
+    "C_en": "Raja Man Singh",
+    "C_hi": "राजा मन सिंह",
+    "D_en": "Raja Raja Singh",
+    "D_hi": "राजा राजा सिंह",
+    "answer": "A",
+    "explanation_en": "Rao Bika founded Bikaner in the 15th century and established it as a new capital to escape the threat from Mewar.",
+    "explanation_hi": "राव बीका ने 15वीं शताब्दी में बीकानेर की स्थापना की थी और इसे मेवाड़ के खतरे से बचाने के लिए एक नई राजधानी के रूप में स्थापित किया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Mewar defeated Alauddin Khilji in the Battle of Chittorgarh?",
+    "question_hi": "मेवाड़ का जो शासक चित्तौड़गढ़ के युद्ध में अलाउद्दीन खिलजी को पराजित करने वाला है, वह कौन है?",
+    "A_en": "Rana Pratap Singh",
+    "A_hi": "राणा प्रताप सिंह",
+    "B_en": "Rana Sanga",
+    "B_hi": "राणा सांगा",
+    "C_en": "Rana Hammir",
+    "C_hi": "राणा हम्मीर",
+    "D_en": "Rana Ratan Singh",
+    "D_hi": "राणा रतन सिंह",
+    "answer": "C",
+    "explanation_en": "Rana Hammir of Mewar defeated Alauddin Khilji's forces at Chittorgarh in 1303, defending the fort from capture.",
+    "explanation_hi": "मेवाड़ के राणा हम्मीर ने 1303 में चित्तौड़गढ़ में अलाउद्दीन खिलजी की सेनाओं को पराजित किया और किले के अधिग्रहण से बचाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the ruler of Rajasthan responsible for integrating princely states into the Indian Union?",
+    "question_hi": "राजस्थान के किस शासक ने अपने शासन के दौरान रियासतों को भारतीय संघ में एकीकृत किया था?",
+    "A_en": "Maharaja Sawai Man Singh II",
+    "A_hi": "महाराजा सवाई मान सिंह द्वितीय",
+    "B_en": "Maharaja Sawai Jai Singh II",
+    "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "C_en": "Maharaja Ganga Singh",
+    "C_hi": "महाराजा गंगा सिंह",
+    "D_en": "Maharaja Man Singh I",
+    "D_hi": "महाराजा मन सिंह प्रथम",
+    "answer": "A",
+    "explanation_en": "Maharaja Sawai Man Singh II played a key role in merging Rajasthan's princely states into the Indian Union post-independence.",
+    "explanation_hi": "महाराजा सवाई मान सिंह द्वितीय ने स्वतंत्रता के बाद राजस्थान की रियासतों को भारतीय संघ में एकीकृत करने में महत्वपूर्ण भूमिका निभाई।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Which ruler of Rajasthan is associated with the construction of the Kumbhalgarh Fort?",
+    "question_hi": "राजस्थान के किस शासक के साथ कुंभलगढ़ किले के निर्माण से जुड़ा हुआ है?",
+    "A_en": "Rana Kumbha",
+    "A_hi": "राणा कुंभा",
+    "B_en": "Rana Sanga",
+    "B_hi": "राणा सांगा",
+    "C_en": "Rana Pratap",
+    "C_hi": "राणा प्रताप",
+    "D_en": "Rana Mokal",
+    "D_hi": "राणा मोकल",
+    "answer": "A",
+    "explanation_en": "Rana Kumbha of Mewar built the Kumbhalgarh Fort in the 15th century, known for its massive walls and military architecture.",
+    "explanation_hi": "मेवाड़ के राणा कुंभा ने 15वीं शताब्दी में कुंभलगढ़ किला बनवाया, जिसके दीवारों और सैन्य इमारतों के लिए यह प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "",
+    "question_en": "Who was the ruler of Rajasthan who died in the Battle of Haldighati against Akbar?",
+    "question_hi": "राजस्थान के उस शासक का नाम बताइए जो अकबर के खिलाफ हल्दीघाटी के युद्ध में मारे गए थे।",
+    "A_en": "Maharana Sanga",
+    "A_hi": "महार
