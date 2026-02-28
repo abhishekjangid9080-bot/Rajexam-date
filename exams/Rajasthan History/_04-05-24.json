@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic fort is the symbol of Rajasthan's rich history?",
+"question_hi": "राजस्थान की महत्ताओं में एक संकेत है राजस्थान का पहला काला संकेत है।",
+"A_en": "Amber Fort",
+"A_hi": "अमेरिका के पहले काला संकेत",
+"B_en": "Mehrangarh Fort",
+"B_hi": "मेहरांगर के पहले काला संकेत",
+"C_en": "Kumbhalgarh Fort",
+"C_hi": "कुभलगाँड़ के पहले काला संकेत",
+"D_en": "Jaigarh Fort",
+"D_hi": "जयजगर के पहले काला संकेत",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort is the symbol of Rajasthan's rich history.",
+"explanation_hi": "मेहरांगर के पहले काला संकेत",
+}
+]
