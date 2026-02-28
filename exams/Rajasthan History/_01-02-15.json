@@ -1,0 +1,146 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan History for various exams like LDC, CET, RAS, SSC, and Railway NTPC. The questions need to be in both Hindi and English, following the Testbook style. The JSON structure is provided as an example, so I need to make sure each question adheres to that format strictly.
+
+First, I need to brainstorm topics within Rajasthan History that are relevant and frequently tested. Topics like rulers, historical events, cultural heritage, important battles, and administrative changes come to mind. Let me list some key points:
+
+1. Founders of Rajputana kingdoms.
+2. Significant battles in Rajasthan.
+3. Famous rulers and their contributions.
+4. Historical sites and their significance.
+5. Administrative reforms during British period.
+6. Cultural heritage and traditions.
+7. Important historical treaties.
+8. Role of Rajasthan in Indian independence movement.
+9. Architectural achievements.
+10. Notable historical figures and their contributions.
+
+Now, for each topic, I need to frame a question. Let me start with the first one. The founder of the Mewar kingdom is Rana Sanga's ancestor, but the correct answer would be Bappa Rawal. Wait, Bappa Rawal is associated with Mewar? Or is it another ruler? Let me verify. Yes, Bappa Rawal is considered the founder of the Mewar dynasty. So a question could be about the founder of Mewar, with options including Bappa Rawal and others.
+
+Next, the battle of Haldighati. The ruler who fought there was Maharana Pratap. That's a common question. Then the founder of Jaipur, which is Sawai Jai Singh. The Mughal ruler who invaded Chittorgarh—Akbar, maybe? Or Alauddin Khilji? Wait, Chittorgarh was the capital of Mewar. The siege by Alauddin Khilji in 1303 is a key event.
+
+For the capital of the Maurya Empire in Rajasthan, maybe Ujjain? Wait, the Maurya Empire's capital was Pataliputra. But Rajasthan's historical capitals—Chittorgarh for Mewar, Jaisalmer for Marwar. Wait, the capital of the Maurya Empire wasn't in Rajasthan. Maybe the question is about the Mauryan period's influence in Rajasthan. Hmm, perhaps the question is about the capital of a specific kingdom in Rajasthan during a certain period. Need to be careful here.
+
+The ruler of Jodhpur—Marwar's founder is Rao Jodha, so the capital is Jodhpur. The ruler might be a later figure like Maharaja Man Singh. The founder of Udaipur is Maharana Udai Singh II. The role of Maharaja Sawai Jai Singh in founding Jaipur. The ruler who shifted the capital from Chittorgarh to Udaipur is Udai Singh II. The ruler associated with the Kumbhalgarh Fort is Rana Kumbha. The ruler who defeated the Mughals at the Battle of Khanwa—Rana Sanga? Or Babur? Wait, the Battle of Khanwa was between Babur and Rana Sanga. Rana Sanga was defeated.
+
+For the cultural aspect, the festival of Gangaur is celebrated in Rajasthan. The city known as the "Venice of the East" is Udaipur due to its lakes. The ruler associated with the Dilwara Temples is Chandrasen. The historical site in Rajasthan with a fort built by Raja Man Singh is Amer Fort in Jaipur. The ruler who signed the Treaty of Awa was Sawai Raja Mal. The first ruler of Jaisalmer is Prithviraj Chauhan. The ruler who shifted the capital to Kumbhalgarh is Rana Kumbha.
+
+Wait, some of these might need verification. For example, the founder of Jaisalmer is Prithviraj Chauhan. The founder of Udaipur is Udai Singh II. The ruler of Jodhpur is Rao Jodha. The founder of Jaipur is Sawai Jai Singh. The ruler who defeated the Mughals at Haldighati was Maharana Pratap. The Battle of Khanwa was between Babur and Rana Sanga. The ruler who signed the Treaty of Awa was Sawai Raja Mal. The ruler associated with Dilwara Temples is Chandrasen. The city known as the "Venice of the East" is Udaipur. The historical site where the Mughal Emperor Akbar stayed is Amber Fort. The ruler who built the Kumbhalgarh Fort is Rana Kumbha. The founder of the Mewar dynasty is Bappa Rawal.
+
+Now, structuring each question with options in both languages. Need to ensure that the correct answer is unambiguous. Also, explanations should be concise. Let me check each question for accuracy and clarity. For example, the question about the founder of Mewar: options should include Bappa Rawal and others. The answer is B. The explanation should state that Bappa Rawal is the founder.
+
+Similarly, the question about the ruler who defeated the Mughals at Haldighati is Maharana Pratap, answer C. The explanation states that he defeated the Mughal forces. Need to make sure all answers are correct and explanations are accurate.
+
+I think that's a solid set of 10 questions covering various aspects of Rajasthan History. Let me compile them into the required JSON format now.
+</think>
+
+```json
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders and Rulers",
+    "question_en": "Who is considered the founder of the Mewar dynasty?",
+    "question_hi": "मेवाड़ राजवंश के संस्थापक कौन माने जाते हैं?",
+    "A_en": "Bappa Rawal", "A_hi": "बप्पा रावल",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Rana Sanga", "C_hi": "राणा सांगा",
+    "D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Bappa Rawal is considered the founder of the Mewar dynasty after whom the kingdom was revived.",
+    "explanation_hi": "बप्पा रावल मेवाड़ राजवंश के संस्थापक माने जाते हैं, जिनके नाम पर राज्य को पुनर्जीवित किया गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Battles",
+    "question_en": "Which ruler of Mewar defeated the Mughals in the Battle of Haldighati?",
+    "question_hi": "मेवाड़ के किस शासक ने हल्दिगड़ी की लड़ाई में मुगलों को पराजित किया?",
+    "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+    "B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+    "C_en": "Rana Ratan Singh", "C_hi": "राणा रतन सिंह",
+    "D_en": "Rana Kumbha", "D_hi": "राणा कुंभा",
+    "answer": "A",
+    "explanation_en": "Maharana Pratap led the Mewar forces and fought valiantly against the Mughals in the Battle of Haldighati.",
+    "explanation_hi": "महाराणा प्रताप ने हल्दिगड़ी की लड़ाई में मुगलों के खिलाफ मेवाड़ की सेना का नेतृत्व किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founding of Cities",
+    "question_en": "Who founded the city of Jaipur?",
+    "question_hi": "जयपुर शहर की स्थापना किसने की थी?",
+    "A_en": "Sawai Jai Singh II", "A_hi": "सवाई जय सिंह द्वितीय",
+    "B_en": "Maharaja Pratap Singh", "B_hi": "महाराजा प्रताप सिंह",
+    "C_en": "Maharaja Man Singh I", "C_hi": "महाराजा मान सिंह प्रथम",
+    "D_en": "Maharaja Sardar Singh", "D_hi": "महाराजा सरदार सिंह",
+    "answer": "A",
+    "explanation_en": "Sawai Jai Singh II established Jaipur in 1727 as the new capital of Amber kingdom.",
+    "explanation_hi": "सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना अमेर राज्य की नई राजधानी के रूप में की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Forts",
+    "question_en": "Which ruler built the Kumbhalgarh Fort?",
+    "question_hi": "कुंभलगढ़ किला किस शासक द्वारा निर्मित किया गया था?",
+    "A_en": "Rana Kumbha", "A_hi": "राणा कुंभा",
+    "B_en": "Rana Sanga", "B_hi": "राणा सांगा",
+    "C_en": "Rana Pratap", "C_hi": "राणा प्रताप",
+    "D_en": "Rana Ratan Singh", "D_hi": "राणा रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Rana Kumbha constructed the Kumbhalgarh Fort in the 15th century.",
+    "explanation_hi": "राणा कुंभा ने 15वीं शताब्दी में कुंभलगढ़ किला का निर्माण करवाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Events",
+    "question_en": "Which Mughal emperor attacked Chittorgarh in 1303?",
+    "question_hi": "1303 ई० में चित्तौड़गढ़ पर हमला करने वाला मुगल शासक कौन था?",
+    "A_en": "Alauddin Khilji", "A_hi": "अलाउद्दीन खिलजी",
+    "B_en": "Muhammad bin Tughlaq", "B_hi": "मुहम्मद बिन तुगलक",
+    "C_en": "Sher Shah Suri", "C_hi": "शेर शाह सूरी",
+    "D_en": "Akbar", "D_hi": "अकबर",
+    "answer": "A",
+    "explanation_en": "Alauddin Khilji launched a major attack on Chittorgarh in 1303, capturing the fort after a prolonged siege.",
+    "explanation_hi": "अलाउद्दीन खिलजी ने 1303 में चित्तौड़गढ़ पर एक महत्वपूर्ण हमला किया, जिसके बाद लंबी घेराबंदी के बाद किला उनके हाथ लगा।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Heritage",
+    "question_en": "Which festival is uniquely associated with Rajasthan?",
+    "question_hi": "राजस्थान से विशिष्ट रूप से कौन सा त्योहार संबंधित है?",
+    "A_en": "Diwali", "A_hi": "दीवाली",
+    "B_en": "Gangaur", "B_hi": "गंगौर",
+    "C_en": "Holi", "C_hi": "होली",
+    "D_en": "Navratri", "D_hi": "नवरात्रि",
+    "answer": "B",
+    "explanation_en": "Gangaur is a traditional Hindu festival celebrated in Rajasthan, dedicated to the goddess Gauri.",
+    "explanation_hi": "गंगौर एक पारंपरिक हिंदू त्योहार है जो राजस्थान में मनाया जाता है, जो देवी कौरी के समर्पित है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Treaties",
+    "question_en": "Which ruler signed the Treaty of Awa with the British in 1818?",
+    "question_hi": "1818 में ब्रिटिश के साथ अवा के संधि पर किस शासक ने हस्ताक्षर किए थे?",
+    "A_en": "Sawai Raja Mal", "A_hi": "सवाई राजा मल",
+    "B_en": "Maharaja Sawai Jai Singh II", "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "C_en": "Maharaja Man Singh I", "C_hi": "महाराजा मान सिंह प्रथम",
+    "D_en": "Maharaja Sardar Singh", "D_hi": "महाराजा सरदार सिंह",
+    "answer": "A",
+    "explanation_en": "Sawai Raja Mal signed the Treaty of Awa, ceding control of Rajasthan to the British East India Company.",
+    "explanation_hi": "सवाई राजा मल ने अवा के संधि पर हस्ताक्षर किए, जिसमें राजस्थान का नियंत्रण ब्रिटिश पूर्वी कंपनी को सौप दिया गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Architectural Achievements",
+    "question_en": "Which ruler is associated with the construction of the Dilwara Temples in Mount Abu?",
+    "question_hi": "माउंट आबू में दिलवाड़ा मंदिरों के निर्माण के साथ किस शासक का संबंध है?",
+    "A_en": "Chandrasen", "A_hi": "चंद्रसेन",
+    "B_en": "Rana Pratap", "B_hi": "राणा प्रताप",
+    "C_en": "Sawai Jai Singh II", "C_hi": "सवाई जय सिंह द्वितीय",
+    "D_en": "Rana Sanga", "D_hi": "राणा सांगा",
+    "answer": "A",
+    "explanation_en": "Chandrasen of the Rajput Chauhan dynasty commissioned the construction of Dilwara Temples in the 11th century.",
+    "explanation_hi": "राजपूत चौहान राजवंश के चंद्रसेन ने 11वीं शताब्दी में दिलवाड़ा मंदिरों के निर्माण का आदेश दिया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Shifts",
+    "question_en": "Which ruler shifted the capital of Mewar from Chittorgarh to Udaipur?",
+    "question_hi": "मेवाड़ की राजध
