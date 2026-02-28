@@ -1,0 +1,164 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions for Rajasthan Geography, covering topics relevant to exams like LDC, CET, RAS, SSC, and Railway. Each question must have English and Hindi versions for both the question and options. The structure should follow the provided JSON example strictly.
+
+First, I'll list possible topics from Rajasthan Geography. Let's see: rivers, physiography, minerals, climate, wildlife sanctuaries, districts, historical forts, agriculture, and famous places. I should distribute the questions across these areas to ensure a good coverage.
+
+1. **Rivers**: Which river is known as the "Life Line of Rajasthan"? Options could include Chambal, Luni, Narmada, and Mahi. The answer is Chambal as it's crucial for the region.
+
+2. **Physiography**: Which part of Rajasthan is known as the "Thar Desert"? Options like Eastern, Western, Northern, Southern. The answer is Western.
+
+3. **Minerals**: Which district is famous for marble? Udaipur is known for marble, so that's the answer.
+
+4. **Climate**: Which region experiences the highest temperature? Kutch in Gujarat is a distractor, but Bikaner in Rajasthan is correct.
+
+5. **Wildlife Sanctuaries**: Which is a tiger reserve? Ranthambore is the correct answer among the options.
+
+6. **Historical Forts**: Which is the tallest fort? Chittorgarh Fort is known for its height.
+
+7. **Agriculture**: Which crop is the state's main crop? Wheat is the primary crop here.
+
+8. **Districts**: Which is the largest district by area? Jaisalmer is the largest in Rajasthan.
+
+9. **Climate Features**: Which region has a semi-arid climate? The Thar Desert is semi-arid.
+
+10. **Famous Places**: Which town is known for blue pottery? Jaipur is famous for this craft.
+
+Now, I need to translate each question and options into Hindi. Ensure the translations are accurate. For example, "Chambal" becomes "चंबल", "Thar Desert" is "थार मरुभूमि". Check for any possible errors in the Hindi versions.
+
+Next, structure each question into the JSON format as per the example. Make sure the answer key (A/B/C/D) matches the correct option. Also, write clear and concise explanations in both languages. For example, for the first question, the explanation would be that Chambal is vital for irrigation and power.
+
+Finally, review all questions for consistency in difficulty level appropriate for Rajasthan State Exams. Ensure that each question tests specific knowledge relevant to the topic and is not ambiguous. Check that all options are plausible but only one is correct. Make sure the JSON structure is valid with proper commas and brackets.
+</think>
+
+[
+{
+"subject": "Rajasthan Geography",
+"topic": "Rivers of Rajasthan",
+"question_en": "Which river is known as the 'Life Line of Rajasthan'?",
+"question_hi": "राजस्थान की कौन सी नदी 'राजस्थान की जीवन रेखा' के रूप में जानी जाती है?",
+"A_en": "Chambal", "A_hi": "चंबल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Narmada", "C_hi": "नर्मदा",
+"D_en": "Mahi", "D_hi": "माही",
+"answer": "A",
+"explanation_en": "Chambal is crucial for irrigation and hydroelectric power in Rajasthan.",
+"explanation_hi": "चंबल राजस्थान में सिंचाई और हाइड्रोइलेक्ट्रिक बिजली के लिए महत्वपूर्ण है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Physiography",
+"question_en": "Which part of Rajasthan is known as the 'Thar Desert'?",
+"question_hi": "राजस्थान के किस भाग को 'थार मरुभूमि' के रूप में जाना जाता है?",
+"A_en": "Eastern", "A_hi": "पूर्वी",
+"B_en": "Western", "B_hi": "पश्चिमी",
+"C_en": "Northern", "C_hi": "उत्तरी",
+"D_en": "Southern", "D_hi": "दक्षिणी",
+"answer": "B",
+"explanation_en": "The western part of Rajasthan is the Thar Desert, characterized by arid conditions.",
+"explanation_hi": "राजस्थान के पश्चिमी भाग में थार मरुभूमि है, जिसकी विशेषता शुष्क जलवायु है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Minerals",
+"question_en": "Which district is famous for marble production in Rajasthan?",
+"question_hi": "राजस्थान में मार्बल उत्पादन के लिए कौन सा जिला प्रसिद्ध है?",
+"A_en": "Ajmer", "A_hi": "अजमेर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Alwar", "D_hi": "अलवर",
+"answer": "B",
+"explanation_en": "Udaipur is well-known for its marble, used in historical monuments like the Taj Mahal.",
+"explanation_hi": "उदयपुर महल जैसे ऐतिहासिक स्थलों में प्रयुक्त मार्बल के लिए प्रसिद्ध है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Climate",
+"question_en": "Which region of Rajasthan experiences the highest temperature?",
+"question_hi": "राजस्थान के किस क्षेत्र में सबसे अधिक तापमान का अनुभव होता है?",
+"A_en": "Kutch", "A_hi": "कच्छ",
+"B_en": "Bikaner", "B_hi": "बीकानेर",
+"C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+"D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+"answer": "C",
+"explanation_en": "Jaisalmer in western Rajasthan is the hottest region due to the Thar Desert.",
+"explanation_hi": "पश्चिमी राजस्थान के जैसलमेर में थार मरुभूमि के कारण तापमान सबसे अधिक होता है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Wildlife Sanctuaries",
+"question_en": "Which of the following is a tiger reserve in Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन राजस्थान में एक बाघ अभ्यारण जाता है?",
+"A_en": "Ranthambore", "A_hi": "रणथंबोर",
+"B_en": "Sariska", "B_hi": "सारिस्का",
+"C_en": "Kuno", "C_hi": "कुनो",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "Ranthambore, Sariska, and Kuno are tiger reserves in Rajasthan.",
+"explanation_hi": "रणथंबोर, सारिस्का और कुनो राजस्थान में बाघ अभ्यारण है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Historical Forts",
+"question_en": "Which fort is considered the tallest in Rajasthan?",
+"question_hi": "राजस्थान में किस किले को सबसे ऊँचा माना जाता है?",
+"A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+"B_en": "Amber Fort", "B_hi": "अम्बर किला",
+"C_en": "Gangaur Fort", "C_hi": "गंगौर किला",
+"D_en": "Kumbhalgarh Fort", "D_hi": "कुम्भलगढ़ किला",
+"answer": "A",
+"explanation_en": "Chittorgarh Fort is the tallest and one of the largest forts in Rajasthan.",
+"explanation_hi": "चित्तौड़गढ़ किला राजस्थान में सबसे ऊँचा और सबसे बड़ा किला है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Agriculture",
+"question_en": "Which crop is the main agricultural product of Rajasthan?",
+"question_hi": "राजस्थान की मुख्य कृषि उत्पाद कौन सी फसल है?",
+"A_en": "Wheat", "A_hi": "गेहूं",
+"B_en": "Maize", "B_hi": "ज्वार",
+"C_en": "Rice", "C_hi": "चावल",
+"D_en": "Barley", "D_hi": "जौ",
+"answer": "A",
+"explanation_en": "Wheat is the primary crop grown in Rajasthan due to its climate suitability.",
+"explanation_hi": "गेहूं की फसल राजस्थान की जलवायु के अनुकूल होने के कारण प्रमुख है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Districts",
+"question_en": "Which district has the largest area in Rajasthan?",
+"question_hi": "राजस्थान के किस जिले का क्षेत्रफल सबसे अधिक है?",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaisalmer is the largest district in Rajasthan by area.",
+"explanation_hi": "जैसलमेर क्षेत्रफल के अनुसार राजस्थान का सबसे बड़ा जिला है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Climate Features",
+"question_en": "Which region of Rajasthan has a semi-arid climate?",
+"question_hi": "राजस्थान के किस क्षेत्र में अर्ध-शुष्क जलवायु है?",
+"A_en": "Aravalli Range", "A_hi": "अरावली पर्वत श्रेणी",
+"B_en": "Thar Desert", "B_hi": "थार मरुभूमि",
+"C_en": "Mewar", "C_hi": "मेवाड़",
+"D_en": "Marwar", "D_hi": "मारवाड़",
+"answer": "B",
+"explanation_en": "The Thar Desert in western Rajasthan has a semi-arid climate with low rainfall.",
+"explanation_hi": "राजस्थान के पश्चिमी भाग में थार मरुभूमि की अर्ध-शुष्क जलवायु है।"
+},
+{
+"subject": "Rajasthan Geography",
+"topic": "Famous Places",
+"question_en": "Which town in Rajasthan is known for blue pottery?",
+"question_hi": "राजस्थान में नीली बरतनों के लिए कौन सा शहर प्रसिद्ध है?",
+"A_en": "Pushkar", "A_hi": "पुष्कर",
+"B_en": "Jhalawar", "B_hi": "झालावाड़",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+"answer": "C",
+"explanation_en": "Jaipur is renowned for its traditional blue pottery craft.",
+"explanation_hi": "जयपुर अपनी पारंपरिक नीली मिट्टी के बरतनों के लिए प्रसिद्ध है।"
+}
+]
