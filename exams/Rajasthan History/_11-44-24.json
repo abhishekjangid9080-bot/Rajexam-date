@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस पसंदीदा कंडाऊंट है।",
+"A_en": "Amber Fort", "A_hi": "अम्बर कंडाऊंट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Nahargarh Fort", "C_hi": "नाहरगढ़ कंडाऊंट",
+"D_en": "City Palace", "D_hi": "शहर कंडाऊंट",
+"answer": "C",
+"explanation_en": "Nahargarh Fort is a famous fort located in Jaipur.\nजयपुर में Nahargarh कंडाऊंट है।",
+"explanation_hi": "जयपुर में Nahargarh कंडाऊंट है।"
+}
+]
