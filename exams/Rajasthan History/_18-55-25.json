@@ -1,0 +1,57 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous monument in Rajasthan was built during the Mughal era?",
+"question_hi": "राजस्थान में मुगल के समय के लिए बनाया गया एक फ्रेंडिस्ट की मूल्यांकित श्रम की विवरण:
+
+[
+{
+"subject": "Rajasthan History",
+"topic": "Mughal Era",
+"question_en": "Which famous monument in Rajasthan was built during the Mughal era?",
+"question_hi": "राजस्थान में मुगल के समय के लिए बनाया गया एक फ्रेंडिस्ट",
+"options": [
+{
+"option_en": "Amer Fort",
+"option_hi": "एमर फॉट",
+"answer": "एमर फॉट",
+"explanation_en": "Amer Fort, also known as Amer Fort, is a popular monument in Jaipur, Rajasthan. It was built during the Mughal era by Sultan Sanga in 1592 AD.",
+"explanation_hi": "एमर फॉट, यह जापान, राजस्थान में फर्मियों के प्रमाणे के मूल में बनी है। वह 1592 AD में सरकारी सुलों ने बना।",
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "ह्वा माहल",
+"answer": "ह्वा माहल",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur, Rajasthan. It was built by Maharaja Sawai Mansingh I in 1792 AD.",
+"explanation_hi": "ह्वा माहल, राजस्थान में स्वलों ने बना।",
+},
+{
+"option_en": "Amber Fort",
+"option_hi": "अम्बे फॉट",
+"answer": "अम्बे फॉट",
+"explanation_en": "Amber Fort is a historic palace located in Jaipur, Rajasthan. It was built by Raja Mansingh I in 1592 AD.",
+"explanation_hi": "अम्बे फॉट, राजस्थान में बना।",
+},
+{
+"option_en": "Circus Bazar",
+"option_hi": "सिकर बाजार",
+"answer": "Circus Bazar",
+"explanation_en": "Circus Bazar is a marketplace located in Jaipur, Rajasthan. It was established by Maharaja Jai Singh I in 1648 AD.",
+"explanation_hi": "सिकर बाजार, राजस्थान में बना।",
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "हाउम माहल",
+"answer": "Hawa Mahal",
+"explanation_en": "Hawa Mahal is a palace located in Jaipur, Rajasthan. It was built by Maharaja Pratap Singh in 1799 AD.",
+"explanation_hi": "हाउम माहल, राजस्थान में बना।",
+},
+{
+"option_en": "Samode Haveli",
+"option_hi": "सामोद हावेल",
+"answer": "Samode Haveli",
+"explanation_en": "Samode Haveli is a palace located in Samode, Rajasthan. It was constructed during the Mughal era.",
+"explanation_hi": "सामोद हावेलो, राजस्थान में बना।",
+}
+]
