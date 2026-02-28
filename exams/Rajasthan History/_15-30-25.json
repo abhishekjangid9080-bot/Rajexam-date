@@ -1,0 +1,38 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान का किस निगमन में है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.",
+"explanation_hi": "जयपुर, राजस्थान का निगमन में है।",
+"explanation_image": "rajasthan_capital.jpg"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Famous Forts",
+"question_en": "Which forts are famous in Rajasthan?",
+"question_hi": "राजस्थान में किस्मत पसंदीदी हैं।",
+"A_en": "Amber Fort",
+"A_hi": "अंबे फोट",
+"B_en": "Meena Bazaar",
+"B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort",
+"C_hi": "कुम्बलगढ़फोट",
+"D_en": "Chittorgarh Fort",
+"D_hi": "चिट्टोगढ़फोट",
+"explanation_en": "Rajasthan is famous for its rich history and majestic forts. Some of the famous forts in Rajasthan are Amber Fort, Meena Bazaar, Kumbhalgarh Fort, and Chittorgarh Fort.",
+"explanation_hi": "राजस्थान के सामरसा पारंकार और मेना बाजार, कुम्बलगढ़फोट और चिट्टोगढ़फोट",
+"explanation_image": "rajasthan_history_forts.jpg",
+"answer": "D"
+}
+]
