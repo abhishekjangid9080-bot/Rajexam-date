@@ -1,0 +1,72 @@
+[
+{
+"subject": "Economy",
+"topic": "Indian Economy",
+"question_en": "What is the official language of India?",
+"question_hi": "भारतीय राज्य क्या है?",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मार्तिष",
+"C_en": "Tamil", "C_hi": "टैम्पल",
+"D_en": "Urdu", "D_hi": "उर्दू",
+"answer": "A",
+"explanation_en": "Hindi is the official language of India. According to the الدستور of India, Hindi is recognized as the official language of the Indian government at the center. However, for states with Hindi as their official language, Hindi is used, while for non-Hindi speaking states, English is used.",
+"explanation_hi": "भारत की राज्य क्या है। भारतीय सरकार की ओफ़्राज्य के लिए Hindi एकता है। प्रधानिक ओफ़्राज्य के लिए, प्रधानिक ओफ़्राज्य के लिए, Hindi एकता है। प्रधानिक ओफ़्राज्य के लिए, प्रधानिक ओफ़्राज्य के लिए, Hindi एकता है। प्रधानिक ओफ़्राज्य के लिए, प्रधानिक ओफ़्राज्य के लिए, प्रधानिक ओफ़्राज्य के लिए, Hindi एकता है। प्रधानिक ओफ़्राज्य के लिए, Hindi एकता है।",
+"exam": "Rajasthan LDC, CET, RAS, SSC, aur Railway (NTPC)",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी किस्मान क्या है।",
+"options_en": [
+{
+"option_value": "Jodhpur",
+"option_text": "Jodhpur",
+"Explanation_en": "Jodhpur is the capital city of Rajasthan.",
+"option_difficulty": "Easy"
+},
+{
+"option_value": "Jaisalmer",
+"option_text": "Jaisalmer",
+"Explanation_en": "Jaisalmer is a district headquarters in Rajasthan and not the capital.",
+"option_difficulty": "Medium"
+},
+{
+"option_value": "Alwar",
+"option_text": "Alwar",
+"Explanation_en": "Alwar is a city in Rajasthan but not the capital of the state.",
+"option_difficulty": "Medium"
+},
+{
+"option_value": "Jaipur",
+"option_text": "Jaipur",
+"Explanation_en": "Jaipur is the capital city of Rajasthan.",
+"option_difficulty": "Hard"
+}
+],
+"options_hi": [
+{
+"option_value": "Jodhpur",
+"option_text": "जोदपुर",
+"Explanation_hi": "जोदपुर राजस्थान के राजधानी की किताबियाँ है।",
+"Explanation_en": "Jodhpur is the capital city of Pali district, Rajasthan and not the capital of the state.",
+"option_difficulty": "Easy"
+},
+{
+"option_value": "Jaisalmer",
+"option_text": "जयसालमर",
+"Explanation_hi": "जयसालमर राजस्थान के राजधानी की किताबियाँ है।",
+"Explanation_en": "Jaisalmer is a city in Rajasthan but not the capital of the state. The capital of Rajasthan is Jaipur.",
+"option_difficulty": "Medium"
+},
+{
+"option_value": "Alwar",
+"option_text": "अलवार",
+"Explanation_hi": "अलवार राजस्थान के राजधानी की किताबियाँ है।",
+"Explanation_en": "Alwar is a city in Rajasthan but not the capital of the state. The capital of Rajasthan is Jaipur.",
+"option_difficulty": "Medium"
+},
+{
+"option_value": "Jaipur",
+"option_text": "जैयाँर",
+"Explanation_hi": "जैयाँ राजस्थाँ किताबियाँ है।",
+"Explanation_en": "Jaipur is the capital of Rajasthan.",
+"option_difficulty": "Hard"
+}
+]
