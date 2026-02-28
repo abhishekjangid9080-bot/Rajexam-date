@@ -1,0 +1,162 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway NTPC. Let me start by recalling key aspects of Rajasthan culture. The state is known for its rich traditions, festivals, folk music, dance, art, and architecture.
+
+First, I should identify different topics within Rajasthan culture. These could include famous festivals like Gangaur, Teej, Mewar, folk arts like Ghoomar, Kathputli (string puppets), traditional attire like Rajasthani chaniya choli, and famous monuments like Hawa Mahal, Mehrangarh Fort, etc. Also, important figures in Rajasthani culture, such as poets or artists, could be a topic.
+
+Now, I need to make sure each question is in both Hindi and English, with options in both languages. The structure should follow the provided JSON example. The answer should be one of A, B, C, or D, and each question must have an explanation in both languages.
+
+Let me start with the first question. The Gangaur festival is a significant one in Rajasthan. I can ask which festival is celebrated in Jaipur. Options would include Gangaur, Teej, Kala, and Mewar. The correct answer is Gangaur. The explanation would state that Gangaur is a major festival in Jaipur.
+
+Next, the traditional dance of Rajasthan. Options: Ghoomar, Bhangra, Kathak, Garba. The correct answer is Ghoomar. Explanation: Ghoomar is a traditional Rajasthani dance performed by women.
+
+For folk music, the traditional instruments include Sama, Sarangi, Harmonium, and Veena. Sama is the correct answer here. Explanation: Sama is a traditional Rajasthani folk instrument.
+
+Famous Rajasthani folktales: Pabuji Ki Katha, Ramayana, Mahabharata, Kathasaritsagara. The correct answer is Pabuji Ki Katha. Explanation: A story about a folk hero.
+
+Rajasthan's traditional attire for women: Chaniya choli, Sari, Ghagra, Lehenga. Chaniya choli is correct. Explanation: Worn during festivals like Holi.
+
+Famous Rajasthani dish: Dal Baati Churma, Biryani, Samosa, Idli. Correct answer is Dal Baati Churma. Explanation: A staple dish.
+
+Famous Rajasthani painter: Raja Raja Singh, Raja Ratan Singh, Raja Man Singh, Raja Bhagwan Dass. Raja Raja Singh is correct. Explanation: He was a renowned painter.
+
+Famous Rajasthani folk puppetry: Kathputli, Bommalattam, Kathakali, Tholpavai. Kathputli is correct. Explanation: String puppetry form of Rajasthan.
+
+Rajasthan's famous fort: Mehrangarh Fort, Red Fort, Agra Fort, Gwalior Fort. Mehrangarh is correct. Explanation: Located in Jodhpur.
+
+Rajasthan's famous folk singer: Ghulam Ali, Lata Mangeshkar, Kumar Sanu, Sonu Nigam. Ghulam Ali is correct. Explanation: Known for his soulful voice in Rajasthani songs.
+
+Now, I need to ensure each question fits the difficulty level appropriate for Rajasthan exams. The topics should be well-known aspects of Rajasthan's culture. Also, check that explanations are concise and accurate. Each question should have four options with the correct one. Make sure the translations are accurate in both Hindi and English. Avoid any technical jargon that might be too advanced for the target audience. Finally, verify that the JSON structure is correct, with all fields present and properly formatted.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is celebrated in Jaipur to honor married women?",
+    "question_hi": "जयपुर में विवाहित महिलाओं के सम्मान में कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Gangaur", "A_hi": "गंगौर",
+    "B_en": "Teej", "B_hi": "तीज",
+    "C_en": "Kala", "C_hi": "काला",
+    "D_en": "Mewar", "D_hi": "मेवाड़",
+    "answer": "A",
+    "explanation_en": "Gangaur is a major festival in Jaipur celebrating married women.",
+    "explanation_hi": "गंगौर जयपुर में विवाहित महिलाओं के सम्मान में मनाया जाने वाला एक प्रमुख त्योहार है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Dance",
+    "question_en": "What is the traditional folk dance of Rajasthan performed by women?",
+    "question_hi": "राजस्थान में महिलाओं द्वारा प्रदर्शित पारंपरिक लोक नृत्य क्या है?",
+    "A_en": "Ghoomar", "A_hi": "घूमर",
+    "B_en": "Bhangra", "B_hi": "भंगड़ा",
+    "C_en": "Kathak", "C_hi": "कथक",
+    "D_en": "Garba", "D_hi": "गरबा",
+    "answer": "A",
+    "explanation_en": "Ghoomar is a traditional Rajasthani folk dance performed by women.",
+    "explanation_hi": "घूमर राजस्थान का एक पारंपरिक लोक नृत्य है जो महिलाएं प्रस्तुत करती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which traditional Rajasthani folk instrument is known as 'Veena of Rajasthan'?",
+    "question_hi": "'राजस्थान की वीणा' के रूप में सम्मानित राजस्थान का पारंपरिक लोक वाद्य यंत्र कौन सा है?",
+    "A_en": "Sama", "A_hi": "सामा",
+    "B_en": "Sarangi", "B_hi": "सरंगी",
+    "C_en": "Harmonium", "C_hi": "हार्मोनियम",
+    "D_en": "Veena", "D_hi": "वीणा",
+    "answer": "A",
+    "explanation_en": "Sama is a traditional Rajasthani folk instrument known as 'Veena of Rajasthan'.",
+    "explanation_hi": "सामा एक पारंपरिक राजस्थानी लोक वाद्य यंत्र है जिसे 'राजस्थान की वीणा' के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folktales",
+    "question_en": "Which famous Rajasthani folktale is about the hero Pabuji?",
+    "question_hi": "पाबूजी के बारे में कौन सी प्रसिद्ध राजस्थानी लोककथा है?",
+    "A_en": "Pabuji Ki Katha", "A_hi": "पाबूजी की कथा",
+    "B_en": "Ramayana", "B_hi": "रामायण",
+    "C_en": "Mahabharata", "C_hi": "महाभारत",
+    "D_en": "Kathasaritsagara", "D_hi": "कथासरित्सागर",
+    "answer": "A",
+    "explanation_en": "Pabuji Ki Katha is a famous Rajasthani folktale about the folk hero Pabuji.",
+    "explanation_hi": "पाबूजी की कथा राजस्थानी लोककथाओं में एक प्रसिद्ध कथा है जो लोक नायक पाबूजी के बारे में है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional attire of Rajasthani women during festivals?",
+    "question_hi": "त्योहारों के दौरान राजस्थानी महिलाओं का पारंपरिक पोशाक क्या है?",
+    "A_en": "Chaniya Choli", "A_hi": "चानिया चोली",
+    "B_en": "Sari", "B_hi": "साड़ी",
+    "C_en": "Ghagra", "C_hi": "घगरा",
+    "D_en": "Lehenga", "D_hi": "लेहंगा",
+    "answer": "A",
+    "explanation_en": "Chaniya Choli is the traditional attire worn by Rajasthani women during festivals like Holi.",
+    "explanation_hi": "चानिया चोली राजस्थानी महिलाओं द्वारा होली जैसे त्योहारों के दौरान पहना जाने वाला पारंपरिक पोशाक है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "Which is the famous Rajasthani dish made with lentils and bread?",
+    "question_hi": "लेंटिल और रोटी से बनी राजस्थानी प्रसिद्ध डिश कौन सी है?",
+    "A_en": "Dal Baati Churma", "A_hi": "दाल बाटी छूरमा",
+    "B_en": "Biryani", "B_hi": "बर्यानी",
+    "C_en": "Samosa", "C_hi": "समोसा",
+    "D_en": "Idli", "D_hi": "इडली",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a famous Rajasthani dish made with lentils and bread.",
+    "explanation_hi": "दाल बाटी छूरमा लेंटिल और रोटी से बनी राजस्थानी डिश है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Art",
+    "question_en": "Who is a renowned Rajasthani folk painter?",
+    "question_hi": "राजस्थान में प्रसिद्ध लोक चित्रकार कौन हैं?",
+    "A_en": "Raja Raja Singh", "A_hi": "राजा राजा सिंह",
+    "B_en": "Raja Ratan Singh", "B_hi": "राजा रतन सिंह",
+    "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+    "D_en": "Raja Bhagwan Dass", "D_hi": "राजा भगवान दास",
+    "answer": "A",
+    "explanation_en": "Raja Raja Singh is a renowned Rajasthani folk painter.",
+    "explanation_hi": "राजा राजा सिंह एक प्रसिद्ध राजस्थानी लोक चित्रकार हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Puppetry",
+    "question_en": "What is the traditional Rajasthani string puppetry form?",
+    "question_hi": "राजस्थान की पारंपरिक स्ट्रिंग पुप्पेट्री रूप क्या है?",
+    "A_en": "Kathputli", "A_hi": "कथपुतली",
+    "B_en": "Bommalattam", "B_hi": "बोम्मलतम",
+    "C_en": "Kathakali", "C_hi": "कथकली",
+    "D_en": "Tholpavai", "D_hi": "थोलपावई",
+    "answer": "A",
+    "explanation_en": "Kathputli is the traditional Rajasthani string puppetry form.",
+    "explanation_hi": "कथपुतली राजस्थान की पारंपरिक स्ट्रिंग पुप्पेट्री रूप है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which fort is a symbol of Jodhpur and is also called the 'Blue Fort'?",
+    "question_hi": "कौन सा किला जोधपुर का प्रतीक है और जिसे 'नीला किला' भी कहा जाता है?",
+    "A_en": "Mehrangarh Fort", "A_hi": "मेहरांगढ़ किला",
+    "B_en": "Red Fort", "B_hi": "लाल किला",
+    "C_en": "Agra Fort", "C_hi": "अग्रा किला",
+    "D_en": "Gwalior Fort", "D_hi": "ग्वालियर किला",
+    "answer": "A",
+    "explanation_en": "Mehrangarh Fort is a symbol of Jodhpur and is known as the 'Blue Fort'.",
+    "explanation_hi": "मेहरांगढ़ किला जोधपुर का प्रतीक है और इसे 'नीला किला' भी कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Singers",
+    "question_en": "Who is the famous Rajasthani folk singer known for his soulful voice?",
+    "question_hi": "अपनी आत्मा की गहराई वाली आवाज के लिए प्रसिद्ध राजस्थानी लोक गायक कौन हैं?",
+    "A_en": "Ghulam Ali", "A_hi": "गुलाम अली",
+    "B_en": "Lata Mangeshkar", "B_hi": "लता मंगेशकर",
+    "C_en": "Kumar Sanu", "C_hi": "कुमार सानू",
+    "D_en": "Sonu Nigam", "D_hi": "सोनू निगम",
+    "answer": "A",
+    "explanation_en": "Ghulam Ali is a famous Rajasthani folk singer known for his soulful voice.",
+    "explanation_hi": "गुलाम अली राजस्थानी लोक गायक हैं जिनके आत्मा में गहराई वाली आवाज के लिए प्रसिद्ध हैं।"
+  }
+]
