@@ -1,0 +1,140 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, specifically for exams like LDC, CET, RAS, SSC, and Railway NTPC. The questions and options should be in both Hindi and English, following the Testbook style. Let's start by recalling important topics in Rajasthan history.
+
+First, I should cover different dynasties. The Maurya, Gupta, and Mughal periods are significant. Then there are the Rajput kingdoms, like the Sisodiya and Kachwaha clans. The Rajputana region's history includes various forts and battles. Also, important rulers like Maharana Pratap and Raja Man Singh come to mind. The Mughal influence in Rajasthan, especially under Akbar and Rajendra, is another area. The integration of Rajasthan into the Indian Union post-independence is a key point too.
+
+Let me brainstorm some specific questions. For example, who was the founder of Udaipur? That's Maharana Udai Singh II. Another could be about the battle where Maharana Pratap was defeated by Akbar. It was the Second Battle of Haldighati. The city of Jodhpur is known as the Sun City. The Kachwaha clan ruled Amber. Maharana Pratap's horse, Chetak, is famous. The Sisodiya clan is associated with Mewar. The founder of Jaipur is Maharaja Sawai Jai Singh. The fort of Chittorgarh was built by Raja Bappa Rawal. The ruler who gave the slogan "Bhangda Har Har Bol" is Maharaja Sawai Man Singh II. Lastly, the first ruler to accept Mughal suzerainty might be Raja Man Singh Tomar of Amber.
+
+Now, translating these into both languages and ensuring the options are plausible. For each question, I need to make sure the answer is accurate. Also, the explanations should briefly justify the correct answer. Let me structure each question in JSON format as per the example. I need to check the difficulty level to match Rajasthan's history exams. Double-checking facts is crucial here to avoid any mistakes. For instance, confirming that the Second Battle of Haldighati was indeed in 1576 and that Maharana Pratap was defeated there but continued resistance. Ensuring that options include common distractors, like other rulers or nearby cities. Also, verifying the correct names of cities and rulers in both languages. Once all 10 questions are drafted, I'll review the JSON structure to ensure it's correct without any syntax errors.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Dynasties",
+    "question_en": "Which ruler founded the city of Udaipur?",
+    "question_hi": "शहर उदयपुर की स्थापना किस शासक द्वारा की गई थी?",
+    "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+    "B_en": "Maharana Udai Singh II", "B_hi": "महाराणा उदय सिंह द्वितीय",
+    "C_en": "Raja Man Singh Tomar", "C_hi": "राजा मन सिंह तोमर",
+    "D_en": "Raja Sawai Jai Singh", "D_hi": "राजा सवाई जय सिंह",
+    "answer": "B",
+    "explanation_en": "Maharana Udai Singh II established Udaipur in 1559 as the capital of Mewar.",
+    "explanation_hi": "महाराणा उदय सिंह द्वितीय ने 1559 में उदयपुर की स्थापना मेवाड़ की राजधानी के रूप में की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mughal Era",
+    "question_en": "Which battle marked the defeat of Maharana Pratap by Mughal Emperor Akbar?",
+    "question_hi": "महाराणा प्रताप की हार के लिए मुगल सम्राट अकबर के साथ कौन-सा युद्ध निर्णायक रहा?",
+    "A_en": "First Battle of Haldighati", "A_hi": "हल्दीघाटी का पहला युद्ध",
+    "B_en": "Second Battle of Haldighati", "B_hi": "हल्दीघाटी का द्वितीय युद्ध",
+    "C_en": "Battle of Sarangpur", "C_hi": "सरंगपुर का युद्ध",
+    "D_en": "Battle of Dholpur", "D_hi": "धोलपुर का युद्ध",
+    "answer": "B",
+    "explanation_en": "The Second Battle of Haldighati in 1576 led to the retreat of Maharana Pratap, though he continued resistance.",
+    "explanation_hi": "1576 में हल्दीघाटी का द्वितीय युद्ध महाराणा प्रताप की हार के लिए निर्णायक रहा, हालांकि वे अपने विरोध को जारी रखे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Rulers",
+    "question_en": "Which of the following cities is known as the 'Sun City'?",
+    "question_hi": "निम्नलिखित में से कौन-सा शहर 'सूर्य का नगर' के रूप में प्रसिद्ध है?",
+    "A_en": "Jodhpur", "A_hi": "जोधपुर",
+    "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+    "C_en": "Chittorgarh", "C_hi": "चित्तौड़गढ़",
+    "D_en": "Kishangarh", "D_hi": "किशनगढ़",
+    "answer": "A",
+    "explanation_en": "Jodhpur is called the 'Sun City' due to its bright and sunny climate.",
+    "explanation_hi": "जोधपुर को उज्ज्वल और सूर्यमुखी जलवायु के कारण 'सूर्य का नगर' कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Kachwaha Dynasty",
+    "question_en": "Which clan ruled the Amber kingdom in Rajasthan?",
+    "question_hi": "राजस्थान में अम्बर राज्य का शासन किस वंश द्वारा किया गया था?",
+    "A_en": "Sisodiya", "A_hi": "सिसोदिया",
+    "B_en": "Kachwaha", "B_hi": "कच्छवाहा",
+    "C_en": "Chauhan", "C_hi": "चौहान",
+    "D_en": "Parmar", "D_hi": "परमार",
+    "answer": "B",
+    "explanation_en": "The Kachwaha clan was the ruling dynasty of the Amber kingdom, with its capital in Amber (now Jaipur).",
+    "explanation_hi": "कच्छवाहा वंश अम्बर राज्य का शासन करता था जिसकी राजधानी अम्बर (अब जयपुर) में थी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajputana Forts",
+    "question_en": "Which ruler is associated with the construction of the Chittorgarh Fort?",
+    "question_hi": "चित्तौड़गढ़ किले के निर्माण से किस शासक का संबंध है?",
+    "A_en": "Raja Bappa Rawal", "A_hi": "राजा बप्पा रावल",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Raja Man Singh Tomar", "C_hi": "राजा मन सिंह तोमर",
+    "D_en": "Raja Ratan Singh", "D_hi": "राजा रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort was founded by Raja Bappa Rawal in the 7th century.",
+    "explanation_hi": "चित्तौड़गढ़ किला 7वीं शताब्दी में राजा बप्पा रावल द्वारा स्थापित किया गया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Resistance",
+    "question_en": "Which of the following is the name of the horse of Maharana Pratap?",
+    "question_hi": "महाराणा प्रताप के घोड़े का नाम निम्नलिखित में से कौन-सा है?",
+    "A_en": "Chetak", "A_hi": "चेतक",
+    "B_en": "Bhagat", "B_hi": "भगत",
+    "C_en": "Ratan", "C_hi": "रतन",
+    "D_en": "Suraj", "D_hi": "सूरज",
+    "answer": "A",
+    "explanation_en": "Chetak was the loyal horse of Maharana Pratap, known for his bravery in the Rajput resistance.",
+    "explanation_hi": "चेतक महाराणा प्रताप के शुभचिंतक घोड़े थे, जिनके शौर्य के कारण राजपूत विरोध में उनका नाम अमर हो गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Clans",
+    "question_en": "Which Rajput clan is associated with the region of Mewar?",
+    "question_hi": "मेवाड़ क्षेत्र के साथ कौन-सा राजपूत वंश संबंधित है?",
+    "A_en": "Kachwaha", "A_hi": "कच्छवाहा",
+    "B_en": "Sisodiya", "B_hi": "सिसोदिया",
+    "C_en": "Chauhan", "C_hi": "चौहान",
+    "D_en": "Parmar", "D_hi": "परमार",
+    "answer": "B",
+    "explanation_en": "The Sisodiya clan ruled Mewar and was known for its valor and resistance against Mughal expansion.",
+    "explanation_hi": "सिसोदिया वंश मेवाड़ के शासक थे और मुगल विस्तार के खिलाफ अपनी बहादुरी व विरोध के लिए जाने जाते थे।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders of Rajputana Cities",
+    "question_en": "Who was the founder of the city of Jaipur?",
+    "question_hi": "शहर जयपुर की स्थापना किसने की थी?",
+    "A_en": "Maharaja Sawai Jai Singh", "A_hi": "महाराजा सवाई जय सिंह",
+    "B_en": "Maharaja Pratap Singh", "B_hi": "महाराजा प्रताप सिंह",
+    "C_en": "Maharaja Man Singh", "C_hi": "महाराजा मन सिंह",
+    "D_en": "Maharaja Bhagwan Singh", "D_hi": "महाराजा भगवान सिंह",
+    "answer": "A",
+    "explanation_en": "Maharaja Sawai Jai Singh founded Jaipur in 1727 as the first planned city of Rajasthan.",
+    "explanation_hi": "महाराजा सवाई जय सिंह ने 1727 में जयपुर की स्थापना की, जो राजस्थान का पहला नियोजित शहर था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Mughal Rajput Relations",
+    "question_en": "Which Rajput ruler signed the Treaty of 1595 with Mughal Emperor Akbar?",
+    "question_hi": "मुगल सम्राट अकबर के साथ 1595 के संधि पर हस्ताक्षर कौन-से राजपूत शासक ने किए थे?",
+    "A_en": "Raja Man Singh Tomar", "A_hi": "राजा मन सिंह तोमर",
+    "B_en": "Raja Bhagwan Das", "B_hi": "राजा भगवान दास",
+    "C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+    "D_en": "Raja Udai Singh", "D_hi": "राजा उदय सिंह",
+    "answer": "A",
+    "explanation_en": "Raja Man Singh Tomar of Amber signed the Treaty of 1595 with Akbar, ensuring Mughal Rajput alliances.",
+    "explanation_hi": "अम्बर के राजा मन सिंह तोमर ने 1595 में अकबर के साथ संधि पर हस्ताक्षर किए, जिससे मुगल-राजपूत संघ मजबूत हुआ।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Modern Rajput Leadership",
+    "question_en": "Which Rajput ruler gave the slogan 'Bhangda Har Har Bol'?",
+    "question_hi": "कौन-से राजपूत शासक ने 'भंगड़ा हर हर बोल' के नारे को दिया था?",
+    "A_en": "Maharaja Sawai Man Singh II", "A_hi": "महाराजा सवाई मन सिंह द्वितीय",
+    "B_en": "Maharaja Pratap Singh", "B_hi": "महाराजा प्रताप सिंह",
+    "C_en": "Maharaja Jai Singh", "C_hi": "महाराजा जय सिंह",
+    "D_en": "Maharaja Bhagwan Singh", "D_hi": "महाराजा भगवान सिंह",
+    "answer": "A",
+    "explanation_en": "Maharaja Sawai Man Singh II of Jaipur gave the slogan 'Bhangda Har Har Bol' to encourage youth in Rajputana.",
+    "explanation_hi": "जयपुर के महाराजा सवाई मन सिंह द्वितीय ने राजपूताना के युवा क
