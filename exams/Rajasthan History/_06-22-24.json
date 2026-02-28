@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस मौलिक क़मरे के बार्तावाद में है।",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगारगढ़",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुंभालगढ़",
+"C_en": "Jaigarh Fort", "C_hi": "जाइगरहद",
+"D_en": "Samode Haveli", "D_hi": "सामोद हावे",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort is located in Jodhpur, while Kumbhalgarh Fort is located in Kumbhalgarh.",
+"explanation_hi": "मेरंगारगढ़ में हैं, जो कुंभालगढ़ में हैं।",
+}
+]
