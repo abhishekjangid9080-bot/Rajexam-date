@@ -1,0 +1,20 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary agricultural product of Rajasthan?",
+"question_hi": "राजस्थान में प्रधान क़र्बन्टेनियम क्या है।",
+"A_en": "Wheat", "A_hi": "शेयर",
+"B_en": "Mango", "B_hi": "मंगो",
+"C_en": "Potato", "C_hi": "पोटेस",
+"D_en": "Gujarat", "D_hi": "गुजरात",
+"answer": "B",
+"explanation_en": "Mango is the primary agricultural product in Rajasthan.\nIn Rajasthan, the main crop is mango. Mango is a major revenue generator for the state and contributes significantly to the economy.",
+"explanation_hi": "राजस्थान में प्रधान क़र्बन्टेनियम मैंनेत्रियां क्या हैं?",
+"A_en": "Wheat", "A_hi": "शेयर",
+"B_en": "Mango", "B_hi": "मंगो",
+"C_en": "Potato", "C_hi": "पोटेस",
+"D_en": "Gujarat", "D_hi": "गुजरात",
+"answer": "B",
+"explanation_en": "Mango is the primary agricultural product in Rajasthan.\nMangoes are the main crop in Rajasthan and contribute significantly to the state's economy.\nराजस्थान में मंगो क्या हैं?",
+}
