@@ -1,0 +1,63 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Important Festivals",
+"question_en": "What is the capital of Rajasthan and which are some of its famous festivals?",
+"question_hi": "राजस्थान की राजधानी और उनके कुछ महत्वपूर्ण फ़ेस्टवर्ट वी और इनको बताओ।",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Udaipur", "B_hi": "उदायपुर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Ajmer", "D_hi": "अजमेर",
+"answer": "A",
+"explanation_en": "The capital of Rajasthan is Jaipur. Some important festivals celebrated in Rajasthan are Gangaur Gauri (Gangaur), Teej, and Chaitra Navratri.\n\nGangaur Gauri (Gangaur): It is a 15-day Hindu festival celebrated in the month of Chaitra (March-April) in honour of Goddess Gauri and her consort Lord Gangaur. People perform puja, wear new clothes, and feast together during this festival.\n\nTeej: It is a three-day festival celebrated to seek the blessings of Lord Shiva, Goddess Parvati, and Lord Kartikeya. Women observe fasting and wear traditional clothes on this day.\n\nChaitra Navratri: A nine-day festival celebrated in the honour of Goddess Durga. People perform puja and fast during this festival.",
+"explanation_hi": "राजस्थान की राजधाना है Jaipur. राजस्थान के विभवन के अन्तर्षित व्रतों में राजस्थान की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन की विभवन",
+"question_en": "What is the capital city of Rajasthan and which festivals are celebrated in Rajasthan?",
+"question_hi": "राजस्थान के मुखावान की विभवन की विभवन की विभवन",
+"options_en": [
+{
+"option_text": "Jodhpur",
+"option_value": "Jodhpura"
+},
+{
+"option_text": "Udaipur",
+"option_value": "Udaipura"
+},
+{
+"option_text": "Ahmedabad",
+"option_value": "Ahmednagar"
+},
+{
+"option_text": "Kota",
+"option_value": "Kotta"
+},
+{
+"option_text": "Jaiselmer",
+"option_value": "Jaiselmer"
+}
+],
+"options_hi": [
+{
+"option_text": "जोधपुर",
+"option_value": "Jodhpura"
+},
+{
+"option_text": "उदावपुर",
+"option_value": "Udaipura"
+},
+{
+"option_text": "अहींदारगंडार",
+"option_value": "Ahmednagar"
+},
+{
+"option_text": "कोट",
+"option_value": "Kotta"
+},
+{
+"option_text": "जैसींलमेर",
+"option_value": "Jaiselmer"
+},
+],
+"answer": "Jodhpura",
+"explanation_en": "Jodhpur",
+"explanation_hi": "जोधपुर"
+}
