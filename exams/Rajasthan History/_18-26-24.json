@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा महत्ताबल है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरणगढ़ा महत्ताबल",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भालगढ़ा महत्ताबल",
+"C_en": "Jaisalmer Fort", "C_hi": "जयसालमर महत्ताबल",
+"D_en": "Amber Fort", "D_hi": "अमेरिका महत्ताबल",
+"answer": "D",
+"explanation_en": "Amber Fort is the famous fort located in Jaipur, Rajasthan.\nJaipur is the capital city, but Amber Fort is a popular tourist attraction and a symbol of Rajasthani culture.",
+"explanation_hi": "अमेरिका महत्ताबल, राजस्थान में जयपुर में है, यह परमान बड़िया महत्ताबल है, जिसका उच्चारण सिद्दारण लेकिन राजस्थान में जयपुर में है, जबकि अमेरिका मैं राजस्थान में जयपुर है।",
+"answer": "D",
+"explanation_en": "Amber Fort is located in Jaipur, Rajasthan, while Amer Fort is located in Jaipur.\nAmber Fort is a popular tourist attraction and a symbol of Rajasthani culture, unlike Amer Fort which is in Jaipur.",
+"explanation_hi": "अमेरिका मैं राजस्थान में है। अमेरिका मैं लेकिन राजस्थान में है।",
+]
