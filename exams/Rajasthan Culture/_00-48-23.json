@@ -1,0 +1,132 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Culture, suitable for exams like LDC, CET, RAS, SSC, and Railway NTPC. The questions need to be in both Hindi and English, following the Testbook style. The output should be in a strict JSON format as provided.
+
+First, I need to choose relevant topics under Rajasthan Culture. Let me list possible topics: Folk Music, Folk Dance, Fairs/Festivals, Famous Temples, Traditional Arts, Cuisine, Historical Places, Languages, Handicrafts, and Literature. Each topic can have one question.
+
+Next, I have to frame questions that are not too easy but also not overly complex. For example, for Folk Music, maybe a question on a famous instrument. For Folk Dance, perhaps a specific dance form. Each question must have four options with the correct one marked. The explanations should be concise.
+
+Let me start with the first topic. Rajasthan is known for folk music. The Ghoomar dance is associated with women. The correct answer should be Ghoomar. The options need to include other dances like Kachhi Ghodi. For the question on folk music, Bansuri is a prominent instrument. The other options could be Sitar, Flute, and Sarangi. Wait, Bansuri is a type of flute, so maybe use Flute as an option. But in Rajasthan, Bansuri is specific. Let me check that.
+
+For the third question, a famous festival. Gangaur is the main one, but Teej and Teej are also important. Maybe include all three and the correct answer is Gangaur. The fourth question could be about a famous temple like Dilwara Temples in Mount Abu. Other temples like Jagat Jyot, Eklingji, and Bhandasar should be options.
+
+Traditional art forms: Miniature painting is a key one here. Other options could be Warli, Madhubani, and Pattachitra. The answer is Miniature. For cuisine, Dal Bati Churma is a staple. Other options like Rajma, Chhole Bhature, and Poha. The answer is Dal Bati Churma.
+
+Historical places: Chittorgarh Fort is a UNESCO site. Other options like Hawa Mahal, Mehrangarh Fort, and Amber Fort. The correct answer is Chittorgarh Fort. Languages: Rajasthani, Marwari, Mewari, and Bhatri. The main language is Rajasthani.
+
+Handicrafts: Blue pottery is unique to Rajasthan. Other options could be Pashmina shawls (from Kashmir), Brass items, and Terracotta. The answer is Blue pottery. Literature: Kavishar Swami is a notable poet. Other options like Kavi Kalidas (not Rajasthani), Kavi Surdas, and Kavi Santosh. The correct answer is Kavishar Swami.
+
+I need to ensure that the options are plausible and the correct answers are accurate. Also, explanations should clarify why the answer is correct. For example, in the case of Ghoomar, explain it's a women's dance. For Bansuri, mention its prominence in Rajasthani folk music.
+
+Now, structuring each question in the required JSON format. Each entry has subject, topic, question in both languages, four options, answer key, and explanations. Topics should be filled appropriately. Let me verify each answer for accuracy.
+
+Wait, for the fifth question on traditional art, the correct answer is Miniature. But in Rajasthan, the art form is called Rajasthani Miniature. So that's correct. The sixth question on cuisine is definitely Dal Bati Churma. The seventh on historical places is Chittorgarh Fort. The eighth on languages is Rajasthani. The ninth on handicrafts is Blue pottery. The tenth on literature is Kavishar Swami. All these are correct.
+
+I need to translate each question and options accurately into Hindi. For example, "Ghoomar" in Hindi is "घूमर" and "Bansuri" is "बंसुरी". Ensure that the translations are correct and options are in proper Hindi script.
+
+Finally, check for any typos or formatting issues. Each JSON object should have all the required fields and be in the correct order. Make sure the answer letters (A, B, C, D) correspond correctly to the options. Once all 10 questions are structured, the JSON array is complete.
+</think>
+
+[
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Dance",
+  "question_en": "Which traditional dance form of Rajasthan is performed by women and is known for its graceful movements?",
+  "question_hi": "राजस्थान के पारंपरिक नृत्य कौन-सा है जिसे महिलाएं प्रदर्शित करती हैं और इसके आकर्षक आंदोलनों के लिए प्रसिद्ध है?",
+  "A_en": "Kacchi Ghodi", "A_hi": "काची घोड़ी",
+  "B_en": "Ghoomar", "B_hi": "घूमर",
+  "C_en": "Kalbeliya", "C_hi": "कलबेलिया",
+  "D_en": "Cheriali", "D_hi": "चेरियाली",
+  "answer": "B",
+  "explanation_en": "Ghoomar is a traditional dance of Rajasthan performed by women, known for its graceful and circular movements.",
+  "explanation_hi": "घूमर राजस्थान का एक पारंपरिक महिला नृत्य है जिसे इसके आकर्षक और वृत्ताकार आंदोलनों के लिए जाना जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Music",
+  "question_en": "Which traditional musical instrument is prominently used in Rajasthani folk music?",
+  "question_hi": "राजस्थानी लोक गान में कौन-सा पारंपरिक संगीत यंत्र प्रमुख रूप से उपयोग किया जाता है?",
+  "A_en": "Sitar", "A_hi": "सितार",
+  "B_en": "Flute", "B_hi": "बंसुरी",
+  "C_en": "Bansuri", "C_hi": "बंसुरी",
+  "D_en": "Sarangi", "D_hi": "सरंगी",
+  "answer": "C",
+  "explanation_en": "Bansuri is a traditional wind instrument commonly used in Rajasthani folk music to create melodic tunes.",
+  "explanation_hi": "बंसुरी एक पारंपरिक हवा वाले यंत्र है जिसे राजस्थानी लोक गान में मेलोडिक ध्वनियाँ बनाने के लिए अक्सर उपयोग किया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Fairs/Festivals",
+  "question_en": "Which festival is celebrated in Rajasthan to honor the worship of Goddess Gauri and the arrival of spring?",
+  "question_hi": "राजस्थान में किस उत्सव का आयोजन देवी गौरी की पूजा और वसंत के आगमन के सम्मान में किया जाता है?",
+  "A_en": "Gangaur", "A_hi": "गंगौर",
+  "B_en": "Teej", "B_hi": "तीज",
+  "C_en": "Holi", "C_hi": "होली",
+  "D_en": "Diwali", "D_hi": "दिवाली",
+  "answer": "A",
+  "explanation_en": "Gangaur is a Rajasthani festival dedicated to Goddess Gauri, celebrated with great enthusiasm to mark the arrival of spring.",
+  "explanation_hi": "गंगौर राजस्थान का एक उत्सव है जो देवी गौरी के सम्मान में मनाया जाता है और जिसे वसंत के आगमन के साथ भी सम्मानित किया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Temples",
+  "question_en": "Which temple complex in Rajasthan is renowned for its marble architecture and is located in Mount Abu?",
+  "question_hi": "राजस्थान में कौन-सा मंदिर संकुल मार्बल वास्तुकला के लिए प्रसिद्ध है और माउंट अबू में स्थित है?",
+  "A_en": "Jagat Jyot Temple", "A_hi": "जगत ज्योत मंदिर",
+  "B_en": "Eklingji Temple", "B_hi": "एकलिंगजी मंदिर",
+  "C_en": "Bhandasar Jain Temple", "C_hi": "भांडासर जैन मंदिर",
+  "D_en": "Dilwara Temple", "D_hi": "दिलवाड़ा मंदिर",
+  "answer": "D",
+  "explanation_en": "Dilwara Temple in Mount Abu is famous for its exquisite marble craftsmanship and spiritual significance.",
+  "explanation_hi": "माउंट अबू में स्थित दिलवाड़ा मंदिर अपनी शानदार मार्बल कारीगरी और आध्यात्मिक महत्व के लिए प्रसिद्ध है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Traditional Art",
+  "question_en": "Which traditional art form of Rajasthan is characterized by intricate miniature paintings and is often associated with royal themes?",
+  "question_hi": "राजस्थान की कौन-सी पारंपरिक कला जटिल मिनीएचर चित्रों के द्वारा परिभाषित है और अक्सर राजकुमारी विषयों से जुड़ी है?",
+  "A_en": "Warli", "A_hi": "वर्ली",
+  "B_en": "Madhubani", "B_hi": "मधुबनी",
+  "C_en": "Miniature Painting", "C_hi": "मिनीएचर चित्रकला",
+  "D_en": "Pattachitra", "D_hi": "पट्टचित्रा",
+  "answer": "C",
+  "explanation_en": "Rajasthan's miniature paintings are a traditional art form that reflects royal themes and intricate detailing.",
+  "explanation_hi": "राजस्थान की मिनीएचर चित्रकला एक पारंपरिक कला है जो राजकुमारी विषयों और जटिल विवरण के साथ प्रतिबिंबित करती है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Cuisine",
+  "question_en": "Which traditional Rajasthani dish is made with baked wheat balls and a lentil curry, often served with a sweet crumbly dessert?",
+  "question_hi": "राजस्थानी पारंपरिक भोजन कौन-सा है जो भुने हुए गेहूं की गोलियों और एक दाल की बरगड़ी के साथ बनाया जाता है और अक्सर एक मीठे टूटने वाले डिसर्ट के साथ परोसा जाता है?",
+  "A_en": "Rajma", "A_hi": "राजमा",
+  "B_en": "Chole Bhature", "B_hi": "चॉले भटूरे",
+  "C_en": "Dal Bati Churma", "C_hi": "दाल बाती चुरमा",
+  "D_en": "Poha", "D_hi": "पोहा",
+  "answer": "C",
+  "explanation_en": "Dal Bati Churma is a traditional Rajasthani dish consisting of baked wheat balls (Bati), lentil curry (Dal), and a sweet crumbly dessert (Churma).",
+  "explanation_hi": "दाल बाती चुरमा राजस्थानी पारंपरिक भोजन है जिसमें भुने हुए गेहूं की गोलियाँ (बाती), दाल की बरगड़ी (दाल) और एक मीठा टूटने वाला डिसर्ट (चुरमा) शामिल है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Historical Places",
+  "question_en": "Which fort in Rajasthan is a UNESCO World Heritage Site and symbolizes the valor of Rajput rulers?",
+  "question_hi": "राजस्थान में कौन-सा महल यूनेस्को विश्व धरोहर स्थल है और राजपूत शासकों की बहादुरी का प्रतीक है?",
+  "A_en": "Hawa Mahal", "A_hi": "हवा महल",
+  "B_en": "Mehrangarh Fort", "B_hi": "महरांगढ़ किला",
+  "C_en": "Chittorgarh Fort", "C_hi": "चित्तौड़गढ़ किला",
+  "D_en": "Amber Fort", "D_hi": "अम्बर किला",
+  "answer": "C",
+  "explanation_en": "Chittorgarh Fort is a UNESCO World Heritage Site and a historic symbol of Rajput valor and sacrifice.",
+  "explanation_hi": "चित्तौड़गढ़ किला एक यूनेस्को विश्व धरोहर स्थल है और राजपूत बहादुरी और बलिदान का ऐतिहासिक प्रतीक है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Languages",
+  "question_en": "Which language is predominantly spoken in the Marwar region of Rajasthan?",
+  "question_hi": "राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से कौन-सी भाषा बोली जाती है?",
+  "A_en": "Rajasthani", "A_hi": "राजस्थानी",
+  "B_en": "Marwari", "B_hi": "मारवाड़ी",
+  "C_en": "Mewari", "C_hi": "मेवाड़ी",
+  "D_en": "Bhatri", "D_hi": "भाट्री",
+  "answer": "B",
+  "explanation_en": "Marwari is the predominant language spoken in the Marwar region of Rajasthan.",
+  "explanation_hi": "मारवाड़ी राजस्थान के मारवाड़ क्षेत्र में मुख्य र
