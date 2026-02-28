@@ -1,0 +1,148 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Geography, specifically on the topic of Rajasthan's physical features. Let me start by recalling key points about Rajasthan's geography.
+
+First, the Thar Desert is a major feature. I can ask a question about it. The Aravalli Range is another important element. Then there are the rivers like the Chambal, which are part of the Yamuna system. The largest district in Rajasthan by area is Jalore, so that's a good fact. 
+
+I should include questions on different aspects: physical features, rivers, districts, climate, and notable landmarks. Let me list possible questions. For example, the highest point in Rajasthan is Guru Shikhar in the Aravallis. The river that flows through Rajasthan and is part of the Ganges system is the Chambal. 
+
+Wait, the Chambal is part of the Yamuna, which is part of the Ganges system. Need to check that. Also, the Pushkar Lake in Ajmer is a famous one. The desert area is the Thar Desert. 
+
+For each question, I need to make sure the options are plausible but distinct. The answer should be accurate. I'll need to translate the questions and options into Hindi. Also, explanations should clarify why the correct answer is right.
+
+Let me structure each question step by step. Start with the first question on the major desert. Then move to the mountain ranges, rivers, districts, climate, lakes, etc. Check for any common mistakes or tricky parts. For example, sometimes people confuse the rivers in Rajasthan. The Chambal is a tributary of the Yamuna, so that's correct.
+
+I need to ensure that each question is of high quality and covers different aspects of Rajasthan's geography. Also, the difficulty level should be appropriate for state exams like LDC, CET, RAS, etc. Let me verify the facts again to avoid errors. Once that's done, format the JSON strictly as per the example provided. Make sure the Hindi translations are accurate and the explanations are concise but clear.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which is the largest desert in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे बड़ा रेगिस्तान कौन-सा है?",
+    "A_en": "Thar Desert", "A_hi": "थार रेगिस्तान",
+    "B_en": "Kutch Desert", "B_hi": "कच्चा रेगिस्तान",
+    "C_en": "Rajasthan Desert", "C_hi": "राजस्थान रेगिस्तान",
+    "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+    "answer": "A",
+    "explanation_en": "Thar Desert is the largest desert in Rajasthan, covering a significant portion of the state.",
+    "explanation_hi": "थार रेगिस्तान राजस्थान में सबसे बड़ा रेगिस्तान है, जो राज्य के महत्वपूर्ण भागों को कवर करता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which mountain range is the oldest in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे पुराना पहाड़ी श्रृंखला कौन-सी है?",
+    "A_en": "Aravalli Range", "A_hi": "अरावली पहाड़ी श्रृंखला",
+    "B_en": "Vindhyas", "B_hi": "विंध्याचल",
+    "C_en": "Satpura", "C_hi": "सतपुड़ा",
+    "D_en": "Western Ghats", "D_hi": "पश्चिमी घाट",
+    "answer": "A",
+    "explanation_en": "The Aravalli Range is the oldest mountain range in Rajasthan and one of the oldest in the world.",
+    "explanation_hi": "अरावली पहाड़ी श्रृंखला राजस्थान में सबसे पुरानी पहाड़ी श्रृंखला है और दुनिया की सबसे पुरानी पहाड़ी श्रृंखलाओं में से एक है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which river is known as the 'Lifeline of Rajasthan'?",
+    "question_hi": "'राजस्थान की जीवन रेखा' के रूप में किस नदी को जाना जाता है?",
+    "A_en": "Chambal", "A_hi": "चम्बल",
+    "B_en": "Luni", "B_hi": "लूनी",
+    "C_en": "Banas", "C_hi": "बानस",
+    "D_en": "Mahi", "D_hi": "मही",
+    "answer": "A",
+    "explanation_en": "The Chambal River is referred to as the 'Lifeline of Rajasthan' due to its significance in irrigation and water supply.",
+    "explanation_hi": "चम्बल नदी के अंतर्वर्ती निर्वहन और पानी की आपूर्ति के कारण इसे राजस्थान की 'जीवन रेखा' कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which district in Rajasthan has the highest population density?",
+    "question_hi": "राजस्थान में जनसंख्या घनत्व सर्वाधिक किस जिले में है?",
+    "A_en": "Jaipur", "A_hi": "जयपुर",
+    "B_en": "Dausa", "B_hi": "दौसा",
+    "C_en": "Bharatpur", "C_hi": "भरतपुर",
+    "D_en": "Kota", "D_hi": "कोटा",
+    "answer": "A",
+    "explanation_en": "Jaipur district has the highest population density in Rajasthan due to urbanization and administrative activities.",
+    "explanation_hi": "जयपुर जिला शहरीकरण और प्रशासनिक गतिविधियों के कारण राजस्थान में जनसंख्या घनत्व सर्वाधिक है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which of the following is the highest peak in Rajasthan?",
+    "question_hi": "निम्नलिखित में से राजस्थान की सर्वोच्च चोटी कौन-सी है?",
+    "A_en": "Guru Shikhar", "A_hi": "गुरु शिखर",
+    "B_en": "Mount Abu", "B_hi": "माउंट आबू",
+    "C_en": "Kumbhalgarh", "C_hi": "कुंभलगढ़",
+    "D_en": "Kailana", "D_hi": "कैलाना",
+    "answer": "A",
+    "explanation_en": "Guru Shikhar is the highest peak in Rajasthan, part of the Aravalli Range.",
+    "explanation_hi": "गुरु शिखर राजस्थान में सबसे ऊँची चोटी है, जो अरावली के श्रेणियों का हिस्सा है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which state boundary does Rajasthan share with the longest river in India?",
+    "question_hi": "भारत की सबसे लंबी नदी के साथ राजस्थान किस राज्य की सीमा साझा करता है?",
+    "A_en": "Gujarat", "A_hi": "गुजरात",
+    "B_en": "Maharashtra", "B_hi": "महाराष्ट्र",
+    "C_en": "Madhya Pradesh", "C_hi": "मध्य प्रदेश",
+    "D_en": "Karnataka", "D_hi": "कर्नाटक",
+    "answer": "A",
+    "explanation_en": "Rajasthan shares its border with Gujarat at the confluence of the longest river in India, the Narmada.",
+    "explanation_hi": "राजस्थान भारत की सबसे लंबी नदी नर्मदा के संगम के कारण गुजरात की सीमा साझा करता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which lake in Rajasthan is known as the 'Jewel of Rajasthan'?",
+    "question_hi": "राजस्थान में 'राजस्थान का झूला' के रूप में कौन-सी झील जानी जाती है?",
+    "A_en": "Pushkar Lake", "A_hi": "पुष्कर झील",
+    "B_en": "Pichola Lake", "B_hi": "पिछोला झील",
+    "C_en": "Jaisamand Lake", "C_hi": "जैसमंद झील",
+    "D_en": "Doodh Talai", "D_hi": "दूध तालाई",
+    "answer": "C",
+    "explanation_en": "Jaisamand Lake is often referred to as the 'Jewel of Rajasthan' due to its size and beauty.",
+    "explanation_hi": "जैसमंद झील अपने आकार और सौंदर्य के कारण अक्सर 'राजस्थान का झूला' के रूप में जानी जाती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which region in Rajasthan is known for its black soil (regur)?",
+    "question_hi": "राजस्थान में कौन-सा क्षेत्र अपनी काली मिट्टी (रेगुर) के लिए जाना जाता है?",
+    "A_en": "Mewar", "A_hi": "मेवाड़",
+    "B_en": "Marwar", "B_hi": "मारवाड़",
+    "C_en": "Shekhawati", "C_hi": "शेखावाटी",
+    "D_en": "Hadoti", "D_hi": "हड़ताली",
+    "answer": "C",
+    "explanation_en": "The Shekhawati region is known for its black soil, which is fertile and suitable for agriculture.",
+    "explanation_hi": "शेखावाटी क्षेत्र अपनी काली मिट्टी के लिए जाना जाता है, जो उर्वर और कृषि उपयुक्त है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Which of the following is a tributary of the Chambal River in Rajasthan?",
+    "question_hi": "राजस्थान में चम्बल नदी का निम्नलिखित में से कौन-सा सहायक नदी है?",
+    "A_en": "Banas", "A_hi": "बानस",
+    "B_en": "Kali Sindh", "B_hi": "काली सिंध",
+    "C_en": "Parbati", "C_hi": "परबती",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Banas, Kali Sindh, and Parbati are all tributaries of the Chambal River in Rajasthan.",
+    "explanation_hi": "बानस, काली सिंध और परबती तीनों राजस्थान में चम्बल नदी की सहायक नदियाँ हैं।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Physical Features",
+    "question_en": "Where is the 'Desert National Park' located in Rajasthan?",
+    "question_hi": "राजस्थान में 'रेगिस्तान राष्ट्रीय उद्यान' कहाँ स्थित है?",
+    "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+    "B_en": "Barmer", "B_hi": "बाड़मेर",
+    "C_en": "Churu", "C_hi": "चूरू",
+    "D_en": "Jodhpur", "D_hi": "जोधपुर",
+    "answer": "A",
+    "explanation_en": "The Desert National Park is located in Jaisalmer, Rajasthan, covering a vast area of the Thar Desert.",
+    "explanation_hi": "रेगिस्तान राष्ट्रीय उद्यान राजस्थान के जैसलमेर में स्थित है और थार रेगिस्तान के एक विशाल क्षेत्र को कवर करता है।"
+  }
+]
