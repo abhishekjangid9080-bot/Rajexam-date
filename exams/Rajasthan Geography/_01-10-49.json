@@ -1,0 +1,175 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs for Rajasthan Geography, specifically for exams like LDC, CET, RAS, etc. They need the questions in both Hindi and English, in a JSON format similar to Testbook. The difficulty level should be set according to Rajasthan Geography.
+
+First, I need to choose topics within Rajasthan Geography. Let's think about key areas. Physical geography, rivers, states, minerals, climate, etc. For example, Thar Desert, rivers like Chambal or Luni, important minerals, famous cities, historical places, and administrative divisions.
+
+I should start by listing important facts. For instance, the capital of Rajasthan is Jaipur, so that's a basic one. Then, the Thar Desert is a significant topic. The longest river in Rajasthan is Chambal, but wait, Luni is also a major river. Also, the highest mountain in Rajasthan is Mount Abu, which is part of the Aravalli Range.
+
+Next, important minerals: Rajasthan is known for gems like emerald, ruby, and topaz. The Khetri region is famous for copper mines. The Rann of Kutch is in Gujarat, so maybe a question about that to test differentiation.
+
+Climatic regions: Rajasthan has Thar Desert, Aravalli Range, and the Malwa region. The state's northern part is desert, southern is mountainous. The capital of Rajasthan is Jaipur, but also need to mention other cities like Udaipur, Jodhpur, Bikaner.
+
+Historical places: Chittorgarh Fort is a World Heritage Site. The RAS exam often includes such cultural aspects. The Aravalli Range's oldest hills in India. The state's highest peak is Guru Shikhar in Mount Abu.
+
+Now, forming questions. Each question should have four options in both languages. Let's make sure the options are plausible but correct. For example, when asking about the longest river, Chambal is the longest, but Luni is longer in terms of flow within the state? Wait, need to verify. Chambal is part of the Yamuna basin, flows through Rajasthan, but Luni is a major river in the Thar Desert. Wait, maybe the longest river in Rajasthan is Chambal or Luni? Need to check that.
+
+Another point: Rajasthan's literacy rate is higher than the national average. Wait, but the question is about geography, so maybe not. Let's focus on geographical features.
+
+Also, the number of districts in Rajasthan has increased over time. As of recent, it's 50 districts. Need to confirm that. The largest district by area is Jalore. The smallest is maybe? Not sure, but the question can be about the largest district.
+
+For each question, ensure the answer is correct and options are confusing. For example, when asking about the Thar Desert, options could include Thar, Marwar, etc. Let's proceed step by step.
+
+1. Capital of Rajasthan is Jaipur. Options: A. Jodhpur, B. Jaipur, etc. Answer B.
+
+2. Thar Desert is in Rajasthan. Options: A. Thar, B. Marwar, etc. Answer A.
+
+3. Longest river in Rajasthan: Chambal or Luni? Need to check. Chambal is longer when considering its entire course within Rajasthan. So answer is Chambal.
+
+4. Khetri is known for copper mines. Answer C.
+
+5. Highest peak in Rajasthan is Guru Shikhar. Answer D.
+
+6. Major mineral in Rajasthan: Gypsum. Answer C.
+
+7. State with the largest share in Rajasthan's area: Thar Desert. Answer A.
+
+8. Chittorgarh Fort is a UNESCO site. Answer C.
+
+9. Aravalli Range's oldest hills. Answer A.
+
+10. Largest district by area: Jalore. Answer B.
+
+Now, translating these into Hindi. Make sure translations are accurate. Also, explanations in both languages. Need to verify facts again for accuracy. For example, the Thar Desert is also known as the Marwar region? Maybe not. Marwar is a region, Thar is the desert. So the question about the desert's region should have Thar as the answer.
+
+Double-check the copper mines in Khetri. That's correct. Highest peak is Guru Shikhar in Mount Abu. Largest district by area is Jalore. Khejri is the state tree. Thar Desert's area is about 3.4% of India's total area. Wait, maybe that's a different question. Let me structure each question with correct data and ensure options don't have confusing distractors.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Deserts and Climate",
+        "question_en": "Which desert is located in the northern part of Rajasthan?",
+        "question_hi": "राजस्थान के उत्तरी भाग में कौन सा मरुस्थल स्थित है?",
+        "A_en": "Thar Desert", "A_hi": "थार मरुस्थल",
+        "B_en": "Kutch Desert", "B_hi": "कच्छ मरुस्थल",
+        "C_en": "Marwar Desert", "C_hi": "मारवाड़ मरुस्थल",
+        "D_en": "Rajasthan Desert", "D_hi": "राजस्थान मरुस्थल",
+        "answer": "A",
+        "explanation_en": "The Thar Desert is located in the northern part of Rajasthan, covering a significant portion of the state.",
+        "explanation_hi": "थार मरुस्थल राजस्थान के उत्तरी भाग में स्थित है और राज्य के लगभग आधे हिस्से को घेरे हुए है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers and Water Bodies",
+        "question_en": "Which river is the longest in Rajasthan?",
+        "question_hi": "राजस्थान की सबसे लंबी नदी कौन सी है?",
+        "A_en": "Chambal", "A_hi": "चम्बल",
+        "B_en": "Luni", "B_hi": "लूनी",
+        "C_en": "Sabarmati", "C_hi": "साबरमती",
+        "D_en": "Mahi", "D_hi": "माही",
+        "answer": "A",
+        "explanation_en": "The Chambal River is the longest river in Rajasthan, flowing through the state for about 960 km.",
+        "explanation_hi": "चम्बल नदी राजस्थान की सबसे लंबी नदी है जो राज्य में लगभग 960 किमी तक बहती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Mountains and Hills",
+        "question_en": "Which mountain range is the oldest in Rajasthan?",
+        "question_hi": "राजस्थान में कौन सा पहाड़ी श्रेणी सबसे पुरानी है?",
+        "A_en": "Aravalli Range", "A_hi": "अरावली पर्वतमाला",
+        "B_en": "Vindhyachal Range", "B_hi": "विन्ध्याचल पर्वतमाला",
+        "C_en": "Satpura Range", "C_hi": "सतपुड़ा पर्वतमाला",
+        "D_en": "Nilgiri Range", "D_hi": "नीलगिरि पर्वतमाला",
+        "answer": "A",
+        "explanation_en": "The Aravalli Range is the oldest mountain range in Rajasthan, with a history of over 1.8 billion years.",
+        "explanation_hi": "अरावली पर्वतमाला राजस्थान की सबसे पुरानी पहाड़ी श्रेणी है जिसकी उम्र 1.8 अरब वर्ष से अधिक है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Minerals and Resources",
+        "question_en": "Which district of Rajasthan is famous for copper mines?",
+        "question_hi": "राजस्थान का कौन सा जिला तांबा खनिज के लिए प्रसिद्ध है?",
+        "A_en": "Bhilwara", "A_hi": "भीलवाड़ा",
+        "B_en": "Khetri", "B_hi": "खेतड़ी",
+        "C_en": "Zunheboto", "C_hi": "जुनेटो",
+        "D_en": "Churu", "D_hi": "चूरू",
+        "answer": "B",
+        "explanation_en": "Khetri, located in Jhunjhunu district, is renowned for its copper mines and industries.",
+        "explanation_hi": "खेतड़ी, जो झुंझुनू जिले में स्थित है, तांबा खनिज और उद्योगों के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Geographical Features",
+        "question_en": "What is the highest peak in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+        "A_en": "Mount Abu", "A_hi": "माउंट अबू",
+        "B_en": "Guru Shikhar", "B_hi": "गुरु शिखर",
+        "C_en": "Kumbhalgarh", "C_hi": "कुम्भलगढ़",
+        "D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+        "answer": "B",
+        "explanation_en": "Guru Shikhar, located in Mount Abu, is the highest peak in Rajasthan with an elevation of 1,722 meters.",
+        "explanation_hi": "गुरु शिखर, जो माउंट अबू में स्थित है, राजस्थान की सबसे ऊँची चोटी है और इसकी ऊँचाई 1,722 मीटर है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Climate Zones",
+        "question_en": "Which region of Rajasthan has a semi-arid climate?",
+        "question_hi": "राजस्थान का कौन सा क्षेत्र अर्ध-शुष्क जलवायु वाला है?",
+        "A_en": "Mewar", "A_hi": "मेवाड़",
+        "B_en": "Marwar", "B_hi": "मारवाड़",
+        "C_en": "Sahibi", "C_hi": "साहिबी",
+        "D_en": "Hadoti", "D_hi": "हड़ोती",
+        "answer": "B",
+        "explanation_en": "The Marwar region in Rajasthan is characterized by a semi-arid climate with low rainfall and high temperatures.",
+        "explanation_hi": "राजस्थान का मारवाड़ क्षेत्र अर्ध-शुष्क जलवायु वाला है जिसमें कम वर्षा और उच्च तापमान होता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Historical Geography",
+        "question_en": "Which fort in Rajasthan is a UNESCO World Heritage Site?",
+        "question_hi": "राजस्थान में कौन सा किला यूनेस्को विश्व धरोहर स्थल है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+        "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+        "D_en": "Kumbhalgarh Fort", "D_hi": "कुम्भलगढ़ किला",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort, located in Chittorgarh, is recognized as a UNESCO World Heritage Site for its historical and architectural significance.",
+        "explanation_hi": "चित्तौड़गढ़ किला, जो चित्तौड़गढ़ में स्थित है, ऐतिहासिक और सांस्कृतिक महत्व के कारण यूनेस्को विश्व धरोहर स्थल है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Administrative Divisions",
+        "question_en": "How many districts does Rajasthan currently have?",
+        "question_hi": "वर्तमान में राजस्थान में कितने जिले हैं?",
+        "A_en": "40", "A_hi": "40",
+        "B_en": "50", "B_hi": "50",
+        "C_en": "55", "C_hi": "55",
+        "D_en": "60", "D_hi": "60",
+        "answer": "B",
+        "explanation_en": "As of 2023, Rajasthan has 50 districts, making it the state with the highest number of districts in India.",
+        "explanation_hi": "2023 तक, राजस्थान में 50 जिले हैं, जो भारत में जिलों की संख्या में सबसे अधिक राज्य है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Cultural Geography",
+        "question_en": "Which city in Rajasthan is known as the 'City of Lakes'?",
+        "question_hi": "राजस्थान के कौन से शहर को 'झीलों का शहर' कहा जाता है?",
+        "A_en": "Jaipur", "A_hi": "जयपुर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Jodhpur", "C_hi": "जोधपुर",
+        "D_en": "Ajmer", "D_hi": "अजमेर",
+        "answer": "B",
+        "explanation_en": "Udaipur is renowned for its picturesque lakes such as Lake Pichola and Fateh Sagar, earning it the title 'City of Lakes'.",
+        "explanation_hi": "उदयपुर पिछोरा झील और फतेह सागर जैसे दृश्यात्मक झीलों के कारण 'झीलों का शहर' के नाम से प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Economic Geography",
+        "question_en": "Which district in Rajasthan is the largest by area?",
+        "question_hi": "राजस्थान में कौन सा जिला क्षेत्रफल में सबसे बड़ा है?",
+        "A_en": "Barmer", "A_hi": "बरमेर",
+        "B_en": "Jalore", "B_hi": "जालोर",
+        "C_en": "Churu", "C_hi": "चूरू",
+        "D_en": "Sawai Madhopur", "D_hi": "सवाई माधोपुर",
+        "answer": "B",
+        "explanation_en": "
