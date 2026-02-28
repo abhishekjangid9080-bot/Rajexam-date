@@ -1,0 +1,28 @@
+[
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान के अधिकार भूमिका क्या है?",
+"A_en": "Hindi", "A_hi": "हिंदी",
+"B_en": "Marathi", "B_hi": "मराठी",
+"C_en": "Tamil", "C_hi": "तमिल",
+"D_en": "Gujarati", "D_hi": "गुजराती",
+"answer": "A",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "राजस्थान के अधिकार भूमिका हिंदी है।"
+},
+{
+"subject": "Economy",
+"topic": "",
+"question_en": "What is the primary industry of Rajasthan?",
+"question_hi": "राजस्थान का प्रायश क्या है?",
+"A_en": "Agriculture", "A_hi": "क़र्म की संतुलन",
+"B_en": "Tourism", "B_hi": "टूर्स",
+"C_en": "Textile Industry", "C_hi": "टेक्सियल इन्ड्स",
+"D_en": "Mineral Resources", "D_hi": "मिनियल रेस्ट्रॉ",
+"answer": "B",
+"explanation_en": "Tourism is the primary industry of Rajasthan.",
+"explanation_hi": "राजस्थान का प्रॉपर्षद या संतुलन",
+}
+]
