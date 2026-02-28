@@ -1,0 +1,137 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture. Let's start by brainstorming topics within Rajasthan Culture. The user mentioned topics like LDC, CET, RAS, SSC, and Railway exams, so I should cover a range of cultural aspects.
+
+First, I should think about key elements of Rajasthan's culture. Festivals like Gangaur, Teej, and Mewar are important. Traditional dance forms like Ghoomar and Kalbeliya come to mind. Folk music, instruments like the dholak and pakhawaj, and famous artists like Ghulam Ali. Architecture includes forts like Chittorgarh and palaces like Hawa Mahal. Literature, like works by Kazi Nazrul Islam, and cuisine such as Dal Baati Churma. Also, traditional attire like Ghagra and Angarkha. Maybe include some historical figures and their contributions.
+
+I need to ensure that each question is in both Hindi and English, with options in both languages. The answers should be correct and explanations concise. Let's start with festivals. For example, Gangaur Festival is celebrated in which city? The answer is Jaipur. Then, traditional dances: Ghoomar is associated with which community? Rajasthani women.
+
+Next, instruments: Dholak is a traditional percussion instrument. Folk music: 'Bhajan' is a form of devotional song. Artists: Ghulam Ali is known for Thumri. Architecture: Hawa Mahal in Jaipur. Literature: Kavi Keshav's contribution. Cuisine: Dal Baati Churma is the staple. Traditional attire: Ghagra with Choli. Historical figures: Maharaja Sawai Jai Singh founded Jaipur.
+
+Wait, I need to check if all these facts are accurate. For example, Gangaur is indeed celebrated in Jaipur. Ghoomar is performed by women in Marwar region. Dholak is correct. Bhajan is a devotional song. Ghulam Ali is a Thumri singer. Hawa Mahal is in Jaipur. Kavi Keshav is a Rajasthani poet. Dal Baati Churma is the correct dish. Ghagra and Choli are traditional attire. Maharaja Sawai Jai Singh founded Jaipur in 1727.
+
+I should also ensure that the options are plausible. For example, in the question about the founder of Jaipur, other options could be Maharana Pratap, Raja Man Singh, or Maharaja Jaswant Singh. The correct answer is Sawai Jai Singh.
+
+Now, structuring each question with the required format: subject, topic, question in English and Hindi, options in both languages, answer, and explanations in both languages. Let me make sure each question is unique and covers different aspects of Rajasthan culture. Avoid repetition and ensure the difficulty level is appropriate for the exams mentioned.
+
+Let me check the JSON structure example provided. Each object has the subject, topic, question in two languages, options, answer, and explanations. The topic field is empty in the example, but maybe I should fill it with relevant sub-topics like Festivals, Dance Forms, etc., to make it more organized. However, the user didn't specify a topic, so maybe leave it as an empty string unless instructed otherwise. Wait, the user's instruction says "Topic: " but left it blank. Maybe the topic is "Rajasthan Culture" as the subject, and the topic field is for sub-topics. But in the example, the topic is left empty. So perhaps I should leave it as an empty string as well.
+
+Let me proceed to create the 10 questions. Let me count to ensure there are exactly 10. After drafting, I'll verify each for accuracy and language consistency. Once that's done, format them into the JSON structure as per the example.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+    "question_hi": "राजस्थान में देवी गौरी के सम्मान में कौन-सा त्योहार मनाया जाता है?",
+    "A_en": "Gangaur Festival", "A_hi": "गंगौर महोत्सव",
+    "B_en": "Teej Festival", "B_hi": "तीज महोत्सव",
+    "C_en": "Mewar Festival", "C_hi": "मेवाड़ महोत्सव",
+    "D_en": "Diwali", "D_hi": "दिवाली",
+    "answer": "A",
+    "explanation_en": "The Gangaur Festival is celebrated in Rajasthan, especially in Jaipur, to honor the goddess Gauri.",
+    "explanation_hi": "गंगौर महोत्सव राजस्थान में, विशेष रूप से जयपुर में देवी गौरी के सम्मान में मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Dance Forms",
+    "question_en": "Which traditional dance form of Rajasthan is performed by women to celebrate the harvest season?",
+    "question_hi": "राजस्थान के गहने के साथ कौन-सा परंपरागत नृत्य खेती के मौसम में महिलाओं द्वारा मनाया जाता है?",
+    "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Charkula", "C_hi": "चरखूला",
+    "D_en": "Bhanger", "D_hi": "भंगड़ा",
+    "answer": "B",
+    "explanation_en": "Ghoomar is a traditional Rajasthani dance performed by women during festivals like Holi and harvest seasons.",
+    "explanation_hi": "घूमर एक परंपरागत राजस्थानी नृत्य है जो होली जैसे त्योहारों और खेती के मौसम में महिलाओं द्वारा मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Music",
+    "question_en": "Which traditional instrument is commonly used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गान में आमतौर पर कौन-सा परंपरागत वाद्य यंत्र उपयोग किया जाता है?",
+    "A_en": "Sitar", "A_hi": "सितार",
+    "B_en": "Dholak", "B_hi": "ढोलाक",
+    "C_en": "Harmonium", "C_hi": "हार्मोनियम",
+    "D_en": "Tabla", "D_hi": "तबला",
+    "answer": "B",
+    "explanation_en": "Dholak is a traditional percussion instrument used extensively in Rajasthani folk music and festivals.",
+    "explanation_hi": "ढोलाक एक परंपरागत बजाये जाने वाला वाद्य यंत्र है जो राजस्थानी लोक गान और त्योहारों में व्यापक रूप से उपयोग किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Artists",
+    "question_en": "Who is a famous Rajasthani folk singer known for her Thumri and Bhajan songs?",
+    "question_hi": "कौन-सी प्रसिद्ध राजस्थानी लोक गायिका थुमरी और भजन गीतों के लिए जानी जाती है?",
+    "A_en": "Lata Mangeshkar", "A_hi": "लता मंगेशकर",
+    "B_en": "Ghulam Ali", "B_hi": "गुलाम अली",
+    "C_en": "Pankaj Udhas", "C_hi": "पंकज उदास",
+    "D_en": "Shubh Mangal", "D_hi": "शुभ मंगल",
+    "answer": "B",
+    "explanation_en": "Ghulam Ali is a renowned folk singer from Rajasthan, famous for his Thumri and Bhajan songs.",
+    "explanation_hi": "गुलाम अली राजस्थान के प्रसिद्ध लोक गायक हैं, जिन्हें उनकी थुमरी और भजन गीतों के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which historical palace in Jaipur is known as the 'Palace of Winds'?",
+    "question_hi": "जयपुर में कौन-सा ऐतिहासिक महल 'हवा का महल' के नाम से प्रसिद्ध है?",
+    "A_en": "Hawa Mahal", "A_hi": "हवा महल",
+    "B_en": "Jal Mahal", "B_hi": "जल महल",
+    "C_en": "City Palace", "C_hi": "शहर का महल",
+    "D_en": "Amber Palace", "D_hi": "अम्बेर महल",
+    "answer": "A",
+    "explanation_en": "Hawa Mahal in Jaipur is famously known as the 'Palace of Winds' due to its unique architectural design with numerous small windows.",
+    "explanation_hi": "जयपुर में हवा महल के नाम से जाना जाता है, जो विशिष्ट स्थापत्य डिज़ाइन और बड़ी संख्या में छोटे खिड़कियों के कारण 'हवा का महल' के रूप में प्रसिद्ध है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Literature",
+    "question_en": "Who is a prominent Rajasthani poet known for his works in the Marwari dialect?",
+    "question_hi": "मरवाड़ी बोली में अपने कार्यों के लिए एक प्रमुख राजस्थानी कवि कौन है?",
+    "A_en": "Kavi Keshav", "A_hi": "कवि केशव",
+    "B_en": "Rajendra Prasad", "B_hi": "राजेंद्र प्रसाद",
+    "C_en": "Hariprasad Sharma", "C_hi": "हरिप्रसाद शर्मा",
+    "D_en": "Chandrashekhar Sharma", "D_hi": "चंद्रशेखर शर्मा",
+    "answer": "A",
+    "explanation_en": "Kavi Keshav is a celebrated Rajasthani poet known for his contributions to Marwari literature and poetry.",
+    "explanation_hi": "कवि केशव राजस्थानी कवि हैं, जिन्हें मरवाड़ी साहित्य और कविता में उनके योगदान के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "Which dish is considered the staple food in Rajasthani cuisine?",
+    "question_hi": "राजस्थानी खाना पकाने की विधा में कौन-सा व्यंजन मुख्य भोजन के रूप में माना जाता है?",
+    "A_en": "Dal Baati Churma", "A_hi": "दाल बाती चूरमा",
+    "B_en": "Poha", "B_hi": "पोहा",
+    "C_en": "Idli Dosa", "C_hi": "इडली डोसा",
+    "D_en": "Biryani", "D_hi": "बिरयानी",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a traditional and staple dish in Rajasthani cuisine, especially in rural areas.",
+    "explanation_hi": "दाल बाती चूरमा राजस्थानी खाना पकाने की विधा में एक परंपरागत और मुख्य भोजन है, विशेष रूप से ग्रामीण क्षेत्रों में।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Attire",
+    "question_en": "What is the traditional dress of Rajasthani women?",
+    "question_hi": "राजस्थानी महिलाओं का परंपरागत पहनावा क्या है?",
+    "A_en": "Saree", "A_hi": "साड़ी",
+    "B_en": "Chaniya Choli", "B_hi": "चानिया चोली",
+    "C_en": "Ghagra and Choli", "C_hi": "घगरा और चोली",
+    "D_en": "Salwar Kameez", "D_hi": "सलवार कमीज़",
+    "answer": "C",
+    "explanation_en": "Ghagra and Choli are traditional Rajasthani attire for women, often worn with intricate jewelry.",
+    "explanation_hi": "घगरा और चोली राजस्थानी महिलाओं के परंपरागत पहनावा है, जिसे जटिल जेवर के साथ पहना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Historical Figures",
+    "question_en": "Who founded the city of Jaipur in the 18th century?",
+    "question_hi": "18वीं शताब्दी में शहर जयपुर की स्थापना किसने की थी?",
+    "A_en": "Maharaja Sawai Jai Singh II", "A_hi": "महाराजा सवाई जय सिंह द्वितीय",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Raja Man Singh", "C_hi": "राजा मान सिंह",
+    "D_en": "Maharaja Jaswant Singh", "D_hi": "महाराजा जसवंत सिंह",
+    "answer": "A",
+    "explanation_en": "Maharaja Sawai Jai Singh II founded Jaipur in 1727 and designed it as a modern city with a grid pattern.",
+    "explanation_hi": "महाराजा सवाई जय सिंह द्वितीय ने 1727 में जयपुर की स्थापना की और इसे एक आधुनिक शहर के रूप में डिज़ाइ
