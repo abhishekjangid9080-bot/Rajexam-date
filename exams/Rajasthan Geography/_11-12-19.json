@@ -1,0 +1,150 @@
+<think>
+Okay, let's start by understanding the user's request. They need 10 high-quality MCQs on Rajasthan Geography for various exams like LDC, CET, RAS, SSC, and Railway NTPC. The questions should follow the Testbook style with Hindi and English options, and the JSON structure as specified.
+
+First, I need to cover important topics within Rajasthan Geography. Topics like rivers, climate, industries, historical sites, and administrative divisions are essential. Let me brainstorm some key areas: Thar Desert, Aravalli Range, rivers (Chambal, Luni), lakes (Pushkar, Pichola), minerals, famous cities, and geographical features.
+
+Next, I'll ensure each question is in both languages. For example, a question about the capital is straightforward, but others need careful translation. I must check that the options are accurate and not confusing. For example, the longest river in Rajasthan is Chambal, but some might think of Luni. Also, the highest peak is Guru Shikhar in the Aravallis. 
+
+I need to verify facts to avoid errors. For instance, the correct answer for the largest district by area is Jaisalmer. The highest waterfall in Rajasthan is Jog Maya Devi. Also, the famous marble city is Makrana. 
+
+I should balance the difficulty level, including some factual questions and others that require knowledge of specific data. Each explanation must clearly justify the correct answer. For example, Chambal's length compared to other rivers. 
+
+Now, structuring the JSON correctly is crucial. Each question must have the subject, topic, question in English and Hindi, four options in both languages, the correct answer, and explanations in both languages. I'll make sure the answer labels (A, B, C, D) are correct and that the explanations are concise and accurate.
+
+Finally, review all 10 questions to ensure they cover a range of topics and are free from errors. Check for any repetition and ensure the difficulty is consistent with Rajasthan-specific exams. Once satisfied, format the JSON without any additional text or formatting as per the user's instructions.
+</think>
+
+```json
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers and Lakes",
+        "question_en": "Which river flows through the Thar Desert in Rajasthan?",
+        "question_hi": "राजस्थान में थार मरुभूमि से होकर गुजरने वाली नदी निम्नलिखित में से कौन-सी है?",
+        "A_en": "Chambal", "A_hi": "चम्बल",
+        "B_en": "Luni", "B_hi": "लूणी",
+        "C_en": "Narmada", "C_hi": "नर्मदा",
+        "D_en": "Sutlej", "D_hi": "सतलज",
+        "answer": "B",
+        "explanation_en": "The Luni River is the only river that flows through the Thar Desert in Rajasthan.",
+        "explanation_hi": "लूणी नदी राजस्थान में थार मरुभूमि से होकर गुजरने वाली एकमात्र नदी है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Mountains",
+        "question_en": "Where is the highest peak of the Aravalli Range located in Rajasthan?",
+        "question_hi": "राजस्थान में अरावली पर्वतमाला की सबसे ऊँची चोटी कहाँ स्थित है?",
+        "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+        "B_en": "Guru Shikhar", "B_hi": "गुरु शिखर",
+        "C_en": "Kumbhalgarh", "C_hi": "कुम्भलगढ़",
+        "D_en": "Sariska", "D_hi": "सरिस्का",
+        "answer": "B",
+        "explanation_en": "Guru Shikhar is the highest peak of the Aravalli Range in Rajasthan.",
+        "explanation_hi": "गुरु शिखर राजस्थान में अरावली पर्वतमाला की सबसे ऊँची चोटी है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Climate",
+        "question_en": "Which region of Rajasthan is known as the 'Land of Hot Winds'?",
+        "question_hi": "राजस्थान के किस क्षेत्र को 'गर्म हवा की भूमि' के रूप में जाना जाता है?",
+        "A_en": "Marwar", "A_hi": "मारवाड़",
+        "B_en": "Sahariya", "B_hi": "सहारिया",
+        "C_en": "Mewar", "C_hi": "मेवाड़",
+        "D_en": "Shekhawati", "D_hi": "शेखावाटी",
+        "answer": "A",
+        "explanation_en": "Marwar region is known for its hot and dry climate with frequent hot winds.",
+        "explanation_hi": "मारवाड़ क्षेत्र लगातार गर्म और सूखे जलवायु के कारण 'गर्म हवा की भूमि' के रूप में जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Deserts",
+        "question_en": "Which district of Rajasthan is entirely covered by the Thar Desert?",
+        "question_hi": "राजस्थान का कौन-सा जिला पूरी तरह से थार मरुभूमि से ढका है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Barmer", "B_hi": "बाड़मेर",
+        "C_en": "Churu", "C_hi": "चूरू",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "A",
+        "explanation_en": "Jaisalmer district is entirely covered by the Thar Desert and is the driest region of Rajasthan.",
+        "explanation_hi": "जैसलमेर जिला पूरी तरह से थार मरुभूमि से ढका हुआ है और राजस्थान का सबसे सूखा क्षेत्र है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Lakes",
+        "question_en": "Which lake in Rajasthan is known as the 'Rajat Sarovar' (Silver Lake)?",
+        "question_hi": "राजस्थान में कौन-सी झील 'रजत सरोवर' (चांदी का तालाब) के नाम से जानी जाती है?",
+        "A_en": "Pichola", "A_hi": "पिचोला",
+        "B_en": "Dudh Talai", "B_hi": "दूध तालाई",
+        "C_en": "Jaisamand", "C_hi": "जैसमंद",
+        "D_en": "Dhankar", "D_hi": "धंकर",
+        "answer": "B",
+        "explanation_en": "Dudh Talai is known as the 'Silver Lake' due to its silvery-white appearance.",
+        "explanation_hi": "दूध तालाई को उसके चांदी के रंग के कारण 'रजत सरोवर' के नाम से जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Industries",
+        "question_en": "Which district of Rajasthan is famous for marble production?",
+        "question_hi": "राजस्थान के किस जिला में संगमरमर के उत्पादन के लिए प्रसिद्धि है?",
+        "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+        "B_en": "Makrana", "B_hi": "मकराना",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Kota", "D_hi": "कोटा",
+        "answer": "B",
+        "explanation_en": "Makrana is renowned for its high-quality white marble used in the Taj Mahal.",
+        "explanation_hi": "मकराना ताजमहल में उपयोग किए गए उच्च गुणवत्ता वाले सफेद संगमरमर के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Historical Sites",
+        "question_en": "Which fort in Rajasthan is known as the 'Fort of the Sun'?",
+        "question_hi": "राजस्थान में कौन-सा किला 'सूर्य का किला' के नाम से जाना जाता है?",
+        "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+        "B_en": "Amber Fort", "B_hi": "अंबर किला",
+        "C_en": "Mehrangarh Fort", "C_hi": "मेहरंगढ़ किला",
+        "D_en": "Gangron Fort", "D_hi": "गंगरोन किला",
+        "answer": "D",
+        "explanation_en": "Gangron Fort is known as the 'Fort of the Sun' due to its unique architectural design.",
+        "explanation_hi": "गंगरोन किला अपनी विशिष्ट आर्किटेक्चर डिज़ाइन के कारण 'सूर्य का किला' के नाम से जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Wildlife",
+        "question_en": "Which national park in Rajasthan is home to the rare blackbuck?",
+        "question_hi": "राजस्थान का कौन-सा राष्ट्रीय उद्यान दुर्लभ कृष्ण गैड़ के पालन के लिए प्रसिद्ध है?",
+        "A_en": "Ranthambore National Park", "A_hi": "रणथंबोर राष्ट्रीय उद्यान",
+        "B_en": "Keoladeo National Park", "B_hi": "केवलादेव राष्ट्रीय उद्यान",
+        "C_en": "Sariska National Park", "C_hi": "सरिस्का राष्ट्रीय उद्यान",
+        "D_en": "Guru Ghasidas National Park", "D_hi": "गुरु घसीदास राष्ट्रीय उद्यान",
+        "answer": "A",
+        "explanation_en": "Ranthambore National Park is known for its blackbuck population and other wildlife.",
+        "explanation_hi": "रणथंबोर राष्ट्रीय उद्यान कृष्ण गैड़ और अन्य जीवधारियों के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Largest and Smallest",
+        "question_en": "Which district of Rajasthan is the largest in terms of area?",
+        "question_hi": "राजस्थान में क्षेत्रफल के अनुसार सबसे बड़ा जिला कौन-सा है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Barmer", "B_hi": "बाड़मेर",
+        "C_en": "Churu", "C_hi": "चूरू",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "A",
+        "explanation_en": "Jaisalmer is the largest district in Rajasthan by area, covering over 73,000 square kilometers.",
+        "explanation_hi": "जैसलमेर राजस्थान में क्षेत्रफल के अनुसार सबसे बड़ा जिला है, जो लगभग 73,000 वर्ग किलोमीटर व्यापक है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Waterfalls",
+        "question_en": "Which is the highest waterfall in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे ऊँचा जलप्रपात कौन-सा है?",
+        "A_en": "Jog Maya Devi Falls", "A_hi": "जोग माया देवी जलप्रपात",
+        "B_en": "Dudh Falls", "B_hi": "दूध जलप्रपात",
+        "C_en": "Bari Falls", "C_hi": "बाड़ी जलप्रपात",
+        "D_en": "Harshat Alakananda Falls", "D_hi": "हर्षत अलकनंदा जलप्रपात",
+        "answer": "A",
+        "explanation_en": "Jog Maya Devi Falls in Udaipur is the highest waterfall in Rajasthan.",
+        "explanation_hi": "उदयपुर में जोग माया देवी जलप्रपात राजस्थान का सबसे ऊँचा जलप्रपात है।"
+    }
+]
+```
