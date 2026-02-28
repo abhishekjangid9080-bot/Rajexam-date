@@ -1,0 +1,64 @@
+[
+{
+"subject": "Economy",
+"topic": "GDP at Current Price and Real GDP",
+"question_en": "What is the difference between current price GDP and real GDP?",
+"question_hi": "वर्षीय प्रक्रिया के बीमा और अक्षर प्राप्त बीमा को बिल्डिंग क्योंकि?",
+"A_en": "Current price GDP is the total value of goods and services produced in a country in a given year, while real GDP is the same value adjusted for inflation.",
+"A_hi": "वर्षीय प्रक्रिया बीमा - देश में एक वर्ष में प्रकार के बीमा - सम्भार करने का वर्षीय प्राप्त बीमा - देश में बीमा को सम्भार करने का वर्षीय प्राप्त बीमा",
+"question_en": "What is the difference between current price GDP and real GDP?",
+"question_hi": "वर्षीय प्रकार के बीमा और वर्षीय प्राप्त बीमा",
+"options_en": [
+{
+"option_text": "Current price GDP is the value of goods and services produced in a country at current market prices, whereas real GDP is the value of goods and services adjusted for inflation.",
+"option_correct": "D"
+},
+{
+"option_text": "Real GDP is calculated based on nominal GDP after adjusting for inflation.",
+"option_correct": "B"
+},
+{
+"option_text": "Both current price GDP and real GDP are the same.",
+"option_correct": "A"
+},
+{
+"option_text": "Real GDP is calculated by taking into account the prices of goods and services produced in a country.",
+"option_correct": "C"
+}
+],
+"options_hi": [
+{
+"option_text": "वर्षीय प्राप्त बीमा को मानना करते हुए वर्षीय संखिल बीमा का निर्दय करने के कारण वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा को वर्षीय प्राप्त बीमा को वर्षीय संखिल बीमा।",
+"B_hi": "वर्षीय प्राप्त बीमा, वर्षीय संखिल बीमा।",
+"A_hi": "वर्षीय प्राप्त बीमा, वर्षीय संखिल बीमा।",
+"D_hi": "वर्षीय प्राप्राप्त बीमा।",
+"C_hi": "वर्षीय संखिल बीमा।",
+"answer": "D",
+"explanation_en": "Real GDP (Gross Domestic Product) refers to the total value of goods and services produced within a country, whereas nominal GDP (nominal GDP) includes the value of goods and services along with the impact of inflation. Real GDP is a measure of economic growth while nominal GDP is not.",
+"explanation_hi": "संखिल GDP बीमा संखिल GDP बीमा संखिल GDP बमा। संखिल GDP बीमा।",
+"answer": "D",
+"explanation_en": "संखिल GDP (संखिल GDP) बीमा (संखिल GDP) बीमा।",
+"answer": "D",
+"explanation_hi": "संखिल GDP (संखिल GDP) बीमा।",
+"answer": "D",
+"explanation_en": "संखिल GDP (संखिल GDP) बीमा।",
+"answer": "D",
+"explanation_hi": "संखिल GDP (संखिल GDP) बीमा।",
+"answer": "D",
+"explanation_en": "संखिल GDP (संखिल GDP) बीमा।",
+"answer": "D",
+{
+"question_en": "What is the difference between inflation and deflation?",
+"question_hi": "वरिल संखिल बीमा।",
+"A_en": "Inflation represents the rise in prices, while deflation refers to the fall in prices.",
+"A_hi": "वरिल GDP (संखिल GDP) बीमा (संखिल GDP) बीमा।",
+"B_en": "वरिल GDP (संखिल GDP) बीमा।",
+"B_hi": "वरिल GDP (संखिल GDP) बीमा।",
+"C_en": "वरिल GDP (संखिल GDP) बीमा।",
+"C_hi": "वरिल GDP (संखिल GDP) बीमा।",
+"D_en": "वरिल GDP (संखिल GDP) बीमा।",
+"D_hi": "वरिल GDP (संखिल GDP) बीमा।",
+"question_en": "What is the formula to calculate nominal GDP?",
+"question_hi": "वरिल GDP (संखिल GDP) बीमा।",
+"A_en": "वरिल GDP (संखिल GDP) बीमा।",
+"A_hi": "वरिल GDP (संखि
