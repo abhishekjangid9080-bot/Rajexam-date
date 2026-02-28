@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture, targeting exams like LDC, CET, RAS, SSC, and Railway NTPC. Let's start by brainstorming topics within Rajasthan Culture. Folk music, dance, festivals, historical monuments, traditional attire, dialects, cuisine, and famous personalities come to mind.
+
+First question could be about folk music. Rajasthan is known for its folk songs like Ghoomar, Kalbeliya, and Manganiyar. So a question on which folk song is associated with a specific dance form. Answer would be Ghoomar with Kalbeliya dance. Wait, no, Kalbeliya is a dance, and Ghoomar is a song. Maybe a better question is about the female dance form that is famous. Kalbeliya is a male dance, but Ghoomar is performed by women. So the question could be: Which traditional dance is performed by women in Rajasthan? Answer: Ghoomar.
+
+Second question: Famous festivals. Gangaur is a major festival for women, dedicated to Goddess Gauri. So a question about the festival celebrated in honor of Gauri. Answer: Gangaur.
+
+Third question: Folk instruments. Rajasthan has instruments like Dholak, Flute, Sarangi, and Bansuri. Maybe a question on which instrument is used in folk music. Dholak is commonly used in folk music. So answer: Dholak.
+
+Fourth question: Traditional attire. Men wear Kurta-Pagdi, Angarkha, or Bandhani. Women wear Ghagra-Choli with Odhani. A question on traditional men's garments could be Angarkha, which is a traditional dress.
+
+Fifth question: Cuisine. Rajasthan is known for Dal Bati Churma. So a question on the traditional dish. Answer: Dal Bati Churma.
+
+Sixth question: Folk art forms. Puppets, Warli painting, and Garba are other forms. But Rajasthan's specific is Kathputli (string puppets). So a question on folk art form associated with Rajasthan. Answer: Kathputli.
+
+Seventh question: Historical monuments. Hawa Mahal, Mehrangarh Fort, Umaid Bhawan. A question on which is a symbol of Jaipur. Answer: Hawa Mahal.
+
+Eighth question: Famous personalities. Mirza Ghalib is not from Rajasthan. So a multiple-choice question where the correct answer is someone like Prithviraj Chauhan, a Rajput king.
+
+Ninth question: Folk tales. Pabuji Ki Phad is a traditional scroll painting depicting the life of Pabuji, a folk deity. So a question on the art form associated with Pabuji's story. Answer: Phad painting.
+
+Tenth question: Dialects. Rajasthan has languages like Marwari, Mewari, and Bhilodi. A question on the primary dialect. Marwari is the main one.
+
+Now, structure each question in Hindi and English with options, ensuring the difficulty level is appropriate for state and central exams. Check for clarity and correct explanations. Make sure the JSON format is followed strictly without any markdown or extra text.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Music and Dance",
+        "question_en": "Which traditional dance is performed by women in Rajasthan?",
+        "question_hi": "राजस्थान में महिलाएँ किस पारंपरिक नृत्य के रूप में नृत्य करती हैं?",
+        "A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Chakri", "C_hi": "चक्री",
+        "D_en": "Bhangra", "D_hi": "भंगड़ा",
+        "answer": "B",
+        "explanation_en": "Ghoomar is a traditional dance of Rajasthan, performed by women to celebrate festivals like Gangaur.",
+        "explanation_hi": "घूमर राजस्थान का पारंपरिक नृत्य है जिसे महिलाएं गंगौर जैसे त्योहारों के अवसर पर नृत्य करती हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which festival in Rajasthan is dedicated to Goddess Gauri?",
+        "question_hi": "राजस्थान में महिलाओं द्वारा गौरी देवी के सम्मान में कौन-सा त्योहार मनाया जाता है?",
+        "A_en": "Gangaur", "A_hi": "गंगौर",
+        "B_en": "Diwali", "B_hi": "दिवाली",
+        "C_en": "Holi", "C_hi": "होली",
+        "D_en": "Navratri", "D_hi": "नवरात्रि",
+        "answer": "A",
+        "explanation_en": "Gangaur is a Rajasthani festival dedicated to Goddess Gauri, celebrated mainly by women.",
+        "explanation_hi": "गंगौर एक राजस्थानी त्योहार है जिसे मुख्य रूप से गौरी देवी के सम्मान में महिलाएं मनाती हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Instruments",
+        "question_en": "Which instrument is commonly used in Rajasthani folk music?",
+        "question_hi": "राजस्थानी लोक गीतों में कौन-सा वाद्य यंत्र सामान्य रूप से उपयोग किया जाता है?",
+        "A_en": "Sitar", "A_hi": "सितार",
+        "B_en": "Dholak", "B_hi": "ढोलक",
+        "C_en": "Veena", "C_hi": "वीणा",
+        "D_en": "Flute", "D_hi": "बाँसुरी",
+        "answer": "B",
+        "explanation_en": "Dholak is a traditional percussion instrument used in Rajasthani folk music.",
+        "explanation_hi": "ढोलक एक पारंपरिक थरथराहट वाला वाद्य यंत्र है जिसका उपयोग राजस्थानी लोक गीतों में किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "What is the traditional men's garment in Rajasthan?",
+        "question_hi": "राजस्थान में पुरुषों की पारंपरिक पोशाक क्या है?",
+        "A_en": "Sherwani", "A_hi": "शेरवानी",
+        "B_en": "Angarkha", "B_hi": "अंगारखा",
+        "C_en": "Dhoti", "C_hi": "ढोती",
+        "D_en": "Churidar", "D_hi": "चुरीदार",
+        "answer": "B",
+        "explanation_en": "Angarkha is a traditional Rajasthani garment for men, often worn during festivals.",
+        "explanation_hi": "अंगारखा राजस्थान में पुरुषों की पारंपरिक पोशाक है जिसे त्योहारों के दौरान पहना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which dish is a signature of Rajasthani cuisine?",
+        "question_hi": "राजस्थानी खाने की कौन-सी डिश एक प्रतीक है?",
+        "A_en": "Dal Bati Churma", "A_hi": "दाल बाती चूरमा",
+        "B_en": "Biryani", "B_hi": "बिरयानी",
+        "C_en": "Pani Puri", "C_hi": "पानी पुरी",
+        "D_en": "Samosa", "D_hi": "समोसा",
+        "answer": "A",
+        "explanation_en": "Dal Bati Churma is a staple dish in Rajasthani cuisine, representing the region's culinary heritage.",
+        "explanation_hi": "दाल बाती चूरमा राजस्थानी खाने की एक मुख्य डिश है जो इस क्षेत्र के खाने की विरासत को दर्शाती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Art",
+        "question_en": "Which folk art form is associated with storytelling in Rajasthan?",
+        "question_hi": "राजस्थान में कथा-वर्णन से जुड़ी लोक कला रूप कौन-सा है?",
+        "A_en": "Kathputli", "A_hi": "कथपुतली",
+        "B_en": "Phad", "B_hi": "फाड़",
+        "C_en": "Miniature Painting", "C_hi": "मिनीएचर चित्रकला",
+        "D_en": "Warli", "D_hi": "वारली",
+        "answer": "A",
+        "explanation_en": "Kathputli (string puppetry) is a traditional Rajasthani art form used for storytelling.",
+        "explanation_hi": "कथपुतली (तार गुड़िया) राजस्थान की एक पारंपरिक कला रूप है जिसका उपयोग कथा-वर्णन में किया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Monuments",
+        "question_en": "Which monument in Jaipur is known as the 'Palace of Winds'?",
+        "question_hi": "जयपुर में मनहरने वाली हवा के महल के रूप में कौन-सा महल प्रसिद्ध है?",
+        "A_en": "Hawa Mahal", "A_hi": "हवा महल",
+        "B_en": "Amber Fort", "B_hi": "अंबर किला",
+        "C_en": "City Palace", "C_hi": "शहर का महल",
+        "D_en": "Jantar Mantar", "D_hi": "जंतर मंतर",
+        "answer": "A",
+        "explanation_en": "Hawa Mahal in Jaipur is famous as the 'Palace of Winds' for its unique architecture.",
+        "explanation_hi": "जयपुर का हवा महल अपनी विशेष वास्तुकला के कारण 'मनहरने वाली हवा के महल' के रूप में प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Famous Personalities",
+        "question_en": "Who is the legendary Rajput king associated with Rajasthan?",
+        "question_hi": "राजस्थान से जुड़े प्रसिद्ध राजपूत राजा कौन हैं?",
+        "A_en": "Chandragupta Maurya", "A_hi": "चंद्रगुप्त मौर्य",
+        "B_en": "Prithviraj Chauhan", "B_hi": "प्रताप सिंह चौहान",
+        "C_en": "Rana Pratap Singh", "C_hi": "राणा प्रताप सिंह",
+        "D_en": "Maharana Mewar", "D_hi": "महाराणा मेवाड़",
+        "answer": "C",
+        "explanation_en": "Rana Pratap Singh is a revered Rajput king of Rajasthan known for his valor.",
+        "explanation_hi": "राणा प्रताप सिंह राजस्थान के एक सम्मानित राजपूत राजा हैं जिन्हें शौर्य के लिए जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Tales",
+        "question_en": "Which painting style depicts the life of the folk deity Pabuji?",
+        "question_hi": "किस पेंटिंग शैली में लोक देवता पबुजी के जीवन का चित्रण किया गया है?",
+        "A_en": "Mandana", "A_hi": "मंदना",
+        "B_en": "Phad", "B_hi": "फाड़",
+        "C_en": "Miniature", "C_hi": "मिनीएचर",
+        "D_en": "Warli", "D_hi": "वारली",
+        "answer": "B",
+        "explanation_en": "Phad painting is a traditional Rajasthani art form that narrates the tales of Pabuji.",
+        "explanation_hi": "फाड़ चित्रकला राजस्थान की एक पारंपरिक कला रूप है जो पबुजी के कथाओं को चित्रित करती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Languages and Dialects",
+        "question_en": "Which dialect is predominantly spoken in the Marwar region of Rajasthan?",
+        "question_hi": "राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से किस बोली के उपयोग की जाती है?",
+        "A_en": "Mewari", "A_hi": "मेवाड़ी",
+        "B_en": "Marwari", "B_hi": "मारवाड़ी",
+        "C_en": "Bhilodi", "C_hi": "भीलोड़ी",
+        "D_en": "Hadoti", "D_hi": "हड़ती",
+        "answer": "B",
+        "explanation_en": "Marwari is the predominant dialect spoken in the Marwar region of Rajasthan.",
+        "explanation_hi": "मारवाड़ी राजस्थान के मारवाड़ क्षेत्र में मुख्य रूप से बोली जाने वाली बोली है।"
+    }
+]
