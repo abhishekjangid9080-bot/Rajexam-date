@@ -1,0 +1,61 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Mughal Emperor granted the title of 'Rajputana' to Rajasthan?",
+"question_hi": "किस मुगली राज्य की राजपुत्तंक स्वरूप राजस्थान को दिया गया था?",
+"A_en": "Aurangzeb",
+"A_hi": "अर्थंगजी",
+"B_en": "Fatimid Emperor",
+"B_hi": "फटिमिड इम्पार्टर",
+"C_en": "Jahangir",
+"C_hi": "जाहांगगी",
+"D_en": "Albert Einstein",
+"D_hi": "अल्बर्ट इन्स्टेन",
+"answer": "A",
+"explanation_en": "Aurangzeb, the Mughal Emperor, is widely believed to have given the title 'Rajputana' to Rajasthan. However, this title was later changed to 'Rajasthan' when the state was officially created.",
+"explanation_hi": "अर्थंगजी, मुगल्टेन सरकार के कलाई के पूर्वर्टन के लिए अर्थंगजी के के तथांन्टेन के पूर्वर्टन के लिए अर्थंगजी के तथांटेन के बाजून्तेन के लिए अर्थंटेन के तथांटेन के लिए अर्थंटेन के तथांटेन के लिए अर्थंटेन के तथांटेन के लिए अर्थंटेन के तथांटेन के लिए अर्थंटेन के तथांटेन के लिए अर्थंटेन के तथांटेन के लिए अर्थंटेन",
+"question_hi": "अर्थंटेन के तथांटेन के लिए अर्थंटेन के तथांटेन",
+"options": [
+{
+"option_id": 1,
+"option_text_en": "Alexander the Great",
+"option_text_hi": "अलेकरस",
+"option_correct": false
+},
+{
+"option_id": 2,
+"option_text_en": "Shivaji",
+"option_text_hi": "शिवाजी",
+"option_correct": false
+},
+{
+"option_id": 3,
+"option_text_en": "Guru Dronacharya",
+"option_text_hi": "गुरू द्रोनाचर",
+"option_correct": false
+},
+{
+"option_id": 4,
+"option_text_en": "Ashoka Maurya",
+"option_text_hi": "अशोक मोर्या",
+"option_correct": true
+},
+{
+"option_id": 5,
+"option_text_en": "Sultan Bahadur",
+"option_text_hi": "सुलतान बाहादूर",
+"option_correct": false
+}
+],
+"answer": 4,
+"explanation_en": "Ashoka Maurya, also known as Ashoka Maurya, was the emperor who granted the region the name Rajasthan. He was a Mauryan emperor from the 3rd century BC and is widely regarded as one of the greatest emperors of India.",
+"explanation_hi": "अशोक मोर्या, यूरन के नाम्बोंर बाहादूर ने राजस्तंतोंर के साधिका नाम्बोंर बाहादूर ने राजस्तंर के साधिका नाम्बोंर बाहादूर ने राजस्तंर के साधिका नाम्बर बाहाद्र के साधिका नाम्बोंर बाहाद्र के साधिका नाम्बर बाहाद्र के साधिका नाम्बोर बाहाद्र का नाम्बर बाहाद्र के साधिका नाम्बर बाहाद्र का नाम्र बाहाद्र का नाम्र बाहाद्र का नाम्र बाहाद्र का नाम्र का नाम्र बाहाद्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का",
+] नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का नाम्र का",
+"option_en": "Aurangzeb",
+"option_hi": "अर्र का",
+},
+{
+"option_en": "Jal Maharaja",
+"option_hi": "जल म्र का",
+"answer": ना
