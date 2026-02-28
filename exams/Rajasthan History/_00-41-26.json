@@ -1,0 +1,137 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English with explanations in both languages, following the Testbook style. The output must be strict JSON format as per the given example.
+
+First, I need to recall key topics in Rajasthan History. Important areas could be ancient kingdoms, Mughal period, Maratha influence, British colonial era, significant rulers like Maharana Pratap, historical events like the Battle of Haldighati, and cultural heritage. Each of these can be a basis for questions.
+
+For each question, I need to ensure that the correct answer is clear and the distractors are plausible but incorrect. For example, when asking about the first ruler of Mewar, mentioning other rulers from different regions or periods would be good distractors. Also, checking the difficulty level to match Rajasthan's exam standards—maybe some questions on more obscure facts but still within common knowledge for exam takers.
+
+I should start drafting questions one by one. Let me think of the first question on the founder of the Mewar kingdom. Kumbha is a key figure here, so that's a good start. Then, the Battle of Haldighati involves Maharana Pratap and Rana Sanga. Next, the capital of Mewar is Chittorgarh. The capital of Marwar is Jodhpur. The founder of Udaipur is Udai Singh II. The ruler who defeated the Mughals at the Battle of Chappar Chiri is Prithviraj Chauhan, but I need to confirm the correct answer here. Wait, Chappar Chiri was in 1327, and the ruler who defeated the Tughlaqs there was Rana Hamir Dev. Maybe I should double-check that. 
+
+Another question could be about the author of the epic "Prithviraj Raso," which is Chand Bardai. The first English school in Rajasthan was established by Sir Stewart. The last ruler of the Maurya dynasty in Rajasthan might be a trick question since Mauryas were a Pan-Indian dynasty, but in Rajasthan, maybe a local ruler. Alternatively, maybe the question refers to the Maurya dynasty's influence. Wait, the Maurya dynasty was centered in Magadha. Rajasthan's early history has different dynasties like the Guptas later. Maybe the question is about the ruler who defeated the Mughals, like Maharana Pratap. 
+
+Wait, I need to ensure accuracy. For example, the correct answer for the first question about the founder of Mewar is Kumbha, right? No, the Mewar kingdom's founder is usually considered to be Bappa Rawal. Kumbha might be a later ruler. I need to verify this. Bappa Rawal is the founder, and Kumbha is a later king known for Chittorgarh fort. So the first question's correct answer should be A: Bappa Rawal. Then the capital of Mewar is Chittorgarh. 
+
+Next, the ruler who defeated the Mughals at Chittorgarh in 1567 was Maharana Pratap's father, Rana Sanga? Wait, the siege of Chittorgarh in 1567 was by Akbar against Rana Sanga's descendants. The correct answer might be Rana Sanga, but he was defeated by Babur at Khanua. The siege of Chittorgarh in 1567 was under Akbar against Rana Udai Singh II. So the answer here could be Udai Singh II. Wait, this is getting complicated. Maybe a better question is about the ruler who died in the Battle of Haldighati, which is Maharana Pratap. 
+
+I need to be careful with historical facts. Let me structure each question step by step, ensuring the correct answer is accurate and distractors are from similar contexts. Also, explanations should clearly justify the correct answer. For example, in the question about the first ruler of Mewar, the explanation should mention Bappa Rawal establishing the kingdom. 
+
+Another point is to cover different periods and regions of Rajasthan. For example, Marwar (Jodhpur), Mewar (Chittorgarh), Merta, etc. Each question should test knowledge on different aspects. Let me proceed to create each question, check the facts, and ensure the JSON format is correct without any markdown.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Ancient Rulers",
+    "question_en": "Who is considered the founder of the Mewar kingdom?",
+    "question_hi": "मेवाड़ राज्य के संस्थापक कौन माने जाते हैं?",
+    "A_en": "Bappa Rawal", "A_hi": "बप्पा रावल",
+    "B_en": "Raj Singh", "B_hi": "राज सिंह",
+    "C_en": "Kumbha", "C_hi": "कुंभा",
+    "D_en": "Maharana Pratap", "D_hi": "महाराणा प्रताप",
+    "answer": "A",
+    "explanation_en": "Bappa Rawal is considered the founder of the Mewar kingdom, establishing it in the 8th century.",
+    "explanation_hi": "मेवाड़ राज्य के संस्थापक बप्पा रावल माने जाते हैं, जिन्होंने 8वीं शताब्दी में इसकी स्थापना की।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Medieval Battles",
+    "question_en": "Which ruler of Mewar died in the Battle of Haldighati?",
+    "question_hi": "मेवाड़ के किस शासक ने हल्दीघाटी के युद्ध में जान दी?",
+    "A_en": "Rana Sanga", "A_hi": "राणा संगा",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+    "D_en": "Udai Singh II", "D_hi": "उदय सिंह द्वितीय",
+    "answer": "B",
+    "explanation_en": "Maharana Pratap, the legendary ruler of Mewar, died in the Battle of Haldighati in 1576.",
+    "explanation_hi": "महाराणा प्रताप, मेवाड़ के प्रसिद्ध शासक, हल्दीघाटी के युद्ध में 1576 में शहीद हुए।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Capitals",
+    "question_en": "What was the capital of the Mewar kingdom during the 15th century?",
+    "question_hi": "15वीं शताब्दी में मेवाड़ राज्य की राजधानी क्या थी?",
+    "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Kumbhalgarh", "C_hi": "कुंभलगढ़",
+    "D_en": "Jalore", "D_hi": "जालोर",
+    "answer": "A",
+    "explanation_en": "Chittorgarh was the capital of the Mewar kingdom during the 15th century, known for its grand forts and palaces.",
+    "explanation_hi": "15वीं शताब्दी में मेवाड़ राज्य की राजधानी चित्तौड़गढ़ थी, जिसके महान दुर्ग और महल प्रसिद्ध हैं।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Regional Kingdoms",
+    "question_en": "Which ruler established the city of Jodhpur?",
+    "question_hi": "जोधपुर शहर की स्थापना किसने की थी?",
+    "A_en": "Meharban", "A_hi": "मेहरबान",
+    "B_en": "Rao Jodha", "B_hi": "राओ जोधा",
+    "C_en": "Ratan Singh", "C_hi": "रतन सिंह",
+    "D_en": "Prithviraj Chauhan", "D_hi": "प्रताप सिंह चौहान",
+    "answer": "B",
+    "explanation_en": "Rao Jodha founded Jodhpur in 1459 CE, naming it after himself and making it the capital of Marwar.",
+    "explanation_hi": "राओ जोधा ने 1459 ईस्वी में जोधपुर की स्थापना की, जिसके बाद इसे अपने नाम पर रखा गया और मारवाड़ की राजधानी बनाया गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Heritage",
+    "question_en": "Who composed the epic 'Prithviraj Raso', which glorifies the valor of Prithviraj Chauhan?",
+    "question_hi": "उस एपिक का नाम बताएं जो प्रताप सिंह चौहान की बलिदान की प्रशंसा करता है, जिसके रचयिता कौन हैं?",
+    "A_en": "Chand Bardai", "A_hi": "चंद बरदाई",
+    "B_en": "Kalhana", "B_hi": "कल्हण",
+    "C_en": "Bhaskar", "C_hi": "भास्कर",
+    "D_en": "Raj Singh", "D_hi": "राज सिंह",
+    "answer": "A",
+    "explanation_en": "Chand Bardai composed the 'Prithviraj Raso', celebrating the exploits of Prithviraj Chauhan in the 12th century.",
+    "explanation_hi": "चंद बरदाई ने 12वीं शताब्दी में 'प्रताप सिंह रासो' की रचना की, जिसमें प्रताप सिंह चौहान के कारनामों की प्रशंसा की गई है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Colonial Era",
+    "question_en": "Which British officer was responsible for the annexation of Rajasthan states during the 19th century?",
+    "question_hi": "19वीं शताब्दी में राजस्थान राज्यों के विलय के लिए कौन सा ब्रिटिश अधिकारी जिम्मेदार था?",
+    "A_en": "Lord Curzon", "A_hi": "लॉर्ड कर्जन",
+    "B_en": "Sir Stewart", "B_hi": "सर स्टीवर्ट",
+    "C_en": "Lord Dalhousie", "C_hi": "लॉर्ड डेलहौजी",
+    "D_en": "Lord Lytton", "D_hi": "लॉर्ड लिटन",
+    "answer": "C",
+    "explanation_en": "Lord Dalhousie, through the Doctrine of Lapse, annexed several Rajasthan princely states in the 19th century.",
+    "explanation_hi": "लॉर्ड डेलहौजी ने 19वीं शताब्दी में राजस्थान के कई रियासतों को अंग्रेजी शासन में विलय कर दिया था।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Archaeological Sites",
+    "question_en": "Where is the famous Dilwara Temple complex located?",
+    "question_hi": "प्रसिद्ध दिल्वाड़ा मंदिर समूह कहाँ स्थित है?",
+    "A_en": "Mount Abu", "A_hi": "गुरु शिखर",
+    "B_en": "Chittorgarh", "B_hi": "चित्तौड़गढ़",
+    "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+    "D_en": "Udaipur", "D_hi": "उदयपुर",
+    "answer": "A",
+    "explanation_en": "The Dilwara Temple complex, dedicated to Jain deities, is located in Mount Abu, Rajasthan.",
+    "explanation_hi": "जैन देवताओं को समर्पित दिल्वाड़ा मंदिर समूह राजस्थान के गुरु शिखर पर स्थित है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Figures",
+    "question_en": "Which ruler of Rajasthan is known as the 'Iron Man of Rajasthan'?",
+    "question_hi": "राजस्थान के किस शासक को 'राजस्थान का लोहे का आदमी' के नाम से जाना जाता है?",
+    "A_en": "Maharaja Sawai Jai Singh", "A_hi": "महाराजा सवाई जय सिंह",
+    "B_en": "Maharaja Man Singh I", "B_hi": "महाराजा मन सिंह प्रथम",
+    "C_en": "Raja Raja Singh", "C_hi": "राजा राजा सिंह",
+    "D_en": "Raja Bharmal", "D_hi": "राजा भरमल",
+    "answer": "B",
+    "explanation_en": "Maharaja Man Singh I of Amber (Jaipur) is revered as the 'Iron Man of Rajasthan' for his military and administrative reforms.",
+    "explanation_hi": "अंबर (जयपुर) के महाराजा मन सिंह प्रथम को 'राजस्थान का लोहे का आदमी' कहा जाता है उनके सैन्य एवं प्रशासनिक सुधारों के कारण।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Early Dynasties",
+    "question_en": "Which dynasty ruled over Marwar (Jodhpur) during the medieval period?",
+    "question_hi": "मध्यकालीन काल में मारवाड़ (जोधपुर) पर कौन सी राजवंश शासन करता था?",
+    "A_en": "Chauhan", "A_hi": "चौहान",
+    "B_en": "Kachwaha", "B_hi": "खचड़िया",
+    "C_en": "Shekhawat", "C_hi": "शेखावत",
+    "D_en": "Parmar", "D_hi": "परमार",
+    "answer": "C",
+    "explanation_en": "The Shekhawat dynasty, established by Rao Shekha, ruled over Marwar (Jodhpur) during the medieval period.",
+    "explanation_hi": "शेखावत राजवंश, जिसकी स
