@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a capital of a Rajasthan state?",
+"question_hi": "सभी इन प्रश्न में उपयोगी कामयाब है।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Bikaner", "C_hi": "बीकानेर",
+"D_en": "Alwar", "D_hi": "अलवर",
+"answer": "D",
+"explanation_en": "Alwar is not a capital of any Rajasthan state. The capitals are: Jodhpur, Udaipur, and Bikaner.",
+"explanation_hi": "आलवर राजस्थान के किस्मता है। किस्मता विभगत सिंह, मैंनी, और बीकानेर है।",
+}
+]
