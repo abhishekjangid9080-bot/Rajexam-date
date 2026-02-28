@@ -1,0 +1,24 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा प्रमुख कठ है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरणगरवाल",
+"B_en": "Kheerola Fort", "B_hi": "खीरोला कठ",
+"C_en": "Rajasthan Rural Development Academy", "C_hi": "राजस्थान रोगी विकास कामगाँव",
+"D_en": "Samode Haveli", "D_hi": "समोद हॉवेल",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort is a famous fort in Jodhpur, but the correct answer is Bheem Fort. Kheerola Fort is located in Bikaner, Rajasthan.",
+"explanation_hi": "मेरणगरवाल है जो जोधपुर में है। सचिवाल कहाँ है, राजस्थान में है।",
+"question_en": "Which famous fort is located in Bikaner, Rajasthan?",
+"question_hi": "राजस्थान में किस्मती देश क्या है?",
+"D_en": "Bheem Fort",
+"D_hi": "भेम देश",
+"C_en": "Samode Haveli",
+"C_hi": "समोद हॉवेल",
+"A_en": "Mehrangarh Fort",
+"A_hi": "मेरणगरवाल हॉवेल",
+"subject": "Rajasthan History",
+"topic": "Famous Forts and Palaces"
+}
