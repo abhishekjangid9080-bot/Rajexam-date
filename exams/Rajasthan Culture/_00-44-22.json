@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. Let's start by recalling important aspects of Rajasthan's culture. Topics could include festivals, folk music, dance, famous personalities, traditional attire, architecture, cuisine, and art forms.
+
+First question: Maybe about the traditional dress. Men wear angarakha and dhoti, women wear ghagra and choli. So a question on traditional attire.
+
+Second question: Folk music instruments. Sitar, sarangi, dholak, and pungi. Wait, Rajasthan's folk instruments include dholak, manjira, and sarangi. Maybe a question on that.
+
+Third topic: Festivals. Gangaur and Teej are major ones. A question on which festival celebrates the union of Lord Shiva and Parvati.
+
+Fourth: Folk dances like Ghoomar, Kalbeliya, and Chari. A question on which dance form is performed by women.
+
+Fifth: Architecture styles. Rajput architecture is prominent. A question on the style of Mehrangarh Fort.
+
+Sixth: Traditional art forms. Miniature painting, blue pottery, and tie-dye. A question on which is a traditional art form.
+
+Seventh: Cuisine. Dal Baati Churma is a staple. A question on the state dish.
+
+Eighth: Famous personalities. Rajasthani thumri singer Ghulam Ali. A question on a renowned singer.
+
+Ninth: Cattle fair, like Pushkar Camel Fair. A question on the famous cattle fair.
+
+Tenth: Folk tales. Pabuji Ki Phad is a famous painting. A question on the folk narrative art form.
+
+Now, structure each question in the required JSON format with both Hindi and English. Ensure options are in both languages. Check for accuracy and difficulty level suitable for Rajasthan State Exams. Make sure explanations are concise and correct.
+</think>
+
+[
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Folk Music",
+"question_en": "Which traditional instrument is primarily used in Rajasthani folk music?",
+"question_hi": "राजस्थानी लोक गायन में विशेष रूप से किस वाद्य यंत्र का उपयोग किया जाता है?",
+"A_en": "Sitar", "A_hi": "सितार",
+"B_en": "Dholak", "B_hi": "ढोलक",
+"C_en": "Sarangi", "C_hi": "सरंगी",
+"D_en": "Ghatis", "D_hi": "घाटी",
+"answer": "B",
+"explanation_en": "Dholak is a traditional percussion instrument in Rajasthan, commonly used in folk music.",
+"explanation_hi": "ढोलक राजस्थान का पारंपरिक ताल वाला वाद्य यंत्र है, जो लोक गानों में सामान्य रूप से उपयोग किया जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Festivals",
+"question_en": "Which festival in Rajasthan celebrates the union of Lord Shiva and Parvati?",
+"question_hi": "राजस्थान में कौन सा त्योहार शिव और पार्वती के संगम को मनाता है?",
+"A_en": "Teej", "A_hi": "तीज",
+"B_en": "Gangaur", "B_hi": "गंगाऊर",
+"C_en": "Kite Festival", "C_hi": "पतंगोत्सव",
+"D_en": "Makar Sankranti", "D_hi": "मकर संक्रांति",
+"answer": "B",
+"explanation_en": "Gangaur is a Rajasthani festival dedicated to Goddess Gauri (Parvati), celebrating her union with Lord Shiva.",
+"explanation_hi": "गंगाऊर राजस्थान का एक त्योहार है, जो देवी गौरी (पार्वती) के मार्मिक उपासना और शिव के संगम को मनाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Dance",
+"question_en": "Which Rajasthani dance form is performed by women to celebrate the arrival of spring?",
+"question_hi": "राजस्थान के किस नृत्य रूप का महिलाएं वसंत ऋतु के आगमन के उत्सव के रूप में प्रस्तुति करती हैं?",
+"A_en": "Kalbeliya", "A_hi": "कलबेलिया",
+"B_en": "Chore", "B_hi": "चरर",
+"C_en": "Ghoomar", "C_hi": "घूमर",
+"D_en": "Kathak", "D_hi": "कथक",
+"answer": "C",
+"explanation_en": "Ghoomar is a traditional folk dance from Rajasthan performed by women, usually during festivals and seasonal celebrations.",
+"explanation_hi": "घूमर राजस्थान का पारंपरिक लोक नृत्य है, जो त्योहारों और ऋतुयों के उत्सव में महिलाओं द्वारा प्रस्तुत किया जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Architecture",
+"question_en": "Which architectural style is prominently seen in the Mehrangarh Fort in Jodhpur?",
+"question_hi": "जोधपुर में महरांगढ़ किले में किस स्थापत्य शैली का आभास अधिकतर देखा जा रहा है?",
+"A_en": "Mughal", "A_hi": "मुग़ल",
+"B_en": "Rajputana", "B_hi": "राजपूताना",
+"C_en": "Gothic", "C_hi": "गोथिक",
+"D_en": "Dravidian", "D_hi": "द्रविड़",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort showcases Rajputana architecture with its massive walls and intricate carvings.",
+"explanation_hi": "महरांगढ़ किला राजपूताना स्थापत्य का उदाहरण है, जिसमें भारी दीवारों और जटिल खुदाई के आभास हैं।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Art",
+"question_en": "Which traditional art form of Rajasthan involves painting on cloth with natural dyes?",
+"question_hi": "राजस्थान के किस पारंपरिक कला रूप में प्राकृतिक रंगों के साथ कपड़े पर रंगाई की जाती है?",
+"A_en": "Miniature Painting", "A_hi": "मिनिएचर चित्रकला",
+"B_en": "Bandhani", "B_hi": "बांधनी",
+"C_en": "Blue Pottery", "C_hi": "नीले घर की चीजें",
+"D_en": "Pottery", "D_hi": "मिट्टी की चीजें",
+"answer": "B",
+"explanation_en": "Bandhani is a traditional Rajasthani art of tie-dyeing fabric with natural dyes.",
+"explanation_hi": "बांधनी राजस्थान की एक पारंपरिक कला है, जिसमें प्राकृतिक रंगों के साथ कपड़े पर बांधने और रंगने का उपयोग किया जाता है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Cuisine",
+"question_en": "What is the traditional staple dish of Rajasthan that includes wheat balls and lentils?",
+"question_hi": "राजस्थान का पारंपरिक आधार वाला व्यंजन क्या है जिसमें गेहूं के गोले और दाल शामिल हैं?",
+"A_en": "Gatte ki Sabzi", "A_hi": "गट्टे की सब्जी",
+"B_en": "Dal Baati Churma", "B_hi": "दाल बाती चूरमा",
+"C_en": "Pakora", "C_hi": "पकोड़ा",
+"D_en": "Kheer", "D_hi": "कीर",
+"answer": "B",
+"explanation_en": "Dal Baati Churma is a traditional Rajasthani dish consisting of lentils, wheat balls, and sweetened crumbled bread.",
+"explanation_hi": "दाल बाती चूरमा राजस्थान का पारंपरिक व्यंजन है, जिसमें दाल, गेहूं के गोले और मीठी चूरमा शामिल है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Folk Tales",
+"question_en": "Which traditional Rajasthani painting style depicts folk tales and epics in scroll form?",
+"question_hi": "राजस्थान की कौन सी पारंपरिक चित्रकला शैली लोक गाथाओं और महाकाव्यों को स्क्रॉल रूप में चित्रित करती है?",
+"A_en": "Phad", "A_hi": "फाड़",
+"B_en": "Miniature", "B_hi": "मिनिएचर",
+"C_en": "Blue Pottery", "C_hi": "नीले घर की चीजें",
+"D_en": "Warli", "D_hi": "वारली",
+"answer": "A",
+"explanation_en": "Phad is a traditional Rajasthani scroll painting that narrates folk tales and epics like the Pabuji ki Phad.",
+"explanation_hi": "फाड़ राजस्थान की पारंपरिक स्क्रॉल चित्रकला है, जो लोक गाथाओं और महाकाव्यों जैसे पबूजी की फाड़ को चित्रित करती है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Folk Singers",
+"question_en": "Who is a famous Rajasthani folk singer known for her contribution to the 'Thumri' genre?",
+"question_hi": "कौन राजस्थानी लोक गायिका है जिन्होंने 'ठुमरी' शैली में योगदान के लिए प्रसिद्धि प्राप्त की है?",
+"A_en": "Lata Mangeshkar", "A_hi": "लता मंगेशकर",
+"B_en": "Ghulam Ali", "B_hi": "गुलाम अली",
+"C_en": "Shankar Mahadev Alva", "C_hi": "शंकर महादेव आल्वा",
+"D_en": "Pandit Ravi Shankar", "D_hi": "पंडित रवि शंकर",
+"answer": "B",
+"explanation_en": "Ghulam Ali is a renowned Rajasthani folk singer celebrated for his contributions to the 'Thumri' genre.",
+"explanation_hi": "गुलाम अली एक प्रसिद्ध राजस्थानी लोक गायिका हैं, जिनका योगदान 'ठुमरी' शैली में सराहना जाती है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Cattle Fair",
+"question_en": "Which Indian city is famous for its annual camel fair that attracts tourists from around the world?",
+"question_hi": "कौन सा भारतीय शहर ऐसा है, जो दुनिया भर से पर्यटकों को आकर्षित करने वाले वार्षिक ऊंट की बाजार के लिए प्रसिद्ध है?",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Pushkar", "B_hi": "पुष्कर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Jodhpur", "D_hi": "जोधपुर",
+"answer": "B",
+"explanation_en": "Pushkar is famous for its annual camel fair, which is a significant cultural and tourism event.",
+"explanation_hi": "पुष्कर वार्षिक ऊंट की बाजार के लिए प्रसिद्ध है, जो एक महत्वपूर्ण सांस्कृतिक और पर्यटक आयोजन है।"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Rajasthan Traditional Attire",
+"question_en": "What is the traditional attire of Rajasthani women that includes a long skirt and bodice?",
+"question_hi": "राजस्थानी महिलाओं का पारंपरिक पहनावा क्या है, जिसमें लंबी साड़ी और बॉडीयस शामिल है?",
+"A_en": "Sari", "A_hi": "साड़ी",
+"B_en": "Chaniya Choli", "B_hi": "चानिया चोली",
+"C_en": "Ghagra Choli", "C_hi": "घगरा चोली",
+"D_en": "Lehenga", "D_hi": "लेहंगा",
+"answer": "C",
+"explanation_en": "Ghagra Choli is the traditional attire of Rajasthani women, consisting of a long skirt (ghagra) and a fitted blouse (choli).",
+"explanation_hi": "घगरा चोली राजस्थानी महिलाओं का पारंपरिक पहनावा है, जिसमें लंबी साड़ी (घगरा) और फिटिंग ब्लाउज (चोली) शामिल है।"
+}
+]
