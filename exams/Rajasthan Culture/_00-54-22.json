@@ -1,0 +1,142 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. The instructions specify that each question and options need to be in both Hindi and English, following the Testbook style. The output must be in a specific JSON format without any extra text.
+
+First, I need to recall key aspects of Rajasthan's culture. Topics could include folk music, dance, festivals, traditional attire, famous personalities, historical sites, art forms like Rajasthani Kathak, and famous foods. Also, important cities and their cultural significance, like Jaipur, Jodhpur, Udaipur, etc.
+
+I should ensure that each question is unique and covers different areas to test a range of knowledge. The difficulty level should be appropriate for these exams, not too trivial but not obscure either. For example, questions about the origin of a dance form or the main ingredients of a dish.
+
+Next, I need to structure each question according to the JSON format provided. Each entry should have subject, topic, question in both languages, options in both, the correct answer, and explanations in both languages. The answer options must be labeled A to D in both languages without mixing.
+
+I need to verify the accuracy of each question. For instance, confirming that Kalbeliya dance is indeed associated with Rajasthan and performed by the Kalbeliya community. Similarly, checking that Gangu Naach is a folk dance from Rajasthan, and that the colors used in Rajasthani attire are correct.
+
+Also, the explanations must be concise but informative. For example, explaining why a particular option is correct without going into too much detail. Ensuring that the translations are accurate and maintain the meaning in both Hindi and English.
+
+Potential pitfalls to avoid: duplicate questions, incorrect facts, mixing up similar dance forms or festivals, and making options too similar. Also, ensuring that the JSON structure is correct, with proper commas and brackets, to avoid syntax errors.
+
+Let me start drafting each question one by one. For the first question, maybe about the traditional dance of Rajasthan. Then a question on folk music instruments. Another on festivals, traditional clothing, famous foods, etc. Making sure each topic is distinct.
+
+After drafting, I'll review each question for clarity and correctness. Check that the options are plausible and the correct answer is unambiguous. Finally, format the JSON correctly, ensuring no markdown is used and the output is raw JSON as specified.
+</think>
+
+[
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Dance",
+  "question_en": "Which traditional dance form of Rajasthan is famously performed by the Kalbeliya community?",
+  "question_hi": "राजस्थान के कलबेलिया समुदाय द्वारा प्रसिद्ध रूप से कौन सा पारंपरिक नृत्य अदा किया जाता है?",
+  "A_en": "Gangu Naach", "A_hi": "गंगू नाच",
+  "B_en": "Kalbeliya", "B_hi": "कलबेलिया",
+  "C_en": "Chari Dance", "C_hi": "चारी नाच",
+  "D_en": "Ghoomar", "D_hi": "घूमर",
+  "answer": "B",
+  "explanation_en": "Kalbeliya is a traditional dance of Rajasthan, performed by the Kalbeliya community, often to the tune of pipe instruments like the been.",
+  "explanation_hi": "कलबेलिया राजस्थान का पारंपरिक नृत्य है, जिसे कलबेलिया समुदाय द्वारा पाईप वाद्य यंत्र जैसे बीन के साथ गाया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Music",
+  "question_en": "Which instrument is traditionally used in Rajasthani folk music to provide rhythmic base?",
+  "question_hi": "राजस्थानी लोक गायन में पारंपरिक रूप से कौन सा वाद्य यंत्र ताल की आवश्यकता पूरी करता है?",
+  "A_en": "Dholak", "A_hi": "ढोलक",
+  "B_en": "Mandolin", "B_hi": "मैंडोलिन",
+  "C_en": "Sitar", "C_hi": "सितार",
+  "D_en": "Harmonium", "D_hi": "हारमोनियम",
+  "answer": "A",
+  "explanation_en": "Dholak is a traditional drum used in Rajasthani folk music to maintain rhythm during performances.",
+  "explanation_hi": "ढोलक राजस्थानी लोक संगीत में नृत्य और गायन के दौरान ताल बनाए रखने के लिए प्रयोग किए जाने वाले पारंपरिक ड्रम हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Festivals",
+  "question_en": "Which festival is celebrated in Rajasthan to mark the arrival of the monsoon season?",
+  "question_hi": "राजस्थान में मानसून ऋतु के आगमन को चिह्नित करने के लिए कौन सा त्योहार मनाया जाता है?",
+  "A_en": "Ganga Sagar Mela", "A_hi": "गंगा सागर मेला",
+  "B_en": "Kumbh Mela", "B_hi": "कुंभ मेला",
+  "C_en": "Makar Sankranti", "C_hi": "मकर संक्रांति",
+  "D_en": "Pavaghat", "D_hi": "पावगढ़",
+  "answer": "D",
+  "explanation_en": "Pavaghat is a traditional festival in Rajasthan celebrated to welcome the monsoon season with vibrant rituals.",
+  "explanation_hi": "राजस्थान में मानसून की आवक का स्वागत पावगढ़ नामक पारंपरिक त्योहार के साथ किया जाता है जो रंगीन अनुष्ठानों से सम्पन्न होता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Traditional Attire",
+  "question_en": "What is the traditional attire of Rajasthani women that consists of a long, ornate skirt?",
+  "question_hi": "राजस्थानी महिलाओं का पारंपरिक पोशाक क्या है जिसमें लंबी बुना हुआ स्कर्ट शामिल होता है?",
+  "A_en": "Sari", "A_hi": "साड़ी",
+  "B_en": "Chaniya Choli", "B_hi": "चानिया चोली",
+  "C_en": "Ghagra", "C_hi": "घगरा",
+  "D_en": "Lungi", "D_hi": "लूंगी",
+  "answer": "C",
+  "explanation_en": "Ghagra is a long, embellished skirt worn by Rajasthani women, often paired with a choli and odhni.",
+  "explanation_hi": "राजस्थानी महिलाएं घगरा के साथ चोली और ओढ़नी पहनती हैं, जो एक लंबे बुना हुए स्कर्ट है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Cuisine",
+  "question_en": "Which dish is a staple in Rajasthani cuisine and is made using besan (gram flour)?",
+  "question_hi": "राजस्थानी खाने में कौन सी डिश एक मुख्य घटना है जिसका उपयोग बेसन (चना के आटे) से किया जाता है?",
+  "A_en": "Dal Baati Churma", "A_hi": "दाल बाटी चूरमा",
+  "B_en": "Pyaaz Kachori", "B_hi": "प्याज कचौरी",
+  "C_en": "Laal Maas", "C_hi": "लाल मांस",
+  "D_en": "Gatte ki Sabzi", "D_hi": "गट्टे की सब्जी",
+  "answer": "A",
+  "explanation_en": "Dal Baati Churma is a traditional Rajasthani dish made with besan (gram flour), pulses, and topped with ghee.",
+  "explanation_hi": "दाल बाटी चूरमा राजस्थानी खाने की पारंपरिक डिश है जिसमें चना का आटा, दाल, और घी का प्रयोग होता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Famous Personalities",
+  "question_en": "Which renowned artist from Rajasthan is known for painting Pichhwai art, depicting scenes from Lord Krishna's life?",
+  "question_hi": "राजस्थान के कौन से प्रसिद्ध कलाकार पिच्छवाई कला के पेंटिंग के लिए प्रसिद्ध हैं, जो भगवान कृष्ण के जीवन के दृश्यों को चित्रित करते हैं?",
+  "A_en": "Raja Raja Singh", "A_hi": "राजा राजा सिंह",
+  "B_en": "Raja Man Singh", "B_hi": "राजा मान सिंह",
+  "C_en": "Raja Ram Singh", "C_hi": "राजा राम सिंह",
+  "D_en": "Raja Jaswant Singh", "D_hi": "राजा जसवंत सिंह",
+  "answer": "B",
+  "explanation_en": "Raja Man Singh was a royal patron of Pichhwai art, which depicts Krishna's life in vivid colors.",
+  "explanation_hi": "राजा मान सिंह एक राजकुमारी पिच्छवाई कला के समर्थक थे, जो भगवान कृष्ण के जीवन के रंगीन दृश्य चित्रित करती है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Architecture",
+  "question_en": "Which Rajasthani architectural style is characterized by the use of jali (latticework) and intricate carvings?",
+  "question_hi": "कौन सी राजस्थानी वास्तुकला शैली जली (जाली) और जटिल शिल्प के उपयोग से पहचानी जाती है?",
+  "A_en": "Haveli Architecture", "A_hi": "हवेली वास्तुकला",
+  "B_en": "Fort Architecture", "B_hi": "किला वास्तुकला",
+  "C_en": "Temple Architecture", "C_hi": "मंदिर वास्तुकला",
+  "D_en": "Palace Architecture", "D_hi": "राजमहल वास्तुकला",
+  "answer": "A",
+  "explanation_en": "Haveli Architecture in Rajasthan is known for jali (latticework) and detailed carvings, providing ventilation and aesthetic beauty.",
+  "explanation_hi": "राजस्थान की हवेली वास्तुकला जली (जाली) और विस्तृत शिल्प के लिए जानी जाती है, जो वायु प्रवाह और सौंदर्य के लिए डिज़ाइन होती है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folklore",
+  "question_en": "Which Rajasthani folk tale is centered around a young woman named Meera and her devotion to Lord Krishna?",
+  "question_hi": "राजस्थानी लोक कथा में किस युवा महिला मीरा के भगवान कृष्ण के प्रति अपने भक्ति पर आधारित है?",
+  "A_en": "Pabuji ki Phoolani", "A_hi": "पबूजी की फूलानी",
+  "B_en": "Rajmata Padmini", "B_hi": "राजमाता पद्मिनी",
+  "C_en": "Meera Banke Bihari", "C_hi": "मीरा बांके बिहारी",
+  "D_en": "Kumhalkar", "D_hi": "कुम्हलकर",
+  "answer": "C",
+  "explanation_en": "Meera Banke Bihari is a famous Rajasthani folk tale about Meera's devotion to Lord Krishna, celebrated through devotional songs and stories.",
+  "explanation_hi": "मीरा बांके बिहारी राजस्थानी लोक कथा भगवान कृष्ण के प्रति मीरा की भक्ति के बारे में है, जो भक्ति गीतों और कहानियों में चर्चित है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Languages",
+  "question_en": "Which language is the primary regional language spoken in Rajasthan apart from Hindi?",
+  "question_hi": "हिंदी के अलावा राजस्थान में बोली जाने वाली मुख्य अन्य भाषा कौन सी है?",
+  "A_en": "Marwari", "A_hi": "मारवाड़ी",
+  "B_en": "Bhili", "B_hi": "भीली",
+  "C_en": "Mewari", "C_hi": "मेवाड़ी",
+  "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+  "answer": "D",
+  "explanation_en": "Rajasthan has several regional languages like Marwari, Bhili, Mewari, etc., in addition to Hindi.",
+  "explanation_hi": "राजस्थान में हिंदी के अलावा मारवाड़ी, भीली, मेवाड़ी आदि अन्य क्षेत्रीय भाषाएं भी बोली जाती हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Dance Forms",
+  "question_en": "Which
