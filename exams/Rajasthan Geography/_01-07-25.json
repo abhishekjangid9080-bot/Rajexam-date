@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Geography. The topics should be relevant to exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling key areas in Rajasthan Geography. 
+
+First, the capital is a common question, but I already know that's Jaipur. Next, rivers in Rajasthan—maybe the Chambal? Or the Luni River, which flows into the Rann of Kutch. Which river forms the border with Gujarat? That's the Luni. 
+
+Then, major deserts, like the Thar Desert. Which district is in the Thar? Barmer or Jaisalmer. Oh, Jaisalmer is known as the "Golden City." 
+
+Rajasthan's highest mountain peak is Guru Shikhar in Abu Road. That's a good point. 
+
+The oldest mountain range in Rajasthan is the Aravallis. Which river is called "Luni"? It's in the Thar region. 
+
+Which district has the highest population? Jhunjhunu? Or Jaipur? Wait, according to recent data, Jaipur is the most populous. 
+
+The state bird is the Great Indian Bustard, found in areas like Kutch and Thar. 
+
+Rajasthan's largest district by area is Jaisalmer. Which river is called "Gandak"? No, maybe another name. Wait, the Chambal is a tributary of the Yamuna. 
+
+What about the state tree? Banyan? Or maybe another. Wait, the state tree is Banyan, and the state flower is the Desert Rose. 
+
+Wait, let me verify some facts. The Luni River flows through Jodhpur and terminates in the Rann of Kutch. The Aravalli Range is the oldest mountain range in India, so in Rajasthan. Guru Shikhar is the highest peak in the Aravallis. 
+
+For the population, Jaipur district is the largest by population. Jhunjhunu has the highest population density. 
+
+The Great Indian Bustard is indeed the state bird, found in the Thar Desert. 
+
+Now, structuring each question with options in both Hindi and English. Need to ensure the answer is correct and explanations are clear. Let me start drafting each question step by step.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Physical Features",
+        "question_en": "Which mountain range is the oldest in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे पुराना पर्वत श्रेणी कौन-सी है?",
+        "A_en": "Aravalli Range", "A_hi": "अरावली श्रेणी",
+        "B_en": "Vindhya Range", "B_hi": "विन्ध्य श्रेणी",
+        "C_en": "Satpura Range", "C_hi": "सतपुड़ा श्रेणी",
+        "D_en": "Sahyadri Range", "D_hi": "सह्याद्रि श्रेणी",
+        "answer": "A",
+        "explanation_en": "The Aravalli Range is the oldest mountain range in Rajasthan and India.",
+        "explanation_hi": "अरावली श्रेणी राजस्थान और भारत की सबसे पुरानी पर्वत श्रेणी है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Rivers and Water Bodies",
+        "question_en": "Which river originates in the Pushkar Valley of Rajasthan?",
+        "question_hi": "राजस्थान के पुष्कर घाटी में कौन-सी नदी उत्पन्न होती है?",
+        "A_en": "Chambal", "A_hi": "चम्बल",
+        "B_en": "Mahi", "B_hi": "मही",
+        "C_en": "Sabarmati", "C_hi": "साबरमती",
+        "D_en": "Luni", "D_hi": "लूनी",
+        "answer": "B",
+        "explanation_en": "The Mahi River originates in the Pushkar Valley of Rajasthan and flows into the Gulf of Khambhat.",
+        "explanation_hi": "मही नदी राजस्थान की पुष्कर घाटी में उत्पन्न होती है और खंभात की खाड़ी में गिरती है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Deserts and Landforms",
+        "question_en": "Which desert is located in the southern part of Rajasthan?",
+        "question_hi": "राजस्थान के दक्षिणी भाग में कौन-सा मरुस्थल स्थित है?",
+        "A_en": "Thar Desert", "A_hi": "थार मरुस्थल",
+        "B_en": "Kutch Desert", "B_hi": "कच्छ मरुस्थल",
+        "C_en": "Gobi Desert", "C_hi": "गोबी मरुस्थल",
+        "D_en": "Sahara Desert", "D_hi": "सहारा मरुस्थल",
+        "answer": "A",
+        "explanation_en": "The Thar Desert, also known as the Rajasthan Desert, is located in the southern part of Rajasthan.",
+        "explanation_hi": "थार मरुस्थल, जिसे राजस्थान मरुस्थल भी कहा जाता है, राजस्थान के दक्षिणी भाग में स्थित है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Climatology",
+        "question_en": "Which district of Rajasthan receives the highest annual rainfall?",
+        "question_hi": "राजस्थान के किस जिले में सबसे अधिक वार्षिक वर्षा होती है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Bikaner", "B_hi": "बीकानेर",
+        "C_en": "Churu", "C_hi": "चूरू",
+        "D_en": "Udaipur", "D_hi": "उदयपुर",
+        "answer": "D",
+        "explanation_en": "Udaipur receives the highest annual rainfall in Rajasthan due to its location in the Aravalli Range.",
+        "explanation_hi": "उदयपुर अरावली श्रेणी में अपनी स्थिति के कारण राजस्थान में सबसे अधिक वार्षिक वर्षा प्राप्त करता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Economy",
+        "question_en": "Which mineral is most abundantly found in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे अधिक मात्रा में कौन-सा खनिज पाया जाता है?",
+        "A_en": "Limestone", "A_hi": "चूना पत्थर",
+        "B_en": "Coal", "B_hi": "कोयला",
+        "C_en": "Mica", "C_hi": "मैग्नेटाइट",
+        "D_en": "Copper", "D_hi": "तांबा",
+        "answer": "A",
+        "explanation_en": "Rajasthan is rich in limestone, especially in districts like Bhilwara and Nagaur.",
+        "explanation_hi": "राजस्थान कोलहापुर और नागौर जैसे जिलों में चूना पत्थर से समृद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Wildlife",
+        "question_en": "Which national park in Rajasthan is famous for the Great Indian Bustard?",
+        "question_hi": "राजस्थान में ग्रेट इंडियन बस्टर्ड के लिए कौन-सा राष्ट्रीय उद्यान प्रसिद्ध है?",
+        "A_en": "Ranthambore National Park", "A_hi": "रणथंबोर राष्ट्रीय उद्यान",
+        "B_en": "Kumbhalgarh National Park", "B_hi": "कुंभलगढ़ राष्ट्रीय उद्यान",
+        "C_en": "Sariska National Park", "C_hi": "सारिस्का राष्ट्रीय उद्यान",
+        "D_en": "Gir National Park", "D_hi": "गिर राष्ट्रीय उद्यान",
+        "answer": "B",
+        "explanation_en": "Kumbhalgarh National Park is renowned for its population of the Great Indian Bustard.",
+        "explanation_hi": "कुंभलगढ़ राष्ट्रीय उद्यान ग्रेट इंडियन बस्टर्ड की आबादी के लिए प्रसिद्ध है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Historical Places",
+        "question_en": "Which city in Rajasthan is known as the 'Pink City'?",
+        "question_hi": "राजस्थान में किस शहर को 'गुलाबी शहर' के नाम से जाना जाता है?",
+        "A_en": "Jodhpur", "A_hi": "जोधपुर",
+        "B_en": "Jaipur", "B_hi": "जयपुर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Jaisalmer", "D_hi": "जैसलमेर",
+        "answer": "B",
+        "explanation_en": "Jaipur is called the 'Pink City' due to its distinctive pink-colored architecture.",
+        "explanation_hi": "जयपुर को उनकी अद्वितीय गुलाबी रंग की आर्किटेक्चर के कारण 'गुलाबी शहर' कहा जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Agriculture",
+        "question_en": "Which crop is the leading agricultural product of Rajasthan?",
+        "question_hi": "राजस्थान के अग्रणी कृषि उत्पाद में कौन-सी फसल प्रमुख है?",
+        "A_en": "Wheat", "A_hi": "गेहूँ",
+        "B_en": "Maize", "B_hi": "मकई",
+        "C_en": "Millets", "C_hi": "ज्वार-बाजरा",
+        "D_en": "Rice", "D_hi": "चावल",
+        "answer": "C",
+        "explanation_en": "Millets (Jowar and Bajra) are the leading agricultural crops in Rajasthan due to the arid climate.",
+        "explanation_hi": "अर्द्ध-शुष्क जलवायु के कारण ज्वार और बाजरा राजस्थान में प्रमुख कृषि फसलें हैं।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Tourism",
+        "question_en": "Which festival is celebrated in Rajasthan to mark the arrival of the monsoon season?",
+        "question_hi": "राजस्थान में मानसून ऋतु के आगमन को चिह्नित करने के लिए कौन-सा त्योहार मनाया जाता है?",
+        "A_en": "Gangaur Festival", "A_hi": "गंगौर त्योहार",
+        "B_en": "Teej Festival", "B_hi": "तीज त्योहार",
+        "C_en": "Makar Sankranti", "C_hi": "मकर संक्रांति",
+        "D_en": "Holi Festival", "D_hi": "होली त्योहार",
+        "answer": "B",
+        "explanation_en": "Teej Festival is celebrated in Rajasthan to welcome the monsoon season and pray for rain.",
+        "explanation_hi": "तीज त्योहार राजस्थान में मानसून ऋतु के स्वागत और वर्षा के लिए दुआ करने के लिए मनाया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Geography",
+        "topic": "Geographical Extent",
+        "question_en": "Which district of Rajasthan shares its border with the state of Gujarat?",
+        "question_hi": "राजस्थान का कौन-सा जिला गुजरात राज्य के साथ सीमा साझा करता है?",
+        "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+        "B_en": "Barmer", "B_hi": "बाड़मेर",
+        "C_en": "Chittorgarh", "C_hi": "चित्तौड़गढ़",
+        "D_en": "Sikar", "D_hi": "सीकर",
+        "answer": "B",
+        "explanation_en": "Barmer district of Rajasthan shares its border with Gujarat in the west.",
+        "explanation_hi": "राजस्थान का बाड़मेर जिला पश्चिम में गुजरात के साथ सीमा साझा करता है।"
+    }
+]
