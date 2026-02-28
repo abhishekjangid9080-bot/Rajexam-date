@@ -1,0 +1,66 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Forts",
+"question_en": "What is the capital of Rajasthan and which famous forts are associated with it?",
+"question_hi": "राजस्थान की राजधानी और इसके संबंधित महाकारी के नाम क्या है।",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"A_hindi": "जयपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Ajmer", "C_hi": "अजमेर",
+"D_en": "Jodhpur", "D_hi": "झौदर",
+"answer": "Jaipur",
+"explanation_en": "Jaipur, also known as the Pink City, is the capital of Rajasthan. The city is associated with several famous forts, including:
+1. Amer Fort (इमेरि Fort)
+2. Amber Fort (अमरी Fort)
+3. Kumbhalgarh Fort (कुमभागलघरवाल)
+4. Jaisalmer Fort (जयसालमेर Fort)
+5. Chittorgarh Fort (छत्त्रागरगंवाल Fort)",
+"explanation_hi": "राजस्थान के एक्सी सीकान है। यहां कम्बहाल ऐश्वर जयसालमेर वाल ऐश्वर चिटोरगंवाल",
+"subject": "राजस्थान",
+"topic": "राजस्थान के विविलांगंवाल",
+"output": [
+{
+"type": "MCQ",
+"question_en": "Which is the oldest city in Rajasthan?",
+"question_hi": "राजस्थान में कौन सबसी शहर है?",
+"options": [
+{
+"option_id": 1,
+"option_text": "Jaipur",
+"option_English": "Jaipur",
+"option_Hindi": "जापुर",
+"correct_answer_id": 1
+},
+{
+"option_id": 2,
+"option_text": "Jodhpur",
+"option_English": "Jodhpur",
+"option_Hindi": "झोद्भूपुर",
+"correct_answer_id": 2
+},
+{
+"option_id": 3,
+"option_text": "Udaipur",
+"option_English": "Udaipur",
+"option_Hindi": "उदाभूपुर",
+"correct_answer_id": 3
+},
+{
+"option_id": 4,
+"option_text": "Jaisalmer",
+"option_English": "Jaisalmer",
+"option_Hindi": "जयसालमेर",
+"correct_answer_id": 4
+}
+],
+"explanation_en": "The oldest city in Rajasthan is Jaisalmer",
+"explanation_hi": "राजस्थान में सबसी शहर घरमेन जयसालमेर",
+"explanation_hindi": "राजस्थान में सबसी शहर घरमेन जयसालमेर",
+"answer": 4,
+"correct_answer_en": "Jaisalmer",
+"correct_answer_hi": "जयसालमेर",
+"correct_answer_hindi": "जयसालमेर",
+"question_image": ""
+}
+]
