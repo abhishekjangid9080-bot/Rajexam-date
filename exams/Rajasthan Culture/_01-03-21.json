@@ -1,0 +1,190 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following a strict JSON format. First, I need to ensure that each question and answer is accurate and relevant to Rajasthan's culture.
+
+Starting with the topic, since it's not specified, I'll cover various aspects like festivals, folk arts, historical figures, traditional attire, musical instruments, dance forms, cuisine, and notable sites. Each question should have options in both languages, with the correct answer and explanations.
+
+For example, the first question could be about the folk dance of Rajasthan. The correct answer is Ghoomar, which is a traditional dance from Rajasthan. I need to make sure the options include other dances but the correct one is clearly Ghoomar.
+
+Next, the festival of Gangaur. It's celebrated in Jaipur to honor Goddess Gauri. The options should have other cities or festivals but the answer should be Jaipur.
+
+Then, the traditional attire for women, Ghagra. Men's attire like Angarkha is another question. Folk music instruments like Sumpai need to be covered. The festival of Teej is important too, where women celebrate with traditional songs and dances.
+
+The musical instrument Sarangi is prominent in Rajasthani folk music. The dance form Kathakali is actually from Kerala, so that's a trick question. The traditional dish Dal Baati Churma is essential to include.
+
+For the last question, the folk song Kajari is associated with the monsoon season. Each explanation should clarify why the answer is correct and relate it to Rajasthan's culture.
+
+I need to check each question for clarity, ensure the difficulty level is appropriate for the exams mentioned, and that all options are plausible but one is clearly correct. Also, make sure the JSON structure is correct without any syntax errors. Let me review each question again to confirm accuracy and adherence to the format.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which of the following is a traditional folk dance of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन सा राजस्थान का पारंपरिक लोक नृत्य है?",
+    "A_en": "Ghoomar",
+    "A_hi": "घूमर",
+    "B_en": "Bhangra",
+    "B_hi": "भंगड़ा",
+    "C_en": "Kathakali",
+    "C_hi": "कतकली",
+    "D_en": "Kuchipudi",
+    "D_hi": "कुचिपुड़ी",
+    "answer": "A",
+    "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan, performed by women in colorful attire.",
+    "explanation_hi": "घूमर राजस्थान का एक पारंपरिक लोक नृत्य है, जिसे रंगीन पोशाक में महिलाएं प्रस्तुत करती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "In which city is the Gangaur Festival mainly celebrated?",
+    "question_hi": "गंगौर त्योहार मुख्य रूप से किस शहर में मनाया जाता है?",
+    "A_en": "Jodhpur",
+    "A_hi": "जोधपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Bikaner",
+    "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Gangaur Festival is mainly celebrated in Jaipur to honor Goddess Gauri.",
+    "explanation_hi": "गंगौर त्योहार जयपुर में मुख्य रूप से मनाया जाता है जहां देवी गौरी की पूजा की जाती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional attire for women in Rajasthan?",
+    "question_hi": "राजस्थान में महिलाओं की पारंपरिक पोशाक क्या है?",
+    "A_en": "Sari",
+    "A_hi": "साड़ी",
+    "B_en": "Ghagra",
+    "B_hi": "घगरा",
+    "C_en": "Churidar",
+    "C_hi": "चुरिदार",
+    "D_en": "Lehenga",
+    "D_hi": "लेहंगा",
+    "answer": "B",
+    "explanation_en": "Ghagra is the traditional attire for women in Rajasthan, often paired with a choli and odhni.",
+    "explanation_hi": "घगरा राजस्थान की महिलाओं की पारंपरिक पोशाक है, जिसके साथ चोली और ओढ़नी पहनी जाती है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Music",
+    "question_en": "Which traditional instrument is used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गान में कौन सा पारंपरिक वीणा उपयोग किया जाता है?",
+    "A_en": "Sarangi",
+    "A_hi": "सारंगी",
+    "B_en": "Sitar",
+    "B_hi": "सितार",
+    "C_en": "Ghatis",
+    "C_hi": "घटीस",
+    "D_en": "Flute",
+    "D_hi": "बांसुरी",
+    "answer": "A",
+    "explanation_en": "Sarangi is a traditional string instrument used in Rajasthani folk music.",
+    "explanation_hi": "सारंगी राजस्थानी लोक गान में उपयोग किया जाने वाला एक पारंपरिक स्ट्रिंग वीणा है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Dance",
+    "question_en": "Which of the following is a folk dance of Rajasthan performed by men?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान का एक लोक नृत्य है जिसे पुरुष द्वारा प्रस्तुत किया जाता है?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कलबेलिया",
+    "B_en": "Chakri",
+    "B_hi": "चक्री",
+    "C_en": "Dandia",
+    "C_hi": "दंडिया",
+    "D_en": "Raas",
+    "D_hi": "रास",
+    "answer": "B",
+    "explanation_en": "Chakri is a traditional folk dance performed by men in Rajasthan, involving rhythmic movements.",
+    "explanation_hi": "चक्री राजस्थान में पुरुषों द्वारा प्रस्तुत किया जाने वाला एक पारंपरिक लोक नृत्य है जो ताल वाली गति के साथ किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is celebrated in Rajasthan to mark the arrival of the monsoon season?",
+    "question_hi": "राजस्थान में वर्षा ऋतु के आगमन को संकेत देने के लिए कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Teej",
+    "A_hi": "तीज",
+    "B_en": "Holi",
+    "B_hi": "होली",
+    "C_en": "Diwali",
+    "C_hi": "दिवाली",
+    "D_en": "Eid",
+    "D_hi": "ईद",
+    "answer": "A",
+    "explanation_en": "Teej is celebrated in Rajasthan to welcome the monsoon season with traditional songs and dances.",
+    "explanation_hi": "राजस्थान में तीज वर्षा ऋतु के आगमन के साथ मनाया जाता है जिसमें पारंपरिक गीत और नृत्य का आयोजन होता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "Which is a popular traditional dish of Rajasthan?",
+    "question_hi": "राजस्थान का एक लोकप्रिय पारंपरिक व्यंजन कौन सा है?",
+    "A_en": "Dal Baati Churma",
+    "A_hi": "दाल बाटी चूरमा",
+    "B_en": "Biryani",
+    "B_hi": "बिरयानी",
+    "C_en": "Pulao",
+    "C_hi": "पुलाओ",
+    "D_en": "Idli",
+    "D_hi": "इडली",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a staple traditional dish in Rajasthan, made with lentils, baati, and jaggery.",
+    "explanation_hi": "दाल बाटी चूरमा राजस्थान में एक पारंपरिक व्यंजन है जिसमें लेंटिल्स, बाटी और जौज का उपयोग किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Songs",
+    "question_en": "Which folk song is associated with the monsoon season in Rajasthan?",
+    "question_hi": "राजस्थान में वर्षा ऋतु के साथ कौन सा लोक गीत संबंधित है?",
+    "A_en": "Kajari",
+    "A_hi": "काजरी",
+    "B_en": "Bhajan",
+    "B_hi": "भजन",
+    "C_en": "Chaiti",
+    "C_hi": "चैती",
+    "D_en": "Dholak",
+    "D_hi": "ढोलक",
+    "answer": "A",
+    "explanation_en": "Kajari is a traditional Rajasthani folk song performed during the monsoon season.",
+    "explanation_hi": "काजरी एक पारंपरिक राजस्थानी लोक गीत है जो वर्षा ऋतु में प्रस्तुत किया जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Instruments",
+    "question_en": "Which of the following is a traditional drum used in Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन राजस्थान में उपयोग किया जाने वाला एक पारंपरिक ड्रम है?",
+    "A_en": "Dholak",
+    "A_hi": "ढोलक",
+    "B_en": "Tabla",
+    "B_hi": "तबला",
+    "C_en": "Ghatis",
+    "C_hi": "घटीस",
+    "D_en": "Mridangam",
+    "D_hi": "मृदंगम",
+    "answer": "A",
+    "explanation_en": "Dholak is a traditional two-headed drum used in Rajasthani folk music and dance.",
+    "explanation_hi": "ढोलक राजस्थानी लोक गान और नृत्य में उपयोग किया जाने वाला एक पारंपरिक दो सिरे वाला ड्रम है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Dance",
+    "question_en": "Which dance form is performed by men in Rajasthan to depict stories of valor and heroism?",
+    "question_hi": "राजस्थान में पुरुष द्वारा प्रस्तुत किए जाने वाले रूप से कौन सा नृत्य वीरता और शौर्य की कहानियां दर्शाता है?",
+    "A_en": "Chakri",
+    "A_hi": "चक्री",
+    "B_en": "Kalbeliya",
+    "B_hi": "कलबेलिया",
+    "C_en": "Ghoomar",
+    "C_hi": "घूमर",
+    "D_en": "Kathak",
+    "D_hi": "कथक",
+    "answer": "A",
+    "explanation_en": "Chakri is a male-dominated dance form in Rajasthan that narrates tales of bravery and valor.",
+    "explanation_hi": "चक्री राजस्थान में पुरुष द्वारा प्रस्तुत किए जाने वाले एक नृत्य रूप है जो वीरता और शौर्य की कहानियां सुनाता है।"
+  }
+]
