@@ -1,0 +1,21 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी के लिए किस शहर की जानकारी चाहिए।",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Jaipur",
+"C_hi": "जयपुर",
+"D_en": "Alwar",
+"D_hi": "अलवार",
+"answer": "C",
+"explanation_en": "Jaipur is the capital of Rajasthan, a city known as the Pink City.\nEnglish: Jaipur is the capital of Rajasthan, a city known as the Pink City.\nHindi: जयपुर राजस्थान की राजधानी है, एक परंत (पंक) के नामेंगें।",
+"explanation_hi": "जयपुर राजस्थान की राजधानी है, एक परंत (पंक) के नामेंगें।",
+"explanation_en": "Jaipur is the capital of Rajasthan, known as the Pink City due to the color of its buildings.\nEnglish: Jaipur is the capital of Rajasthan, famously known as the Pink City because of the color of its buildings.",
+"explanation_hi": "जयपुर राजस्थान की राजधानी है, उसके बिल्लाई के नामेंगेंगें।",
+}
+]
