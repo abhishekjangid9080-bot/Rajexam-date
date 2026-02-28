@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Political History",
+"question_en": "Which of the following battles took place during the establishment of the Marwar State?",
+"question_hi": "मर्वाई राज्य का समाधान के लिए किस परम्पतिमान पोलिस के समाधान पर हुआ था या नहीं?",
+"A_en": "First Battle of Jodhpur",
+"A_hi": "पहली जोधपुर की बातचीता",
+"B_en": "Second Battle of Jodhpur",
+"B_hi": "दूसरी जोधपुर की बातचीता",
+"C_en": "Battle of Mewar",
+"C_hi": "मेवार की बातचीता",
+"D_en": "Battle of Mewar (1562)",
+"D_hi": "मेवार (1562) - बातचीता",
+"answer": "D",
+"explanation_en": "The Battle of Mewar (1562) took place during the establishment of the Marwar State.",
+"explanation_hi": "मेवार (1562) - राजनेवाली मर्वार स्थान के बैंग का किनार",
+"explanation": "The Battle of Mewar in 1562 marked the establishment of Marwar State under Rana Kumbha of Mewar.",
+"explanation_hi": "मेवार के 1562 में राजनेवाली मेवार का किनार",
+}
