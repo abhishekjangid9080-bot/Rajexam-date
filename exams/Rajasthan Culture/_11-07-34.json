@@ -1,0 +1,132 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, with explanations in both languages. The JSON structure is provided as an example, so I need to follow that strictly.
+
+First, I need to identify topics within Rajasthan Culture. Let's think about festivals, folk music, dance, traditional attire, famous personalities, historical figures, art forms, and important sites. Maybe also include some traditional games or crafts like pottery.
+
+For each question, I should ensure that the correct answer is clear, and the options are plausible but incorrect. The difficulty level should be moderate, suitable for state-level exams. Let me brainstorm some topics and questions.
+
+1. **Festivals**: Mention a famous festival like Gangaur or Teej. Ask about significance or timing.
+2. **Dance Forms**: Kathakali? No, Kathakali is from Kerala. Rajasthan has folk dances like Ghoomar. Ask which is a traditional dance.
+3. **Famous Folk Singers**: Nomadic tribes like Bhopas or Manganiyars. Maybe a question on them.
+4. **Traditional Instruments**: Instruments like the Ghumra (used in Ghoomar dance) or Sural. Ask which is associated with a specific dance.
+5. **Historical Figures**: Rajput kings like Prithviraj Chauhan or Maharana Pratap. Maybe a question about their contributions.
+6. **Cultural Symbols**: Rajasthani attire for men and women. Like Angarkha for men, Ghagra for women. A question on traditional clothing.
+7. **Folk Tales**: Stories like Pabuji Ki Phoolani and Pabuji. Ask about their association.
+8. **Architecture**: Stepwells (Bawadi) or forts. A question about the purpose or design of a stepwell.
+9. **Cuisine**: Signature dishes like Dal Bati Churma. Ask about the significance or accompaniments.
+10. **Folk Music**: Instruments like the Dholak or been. Ask which is a traditional instrument.
+
+Now, let's draft each question with options in both languages. Ensure the explanations are concise and clarify why the correct answer is right. For example, if the question is about a festival, the explanation should state its significance and when it's celebrated.
+
+Need to check for any possible errors in the options. For example, in a question about folk dances, Ghoomar is a Rajasthani dance, but Kathakali is from Kerala. So options should include other Rajasthani dances or similar ones.
+
+Also, ensure that the correct answer is labeled properly (A, B, C, D) in the JSON. The answer key should match the correct option letter in both languages.
+
+Let me start creating the first question. For example, about the traditional dance. The correct answer is Ghoomar. Other options could be Kathakali, Bharatanatyam, and Sattriya. Explanation in both languages.
+
+Proceeding similarly for all 10 questions, making sure each covers a different aspect of Rajasthan culture, and follows the required format.
+</think>
+
+```json
+[
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Music and Dance",
+        "question_en": "Which traditional Rajasthani dance form is performed by women and is known for its graceful circle movements?",
+        "question_hi": "पारंपरिक राजस्थानी नृत्य रूप, जिसे महिलाएं प्रदर्शित करती हैं और जिसके घूर्णन आकृति आकर्षक होते हैं, कौन सा है?",
+        "A_en": "Ghoomar", "A_hi": "घूमर",
+        "B_en": "Kathakali", "B_hi": "कथकली",
+        "C_en": "Bharatanatyam", "C_hi": "भरतनाट्यम्",
+        "D_en": "Sattriya", "D_hi": "सत्रिया",
+        "answer": "A",
+        "explanation_en": "Ghoomar is a traditional Rajasthani dance performed by women, characterized by its circular movements and vibrant attire.",
+        "explanation_hi": "घूमर एक पारंपरिक राजस्थानी नृत्य है जिसे महिलाएं प्रदर्शित करती हैं और इसकी विशेषता घूर्णन आकृति और जीवंत पोशाक होती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Festivals",
+        "question_en": "Which Rajasthani festival is dedicated to the worship of the goddess Gauri and is celebrated with great enthusiasm by married women?",
+        "question_hi": "राजस्थानी उत्सव, जो गौरी देवी की पूजा के लिए समर्पित है और जिसे विवाहित महिलाएं उत्साहपूर्वक मनाती हैं, कौन सा है?",
+        "A_en": "Gangaur", "A_hi": "गंगौर",
+        "B_en": "Teej", "B_hi": "तीज",
+        "C_en": "Diwali", "C_hi": "दिवाली",
+        "D_en": "Holi", "D_hi": "होली",
+        "answer": "A",
+        "explanation_en": "Gangaur is a Rajasthani festival dedicated to Goddess Gauri, celebrated by married women to pray for the well-being of their husbands.",
+        "explanation_hi": "गंगौर राजस्थानी उत्सव है जो गौरी देवी की पूजा पर आधारित है, जिसे विवाहित महिलाएं अपने पतियों की लंबी आयु और सुख-शांति की कामना में मनाती हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Instruments",
+        "question_en": "Which musical instrument is traditionally associated with the Ghoomar dance of Rajasthan?",
+        "question_hi": "राजस्थान के घूमर नृत्य से पारंपरिक रूप से कौन सा संगीत यंत्र संबंधित है?",
+        "A_en": "Dholak", "A_hi": "ढोलक",
+        "B_en": "Sarangi", "B_hi": "सरंगी",
+        "C_en": "Ghumra", "C_hi": "घुमरा",
+        "D_en": "Flute", "D_hi": "बांसुरी",
+        "answer": "C",
+        "explanation_en": "The Ghumra is a traditional Rajasthani musical instrument used to accompany the Ghoomar dance, producing deep, resonant sounds.",
+        "explanation_hi": "घुमरा एक पारंपरिक राजस्थानी संगीत यंत्र है जिसे घूमर नृत्य को संगीत के साथ जोड़ने के लिए इस्तेमाल किया जाता है और गहरे अनुनादित ध्वनियां उत्पन्न करता है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Historical Figures",
+        "question_en": "Which Rajput ruler is renowned for his resistance against Mughal Emperor Akbar and is known as the 'Prithviraj Chauhan of Rajputana'?",
+        "question_hi": "उस राजपूत शासक के नाम का उल्लेख करें जो मुगल सम्राट अकबर के खिलाफ प्रतिरोध के लिए प्रसिद्ध है और जिसे 'राजपूताना के पृथ्वीराज चौहान' के रूप में जाना जाता है?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Raja Man Singh", "B_hi": "राजा मन सिंह",
+        "C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+        "D_en": "Raja Sawai Jai Singh", "D_hi": "राजा सवाई जय सिंह",
+        "answer": "A",
+        "explanation_en": "Maharana Pratap is celebrated for his defiance of Akbar's Mughal Empire and is revered as a symbol of Rajput resistance.",
+        "explanation_hi": "महाराणा प्रताप अकबर के मुगल साम्राज्य के खिलाफ अविश्वास के लिए प्रसिद्ध हैं और राजपूत प्रतिरोध के प्रतीक के रूप में सम्मानित किए जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Traditional Attire",
+        "question_en": "What is the traditional attire for Rajasthani women known as, which includes a long skirt, a cropped top, and a headscarf?",
+        "question_hi": "राजस्थानी महिलाओं के पारंपरिक पोशाक का नाम बताइए जिसमें लंबी चौड़ी स्कर्ट, एक छोटी टॉप और एक शीर्ष भूषा शामिल है?",
+        "A_en": "Ghagra-Choli", "A_hi": "घगरा-चोली",
+        "B_en": "Sari", "B_hi": "साड़ी",
+        "C_en": "Churidar", "C_hi": "चुरीदार",
+        "D_en": "Salwar Kameez", "D_hi": "सलवार कमीज",
+        "answer": "A",
+        "explanation_en": "Ghagra-Choli is the traditional Rajasthani attire for women, featuring a long skirt (ghagra), a cropped top (choli), and an odhni (headscarf).",
+        "explanation_hi": "घगरा-चोली राजस्थानी महिलाओं का पारंपरिक पोशाक है जिसमें लंबी चौड़ी स्कर्ट (घगरा), एक छोटी टॉप (चोली) और शीर्ष भूषा (ओधनी) शामिल है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Cuisine",
+        "question_en": "Which popular Rajasthani dish is made with hard wheat balls (bati), lentils (dal), and a sweet dish (churma)?",
+        "question_hi": "प्रसिद्ध राजस्थानी व्यंजन, जिसमें हार्ड व्हीट के गेंदे (बाती), दाल (लेंटिल) और मीठा व्यंजन (चुरमा) शामिल है, कौन सा है?",
+        "A_en": "Dal Bati Churma", "A_hi": "दाल बाती चुरमा",
+        "B_en": "Pyaaz Kachori", "B_hi": "प्याज कचौरी",
+        "C_en": "Laal Maas", "C_hi": "लाल मांस",
+        "D_en": "Ker Sangri", "D_hi": "केर संगरी",
+        "answer": "A",
+        "explanation_en": "Dal Bati Churma is a staple Rajasthani meal consisting of hard wheat bati, lentils, and a sweet churma made of wheat flour.",
+        "explanation_hi": "दाल बाती चुरमा राजस्थानी खाने का एक प्रमुख व्यंजन है जिसमें हार्ड व्हीट के बने बाती, दाल और गेहूं का बना मीठा (चुरमा) शामिल है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Folk Tales",
+        "question_en": "Which Rajasthani folk tale is associated with the valor of a Rajput king and his queen who defied a Mughal attack?",
+        "question_hi": "राजस्थानी लोककथा, जो एक राजपूत राजा और उनकी रानी के शौर्य से जुड़ी है जो मुगल हमले के खिलाफ प्रतिरोध करे, कौन सी है?",
+        "A_en": "Pabuji Ki Phoolani", "A_hi": "पाबूजी की फूलानी",
+        "B_en": "Ghoomar", "B_hi": "घूमर",
+        "C_en": "Kathakali", "C_hi": "कथकली",
+        "D_en": "Bhavai", "D_hi": "भवई",
+        "answer": "A",
+        "explanation_en": "Pabuji Ki Phoolani is a legendary Rajasthani folk tale celebrating the bravery of Pabuji, a Rajput king, and his queen Phoolani during the Mughal era.",
+        "explanation_hi": "पाबूजी की फूलानी एक प्रसिद्ध राजस्थानी लोककथा है जो मुगल युग में राजपूत राजा पाबूजी और उनकी रानी फूलानी के शौर्य को चित्रित करती है।"
+    },
+    {
+        "subject": "Rajasthan Culture",
+        "topic": "Architecture",
+        "question_en": "Which Rajasthani architectural style is characterized by stepwells (baolis) and fortresses with intricate carvings?",
+        "question_hi": "राजस्थानी आर्किटेक्चरल शैली, जिसमें चरणों वाले कुएं (बावड़ियां) और जटिल खुदाई वाले किले शामिल हैं, कौन सी है?",
+        "A_en": "Maru-Gurjara", "A_hi": "मारु-गुर्जर",
+        "B_en": "Dravidian", "B_hi": "द्रविड़",
+        "C_en": "Gupta", "C_hi": "गुप्ता",
+        "D_en": "Vesara", "D_hi": "वेसरा",
+        "answer":
