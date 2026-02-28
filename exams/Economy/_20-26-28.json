@@ -1,0 +1,83 @@
+[
+{
+"subject": "Economy",
+"topic": "Indian Economy",
+"question_en": "Which among the following is not a part of the National Highways in India?",
+"question_hi": "नेशानी में कौन से नईदीय उत्तरदायक हाउसी नहीं हैं।",
+"A_en": "NH 1",
+"A_hi": "नईदीय उत्तरदायक हाउसी के लिए नहीं हैं।",
+"B_en": "NH 2",
+"B_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"C_en": "NH 3",
+"C_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"D_en": "NH 4",
+"D_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"E_en": "NH 5",
+"E_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"F_en": "NH 6",
+"F_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"G_en": "NH 7",
+"G_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"H_en": "NH 8",
+"H_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"I_en": "NH 10",
+"I_hi": "नईदीय उत्तरदायक हाउसी के लिए हिस्तारा हैं।",
+"J_en": "NH 11",
+"J_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"K_en": "NH 14",
+"K_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"L_en": "NH 25",
+"L_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"M_en": "NH 31",
+"M_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"N_en": "NH 348",
+"N_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"O_en": "NH 65",
+"O_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"P_en": "NH 15",
+"P_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"Q_en": "NH 10",
+"Q_hi": "नईदीय उत्तरदायक हाउसी के लिए हैं।",
+"question_en": "What is the National Highway number for the Jaipur-Ajmer route?",
+"question_hi": "जैवापर के लिए हे का नामिका के लिए हेलिए हिए।",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "NH 12",
+"option_correct": "नामिका",
+"option_description": "जबमिका नामिए हिए",
+},
+{
+"option_id": 2,
+"option_text": "NH 25",
+"option_correct": "नामिए हिए",
+"option_description": "जबमिए हिए हिए",
+},
+{
+"option_id": 3,
+"option_text": "NH 43",
+"option_correct": "नामिए हिए",
+"option_description": "जबमिए हिए"
+},
+{
+"option_id": 4,
+"option_text": "NH 144",
+"option_correct": "जबमिए हिए हिए",
+"option_description": "जबमिए हिए"
+}
+]
+"option_hi": [
+{
+"option_id": 5,
+"option_text": "NH 91",
+"option_correct": "जबमिए हिए",
+"option_description": "जबमिए हिए"
+},
+{
+"option_id": 6,
+"option_text": "NH 154",
+"option_correct": "जबमिए हिए",
+"option_description": "जबमिए हिए"
+}
+]
+]
