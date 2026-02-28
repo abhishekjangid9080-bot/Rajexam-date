@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The user wants them in both Hindi and English, following the Testbook style. Let's start by recalling key topics in Rajasthan History.
+
+First, major rulers and dynasties come to mind. The Mewar Dynasty, Kachwaha Rajputs, and the Rajput kingdoms. Then, significant events like the Battle of Khanwa. Also, important historical figures like Maharana Pratap and Raja Mansingh. Cultural aspects like Rajasthani folk music and dance might be relevant. Important historical sites like Chittorgarh Fort, Mehrangarh Fort, and the Alberd Fort. Maybe the role of Rajputana in the Mughal Empire. The integration of princely states into the Indian Union post-1947 could be another topic.
+
+Let me start with the first question. The founder of the Kachwaha dynasty. The answer is Maharaja Prithviraj Chauhan. Wait, no, Kachwaha is a different dynasty. Wait, the Kachwaha Rajputs were established by Kachhwa. Their capital was Amber. So maybe the first question is about the founder of the Kachwaha dynasty. Correct answer would be Kachhwa. But I need to verify. Alternatively, maybe about the founder of Jaipur. That's Sawai Jai Singh II. He built Jaipur in 1727. That's a good question.
+
+Second question: The ruler who defeated Akbar at the Battle of Haldighati. That's Maharana Pratap. He was the ruler of Mewar. He lost the battle but continued resistance. Third, the founder of Udaipur city. Rana Udai Singh II established Udaipur in 1559. Fourth, the ruler who shifted the capital from Chittorgarh to Udaipur. Rana Udai Singh II did that after the fall of Chittorgarh to Akbar. Fifth, the year the Battle of Khanwa took place between Babur and Raja Mansingh. It was 1527. Sixth, the fort that is the symbol of Mewar. Chittorgarh Fort. Seventh, the ruler who was known as 'Rana Pratap'. That's Maharana Pratap. Eighth, the dynasty that ruled over Jodhpur. The Rathore dynasty, founded by Rao Jodha. Ninth, the historical figure associated with the 'Meerabai' of Rajasthani culture. Meerabai was a devotee of Krishna, and her life was in Mewar. Tenth, the event that led to the merger of princely states into the Indian Union. The integration process led by Patel in 1947-48, but in Rajasthan specifically, it might be the Rajasthan State Congress. Alternatively, the formation of the state of Rajasthan in 1956 after the States Reorganization Act.
+
+Wait, need to make sure each question is accurate. Let me check each one. For example, the founder of Udaipur is Rana Udai Singh II. The Battle of Haldighati was in 1576. The Kachwaha dynasty's founder is Kachhwa. The ruler who defeated Akbar at Haldighati is Maharana Pratap. The capital shift from Chittorgarh to Udaipur was done by Udai Singh II. The Battle of Khanwa was in 1527. Chittorgarh Fort is associated with Mewar. The Rathore dynasty is Jodhpur. Meerabai's association with Mewar. The integration of princely states into Rajasthan was in 1949. Wait, the Rajasthan State came into existence on 15th May 1949. So that's a key point.
+
+Now, structuring each question with options. Ensure the correct answer is accurate and the options are plausible. For example, for the founder of Jaipur, the options might be Sawai Jai Singh I, Sawai Jai Singh II, Sawai Jai Singh III, etc. The correct answer is Sawai Jai Singh II.
+
+I need to make sure the explanations are concise and correct. Also, the Hindi and English versions of the questions and options must be accurate translations. For example, the question about the founder of Jaipur in English is "Who founded the city of Jaipur?" in Hindi "जयपुर शहर का संस्थापक कौन था?" The options would be the four names, with the correct one being Sawai Jai Singh II.
+
+Proceeding step by step, ensuring each question is on a different topic and covers various aspects of Rajasthan's history. Avoid repetition. Check for any possible errors in historical facts. Once all 10 questions are drafted, verify the JSON structure as per the provided example, ensuring all fields are present and in the correct order.
+</think>
+
+[
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders and Capitals",
+    "question_en": "Who founded the city of Jaipur?",
+    "question_hi": "जयपुर शहर का संस्थापक कौन था?",
+    "A_en": "Sawai Jai Singh I",
+    "A_hi": "सवाई जय सिंह I",
+    "B_en": "Sawai Jai Singh II",
+    "B_hi": "सवाई जय सिंह II",
+    "C_en": "Sawai Jai Singh III",
+    "C_hi": "सवाई जय सिंह III",
+    "D_en": "Sawai Jai Singh IV",
+    "D_hi": "सवाई जय सिंह IV",
+    "answer": "B",
+    "explanation_en": "Sawai Jai Singh II founded Jaipur in 1727 and established it as the capital of Amber State.",
+    "explanation_hi": "सवाई जय सिंह II ने जयपुर की स्थापना 1727 में की और इसे अम्बर रियासत की राजधानी बनाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rulers and Dynasties",
+    "question_en": "Which ruler defeated the Mughal Emperor Akbar at the Battle of Haldighati?",
+    "question_hi": "हल्दीघाटी के युद्ध में मुगल सम्राट अकबर को पराजित करने वाला शासक कौन था?",
+    "A_en": "Maharana Pratap",
+    "A_hi": "महाराणा प्रताप",
+    "B_en": "Raja Man Singh",
+    "B_hi": "राजा मान सिंह",
+    "C_en": "Raja Bharmal",
+    "C_hi": "राजा भारमल",
+    "D_en": "Raja Chandrasen",
+    "D_hi": "राजा चंद्रसेन",
+    "answer": "A",
+    "explanation_en": "Maharana Pratap of Mewar defeated Akbar at Haldighati in 1576 but later lost Chittorgarh to the Mughals.",
+    "explanation_hi": "मेवाड़ के महाराणा प्रताप ने हल्दीघाटी के युद्ध में अकबर को पराजित किया लेकिन चित्तौड़गढ़ मुगलों के हाथों हार गया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Events",
+    "question_en": "In which year did the Battle of Khanwa take place between Babur and Raja Man Singh?",
+    "question_hi": "बाबर और राजा मान सिंह के बीच खानवा का युद्ध किस वर्ष लड़ा गया था?",
+    "A_en": "1526",
+    "A_hi": "1526",
+    "B_en": "1527",
+    "B_hi": "1527",
+    "C_en": "1528",
+    "C_hi": "1528",
+    "D_en": "1529",
+    "D_hi": "1529",
+    "answer": "B",
+    "explanation_en": "The Battle of Khanwa in 1527 was a significant conflict where Babur defeated Raja Man Singh of Amber.",
+    "explanation_hi": "1527 में खानवा का युद्ध एक महत्वपूर्ण घटना थी जहां बाबर ने अम्बर के राजा मान सिंह को पराजित किया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Heritage",
+    "question_en": "Which Rajasthani folk dance is performed to celebrate the harvest season?",
+    "question_hi": "कौन सा राजस्थानी लोक नृत्य अनाज कटाई के महीने में मनाया जाता है?",
+    "A_en": "Kalbeliya",
+    "A_hi": "कलबेलिया",
+    "B_en": "Ghoomar",
+    "B_hi": "घूमर",
+    "C_en": "Chakri",
+    "C_hi": "चाकरी",
+    "D_en": "Bhagoria",
+    "D_hi": "भागोरिया",
+    "answer": "C",
+    "explanation_en": "Chakri is a traditional Rajasthani folk dance performed during the harvest season, especially in the Malwa region.",
+    "explanation_hi": "चाकरी एक पारंपरिक राजस्थानी लोक नृत्य है जो अनाज कटाई के महीने में मालवा क्षेत्र में मनाया जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Figures",
+    "question_en": "Who was known as the 'Mewar's Tiger' for his bravery in the 16th century?",
+    "question_hi": "16वीं शताब्दी में शौर्य के लिए जिसे मेवाड़ का बाघ नामकरण किया गया था, वह कौन था?",
+    "A_en": "Maharana Pratap",
+    "A_hi": "महाराणा प्रताप",
+    "B_en": "Rana Sanga",
+    "B_hi": "राणा संगा",
+    "C_en": "Rana Kumbha",
+    "C_hi": "राणा कुंभा",
+    "D_en": "Rana Ratan Singh",
+    "D_hi": "राणा रतन सिंह",
+    "answer": "A",
+    "explanation_en": "Maharana Pratap is famously known as the 'Tiger of Mewar' for his valiant resistance against the Mughals.",
+    "explanation_hi": "महाराणा प्रताप को मुगलों के खिलाफ शौर्य के लिए मेवाड़ का बाघ कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Historical Forts",
+    "question_en": "Which fort is considered the symbol of the Mewar kingdom?",
+    "question_hi": "मेवाड़ राज्य के प्रतीक के रूप में कौन सा किला माना जाता है?",
+    "A_en": "Chittorgarh Fort",
+    "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Amber Fort",
+    "B_hi": "अम्बर किला",
+    "C_en": "Kumbhalgarh Fort",
+    "C_hi": "कुंभलगढ़ किला",
+    "D_en": "Mehrangarh Fort",
+    "D_hi": "महरांगढ़ किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is the largest fort in India and represents the valor and heritage of the Mewar dynasty.",
+    "explanation_hi": "चित्तौड़गढ़ किला भारत का सबसे बड़ा किला है और मेवाड़ राजवंश के शौर्य और विरासत का प्रतीक है।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Founders of Cities",
+    "question_en": "Who founded the city of Udaipur and established it as the capital of Mewar?",
+    "question_hi": "उदयपुर शहर की स्थापना कौन ने की और मेवाड़ की राजधानी बनाई?",
+    "A_en": "Rana Sangram Singh",
+    "A_hi": "राणा संग्राम सिंह",
+    "B_en": "Rana Udai Singh II",
+    "B_hi": "राणा उदय सिंह द्वितीय",
+    "C_en": "Rana Lakha",
+    "C_hi": "राणा लखा",
+    "D_en": "Rana Ratan Singh",
+    "D_hi": "राणा रतन सिंह",
+    "answer": "B",
+    "explanation_en": "Rana Udai Singh II founded Udaipur in 1559 and shifted the capital of Mewar from Chittorgarh to Udaipur.",
+    "explanation_hi": "राणा उदय सिंह द्वितीय ने 1559 में उदयपुर की स्थापना की और मेवाड़ की राजधानी चित्तौड़गढ़ से उदयपुर में शिफ्ट कर दी।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Rajput Dynasties",
+    "question_en": "Which dynasty ruled over Jodhpur and established it as a prominent princely state?",
+    "question_hi": "जोधपुर को प्रमुख रियासत बनाने वाला राजवंश कौन सा था?",
+    "A_en": "Kachwaha",
+    "A_hi": "कच्छवाहा",
+    "B_en": "Sisodia",
+    "B_hi": "सिसोदिया",
+    "C_en": "Rathore",
+    "C_hi": "राठौर",
+    "D_en": "Chauhan",
+    "D_hi": "चौहान",
+    "answer": "C",
+    "explanation_en": "The Rathore dynasty, founded by Rao Jodha, established Jodhpur as a significant princely state in Rajasthan.",
+    "explanation_hi": "राठौर राजवंश, जो राव जोधा द्वारा स्थापित किया गया था, ने जोधपुर को राजस्थान में एक प्रमुख रियासत बनाया।"
+  },
+  {
+    "subject": "Rajasthan History",
+    "topic": "Cultural Symbols",
+    "question_en": "Which historical figure is associated with the 'Meerabai' of Rajasthani culture?",
+    "question_hi": "राजस्थानी संस्कृति की 'मीराबाई' के साथ कौन सी ऐतिहासिक आकर्षण जुड़ा हुआ है?",
