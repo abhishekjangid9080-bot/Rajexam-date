@@ -1,0 +1,80 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital city of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी किस शहर है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Jaipur",
+"C_hi": "जयपुर",
+"D_en": "Jaisalmer",
+"D_hi": "जयसालमर",
+"answer": "C",
+"explanation_en": "Jaipur is the capital city of Rajasthan.",
+"explanation_hi": "राजस्थान की राजधानी स्पष्ट रूट से ज्ञान करना है।",
+"explanation_hi": "राजस्थान की राजधानी स्पष्ट रूट से ज्ञान करना है।",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी की स्पष्ट रूट से ज्ञान करना है।",
+"question_hi": "राजस्थान के राजधानी की स्पष्ट रूट से ज्ञान करना है।",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी के स्पष्ट रूट से ज्ञान करना है।",
+"options": [
+{
+"option_en": "Jodhpur",
+"option_hi": "जोधुपुर",
+"correct_answer": "C",
+"difficulty_level": "Easy"
+},
+{
+"option_en": "Jaisalmer",
+"option_hi": "जयसालमेर",
+"correct_answer": "D",
+"difficulty_level": "Medium"
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदायपुर",
+"correct_answer": "B",
+"difficulty_level": "Easy"
+},
+{
+"option_en": "Kota",
+"option_hi": "कोता",
+"correct_answer": "A",
+"difficulty_level": "Medium"
+},
+{
+"option_en": "Ajmer",
+"option_hi": "अजमेर",
+"correct_answer": "E",
+"difficulty_level": "Hard"
+},
+{
+"option_en": "Alwar",
+"option_hi": "अलवार",
+"correct_answer": "F",
+"difficulty_level": "Hard"
+},
+{
+"option_en": "Jhunjhunu",
+"option_hi": "जंजहुनु",
+"correct_answer": "G",
+"difficulty_level": "Hard"
+},
+{
+"option_en": "Mt. Abu",
+"option_hi": "मेट. अबु",
+"correct_answer": "H",
+"difficulty_level": "Hard"
+},
+{
+"option_en": "Chittorgarh",
+"option_hi": "चीटोरगढ़",
+"correct_answer": "I",
+"difficulty_level": "Hard"
+}
+]
+]
