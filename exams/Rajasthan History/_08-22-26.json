@@ -1,0 +1,37 @@
+```json
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस प्राचीन फोट है?",
+"A_en": "Amber Fort", "A_hi": "आमर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaphs of Jaipur", "C_hi": "जयपुर के सेनोटेप्टों",
+"D_en": "Pratapgarh Fort", "D_hi": "प्रतापगढ़ फोट",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous fort located in Jaipur. It is known for its unique architecture.",
+"explanation_hi": "हावा महाल जयपुर में एक फोट है, जो वहाँ के विशेष तथा उच्च आंकड़ों का विशाला और उच्च आंकड़ों का विशाला और उच्च आंकड़ों का विशाला और उच्च आंकड़ों का विशाला और उच्च आंकड़ों का विशाला और उच्च आंकड़ों का विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकड़ों के विशाला और उच्च आंकों के विशाला और उच्च आंकों के विशाला और उच्च आंकों के विशाला और उच्च आंके विशाला और उच्च आंके विशाला और",
+Our",
+"D_en": "Pratap Singh Kachh"
+"D_hi": "प्च्च आंके विशाला और",
+"question_en": "Which historical figure is associated with the famous forts of Jaipur?",
+"question_hi": "जंके विशाला और",
+"options_en": "1. Pratap Singh Kachh",
+"options_hi": "विशाला और",
+"explanation_en": "Pratap Singh Kachh is associated with Jaipur's famous forts.",
+"explanation_hi": "विशाला और के विशाला",
+},
+{
+"subject": "Rajasthan",
+"topic": "History",
+"question_en": "What is the capital city of Jaipur?",
+"question_hi": "जंके विशाला और",
+"options_en": "A. Amber",
+"options_hi": "विशाला और",
+"answer": "B",
+"explanation_en": "Amber is the capital city of Jaipur.",
+"explanation_hi": "विशाला और",
+}
+]
+```
