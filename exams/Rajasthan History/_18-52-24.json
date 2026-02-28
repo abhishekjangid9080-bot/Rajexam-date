@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor ruled during the Mahabharata era?",
+"question_hi": "महाभारती के समय कें।",
+"A_en": "King Parshuram", "A_hi": "पार्शुराम राजन",
+"B_en": "King Dharmapal", "B_hi": "धर्मपल राजन",
+"C_en": "King Ajmer Singh", "C_hi": "अजमेर सिंह राजन",
+"D_en": "King Matsyaji", "D_hi": "मत्स्याजी राजन",
+"answer": "D",
+"explanation_en": "Dhritarashtra, also known as Matsyaji Raja, ruled during the Mahabharata era.",
+"explanation_hi": "दीर्घार्षता, भी मत्स्याजी राजन के नामवाला था, Mahabharata era ke samay राजन करवाला था।",
+}
+]
