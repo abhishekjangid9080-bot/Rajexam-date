@@ -1,0 +1,138 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Culture for exams like LDC, CET, RAS, SSC, and Railway. First, I need to recall key aspects of Rajasthan's culture. Festivals, folk music, dance, traditional attire, cuisine, historical figures, art forms, and important locations come to mind.
+
+I should make sure each question covers different areas to provide a comprehensive set. Let me start brainstorming topics. For example, major festivals like Gangaur, Teej, and Mewar Festival. Folk music instruments like Sural, Flute. Dances like Ghoomar, Kalbeliya. Traditional attire like Bandhani, Ghoomar. Famous dishes like Dal Baati Churma. Historical figures like Maharana Pratap. Art forms like Miniature Painting, Blue Pottery. Important cities like Jaipur, Udaipur, Jodhpur.
+
+Now, I need to frame questions around these. Each question should have four options, with the correct one clearly marked. The explanations should be concise but informative. Also, the Hindi and English versions must be accurate and in the correct order. Let me check for any possible mistakes. For instance, making sure that the correct answer is the right one and the other options are plausible but incorrect. Also, the difficulty level should be appropriate for the stated exams. Let me start drafting each question one by one, ensuring they follow the testbook style and JSON structure as specified.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Festivals",
+    "question_en": "Which festival is celebrated in Rajasthan to honor the goddess Gauri?",
+    "question_hi": "राजस्थान में देवी गौरी की पूजा करने के लिए कौन सा त्योहार मनाया जाता है?",
+    "A_en": "Gangaur", "A_hi": "गंगौर",
+    "B_en": "Teej", "B_hi": "तीज",
+    "C_en": "Mewar Festival", "C_hi": "मेवाड़ महोत्सव",
+    "D_en": "Kite Festival", "D_hi": "पतंग उत्सव",
+    "answer": "A",
+    "explanation_en": "Gangaur is a major festival in Rajasthan dedicated to Goddess Gauri, celebrated with great enthusiasm, especially by married women.",
+    "explanation_hi": "गंगौर राजस्थान में देवी गौरी के समर्पित एक प्रमुख त्योहार है, जिसे खासकर विवाहित महिलाएं उत्साहपूर्वक मनाती हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Dance",
+    "question_en": "Which traditional Rajasthani dance form is closely associated with the Kalbeliya community?",
+    "question_hi": "कौन सा पारंपरिक राजस्थानी नृत्य रूप कलबेलिया समुदाय से निकटता से संबंधित है?",
+    "A_en": "Ghoomar", "A_hi": "घूमर",
+    "B_en": "Kalbeliya", "B_hi": "कलबेलिया",
+    "C_en": "Chari", "C_hi": "चारी",
+    "D_en": "Barsati", "D_hi": "बरसाती",
+    "answer": "B",
+    "explanation_en": "Kalbeliya dance is performed by the Kalbeliya community to honor the snake god. It is known for its hypnotic movements and traditional attire.",
+    "explanation_hi": "कलबेलिया नृत्य कलबेलिया समुदाय द्वारा सर्प देवता की पूजा करने के लिए किया जाता है। इसके लिए हिपनोटिक आंदोलन और पारंपरिक पोशाक के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Music",
+    "question_en": "Which musical instrument is traditionally used in Rajasthani folk music?",
+    "question_hi": "राजस्थानी लोक गीत में परंपरागत रूप से कौन सा संगीतक यंत्र उपयोग में लिया जाता है?",
+    "A_en": "Sarangi", "A_hi": "सरंगी",
+    "B_en": "Flute", "B_hi": "बांसुरी",
+    "C_en": "Dholak", "C_hi": "ढोलक",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Sarangi, Flute, and Dholak are all traditional instruments used in Rajasthani folk music, contributing to its unique sound.",
+    "explanation_hi": "सरंगी, बांसुरी और ढोलक राजस्थानी लोक गीत में उपयोग किए जाने वाले पारंपरिक यंत्र हैं जो इसके अद्वितीय ध्वनि में योगदान देते हैं।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Cuisine",
+    "question_en": "What is the most iconic dish of Rajasthan?",
+    "question_hi": "राजस्थान का सबसे प्रतिष्ठित व्यंजन क्या है?",
+    "A_en": "Dal Baati Churma", "A_hi": "दाल बाती चूरमा",
+    "B_en": "Gatte ki Sabzi", "B_hi": "गट्टे की सब्जी",
+    "C_en": "Methi Malaiya", "C_hi": "मेथी मलाइया",
+    "D_en": "Panchkuta", "D_hi": "पांचकुटा",
+    "answer": "A",
+    "explanation_en": "Dal Baati Churma is a staple dish in Rajasthan, made with lentils, wheat balls, and a sweet crumb mixture, representing the region's culinary heritage.",
+    "explanation_hi": "दाल बाती चूरमा राजस्थान में एक मुख्य व्यंजन है, जो दाल, गेहूं के गोले और मीठे टुकड़े के मिश्रण से बनता है, जो क्षेत्र के खाना पकाने के विरासत को प्रतिबिंबित करता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Art",
+    "question_en": "Which art form is known for its vibrant colors and depiction of miniature paintings?",
+    "question_hi": "कौन सी कला रूप उज्ज्वल रंगों और नानूकला चित्रों के चित्रण के लिए जाना जाता है?",
+    "A_en": "Blue Pottery", "A_hi": "नीली मिट्टी",
+    "B_en": "Miniature Painting", "B_hi": "मिनी चित्रकला",
+    "C_en": "Block Printing", "C_hi": "ब्लॉक प्रिंटिंग",
+    "D_en": "Kathputli", "D_hi": "काथपुतली",
+    "answer": "B",
+    "explanation_en": "Miniature Painting is a traditional Rajasthani art form characterized by intricate details and bright colors, often depicting scenes from epics and mythology.",
+    "explanation_hi": "मिनी चित्रकला राजस्थानी पारंपरिक कला रूप है जिसकी विशेषता जटिल बिस्तर और जीवंत रंग है, जो अक्सर पुराण और पौराणिक कथाओं की घटनाओं को चित्रित करता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Folk Literature",
+    "question_en": "Who is considered the 'Shakespeare of Rajasthan'?",
+    "question_hi": "'राजस्थान का शेक्सपियर' किसे माना जाता है?",
+    "A_en": "Rajasthan Singh", "A_hi": "राजस्थान सिंह",
+    "B_en": "Rajendra Singh", "B_hi": "राजेंद्र सिंह",
+    "C_en": "Rasheeda Singh", "C_hi": "रशीदा सिंह",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "B",
+    "explanation_en": "Rajendra Singh is a renowned Rajasthani poet and writer, often referred to as the 'Shakespeare of Rajasthan' for his contributions to Rajasthani literature.",
+    "explanation_hi": "राजेंद्र सिंह एक प्रसिद्ध राजस्थानी कवि और लेखक हैं, जिन्हें अपने राजस्थानी साहित्य में योगदान के लिए 'राजस्थान का शेक्सपियर' के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Language",
+    "question_en": "What is the official language of Rajasthan?",
+    "question_hi": "राजस्थान की आधिकारिक भाषा क्या है?",
+    "A_en": "Hindi", "A_hi": "हिंदी",
+    "B_en": "Rajasthani", "B_hi": "राजस्थानी",
+    "C_en": "Marwari", "C_hi": "मारवाड़ी",
+    "D_en": "Both A and B", "D_hi": "A और B दोनों",
+    "answer": "D",
+    "explanation_en": "Hindi is the official language of Rajasthan, but Rajasthani is also recognized as a scheduled language.",
+    "explanation_hi": "राजस्थान की आधिकारिक भाषा हिंदी है, लेकिन राजस्थानी को भी एक निर्धारित भाषा के रूप में मान्यता दी गई है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Architecture",
+    "question_en": "Which fort in Rajasthan is known as the 'Lake City'?",
+    "question_hi": "राजस्थान में कौन सा किला 'झील नगरी' के रूप में जाना जाता है?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Amber Fort", "B_hi": "अंबर किला",
+    "C_en": "Udaipur Fort", "C_hi": "उदयपुर किला",
+    "D_en": "Jaisalmer Fort", "D_hi": "जैसलमेर किला",
+    "answer": "C",
+    "explanation_en": "Udaipur Fort is known as the 'Lake City' due to its numerous lakes and scenic beauty.",
+    "explanation_hi": "उदयपुर किला 'झील नगरी' के रूप में जाना जाता है, क्योंकि इसके कई झीलों और प्राकृतिक सौंदर्य के कारण।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Historical Figures",
+    "question_en": "Who was the legendary Rajput king known for his valor during the Maratha invasion?",
+    "question_hi": "मराठा आक्रमण के दौरान अपने साहस के लिए जाने जाने वाले प्रसिद्ध राजपूत राजा कौन थे?",
+    "A_en": "Rana Sanga", "A_hi": "राणा सांगा",
+    "B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+    "C_en": "Raj Singh", "C_hi": "राज सिंह",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "B",
+    "explanation_en": "Maharana Pratap is a revered historical figure in Rajasthan, known for his resistance against the Mughal Empire and his leadership during the Maratha conflict.",
+    "explanation_hi": "महाराणा प्रताप राजस्थान में एक प्रतिष्ठित ऐतिहासिक आकर हैं, जिन्हें मुगल साम्राज्य के खिलाफ अपनी प्रतिरोध और मराठा संघर्ष के दौरान अपनी नेतृत्व के लिए जाना जाता है।"
+  },
+  {
+    "subject": "Rajasthan Culture",
+    "topic": "Traditional Attire",
+    "question_en": "What is the traditional dress of Rajasthani women called?",
+    "question_hi": "राजस्थानी महिलाओं का पारंपरिक पहनावा क्या कहलाता है?",
+    "A_en": "Bandhani", "A_hi": "बंधनी",
+    "B_en": "Ghoomar", "B_hi": "घूमर",
+    "C_en": "Chaniya Choli", "C_hi": "चानिया चोली",
+    "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+    "answer": "D",
+    "explanation_en": "Bandhani, Ghoomar, and Chaniya Choli are all traditional attire worn by Rajasthani women, each with distinct styles and significance.",
+    "explanation_hi": "बंधनी, घूमर और चानिया चोली राजस्थानी महिलाओं द्वारा पहने जाने वाले पार
