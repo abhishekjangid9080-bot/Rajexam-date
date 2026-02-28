@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Rajasthan Forts",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा नवीन नगर है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगारघाट",
+"B_en": "Kalikaji Fort", "B_hi": "कालिकाजी कंधन",
+"C_en": "Rajasthan Royals Cricket Club", "C_hi": "राजस्थान रायल्स क्लब",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमाई बहान पल्स",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is the famous fort located in Jodhpur.",
+"explanation_hi": "मेरंगारघाट वह जो जोधपुर में है।",
+"explanation": "Mehrangarh Fort is a famous fort located in Jodhpur, Rajasthan. It was built in the 15th century and is known for its beautiful architecture and historical significance."
+}
+]
