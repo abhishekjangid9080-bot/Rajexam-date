@@ -1,0 +1,65 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में प्रत्येक अभिप्रकार का क्या फोट है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेहनगर फोट",
+"B_en": "Kalaiya Fort", "B_hi": "कलाईया फोट",
+"C_en": "Rajasthan Royals Cricket Team", "C_hi": "राजस्थान रोईयां",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमाई बहान",
+"answer": "D",
+"explanation_en": "Umaid Bhawan Palace is the famous palace located in Jodhpur. It was built by Maharaja Umaid Singh and is now a heritage hotel.",
+"explanation_hi": "उमाई बहान पाली योजित किया गया है और इसका उपयोग किया गया है जो भवन है और इसे निर्देश सिंग से जोड़ी गयी है और इसे विभिज्ञानी इतिहाँ से जोड़ी गयी है।",
+"question_hi": "राजस्थान के निर्देश सिंग के मात्रा है और इसे विभिज्ञानी इतिहाँ से जोड़ी गयी है।",
+"A_hi": "राजस्थान की निर्देश सिंग के मात्रा है और इसे विभिज्ञानी इतिहाँ से जोड़ी गयी है।",
+"question_en": "Which Indian scientist is associated with Rajasthan and has been credited with the discovery of this place?",
+"A_en": "राजस्थान के विभिज्ञानी इतिहार में अग्राहरू के मात्रा है और इसका प्रतिपति है।",
+"B_en": "राजस्थान में अग्राहरू के मात्रा है और इसे प्रतिपति है।",
+"C_en": "राजस्थान में अग्राहरू के मात्रा है और इसे प्रतिपति है।",
+"D_en": "राजस्थान में अग्राहरू के मात्रा है और इसे प्रतिपति है।",
+"question_hi": "राजस्थान में अग्राहरू के मात्रा है और इसे प्रतिपति है।",
+"option_en": [
+{
+"option_value": "Agam Kishan Maharaj",
+"option_text": "अग्राहरू",
+},
+{
+"option_value": "Jaswant Singh",
+"option_text": "जस्वति",
+},
+{
+"option_value": "Dhyan Singh",
+"option_text": "ध्यान",
+},
+{
+"option_value": "Sardar Patel",
+"option_text": "सरदर पटी",
+}
+],
+"option_hi": [
+{
+"option_value": "अग्राहरू",
+"option_text": "अगराहरू",
+},
+{
+"option_value": "जस्वति",
+"option_text": "जसवति",
+},
+{
+"option_value": "ध्यान",
+"option_text": "ध्यान",
+},
+{
+"option_value": "सरदर प्ति",
+"option_text": "सरदर पटी",
+},
+"answer": "ति",
+"explanation_en": "जसवति is the correct answer because it is mentioned in various sources as the birthplace of Maharana Pratap Singh.",
+"explanation_hi": "ति करान कार प्ति का सर पटि कार पटि कार पट्यार प्ति कार पटि कार पटि कार प्यार पटि",
+"question_hi": "कार पटि कार पटि कार प्यार पटि कार पटि",
+"answer": "कार पटि कार प्यार पटि",
+"explanation_hi": "कार पटि कार पटि कार पटि कार पटि",
+"answer": "कार पटि कार पटि",
+"question_en": "कार पटि कार पटि",
+]
