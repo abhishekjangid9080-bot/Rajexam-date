@@ -1,0 +1,32 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Places",
+"question_en": "Which historical fort was built by Rao Jodha?",
+"question_hi": "राव जोधा ने किस अभिषेक बनाया ?",
+"A_en": "Amer Fort", "A_hi": "आमर किस्मत",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुंभलगढ़ किस्मत",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाजार",
+"D_en": "Chittorgarh Fort", "D_hi": "चीटरगढ़ किस्मत",
+"answer": "D",
+"explanation_en": "Chittorgarh Fort was built by Rao Jodha.",
+"explanation_hi": "राव जोधा ने चीटरगढ़ किस्मत को बनाया।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Royal Family",
+"question_en": "Which Rathore Rajput family ruled Jaipur?",
+"question_hi": "जापुर के राजपूत लोक क्या थे?",
+"A_en": "Kishan Singh Rathore",
+"A_hi": "किशन सिंग रात्ते",
+"B_en": "Jagmohan Singh Rathore",
+"B_hi": "जग्मोहन सिंग रात्ते",
+"C_en": "Dharam Singh Rathore",
+"C_hi": "धर्म सिंग रात्ते",
+"D_en": "Jagmal Singh Rathore",
+"D_hi": "जगमल सिंग रात्ते",
+"answer": "C",
+"explanation_en": "Dharam Singh Rathore was the ruler of Jaipur.",
+"explanation_hi": "धर्म सिंग रात्ते जापुर की सरकार है।",
+}
+]
