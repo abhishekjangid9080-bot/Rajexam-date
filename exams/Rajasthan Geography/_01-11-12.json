@@ -1,0 +1,162 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on Rajasthan Geography, specifically for exams like LDC, CET, RAS, SSC, and Railway. The instructions mention that both Hindi and English versions of the questions and options are needed in a Testbook style. The JSON format is crucial here, so I need to make sure each question follows the structure exactly.
+
+First, I need to brainstorm topics within Rajasthan Geography that are relevant for these exams. Topics could include rivers, districts, historical sites, climate, wildlife sanctuaries, etc. Let me list out some key areas:
+
+1. Rivers in Rajasthan
+2. Districts and their features
+3. Historical monuments
+4. Climate and natural vegetation
+5. Wildlife sanctuaries and national parks
+6. Agriculture and crops
+7. Minerals and mineral resources
+8. Demography and population
+9. Tourism and famous places
+10. Geography-related facts and statistics
+
+Now, for each topic, I need to form a question with four options, ensuring the correct answer is clear. Let me start with the first one. For example, a question on the longest river in Rajasthan. The options could be Luni, Chambal, Mahi, and Sabarmati. The correct answer is Chambal, but wait, I need to verify. Wait, Chambal is a major river, but the longest might be the Sutlej? No, Sutlej flows through Punjab. Wait, in Rajasthan, the Chambal is a significant river, but the longest in Rajasthan might be the Luni? Wait, no. Let me check. The Chambal flows through Rajasthan and Madhya Pradesh. The Luni is entirely in Rajasthan. The length of Chambal is about 960 km, but in Rajasthan, its length is around 300 km. The Luni is about 495 km. Hmm, maybe the question is about the longest river in Rajasthan, which is the Luni? Wait, I'm getting confused here. Need to confirm. Alternatively, maybe the question is about the river that flows into the Chambal. Wait, perhaps I should structure the question differently. Alternatively, ask which river is known as the "Rajasthan Ganga," which is the Chambal. That's a common fact. So that's a good question.
+
+Next, districts. Which district is known as the "Granary of Rajasthan"? The options could be Jalore, Churu, Jodhpur, Bikaner. The correct answer is Jalore, I think. Wait, Jalore is known for its agricultural production. Another question could be about the district with the highest population. According to recent data, Jaipur is the largest district by population. 
+
+For historical monuments, which fort is called the "Eagle Fort"? That's Chittorgarh Fort. Another could be which fort is associated with Rani Padmini, Chittorgarh again. 
+
+Wildlife sanctuaries: Which sanctuary is famous for blackbucks? The options could be Khijadiya, Karera, Sawai Mansingh, etc. Karera Sanctuary is known for blackbucks. 
+
+Agriculture: Which crop is a major Kharif crop in Rajasthan? The options might be millet, wheat, barley, jowar. Millet is a Kharif crop. 
+
+Minerals: Which district is famous for marble? Makrana is known for white marble. 
+
+Tourism: Which is the highest peak in Rajasthan? Mount Abu is the highest peak, which is part of the Aravalli range. 
+
+Climate: Which region in Rajasthan is known for its dry climate? Thar Desert, of course. 
+
+Population: Which district has the lowest population density? Jaisalmer, perhaps. 
+
+Now, I need to ensure each question is clear, the options are plausible, and the explanations are concise. Also, the difficulty level should be appropriate for the mentioned exams. Let me verify each fact to avoid errors. For example, confirming the longest river in Rajasthan. The Luni is the largest river in Rajasthan by length, flowing entirely within the state. The Chambal is longer in total but flows through multiple states. So the answer to the longest river in Rajasthan is Luni. Wait, earlier I thought Chambal, but that's incorrect. Need to correct that. So the first question should be about the longest river, answer is Luni. The Chambal is a major river but not the longest in Rajasthan. 
+
+Another example: The "Rajasthan Ganga" is Chambal. That's a common name given to it. 
+
+Each question needs to have options in both languages. For example, the question in English and Hindi, options A to D in both languages. The answer key should be accurate, and explanations should clearly justify the correct answer. 
+
+I'll structure each question step by step, ensuring the JSON format is correct. Let me start drafting each entry one by one, checking for any inconsistencies or errors. Also, ensure that the explanations are brief but sufficient to clarify the answer. For example, explaining why Chittorgarh Fort is called the "Eagle Fort" because of its location on a hill. 
+
+Once all 10 questions are drafted, I'll validate them against the JSON schema provided. Make sure all keys are present, and the order is correct. No extra fields, and the language is properly translated. Finally, review each question for clarity and correctness before finalizing the JSON.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Rivers and Water Bodies",
+    "question_en": "Which is the longest river in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+    "A_en": "Chambal", "A_hi": "चंबल",
+    "B_en": "Luni", "B_hi": "लूनी",
+    "C_en": "Mahanadi", "C_hi": "महानदी",
+    "D_en": "Sabarmati", "D_hi": "साबरमती",
+    "answer": "B",
+    "explanation_en": "The Luni River is the largest river in Rajasthan, flowing entirely within the state. It originates in the Pushkar valley near Ajmer.",
+    "explanation_hi": "लूनी नदी राजस्थान की सबसे बड़ी नदी है जो पूरी तरह से राज्य में बहती है। यह अजमेर के पुष्कर घाटी से उत्पन्न होती है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Historical Monuments",
+    "question_en": "Which fort in Rajasthan is known as the 'Eagle Fort'?",
+    "question_hi": "राजस्थान में किस किले के रूप में 'गिद्ध किला' के रूप में जाना जाता है?",
+    "A_en": "Chittorgarh Fort", "A_hi": "चित्तौड़गढ़ किला",
+    "B_en": "Amber Fort", "B_hi": "अम्बर किला",
+    "C_en": "Jaisalmer Fort", "C_hi": "जैसलमेर किला",
+    "D_en": "Kumbhalgarh Fort", "D_hi": "कुंभलगढ़ किला",
+    "answer": "A",
+    "explanation_en": "Chittorgarh Fort is situated on a hill, resembling an eagle's perch, hence the name 'Eagle Fort.'",
+    "explanation_hi": "चित्तौड़गढ़ किला एक पहाड़ी पर स्थित है जो एक गिद्ध के बसे के जैसा दिखता है, इसलिए इसे 'गिद्ध किला' कहा जाता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Districts and Features",
+    "question_en": "Which district is known as the 'Granary of Rajasthan'?",
+    "question_hi": "राजस्थान में किस जिले के रूप में 'गेहूं की घाटी' के रूप में जाना जाता है?",
+    "A_en": "Jalore", "A_hi": "जालौर",
+    "B_en": "Churu", "B_hi": "चूरू",
+    "C_en": "Jodhpur", "C_hi": "जोधपुर",
+    "D_en": "Bikaner", "D_hi": "बीकानेर",
+    "answer": "A",
+    "explanation_en": "Jalore is known as the 'Granary of Rajasthan' due to its high agricultural production, particularly of wheat and pulses.",
+    "explanation_hi": "जालौर को 'राजस्थान की गेंहूं की घाटी' कहा जाता है क्योंकि यहाँ अनाज विशेषकर गेंहूं और दालें का उत्पादन अधिक होता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Wildlife Sanctuaries",
+    "question_en": "Which wildlife sanctuary is famous for blackbucks?",
+    "question_hi": "कौन सा वन्यजीव अभयारण्य ब्लैकबक के लिए प्रसिद्ध है?",
+    "A_en": "Karera Sanctuary", "A_hi": "करेरा अभयारण्य",
+    "B_en": "Sariska Sanctuary", "B_hi": "सरिस्का अभयारण्य",
+    "C_en": "Kumbhalgarh Sanctuary", "C_hi": "कुंभलगढ़ अभयारण्य",
+    "D_en": "Ranthambore Sanctuary", "D_hi": "राणा थाम्बौर अभयारण्य",
+    "answer": "A",
+    "explanation_en": "Karera Sanctuary in Rajasthan is renowned for its population of blackbucks and is a major conservation site for these animals.",
+    "explanation_hi": "राजस्थान के करेरा अभयारण्य ब्लैकबक के लिए प्रसिद्ध है और यहाँ इन जानवरों के संरक्षण के लिए मुख्य स्थल है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Climate and Vegetation",
+    "question_en": "Which region in Rajasthan has the highest annual rainfall?",
+    "question_hi": "राजस्थान में किस क्षेत्र में सबसे अधिक वार्षिक वर्षा होती है?",
+    "A_en": "Mount Abu", "A_hi": "माउंट अबू",
+    "B_en": "Jaisalmer", "B_hi": "जैसलमेर",
+    "C_en": "Bikaner", "C_hi": "बीकानेर",
+    "D_en": "Ajmer", "D_hi": "अजमेर",
+    "answer": "A",
+    "explanation_en": "Mount Abu receives the highest rainfall in Rajasthan due to its location in the Aravalli ranges and orographic effects.",
+    "explanation_hi": "माउंट अबू राजस्थान में सबसे अधिक वर्षा प्राप्त करता है क्योंकि यह अरावली पर्वत श्रृंखला में स्थित है और पर्वतीय प्रभाव के कारण होता है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Agriculture",
+    "question_en": "Which crop is primarily grown in the Malwa region of Rajasthan?",
+    "question_hi": "राजस्थान के मालवा क्षेत्र में मुख्य रूप से कौन सी फसल उगाई जाती है?",
+    "A_en": "Wheat", "A_hi": "गेहूं",
+    "B_en": "Millet", "B_hi": "ज्वार",
+    "C_en": "Cotton", "C_hi": "ऊन",
+    "D_en": "Rice", "D_hi": "चावल",
+    "answer": "A",
+    "explanation_en": "The Malwa region is known for its fertile soil and is a major producer of wheat in Rajasthan.",
+    "explanation_hi": "मालवा क्षेत्र उर्वर भूमि के कारण राजस्थान में गेहूं के उत्पादन का मुख्य क्षेत्र है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Minerals",
+    "question_en": "Which district is renowned for its white marble?",
+    "question_hi": "कौन से जिले में श्वेत संगमरमर के लिए प्रसिद्ध है?",
+    "A_en": "Makrana", "A_hi": "मकराणा",
+    "B_en": "Chittorgarh", "B_hi": "चित्तौड़गढ़",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Kota", "D_hi": "कोटा",
+    "answer": "A",
+    "explanation_en": "Makrana District is famous for its white marble, historically used in the Taj Mahal.",
+    "explanation_hi": "मकराणा जिला श्वेत संगमरमर के लिए प्रसिद्ध है जिसका उपयोग ताजमहल में ऐतिहासिक रूप से किया गया।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Tourism",
+    "question_en": "Which is the highest peak in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+    "A_en": "Mount Abu", "A_hi": "माउंट अबू",
+    "B_en": "Kumbhalgarh", "B_hi": "कुंभलगढ़",
+    "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+    "D_en": "Chittorgarh", "D_hi": "चित्तौड़गढ़",
+    "answer": "A",
+    "explanation_en": "Mount Abu is the highest point in Rajasthan, situated in the Aravalli mountain range.",
+    "explanation_hi": "माउंट अबू राजस्थान में सबसे ऊँचा बिंदु है जो अरावली पर्वत श्रृंखला में स्थित है।"
+  },
+  {
+    "subject": "Rajasthan Geography",
+    "topic": "Population",
+    "question_en": "Which district has the highest population density in Rajasthan?",
+    "question_hi": "राजस्थान में किस जिले में जनसंख्या घनत्व सबसे अधिक है?",
+    "A_en": "Jaipur", "A_hi": "जयपुर",
+    "B_en": "Jodhpur", "B_hi": "जोधपुर",
+    "C_en": "Udaipur", "C_hi": "उदयपुर",
+    "D_en": "Kota", "D_hi": "कोटा",
+    "answer": "A",
+    "explanation_en": "Jaipur District has the highest population density due to urbanization and being the capital city.",
+    "explanation
