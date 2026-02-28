@@ -1,0 +1,105 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Famous Cities",
+"question_en": "Which is the capital of Rajasthan and which are some of its famous cities?",
+"question_hi": "राजस्थान की राजधानी और इसके कुछ उच्चारिताओं के नाम",
+"A_en": "Jaipur and Jodhpur", "A_hi": "जयपुर और जोधपुर",
+"B_en": "Udaipur and Bikaner", "B_hi": "उदयपुर और बिकनेर",
+"C_en": "Jaisalmer and Sawai Madhopur", "C_hi": "जयसालमेर और सवाई माधोपुर",
+"D_en": "Alwar and Bharatpur", "D_hi": "अलवार और भरतपुर",
+"answer": "B",
+"explanation_en": "Rajasthan has Jaipur and Jodhpur as two of its capital cities. Udaipur and Bikaner are also famous cities in Rajasthan.",
+"explanation_hi": "राजस्थान में जयपुर और जोधपुर कांचना है। Udaipur और Bikaner भी राजस्थान में एक ज्ञानी श्रेणी है।",
+"explanation_en": "Jaipur and Jodhpur are the capital cities of Rajasthan. Udaipur and Bikaner are also famous cities in Rajasthan. These cities are known for their rich history and culture.",
+"explanation_hi": "राजस्थान में जयपुर और जोधपुर कांचना है। Udaipur और Bikaner भी राजस्थान में एक ज्ञानी श्रेणी है।",
+{
+"subject": "Rajasthan",
+"topic": "Rajasthan's Historical Sites",
+"question_en": "Which are some of the historically significant places in Rajasthan?",
+"question_hi": "राजस्थान में कुछ इस्लीक के रचनाएं हैं।",
+"A_en": [
+{
+"option": "Deedhoon Fort",
+"option_en": "देदून फोट",
+"option_hi": "देदून फोट",
+"value": "बोल्ड्सन बिंग्स्टेंस हैं।"
+},
+{
+"option": "Amber Fort",
+"option_en": "अम्बर फोट",
+"option_hi": "अम्बेर फोट",
+"value": "अम्बेर फोट"
+},
+{
+"option": "Mehrangarh Fort",
+"option_en": "मेहनगर फोट",
+"option_hi": "मेहनगर फोट",
+"value": "मेहनगर फोट"
+},
+{
+"option": "Kote Hanuman Garhi",
+"option_en": "कोट हनुमान घरी",
+"option_hi": "कोट हनुमान घरी",
+"value": "कोट हनुमान घरी"
+},
+{
+"option": "Chittaurgarh Fort",
+"option_en": "चिटाउरगढ़र फोट",
+"option_hi": "चीटाउरगढ़र फोट",
+"value": "चिटाउरगढ़र फोट"
+}
+]
+],
+"question_en": "Which forts were built during the reign of Maharaja Rao Jodha?",
+"question_hi": "माहारा राऊँ जॉद् के समभारा माहारा जॉद्",
+"A_en": [
+{
+"option": "Chittorgarh Fort",
+"option_en": "Chittorgarh Fort",
+"option_hi": "चीटोरगढ़ फोट",
+"value": "चिटाउरगढ़रढ़रढ़र",
+"explanation_en": "Chittorgarh Fort, also known as Chittorgarh Fort, was built during Maharaja Rao Jodha's reign.",
+"explanation_hi": "चिटाउरगढ़रढ़",
+},
+{
+"option": "Amber Fort",
+"option_en": "Amber Fort",
+"option_hi": "अजरढर",
+"value": "अजरढरढर",
+"explanation_en": "Amber Fort, also known as Amer Fort, was built during the time of Maharaja Man Singhji.",
+"explanation_hi": "अजरढरढरढर",
+},
+{
+"option": "Gag Meena Fort",
+"option_en": "Gag Meena Fort",
+"option_hi": "गढरढरढर",
+"value": "अजरढर",
+"explanation_en": "Gag Meena Fort, also known as Meena Fort, was built during the Rajput Dynasty era.",
+"explanation_hi": "गढरढरढरढर",
+},
+{
+"option": "Laxmikunda Fort",
+"option_en": "Laxminagar Fort",
+"option_hi": "लढर अर",
+"value": "लढर",
+"explanation_en": "Laxminagar Fort, also known as Laxminagar Fort, was built during the Rajput Dynasty era.",
+"explanation_hi": "लढर अरढरढर",
+},
+{
+"option": "Kumbhala Fort",
+"option_en": "Kumbhala Fort",
+"option_hi": "कढरढरढर",
+"value": "अरढरढर",
+"explanation_en": "Kumbhala Fort, also known as Kumbhala Fort, was built during the Rajput Dynasty era.",
+"explanation_hi": "कढरढरढरढर",
+},
+{
+"option": "Taj Mahal",
+"option_en": "Taj Mahal",
+"option_hi": "ताढरढरढर",
+"value": "अरढर",
+"explanation_en": "Taj Mahal, also known as Taj Mahal, is a famous monument built during Mughal era.",
+"explanation_hi": "ताढरढरढर",
+}
+]
