@@ -1,0 +1,19 @@
+[
+{
+"subject": "Economy",
+"topic": "Fiscal Policy",
+"question_en": "What is the primary objective of a fiscal policy?",
+"question_hi": "प्रमुख विभागीय मामले क्या है अनुमानित प्राप्ति की प्रमाणीय विभागीय मामले?",
+"A_en": "Increase in government expenditure",
+"A_hi": "सरकारी निवेश",
+"B_en": "Increase in taxation",
+"B_hi": "टैक्स की विज्ञान",
+"C_en": "Increase in both government expenditure and taxation",
+"C_hi": "सरकारी निवेश और टैक्स की विज्ञान",
+"D_en": "Increase in fiscal deficit",
+"D_hi": "विभागीय शक्ति तंत्रज्ञान",
+"answer": "C",
+"explanation_en": "The primary objective of a fiscal policy is to achieve a balance between government expenditure and taxation. In other words, it aims to increase both government spending and tax revenue simultaneously.",
+"explanation_hi": "विभागीय प्रणम की प्रत्यामिति",
+}
+]
