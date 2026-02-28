@@ -1,0 +1,194 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling key topics in Rajasthan's history. The region has a rich history with various dynasties, important battles, and notable rulers.
+
+First, I'll list some important dynasties like the Guhilot (Mewar), Kachwaha (Jaipur), Sisodia (Mewar), and Pratihara. Then, important events such as the Rajputana Rebellion, the role of Rajputs, and significant historical sites like Chittorgarh Fort.
+
+I should cover different aspects: rulers and their contributions, significant battles, historical monuments, and administrative history under different periods. Let me think about the difficulty level. Since it's for Rajasthan exams, the questions should be specific to the state's history, not too general.
+
+For example, a question on the founder of Jaipur, Raja Sawai Jai Singh. Another could be about the ruler who defeated the Mughals, like Maharana Pratap. The battle of Haldighati is important here. Then there's the role of Rajputs in resisting Mughal and later British invasions.
+
+I also need to include questions on the Pratihara dynasty, which ruled a large part of North India including Rajasthan. Their capital was Kannauj, but they had significant influence in Rajasthan. The Guhilas of Mewar are another key dynasty.
+
+Important historical figures like Rani Padmini from the legend of Chittorgarh, Alauddin Khilji's invasion, and the establishment of the British Raj's influence through the Doctrine of Lapse.
+
+I should also include questions about historical monuments like Amber Fort, Hawa Mahal, and their builders. The role of Sardar Patel in Rajasthan's integration after independence is another important point.
+
+Now, checking each question for clarity, accuracy, and to ensure they are not ambiguous. Options should be plausible but with one clear correct answer. For example, who built the Amber Fort, or who was the ruler during the British annexation.
+
+Let me structure each question with the subject as Rajasthan History, topic as specified (though the user left it blank, maybe it's to be filled based on the question). The explanations need to be concise and accurate, providing just enough context without being too lengthy.
+
+I need to ensure that the JSON format is strictly followed, with Hindi and English for each option and explanations. Also, the answer key should be correct. Finally, review each question for any errors or redundancies before finalizing.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rulers and Dynasties",
+        "question_en": "Who was the founder of the Kachwaha dynasty in Rajasthan?",
+        "question_hi": "राजस्थान में कच्छवाह संतान के संस्थापक कौन थे?",
+        "A_en": "Raja Man Singh",
+        "A_hi": "राजा मान सिंह",
+        "B_en": "Raja Raja Todar Mal",
+        "B_hi": "राजा राजा तोदर मल",
+        "C_en": "Raja Raja Bhoj",
+        "C_hi": "राजा राजा भोज",
+        "D_en": "Raja Raja Sawai Jai Singh",
+        "D_hi": "राजा राजा सवाई जय सिंह",
+        "answer": "B",
+        "explanation_en": "Raja Raja Todar Mal is considered the founder of the Kachwaha dynasty in Rajasthan.",
+        "explanation_hi": "राजा राजा तोदर मल राजस्थान में कच्छवाह राजवंश के संस्थापक माने जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Battles and Conflicts",
+        "question_en": "In which battle did Maharana Pratap defeat the Mughal forces?",
+        "question_hi": "राजा महाराणा प्रताप मुगल सेना को किस लड़ाई में हराए थे?",
+        "A_en": "Battle of Haldighati",
+        "A_hi": "हल्दीघाटी की लड़ाई",
+        "B_en": "Battle of Khanwa",
+        "B_hi": "खानवा की लड़ाई",
+        "C_en": "Battle of Chittorgarh",
+        "C_hi": "चित्तौड़गढ़ की लड़ाई",
+        "D_en": "Battle of Sarangpur",
+        "D_hi": "सरंगपुर की लड़ाई",
+        "answer": "D",
+        "explanation_en": "Maharana Pratap defeated the Mughal forces in the Battle of Sarangpur in 1576.",
+        "explanation_hi": "महाराणा प्रताप ने मुगल सेना को 1576 में सरंगपुर की लड़ाई में हराया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Monuments",
+        "question_en": "Who built the Amber Fort in Rajasthan?",
+        "question_hi": "राजस्थान में अम्बर किला किसने बनवाया था?",
+        "A_en": "Raja Man Singh I",
+        "A_hi": "राजा मान सिंह प्रथम",
+        "B_en": "Raja Raja Todar Mal",
+        "B_hi": "राजा राजा तोदर मल",
+        "C_en": "Raja Raja Bhim Singh",
+        "C_hi": "राजा राजा भीम सिंह",
+        "D_en": "Raja Raja Sawai Jai Singh",
+        "D_hi": "राजा राजा सवाई जय सिंह",
+        "answer": "A",
+        "explanation_en": "The Amber Fort was built by Raja Man Singh I of the Kachwaha dynasty.",
+        "explanation_hi": "अम्बर किला कच्छवाह राजवंश के राजा मान सिंह प्रथम द्वारा बनाया गया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rajputana Rebellion",
+        "question_en": "Which ruler led the Rajputana Rebellion against the British in 1857?",
+        "question_hi": "1857 में ब्रिटिश के खिलाफ राजपूताना विद्रोह में कौन सा शासक नेतृत्व कर रहा था?",
+        "A_en": "Maharaja Sawai Madho Singh II",
+        "A_hi": "महाराजा सवाई मदन सिंह द्वितीय",
+        "B_en": "Maharaja Bhagwat Singh",
+        "B_hi": "महाराजा भागवत सिंह",
+        "C_en": "Maharaja Raj Singh",
+        "C_hi": "महाराजा राज सिंह",
+        "D_en": "Maharaja Takht Singh",
+        "D_hi": "महाराजा तख्त सिंह",
+        "answer": "A",
+        "explanation_en": "Maharaja Sawai Madho Singh II of Jaipur led the Rajputana Rebellion against the British in 1857.",
+        "explanation_hi": "जयपुर के महाराजा सवाई मदन सिंह द्वितीय ने 1857 में ब्रिटिश के खिलाफ राजपूताना विद्रोह का नेतृत्व किया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Pratihara Dynasty",
+        "question_en": "Which ruler of the Pratihara dynasty established the capital at Kannauj?",
+        "question_hi": "प्रतिहार राजवंश के किस शासक ने कानूज को राजधानी बनाया?",
+        "A_en": "Vatsaraja",
+        "A_hi": "वत्सराज",
+        "B_en": "Mihir Bhoja",
+        "B_hi": "मिहिर भोज",
+        "C_en": "Nagabhata I",
+        "C_hi": "नागभाटा प्रथम",
+        "D_en": "Nagabhata II",
+        "D_hi": "नागभाटा द्वितीय",
+        "answer": "D",
+        "explanation_en": "Nagabhata II of the Pratihara dynasty established Kannauj as the capital.",
+        "explanation_hi": "प्रतिहार राजवंश के नागभाटा द्वितीय ने कानूज को राजधानी बनाया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Mewar Dynasty",
+        "question_en": "Who was the founder of the Sisodiya dynasty in Mewar?",
+        "question_hi": "मेवाड़ में सिसोदिया राजवंश के संस्थापक कौन थे?",
+        "A_en": "Raja Bappa Rawal",
+        "A_hi": "राजा बप्पा रावल",
+        "B_en": "Raja Ratan Singh",
+        "B_hi": "राजा रतन सिंह",
+        "C_en": "Raja Rana Sanga",
+        "C_hi": "राजा राणा संगा",
+        "D_en": "Raja Rana Pratap",
+        "D_hi": "राजा राणा प्रताप",
+        "answer": "A",
+        "explanation_en": "Raja Bappa Rawal is considered the founder of the Sisodiya dynasty in Mewar.",
+        "explanation_hi": "राजा बप्पा रावल मेवाड़ में सिसोदिया राजवंश के संस्थापक माने जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "British Raj",
+        "question_en": "When did the British annex Rajasthan through the Doctrine of Lapse?",
+        "question_hi": "ब्रिटिश राज ने राजस्थान किस दिन लैप्स एगोरा के माध्यम से शामिल किया गया?",
+        "A_en": "1852",
+        "A_hi": "1852",
+        "B_en": "1858",
+        "B_hi": "1858",
+        "C_en": "1868",
+        "C_hi": "1868",
+        "D_en": "1872",
+        "D_hi": "1872",
+        "answer": "B",
+        "explanation_en": "The British annexed Rajasthan through the Doctrine of Lapse in 1858.",
+        "explanation_hi": "ब्रिटिश राज ने 1858 में लैप्स एगोरा के माध्यम से राजस्थान को शामिल किया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Events",
+        "question_en": "Which event is associated with Rani Padmini of Chittorgarh?",
+        "question_hi": "चित्तौड़गढ़ की रानी पद्मिनी के साथ कौन सी घटना जुड़ी है?",
+        "A_en": "Battle of Haldighati",
+        "A_hi": "हल्दीघाटी की लड़ाई",
+        "B_en": "Siege of Chittorgarh",
+        "B_hi": "चित्तौड़गढ़ का घेराबंदी",
+        "C_en": "Revolt of 1857",
+        "C_hi": "1857 का विद्रोह",
+        "D_en": "Rajputana Rebellion",
+        "D_hi": "राजपूताना विद्रोह",
+        "answer": "B",
+        "explanation_en": "Rani Padmini of Chittorgarh is associated with the Siege of Chittorgarh by Alauddin Khilji.",
+        "explanation_hi": "चित्तौड़गढ़ की रानी पद्मिनी अलाउद्दीन खिलजी के द्वारा चित्तौड़गढ़ के घेराबंदी से जुड़ी हुई है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Integration of Rajasthan",
+        "question_en": "When was Rajasthan integrated after the independence of India?",
+        "question_hi": "भारत के स्वतंत्रता के बाद राजस्थान कब एकीकृत हुआ?",
+        "A_en": "1948",
+        "A_hi": "1948",
+        "B_en": "1949",
+        "B_hi": "1949",
+        "C_en": "1950",
+        "C_hi": "1950",
+        "D_en": "1956",
+        "D_hi": "1956",
+        "answer": "B",
+        "explanation_en": "Rajasthan was integrated in 1949 after the independence of India.",
+        "explanation_hi": "भारत के स्वतंत्रता के बाद राजस्थान 1949 में एकीकृत हुआ।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Architectural Contributions",
+        "question_en": "Who designed the Hawa Mahal in Jaipur?",
+        "question_hi": "जयपुर में हवा महल किसने डिज़ाइन किया था?",
+        "A_en": "Raja Sawai Jai Singh II",
+        "A_hi": "राजा सवाई जय सिंह द्वितीय",
+        "B_en": "Raja Sawai Man Singh II",
+        "B_hi": "राजा सवाई मान सिंह द्वितीय",
+        "C_en": "Raja Raja Todar Mal",
+        "C_hi": "राजा राजा तोदर मल",
+        "D_en": "Raja Raja Bhim Singh",
+        "D_hi": "राजा राजा भीम सिंह",
+        "answer": "A",
+        "explanation_en": "The Hawa Mahal in Jaipur was designed by Raja Sawai Jai Singh II.",
+        "explanation_hi": "जयपुर में हवा महल की डिज़ाइन राजा सवाई जय सिंह द्वितीय द्वारा की गई थी।"
+    }
+]
