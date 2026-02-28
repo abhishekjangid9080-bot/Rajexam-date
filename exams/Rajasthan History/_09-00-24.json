@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace is located in Jaipur?",
+"question_hi": "जयपुर में केकर स्थित फॉमसेंटर क्या है।",
+"A_en": "Amer Fort", "A_hi": "आमे फॉर्ट",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "City Palace", "C_hi": "शहर मंदिर",
+"D_en": "Palace of winds", "D_hi": "स्पीक मंदिर",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur known for its unique architecture.\nIn Hindi, it translates to 'Palace of Winds'.",
+"explanation_hi": "हवा महाल जैसेवाले आध्यान का स्पीक मंदिर"
+}
+]
