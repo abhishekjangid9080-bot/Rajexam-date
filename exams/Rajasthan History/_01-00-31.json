@@ -1,0 +1,186 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan History for exams like LDC, CET, RAS, SSC, and Railway. The questions need to be in both Hindi and English, following a strict JSON format. First, I need to recall key events, rulers, and historical periods in Rajasthan's history.
+
+Starting with the earliest kingdoms. Which ruler is associated with the establishment of the Maurya administration? Chandragupta Maurya comes to mind. Then, maybe a question on the Pratihara Empire. Harshavardhana is another key figure, known for the Kirad-Tilok and Nagananda. The Rajput era is crucial. Rana Pratap and the Battle of Haldighati would be a good topic. 
+
+Ahmed Shah Abdali's invasions are important for Mughal history in Rajasthan. Rao Maldeo of Marwar is known for his administrative reforms. The formation of Rajasthan state in 1956 is a key event. The Mughal ruler who defeated Rana Sanga at Khanwa was Babur. Kumbhakonam is linked to the Rathores. The founder of the Mewar dynasty, Rana Sanga's lineage, might be another point.
+
+I need to ensure each question has four options, with the correct answer clearly marked. Also, explanations in both languages are necessary. Let me check each topic for accuracy. For example, Rao Maldeo's contributions to Marwar's administration. Ahmed Shah Abdali's invasions in 1756. The Mughal empire's establishment in Rajasthan by Akbar. 
+
+Wait, the Mughal ruler who defeated Rana Sanga was actually Babur, not Akbar. Need to correct that. Also, Kumbhakonam's association with the Rathore dynasty. The formation of Rajasthan state in 1956. Each question should test specific knowledge points relevant to Rajasthan's history. Let me structure each with clear options, avoiding ambiguity. Double-check the facts to avoid errors. For example, Chandragupta Maurya's administration in Rajasthan was established in 322 BCE. The Pratihara ruler who defeated the Rashtrakutas was Nagabhata I. 
+
+Okay, compiling all these into the JSON format now. Ensure the translations are accurate and the options are plausible. The difficulty level should be moderate, fitting for state exams. Let me review each question for clarity and correctness before finalizing the JSON.
+</think>
+
+[
+{
+  "subject": "Rajasthan History",
+  "topic": "Ancient History",
+  "question_en": "Which ruler established the Maurya administration in Rajasthan in 322 BCE?",
+  "question_hi": "322 ईसा पूर्व में राजस्थान में मौर्य संप्रभुता की स्थापना किस शासक द्वारा की गई थी?",
+  "A_en": "Chandragupta Maurya",
+  "A_hi": "चंद्रगुप्त मौर्य",
+  "B_en": "Ashoka",
+  "B_hi": "अशोक",
+  "C_en": "Bindusara",
+  "C_hi": "बिंदुसार",
+  "D_en": "Kunal",
+  "D_hi": "कुणाल",
+  "answer": "A",
+  "explanation_en": "Chandragupta Maurya established the Maurya administration in Rajasthan in 322 BCE.",
+  "explanation_hi": "322 ईसा पूर्व में चंद्रगुप्त मौर्य ने राजस्थान में मौर्य संप्रभुता की स्थापना की।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Medieval History",
+  "question_en": "Which Pratihara ruler defeated the Rashtrakuta ruler Govinda III in 773 CE?",
+  "question_hi": "773 ईसवी में राष्ट्रकूट शासक गोविंद तृतीय को पराजित करने वाले प्रतिहार शासक कौन थे?",
+  "A_en": "Nagabhata I",
+  "A_hi": "नागभट एकवी",
+  "B_en": "Nagabhata II",
+  "B_hi": "नागभट द्वितीय",
+  "C_en": "Mihir Bhoja",
+  "C_hi": "मिहिर भोज",
+  "D_en": "Chandela",
+  "D_hi": "चंदेला",
+  "answer": "B",
+  "explanation_en": "Nagabhata II defeated the Rashtrakuta ruler Govinda III in 773 CE, expanding the Pratihara Empire's influence.",
+  "explanation_hi": "773 ईसवी में नागभट द्वितीय ने राष्ट्रकूट शासक गोविंद तृतीय को पराजित किया, जिससे प्रतिहार साम्राज्य का प्रभाव बढ़ा।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Medieval History",
+  "question_en": "Who composed the Sanskrit play 'Kirad-Tilok' and 'Nagananda' in the court of Harshavardhana?",
+  "question_hi": "हर्षवर्धन के दरबार में 'किराद-तिलोक' और 'नगानंद' के कलकार कौन थे?",
+  "A_en": "Banabhatta",
+  "A_hi": "बाणभट्ट",
+  "B_en": "Subandhu",
+  "B_hi": "सुबंधु",
+  "C_en": "Bhattanu",
+  "C_hi": "भट्टानु",
+  "D_en": "Harshavardhana",
+  "D_hi": "हर्षवर्धन",
+  "answer": "A",
+  "explanation_en": "Banabhatta composed the Sanskrit plays 'Kirad-Tilok' and 'Nagananda' during the reign of Harshavardhana.",
+  "explanation_hi": "हर्षवर्धन के शासनकाल में बाणभट्ट ने संस्कृत नाटक 'किराद-तिलोक' और 'नगानंद' की रचना की।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Era",
+  "question_en": "Which Rajput ruler is associated with the Battle of Haldighati in 1576?",
+  "question_hi": "1576 में हल्दीघाटी के युद्ध से कौन सा राजपूत शासक जुड़ा था?",
+  "A_en": "Rana Sanga",
+  "A_hi": "राणा संगा",
+  "B_en": "Rana Pratap",
+  "B_hi": "राणा प्रताप",
+  "C_en": "Maharana Amar Singh I",
+  "C_hi": "महाराणा अमर सिंह प्रथम",
+  "D_en": "Raja Man Singh",
+  "D_hi": "राजा मन सिंह",
+  "answer": "B",
+  "explanation_en": "Rana Pratap led the Rajput forces against the Mughals in the Battle of Haldighati in 1576.",
+  "explanation_hi": "राणा प्रताप ने 1576 में हल्दीघाटी के युद्ध में मुगलों के खिलाफ राजपूत सैनिकों का नेतृत्व किया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Modern History",
+  "question_en": "In which year did the Indian National Congress organize a session in Bikaner?",
+  "question_hi": "भारतीय राष्ट्रीय कांग्रेस ने बीकानेर में कांग्रेस की बैठक कब आयोजित की थी?",
+  "A_en": "1921",
+  "A_hi": "1921",
+  "B_en": "1925",
+  "B_hi": "1925",
+  "C_en": "1929",
+  "C_hi": "1929",
+  "D_en": "1932",
+  "D_hi": "1932",
+  "answer": "A",
+  "explanation_en": "The Indian National Congress organized a session in Bikaner in 1921 during the Non-Cooperation Movement.",
+  "explanation_hi": "1921 में भारतीय राष्ट्रीय कांग्रेस ने बीकानेर में आत्मसमर्पण आंदोलन के दौरान एक बैठक आयोजित की।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Medieval History",
+  "question_en": "Who was the Mughal ruler who defeated Rana Sanga at Khanwa in 1527?",
+  "question_hi": "1527 में खानवा में राणा संगा को पराजित करने वाला मुग़ल शासक कौन था?",
+  "A_en": "Babur",
+  "A_hi": "बाबर",
+  "B_en": "Humayun",
+  "B_hi": "हुमायूँ",
+  "C_en": "Akbar",
+  "C_hi": "अकबर",
+  "D_en": "Shah Jahan",
+  "D_hi": "शाहजहाँ",
+  "answer": "A",
+  "explanation_en": "Babur defeated Rana Sanga at Khanwa in 1527, consolidating Mughal control in Rajasthan.",
+  "explanation_hi": "1527 में बाबर ने खानवा में राणा संगा को पराजित किया, जिससे मुगलों का राजस्थान पर नियंत्रण मजबूत हुआ।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Rajput Era",
+  "question_en": "Which Rajput ruler is associated with the establishment of the Kumbhakonam fort?",
+  "question_hi": "कुंभकोणम किले की स्थापना किस राजपूत शासक से जुड़ी थी?",
+  "A_en": "Maharaja Jai Singh II",
+  "A_hi": "महाराजा जय सिंह द्वितीय",
+  "B_en": "Raj Singh I",
+  "B_hi": "राज सिंह प्रथम",
+  "C_en": "Raja Man Singh",
+  "C_hi": "राजा मन सिंह",
+  "D_en": "Rao Chandrasen",
+  "D_hi": "राव चंद्रसेन",
+  "answer": "D",
+  "explanation_en": "Rao Chandrasen of the Rathore dynasty established the Kumbhakonam fort in the 16th century.",
+  "explanation_hi": "16वीं शताब्दी में राव चंद्रसेन ने राठौड़ वंश के कुंभकोणम किले की स्थापना की।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Modern History",
+  "question_en": "Who was the founder of the Mewar dynasty?",
+  "question_hi": "मेवाड़ वंश के संस्थापक कौन थे?",
+  "A_en": "Rana Sanga",
+  "A_hi": "राणा संगा",
+  "B_en": "Rana Kumbha",
+  "B_hi": "राणा कुंभ",
+  "C_en": "Rana Ratan Singh",
+  "C_hi": "राणा रतन सिंह",
+  "D_en": "Rana Pratap",
+  "D_hi": "राणा प्रताप",
+  "answer": "C",
+  "explanation_en": "Rana Ratan Singh is considered the founder of the Mewar dynasty, which later flourished under Rana Sanga and Rana Pratap.",
+  "explanation_hi": "राणा रतन सिंह को मेवाड़ वंश के संस्थापक माना जाता है, जिसके बाद राणा संगा और राणा प्रताप के शासन में इसने विकास किया।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Modern History",
+  "question_en": "Which ruler of Marwar is famous for his administrative reforms in the 16th century?",
+  "question_hi": "16वीं शताब्दी में मारवाड़ के शासक कौन अपने प्रशासनिक सुधारों के लिए प्रसिद्ध हैं?",
+  "A_en": "Rao Jodha",
+  "A_hi": "राव जोधा",
+  "B_en": "Rao Maldeo",
+  "B_hi": "राव मल्देव",
+  "C_en": "Rao Chandrasen",
+  "C_hi": "राव चंद्रसेन",
+  "D_en": "Rao Bika",
+  "D_hi": "राव बिका",
+  "answer": "B",
+  "explanation_en": "Rao Maldeo of Marwar is renowned for his administrative reforms and strengthening the kingdom in the 16th century.",
+  "explanation_hi": "16वीं शताब्दी में मारवाड़ के राव मल्देव को अपने प्रशासनिक सुधारों और राज्य के बलगित के लिए प्रसिद्ध हैं।"
+},
+{
+  "subject": "Rajasthan History",
+  "topic": "Modern History",
+  "question_en": "In which year did the British annex the princely state of Marwar?",
+  "question_hi": "ब्रिटिश ने मारवाड़ रियासत का अधिग्रहण किस वर्ष किया था?",
+  "A_en": "1818",
+  "A_hi": "1818",
+  "B_en": "1835",
+  "B_hi": "1835",
+  "C_en": "1876",
+  "C_hi": "1876",
+  "D_en": "1947",
+  "D_hi": "1947",
+  "answer": "A",
+  "explanation_en": "The British annexed the princely state of Marwar in 1818 during the Anglo-Maratha Wars.",
+  "explanation_hi": "ब्रिटिश अंग्रेजी-मराठा युद्धों के दौरान 1818 में मारवाड़ रियासत का अधिग्रहण किया गया था।"
+}
+]
