@@ -1,0 +1,43 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Kingdoms",
+"question_en": "Which of the following Rajasthani kingdoms did not exist during the medieval period?",
+"question_hi": "मध्यभवनों में कौन से राजस्थानी राजधानियों में मध्यभवन क्या राजधानी के साथ नहीं हुए एक डेवली शासन के साथीं नहीं हुए।",
+"options": [
+{
+"option": "B",
+"option_en": "Kishangarh",
+"option_hi": "किशंगरी",
+"correct": false
+},
+{
+"option": "D",
+"option_en": "Amber",
+"option_hi": "अमर्त्ती",
+"correct": true
+},
+{
+"option": "E",
+"option_en": "Jhunjhunu",
+"option_hi": "जुंझूण",
+"correct": false
+},
+{
+"option": "F",
+"option_en": "Bikaner",
+"option_hi": "बिकानेर",
+"correct": false
+},
+{
+"option": "G",
+"option_en": "Sawai Madhopur",
+"option_hi": "साउंदोपर",
+"correct": false
+}
+],
+"answer_en": "Amber",
+"answer_hi": "अमर्त्ती",
+"answer_notes": "Amber was a Rajput kingdom which did not exist alongside the Delhi Sultanate."
+}
+]
