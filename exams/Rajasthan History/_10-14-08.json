@@ -1,0 +1,151 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan History, specifically on the topic provided. The user mentioned that the topic is empty, so I should check if there's a specific area they want. Since it's Rajasthan History, I'll cover various important events, rulers, and cultural aspects.
+
+First, I'll start with the early history, maybe the Maurya and Gupta periods. Then move to medieval times, like the Mughals and Rajput kingdoms. Then modern history, including the role of Rajasthan in the Indian independence movement. Also, important historical figures, cities, and cultural elements like forts and monuments. Each question should have a clear answer and explanations in both Hindi and English. I need to ensure that the options are plausible but incorrect, and the correct answer is unambiguous. Let me brainstorm some questions.
+
+1. Who was the founder of the Jaipur city? (Raja Sawai Jai Singh II)
+2. Which Mughal Emperor included Rajasthan under his empire for the first time? (Akbar)
+3. The famous fort of Chittorgarh is located in which district? (Chittorgarh)
+4. Who was the last ruler of the Rajput kingdom before the formation of Rajasthan state? (Maharaja Udaybhan Singh)
+5. Which historical site is known for the Dilwara Temples? (Mount Abu)
+6. In which year was the Rajasthan state formed? (1956)
+7. The Battle of Haldighati was fought between Maharana Pratap and whom? (Akbar's general Man Singh)
+8. Which ruler is known for the construction of the Hawa Mahal? (Maharaja Sawai Pratap Singh)
+9. The famous Kumbhalgarh Fort is associated with which historical period? (Mughal period, built by Raja Man Singh)
+10. Which Rajput ruler is associated with the tale of Padmini and Alauddin Khilji? (Raja Ratan Singh of Chittorgarh)
+
+I need to structure each question with four options in both languages. Make sure the explanations are clear. Check for accuracy in dates and names. Also, ensure that the difficulty is appropriate for Rajasthan State Exams.
+</think>
+
+[
+    {
+        "subject": "Rajasthan History",
+        "topic": "Rulers and Kingdoms",
+        "question_en": "Who was the founder of Jaipur city?",
+        "question_hi": "जयपुर शहर के संस्थापक कौन थे?",
+        "A_en": "Raja Sawai Jai Singh II", "A_hi": "राजा सवाई जय सिंह द्वितीय",
+        "B_en": "Raja Man Singh I", "B_hi": "राजा मान सिंह प्रथम",
+        "C_en": "Raja Ratan Singh", "C_hi": "राजा रतन सिंह",
+        "D_en": "Raja Udai Singh II", "D_hi": "राजा उदय सिंह द्वितीय",
+        "answer": "A",
+        "explanation_en": "Raja Sawai Jai Singh II founded Jaipur in 1727 as the capital of Amber.",
+        "explanation_hi": "राजा सवाई जय सिंह द्वितीय ने जयपुर की स्थापना 1727 में अम्बर की राजधानी के रूप में की।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Mughal Influence",
+        "question_en": "Which Mughal Emperor included Rajasthan under his empire for the first time?",
+        "question_hi": "कौन-सा मुग़ल बादशाह पहली बार राजस्थान को अपने साम्राज्य में शामिल करने में सफल रहा?",
+        "A_en": "Akbar", "A_hi": "अकबर",
+        "B_en": "Shah Jahan", "B_hi": "शाहजहाँ",
+        "C_en": "Babur", "C_hi": "बाबर",
+        "D_en": "Aurangzeb", "D_hi": "औरंगजेब",
+        "answer": "A",
+        "explanation_en": "Akbar's military campaigns in the 16th century brought Rajasthan under Mughal rule.",
+        "explanation_hi": "16वीं शताब्दी में अकबर के सैन्य अभियानों ने राजस्थान को मुग़ल शासन के अधीन कर दिया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Forts",
+        "question_en": "The famous Chittorgarh Fort is located in which district?",
+        "question_hi": "प्रसिद्ध चित्तौड़गढ़ किला किस जिले में स्थित है?",
+        "A_en": "Chittorgarh", "A_hi": "चित्तौड़गढ़",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Jodhpur", "C_hi": "जोधपुर",
+        "D_en": "Ajmer", "D_hi": "अजमेर",
+        "answer": "A",
+        "explanation_en": "Chittorgarh Fort is a UNESCO World Heritage Site located in the Chittorgarh district of Rajasthan.",
+        "explanation_hi": "चित्तौड़गढ़ किला राजस्थान के चित्तौड़गढ़ जिले में स्थित है और एक यूनेस्को विश्व धरोहर स्थल है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Freedom Movement",
+        "question_en": "Who was the last ruler of the Rajput kingdom before the formation of Rajasthan state in 1956?",
+        "question_hi": "1956 में राजस्थान राज्य के गठन से पहले राजपूत राज्य के अंतिम शासक कौन थे?",
+        "A_en": "Maharaja Sawai Man Singh II", "A_hi": "महाराजा सवाई मान सिंह द्वितीय",
+        "B_en": "Maharaja Udaybhan Singh", "B_hi": "महाराजा उदयभान सिंह",
+        "C_en": "Maharaja Bhim Singh", "C_hi": "महाराजा भीम सिंह",
+        "D_en": "Maharaja Pratap Singh", "D_hi": "महाराजा प्रताप सिंह",
+        "answer": "B",
+        "explanation_en": "Maharaja Udaybhan Singh was the last independent ruler before Rajasthan became a unified state in 1956.",
+        "explanation_hi": "महाराजा उदयभान सिंह 1956 में राजस्थान एकीकृत राज्य बनने से पहले अंतिम स्वतंत्र शासक थे।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Cultural Heritage",
+        "question_en": "Which historical site is known for the Dilwara Temples?",
+        "question_hi": "कौन-सा ऐतिहासिक स्थल डिलवाड़ा मंदिरों के लिए प्रसिद्ध है?",
+        "A_en": "Mount Abu", "A_hi": "माउंट आबू",
+        "B_en": "Chittorgarh", "B_hi": "चित्तौड़गढ़",
+        "C_en": "Jaisalmer", "C_hi": "जैसलमेर",
+        "D_en": "Jaipur", "D_hi": "जयपुर",
+        "answer": "A",
+        "explanation_en": "The Dilwara Temples are a Jain temple complex located at Mount Abu in Rajasthan.",
+        "explanation_hi": "डिलवाड़ा मंदिर राजस्थान के माउंट आबू में स्थित एक जैन मंदिर समूह है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Modern History",
+        "question_en": "In which year was the Rajasthan state formed?",
+        "question_hi": "राजस्थान राज्य किस वर्ष बना?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1950", "B_hi": "1950",
+        "C_en": "1956", "C_hi": "1956",
+        "D_en": "1960", "D_hi": "1960",
+        "answer": "C",
+        "explanation_en": "Rajasthan state was formed on 15 May 1956 after the States Reorganisation Act.",
+        "explanation_hi": "राजस्थान राज्य राज्य विभाजन अधिनियम के बाद 1956 में बना।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Famous Battles",
+        "question_en": "The Battle of Haldighati was fought between Maharana Pratap and whom?",
+        "question_hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप किसके खिलाफ लड़े?",
+        "A_en": "Sher Shah Suri", "A_hi": "शेर शाह सूरी",
+        "B_en": "Akbar", "B_hi": "अकबर",
+        "C_en": "Man Singh I", "C_hi": "मान सिंह प्रथम",
+        "D_en": "Jahangir", "D_hi": "जहांगीर",
+        "answer": "C",
+        "explanation_en": "The Battle of Haldighati in 1576 was fought between Maharana Pratap and Mughal commander Man Singh I.",
+        "explanation_hi": "1576 में हल्दीघाटी का युद्ध महाराणा प्रताप और मुग़ल सेनापति मान सिंह प्रथम के बीच लड़ा गया।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Architectural Marvels",
+        "question_en": "Who is known for the construction of the Hawa Mahal?",
+        "question_hi": "हवा महल के निर्माण के लिए किसे जाना जाता है?",
+        "A_en": "Maharaja Sawai Pratap Singh", "A_hi": "महाराजा सवाई प्रताप सिंह",
+        "B_en": "Maharaja Jai Singh II", "B_hi": "महाराजा जय सिंह द्वितीय",
+        "C_en": "Maharaja Man Singh I", "C_hi": "महाराजा मान सिंह प्रथम",
+        "D_en": "Maharaja Udai Singh II", "D_hi": "महाराजा उदय सिंह द्वितीय",
+        "answer": "A",
+        "explanation_en": "The Hawa Mahal in Jaipur was built in 1799 by Maharaja Sawai Pratap Singh.",
+        "explanation_hi": "जयपुर में हवा महल का निर्माण 1799 में महाराजा सवाई प्रताप सिंह द्वारा करवाया गया था।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Monuments",
+        "question_en": "The famous Kumbhalgarh Fort is associated with which historical period?",
+        "question_hi": "प्रसिद्ध कुंभलगढ़ किला किस ऐतिहासिक अवधि से संबंधित है?",
+        "A_en": "Mughal period", "A_hi": "मुग़ल काल",
+        "B_en": "Maratha period", "B_hi": "मराठा काल",
+        "C_en": "Gupta period", "C_hi": "गुप्त काल",
+        "D_en": "Vedic period", "D_hi": "वैदिक काल",
+        "answer": "A",
+        "explanation_en": "Kumbhalgarh Fort was built in the 15th century by Raja Man Singh of the Sisodia dynasty and is a Mughal architectural site.",
+        "explanation_hi": "कुंभलगढ़ किला 15वीं शताब्दी में राजा मान सिंह (सिसोदिया वंश) द्वारा बनाया गया था और मुग़ल वास्तुकला से जुड़ा हुआ है।"
+    },
+    {
+        "subject": "Rajasthan History",
+        "topic": "Historical Anecdotes",
+        "question_en": "Which Rajput ruler is associated with the tale of Padmini and Alauddin Khilji?",
+        "question_hi": "कौन-सा राजपूत शासक पद्मिनी और अलाउद्दीन खिलजी की कहानी से जुड़ा हुआ है?",
+        "A_en": "Raja Ratan Singh of Chittorgarh", "A_hi": "चित्तौड़गढ़ के राजा रतन सिंह",
+        "B_en": "Maharaja Jai Singh II", "B_hi": "महाराजा जय सिंह द्वितीय",
+        "C_en": "Maharaja Man Singh I", "C_hi": "महाराजा मान सिंह प्रथम",
+        "D_en": "Maharaja Sawai Jai Singh II", "D_hi": "महाराजा सवाई जय सिंह द्वितीय",
+        "answer": "A",
+        "explanation_en": "The legend of Padmini and Alauddin Khilji is linked to Raja Ratan Singh of Chittorgarh, as depicted in the Padmaavat epic.",
+        "explanation_hi": "पद्मिनी और अलाउद्दीन खिलजी की कहानी पद्मावत एपिक में चित्तौड़गढ़ के राजा रतन सिंह से जुड़ी हुई है।"
+    }
+]
