@@ -1,0 +1,169 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Culture. The user wants them in both Hindi and English, following the Testbook style. The main topics could be festivals, folk music, dance, famous personalities, traditional attire, cuisine, historical sites, etc. Let me brainstorm some questions.
+
+First question: What is the traditional dance form of Rajasthan? The options could be Ghoomar, Bhangra, Garba, Kathak. Answer is Ghoomar. Need to mention in explanations that Ghoomar is performed by women, especially in Marwar region.
+
+Second question: Which festival is known as the "Festival of Lights" in Rajasthan? Options: Diwali, Tusu, Gangaur, Mewar. Answer is Gangaur. Explanation: It's celebrated by married women, with lights and processions.
+
+Third question: The famous folk music style "Kajli Gey" is associated with which region? Options: Jaisalmer, Udaipur, Jaipur, Banswara. Answer: Jaisalmer. Explanation: It's a traditional form during rainy season, performed by men.
+
+Fourth question: What is the traditional attire for Rajasthani women? Options: Ghagra-Choli, Saree, Lehenga, Salwar Kameez. Answer: Ghagra-Choli. Mention the mirror work and colorful embroidery.
+
+Fifth question: Which city is known as the "Pink City"? Answer: Jaipur. Explanation: Named for the pink-colored buildings.
+
+Sixth question: The famous "Chand Baori" step well is located in which district? Options: Jodhpur, Nagaur, Bundi, Bikaner. Answer: Nagaur. Explanation: One of the deepest step wells in the world.
+
+Seventh question: Which Rajasthani cuisine dish is famous for its spiciness? Options: Dal Baati Churma, Gatte ki Sabzi, Ker Sangri, Laal Maas. Answer: Laal Maas. Explanation: A spicy mutton curry.
+
+Eighth question: The "Kirti Stambh" (Tower of Fame) is located in which city? Options: Chittorgarh, Ajmer, Jodhpur, Udaipur. Answer: Chittorgarh. Explanation: Built by Rana Raj Singh to commemorate victory over Muslims.
+
+Ninth question: Who is the famous folk singer associated with Rajasthan? Options: Ghulam Ali, Narendra Dabke, Kumar Sanu, Lata Mangeshkar. Answer: Ghulam Ali. Explanation: Known for his soulful folk and devotional songs.
+
+Tenth question: The "Rajasthan International Folk Festival" is held annually in which heritage hotel? Options: Umaid Bhawan, Lakshmi Niwas Palace, Samode Haveli, Nahargarh Fort. Answer: Samode Haveli. Explanation: It's a unique venue in Jaipur.
+
+Now, I need to format each question in the specified JSON structure, ensuring correct language translation and proper answer selection. Check for any errors in the options and explanations. Make sure explanations are concise and accurate. Also, ensure the difficulty level is appropriate for Rajasthan State Exams, focusing on key cultural aspects.
+</think>
+
+[
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Dance",
+  "question_en": "Which of the following is a traditional folk dance of Rajasthan performed by women?",
+  "question_hi": "राजस्थान में पुरुषों द्वारा नृत्य करे जाने वाले लोक नृत्य का कौनसा नाम है? ",
+  "A_en": "Ghoomar",
+  "A_hi": "घूमर",
+  "B_en": "Kalbeliya",
+  "B_hi": "कलबेलिया",
+  "C_en": "Chari",
+  "C_hi": "चारी",
+  "D_en": "Bhangra",
+  "D_hi": "भंगड़ा",
+  "answer": "A",
+  "explanation_en": "Ghoomar is a traditional folk dance of Rajasthan performed by women, especially in the Marwar region, characterized by graceful circular movements.",
+  "explanation_hi": "घूमर मरवाड़ क्षेत्र में महिलाओं द्वारा किया जाने वाला एक पारंपरिक लोक नृत्य है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Festivals",
+  "question_en": "Which festival in Rajasthan is associated with the worship of Goddess Gauri and is celebrated with lights and processions?",
+  "question_hi": "राजस्थान में कौनसा त्योहार गौरी माता की पूजा से जुड़ा हुआ है और प्रकाश के साथ निकाले जाने वाले रथों के साथ मनाया जाता है?",
+  "A_en": "Gangaur",
+  "A_hi": "गंगौर",
+  "B_en": "Teej",
+  "B_hi": "तीज",
+  "C_en": "Diwali",
+  "C_hi": "दिवाली",
+  "D_en": "Holi",
+  "D_hi": "होली",
+  "answer": "A",
+  "explanation_en": "Gangaur is a significant festival in Rajasthan dedicated to Goddess Gauri, celebrated with lights, processions, and traditional attire.",
+  "explanation_hi": "गंगौर राजस्थान में गौरी माता की पूजा के लिए मनाया जाने वाला महत्वपूर्ण त्योहार है जिसमें प्रकाश और पारंपरिक पोशाक का उपयोग किया जाता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Music",
+  "question_en": "Which traditional Rajasthani folk music style is performed during the monsoon season and is known for its rhythmic footwork?",
+  "question_hi": "राजस्थान में वर्षा ऋतु में मनाये जाने वाले और पैर के ताल पर नृत्य के साथ जुड़े लोक गायकी का कौनसा रूप है?",
+  "A_en": "Kajli Gey",
+  "A_hi": "काजली गीत",
+  "B_en": "Bhajan",
+  "B_hi": "भजन",
+  "C_en": "Lokgeet",
+  "C_hi": "लोकगीत",
+  "D_en": "Manganiyar",
+  "D_hi": "मंगनियार",
+  "answer": "A",
+  "explanation_en": "Kajli Gey is a traditional Rajasthani folk music style performed during the monsoon season, characterized by rhythmic footwork and energetic performances.",
+  "explanation_hi": "काजली गीत वर्षा ऋतु में मनाए जाने वाले राजस्थानी लोक गायकी का एक पारंपरिक रूप है जिसमें पैर के ताल पर सक्रिय नृत्य शामिल होता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Traditional Attire",
+  "question_en": "What is the traditional attire for Rajasthani women that includes a long skirt with mirror work and intricate embroidery?",
+  "question_hi": "राजस्थानी महिलाओं के पारंपरिक पोशाक में दर्पण के काम और जटिल बुनाई के साथ कौनसा लंबा ऊपरी वस्त्र शामिल होता है?",
+  "A_en": "Ghagra-Choli",
+  "A_hi": "घगरा-चोली",
+  "B_en": "Sherwani",
+  "B_hi": "शेरवानी",
+  "C_en": "Sari",
+  "C_hi": "साड़ी",
+  "D_en": "Salwar Kameez",
+  "D_hi": "सलवार कमीज़",
+  "answer": "A",
+  "explanation_en": "Ghagra-Choli is the traditional attire for Rajasthani women, featuring a long skirt with mirror work and vibrant embroidery.",
+  "explanation_hi": "घगरा-चोली राजस्थानी महिलाओं का पारंपरिक पोशाक है जिसमें दर्पण के काम और जीवंत बुनाई के साथ लंबा ऊपरी वस्त्र शामिल होता है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Historical Sites",
+  "question_en": "Which step well in Rajasthan is renowned for its architectural grandeur and is considered one of the deepest in the world?",
+  "question_hi": "राजस्थान में कौनसा सीढ़ीदार कुआँ अपनी वास्तुकला के लिए प्रसिद्ध है और विश्व के सबसे गहरे कुएँ माना जाता है?",
+  "A_en": "Chand Baori",
+  "A_hi": "चंद बावड़ी",
+  "B_en": "Dhai Din Ka Jhopra",
+  "B_hi": "ढाई दिन का झोपड़ा",
+  "C_en": "Rani ki Vav",
+  "C_hi": "राणी की वाव",
+  "D_en": "Adhai Din Ka Jhopra",
+  "D_hi": "अढ़ाई दिन का झोपड़ा",
+  "answer": "A",
+  "explanation_en": "Chand Baori is a famous step well in Rajasthan, located in Nagaur, known for its architectural depth and historical significance.",
+  "explanation_hi": "चंद बावड़ी राजस्थान की एक प्रसिद्ध सीढ़ीदार बावड़ी है जो नागौर में स्थित है और वास्तुकला के लिए जानी जाती है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Cuisine",
+  "question_en": "Which Rajasthani dish, known for its spiciness and rich flavor, is made with dried red chilies and mutton?",
+  "question_hi": "कौनसा राजस्थानी पकवान मसालों और गरमी से बनाया गया नृत्य वाला चटपटा मांस का पकवान है जिसमें सूखे लाल मिरचे और मटन शामिल होते हैं?",
+  "A_en": "Laal Maas",
+  "A_hi": "लाल मांस",
+  "B_en": "Dal Baati Churma",
+  "B_hi": "दाल बाती चूरमा",
+  "C_en": "Ker Sangri",
+  "C_hi": "केर संगड़ी",
+  "D_en": "Gatte ki Sabzi",
+  "D_hi": "गट्टे की सब्जी",
+  "answer": "A",
+  "explanation_en": "Laal Maas is a spicy mutton curry from Rajasthan, made with dried red chilies and is a staple in local cuisine.",
+  "explanation_hi": "लाल मांस राजस्थान की एक चटपटी मटन की सब्जी है जिसमें सूखे लाल मिरचे शामिल होते हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Monuments",
+  "question_en": "In which city is the Kirti Stambh (Tower of Fame) located, a symbol of victory over Muslim rulers?",
+  "question_hi": "किर्ति स्तंभ (प्रसिद्धि के टॉवर) कहाँ स्थित है, जो मुस्लिम शासकों पर विजय का प्रतीक है?",
+  "A_en": "Chittorgarh",
+  "A_hi": "चित्तौड़गढ़",
+  "B_en": "Ajmer",
+  "B_hi": "अजमेर",
+  "C_en": "Jodhpur",
+  "C_hi": "जोधपुर",
+  "D_en": "Udaipur",
+  "D_hi": "उदयपुर",
+  "answer": "A",
+  "explanation_en": "Kirti Stambh is located in Chittorgarh and was built by Rana Raj Singh to commemorate his victory over Muslim rulers.",
+  "explanation_hi": "किर्ति स्तंभ चित्तौड़गढ़ में स्थित है और राणा राज सिंह द्वारा बनाया गया था जो मुस्लिम शासकों पर विजय का प्रतीक है।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Folk Singers",
+  "question_en": "Which of the following is a renowned folk singer from Rajasthan known for his soulful performances?",
+  "question_hi": "राजस्थान के लोक गायक कौन है जो अपने मन को छूने वाले प्रसंगों के लिए जाने जाते हैं?",
+  "A_en": "Ghulam Ali",
+  "A_hi": "गुलाम अली",
+  "B_en": "Narendra Dabke",
+  "B_hi": "नरेंद्र दाभके",
+  "C_en": "Kumar Sanu",
+  "C_hi": "कुमार सानू",
+  "D_en": "Lata Mangeshkar",
+  "D_hi": "लता मंगेशकर",
+  "answer": "A",
+  "explanation_en": "Ghulam Ali is a famous Rajasthani folk singer known for his soulful performances of traditional songs.",
+  "explanation_hi": "गुलाम अली एक प्रसिद्ध राजस्थानी लोक गायक हैं जो पारंपरिक गीतों के आत्मसात करने वाले प्रसंगों के लिए जाने जाते हैं।"
+},
+{
+  "subject": "Rajasthan Culture",
+  "topic": "Heritage Hotels",
+  "question_en": "In which heritage hotel is the Rajasthan International Folk Festival held annually?",
+  "question_hi": "राजस्थान अंतरराष्ट्रीय लोक संगीत उत्सव किस आवासीय जगह में वार्षिक रूप से आयोजित किया जाता है?",
+  "A_en": "Samode Haveli",
