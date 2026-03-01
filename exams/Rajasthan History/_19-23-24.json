@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajputana Kingdom",
+"question_en": "Which Rajputana kingdom was founded by Rana Kumbha?",
+"question_hi": "राजपूताना किस राज्य की राणा कुमभा ने बनायी गई थी?",
+"A_en": "Chittor", "A_hi": "चैटोर",
+"B_en": "Amber", "B_hi": "अम्बर",
+"C_en": "Meon", "C_hi": "मेंन",
+"D_en": "Kishangarh", "D_hi": "किशंघर",
+"answer": "B",
+"explanation_en": "Rana Kumbha founded the Amber kingdom, also known as Jaipur.",
+"explanation_hi": "Rाणा कुम्भा ने अम्बर राज्य की बनाई, यहां जापान के नाम से जाने के लिए गए हैं।",
+}
+]
