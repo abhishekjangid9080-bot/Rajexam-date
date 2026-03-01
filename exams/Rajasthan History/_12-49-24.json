@@ -1,0 +1,28 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Monuments",
+"question_en": "Which monument is a popular attraction in Rajasthan and is also the seat of the Indian Government in the state?",
+"question_hi": "राजस्थान में इंडिया सरकार के घर और यह लोकतंत्रण का प्रमोटिन है?",
+"A_en": "Amber Fort", "A_hi": "आमर फोट",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Hawa Mahal", "C_hi": "हावा महाल",
+"D_en": "Palace of Winds", "D_hi": "वाहनाएं का मंदिर",
+"answer": "D",
+"explanation_en": "The Palace of Winds, also known as Hawa Mahal, is a famous monument in Jaipur and serves as the seat of the Rajasthan Government.",
+"explanation_hi": "जयपुर में Hawa Mahal, राजस्थान की सरकार का संतुल है।",
+"question_en": "Which monument in Jaipur is the seat of the Rajasthan Government?",
+"question_hi": "जयपुर में राजस्थान की सरकार का संतुल है।",
+"A_en": "Amber Fort",
+"A_hi": "आमर फोट",
+"B_en": "Havelis of Jaipur",
+"B_hi": "जयपुर के जातीय हैल",
+"C_en": "Monsoon Palace",
+"C_hi": "मंगलका मंडर",
+"D_en": "Palace of Winds",
+"D_hi": "हवालों का मंडर",
+"E_en": "Jai Pol",
+"E_hi": "जय पोल",
+"F_en": "Amber Fort",
+"F_hi": "आमर फोट"
+}
