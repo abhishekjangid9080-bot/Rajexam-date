@@ -1,0 +1,68 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Rajput clan did Krishna Devi Birla belong to?",
+"question_hi": "कृष्णा दीवाई बिल्रा के लिए किस Rajput कनेट के लिए है।",
+"A_en": "Kshatriyas",
+"A_hi": "कस्तीयां",
+"B_en": "Bhilwara",
+"B_hi": "बिल्वारा",
+"C_en": "Chauhans",
+"C_hi": "चौहानों",
+"D_en": "Birlas",
+"D_hi": "बिल्लाई",
+"answer": "C",
+"explanation_en": "Krishna Devi Birla belonged to the Chauhan Rajput clan. The Chauhans are known for their historical significance and contribution to the state of Rajasthan.",
+"explanation_hi": "कृष्णा दीवाई बिल्लाई के लिए चौहानों",
+"questions": [
+{
+"question_en": "Who was the founder of Jodhpur? ",
+"question_hi": "जोधपुर के संत्राज कौन संतुल के लिए।",
+"A_en": "Rao Jodh Singh",
+"A_hi": "राओ जोधसिंग",
+"B_en": "Gaj Singh",
+"B_hi": "गाज सिंग",
+"C_en": "Rao Jaswant Singh",
+"C_hi": "राओ जसवंत सिंग",
+"D_en": "Meera Jaswant Singh",
+"D_hi": "मीर जसवंत सिंग",
+"answer": "C",
+"explanation_en": "Jaswant Singh was the founder of Jodhpur. He established the Marwar kingdom, from which Jodhpur emerged as a city.",
+"explanation_hi": "जसवंत सिंग के लिएंग और उनकों का मरोवार के समालोगी बांग के लिएंग बांग ने जोड़पुर का समालय बांग करने वाले का मरोवार के समालोगी बांग ने उनका समालोगी बांग करने वाले के समालोगी बांग",
+"question_hi": "कौरम्यां के समालोगी बांग का मरोवार",
+"options": [
+{
+"option_id": 1,
+"option_text_en": "Jodhpur",
+"option_text_hi": "जोधपुर",
+"option_answer": 0
+},
+{
+"option_id": 2,
+"option_text_en": "Udaipur",
+"option_text_hi": "उदयपुर",
+"option_answer": 0
+},
+{
+"option_id": 3,
+"option_text_en": "Meerpur",
+"option_text_hi": "मीरपुर",
+"option_answer": 0
+},
+{
+"option_id": 4,
+"option_text_en": "Jaisalmer",
+"option_text_hi": "जयसालमेर",
+"option_answer": 0
+},
+{
+"option_id": 5,
+"option_text_en": "Rampura",
+"option_text_hi": "रामपुर",
+"option_answer": 0
+}
+],
+"answer": 2,
+"explanation_en": "Jodhpur and Udaipur are the two major cities in Rajasthan, while Meerpur and Jaisalmer are smaller towns. Rampura is not a well-known place in Rajasthan. Hence, the correct answer is Udaipur",
+"explanation_hi": "जोधपुर और उदयपुर राजमेर सामेर से संगेंगे ही राजमेर सामेर से संगेंगे ही राजमेर सामेर से संगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगंगेंगेंगंगेंगेंगेंगेंगेंगेंगेंगेंगंगेंगेंगेंगेंगेंगेंगेंगेंगेंगेंगंगेंगेंगेंगेंगेंगेंगेंगेंगे
