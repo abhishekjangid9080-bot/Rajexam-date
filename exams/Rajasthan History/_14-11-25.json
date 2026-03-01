@@ -1,0 +1,26 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस पहाड़ी है?",
+"A_en": "Amer Fort", "A_hi": "अमेर फॉट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaph of Sawai Mansingh", "C_hi": "सौवा मंसिंग्सीर का छात्रवास क्या है?",
+"D_en": "Wind Palace", "D_hi": "हैवा मंसिंग्सीर का छात्रवास क्या है?",
+"answer": "C",
+"explanation_en": "The Cenotaph of Sawai Mansingh is a monument dedicated to the memory of Sawai Mansingh II, the former ruler of Jaipur. It is also known as the ‘White Polosh’ or ‘Chandpole’. सौवा मंसिंगसीर का छात्रवास क्या है?",
+"explanation_hi": "सौवा मंसिंगसीर का छात्रवास क्या है?",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Residential Palaces",
+"question_en": "Which royal palace is located in Udaipur?",
+"question_hi": "उदयपुर में कौन स्वामी की मैंगलें किस्मानी की कौने मैंगलें के कंधर मैंगलें को क्या करते हैं?",
+"answer": "C",
+"explanation_en": "The City Palace of Udaipur, built by Maharaja Jagat Singh II, is a famous residential palace in Udaipur. It is a major tourist attraction and a symbol of the rich culture and history of Rajasthan. उदयपुर के कुट्टर की क्या बनाया गया है?",
+"explanation_hi": "उदयपुर मैंगलें को किस कार्याबा गया गया है?",
+"explanation_en": "The City Palace of Udaipur, built by Maharaja Jagat Singh II, is a magnificent palace complex consisting of several buildings. It was constructed between the 16th and 19th centuries and reflects the rich heritage of Rajasthan. उदयपुर के कुट्टर को किस का संस्करण की समस्तवाल स्वामय करण की समस्तवाल बनाया गया है?",
+"answer": "C",
+}
+]
