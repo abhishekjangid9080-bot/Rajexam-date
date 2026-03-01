@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Rajasthani king is associated with the construction of the Mehrangarh Fort?",
+"question_hi": "मेरंगरखंड के किस राजस्थानी संत को इसका निर्माण से सम्बंधित है।",
+"A_en": "Rao Jodha",
+"A_hi": "राव जोधा",
+"B_en": "Rao Kailas",
+"B_hi": "राव कैलाश",
+"C_en": "Rao Jodha",
+"C_hi": "राव जोधा",
+"D_en": "Rao Kailas",
+"D_hi": "राव कैलाश",
+"answer": "A",
+"explanation_en": "Rao Jodha is associated with the construction of the Mehrangarh Fort.",
+"explanation_hi": "राव जोधा मेहरंगरखंड का निर्माण से सम्बंधित है।",
+}
+]
