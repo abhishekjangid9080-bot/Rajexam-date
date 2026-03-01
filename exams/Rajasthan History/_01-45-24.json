@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan State and Its Capital",
+"question_en": "Which city was the capital of Rajasthan before Jaipur?",
+"question_hi": "राजस्थान की पहली राजधानी किस संस्करण में थी।",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "C",
+"explanation_en": "Before becoming the capital of Rajasthan, Udaipur was the capital of Mewar state.",
+"explanation_hi": "मेवार राज्य के राजधानी में, Udaipur थी।",
+}
+]
