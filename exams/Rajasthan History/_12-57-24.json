@@ -1,0 +1,42 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ancient capital of Rajasthan was known as 'Preti'? (Rajasthan had several ancient capitals.)",
+"question_hi": "राजस्थान में सफरिया पर किस अभिवासनागार थी जो 'प्रेती' कहा जाता था। (राजस्थान में बहुत सारी अभिवासनागार होती है।)
+
+{
+"subject": "Rajasthan History",
+"topic": "Ancient Capitals",
+"question_en": "Which ancient capital of Rajasthan was known as 'Preti'? (Rajasthan had several ancient capitals.)",
+"question_hi": "राजस्थान में बहुत सारी अभिवासनयागार होती है।",
+"options": [
+{
+"option_text_en": "Jaipur",
+"option_text_hi": "जयपुर",
+"option_key": "Jaipur"
+},
+{
+"option_text_en": "Ajmer",
+"option_text_hi": "अजमेर",
+"option_key": "Ajmer"
+},
+{
+"option_text_en": "Udaipur",
+"option_text_hi": "उडापुर",
+"option_key": "Udaipur"
+},
+{
+"option_text_en": "Jodhpur",
+"option_text_hi": "जोधपुर",
+"option_key": "Jodhpur"
+},
+{
+"option_text_en": "Kota",
+"option_text_hi": "कोता",
+"option_key": "Kota"
+}
+],
+"answer_key": "Jodhpur"
+}
+]
