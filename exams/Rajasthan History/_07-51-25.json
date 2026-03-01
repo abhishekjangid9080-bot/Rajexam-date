@@ -1,0 +1,58 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Important Places",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी किस शहर है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Amber",
+"B_hi": "अमेर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Jaipur",
+"D_hi": "जयपुर",
+"answer": "D",
+"explanation_en": "Jaipur is the capital city of Rajasthan. It is also known as the 'Pink City' due to its pink-colored buildings.",
+"explanation_hi": "राजस्थान की राजधानी शहर जयपुर है। उसमें क्या पेन का उत्तम शहर है?",
+"explanation_en": "Jaipur is well-known as the 'Pink City' due to the pink-colored buildings that adorn its streets. It was founded by Maharaja Sawai Jai Singh II and is a popular tourist destination.",
+"explanation_hi": "जयपुर आदित्र सत्यांजन का उत्तम शहर है? वह महाराष्ट्र सत्यांजन ने शहर बनिस्ट का नाम रखा है। वह अधिकांजन की शहर है और इसमें अंतरांजन का नाम रखा है।",
+"question_en": "Which city was founded by Maharaja Sawai Mansingh II and is named after him?",
+"question_hi": "महाराष्ट्र के सत्यांजन ने शहर बना और उसे उसका नाम रखा है।",
+"question_en": "Which city was founded by Maharaja Sawai Mansingh II and is named after him?",
+"question_hi": "महाराष्ट्र के सत्यांजन ने शहर बना और उसे उसे उसे उसका नाम रखा है।",
+"A_en": "Jaipur",
+"A_hi": "जयपुर",
+"B_en": "Amer",
+"B_hi": "अम्बर",
+"C_en": "Udaipur",
+"C_hi": "ओड़ियांगूर",
+"D_en": "Kumbhalgarh",
+"D_hi": "कुम्बलगढ़",
+"answer_en": "Jaipur",
+"answer_hi": "जयपुर",
+"question": "Which of the following cities was founded by Maharaja Sawai Mansingh II and named after him?",
+"options": [
+{
+"option_en": "Jaipur",
+"option_hi": "जयपुर",
+"option_key": "Jaipur"
+},
+{
+"option_en": "Amer",
+"option_hi": "अम्बर",
+"option_key": "Amer"
+},
+{
+"option_en": "Udaipur",
+"option_hi": "ओड़ियांगूर",
+"option_key": "Udaipur"
+},
+{
+"option_en": "Kumbhalgarh",
+"option_hi": "कुम्बलगढ़",
+"option_key": "Kumbhalgarh"
+}
+]
+}
+]
