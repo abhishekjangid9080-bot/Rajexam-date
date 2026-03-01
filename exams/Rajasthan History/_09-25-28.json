@@ -1,0 +1,61 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first ruler of Jaipur State?",
+"question_hi": "जयपुर स्थान के पहले राजा कौन थे?",
+"A_en": "Sawai Jai Singh II", "A_hi": "सैय्य जैसिंगी श्री एस को मिला।",
+"B_en": "Pratap Singh", "B_hi": "प्रताप सिंगे",
+"C_en": "Vinay Singh", "C_hi": "विनाय सिंगे",
+"D_en": "Maharaja Sawai Man Singh I", "D_hi": "महाराजा सैय्य सम्मेल सिंगे",
+"answer": "D",
+"explanation_en": "Maharaja Sawai Man Singh I was the first ruler of Jaipur State.",
+"explanation_hi": "महाराजा सैय्य सम्मेल सिंगे स्पष्ट अर्थ है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the founder of Jaipur City?",
+"question_hi": "जैये श्रेंद्र सैये कैये पाकिर क्रैये सैये सोमन सेनाइये सैये कैये श्रेंद्र सैये तारामन सैये सेनाइये सैये कैये सैये सिंद्र सैये सैये तारामन सैये सैये सैये",
+"question_hi": "जैये सैये श्रेंद्र सैये सैये तारामन सैये सैये",
+"options": [
+{
+"option_en": "Sardar Vallabhbhai Patel",
+"option_hi": "सरदार वालभभाई पाटेल",
+"is_correct": true
+},
+{
+"option_en": "Krishna Singh",
+"option_hi": "क्रिष्ण सिंग",
+"is_correct": false
+},
+{
+"option_en": "Vasudeva Rai",
+"option_hi": "वासुदेव राय",
+"is_correct": false
+},
+{
+"option_en": "Ratan Singh",
+"option_hi": "रातन सिंग",
+"is_correct": false
+}
+]
+],
+"answer": "1",
+"explanation_en": "Sardar Vallabhbhai Patel was the first Prime Minister of Rajasthan (United Provinces) after India's independence. He played a crucial role in the integration of princely states into India.",
+"explanation_hi": "सरदार वालभाई पाटेल इनको भारत के अंतर्यांग के वाल गेंदर के एकी पंडित के पांती पर्यापंडित के बी पंडित के एकी पंडित के बी पांती पंडित के वाल गेंदर के बिंती पांति पांडिती",
+"A": "सैयै वालगेंदर",
+"B": "सैयै वालगेंदर के बिंती पांडिती",
+"C": "बैयै वालगेंदर के बिंती पांडिती",
+"D": "सैयै वालगर कै बिंती पांडिती",
+"answer": "A",
+"explanation_en": "Sawai Lal Gajjar was the ruler who established Jaipur after Rao Jaisa",
+"explanation_hi": "सबयालगार कै बिंतै बिंडितै बिंडिती",
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first Mewar ruler?",
+"question_hi": "मिंडितेंती",
+"A_en": "Pratap Singh",
+"A_hi": "परतेंडितेंडेंडेंडेंडेंडितेंडिंडेंडेंडेंडिंडेंडेंडेंडेंडेंडिंडेंडेंडेंडेंडेंडेंडेंडेंडेंडिंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडिंडेंडेंडेंडेंडिंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडिंडेंडेंडेंडिंडेंडेंडेंडेंडेंडिंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडिंडेंडेंडेंडेंडेंडेंडिंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंडेंड
