@@ -1,0 +1,44 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the famous fort of Rajasthan?",
+"question_hi": "राजस्थान का स्थानीय कंत्रालीनेंट?",
+"A_en": "Amber Fort", "A_hi": "अमरी कंत्रालीनेंट",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Kishangarh Fort", "C_hi": "किशंघर्थ कंत्रालीनेंट",
+"D_en": "Hawa Mahal", "D_hi": "हवा महाल",
+"answer": "D",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur, Rajasthan. It is known for its unique architecture and is a popular tourist attraction. The palace was constructed by Maharaja Sawai Pratap Singh in the 16th century.",
+"explanation_hi": "Hawa Mahal योजनी का निवास है और राजस्थान में जैसे पर्चित है। यह कुली का निवास है और राजस्थान में जैसे पर्चित है।",
+"question_en": "Which monument is a famous landmark in Rajasthan?",
+"question_hi": "राजस्थान में कौन स्वरूनिया का मुखियाँ है।",
+"options": [
+{
+"option_number": 1,
+"option_title": "Amber Fort",
+"option_description_en": "Amber Fort is a historic palace located in Jaipur, Rajasthan.",
+"option_description_hi": "आरों का मुखिया है। यह जैसे पर्चित है।",
+"option_title_hi": "आरों",
+"option_description_hi": "आरों का मुखिया है। यह जैसे पर्चित है।",
+"option_number_hi": 1
+},
+{
+"option_number": 2,
+"option_title": "Samode Haveli",
+"option_description_en": "Samode Haveli is a historical mansion located in Jaipur, Rajasthan.",
+"option_description_hi": "सामोद हॉवील है जैसे पर्चित है।",
+"option_title_hi": "सामोद हॉवील",
+"option_description_hi": "सामोद हॉवील है जैसे पर्चित है।",
+"option_number_hi": 2
+},
+{
+"option_number": 3,
+"option_title": "Rajasthan Rally",
+"option_description_en": "Rajasthan Rally is an annual cultural festival celebrated in Rajasthan.",
+"option_description_hi": "राजस्थान का कलकल एन एनल स्टाइल है, जो राजस्थान में जैसे पर्चित है।",
+"option_title_hi": "राजस्थान का कलकल",
+"option_description_hi": "राजस्थान का कलकल",
+"option_number_hi": 3
+}
+]
