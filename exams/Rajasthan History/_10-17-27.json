@@ -1,0 +1,54 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous forts in Rajasthan were built during the Mewar dynasty?",
+"question_hi": "मैवर धर्माकांत के समय राजस्थान में किये गए प्रमुखीय रोमांस के कौन-से कंपनेवाली हैं।",
+"A_en": "Amer Fort, Chittorgarh Fort, and Kumbhalgarh Fort.",
+"A_hi": "अमेर, चित्रगढ़ कंपनेवाली हैं।",
+"B_en": "Amer Fort, Chittorgarh Fort, and Mehrangarh Fort.",
+"B_hi": "अमेर, चित्रगढ़ कंपनेवाली हैं।",
+"C_en": "Mehrangarh Fort, Amer Fort, and Udaipur City.",
+"C_hi": "मेहंरगढ़, अमेर और उदयपुर शहर",
+"D_en": "Amer Fort, Chittorgarh Fort, and Ranthambore National Park.",
+"D_hi": "अमेर, चित्रगढ़, रणतिमहंर",
+"answer": "C",
+"explanation_en": "The correct answer is option C as Mehrangarh Fort, Amer Fort, and Udaipur City are the famous forts located in Rajasthan during the era of Rana Kumbha.",
+"explanation_hi": "सहींगर, अमेर, उदयपुर शहर",
+"explanation": "इसमें राज कुम्भा के क्रेंगर, अमेर, उद्याम्बर",
+"question_en": "Which forts were built during the era of Rana Kumbha?",
+"question_hi": "राज कुम्भा के समय में क्याम्बर",
+```json
+{
+    "subject": "Rajasthan History",
+    "topic": "Rana Kumbha's era",
+    "question_en": "Which forts were built by Rana Kumbha?",
+    "question_hi": "राज कुम्भा के सम्बर में क्याम्बर",
+    "options": [
+        {
+            "option_en": "Amer Fort",
+            "option_hi": "अमेर",
+            "option_explain_en": "Amer Fort is a historical fort located in Jaipur, and was a stronghold of the Kachhwahas during the reign of Rana Kumbha. It was built by Rana Kumbha",
+            "option_explain_hi": "अमेर - यह जापुर में बने थे और राजन कुम्भा के चार्मन के विधि में बने थे और राजन कुम्भा के विधि में बने थे और राजन कुम्भा के विधि में बने थे और राजन कुम्भा के विधि में बने थे और राजन कुम्भा के विधि में बनी थी और राजन कुम्भा के विधि में बनी थी और राजन कुम्भा के विधि में बनी थी और राजन कुम्भा के विधि में बनी थि और राजन कुम्भा के विधि में बनी थि और राजन कुम्भा के विधि में बनी थि और राजन कम्भा के विधि में बनी थि राजन कुम्भा के विधि में बनी थि राजन कुम्भा के विधि में बनी थि राजन कम्भा कें विधि राजन कुम्भा के वि राजन कुम्भा के वि राजन के वि राजन कुम्भा के वि राजन कम्भा के वि राजन कुम्भा के वि राजन के वि राजन के वि राजन क्भा के वि राजन के वि राजन के वि राजन के वि राजन के वि राजन के वि",
+"answer": "C",
+"explanation_en": "C",
+"explanation_hi": "राजन के वि राजन के वि",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rana Kumbha ki Raaj",
+"question_en": "Who was the founder of Chittor",
+"question_hi": "चतराजन क्भा के वि राजन क्भा के वि",
+"options": [
+{
+"option_en": {
+"option_hi": {
+"option_explain_en": "Rana Kumbha was the founder of Chittor.",
+"option_explain_hi": "चतराजन क्भा कराजन क्भा के वि",
+}
+"answer": "C",
+"explanation_en": "Option C is correct as Chittor was founded by Rana Kumbha.",
+"explanation_hi": "चत्राजन क्भा क्भा क्भा क्भा के वि",
+}
+]
+]
