@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Early History",
+"question_en": "Which king of Rajasthan is credited with unifying the Mewar region?",
+"question_hi": "राजस्थान के मेवार क्षेत्र को कौन से आदमी ने आंदोलन कर लिया ?",
+"A_en": "Rao Kriparam",
+"A_hi": "रॉ कृपारम",
+"B_en": "Rao Kachhwaha",
+"B_hi": "रॉ कच्छवाहा",
+"C_en": "Rao Bikaji",
+"C_hi": "रॉ बिकाजी",
+"D_en": "Rao Lal Singh",
+"D_hi": "रॉ लाल सिंग",
+"answer": "B",
+"explanation_en": "Rao Kachhwaha, also known as Rao Bikaji, is credited with unifying the Mewar region in Rajasthan.",
+"explanation_hi": "राजस्थान मेवार का अंगना, राजस्थान मेवार का अंगना, बिकाजी के नामक राजस्थान मेवार का अंगना।",
+}
+]
