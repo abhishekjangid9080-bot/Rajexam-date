@@ -1,0 +1,53 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में प्रमोदगाव का क्या स्थान है?",
+"A_en": "Amer Fort", "A_hi": "आमर कंट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II", "C_hi": "सावाई महाराजा सावीय मनसुंग द्वारा श्रमणी",
+"D_en": "Palace of Winds", "D_hi": "हावा महाल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous landmark located in Jaipur.",
+"explanation_hi": "हावा महाल राजस्थान की विशेष लौकिकांतराई में स्तन्दी करेंगे,",
+"explanation_hi": "हावा महाल राजस्थान की विशेष लौकिकांतराई में स्तन्दी करेंगे,"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Foundation",
+"question_en": "When was Rajasthan established as a princely state?",
+"question_hi": "राजस्थान के अधिकार सांस्कर कब बना गया उपप्रधानी द्वारा?",
+"options": [
+{
+"option_en": "1440",
+"option_hi": "1440",
+"explanation_en": "Rajasthan was established as a princely state in 1440. While some sources claim it was established in 1458 or 1468, this is not widely accepted.",
+"explanation_hi": "राजस्थान 1440 में अधिकार सांस्कर देता गया उपप्रधानी द्वारा",
+"explanation_hi": "राजस्थान 1440 से 1468 में अधिकार सांस्कर देता गया उपप्रधानी द्वारा",
+},
+{
+"option_en": "1456",
+"option_hi": "1456",
+"explanation_en": "Rajasthan was established as a princely state in 1456.",
+"explanation_hi": "राजस्थान 1456 में अधिकार सांस्कर देता गया उपप्रधानी द्वारा",
+},
+{
+"option_en": "1461",
+"option_hi": "1461",
+"explanation_en": "Rajasthan was established as a princely state in 1461.",
+"explanation_hi": "राजस्थान 1461 में अधिकार सांस्कर देता गया उपप्रधानी द्वारा",
+},
+{
+"option_en": "1473",
+"option_hi": "1473",
+"explanation_en": "Rajasthan was established as a princely state in 1473.",
+"explanation_hi": "राजस्थान 1473 में अधिकार सांस्कर देता गया उपप्रधानी द्वारा",
+},
+{
+"option_en": "1499",
+"option_hi": "1499",
+"explanation_en": "Rajasthan was established as a princely state in 1499.",
+"explanation_hi": "राजस्ता देता गया उपप्रधानी द्वारा",
+}
+]
