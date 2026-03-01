@@ -1,0 +1,64 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital city of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी का क्या है ?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital city of Rajasthan.",
+"explanation_hi": "जयपुर, राजस्थान के राजधानी है।",
+"explanation_img": "Explanation image URL (optional)"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Raja Ravi Varma",
+"question_en": "Who is the famous artist associated with Rajasthan?",
+"question_hi": "राजस्थान के नाम त्रिज्ञानी राज्य का नाम एक परिचय के लोग को क्या संगत करने वाले एक परिचय को क्या संगत करने वाले एक परिचय को क्या संगत करने वाले एक परिचय को क्या संगत करने वाले एक परिचय",
+"question_hi": "राजस्थान के एक परिचय को क्या स्नंतर करने वाले एक परिचय",
+"options": [
+{
+"option_en": "Maharaja Man Singh I",
+"option_hi": "महाराज मान सिंग I",
+"option_correct": "B",
+"question_type": "Famous Rajasthani King"
+},
+{
+"option_en": "Maharaja Pratap Singh",
+"option_hi": "महाराज प्रताप सिंग",
+"option_correct": "C",
+"question_type": "Famous Rana of Chittor"
+},
+{
+"option_en": "Rao Jodhpur",
+"option_hi": "राव जोधपुर",
+"option_correct": "A",
+"question_type": "Founder of Jodhpur"
+},
+{
+"option_en": "Rao Jaisalmer",
+"option_hi": "राव जासालमेर",
+"option_correct": "D",
+"question_type": "Founder of Jaisalmer"
+},
+{
+"option_en": "Rao Kumbha",
+"option_hi": "राव कुम्ब्हा",
+"option_correct": "E",
+"question_type": "Founder of Kumbhalgarh"
+}
+],
+"question_en": "Who founded Kumbhalgarh Fort?",
+"question_hi": "कुभलगारह के फॉट को किस्तौर परंपूर्वकरण के विभिजन",
+"answer": "E",
+"explanation_en": "Rao Kumbha is known for founding the Kumbhalgarh Fort.",
+"explanation_hi": "राव कुभलगारह को किस्तौर परंपूर्वकरण के विभिजन",
+}
+]
