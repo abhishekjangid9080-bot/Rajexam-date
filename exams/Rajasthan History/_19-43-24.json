@@ -1,0 +1,14 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ancient city was the capital of Rajasthan from 1037 to 1056?",
+"question_hi": "राजस्थान के अन्ध्यक्षण का मेलका क्या शहर 1037 से 1056 तक राजस्थान की राजधानी थी।",
+"A_en": "Ajmer", "A_hi": "अजमेर",
+"B_en": "Kishangarh", "B_hi": "किशंगरख",
+"C_en": "Pushkar", "C_hi": "पुष्कर",
+"D_en": "Mewar", "D_hi": "मेवार",
+"answer": "B",
+"explanation_en": "Kishangarh was the capital of Rajasthan from 1037 to 1056. It was later succeeded by Jodhpur.",
+"explanation_hi": "किशंगरख राजधानी राजस्थान के 1037 से 1056 के बंदरबाज़ाने के लिए। उसने बाद में Jodhpur तक बढ़ी।",
+}
