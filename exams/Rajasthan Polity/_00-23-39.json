@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Polity. Let's start by recalling the key areas in Rajasthan's political structure. First, the state government structure—Governor, Chief Minister, Legislative Assembly. Then, important acts and reforms, maybe the Rajasthan Panchayat Act. Also, historical aspects like the formation of Rajasthan state. 
+
+For each question, I need to ensure that the options are in both Hindi and English. The answer should be accurate, and explanations need to be concise. Let me start with the first question on the Governor's role. The Governor is the head of the state, so the question can be about their appointment. The answer would be the President of India.
+
+Next, the Chief Minister. The current one is Ashok Gehlot, so that's a good current affairs question. Then, the number of districts in Rajasthan—recently it was 74. The Rajasthan Panchayat Act, which came into force in 1994, is important for governance at the grassroots level.
+
+Another question could be on the state legislature. Rajasthan has a unicameral legislature, so the answer is the Legislative Assembly. The High Court is Rajasthan High Court, established in 1950. The Chief Electoral Officer for elections would be the one appointed by the Election Commission.
+
+The state emblem, which includes a lion and a camel, is a good cultural-political question. The Chief Minister's role as the head of the government. Lastly, the Rajasthan Constitution Act, which was 1956. 
+
+I need to make sure that all the options are plausible. For example, for the Governor's appointment, options could be President, Chief Minister, Governor of another state, etc. For the number of districts, options like 72, 74, 76. Also, check the years for the Panchayat Act and the High Court establishment. 
+
+Each question should follow the format with subject, topic, question in both languages, options in both languages, answer, and explanations. Let me verify each fact to avoid errors. For example, the current Chief Minister is Ashok Gehlot as of 2023. The Rajasthan High Court was established in 1949, but Rajasthan became a state in 1956, so maybe the High Court's establishment is in 1949? Wait, no, the Rajasthan High Court was established in 1949, but the state was formed in 1956. So the question about the High Court's establishment year would be 1949. 
+
+Wait, the Rajasthan High Court is located in Jaipur and was established in 1949, but the state of Rajasthan was formed on 15th May 1956. So the High Court predates the state. So the correct answer is 1949. 
+
+I need to make sure all the facts are accurate. Also, the state animal is the chinkara, but that's part of the state emblem. The Rajasthan state emblem combines the lion (from Mewar) and the camel (from Marwar), so the question is about the emblem's symbols. 
+
+Let me go through each question step by step, ensuring that the options are correctly presented and the answers are based on the latest information. For example, the current number of districts in Rajasthan is 74 as of 2023. The Rajasthan Panchayat Act was enacted in 1994, and the Rajasthan Constitution Act is 1956. 
+
+I think that covers the necessary points. Now, structuring each question into the JSON format as per the example. Each entry should have the subject, topic, questions, options in both languages, answer, and explanations in both languages. Need to ensure the JSON structure is correct without any syntax errors. Also, the difficulty level should be set according to Rajasthan Polity exams, so not too basic but covering essential topics.
+</think>
+
+```json
+[
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Government Structure",
+        "question_en": "Who is the constitutional head of the state of Rajasthan?",
+        "question_hi": "राजस्थान राज्य के संवैधानिक प्रमुख कौन होते हैं?",
+        "A_en": "Chief Minister of Rajasthan", "A_hi": "राजस्थान के मुख्यमंत्री",
+        "B_en": "Governor of Rajasthan", "B_hi": "राजस्थान के राज्यपाल",
+        "C_en": "President of India", "C_hi": "भारत के राष्ट्रपति",
+        "D_en": "Speaker of Rajasthan Legislative Assembly", "D_hi": "राजस्थान विधानसभा के अध्यक्ष",
+        "answer": "B",
+        "explanation_en": "The Governor of Rajasthan is the constitutional head of the state.",
+        "explanation_hi": "राजस्थान के राज्यपाल राज्य के संवैधानिक प्रमुख होते हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Government Structure",
+        "question_en": "Who is the current Chief Minister of Rajasthan?",
+        "question_hi": "राजस्थान के वर्तमान मुख्यमंत्री कौन हैं?",
+        "A_en": "Santosh Gupta", "A_hi": "संतोष गुप्ता",
+        "B_en": "Ashok Gehlot", "B_hi": "अशोक गहलोत",
+        "C_en": "Sukhram", "C_hi": "सुखराम",
+        "D_en": "Harshad Mehta", "D_hi": "हर्षद मेहता",
+        "answer": "B",
+        "explanation_en": "Ashok Gehlot is the current Chief Minister of Rajasthan.",
+        "explanation_hi": "अशोक गहलोत राजस्थान के वर्तमान मुख्यमंत्री हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Government Structure",
+        "question_en": "How many districts does Rajasthan currently have?",
+        "question_hi": "राजस्थान में वर्तमान में कितने जिले हैं?",
+        "A_en": "72", "A_hi": "72",
+        "B_en": "74", "B_hi": "74",
+        "C_en": "76", "C_hi": "76",
+        "D_en": "78", "D_hi": "78",
+        "answer": "B",
+        "explanation_en": "Rajasthan currently has 74 districts.",
+        "explanation_hi": "राजस्थान में वर्तमान में 74 जिले हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Legislature",
+        "question_en": "What type of legislative structure does Rajasthan have?",
+        "question_hi": "राजस्थान में किस प्रकार की विधायिका है?",
+        "A_en": "Bicameral", "A_hi": "द्विसदनीय",
+        "B_en": "Unicameral", "B_hi": "एकसदनीय",
+        "C_en": "None of the above", "C_hi": "उपरोक्त में से कोई नहीं",
+        "D_en": "Tricameral", "D_hi": "तिसदनीय",
+        "answer": "B",
+        "explanation_en": "Rajasthan has a unicameral legislative structure.",
+        "explanation_hi": "राजस्थान में एकसदनीय विधायिका है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Judiciary",
+        "question_en": "Which of the following is the highest judicial authority in Rajasthan?",
+        "question_hi": "निम्नलिखित में से राजस्थान में सर्वोच्च न्यायिक अधिकार कौन है?",
+        "A_en": "Rajasthan High Court", "A_hi": "राजस्थान उच्च न्यायलय",
+        "B_en": "Supreme Court of India", "B_hi": "भारत का सर्वोच्च न्यायालय",
+        "C_en": "District Court of Jaipur", "C_hi": "जयपुर का जिला न्यायालय",
+        "D_en": "Rajasthan Legislative Council", "D_hi": "राजस्थान विधान परिषद",
+        "answer": "A",
+        "explanation_en": "The Rajasthan High Court is the highest judicial authority in the state.",
+        "explanation_hi": "राजस्थान उच्च न्यायलय राज्य में सर्वोच्च न्यायिक अधिकार है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Constitution",
+        "question_en": "When was the Rajasthan Constitution Act passed?",
+        "question_hi": "राजस्थान संविधान अधिनियम कब पारित किया गया था?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1956", "B_hi": "1956",
+        "C_en": "1961", "C_hi": "1961",
+        "D_en": "1971", "D_hi": "1971",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Constitution Act was passed in 1956.",
+        "explanation_hi": "राजस्थान संविधान अधिनियम 1956 में पारित किया गया था।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Local Government",
+        "question_en": "Which of the following is the lowest tier of governance in Rajasthan?",
+        "question_hi": "निम्नलिखित में से राजस्थान में शासन का सबसे नीचे का स्तर कौन सा है?",
+        "A_en": "Zila Parishad", "A_hi": "जिला परिषद",
+        "B_en": "Panchayat Samiti", "B_hi": "पंचायत समिति",
+        "C_en": "Gram Panchayat", "C_hi": "ग्राम पंचायत",
+        "D_en": "Municipal Corporation", "D_hi": "नगर निगम",
+        "answer": "C",
+        "explanation_en": "The Gram Panchayat is the lowest tier of governance in Rajasthan.",
+        "explanation_hi": "ग्राम पंचायत राजस्थान में शासन का सबसे नीचे का स्तर है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Symbols",
+        "question_en": "What is the state animal of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य पशु क्या है?",
+        "A_en": "Blue Bull (Nilgai)", "A_hi": "नीलगाय",
+        "B_en": "Tiger", "B_hi": "बाघ",
+        "C_en": "Lion", "C_hi": "शेर",
+        "D_en": "Camel", "D_hi": "ऊँट",
+        "answer": "A",
+        "explanation_en": "The state animal of Rajasthan is the Blue Bull (Nilgai).",
+        "explanation_hi": "राजस्थान का राज्य पशु नीलगाय है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Elections",
+        "question_en": "Who is responsible for conducting elections to the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधानसभा के चुनाव कराने की जिम्मेदारी किसके पास है?",
+        "A_en": "Chief Minister of Rajasthan", "A_hi": "राजस्थान के मुख्यमंत्री",
+        "B_en": "Chief Election Commissioner of India", "B_hi": "भारत के मुख्य चुनाव आयुक्त",
+        "C_en": "Chief Electoral Officer of Rajasthan", "C_hi": "राजस्थान के मुख्य निर्वाचन अधिकारी",
+        "D_en": "Governor of Rajasthan", "D_hi": "राजस्थान के राज्यपाल",
+        "answer": "C",
+        "explanation_en": "The Chief Electoral Officer of Rajasthan is responsible for conducting elections to the Legislative Assembly.",
+        "explanation_hi": "राजस्थान के मुख्य निर्वाचन अधिकारी विधानसभा के चुनाव कराने के लिए जिम्मेदार हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Constitution",
+        "question_en": "What is the official language of Rajasthan?",
+        "question_hi": "राजस्थान की आधिकारिक भाषा क्या है?",
+        "A_en": "Hindi", "A_hi": "हिंदी",
+        "B_en": "Rajasthani", "B_hi": "राजस्थानी",
+        "C_en": "English", "C_hi": "अंग्रेजी",
+        "D_en": "Gujarati", "D_hi": "गुजराती",
+        "answer": "A",
+        "explanation_en": "The official language of Rajasthan is Hindi.",
+        "explanation_hi": "राजस्थान की आधिकारिक भाषा हिंदी है।"
+    }
+]
+```
