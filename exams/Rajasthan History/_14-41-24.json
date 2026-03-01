@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the famous fort in Jodhpur?",
+"question_hi": "जोधपुर के महत्वपूर्ण किस फोट है।",
+"A_en": "Meena Bazar", "A_hi": "मीना बाजार",
+"B_en": "Legendary Rao Jodha", "B_hi": "लेंगियों द्वारा विभाग में स्थापित",
+"C_en": "Umaid Bhawan Palace", "C_hi": "उमाई भावान पल्किल",
+"D_en": "Kalibandi Fort", "D_hi": "कालिबंदी फोट",
+"answer": "C",
+"explanation_en": "Umaid Bhawan Palace is a famous fort in Jodhpur built by the royal family of Jodhpur.",
+"explanation_hi": "उमाई भावान पालीयां द्वारा विभाग में स्थापित है।",
+}
+]
