@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Facts",
+"question_en": "Which important monument is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा मंदिर इसका स्थान है?",
+"A_en": "Hawa Mahal",
+"A_hi": "हवा महाल",
+"B_en": "Amber Fort",
+"B_hi": "अमेर कमल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II",
+"C_hi": "सवाई महाराज सवाई संगमी सेवाई संगमी",
+"D_en": "Palace of Winds",
+"D_hi": "भावा ध्वनि",
+"answer": "C",
+"explanation_en": "The Cenotaph of Maharaja Sawai Man Singh II is a historical monument located in Jaipur.",
+"explanation_hi": "जयपुर में सवाई संगमी सेवाई संगमी का एक इतिहान स्थान है।",
+"explanation_hi": "सवाई संगमी सेवाई संगमी का एक इतिहान है।"
+}
+]
