@@ -1,0 +1,127 @@
+[
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Mein Rajneetik Nyayikta",
+"question_en": "Who is the head of the Rajasthan State Legal Services Authority?",
+"question_hi": "राजस्थान राज्य लोक सेवा आयोग का प्रमुख कौन है?",
+"A_en": "Chief Justice of Rajasthan High Court", "A_hi": "राजस्थान उच्च न्यायालय के मुख्य न्यायाधीश",
+"B_en": "Chairman of Rajasthan Public Service Commission", "B_hi": "राजस्थान लोक सेवा आयोग के अध्यक्ष",
+"C_en": "Minister of Law and Justice, Rajasthan", "C_hi": "राजस्थान के कानून और न्याय मंत्री",
+"D_en": "Director General of Rajasthan Police", "D_hi": "राजस्थान पुलिस के महानिदेशक",
+"answer": "A",
+"explanation_en": "The Chief Justice of Rajasthan High Court is the head of the Rajasthan State Legal Services Authority.",
+"explanation_hi": "राजस्थान उच्च न्यायालय के मुख्य न्यायाधीश राजस्थान राज्य लोक सेवा आयोग के परिवेक्षक के रूप में कार्य करते हैं।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Itihaas",
+"question_en": "In which year was Rajasthan formed as a separate state?",
+"question_hi": "राजस्थान को अलग राज्य के रूप में कब बनाया गया था?",
+"A_en": "1950", "A_hi": "1950",
+"B_en": "1949", "B_hi": "1949",
+"C_en": "1948", "C_hi": "1948",
+"D_en": "1947", "D_hi": "1947",
+"answer": "C",
+"explanation_en": "Rajasthan was formed as a separate state in 1948.",
+"explanation_hi": "राजस्थान को अलग राज्य के रूप में 1948 में बनाया गया था।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "What is the name of the commission that looks into the complaints against the Judges of Rajasthan?",
+"question_hi": "राजस्थान के न्यायाधीशों के खिलाफ शिकायतों की जांच करने वाली आयोग का नाम क्या है?",
+"A_en": "Rajasthan Judicial Service Commission", "A_hi": "राजस्थान जजिकल सर्विस का आयोग",
+"B_en": "Rajasthan State Judicial Commission", "B_hi": "राजस्थान राज्य न्यायिक आयोग",
+"C_en": "Rajasthan State Legal Services Commission", "C_hi": "राजस्थान राज्य लोक सेवा आयोग",
+"D_en": "Rajasthan Judicial Accountability Commission", "D_hi": "राजस्थान न्यायिक जवाबदेही आयोग",
+"answer": "D",
+"explanation_en": "The Rajasthan Judicial Accountability Commission looks into the complaints against the Judges of Rajasthan.",
+"explanation_hi": "राजस्थान न्यायिक जवाबदेही आयोग राजस्थान के न्यायाधीशों के खिलाफ शिकायतों की जांच करता है।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "Who is the head of the Rajasthan Public Service Commission?",
+"question_hi": "राजस्थान लोक सेवा आयोग का परिवेक्षक कौन है?",
+"A_en": "Chairman of Rajasthan Public Service Commission", "A_hi": "राजस्थान लोक सेवा आयोग के अध्यक्ष",
+"B_en": "Minister of Home Affairs, Rajasthan", "B_hi": "राजस्थान के गृह मंत्री",
+"C_en": "Director General of Rajasthan Police", "C_hi": "राजस्थान पुलिस के महानिदेशक",
+"D_en": "Chief Secretary, Rajasthan", "D_hi": "राजस्थान के मुख्य सचिव",
+"answer": "A",
+"explanation_en": "The Chairman of the Rajasthan Public Service Commission is the head of the commission.",
+"explanation_hi": "राजस्थान लोक सेवा आयोग के अध्यक्ष आयोग के परिवेक्षक होते हैं।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "What is the name of the Act that provides for the establishment of Lokayukta in Rajasthan?",
+"question_hi": "राजस्थान में लोकायुक्त के स्थापना के लिए प्रावधान करता है वह कानून का नाम क्या है?",
+"A_en": "Rajasthan Lokayukta Act, 1973", "A_hi": "राजस्थान लोकायुक्त अधिनियम, 1973",
+"B_en": "Rajasthan Lokpal Act, 2014", "B_hi": "राजस्थान लोकपाल अधिनियम, 2014",
+"C_en": "Rajasthan Judicial Service Act, 1970", "C_hi": "राजस्थान जजिकल सर्विस अधिनियम, 1970",
+"D_en": "Rajasthan Public Service Act, 1960", "D_hi": "राजस्थान लोक सेवा अधिनियम, 1960",
+"answer": "A",
+"explanation_en": "The Rajasthan Lokayukta Act, 1973 provides for the establishment of Lokayukta in Rajasthan.",
+"explanation_hi": "राजस्थान लोकायुक्त अधिनियम, 1973 राजस्थान में लोकायुक्त के स्थापना के लिए प्रावधान करता है।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "Who is the head of the Rajasthan Lokayukta?",
+"question_hi": "राजस्थान लोकायुक्त का परिवेक्षक कौन है?",
+"A_en": "Chief Minister of Rajasthan", "A_hi": "राजस्थान के मुख्यमंत्री",
+"B_en": "Speaker of Rajasthan Vidhan Sabha", "B_hi": "राजस्थान विधानसभा के अध्यक्ष",
+"C_en": "Leader of Opposition in Rajasthan Vidhan Sabha", "C_hi": "राजस्थान विधानसभा में विपक्षी नेता",
+"D_en": "Lokayukta is appointed by the Governor of Rajasthan", "D_hi": "लोकायुक्त की नियुक्ति राजस्थान के राज्यपाल द्वारा की जाती है",
+"answer": "D",
+"explanation_en": "The Lokayukta is appointed by the Governor of Rajasthan.",
+"explanation_hi": "लोकायुक्त की नियुक्ति राजस्थान के राज्यपाल द्वारा की जाती है।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "What is the name of the Act that provides for the establishment of Rajasthan Public Service Commission?",
+"question_hi": "राजस्थान लोक सेवा आयोग के स्थापना के लिए प्रावधान करता है वह कानून का नाम क्या है?",
+"A_en": "Rajasthan Public Service Commission Act, 1951", "A_hi": "राजस्थान लोक सेवा आयोग अधिनियम, 1951",
+"B_en": "Rajasthan Judicial Service Act, 1970", "B_hi": "राजस्थान जजिकल सर्विस अधिनियम, 1970",
+"C_en": "Rajasthan Lokayukta Act, 1973", "C_hi": "राजस्थान लोकायुक्त अधिनियम, 1973",
+"D_en": "Rajasthan Civil Services Act, 1955", "D_hi": "राजस्थान सिविल सेवा अधिनियम, 1955",
+"answer": "A",
+"explanation_en": "The Rajasthan Public Service Commission Act, 1951 provides for the establishment of Rajasthan Public Service Commission.",
+"explanation_hi": "राजस्थान लोक सेवा आयोग अधिनियम, 1951 राजस्थान लोक सेवा आयोग के स्थापना के लिए प्रावधान करता है।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "What is the name of the body that looks into the complaints against the government officials in Rajasthan?",
+"question_hi": "राजस्थान में सरकारी अधिकारियों के खिलाफ शिकायतों की जांच करने वाला संगठन का नाम क्या है? ",
+"A_en": "Rajasthan Lokayukta", "A_hi": "राजस्थान लोकायुक्त",
+"B_en": "Rajasthan Public Service Commission", "B_hi": "राजस्थान लोक सेवा आयोग",
+"C_en": "Rajasthan State Human Rights Commission", "C_hi": "राजस्थान राज्य मानवाधिकार आयोग",
+"D_en": "Rajasthan Ombudsman", "D_hi": "राजस्थान ओंबड्समैन",
+"answer": "C",
+"explanation_en": "The Rajasthan State Human Rights Commission looks into the complaints against the government officials in Rajasthan.",
+"explanation_hi": "राजस्थान राज्य मानवाधिकार आयोग राजस्थान में सरकारी अधिकारियों के खिलाफ शिकायतों की जांच करता है।"
+}
+,
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Ka Rajneetik Nyayikta",
+"question_en": "Who is the head of the Rajasthan State Human Rights Commission?",
+"question_hi": "राजस्थान राज्य मानवाधिकार आयोग का अध्यक्ष कौन है? ",
+"A_en": "Chairman of Rajasthan Public Service Commission", "A_hi": "राजस्थान लोक सेवा आयोग के अध्यक्ष",
+"B_en": "Minister of Home Affairs, Rajasthan", "B_hi": "राजस्थान के गृह मंत्री",
+"C_en": "Director General of Rajasthan Police", "C_hi": "राजस्थान पुलिस के महानिदेशक",
+"D_en": "Chairman of Rajasthan State Human Rights Commission is appointed by the Governor of Rajasthan", "D_hi": "राजस्थान राज्य मानवाधिकार आयोग के अध्यक्ष की नियुक्ति राजस्थान के राज्यपाल द्वारा की जाती है",
+"answer": "D",
+"explanation_en": "The Chairman of the Rajasthan State Human Rights Commission is appointed by the Governor of Rajasthan.",
+"explanation_hi": "राजस्थान राज्य मानवाधिकार आयोग के अध्यक्ष की नियुक्ति राजस्थान के राज्यपाल द्वारा की जाती है।"
+}
+]
