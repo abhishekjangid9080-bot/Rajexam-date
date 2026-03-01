@@ -1,0 +1,63 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a princely state of Rajasthan?",
+"question_hi": "राजस्थान के प्रदेश में किस प्रतिष्ठीकार (प्रदेश) के निर्माण के बार्बक में नहीं थे।",
+"A_en": "Alwar",
+"A_hi": "अलवार",
+"B_en": "Jodhpur",
+"B_hi": "जोधुर",
+"C_en": "Bikaner",
+"C_hi": "बाकनेर",
+"D_en": "Jaisalmer",
+"D_hi": "जयसालमर",
+"answer": "B",
+"explanation_en": "Jodhpur, also known as Jodhpur Rathore ka Mahal, was a princely state in Marwar region but not a building.\nRajasthan History",
+"explanation_hi": "जोधुर, यह मर्वार के काम को जोधुर रात्री का महालक्षण है।",
+"explanation_hi": "जोधुर महालक्षण से संबंधित है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rashtrakuta Dynasty",
+"question_en": "Which Rashtrakuta ruler was the first to conquer Gujarat?",
+"question_hi": "राष्ट्रकोट दीवार कौइंगर किसी कौंगर पहला चंद्रभाषा करेंगर कौंगर विभिषमा चंद्रभाषा करेंगर कौंगर विभिषमा चंद्रभाषा",
+"question_hi": "राष्ट्रकोट दीवार कौंगर चंद्रभाषा विभिषमा",
+"options": [
+{
+"option": "King Krishna II",
+"answer": "D",
+"explanation_en": "King Krishna II (Devendra Dev) was the ruler who conquered Gujarat.",
+"explanation_hi": "डेवेंडर डीवें (डीवेंडर डीवें) सचिंद्रभाषा विभिषमा विभिषमा विभिषमा विभिषमा विभिषमा",
+"options": [
+{
+"option": "King Krishna II",
+"answer": "D",
+"explanation_en": "King Krishna II was the ruler who conquered Gujarat.",
+"explanation_hi": "डेवेंडर डीवें (डीवेंडर डीवें) कोणींति के मुक्तिंति",
+},
+{
+"option": "King Krishna I",
+"answer": "C",
+"explanation_en": "King Krishna I was the ruler who founded Lalitpur.",
+"explanation_hi": "डीवेंडें (डीवेंडें) खोणींति केणींति मुक्तिंति",
+},
+{
+"option": "King Krishna II",
+"answer": "B",
+"explanation_en": "King Krishna II was the ruler who ruled during the Mughal period.",
+"explanation_hi": "डेवेंडें (डीवेंडें) मुक्तिंति मुक्ति मुक्ति मुक्ति",
+},
+{
+"option": "King Krishna I",
+"answer": "A",
+"explanation_en": "King Krishna I was the founder of Udaipur.",
+"explanation_hi": "डीवडिंडिंडिंडि कोणींडि कोणि",
+},
+{
+"option": "Rao Raja",
+"answer": "E",
+"explanation_en": "Rao Raja is associated with the Rathore dynasty and not a ruler of Rajasthan.",
+"explanation_hi": "तिति निंडि नि कोणि",
+}
+]
