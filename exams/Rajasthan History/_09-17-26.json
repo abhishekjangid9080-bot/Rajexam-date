@@ -1,0 +1,102 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Places",
+"question_en": "In which year did the construction of Chittorgarh Fort begin?",
+"question_hi": "चिट्टोगरगढ़ फोट के निर्माण की शुरुवात के समय क्या था?",
+"A_en": "1438",
+"A_hi": "1438",
+"B_en": "1303",
+"B_hi": "१३०३",
+"C_en": "1558",
+"C_hi": "१५५८",
+"D_en": "1313",
+"D_hi": "१३१३",
+"answer": "B",
+"explanation_en": "The construction of Chittorgarh Fort began in the year 1303. It is one of the largest and oldest forts in Rajasthan, India.",
+"explanation_hi": "चिट्टोगरगढ़ को १३०३ से निर्माण हुआ था। यह Rajasthan, India में अधिक और अंतर्गणिका अन्यान्न एक बड़ा और अन्यान अन्यान अंतर्गणिका एन सामगिनिका एन सामगिनिका एन अंतर्गणिका एन सामगिनिका एन अंतर्गणिका एन अंतर्गणिका एन अंतर्गणिका एन सामगिनिका एन अंतर्गणिका एन अंतर्गणिका एन अन्तर्गणिका एन अन्तर्गणिका एन सामगिनिका एन अंतर्गणिका एन अन्तर्गणिका एन सामगिनिका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका एन अंतर्गणिका एन सामगिनीका",
+MASKED_ANSWER: "एन सामगिका",
+"answer_en": "An ancient city",
+"answer_hi": "एन सामगिका",
+"difficulty_level": "Easy",
+"question_en": "Name the ancient city whose ruins are preserved in Chittor Fort?",
+"question_hi": "चिटोर बलार का एन सामगिका एन सामगिका",
+"options_en": [
+{
+"option_id": "1",
+"option_text": "Amber"
+},
+{
+"option_id": "2",
+"option_text": "Chittor"
+},
+{
+"option_id": "3",
+"option_text": "Amber Fort"
+},
+{
+"option_id": "4",
+"option_text": "Chittor"
+}
+],
+"options_hi": [
+{
+"option_id": "1",
+"option_text": "अमर"
+},
+{
+"option_id": "2",
+"option_text": "चिटोर"
+},
+{
+"option_id": "3",
+"option_text": "चिटोर"
+},
+{
+"option_id": "4",
+"option_text": "चिटोर"
+}
+],
+"answer_hi": "चिटोर",
+"difficulty_level": "एटर"
+}, 
+{
+"question_en": "What is the significance of Jaisalpur?",
+"question_hi": "जिटोर एटोर",
+"A_en": "Historical significance",
+"A_hi": "जिटोर एटोर",
+"B_en": "Cultural significance",
+"B_hi": "जिटोर एटोर",
+"C_en": "Economic significance",
+"C_hi": "जिटोर एटोर",
+"D_en": "Geographical significance",
+"D_hi": "जिटोर एटोर",
+"answer": "जिटोर",
+"difficulty_level": "एटर",
+"options_en": [
+{
+"option_id": "1",
+"option_text": "Geographical",
+"option_id": "2",
+"option_text": "Geographical",
+"option_id": "3",
+"option_text": "Geological",
+"option_id": "4",
+"option_text": "Historical",
+"options_hi": [
+"option_id": "1",
+"option_text": "जिटर",
+"option_id": "2",
+"option_text": "जिटोर",
+"option_id": "3",
+"option_text": "जिटोर",
+"option_id": "4",
+"option_text": "जिटोर",
+"answer_hi": "जिटर",
+"explanation_en": "Rajasthan",
+"explanation_hi": "जिटोर",
+},
+"explanation_hi": "जिटोर"
+]} ३२२ एर",
+}
+]
