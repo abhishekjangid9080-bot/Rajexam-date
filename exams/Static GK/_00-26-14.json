@@ -1,0 +1,144 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Static GK related to Rajasthan State Exams, SSC, and Railway. Let me start by recalling important topics in Static GK for these exams. Topics like states and capitals, important historical figures, cultural aspects, geography, and some key facts about India and other states are common.
+
+First, I'll brainstorm some topics. Let's see: Rajasthan's capital, national symbols, important temples, states and their capitals, famous personalities, etc. For example, one question could be about Rajasthan's capital, which is Jaipur. Another could be about the largest state in India by area, which is Rajasthan itself. Then maybe the first woman Governor of an Indian state, which is Sarojini Naidu for Uttar Pradesh. I should check if that's correct. Wait, Sarojini Naidu was the Governor of the United Provinces (now Uttar Pradesh), so yes.
+
+Next, important historical figures like Raja Raja Chola, who was a famous Chola king. The Sun Temple in Konark, Odisha. Then maybe the currency of Bhutan, which is Ngultrum. The first Indian to win an Oscar, Bhanu Athaiya for costume design in 'Gandhi'. The state with the highest population, Uttar Pradesh. The Taj Mahal in Agra, Uttar Pradesh. The first woman Prime Minister of India, Indira Gandhi. The highest mountain peak in India, K2 in Jammu and Kashmir. The capital of Assam, Dispur. The longest river in India, Ganges. The first Indian woman to become a CEO of a Fortune 500 company, Indra Nooyi of PepsiCo. The state known as the 'Land of the Rising Sun', which is Assam because of the rising sun over the Brahmaputra River. The first Indian to win a Nobel Prize, Rabindranath Tagore for Literature. The capital of Kerala, Thiruvananthapuram. The first Indian to win a gold medal in the Olympics, Abhinav Bindra in 2008. The state where the Kumbh Mela is held, which is Prayagraj, Uttar Pradesh.
+
+Wait, I need to make sure the facts are accurate. For example, the first woman Governor in India was Sarojini Naidu, appointed in 1947. The first Indian to win an Oscar was Bhanu Athaiya in 1983 for 'Gandhi'. The first Indian gold in the Olympics was Abhinav Bindra in 2008. The highest peak in India is K2. The state with the highest population is Uttar Pradesh. The capital of Assam is Dispur. The longest river in India is Ganges. The currency of Bhutan is Ngultrum. Raja Raja Chola was a Chola king. The Sun Temple is in Konark, Odisha. The Taj Mahal is in Agra. The first woman Prime Minister of India is Indira Gandhi. The state known as the 'Land of the Rising Sun' is Assam. The capital of Kerala is Thiruvananthapuram. The Kumbh Mela is held in Prayagraj. Indra Nooyi is the CEO of PepsiCo. Rabindranath Tagore won the Nobel Prize for Literature.
+
+I need to structure each question with the subject as Static GK, the topic as per the example, and ensure the JSON format is correct. Each question should have the question in English and Hindi, options in both languages, the correct answer, and explanations in both languages. Let me check for any duplicates or overlapping questions. Make sure the difficulty level is appropriate for the exams mentioned. Avoid very obscure facts. Also, ensure that the answer options are clear and the explanations are concise.
+</think>
+
+[
+{
+"subject": "Static GK",
+"topic": "States and Capitals",
+"question_en": "Which city is known as the 'Pink City' of India?",
+"question_hi": "भारत के किस शहर को 'गुलाबी शहर' के रूप में जाना जाता है?",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Ajmer", "D_hi": "अजमेर",
+"answer": "C",
+"explanation_en": "Jaipur is called the 'Pink City' because of the pink-colored buildings in the city.",
+"explanation_hi": "जयपुर शहर में गुलाबी रंग की इमारतों के कारण इसे 'गुलाबी शहर' के नाम से जाना जाता है।"
+},
+{
+"subject": "Static GK",
+"topic": "Historical Figures",
+"question_en": "Who was the first woman Governor of an Indian state?",
+"question_hi": "भारत में एक राज्य की पहली महिला राज्यपाल कौन थी?",
+"A_en": "Sarojini Naidu", "A_hi": "सरोजिनी नायडू",
+"B_en": "Indira Gandhi", "B_hi": "इंदिरा गांधी",
+"C_en": "Sucheta Kripalani", "C_hi": "सुचेता कृपलानी",
+"D_en": "Rajkumari Amrit Kaur", "D_hi": "राजकुमारी अमृत कौर",
+"answer": "A",
+"explanation_en": "Sarojini Naidu was the first woman to become the Governor of a state in India (United Provinces, now Uttar Pradesh).",
+"explanation_hi": "सरोजिनी नायडू भारत में एक राज्य की पहली महिला राज्यपाल बनीं (संयुक्त प्रांत, अब उत्तर प्रदेश)।"
+},
+{
+"subject": "Static GK",
+"topic": "Geography",
+"question_en": "Which Indian state has the largest area?",
+"question_hi": "भारत में किस राज्य का क्षेत्रफल सबसे अधिक है?",
+"A_en": "Rajasthan", "A_hi": "राजस्थान",
+"B_en": "Madhya Pradesh", "B_hi": "मध्य प्रदेश",
+"C_en": "Maharashtra", "C_hi": "महाराष्ट्र",
+"D_en": "Uttar Pradesh", "D_hi": "उत्तर प्रदेश",
+"answer": "A",
+"explanation_en": "Rajasthan is the largest state in India by area.",
+"explanation_hi": "राजस्थान भारत में क्षेत्रफल के आधार पर सबसे बड़ा राज्य है।"
+},
+{
+"subject": "Static GK",
+"topic": "Cultural Aspects",
+"question_en": "Where is the Sun Temple located?",
+"question_hi": "सूर्य तेल मंदिर कहाँ स्थित है?",
+"A_en": "Konark, Odisha", "A_hi": "कोंकण, ओडिशा",
+"B_en": "Thanjavur, Tamil Nadu", "B_hi": "तंजावुर, तमिलनाडु",
+"C_en": "Khajuraho, Madhya Pradesh", "C_hi": "खजुराहो, मध्य प्रदेश",
+"D_en": "Mysore, Karnataka", "D_hi": "मैसूर, कर्नाटक",
+"answer": "A",
+"explanation_en": "The Sun Temple is located in Konark, Odisha and is dedicated to the Sun God.",
+"explanation_hi": "सूर्य तेल मंदिर ओडिशा के कोंकण में स्थित है और सूर्य देव के समर्पित है।"
+},
+{
+"subject": "Static GK",
+"topic": "Currency",
+"question_en": "What is the official currency of Bhutan?",
+"question_hi": "भूटान की आधिकारिक मुद्रा क्या है?",
+"A_en": "Dollar", "A_hi": "डॉलर",
+"B_en": "Taka", "B_hi": "टका",
+"C_en": "Ngultrum", "C_hi": "न्गुल्ट्रम",
+"D_en": "Rupee", "D_hi": "रुपया",
+"answer": "C",
+"explanation_en": "The official currency of Bhutan is the Ngultrum.",
+"explanation_hi": "भूटान की आधिकारिक मुद्रा न्गुल्ट्रम है।"
+},
+{
+"subject": "Static GK",
+"topic": "Awards and Achievements",
+"question_en": "Who was the first Indian to win an Oscar Award?",
+"question_hi": "पहला भारतीय कौन था जिसने ऑस्कर पुरस्कार जीता?",
+"A_en": "Amitabh Bachchan", "A_hi": "अमिताभ बच्चन",
+"B_en": "Bhanu Athaiya", "B_hi": "भानु अथैया",
+"C_en": "Kamal Haasan", "C_hi": "कमल हासन",
+"D_en": "Shah Rukh Khan", "D_hi": "शाहरुख खान",
+"answer": "B",
+"explanation_en": "Bhanu Athaiya won the first Oscar for costume design in the film 'Gandhi'.",
+"explanation_hi": "भानु अथैया फिल्म 'गांधी' में ड्रेस डिज़ाइन के लिए पहला ऑस्कर जीते।"
+},
+{
+"subject": "Static GK",
+"topic": "Population",
+"question_en": "Which Indian state has the highest population?",
+"question_hi": "भारत में किस राज्य की आबादी सबसे अधिक है?",
+"A_en": "Uttar Pradesh", "A_hi": "उत्तर प्रदेश",
+"B_en": "Maharashtra", "B_hi": "महाराष्ट्र",
+"C_en": "Bihar", "C_hi": "बिहार",
+"D_en": "West Bengal", "D_hi": "पश्चिम बंगाल",
+"answer": "A",
+"explanation_en": "Uttar Pradesh is the most populous state in India.",
+"explanation_hi": "उत्तर प्रदेश भारत में आबादी के मामले में सबसे अधिक आबादी वाला राज्य है।"
+},
+{
+"subject": "Static GK",
+"topic": "Monuments",
+"question_en": "In which city is the Taj Mahal located?",
+"question_hi": "ताजमहल किस शहर में स्थित है?",
+"A_en": "Agra, Uttar Pradesh", "A_hi": "अगरतला, उत्तर प्रदेश",
+"B_en": "Lucknow, Uttar Pradesh", "B_hi": "लखनऊ, उत्तर प्रदेश",
+"C_en": "Jaipur, Rajasthan", "C_hi": "जयपुर, राजस्थान",
+"D_en": "Hyderabad, Telangana", "D_hi": "हैदराबाद, तेलंगाना",
+"answer": "A",
+"explanation_en": "The Taj Mahal is located in Agra, Uttar Pradesh and is a UNESCO World Heritage Site.",
+"explanation_hi": "ताजमहल उत्तर प्रदेश के अगरतला में स्थित है और इसे यूनेस्को विश्व धरोहर स्थल घोषित किया गया है।"
+},
+{
+"subject": "Static GK",
+"topic": "Political Leaders",
+"question_en": "Who was the first woman Prime Minister of India?",
+"question_hi": "भारत की पहली महिला प्रधानमंत्री कौन थी?",
+"A_en": "Indira Gandhi", "A_hi": "इंदिरा गांधी",
+"B_en": "Sonia Gandhi", "B_hi": "सोनिया गांधी",
+"C_en": "Sucheta Kripalani", "C_hi": "सुचेता कृपलानी",
+"D_en": "Rajkumari Amrit Kaur", "D_hi": "राजकुमारी अमृत कौर",
+"answer": "A",
+"explanation_en": "Indira Gandhi was the first woman Prime Minister of India, serving from 1966 to 1977 and then again from 1980 until her assassination in 1984.",
+"explanation_hi": "इंदिरा गांधी भारत की पहली महिला प्रधानमंत्री थीं, जिन्होंने 1966 से 1977 तक और फिर 1980 से 1984 तक अपनी प्रधानमंत्री के रूप में सेवा की।"
+},
+{
+"subject": "Static GK",
+"topic": "Mountains",
+"question_en": "What is the highest mountain peak in India?",
+"question_hi": "भारत में सबसे ऊपर वाला पर्वत शिखर कौन सा है?",
+"A_en": "K2", "A_hi": "के-2",
+"B_en": "Kangchenjunga", "B_hi": "कंचनजंगा",
+"C_en": "Annapurna", "C_hi": "अन्नपूर्णा",
+"D_en": "Nanda Devi", "D_hi": "नंदा देवी",
+"answer": "A",
+"explanation_en": "K2, also known as Mount Godwin Austen, is the highest mountain peak in India.",
+"explanation_hi": "के-2, जिसे माउंट गॉडविन ऑस्टन भी कहा जाता है, भारत का सबसे ऊपर वाला पर्वत शिखर है।"
+}
+]
