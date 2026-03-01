@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical place is associated with the Battle of Haldighati?",
+"question_hi": "हल्दिगंधड़ी के संबंधित किस अरचनात्मक जगह है।",
+"A_en": "Amber Fort",
+"A_hi": "अमेरिका स्थान",
+"B_en": "Kumbhalgarh Fort",
+"B_hi": "कुम्भालगंधर स्थान",
+"C_en": "Ajmer",
+"C_hi": "आजमी",
+"D_en": "Mehrangarh Fort",
+"D_hi": "मेहरांघर",
+"answer": "B",
+"explanation_en": "The Battle of Haldighati took place near Kumbhalgarh Fort.",
+"explanation_hi": "हल्दिगंधर्म के आगमन को कुम्भालगंधर स्थान पर हुआ हुआ",
+"explanation_hi": "हल्दिगंधर स्थान पर हुआ हुआ हुआ"
+}
+]
