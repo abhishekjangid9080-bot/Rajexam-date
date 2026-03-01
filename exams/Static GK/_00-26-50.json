@@ -1,0 +1,142 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality Static GK MCQs for Rajasthan State Exams, SSC, and Railway. The topic isn't specified, so I need to choose relevant sub-topics under Static GK. Since Rajasthan is the main state here, I should focus on its geography, history, culture, and important facts.
+
+First, I'll list possible topics: Rajasthani states, historical figures, important cities, festivals, wildlife, and notable places. Each question should have options in both Hindi and English. The answer must be accurate, and explanations should be concise.
+
+For example, the first question could be about the capital of Rajasthan. Jaipur is the correct answer. Then, I can move to other cities like Jodhpur, Udaipur. Maybe include a question on the largest state by area, which is Rajasthan itself. Then, historical figures like Raja Man Singh, Chhatrapati Shivaji Maharaj's relation to Marathas. Festivals like Gangaur and Teej. National parks like Ranthambore. The longest river in Rajasthan, which is the Chambal. The highest peak, Mount Abu. And maybe a question on the famous fort, Chittorgarh.
+
+I need to ensure that all options are plausible but only one is correct. The explanations should confirm the correct answer without being too verbose. Also, check for any possible errors in facts. For example, verifying that Gangaur is indeed a Rajasthani festival, and that Ranthambore is a national park. Double-check the rivers and their lengths. Make sure the names are correctly spelled in both languages. Finally, structure each question in the required JSON format, making sure all fields are present and correct.
+</think>
+
+[
+{
+"subject": "Static GK",
+"topic": "Rajasthan Geography",
+"question_en": "Which city is known as the 'Pink City' of India?",
+"question_hi": "भारत के कौन से शहर को 'गुलाबी शहर' के रूप में जाना जाता है?",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "C",
+"explanation_en": "Jaipur is called the Pink City because its buildings were painted pink in the 19th century to welcome British visitors.",
+"explanation_hi": "जयपुर को 19वीं सदी में ब्रिटिश मेहमानों के स्वागत के लिए इमारतों को गुलाबी रंग में पेंट करने के कारण 'गुलाबी शहर' कहा जाता है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan History",
+"question_en": "Who was the founder of the Mewar kingdom in Rajasthan?",
+"question_hi": "राजस्थान में मेवाड़ राज्य के संस्थापक कौन थे?",
+"A_en": "Rawal Ratan Singh", "A_hi": "रावल रतन सिंह",
+"B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+"C_en": "Raja Man Singh", "C_hi": "राजा मन सिंह",
+"D_en": "Raja Raja Singh", "D_hi": "राजा राजा सिंह",
+"answer": "A",
+"explanation_en": "Rawal Ratan Singh is considered the founder of the Mewar kingdom around the 11th century.",
+"explanation_hi": "रावल रतन सिंह को लगभग 11वीं शताब्दी में मेवाड़ राज्य के संस्थापक के रूप में माना जाता है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan Culture",
+"question_en": "Which festival is celebrated to honor the goddess Gauri in Rajasthan?",
+"question_hi": "राजस्थान में गौरी देवी के सम्मान में कौन सा त्योहार मनाया जाता है?",
+"A_en": "Gangaur", "A_hi": "गंगौर",
+"B_en": "Teej", "B_hi": "तीज",
+"C_en": "Kerala", "C_hi": "केरला",
+"D_en": "Holi", "D_hi": "होली",
+"answer": "A",
+"explanation_en": "Gangaur is a traditional Rajasthani festival dedicated to the goddess Gauri, celebrated mainly by women.",
+"explanation_hi": "गंगौर राजस्थान का पारंपरिक त्योहार है, जो मुख्य रूप से गौरी देवी के सम्मान में महिलाओं द्वारा मनाया जाता है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan Geography",
+"question_en": "Which river is the longest in Rajasthan?",
+"question_hi": "राजस्थान में सबसे लंबी नदी कौन सी है?",
+"A_en": "Chambal", "A_hi": "चम्बल",
+"B_en": "Luni", "B_hi": "लूनी",
+"C_en": "Banas", "C_hi": "बाणगाना",
+"D_en": "Mahi", "D_hi": "माही",
+"answer": "A",
+"explanation_en": "The Chambal River is the longest river in Rajasthan, flowing through the state for about 960 km.",
+"explanation_hi": "चम्बल नदी राजस्थान की सबसे लंबी नदी है, जो लगभग 960 किमी की दूरी तय करते हुए राज्य में प्रवाहित होती है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan History",
+"question_en": "Which ruler of Rajasthan is known as the 'Rana of Mewar'?",
+"question_hi": "राजस्थान के किस शासक को 'मेवाड़ का राणा' के रूप में जाना जाता है?",
+"A_en": "Raja Man Singh", "A_hi": "राजा मन सिंह",
+"B_en": "Maharana Pratap", "B_hi": "महाराणा प्रताप",
+"C_en": "Raja Raja Singh", "C_hi": "राजा राजा सिंह",
+"D_en": "Raja Jai Singh", "D_hi": "राजा जय सिंह",
+"answer": "B",
+"explanation_en": "Maharana Pratap is known as the 'Rana of Mewar' and is celebrated for his resistance against Mughal expansion.",
+"explanation_hi": "महाराणा प्रताप को 'मेवाड़ का राणा' के रूप में जाना जाता है और उन्हें मुगलों के विस्तार के खिलाफ प्रतिरोध के लिए सम्मानित किया जाता है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan Geography",
+"question_en": "Which district of Rajasthan is the largest in area?",
+"question_hi": "राजस्थान का कौन सा जिला क्षेत्रफल में सबसे बड़ा है?",
+"A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+"B_en": "Barmer", "B_hi": "बाड़मेर",
+"C_en": "Churu", "C_hi": "चूरू",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "A",
+"explanation_en": "Jaisalmer is the largest district in Rajasthan by area, covering approximately 37,158 km².",
+"explanation_hi": "जैसलमेर राजस्थान का क्षेत्रफल में सबसे बड़ा जिला है, जो लगभग 37,158 किमी² के क्षेत्रफल में फैला हुआ है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan Geography",
+"question_en": "Which of the following is the highest peak in Rajasthan?",
+"question_hi": "निम्नलिखित में से राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+"A_en": "Mount Abu", "A_hi": "माउंट आबू",
+"B_en": "Kumbhalgarh", "B_hi": "कुम्भलगढ़",
+"C_en": "Aravalli Range", "C_hi": "अरावली पर्वतमाला",
+"D_en": "Sariska", "D_hi": "सरिस्का",
+"answer": "A",
+"explanation_en": "Mount Abu is the highest peak in Rajasthan, located in the Aravalli Range, with a height of 1,722 meters.",
+"explanation_hi": "माउंट आबू राजस्थान में सबसे ऊँची चोटी है, अरावली पर्वतमाला में स्थित, जिसकी ऊंचाई 1,722 मीटर है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan History",
+"question_en": "Who was the ruler of Rajasthan who built the Hawa Mahal in Jaipur?",
+"question_hi": "राजस्थान के किस शासक ने जयपुर में हवा महल का निर्माण किया था?",
+"A_en": "Maharaja Jai Singh II", "A_hi": "महाराजा जय सिंह द्वितीय",
+"B_en": "Maharaja Sawai Jai Singh", "B_hi": "महाराजा सवाई जय सिंह",
+"C_en": "Maharaja Man Singh", "C_hi": "महाराजा मन सिंह",
+"D_en": "Maharaja Pratap Singh", "D_hi": "महाराजा प्रताप सिंह",
+"answer": "B",
+"explanation_en": "Maharaja Sawai Jai Singh II commissioned the construction of Hawa Mahal in Jaipur in the 18th century.",
+"explanation_hi": "महाराजा सवाई जय सिंह द्वितीय ने 18वीं शताब्दी में जयपुर में हवा महल के निर्माण के आदेश दिया था।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan Geography",
+"question_en": "Which national park is located in Rajasthan?",
+"question_hi": "राजस्थान में कौन सा राष्ट्रीय उद्यान स्थित है?",
+"A_en": "Ranthambore National Park", "A_hi": "रणथंबोर राष्ट्रीय उद्यान",
+"B_en": "Kanha National Park", "B_hi": "कानहा राष्ट्रीय उद्यान",
+"C_en": "Bandipur National Park", "C_hi": "बांदीपुर राष्ट्रीय उद्यान",
+"D_en": "Corbett National Park", "D_hi": "कॉर्बेट राष्ट्रीय उद्यान",
+"answer": "A",
+"explanation_en": "Ranthambore National Park is located in Sawai Madhopur district of Rajasthan and is famous for its tiger population.",
+"explanation_hi": "रणथंबोर राष्ट्रीय उद्यान राजस्थान के सवाई माधोपुर जिला में स्थित है और इसके बाघ आबादी के लिए प्रसिद्ध है।"
+},
+{
+"subject": "Static GK",
+"topic": "Rajasthan Geography",
+"question_en": "Which district of Rajasthan is known as the 'Land of Maharajas'?",
+"question_hi": "राजस्थान के किस जिले को 'महाराजाओं की भूमि' के रूप में जाना जाता है?",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "C",
+"explanation_en": "Jaipur is known as the 'Land of Maharajas' due to its rich history of royal families and palaces.",
+"explanation_hi": "जयपुर को 'महाराजाओं की भूमि' के रूप में जाना जाता है, क्योंकि इसका शाही परिवारों और महलों का समृद्ध इतिहास है।"
+}
+]
