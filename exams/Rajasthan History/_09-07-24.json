@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous forts in Rajasthan were built during the Mewar dynasty?",
+"question_hi": "राजस्थान में मेवार दलन के समय बनी कुछ मंगलवालों के नाम क्या हैं ?",
+"A_en": ["Kumbhalgarh", "Udaipur", "Amber", "Chittorgarh"],
+"A_hi": ["कुम्भलगार्थ", "उदयपुर", "अमेर", "चित्रपुर"],
+"B_en": "",
+"B_hi": "",
+"explanation_en": "The forts mentioned are: Kumbhalgarh, Udaipur, Amber, and Chittorgarh. These forts were built during the reign of the Mewar dynasty.",
+"explanation_hi": "इनमें कुम्भलगार्थ, उदयपुर, अमेर, और चित्रपुर हैं। इनमें मेवाड़ी देश की राजनी समूल एवंतों से बने हैं।",
+"question_en": "Which famous forts were built under the rule of the Mewar dynasty in Rajasthan?",
+"question_hi": "मेवाड़ी देश के राजनी समूल के बने हैंग अटों",
+"B_en": [],
+"B_hi": [],
+"exam_type": "MCQ",
+"difficulty_level": "Medium"
+}
