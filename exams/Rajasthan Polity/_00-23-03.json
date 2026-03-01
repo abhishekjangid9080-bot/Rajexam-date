@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Polity, suitable for exams like LDC, CET, RAS, SSC, and Railway NTPC. The user provided an example with questions in both Hindi and English, so I should follow that structure. Let me start by recalling key topics in Rajasthan Polity. 
+
+First, the state's constitutional framework, maybe the formation year. Rajasthan was formed on 15th May 1949. Then, the Governor's role and current holder. The Governor is the constitutional head, and I should check the current one as of 2023. Next, the Chief Minister's role and the current CM. Then, the state assembly details—number of seats. Rajasthan has 200 assembly seats. 
+
+The state bird, flower, tree, and animal are important. The state bird is the Great Indian Bustard, flower is the Desert Rose, tree is the Banyan, and animal is the Chinkara. The state animal is sometimes confused with others, so I should verify. 
+
+The High Court is located in Jodhpur? Wait, no, Rajasthan's High Court is in Jodhpur, but I think the main seat is Jaipur. Wait, actually, Rajasthan High Court is in Jodhpur. Wait, let me confirm: Rajasthan High Court is established in Jodhpur, but they have benches in other cities. Yes, the principal seat is in Jodhpur. 
+
+The Chief Minister is elected by the people through the state legislature. The Governor administers the oath. The state emblem includes a bull and a lion, maybe the sun and moon? Rajasthan's emblem has a lion, bull, and a sun and moon. 
+
+The current Governor as of 2023 is Kalyan Singh. The current CM is Bhajan Lal Sharma. The assembly session frequency is twice a year. The Rajya Sabha has 10 seats for Rajasthan. 
+
+Let me check each point for accuracy. Rajasthan's formation date is correct. The current Governor is Kalyan Singh, and the CM is Bhajan Lal Sharma. The High Court location is Jodhpur. The assembly has 200 seats. The state symbols are as mentioned. The Rajya Sabha seats are 10. 
+
+Now, structure each question with question_en and question_hi, options in both languages, answer, and explanations. Ensure the difficulty level is appropriate for the exams mentioned. Avoid any ambiguity in options. Make sure explanations are concise and accurate. 
+
+Let me draft each question step by step, ensuring all topics are covered and facts are correct. I'll also cross-verify each fact with reliable sources to avoid errors. For example, confirming the state flower is Desert Rose, which is 'गुलाबी रेगड़' in Hindi. 
+
+Once all 10 questions are structured, I'll format them into the required JSON structure, ensuring proper Hindi and English translations for each part. The answer letter (A, B, C, D) should match the correct option. Each explanation should clearly state why the answer is correct. 
+
+I should also check for any possible mistakes, like mixing up the roles of Governor and Chief Minister, or incorrect numbers of assembly seats. For example, Rajasthan's assembly has 200 seats, with 199 elected and 1 nominated from the Anglo-Indian community. But as of recent amendments, the 104th Constitution Amendment Act, 2018, the Anglo-Indian nomination might have been abolished. However, the current number is still 200. 
+
+Another point is the state animal. The Chinkara is the state animal, which is correct. The state bird, Great Indian Bustard, is correct. The state tree is Banyan, and the state flower is Desert Rose. 
+
+Once all these are verified, the questions should be ready. Now, structuring each question in the JSON format as per the example. Each entry includes subject, topic, questions in both languages, options, answer, and explanations. The topic is left empty as per the example, but maybe I should fill it with relevant subtopics like "Governor", "Chief Minister", "State Symbols", etc., but the user's example topic is empty. So I'll leave it blank as in the example.
+</think>
+
+[
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "Which of the following is the constitutional head of Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन राजस्थान का संवैधानिक सिर है?",
+"A_en": "Chief Minister", "A_hi": "मुख्यमंत्री",
+"B_en": "Governor", "B_hi": "राज्यपाल",
+"C_en": "Speaker of Legislative Assembly", "C_hi": "विधान सभा के अध्यक्ष",
+"D_en": "Chief Justice of High Court", "D_hi": "उच्च न्यायालय के मुख्य न्यायाधीश",
+"answer": "B",
+"explanation_en": "The Governor is the constitutional head of Rajasthan, representing the Central Government.",
+"explanation_hi": "राज्यपाल राजस्थान का संवैधानिक सिर है, जो केंद्र सरकार का प्रतिनिधित्व करता है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "Who administers the oath to the Chief Minister of Rajasthan?",
+"question_hi": "राजस्थान के मुख्यमंत्री को शपथ कोन देता है?",
+"A_en": "President of India", "A_hi": "भारत के राष्ट्रपति",
+"B_en": "Governor of Rajasthan", "B_hi": "राजस्थान के राज्यपाल",
+"C_en": "Speaker of Legislative Assembly", "C_hi": "विधान सभा के अध्यक्ष",
+"D_en": "Chief Justice of High Court", "D_hi": "उच्च न्यायालय के मुख्य न्यायाधीश",
+"answer": "B",
+"explanation_en": "The Governor of Rajasthan administers the oath to the Chief Minister.",
+"explanation_hi": "राजस्थान के राज्यपाल राज्य के मुख्यमंत्री को शपथ देते हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "What is the total number of seats in the Rajasthan Legislative Assembly?",
+"question_hi": "राजस्थान विधान सभा में कुल कितनी सीटें हैं?",
+"A_en": "199", "A_hi": "199",
+"B_en": "200", "B_hi": "200",
+"C_en": "201", "C_hi": "201",
+"D_en": "202", "D_hi": "202",
+"answer": "B",
+"explanation_en": "The Rajasthan Legislative Assembly has 200 seats.",
+"explanation_hi": "राजस्थान विधान सभा में 200 सीटें हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "Which of the following is the state bird of Rajasthan?",
+"question_hi": "निम्नलिखित में से कौन राजस्थान का राज्य पक्षी है?",
+"A_en": "Peacock", "A_hi": "मोर",
+"B_en": "Great Indian Bustard", "B_hi": "ग्रेट इंडियन बस्टर्ड",
+"C_en": "Sparrow", "C_hi": "बल्लम",
+"D_en": "Parrot", "D_hi": "तोता",
+"answer": "B",
+"explanation_en": "The Great Indian Bustard is the state bird of Rajasthan.",
+"explanation_hi": "ग्रेट इंडियन बस्टर्ड राजस्थान का राज्य पक्षी है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "Who is the current Chief Minister of Rajasthan?",
+"question_hi": "वर्तमान में राजस्थान के मुख्यमंत्री कौन हैं?",
+"A_en": "Ashok Gehlot", "A_hi": "अशोक गहलोत",
+"B_en": "Sachin Pilot", "B_hi": "सचिन पायलट",
+"C_en": "Bhajan Lal Sharma", "C_hi": "भजन लाल शर्मा",
+"D_en": "Kalyan Singh", "D_hi": "कल्याण सिंह",
+"answer": "C",
+"explanation_en": "Bhajan Lal Sharma is the current Chief Minister of Rajasthan as of 2023.",
+"explanation_hi": "भजन लाल शर्मा 2023 तक राजस्थान के वर्तमान मुख्यमंत्री हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "Where is the Rajasthan High Court located?",
+"question_hi": "राजस्थान उच्च न्यायालय कहाँ स्थित है?",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Kota", "D_hi": "कोटा",
+"answer": "C",
+"explanation_en": "The Rajasthan High Court is located in Jodhpur.",
+"explanation_hi": "राजस्थान उच्च न्यायालय जोधपुर में स्थित है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "What is the state flower of Rajasthan?",
+"question_hi": "राजस्थान का राज्य पुष्प क्या है?",
+"A_en": "Rose", "A_hi": "गुलाब",
+"B_en": "Desert Rose", "B_hi": "रेगड़ गुलाब",
+"C_en": "Lotus", "C_hi": "कमल",
+"D_en": "Jasmine", "D_hi": "चमेली",
+"answer": "B",
+"explanation_en": "The state flower of Rajasthan is the Desert Rose (Rudraksha).",
+"explanation_hi": "राजस्थान का राज्य पुष्प रेगड़ गुलाब (रुद्राक्ष) है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "How often does the Rajasthan Legislative Assembly session occur?",
+"question_hi": "राजस्थान विधान सभा की बैठक कितनी आवश्यकता होती है?",
+"A_en": "Once a year", "A_hi": "एक बार साल में",
+"B_en": "Twice a year", "B_hi": "दो बार साल में",
+"C_en": "Three times a year", "C_hi": "तीन बार साल में",
+"D_en": "Four times a year", "D_hi": "चार बार साल में",
+"answer": "B",
+"explanation_en": "The Rajasthan Legislative Assembly sessions occur twice a year.",
+"explanation_hi": "राजस्थान विधान सभा बैठकें साल में दो बार होती हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "Who was the founder of the Rajasthan State?",
+"question_hi": "राजस्थान राज्य के संस्थापक कौन थे?",
+"A_en": "Maharaja Man Singh II", "A_hi": "महाराजा मन सिंह द्वितीय",
+"B_en": "Maharaja Sawai Jai Singh II", "B_hi": "महाराजा सवाई जय सिंह द्वितीय",
+"C_en": "Rajiv Gandhi", "C_hi": "राजीव गांधी",
+"D_en": "Kishorilal Sharma", "D_hi": "किशोरीलाल शर्मा",
+"answer": "A",
+"explanation_en": "Maharaja Man Singh II was the founder of the Rajasthan State in 1949.",
+"explanation_hi": "महाराजा मन सिंह द्वितीय 1949 में राजस्थान राज्य के संस्थापक थे।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "",
+"question_en": "What is the state tree of Rajasthan?",
+"question_hi": "राजस्थान का राज्य वृक्ष क्या है?",
+"A_en": "Banyan", "A_hi": "बरगद",
+"B_en": "Neem", "B_hi": "नीम",
+"C_en": "Peepal", "C_hi": "पीपल",
+"D_en": "Sheesham", "D_hi": "शीशम",
+"answer": "A",
+"explanation_en": "The state tree of Rajasthan is the Banyan tree.",
+"explanation_hi": "राजस्थान का राज्य वृक्ष बरगद का पेड़ है।"
+}
+]
