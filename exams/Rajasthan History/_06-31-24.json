@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which one of the following is not a capital city in Rajasthan?",
+"question_hi": "राजस्थान में कौन से अन्यायिक बंदूक के प्रकार के राजधानी नहीं है।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Agra", "B_hi": "अगरा",
+"C_en": "Kota", "C_hi": "�� ko ta",
+"D_en": "Ahmedabad", "D_hi": "अहमदाबाद",
+"answer": "B",
+"explanation_en": "Agra is not a capital city in Rajasthan.",
+"explanation_hi": "अगरा राजस्थान में राजधानी नहीं है।",
+"explanation": "Agra is the capital city of Uttar Pradesh, not Rajasthan."
+}
+]
