@@ -1,0 +1,40 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा कुमारी है?",
+"A_en": "Amber Fort", "A_hi": "आमर कुमारी",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Jal Mahal", "C_hi": "जल महाल",
+"D_en": "City Palace", "D_hi": "शहर कुमारी",
+"answer": "A",
+"explanation_en": "Amber Fort, also known as Jaigarh Fort, is a famous monument located in Jaipur, Rajasthan.\nजयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में और जयपुर में आमर कुमारी, सहनित कंपनी (जयपुर में)",
+"question_type": "Multiple Choice",
+"choices": [
+{
+"option_en": "Jaipur",
+"option_hi": "जयपुर",
+"answer_en": "जापुर",
+"answer_hi": "जयपुर",
+"explanation_en": "Jaipur, Udaipur",
+"explanation_hi": "जयपुर, जयपुर"
+},
+{
+"option_en": "Amber",
+"option_hi": "आमर",
+"answer_en": "आमार",
+"answer_hi": "आमार",
+"explanation_en": "Amber Fort",
+"explanation_hi": "आमार, आमार"
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "हवा माहाल",
+"answer_en": "हयाहाल",
+"answer_hi": "हवाहाल",
+"explanation_en": "Hawa Mahal, Amber Palace",
+"explanation_hi": "हवाहाल, आमाहाल"
+]
+}
+]
