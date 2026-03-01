@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan State and Its Founding",
+"question_en": "Who founded the Rajasthan State?",
+"question_hi": "राजस्थान राज्य को कौन से नुस्तति निवड़के हैं।",
+"A_en": "Pratap Singh Khatri",
+"A_hi": "प्रताप सिंह खत्री",
+"B_en": "Ala Singh",
+"B_hi": "अला सिंह",
+"C_en": "Maharaja Sawai Jai Singh II",
+"C_hi": "महाराजा सवाई जय सिंह द्वारा निर्मित किया गया क्या राज्य की बना किया गया है?",
+"D_en": "Jagat Singh",
+"D_hi": "जगत सिंह",
+"answer": "C",
+"explanation_en": "Maharaja Sawai Jai Singh II is the one who founded the Rajasthan state.",
+"explanation_hi": "महाराजा सवाई जय सिंह को राज्य की बनाई करने की जानी गई है।",
+}
+]
