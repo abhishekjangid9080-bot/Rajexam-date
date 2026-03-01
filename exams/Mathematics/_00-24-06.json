@@ -1,0 +1,160 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality math MCQs for Rajasthan exams, SSC, and Railways. The questions need to be in both Hindi and English, following a specific JSON format. First, I need to choose a topic for the questions. Since the user didn't specify a particular math topic, I'll assume a general one. Maybe cover areas like algebra, geometry, arithmetic, and mensuration.
+
+Wait, the example provided is about Rajasthan's capital, which is a GK question. The user mentioned the subject is Mathematics, so the next set should be math-related. Let me make sure to focus on math topics. Let's think of common math topics for these exams: profit and loss, time and work, algebraic equations, geometry, percentage, etc.
+
+I need to create 10 questions. Let me start brainstorming. For example, a profit and loss question: If a shopkeeper sells an item at a 20% profit for ₹1200, what's the cost price? The options would be A. ₹1000, B. ₹960, C. ₹1050, D. ₹1100. Answer is A. ₹1000, since 120% of CP is 1200, so CP = 1200/1.2 = 1000.
+
+Another question on algebra: If 2x + 3 = 7, find x. Options would be A.1, B.2, C.3, D.4. Answer is B.2. That's simple.
+
+Geometry: The area of a triangle with base 6 cm and height 4 cm is? Area = ½ *6*4=12 cm². Options could be A.12, B.24, etc.
+
+Time and work: If A can do a job in 10 days, how much does A do in a day? Answer is 1/10.
+
+Percentage: If 40% of a number is 80, the number is? 80/0.4=200.
+
+I should also include a mix of difficulty levels. Maybe one question on HCF and LCM. For example, HCF of 36 and 48 is? Factors of 36: 2²*3², 48: 2⁴*3. HCF is 2²*3=12.
+
+Another on ratio and proportion: If 3:4 = x:12, find x. Cross multiply: 3*12=4x → x=9.
+
+Mensuration: The circumference of a circle with radius 7 cm is? 2πr = 2*(22/7)*7=44 cm.
+
+Simple interest: Principal ₹5000 at 5% per annum for 2 years. Interest = 5000*5*2/100=500. Total amount is 5500.
+
+One more on numbers: The smallest prime number is? 2.
+
+Now I need to structure each question in the required JSON format. Each question must have Hindi and English versions for both question and options. The answer and explanations in both languages as well. Need to ensure that the JSON is correctly formatted, with proper commas and brackets. Also, check for any typos or calculation errors. Let me verify each question's calculations again to avoid mistakes. Once confirmed, structure them into the JSON array as specified.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_en": "A shopkeeper sells an article for ₹1200 at a profit of 20%. What is the cost price of the article?",
+    "question_hi": "एक दुकानदार एक वस्तु को ₹1200 में बेचता है जिस पर 20% का लाभ है। वस्तु का क्रय मूल्य क्या है?",
+    "A_en": "₹1000", "A_hi": "₹1000",
+    "B_en": "₹960", "B_hi": "₹960",
+    "C_en": "₹1050", "C_hi": "₹1050",
+    "D_en": "₹1100", "D_hi": "₹1100",
+    "answer": "A",
+    "explanation_en": "Let the cost price be ₹x. 120% of x = 1200 ⇒ x = 1200 / 1.2 = ₹1000.",
+    "explanation_hi": "माना क्रय मूल्य ₹x है। x का 120% = 1200 ⇒ x = 1200 / 1.2 = ₹1000।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question_en": "If 2x + 3 = 7, what is the value of x?",
+    "question_hi": "यदि 2x + 3 = 7 है, तो x का मान क्या है?",
+    "A_en": "1", "A_hi": "1",
+    "B_en": "2", "B_hi": "2",
+    "C_en": "3", "C_hi": "3",
+    "D_en": "4", "D_hi": "4",
+    "answer": "B",
+    "explanation_en": "Subtract 3 from both sides: 2x = 4 ⇒ x = 2.",
+    "explanation_hi": "दोनों पक्षों में 3 घटाएं: 2x = 4 ⇒ x = 2।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "question_en": "What is the area of a triangle with base 6 cm and height 4 cm?",
+    "question_hi": "6 सेमी आधार और 4 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल क्या है?",
+    "A_en": "12 cm²", "A_hi": "12 वर्ग सेमी",
+    "B_en": "24 cm²", "B_hi": "24 वर्ग सेमी",
+    "C_en": "18 cm²", "C_hi": "18 वर्ग सेमी",
+    "D_en": "10 cm²", "D_hi": "10 वर्ग सेमी",
+    "answer": "A",
+    "explanation_en": "Area = ½ × base × height = ½ × 6 × 4 = 12 cm².",
+    "explanation_hi": "क्षेत्रफल = ½ × आधार × ऊँचाई = ½ × 6 × 4 = 12 वर्ग सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "question_en": "A can complete a work in 10 days. How much work does A complete in 1 day?",
+    "question_hi": "A 10 दिन में एक काम पूरा कर सकता है। A एक दिन में कितना काम पूरा करता है?",
+    "A_en": "1/10", "A_hi": "1/10",
+    "B_en": "1/5", "B_hi": "1/5",
+    "C_en": "1/2", "C_hi": "1/2",
+    "D_en": "1/3", "D_hi": "1/3",
+    "answer": "A",
+    "explanation_en": "Work done in 1 day = 1 / total days = 1/10.",
+    "explanation_hi": "एक दिन में किया गया काम = 1 / कुल दिन = 1/10।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Percentage",
+    "question_en": "40% of a number is 80. What is the number?",
+    "question_hi": "एक संख्या का 40% 80 है। संख्या क्या है?",
+    "A_en": "200", "A_hi": "200",
+    "B_en": "180", "B_hi": "180",
+    "C_en": "160", "C_hi": "160",
+    "D_en": "140", "D_hi": "140",
+    "answer": "A",
+    "explanation_en": "Let the number be x. 40% of x = 80 ⇒ x = 80 / 0.4 = 200.",
+    "explanation_hi": "माना संख्या x है। x का 40% = 80 ⇒ x = 80 / 0.4 = 200।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "HCF and LCM",
+    "question_en": "Find the HCF of 36 and 48.",
+    "question_hi": "36 और 48 का महत्तम समापवर्तक (HCF) ज्ञात कीजिए।",
+    "A_en": "12", "A_hi": "12",
+    "B_en": "6", "B_hi": "6",
+    "C_en": "8", "C_hi": "8",
+    "D_en": "18", "D_hi": "18",
+    "answer": "A",
+    "explanation_en": "Prime factors of 36: 2² × 3²; of 48: 2⁴ × 3. HCF = 2² × 3 = 12.",
+    "explanation_hi": "36 के अभाज्य गुणनखंड: 2² × 3²; 48 के: 2⁴ × 3। HCF = 2² × 3 = 12।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_en": "If 3:4 = x:12, find the value of x.",
+    "question_hi": "यदि 3:4 = x:12 है, तो x का मान ज्ञात कीजिए।",
+    "A_en": "9", "A_hi": "9",
+    "B_en": "8", "B_hi": "8",
+    "C_en": "7", "C_hi": "7",
+    "D_en": "10", "D_hi": "10",
+    "answer": "A",
+    "explanation_en": "Cross-multiply: 3 × 12 = 4 × x ⇒ x = 36 / 4 = 9.",
+    "explanation_hi": "चौरस गुणा: 3 × 12 = 4 × x ⇒ x = 36 / 4 = 9।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "question_en": "What is the circumference of a circle with radius 7 cm? (π = 22/7)",
+    "question_hi": "7 सेमी त्रिज्या वाले वृत्त की परिधि क्या है? (π = 22/7)",
+    "A_en": "44 cm", "A_hi": "44 सेमी",
+    "B_en": "22 cm", "B_hi": "22 सेमी",
+    "C_en": "11 cm", "C_hi": "11 सेमी",
+    "D_en": "33 cm", "D_hi": "33 सेमी",
+    "answer": "A",
+    "explanation_en": "Circumference = 2πr = 2 × (22/7) × 7 = 44 cm.",
+    "explanation_hi": "परिधि = 2πr = 2 × (22/7) × 7 = 44 सेमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Simple Interest",
+    "question_en": "What is the total amount after 2 years on ₹5000 at 5% per annum simple interest?",
+    "question_hi": "5000 रुपये पर 5% वार्षिक ब्याज की दर से 2 वर्ष बाद कुल धन क्या होगा?",
+    "A_en": "₹5500", "A_hi": "₹5500",
+    "B_en": "₹5250", "B_hi": "₹5250",
+    "C_en": "₹5750", "C_hi": "₹5750",
+    "D_en": "₹6000", "D_hi": "₹6000",
+    "answer": "A",
+    "explanation_en": "Simple Interest = (5000 × 5 × 2)/100 = 500. Total amount = 5000 + 500 = ₹5500.",
+    "explanation_hi": "साधारण ब्याज = (5000 × 5 × 2)/100 = 500। कुल धन = 5000 + 500 = ₹5500।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Number System",
+    "question_en": "What is the smallest prime number?",
+    "question_hi": "सबसे छोटी अभाज्य संख्या कौनसी है?",
+    "A_en": "2", "A_hi": "2",
+    "B_en": "3", "B_hi": "3",
+    "C_en": "5", "C_hi": "5",
+    "D_en": "7", "D_hi": "7",
+    "answer": "A",
+    "explanation_en": "2 is the smallest and only even prime number.",
+    "explanation_hi": "2 सबसे छोटी और एकमात्र सम अभाज्य संख्या है।"
+  }
+]
