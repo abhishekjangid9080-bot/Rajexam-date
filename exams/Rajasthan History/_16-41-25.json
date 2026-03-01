@@ -1,0 +1,69 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the famous warrior queen of Rajasthan?",
+"question_hi": "राजस्थान की महान सैनिक महिला कौन है ?",
+"A_en": "Rani Karnawati", "A_hi": "रानी कारणावती",
+"B_en": "Princess Jodhabai", "B_hi": "प्रांती जोधाबाई",
+"C_en": "Rani Padmini", "C_hi": "रानी पद्मी",
+"D_en": "Princess Janki", "D_hi": "प्रांती जनकी",
+"answer": "C",
+"explanation_en": "Rani Padmini is the famous warrior queen of Rajasthan. She is best known for her valour and bravery during the Chitor siege.",
+"explanation_hi": "रानी पद्मी राजस्थान की महिला कामना है। उनकी घरान घरघाट कमोश में स्वरूपने, उनकी बुल्लाहरू में कामना होती है।",
+"question_en": "Which queen is famous for her bravery during the Chittor siege?\n\nघाट्स के में उनकी बुल्लाहरू में कामना होती है।",
+"question_hi": "घाट्स के में उनकी बुल्लाहरू में कामना होती है।",
+"A_en": "Rani Karnavati", "A_hi": "रानी कारणवती",
+"B_en": "Princess Udaymata", "B_hi": "उदामाता",
+"C_en": "Rani Padmini", "C_hi": "पादंडा",
+"D_en": "Rani Mohini", "D_hi": "मोहिनी रानी",
+"answer": "C",
+"explanation_en": "Rani Padmini is famous for her bravery during the Chittorgarh siege.",
+"explanation_hi": "पादंडा उनकी बर्खात्र घाट्यांचर घाटे में उनका कामना हुआ था।",
+"explanation_hi": "पादंडा उनकी बर्खात्र घाट्यांचर घाटे में उनका कामना था।",
+"question_en": "Who is the queen who was famous for her bravery during the Chittorgarh siege?",
+"question_hi": "चतुराणीयों में कौनी महिला उनका कामना था जो चतुराणीयों में कामना हुआ था?",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Rani Karnawati",
+"option_explain": "Rani Karnawati was a historical queen who led the Rajput army in the Chittor fort during the siege."
+},
+{
+"option_id": 2,
+"option_text": "Rani Padmini",
+"option_explain": "Rani Padmini is famous for her bravery during the Chittorgarh siege, where she played a crucial role in the battle."
+},
+{
+"option_id": 3,
+"option_text": "Rani Kumbh Rajput",
+"option_explain": "Rani Kumbh Rajput is renowned for her valour during the Chittor siege, but she is not the main queen associated with the Chittorgarh fort siege."
+},
+{
+"option_id": 4,
+"option_text": "Rani Meera",
+"option_explain": "Rani Meera is a legendary queen but she was not part of the Chittorgarh siege."
+}
+],
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "रानी कर्णावती",
+"option_explain": "रानी कर्णावती बुलामार कोणावती सितोंगो घाटोंगो",
+},
+{
+"option_id": 2,
+"option_text": "रानी पाड़णावती",
+"option_explain": "रानी पाड़णावती तोंगो सितोंगंगो घाटों",
+},
+{
+"option_id": 3,
+"option_text": "रानी लावती",
+"option_explain": "रानी लावती घाटी",
+},
+{
+"option_id": 4,
+"option_text": "रानी लावती",
+"option_explain": "रानी लावती घाटी"
+},
+]
