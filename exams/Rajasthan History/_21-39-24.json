@@ -1,0 +1,34 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Historic Cities",
+"question_en": "What is the capital of Rajasthan and which are the historic cities of the state?",
+"question_hi": "राजस्थान की राजधानी और राजस्थान की इतिहासी संस्करणों में किस श्रेणी में राजस्थान की आत्मसंख्या क्या है?",
+"answer": "Rajasthan ke itihas mein, राजस्थान की आत्मसंख्या क्या है?",
+"options": [
+{
+"option_text_en": "Cultural Heritage",
+"option_text_hi": "कला संसार",
+"answer": "Cultural Heritage",
+"option_text_en": "Demographics",
+"option_text_hi": "आत्मसंख्या",
+"answer": "Demographics"
+},
+{
+"option_text_en": "Royal Palaces",
+"option_text_hi": "राजा की गढ़ और मैंसी",
+"answer": "Royal Palaces",
+"option_text_en": "Famous Temples",
+"option_text_hi": "मेण्ट्यां और मैंसी",
+"answer": "Famous Temples"
+},
+{
+"option_text_en": "Agriculture",
+"option_text_hi": "कालेन्सी",
+"answer": "Agriculture",
+"option_text_en": "Traditions and Cultures",
+"option_text_hi": "तत्वें और पूर्वां",
+"answer": "Traditions and Cultures"
+}
+]
+]
