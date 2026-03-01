@@ -1,0 +1,23 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Man Singh of Amber?",
+"question_hi": "अम्बर के राजनीतिक लोकलीय एक्सप्रसार किस स्तर में बनने वाली कृष्णावास के बाजगंवाल रेलेक्ट्रॉन",
+"options": [
+{"option_en": "Amber Fort", "option_hi": "हिली निवास",
+"option_en": "Meena Bazaar", "option_hi": "मेना बाजार",
+"option_en": "Kumbhalgarh Fort", "option_hi": "कुम्भलगढ़ कृष्णावास",
+"option_en": "Jaipur Fort", "option_hi": "जयपुर कृष्णावास",
+"option_en": "Shekhawati Fort", "option_hi": "सीखावाती कृष्णावास",
+"answer": "Kumbhalgarh Fort"
+},
+{"option_en": "Amber Fort", "option_hi": "हिली निवास",
+"option_en": "Meena Bazaar", "option_hi": "मेना बाजार",
+"option_en": "Kumbhalgarh Fort", "option_hi": "कुम्भलगढ़ कृष्णावास",
+"option_en": "Jaipur Fort", "option_hi": "जयपुर कृष्णावास",
+"option_en": "Shekhawati Fort", "option_hi": "सीखावाती कृष्णावास",
+"answer": "Kumbhalgarh Fort"
+}
+]
+]
