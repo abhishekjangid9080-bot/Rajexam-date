@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Maharaja Jai Singh II in Jaipur?",
+"question_hi": "महाराजा जयसिंह सैंग II ने किस प्रमुखी क्षमता को जापानी में खोला था।",
+"A_en": "Amer Fort", "A_hi": "अमेर क्षमता",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Jai Singh", "C_hi": "सवाई जयसिंह सैंग II की शहरी केंद्र",
+"D_en": "Lalbagh Palace", "D_hi": "लालबाग पैल",
+"answer": "A",
+"explanation_en": "Amer Fort, also known as Amer Fort, was built by Maharaja Jai Singh II in Jaipur.\nSSC and UPSC exams often ask such questions.",
+"explanation_hi": "आमेर क्षमता, जयसिंह सैंग II ने जापानी में बना है।",
+"exam_level": "Intermediate",
+"exam_type": "Interview",
+"exam_board": "SSC, UPSC"
+}
+]
