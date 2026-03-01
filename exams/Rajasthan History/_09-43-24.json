@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Monuments",
+"question_en": "Which of the following is a historical monument in Rajasthan?",
+"question_hi": "राजस्थान में कौन से भवन इतिहासिक मंत्री है।",
+"A_en": "Hawa Mahal",
+"A_hi": "हावा महाल",
+"B_en": "Amer Fort",
+"B_hi": "अमेर फोट",
+"C_en": "Elephant Gate",
+"C_hi": "अल्पन घर",
+"D_en": "Chittorgarh Fort",
+"D_hi": "चिट्टोगरगढ़ फोट",
+"answer": "B",
+"explanation_en": "Amer Fort is a historical monument in Rajasthan.",
+"explanation_hi": "अमेर फोट एक राजस्थान में इतिहासिक मंत्री है।",
+"explanation_hi": "Amer Fort एक राजस्थान में इतिहासिक मंत्री है।"
+}
+]
