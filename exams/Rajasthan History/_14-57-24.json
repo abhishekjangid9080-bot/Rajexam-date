@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Royal Families",
+"question_en": "Which royal family from Rajasthan has the famous 'Shekhawati School of Painting' tradition?",
+"question_hi": "राजस्थान के अमृतनात के कैलेंडरेंट के बार्मिंग का महत्वपूर्ण क्या है? इसका नाम क्या है?",
+"A_en": "Kachchwaha",
+"A_hi": "काच्छवाहा",
+"B_en": "Bikaner",
+"B_hi": "बिकानेर",
+"C_en": "Jat",
+"C_hi": "जयतों",
+"D_en": "Rathore",
+"D_hi": "राधाना",
+"answer": "B",
+"explanation_en": "The significant branch of Kachchwaha Rajputs is known as Bikaner Rajputs. Bikaner is the name of this branch in Hindi. 'Kachchwaha' is the name of the family in English.",
+"explanation_hi": "काचवाहा राज्यवादी के एक महत्वपूर्वी है। Bikaner राज्य एकमानेवादी को 'बिकानेर' है।",
+}
