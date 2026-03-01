@@ -1,0 +1,167 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the subject Computer, with the topic left blank. The user wants them in both Hindi and English, similar to Testbook's style, and in a specific JSON format. Let me start by brainstorming possible topics in Computer that are relevant for exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC.
+
+First, I should consider common computer topics for these exams. Operating Systems, MS Office, Hardware, Networking, Internet, Database, Programming Basics, Security, and maybe some current tech trends like AI or Cloud Computing. Since the topic is not specified, I need to cover a range of areas.
+
+Let me outline each question. For each question, I need to ensure the question and options are in both languages. The answer should be one of the options (A, B, C, D), and the explanations should be clear and concise in both Hindi and English.
+
+Starting with Operating Systems: Maybe a question about the latest version of Windows or Linux. Next, MS Office: A question on shortcuts or features in Word or Excel. Hardware: Components like RAM, CPU, etc. Networking: IP addresses, types of networks. Internet: Protocols like HTTP, SSL. Database: SQL vs NoSQL. Programming: Basics like OOPs concepts. Security: Antivirus, encryption. Maybe some on Data Representation: Binary, number systems. And one on current tech like AI.
+
+I need to make sure the difficulty level is appropriate for the mentioned exams. Not too hard, but covering essential topics. Let me check the example provided. They had a simple question on Rajasthan's capital. So the computer questions should be basic to moderate.
+
+Now, drafting each question step by step. For example, first question on Operating System. Let me verify facts: The latest stable version of Windows as of now is Windows 11, but maybe the question is about a specific feature. Alternatively, a question about Linux distributions. Alternatively, a question on the default file system in Windows 10. Wait, maybe a better approach is to cover different areas.
+
+Let me think of specific questions. For example, a question on input devices, like which is not an input device. Or a question on binary numbers. Or a question about the purpose of a compiler. Let me try to come up with 10 distinct topics.
+
+1. What is the primary function of an operating system?
+2. Which of the following is a valid IP address format?
+3. What does HTTP stand for?
+4. Which software is used to protect a computer from viruses?
+5. What is the full form of CPU?
+6. Which of the following is a programming language?
+7. What is the purpose of a firewall in a computer network?
+8. Which of the following is an example of a spreadsheet software?
+9. What is the binary equivalent of decimal number 10?
+10. Which of the following is a type of memory used in computers?
+
+Now, translating each into Hindi carefully. Ensuring that the options are correctly translated. For the answer, making sure the correct option is selected. Explanations should clarify why that option is correct.
+
+Wait, I need to make sure that the options are in both languages. Also, the JSON structure must be followed strictly. Let me start drafting each question with the required fields. Also, check for any possible errors, like option letters in both languages, and that the explanations are accurate.
+
+For example, the first question: What is the primary function of an operating system? The answer would be managing hardware and software resources. Let's verify the options. The options should include other functions as distractors, like translating high-level language, managing data, etc.
+
+Let me proceed step by step, ensuring each question is distinct and covers a different area. Also, check that the difficulty is appropriate for the target exams, not too technical but covering essential concepts.
+</think>
+
+[
+{
+"subject": "Computer",
+"topic": "Operating System",
+"question_en": "Which of the following is not an operating system?",
+"question_hi": "निम्नलिखित में से कौन-सा एक ऑपरेटिंग सिस्टम नहीं है?",
+"A_en": "Windows 10", "A_hi": "विंडोज़ 10",
+"B_en": "Linux", "B_hi": "लिनक्स",
+"C_en": "Android", "C_hi": "एंड्रॉइड",
+"D_en": "Oracle", "D_hi": "ओरेकल",
+"answer": "D",
+"explanation_en": "Oracle is a database management system, not an operating system.",
+"explanation_hi": "ओरेकल एक डेटाबेस प्रबंधन प्रणाली है, ऑपरेटिंग सिस्टम नहीं।"
+},
+{
+"subject": "Computer",
+"topic": "Networking",
+"question_en": "What does HTTP stand for?",
+"question_hi": "HTTP का पूरा रूप क्या है?",
+"A_en": "HyperText Transfer Protocol", "A_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल",
+"B_en": "HyperText Transmission Protocol", "B_hi": "हाइपरटेक्स्ट ट्रांसमिशन प्रोटोकॉल",
+"C_en": "HyperText Technology Protocol", "C_hi": "हाइपरटेक्स्ट टेक्नोलॉजी प्रोटोकॉल",
+"D_en": "HyperText Terminology Protocol", "D_hi": "हाइपरटेक्स्ट टर्मिनोलॉजी प्रोटोकॉल",
+"answer": "A",
+"explanation_en": "HTTP is the protocol used for transferring data on the web.",
+"explanation_hi": "HTTP वेब पर डेटा ट्रांसफर के लिए उपयोग किया जाने वाला प्रोटोकॉल है।"
+},
+{
+"subject": "Computer",
+"topic": "MS Office",
+"question_en": "Which of the following is a spreadsheet software?",
+"question_hi": "निम्नलिखित में से कौन सा एक स्प्रेडशीट सॉफ्टवेयर है?",
+"A_en": "Microsoft Word", "A_hi": "माइक्रोसॉफ्ट वर्ड",
+"B_en": "Microsoft Excel", "B_hi": "माइक्रोसॉफ्ट एक्सेल",
+"C_en": "Microsoft PowerPoint", "C_hi": "माइक्रोसॉफ्ट पॉवरपॉइंट",
+"D_en": "Microsoft Outlook", "D_hi": "माइक्रोसॉफ्ट आउटलुक",
+"answer": "B",
+"explanation_en": "Microsoft Excel is a spreadsheet software used for data organization and calculation.",
+"explanation_hi": "माइक्रोसॉफ्ट एक्सेल डेटा के संगठन और गणना के लिए उपयोग किया जाने वाला एक स्प्रेडशीट सॉफ्टवेयर है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Fundamentals",
+"question_en": "What is the full form of CPU?",
+"question_hi": "CPU का पूरा रूप क्या है?",
+"A_en": "Central Processing Unit", "A_hi": "सेंट्रल प्रोसेसिंग यूनिट",
+"B_en": "Central Processing Unit", "B_hi": "सेंट्रल प्रोसेसिंग यूनिट",
+"C_en": "Computer Processing Unit", "C_hi": "कंप्यूटर प्रोसेसिंग यूनिट",
+"D_en": "Central Programming Unit", "D_hi": "सेंट्रल प्रोग्रामिंग यूनिट",
+"answer": "A",
+"explanation_en": "CPU is the brain of the computer that processes data.",
+"explanation_hi": "CPU कंप्यूटर का मस्तिष्क है जो डेटा का उपयोग करता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Security",
+"question_en": "Which of the following is used to protect a computer from viruses?",
+"question_hi": "निम्नलिखित में से किसका उपयोग वायरस से कंप्यूटर की रक्षा के लिए किया जाता है?",
+"A_en": "Firewall", "A_hi": "फायरवॉल",
+"B_en": "Antivirus software", "B_hi": "एंटीवायरस सॉफ्टवेयर",
+"C_en": "Router", "C_hi": "रूटर",
+"D_en": "Scanner", "D_hi": "स्कैनर",
+"answer": "B",
+"explanation_en": "Antivirus software detects and removes viruses from a computer.",
+"explanation_hi": "एंटीवायरस सॉफ्टवेयर कंप्यूटर से वायरस का पता लगाता और उन्हें हटाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Data Communication",
+"question_en": "Which of the following is a valid IP address format?",
+"question_hi": "निम्नलिखित में से कौन सा एक वैध IP पता प्रारूप है?",
+"A_en": "192.168.1.1", "A_hi": "192.168.1.1",
+"B_en": "192:168:1:1", "B_hi": "192:168:1:1",
+"C_en": "192.168.1", "C_hi": "192.168.1",
+"D_en": "192.168.1.1.1", "D_hi": "192.168.1.1.1",
+"answer": "A",
+"explanation_en": "IPv4 addresses are written in the format of four octets separated by dots.",
+"explanation_hi": "IPv4 पता चार ऑक्टेट के रूप में लिखे जाते हैं जो डॉट से अलग होते हैं।"
+},
+{
+"subject": "Computer",
+"topic": "Programming",
+"question_en": "Which of the following is a programming language?",
+"question_hi": "निम्नलिखित में से कौन एक प्रोग्रामिंग भाषा है?",
+"A_en": "HTML", "A_hi": "एचटीएमएल",
+"B_en": "SQL", "B_hi": "एसक्यूएल",
+"C_en": "Python", "C_hi": "पायथन",
+"D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+"answer": "D",
+"explanation_en": "HTML is for web structure, SQL for databases, and Python is a general-purpose programming language.",
+"explanation_hi": "एचटीएमएल वेब संरचना के लिए, एसक्यूएल डेटाबेस के लिए, और पायथन एक सामान्य उद्देश्य प्रोग्रामिंग भाषा है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Hardware",
+"question_en": "Which component of a computer is responsible for processing data?",
+"question_hi": "कंप्यूटर का कौन सा घटक डेटा को प्रोसेस करने के लिए उत्तरदायी है?",
+"A_en": "RAM", "A_hi": "रैम",
+"B_en": "Hard Disk", "B_hi": "हार्ड डिस्क",
+"C_en": "CPU", "C_hi": "सीपीयू",
+"D_en": "Motherboard", "D_hi": "मदरबोर्ड",
+"answer": "C",
+"explanation_en": "The CPU (Central Processing Unit) processes data and executes instructions.",
+"explanation_hi": "सीपीयू (सेंट्रल प्रोसेसिंग यूनिट) डेटा को प्रोसेस करता है और निर्देशों को निष्पादित करता है।"
+},
+{
+"subject": "Computer",
+"topic": "Data Representation",
+"question_en": "What is the binary equivalent of the decimal number 10?",
+"question_hi": "दशमलव संख्या 10 का द्विआधारी समकक्ष क्या है?",
+"A_en": "1010", "A_hi": "1010",
+"B_en": "1001", "B_hi": "1001",
+"C_en": "1100", "C_hi": "1100",
+"D_en": "1011", "D_hi": "1011",
+"answer": "A",
+"explanation_en": "10 divided by 2 gives remainders 0 and 1, reading remainders from bottom to top gives 1010.",
+"explanation_hi": "10 का 2 से विभाजन शेषफल 0 और 1 देता है, शेषफल को तल से शीर्ष तक पढ़ने पर 1010 प्राप्त होता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Memory",
+"question_en": "Which of the following is a type of volatile memory?",
+"question_hi": "निम्नलिखित में से कौन एक वाष्पशील स्मृति का प्रकार है?",
+"A_en": "ROM", "A_hi": "रोम",
+"B_en": "RAM", "B_hi": "रैम",
+"C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+"D_en": "CD-ROM", "D_hi": "सीडी-रोम",
+"answer": "B",
+"explanation_en": "RAM is volatile memory that loses data when power is off.",
+"explanation_hi": "रैम एक वाष्पशील स्मृति है जो बिजली बंद होने पर डेटा खो देती है।"
+}
+]
