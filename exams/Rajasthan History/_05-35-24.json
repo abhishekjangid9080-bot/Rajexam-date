@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Maharaja Rai Singh in Jaipur?",
+"question_hi": "जयपुर महाराजा राय सिंह ने किस प्रमुख क़मरे को बनाया।",
+"A_en": "Amer Fort",
+"A_hi": "आमे क़मरे",
+"B_en": "Jal Mahal",
+"B_hi": "जल महाल",
+"C_en": "Hawa Mahal",
+"C_hi": "हावा महाल",
+"D_en": "Nahargarh Fort",
+"D_hi": "नाहारगढ़ क़मरे",
+"answer": "C",
+"explanation_en": "Hawa Mahal is the famous fort built by Maharaja Pratap Singh in Jaipur.",
+"explanation_hi": "महाराजा प्रतपसंघ ने जापूर में जापूर की तिहाई महाल ने बनाया।",
+}
+]
