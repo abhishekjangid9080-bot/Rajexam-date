@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the author of the book 'Rajasthan Parichay'? ",
+"question_hi": "‘राजस्थान परिचय' के लेखक कौन है।",
+"A_en": "Arjun Dayal", "A_hi": "अर्जुन दैयल",
+"B_en": "Hemchandra Suri", "B_hi": "हेमचंद्रसूरी",
+"C_en": "Krishan Lal", "C_hi": "कृषण लाल",
+"D_en": "Samar Singh Rathore", "D_hi": "समार सिंह रातोर",
+"answer": "D",
+"explanation_en": "Samar Singh Rathore is the author of the book 'Rajasthan Parichay'.",
+"explanation_hi": "समार सिंह रातोर के 'राजस्थान परिचय' के लेखक है।"
+}
+]
