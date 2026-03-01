@@ -1,0 +1,60 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Monuments",
+"question_en": "Which historical monument is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा इमानदारी है?",
+"A_en": "Amber Fort", "A_hi": "आम्बेड कंत्रा",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II", "C_hi": "सैनोटप महाराजा साईवाई सवाई मंसूल II",
+"D_en": "Palace of Winds", "D_hi": "वाहन कंत्रा",
+"answer": "C",
+"explanation_en": "The Cenotaph of Maharaja Sawai Man Singh II is located in Jaipur. This monument is a tribute to Maharaja Sawai Man Singh II, who was the ruler of Jaipur during the 18th century.",
+"explanation_hi": "जापुर में महाराजा साईवाई सवाई मंसूल II का निर्वाचर है। यह मंसूल साईवाई मंसूल II के राजन है। उन्ने जापुर में राजा के शैवाई मंसूल II ने जापुर में बनना करने वाला था।",
+"answer": "D",
+"explanation_en": "Maharaja Sawai Mansingh II, who was the ruler of Jaipur, built the Cenotaph in Jaipur.",
+"explanation_hi": "महाराजा साईवाई मंसूल II ने जापुर में शाईवाई मंसूल II ने जापुर में शैवाई मंसूल II के बनने वाला था।",
+"answer": "D",
+"explanation_en": "Maharaja Sawai Mansingh II, who ruled Jaipur, constructed the Cenotaph in Jaipur.",
+"explanation_hi": "महाराजा साईवाई मंसूल II ने जापुर में शैवाई मंसूल II के बनने वाला था।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Jaipur's Historical Monuments",
+"question_en": "Which monument is popularly known as the 'Vyas Samadhi'?",
+"question_hi": "जापुर के वैयास समाधिका के बौद्राना कौन एक 'वैयास समाधिका' के राजनासित है।",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Amber Fort",
+"option_translation_en": "Amber Fort",
+"option_translation_hi": "आमर फोट",
+"option_correct": false
+},
+{
+"option_id": 2,
+"option_text": "Hawa Mahal",
+"option_translation_en": "Hawa Mahal",
+"option_translation_hi": "हवा माहाल",
+"option_correct": true
+},
+{
+"option_id": 3,
+"option_text": "Ganesh Pol",
+"option_translation_en": "Ganesh Pol",
+"option_translation_hi": "गैनेश पौल",
+"option_correct": false
+},
+{
+"option_id": 4,
+"option_text": "Vyas Samadhi",
+"option_translation_en": "Vyas Samadhi",
+"option_translation_hi": "वैयास समाधिका",
+"option_correct": true
+}
+],
+"answer": 4,
+"explanation_en": "Vyas Samadhi is the popular name for the monument dedicated to Maharaja Sawai Mansingh II.",
+"explanation_hi": "वैयास समाधिका, महाराजा साईवास समाधिका ही।",
+}
+]
