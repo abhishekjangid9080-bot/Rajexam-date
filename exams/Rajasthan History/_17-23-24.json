@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Famous Cities",
+"question_en": "Which city served as the capital of Rajasthan before Jaipur?",
+"question_hi": "जयपुर से पहले राजस्थान की राजधानी के प्रमोट का वर्णन करो।",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Ajmer", "B_hi": "अजमेर",
+"C_en": "Jhalawar", "C_hi": "झलवार",
+"D_en": "Jodhpur", "D_hi": "झोड़ूपूर",
+"answer": "A",
+"explanation_en": "Udaipur served as the capital of Rajasthan before Jaipur. Udaipur is also known as the \"City of Lakes\" and is a popular tourist destination.",
+"explanation_hi": "उदयपुर राजस्थान की राजधानी हुई थी जब जोड़ूपूर था। उदयपुर भी \"जलवार\" और टीबी सिटी की पसंद है और एक पसंद है।",
+"explanation_hi": "उदयपुर राजस्थान की राजधानी हुई थी जोड़ूपूर थी। उदयपुर भी टीबी सिटी की पसंद है और एक पसंद है।"
+}
+]
