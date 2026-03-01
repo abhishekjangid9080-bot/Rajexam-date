@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor is associated with the construction of the City Palace in Udaipur?",
+"question_hi": "उदयपुर के संस्करण के लिए यहां मंत्रालय का विश्वासकार है।",
+"A_en": "Krishna Singh",
+"A_hi": "कृष्ण सिंग",
+"B_en": "Samar Singh",
+"B_hi": "समर सिंग",
+"C_en": "Chittor Rao",
+"C_hi": "चिट्टोर राव",
+"D_en": "Ala Singh",
+"D_hi": "अला सिंग",
+"answer": "B",
+"explanation_en": "Samar Singh is associated with the construction of the City Palace in Udaipur.",
+"explanation_hi": "Samar Singh उदयपुर के लिए कृष्ण सिंग ने इसे बना।",
+}
+]
