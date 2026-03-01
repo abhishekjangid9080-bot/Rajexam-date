@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Early History",
+"question_en": "Which Chauhan king was the first to convert to Islam and ruled Rajasthan in the 12th century?",
+"question_hi": "12वें सदीमें इस्लाम के दौरे के लिए एक खोजबान सर, बंगलकार की भाग में एकों की मात्रा को बताएं।",
+"A_en": "Prince Madho Singh I of Kishangarh",
+"A_hi": "किशंघर के मांगल सर के एकों को बताएं।",
+"B_en": "Prince Karan Singh of Jaipur",
+"B_hi": "जयपुर के मांगल सर के एकों को बताएं।",
+"C_en": "Prince Sawai Raja Rao of Dholpur",
+"C_hi": "दोलपुर के मांगल सर के एकों को बताएं।",
+"D_en": "Prince Jai Singh II of Amber",
+"D_hi": "अम्बर के मांगल सर के एकों को बताएं।",
+"answer": "D",
+"explanation_en": "Jai Singh II, a prince of Amber, was the founder of Jaipur.",
+"explanation_hi": "अम्बर के मांगल सर के एकों को बताएं।",
+"subject": "Rajasthan History"
+}
+]
