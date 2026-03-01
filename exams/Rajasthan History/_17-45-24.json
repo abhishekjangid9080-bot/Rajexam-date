@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the author of the famous Rajasthani epic poem, 'Ramlila'?",
+"question_hi": "राजस्थानी कविता 'राजलीला' के लेखक कौन हैं।",
+"A_en": "Tulsi Das", "A_hi": "तुलसी दास",
+"B_en": "Kabir", "B_hi": "काबिर",
+"C_en": "Balaram Das", "C_hi": "बालराम दास",
+"D_en": "Madan Mohan Malviya", "D_hi": "मानदन मोहन मल्वीया",
+"answer": "A",
+"explanation_en": "Tulsi Das is the author of the famous Rajasthani epic poem, 'Ramlila'.",
+"explanation_hi": "राजस्थानी कविता 'राजलीला' के लेखक हैंगेणी तुलसी दास।",
+}
+]
