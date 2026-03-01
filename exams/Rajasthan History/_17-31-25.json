@@ -1,0 +1,45 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Man Singh I of Amber during the Mughal era?",
+"question_hi": "राजा मान सिंह I अमेर से बनाया गया है जिस मुगल समय के दौरान बनाया गया था?",
+"A_en": "Amer Fort", "A_hi": "उमेर कंवर",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भलगढ़ Fort",
+"C_en": "Mukundgarh Fort", "C_hi": "मुक्तंद्र कंवर",
+"D_en": "Mehrangarh Fort", "D_hi": "मेरंगरखंड Fort",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha of Mewar during the Mughal era.",
+"explanation_hi": "कुम्भलगढ़ Fort मेवालर कुम्भ कोवाल मेवाल मैयालर मेवालर मैयाल मैयाल नाम यों का तिहाँ कोवाल मैयाल मैयाल",
+"explanation_hi": "मेवालर मैयालर मैयालर मैयाल नाम यों का तिहाँ कोवाल मैयाल मैयाल मैयाल",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha of Mewar during the era of Sultan Sikandar Lodi.",
+"explanation_hi": "कम्बलगढ़ Fort मैयाल कोवाल नाम यों का तिहाँ कोवाल मैयाल मैयाल",
+"question_en": "Which fort was built by Rana Kumbha of Mewar during the era of Sultan Sikandar Lodi?",
+"question_hi": "मैयाल कोवाल नाम यों का तिहाँ कोवाल मैयाल मैयाल",
+"option_en": [
+{
+"option_text": "A) Chittorgarh Fort",
+"option_value": "A",
+"option_explanation_hi": "चिट्टोरगढ़ Fort",
+"option_explanation_en": "Chittorgarh Fort"
+},
+{
+"option_text": "B) Mehrangarh Fort",
+"option_value": "B",
+"option_explanation_hi": "मेरानगढ़ Fort",
+"option_explanation_en": "Mehrangarh Fort"
+},
+{
+"option_text": "C) Kumbhalgarh Fort",
+"option_value": "C",
+"option_explanation_hi": "कम्बलगढ़ Fort",
+"option_explanation_en": "Kumbhalgarh Fort"
+},
+{
+"option_text": "D) Amber Fort",
+"option_value": "D",
+"option_explanation_hi": "आमर Fort",
+"option_explanation_en": "Amber Fort"
+}
+]
