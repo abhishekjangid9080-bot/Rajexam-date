@@ -1,0 +1,152 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs for Computer subjects relevant to Rajasthan exams, SSC, and Railway. The questions need to be in both Hindi and English, with explanations in both languages as well. The JSON format is strict, and I need to follow the example structure provided.
+
+First, I need to decide on the topics. Since the user didn't specify a particular topic under Computer, I'll cover a range of areas like operating systems, hardware, networking, software, etc. This ensures the questions are varied and cover essential topics.
+
+For each question, I'll create a clear and concise question in English and translate it accurately to Hindi. The options need to be in both languages too. The correct answer's letter (A, B, C, D) should be consistent. Explanations must be brief but informative in both languages.
+
+I should check for any possible errors in the options and explanations. For example, if a question is about the brain of a computer, the correct answer is the CPU. The options should include common misconceptions like memory, ALU, etc., but the answer must be accurate.
+
+Also, since these are for competitive exams, the difficulty level should be moderate to high, testing the understanding rather than just facts. For example, a question on the difference between RAM and ROM would be good, with the answer highlighting volatility.
+
+I need to ensure that all translations are accurate. For instance, "Memory" in English should be "मेमोरी" in Hindi, not a transliteration. The explanations should reinforce the correct answer, like explaining why the CPU is the brain.
+
+Another point is to include a mix of technical terms and practical knowledge. Questions about internet protocols, types of memory, and hardware components are good. Also, some questions about common software applications like MS Office can be included.
+
+Wait, the user didn't mention a specific topic, so I have to make sure the questions are general enough for Computer Science but still challenging. Topics like input/output devices, storage types, basic programming concepts, and networking terms would fit well.
+
+Let me start drafting each question step by step, making sure that each has four options, the correct answer is clearly correct, and explanations are concise. After creating all 10, I'll validate the JSON structure to ensure it's correct. Also, check that the Hindi and English parts are aligned properly without any typos.
+</think>
+
+[
+{
+"subject": "Computer",
+"topic": "Basic Computer Concepts",
+"question_en": "Which component is known as the brain of a computer?",
+"question_hi": "कंप्यूटर के कौन से घटक को मस्तिष्क के रूप में जाना जाता है?",
+"A_en": "Memory", "A_hi": "मेमोरी",
+"B_en": "CPU", "B_hi": "सीपीयू",
+"C_en": "ALU", "C_hi": "एएलयू",
+"D_en": "Keyboard", "D_hi": "कीबोर्ड",
+"answer": "B",
+"explanation_en": "CPU (Central Processing Unit) is responsible for processing data and executing instructions, making it the brain of the computer.",
+"explanation_hi": "सीपीयू (सेंट्रल प्रोसेसिंग यूनिट) डेटा की प्रक्रिया और निर्देशों के कार्यान्वयन के लिए जिम्मेदार है, इसलिए यह कंप्यूटर का मस्तिष्क है।"
+},
+{
+"subject": "Computer",
+"topic": "Operating Systems",
+"question_en": "Which of the following is a multitasking operating system?",
+"question_hi": "निम्नलिखित में से कौन-सा एक बहुकार्य प्रणाली है?",
+"A_en": "MS-DOS", "A_hi": "एमएस-डॉस",
+"B_en": "Windows 10", "B_hi": "विंडोज 10",
+"C_en": "Linux", "C_hi": "लिनक्स",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All three options (MS-DOS, Windows 10, Linux) support multitasking, allowing multiple tasks to run simultaneously.",
+"explanation_hi": "तीनों विकल्प (एमएस-डॉस, विंडोज 10, लिनक्स) बहुकार्य को समर्थित करते हैं, जिससे एक साथ कई कार्य हो सकते हैं।"
+},
+{
+"subject": "Computer",
+"topic": "Networking",
+"question_en": "What does HTTP stand for?",
+"question_hi": "HTTP का विस्तारित रूप क्या है?",
+"A_en": "Hyper Text Transfer Protocol", "A_hi": "हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल",
+"B_en": "Hyper Text Transmission Protocol", "B_hi": "हाइपर टेक्स्ट ट्रांसमिशन प्रोटोकॉल",
+"C_en": "Hyper Term Transfer Protocol", "C_hi": "हाइपर टर्म ट्रांसफर प्रोटोकॉल",
+"D_en": "High Technology Transfer Protocol", "D_hi": "हाई टेक्नोलॉजी ट्रांसफर प्रोटोकॉल",
+"answer": "A",
+"explanation_en": "HTTP stands for Hyper Text Transfer Protocol, used for transmitting web pages over the internet.",
+"explanation_hi": "HTTP का मतलब हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल से होता है, जो इंटरनेट पर वेब पृष्ठों के ट्रांसमिशन में इस्तेमाल होता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Hardware",
+"question_en": "Which of the following is not a storage device?",
+"question_hi": "निम्नलिखित में से कौन एक संग्रह यंत्र नहीं है?",
+"A_en": "Hard Disk", "A_hi": "हार्ड डिस्क",
+"B_en": "CD-ROM", "B_hi": "सीडी-रोम",
+"C_en": "RAM", "C_hi": "रैम",
+"D_en": "Floppy Disk", "D_hi": "फ्लॉपी डिस्क",
+"answer": "C",
+"explanation_en": "RAM is volatile memory used for temporary storage, not a storage device.",
+"explanation_hi": "रैम अस्थायी संग्रह के लिए उपयोग किया जाने वाला अस्थायी स्मृति है, संग्रह यंत्र नहीं है।"
+},
+{
+"subject": "Computer",
+"topic": "MS Office",
+"question_en": "Which software is used for creating presentations?",
+"question_hi": "प्रस्तुति बनाने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
+"A_en": "MS Word", "A_hi": "एमएस वर्ड",
+"B_en": "MS Excel", "B_hi": "एमएस एक्सेल",
+"C_en": "MS PowerPoint", "C_hi": "एमएस पॉवरपॉइंट",
+"D_en": "MS Access", "D_hi": "एमएस एक्सेस",
+"answer": "C",
+"explanation_en": "MS PowerPoint is specifically designed for creating slide-based presentations.",
+"explanation_hi": "एमएस पॉवरपॉइंट स्लाइड-आधारित प्रस्तुतियों बनाने के लिए विशेष रूप से डिज़ाइन किया गया है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Networking",
+"question_en": "Which protocol is used to send emails?",
+"question_hi": "ईमेल भेजने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+"A_en": "HTTP", "A_hi": "एचटीटीपी",
+"B_en": "FTP", "B_hi": "एफटीपी",
+"C_en": "SMTP", "C_hi": "एसएमटीपी",
+"D_en": "IMAP", "D_hi": "आईएमएपी",
+"answer": "C",
+"explanation_en": "SMTP (Simple Mail Transfer Protocol) is used for sending emails across the internet.",
+"explanation_hi": "एसएमटीपी (सिम्पल मेल ट्रांसफर प्रोटोकॉल) इंटरनेट के माध्यम से ईमेल भेजने के लिए उपयोग किया जाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Memory",
+"question_en": "Which memory is volatile and loses data when power is off?",
+"question_hi": "कौन सी स्मृति अस्थाई होती है और बिजली बंद होने पर डेटा खो देती है?",
+"A_en": "ROM", "A_hi": "रोम",
+"B_en": "RAM", "B_hi": "रैम",
+"C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+"D_en": "CD-ROM", "D_hi": "सीडी-रोम",
+"answer": "B",
+"explanation_en": "RAM is volatile memory, so it loses stored data when the computer is turned off.",
+"explanation_hi": "रैम अस्थाई स्मृति है, इसलिए कंप्यूटर बंद होने पर संग्रहित डेटा खो जाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Database Management",
+"question_en": "What is the primary purpose of a DBMS?",
+"question_hi": "डीबीएमएस का मुख्य उद्देश्य क्या है?",
+"A_en": "To create websites", "A_hi": "वेबसाइट बनाने के लिए",
+"B_en": "To manage databases", "B_hi": "डेटाबेस के प्रबंधन के लिए",
+"C_en": "To run applications", "C_hi": "एप्लिकेशन चलाने के लिए",
+"D_en": "To design graphics", "D_hi": "ग्राफिक्स डिज़ाइन करने के लिए",
+"answer": "B",
+"explanation_en": "A DBMS (Database Management System) is designed to manage, store, and retrieve data efficiently.",
+"explanation_hi": "एक डीबीएमएस (डेटाबेस प्रबंधन प्रणाली) डेटा के प्रबंधन, भंडारण और पुनर्प्राप्ति के लिए डिज़ाइन किया गया है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Security",
+"question_en": "What is a computer virus?",
+"question_hi": "कंप्यूटर वायरस क्या है?",
+"A_en": "A hardware component", "A_hi": "एक हार्डवेयर घटक",
+"B_en": "A software program", "B_hi": "एक सॉफ्टवेयर प्रोग्राम",
+"C_en": "A malicious program", "C_hi": "एक विनाशकारी प्रोग्राम",
+"D_en": "A storage device", "D_hi": "एक संग्रह यंत्र",
+"answer": "C",
+"explanation_en": "A computer virus is a malicious program that can replicate itself and cause harm to computer systems.",
+"explanation_hi": "एक कंप्यूटर वायरस स्वयं का प्रतिलिपि बनाने वाला एक विनाशकारी प्रोग्राम है जो कंप्यूटर सिस्टम को नुकसान पहुंचा सकता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Fundamentals",
+"question_en": "Which of the following is an input device?",
+"question_hi": "निम्नलिखित में से कौन एक इनपुट डिवाइस है?",
+"A_en": "Monitor", "A_hi": "मॉनिटर",
+"B_en": "Printer", "B_hi": "प्रिंटर",
+"C_en": "Keyboard", "C_hi": "कीबोर्ड",
+"D_en": "Speaker", "D_hi": "स्पीकर",
+"answer": "C",
+"explanation_en": "A keyboard is an input device used to enter data into a computer.",
+"explanation_hi": "कीबोर्ड एक इनपुट डिवाइस है जिसका उपयोग कंप्यूटर में डेटा दर्ज करने के लिए किया जाता है।"
+}
+]
