@@ -1,0 +1,46 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा पसंदीदा कंटेन है ?",
+"A_en": "Amber Fort", "A_hi": "अमेर कंटेन",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "City Palace", "C_hi": "शहर का मंगल",
+"D_en": "Palace of Winds", "D_hi": "भूमि का ध्वनि",
+"answer": "A",
+"explanation_en": "Amber Fort is a famous monument located in Jaipur, known for its unique architecture and historical significance.",
+"explanation_hi": "जयपुर में अमेर कंटेन है, जिसमें विश्वस्न के अनुस्तर्थ और खेलकों के आधिकारी संखेल के सम्बंधे है।",
+"explanation_hi": "जयपुर कोणती आधी है जो संतुलों के पर्वत समें के स्त्रों के निर्मानी है।",
+"subject": "Rajasthan History",
+"topic": "राजभावना",
+"question_en": "Which city was founded by Maharaja Surajmal in the 18th century?",
+"question_hi": "महाराज सुोडाल ने 18वी शतीं में संतुलों के निर्मानी है।",
+"options": [
+{
+"option_id": 1,
+"option_text_en": "Jaisalmer",
+"option_text_hi": "जासालमेर",
+"option_correct": "1"
+},
+{
+"option_id": 2,
+"option_text_en": "Jodhpur",
+"option_text_hi": "झोडोप",
+"option_correct": "2"
+},
+{
+"option_id": 3,
+"option_text_en": "Udaipur",
+"option_text_hi": "उदयपुर",
+"option_correct": "3"
+},
+{
+"option_id": 4,
+"option_text_en": "Jaisalmer",
+"option_text_hi": "जासालमेर",
+"option_correct": "4"
+}
+],
+"answer": "2"
+}
