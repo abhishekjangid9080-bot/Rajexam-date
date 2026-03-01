@@ -1,0 +1,22 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is NOT a princely state of Rajasthan?",
+"question_hi": "राजस्थान के अधिकांशी स्थान के निर्माण के लिए क्या नहीं हुआ था?",
+"A_en": "Alwar", "A_hi": "अलवार",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaisalmer", "C_hi": "जयसालमेर",
+"D_en": "Chittorgarh", "D_hi": "�� چٹगर्ह",
+"answer": "D",
+"explanation_en": "Chittorgarh Fort is a historical monument and NOT a princely state.",
+"explanation_hi": "चित्रगार कट एफ़ है एक इतिहासिक मैनस्टर और नहीं प्रांत स्टेट नहीं",
+"A_en": "Chittorgarh Fort",
+"A_hi": "चित्रगार कट",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Jaisalmer",
+"C_hi": "जयसालमेर",
+"D_en": "Mehrangarh Fort",
+"D_hi": "मेरंगार कट"
+}
