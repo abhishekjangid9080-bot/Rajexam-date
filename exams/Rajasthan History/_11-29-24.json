@@ -1,0 +1,34 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following forts is located in Jodhpur?",
+"question_hi": "जोधपुर में क्या इन संस्करणों में है।",
+"A_en": "Mehrangarh Fort", "A_hi": "मेहरांगार",
+"B_en": "Kheerola Fort", "B_hi": "केहूला किलाई",
+"C_en": "Rajasthan State Museum", "C_hi": "राजस्थान राजनी में है।",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमाई बहान पाल",
+"answer": "D",
+"explanation_en": "Umaid Bhawan Palace is located in Jodhpur.",
+"explanation_hi": "उमाई बहान पाल जोधपुर में है।"
+}
+,
+{
+"subject": "Rajasthan History",
+"topic": "Meera Temple",
+"question_en": "Which temple is dedicated to Meera Bharat Sanskriti Mandir?",
+"question_hi": "मीरा के पूर्वक मेरा भारत संस्करणी मन्दर",
+"A_en": "Meera Bharat Sanskriti Mandir",
+"A_hi": "मीरा भारत संस्करणी मन्दर",
+"B_en": "Ganesh Temple",
+"B_hi": "गणेश मंदर",
+"C_en": "Meera Bharat Sanskriti Mandir",
+"C_hi": "मीरा भारत संस्करणी मन्दर",
+"D_en": "Krishna Temple",
+"D_hi": "कृष्णा मंदर",
+"answer": "D",
+"explanation_en": "The Krishna Temple is dedicated to Lord Krishna and is popularly known as Meera Bharat Mandir.",
+"explanation_hi": "कृष्णा मंदर के मेरा भारत मंदर",
+"explanation": "Krishna Temple is popularly known as Meera Bharat Mandir and is dedicated to Lord Krishna.",
+}
+]
