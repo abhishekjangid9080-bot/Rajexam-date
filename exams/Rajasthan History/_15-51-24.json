@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous Fort is located in Jodhpur?",
+"question_hi": "जोधपुर में लोकप्रदेश के एक पसंदीदा मंगल क्या है?",
+"A_en": "Meherazad Fort", "A_hi": "महेराजद मंगल",
+"B_en": "Lehariya Fort", "B_hi": "लहरीया मंगल",
+"C_en": "Rajasthan Rifles", "C_hi": "राजस्थान राजल",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमाई भावान पाल्का",
+"answer": "A",
+"explanation_en": "Meherazad Fort is a famous fort located in Jodhpur. It was built by Rao Jodha in the 15th century.",
+"explanation_hi": "महेराजद मंगल एक आदिता बसता जोड़ी द्वारा Rao Jodha 15वी वर्षों में बनाया गया है।",
+}
+]
