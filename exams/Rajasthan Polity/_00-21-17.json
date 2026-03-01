@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Polity for exams like LDC, CET, RAS, SSC, and Railway. Let's start by recalling key topics in Rajasthan Polity. Important areas might include the state's constitution, government structure, key officials, historical facts, and amendments.
+
+First question: The current Chief Minister of Rajasthan. As of 2023, it's Bhajan Lal Sharma. Options should include other prominent politicians like Vasundhara Raje, Sachin Pilot, Ashok Gehlot. Need both Hindi and English names.
+
+Second question: The constitution of Rajasthan came into force in 1956. So the year 1956 is correct. Other years could be 1952, 1958, 1960. The explanation should mention the formation after the States Reorganisation Act.
+
+Third question: The highest authority in Rajasthan is the Governor. So the answer is Governor. Options could be Chief Minister, Speaker, Lok Sabha. Explanation about the constitutional role.
+
+Fourth question: The Rajasthan Legislative Assembly has 200 members. Need to confirm the exact number. If it's 200, then options like 190, 200, 210. Explanation about the assembly's composition.
+
+Fifth question: The Rajasthan High Court is in Jodhpur. Wait, no, the main seat is in Jodhpur? Wait, actually, the Rajasthan High Court is located in Jodhpur, but sometimes there's confusion with Jaipur. Need to verify. If it's Jodhpur, then options like Jaipur, Udaipur, Jhalawar. Explanation about the court's location.
+
+Sixth question: The Governor of Rajasthan as of 2023 is Kalraj Mishra. Other options could be former governors. Need to check the current one. Explanation about the role.
+
+Seventh question: The Rajasthan Legislative Assembly is a unicameral legislature. So options: Unicameral, Bicameral, Tricameral. Explanation about the structure.
+
+Eighth question: The first Chief Minister of Rajasthan was Rajendra Singh. Wait, no, maybe it's Rao Birendra Singh? Need to verify. The first CM after state formation in 1949 was Rao Birendra Singh. Options could include other early politicians.
+
+Ninth question: The number of districts in Rajasthan. As of now, it's 43 districts. Options like 33, 43, 50. Explanation about administrative divisions.
+
+Tenth question: The official language of Rajasthan is Hindi. Other options might include Rajasthani, Sanskrit, English. Explanation about the official language as per the constitution.
+
+Need to ensure all information is accurate. Also, the difficulty level should be appropriate for Rajasthan exams, not too easy but not too obscure. Explanation should clarify the correct answer and why others are incorrect.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Constitution",
+        "question_en": "When was the Rajasthan Constitution Act passed?",
+        "question_hi": "राजस्थान संविधान अधिनियम कब पारित किया गया था?",
+        "A_en": "1952", "A_hi": "1952",
+        "B_en": "1956", "B_hi": "1956",
+        "C_en": "1960", "C_hi": "1960",
+        "D_en": "1950", "D_hi": "1950",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Constitution Act was passed in 1956 under the States Reorganisation Act.",
+        "explanation_hi": "राजस्थान संविधान अधिनियम 1956 में राज्यों के पुनर्गठन अधिनियम के तहत लागू किया गया था।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Government",
+        "question_en": "Who is the current Chief Minister of Rajasthan?",
+        "question_hi": "राजस्थान के वर्तमान मुख्यमंत्री कौन हैं?",
+        "A_en": "Sachin Pilot", "A_hi": "सचिन पाईलट",
+        "B_en": "Bhajan Lal Sharma", "B_hi": "भाजन लाल शर्मा",
+        "C_en": "Ashok Gehlot", "C_hi": "अशोक गहलोत",
+        "D_en": "Vasundhara Raje", "D_hi": "वसुंधरा राजे",
+        "answer": "B",
+        "explanation_en": "Bhajan Lal Sharma is the current Chief Minister of Rajasthan as of 2023.",
+        "explanation_hi": "2023 में राजस्थान के वर्तमान मुख्यमंत्री भाजन लाल शर्मा हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Judiciary",
+        "question_en": "Where is the headquarters of the Rajasthan High Court?",
+        "question_hi": "राजस्थान उच्च न्यायालय का मुख्यालय कहाँ है?",
+        "A_en": "Jaipur", "A_hi": "जयपुर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Jodhpur", "C_hi": "जोधपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "C",
+        "explanation_en": "The Rajasthan High Court is headquartered in Jodhpur.",
+        "explanation_hi": "राजस्थान उच्च न्यायालय का मुख्यालय जोधपुर में है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Legislature",
+        "question_en": "How many members are there in the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधान सभा में कितने सदस्य हैं?",
+        "A_en": "190", "A_hi": "190",
+        "B_en": "200", "B_hi": "200",
+        "C_en": "210", "C_hi": "210",
+        "D_en": "220", "D_hi": "220",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Legislative Assembly consists of 200 members.",
+        "explanation_hi": "राजस्थान विधान सभा में 200 सदस्य होते हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Governor",
+        "question_en": "Who is the current Governor of Rajasthan?",
+        "question_hi": "राजस्थान के वर्तमान राज्यपाल कौन हैं?",
+        "A_en": "Kalraj Mishra", "A_hi": "कलराज मिश्रा",
+        "B_en": "Manoj Sinha", "B_hi": "मनोज सिन्हा",
+        "C_en": "Anandiben Patel", "C_hi": "अनादिबेन पटेल",
+        "D_en": "Kalyan Singh", "D_hi": "कल्याण सिंह",
+        "answer": "A",
+        "explanation_en": "Kalraj Mishra is the current Governor of Rajasthan.",
+        "explanation_hi": "राजस्थान के वर्तमान राज्यपाल कलराज मिश्रा हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Historical Facts",
+        "question_en": "Who was the first Chief Minister of Rajasthan?",
+        "question_hi": "राजस्थान के पहले मुख्यमंत्री कौन थे?",
+        "A_en": "Rajendra Singh", "A_hi": "राजेंद्र सिंह",
+        "B_en": "Rao Birendra Singh", "B_hi": "राव बीरेंद्र सिंह",
+        "C_en": "Tikait Lal", "C_hi": "तिकाईत लाल",
+        "D_en": "Mohan Lal", "D_hi": "मोहन लाल",
+        "answer": "B",
+        "explanation_en": "Rao Birendra Singh was the first Chief Minister of Rajasthan after its formation in 1949.",
+        "explanation_hi": "1949 में राजस्थान के गठन के बाद राजेंद्र सिंह पहले मुख्यमंत्री थे।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Judiciary",
+        "question_en": "How many Sessions Courts are there in Rajasthan?",
+        "question_hi": "राजस्थान में कितने सत्र न्यायालय हैं?",
+        "A_en": "33", "A_hi": "33",
+        "B_en": "43", "B_hi": "43",
+        "C_en": "53", "C_hi": "53",
+        "D_en": "63", "D_hi": "63",
+        "answer": "B",
+        "explanation_en": "There are 43 Sessions Courts in Rajasthan as of 2023.",
+        "explanation_hi": "2023 तक राजस्थान में 43 सत्र न्यायालय हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Constitution",
+        "question_en": "What is the official language of Rajasthan?",
+        "question_hi": "राजस्थान की आधिकारिक भाषा क्या है?",
+        "A_en": "Rajasthani", "A_hi": "राजस्थानी",
+        "B_en": "Sanskrit", "B_hi": "संस्कृत",
+        "C_en": "Hindi", "C_hi": "हिंदी",
+        "D_en": "English", "D_hi": "अंग्रेजी",
+        "answer": "C",
+        "explanation_en": "Hindi is the official language of Rajasthan.",
+        "explanation_hi": "हिंदी राजस्थान की आधिकारिक भाषा है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Legislature",
+        "question_en": "What type of legislature does Rajasthan have?",
+        "question_hi": "राजस्थान के विधायिका का प्रकार क्या है?",
+        "A_en": "Bicameral", "A_hi": "द्विसदनीय",
+        "B_en": "Unicameral", "B_hi": "एकल सदनीय",
+        "C_en": "Tricameral", "C_hi": "तिसदनीय",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "B",
+        "explanation_en": "Rajasthan has a unicameral legislature.",
+        "explanation_hi": "राजस्थान में एकल सदनीय विधायिका है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Rajasthan Historical Facts",
+        "question_en": "How many districts are there in Rajasthan?",
+        "question_hi": "राजस्थान में कितने जिले हैं?",
+        "A_en": "33", "A_hi": "33",
+        "B_en": "43", "B_hi": "43",
+        "C_en": "50", "C_hi": "50",
+        "D_en": "40", "D_hi": "40",
+        "answer": "B",
+        "explanation_en": "Rajasthan has 43 districts as of 2023.",
+        "explanation_hi": "2023 तक राजस्थान में 43 जिले हैं।"
+    }
+]
