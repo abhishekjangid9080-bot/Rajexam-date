@@ -1,0 +1,14 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor established the city of Jaipur?",
+"question_hi": "जयपुर के मैनेज़ कौन से निर्माण करने वाला था?",
+"A_en": "Amar Singh", "A_hi": "अम्बर सिंह",
+"B_en": "Harshavardhan", "B_hi": "हर्षवर्धन",
+"C_en": "Jai Singh II", "C_hi": "जयलेशसिंह",
+"D_en": "Maharana Pratap", "D_hi": "महारानेश प्रतपिता",
+"answer": "Jai Singh II",
+"explanation_en": "Jai Singh II is the emperor who established the city of Jaipur.\nजयलेशसिंह ये राज्य के मैनेज़ के निर्माण करने वाला था, जिसके कार्यकारी थे।",
+"explanation_hi": "जयलेशसिंह ये राज्य के मैनेज़ के निर्माण करने वाला था, जिसके कार्यकारी थे।"
+}
