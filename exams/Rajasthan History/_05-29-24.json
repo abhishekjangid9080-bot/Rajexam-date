@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Monuments",
+"question_en": "Which historical monument is a UNESCO World Heritage Site in Jaipur?",
+"question_hi": "जयपुर में कौन सी इलाकों में उन्नेसियल रिलीज निर्माण समारोह के नामक मूल्य को पूछें।",
+"A_en": "Amber Fort",
+"A_hi": "आंबर फोट्स",
+"B_en": "Hawa Mahal",
+"B_hi": "हावा महाल",
+"C_en": "Central University of Rajasthan",
+"C_hi": "राजस्थान के मध्येश संस्करण",
+"D_en": "Rajasthan State Museum",
+"D_hi": "राजस्थान राजधान्यां संस्करण",
+"answer": "A",
+"explanation_en": "Amber Fort is known for its intricate carvings and unique architectural style. It is a popular tourist attraction in Jaipur, Rajasthan.",
+"explanation_hi": "आंबर फोट्स के व्याकरण और अलगे प्रत्यामिति और अन्यामिति के तथा अलगे प्रत्यामिति के संस्करण",
+}
+]
