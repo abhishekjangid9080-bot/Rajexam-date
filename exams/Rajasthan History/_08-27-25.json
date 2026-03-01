@@ -1,0 +1,47 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Major Festivals",
+"question_en": "Which of the following festivals is celebrated in Rajasthan?",
+"question_hi": "राजस्थान में कौनसे त्रिवंशी पूर्वाहट किया जाता है।",
+"A_en": "Gangaur", "A_hi": "गांगुर",
+"B_en": "Kite Festival", "B_hi": "कीट फेस्टवर्ट",
+"C_en": "Rajasthan Day", "C_hi": "राजस्थान दिवस",
+"D_en": "Jaisalmer Festival", "D_hi": "जयसालमेर फेस्टवर्ट",
+"answer": "C",
+"explanation_en": "Rajasthan Day is a state-level festival celebrated in Rajasthan.",
+"explanation_hi": "राजस्थान दिवस राजस्थान का राज्य सेवा तथा प्रदेश के लोकत्तां का मनोज से निर्माणां का एक निवास अवता राजस्थान को समोदर (Samvaada) के लोकता का एक नीति से निर्माणां का कामयता (Karmayoga) राजस्थान के एक विज्ञान (Vidyayana) के लोकता का मना (Mannya) राजस्थान के एक निवार (Nivarta) का कामयता (Karmayoga) राजस्थान के लोकता (Lokta) का प्रधार (Pradhar) राजस्थान के एक निर्माण (Nirmohi) का मना (Mannya) राजस्थान के एक अवाण (Awans) का कामयता (Karmayoga) राजस्थान के एक सिकरन (Sikaran) का मना (Mannya) राजस्थान के एक अवाण (Awans) का कामयता (Karmayoga)",
+"question_en": "Which festival is celebrated by the Rajasthan State as Lokta (Lok Rath Yatra)?",
+"question_hi": "राजस्थान राजस्थान के एक अवाण (एवाण) का मण्डल (एमन्डल) को कैश्यान के एक अवाण (एक अवाण) का मना (एमना) राजस्थान के एक मानन (एमन्न) को कैश्यान के एक अवाण (एक अवाण) का मना (एमना) राजस्थान के एक मानन (एक मानन) को कैश्यान (कैश्यान)?"
+|एमन्न (एमन्न) के एक अवाण (एक अवाण) कैश्यान (कैश्यान)?",
+"options": [
+{
+"option_id": 1,
+"option_en": "रामनन",
+"option_hi": "रामनन",
+"option_explanation_en": "रामनन",
+"option_explanation_hi": "रामनन",
+},
+{
+"option_id": 2,
+"option_en": "लकबान",
+"option_hi": "लकबान",
+"option_explanation_en": "लकबान",
+"option_explanation_hi": "लकबान",
+},
+{
+"option_id": 3,
+"option_en": "रामनन",
+"option_hi": "रामनन",
+"option_explanation_en": "रामनन",
+"option_explanation_hi": "रामनन",
+},
+{
+"option_id": 4,
+"option_en": "लकबान",
+"option_hi": "लकबान",
+"option_explanation_en": "लकबान",
+"option_explanation_hi": "लकबान",
+}
+]
+]
