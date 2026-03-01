@@ -1,0 +1,65 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Rulers",
+"question_en": "Who was the first Mughal Governor to rule over Rajasthan?",
+"question_hi": "राजस्थान के पहले मुग्ल सरकार के राजधानी कौन थे ?",
+"A_en": "Ahmad Shah I",
+"A_hi": "अहमद शाह एक",
+"B_en": "Pratap Singh",
+"B_hi": "प्रताप सिंह",
+"C_en": "Amber Rathore",
+"C_hi": "अम्बर रातोर",
+"D_en": "Udai Singh",
+"D_hi": "उदय सिंह",
+"answer": "D",
+"explanation_en": "Udai Singh, who founded the city of Jaipur, was the first Mughal governor to rule over Rajasthan. He established the city in 1727 and is known as the 'Blue City' due to the use of blue paint on the buildings.",
+"explanation_hi": "उदय सिंह, जयपुर को निर्माण की क्रम करेंगे। उन्हें जयपुर को निर्माण करें। उन्हें 1727 से लिंगते हैं। उन्हें के निर्माण करें। उन्हें अब्दी के निर्माण करें।",
+"explanation_hi": "उन्हें जयपुर की निर्माण करें। उन्हें निर्माण करें। उन्हें अब्दी के निर्माण करें।",
+"answer": "D",
+"question_en": "Who established the city of Jaipur?",
+"question_hi": "जयपुर की निर्माण कौने करें ?",
+"options_en": [
+{
+"option_id": "A",
+"option_text": "Pratap Singh",
+"answer": "D"
+},
+{
+"option_id": "B",
+"option_text": "Amber",
+"answer": "D"
+},
+{
+"option_id": "C",
+"option_text": "Rao Jodha",
+"answer": "D"
+},
+{
+"option_id": "D",
+"option_text": "Albert",
+"answer": "D"
+}
+],
+"options_hi": [
+{
+"option_id": "अ",
+"option_text": "प्रताप सिंग",
+"answer": "D"
+},
+{
+"option_id": "ब",
+"option_text": "एमबर",
+"answer": "D"
+},
+{
+"option_id": "च",
+"option_text": "राव जोध्या",
+"answer": "D"
+},
+{
+"option_id": "ड",
+"option_text": "अल्बर्ट",
+"answer": "D"
+}
+]
