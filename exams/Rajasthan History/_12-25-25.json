@@ -1,0 +1,42 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा फ़ोंटिल है।",
+"A_en": "Hawa Mahal", "A_hi": "हवा महाल",
+"B_en": "Amer Fort", "B_hi": "एमर फोर्ट",
+"C_en": "Cenotaph of Sawai Mansingh II", "C_hi": "सावाई मंसिंग्स की शाही मंसिंग्स की शाही",
+"D_en": "Rajasthan Rastriya Sanskriti Mandal", "D_hi": "राजशाही",
+"answer": "B",
+"explanation_en": "Amer Fort is the famous palace located in Jaipur.",
+"explanation_hi": "एमर फोर्ट, जयपुर में एक पत्रिता वर्ग में है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Dynasties",
+"question_en": "Which Rajput dynasty ruled Jaipur during the medieval period?",
+"question_hi": "जैसेंट मध्येतर सम्पर्करण किसेंट के वर्ग का क्या जैसेंट मध्येतर सम्पर्करण की संगूणी वर्ग मध्येतर सम्पर्करण के बन्देगुणी वर्ग की संगूणी वर्गियांगूणी वर्ग",
+"answer": "A",
+"explanation_en": "During the medieval period, the Banاجاani sangunani vaarg had control over Jaipur. The Banagaani sangunani vaarg was a prominent Rajput clan that ruled Jaipur and its surrounding areas.",
+"explanation_hi": "मध्येतर सम्पर्करण के बनगांगानी सांगूणियांगूणी वर्ग",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Dynasties",
+"question_en": "Which Rajput dynasty ruled Jaipur from 1728 to 1803 AD?",
+"question_hi": "जैसेंट के बनगांगांगांगूणी सांगूणियांगूणी वर्ग",
+"answer": "A",
+"explanation_en": "The Banagaani sangunani vaarg of the Marwar-Jaisalmer dynasty ruled Jaipur from 1728 AD to 1803 AD.",
+"explanation_hi": "मर्वा-जासालमर संगूणियांगूणी संगूणियांगूणी वर्ग",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Kings",
+"question_en": "Which king was the founder of Jodhpur?",
+"question_hi": "जोधपुर के संगूणी संगूणी वर्ग",
+"answer": "C",
+"explanation_en": "Prince Maharaja Umaid Singh was the founder of Jodhpur. He founded the Umaid Bhawan palace, which is a major tourist attraction in Jodhpur.",
+"explanation_hi": "महाराज़ता उमाई सिंगूणी संगूणी वर्ग",
+}
+]
