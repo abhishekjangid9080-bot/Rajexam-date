@@ -1,0 +1,65 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capitals",
+"question_en": "Which was the capital of Rajasthan before Jaipur?",
+"question_hi": "जैसे पहले जयपुर के राजधानी कौन थी।",
+"A_en": "Amber", "A_hi": "अमेर",
+"B_en": "Jhalawar", "B_hi": "झालवार",
+"C_en": "Sawai Madhopur", "C_hi": "सावाई माधोपुर",
+"D_en": "Udaipur", "D_hi": "उदयपुर",
+"answer": "C",
+"explanation_en": "Sawai Madhopur was the capital of Rajasthan before Jaipur. It was established by Rao Jodha of the Meera Rajput clan.",
+"explanation_hi": "सावाई माधोपुर राजस्थान के पहले सावाई माधोपुर राजधानी हुई थी। Rao Jodha मीर राजपुर के मीर राजधानी के लेन राजपुर के राजपुर में सावाई माधोपुर राजधानी के लेन राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर राजपुर में सावाई माधोपुर राजपुर के राजपुर में सावाई माधोपुर राजपुर के राजपुर के राजपुर राजपुर राजपुर के राजपुर राजपुर के राजपुर राजपुर के राजपुर राजपुर के राजपुर राजपुर राजपुर",
+ 
+{
+"option_en": [
+{
+"value": "A",
+"text": "Amber Fort",
+"answer": "D",
+"explain": "Amber Fort was the capital of Rajasthan before Jaipur was established."
+},
+{
+"value": "B",
+"text": "Jaipur",
+"answer": "C",
+"explain": "Jaipur was established in 1734 by Maharaja Sawai Jai Singh II and was made the capital of Ajmer."
+},
+{
+"value": "C",
+"text": "Udaipur",
+"answer": "B",
+"explain": "Udaipur was also known as Amber and was established by Maharaja Man Singh II, but Jaipur became the capital in 1727."
+},
+{
+"value": "D",
+"text": "Rajsamand",
+"answer": "A",
+"explain": "Rajsamand was a palace built by Maharaja Man Singh I, but Jaipur was established first."
+}
+]
+},
+{
+"option_hi": [
+{
+"value": "आईया",
+"text": "आईया",
+"answer": "सा आईया",
+"explain": "आईया का आईया के आईया का आईया was a palace built by Maharaja Man Singh IV, but Jaipur was established in 1694."
+},
+{
+"value": "घईया (Jaipur)",
+"text": "घईया (घईया)",
+"answer": "घईया (Jaipur)",
+"explain": "घईया (Jaipur) घईया (घईया) घईया (Jaipur) was built by Maharaja Man Singh III, but Jaipur became the capital in 1587."
+},
+{
+"value": "फईया (Jaipur)",
+"text": "फईया (Jaipur)",
+"answer": "फईया (Jaipur)",
+"explain": "फईया (Jaipur)",
+"फईया (Jaipur)",
+"answer": "फईया (Jaipur)",
+"explain": "Jaipur was established in 2064."
+}]
