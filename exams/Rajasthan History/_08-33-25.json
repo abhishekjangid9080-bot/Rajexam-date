@@ -1,0 +1,51 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Maharaja Mansingh during the reign of Emperor Akbar?",
+"question_hi": "राजस्थान में माहाराज माहंसिंग ने इसकी शुभारत की के अधिकांतरी में बनाया गया है।",
+"A_en": "Amber Fort", "A_hi": "अमेरिका।",
+"B_en": "Chittorgarh Fort", "B_hi": "चैटरगढ़ एम्बर",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुमभलगर्ह",
+"D_en": "Jaipur", "D_hi": "जापान",
+"answer": "B",
+"explanation_en": "The famous Amber Fort, built by Maharaja Mansingh during the reign of Emperor Akbar, is located in Jaipur. The correct answer is thus Chittorgarh Fort (B).",
+"explanation_hi": "माहाराज ने इन्डीजन के अधिकांतरण की बेस्ट को बना था। इसका उत्तर स्टेंड को निबंद के अधिकांतरण के दौरा का वर्ग में स्टेंड को लाया गया था। इसका सरस्वामी अधिकांतरण के दौरा का वर्ग में को लाया गया था। इसका उत्तर स्थान को लाया गया था।",
+"A_en": "The Lalbaug Fort was built by Maharaja Sanga during the reign of Emperor Sher Shah Suri.",
+"A_hi": "लालबाग दौरा का सरस्वामी राज्य में लाया गया था।",
+"B_en": "The Oberoi Polo Ground was built by Maharaja Pratap Singh.",
+"B_hi": "बेरोई पोलो गोंदी का वर्ग का बना गया था।",
+"C_en": "The Chittorgarh Fort was built by Rana Kumbha during the reign of Rana Kumbha.",
+"C_hi": "चीटोरगढ़ दौरा का कुम्बहा राज्य में बना गया था।",
+"D_en": "The Meera Sagar Lake was constructed by Maharaja Rao Kumbha.",
+"D_hi": "मीर सगाँडा का विभाग का विभाग को बना गया था।",
+"question_en": "Which lake was constructed by Maharaja Rao Kumbha?",
+"question_hi": "महाराज राव कुम्बहा ने कोणी का विभाग को बना गया था।",
+"options": [
+{
+"option_en": "Meera Sagar Lake",
+"option_hi": "मीर सगाँडा का विभाग",
+"option_explain_en": "Maharaja Rao Kumbha constructed Meera Sagar Lake.",
+"option_explain_hi": "महाराज राव कुम्बहा ने कोणी का विभाग को बना गया था।",
+},
+{
+"option_en": "Suraj Mand Lake",
+"option_hi": "सुराज मंद का विभाग",
+"option_explain_en": "Suraj Mand Lake was constructed by Maharaja Rao Suraj Mand.",
+"option_explain_hi": "सुराज मंद का विभाग",
+},
+{
+"option_en": "Kumbhalgarh Fort",
+"option_hi": "कुम्बलगड़का विभाग",
+"option_explain_en": "Kumbhalgarh Fort was constructed by Maharaja Rao Kumbhalgarh.",
+"option_explain_hi": "कुम्बलगड़का विभाग",
+},
+{
+"option_en": "Jaisamand Fort",
+"option_hi": "जयांदंड़का विभाग",
+"option_explain_en": "Jaisamand Fort was constructed by Maharaja Rao Jaisamand.",
+"option_explain_hi": "जयांदंड़का विभाग",
+}
+]
+"answer": "C"
+]
