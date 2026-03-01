@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Jai Singh?",
+"question_hi": "राजस्थान में राजा जैसिंग ने कैलिंग बनाई गई थी।",
+"A_en": "Amber Fort", "A_hi": "अम्बर किलिंग",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भालगढ़ किलिंग",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाजार",
+"D_en": "Lalgarh Fort", "D_hi": "लालगढ़ किलिंग",
+"answer": "B",
+"explanation_en": "Amber Fort is a famous fort in Jaipur, but the correct answer is Kumbhalgarh Fort, which was built by Rana Kumbha.",
+"explanation_hi": "अम्बर किलिंग राजा कुम्बालगढ़ किलिंग ने बना।",
+"question_en": "Which famous fort was built by Rana Kumbha?",
+"question_hi": "राजा कुम्बालगढ़ किलिंग ने कैलिंग क्या बना।",
+}
+]
