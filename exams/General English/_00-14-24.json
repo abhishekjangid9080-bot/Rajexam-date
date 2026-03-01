@@ -1,0 +1,185 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions for the General English subject. The user wants the questions and options in both Hindi and English, following the Testbook style. The instructions specify a strict JSON format, so I must be careful to adhere to that structure.
+
+First, let's identify the topic. The topic was left blank in the user's request, so I need to choose a topic under General English. Common topics could be grammar, vocabulary, comprehension, synonyms, antonyms, etc. Since the example given is about a capital city, which is geography, but the user specified General English, maybe the topic should be related to English language skills. Let me confirm the example again. The example given is about Rajasthan's capital, which is a geography question, but the subject is General English. That might be a mistake. Wait, maybe the user provided an example for the format but the actual task is for General English. So the topic should be related to English language topics like grammar, vocabulary, etc.
+
+Wait, the user's initial message says the task is for the subject General English and topic is left blank. So I need to define the topic for each question. For example, topics under General English could be Tenses, Prepositions, Synonyms, Antonyms, Idioms, Sentence Correction, etc.
+
+So, I'll need to create 10 questions each with a different or similar topic under General English. Let's list possible topics:
+
+1. Prepositions
+2. Tenses
+3. Synonyms
+4. Antonyms
+5. Idioms and Phrases
+6. Sentence Correction
+7. Parts of Speech
+8. Error Spotting
+9. Fill in the Blanks
+10. One Word Substitution
+
+Now, for each question, I need to create the question in both Hindi and English, four options in both languages, the correct answer, and explanations in both languages.
+
+Let me start with the first question on Prepositions. The question could be about choosing the correct preposition. For example, "She is afraid ___ snakes." The options would be "of", "for", "to", "with". The explanation would state that "afraid of" is the correct phrase.
+
+Next, a Tense question. For example, changing a sentence to past perfect tense. The question in English: "He ___ (go) to school yesterday." The correct answer would be "had gone", and the explanation that past perfect is used for an action completed before another past action.
+
+For Synonyms, a question asking for the synonym of "happy", with options like "joyful", "sad", etc.
+
+Antonyms could be a question asking for the opposite of "increase", with options like "decrease", "expand", etc.
+
+An Idiom question: "To break the ice" meaning, with options like "start a conversation", "end a relationship", etc.
+
+Sentence Correction: "I am more taller than him" – correct to "I am taller than him".
+
+Parts of Speech: Identify the part of speech of "run" in the sentence "He runs fast."
+
+Error Spotting: A sentence with an error, like "They is going to the market." The error is "is" should be "are".
+
+Fill in the Blanks: "Please give me ___ water." Options: "some", "any", "many", "much".
+
+One Word Substitution: A phrase that can be replaced by a single word.
+
+Now, translating each question and option into Hindi, making sure the translations are accurate. For example, "She is afraid of snakes" in Hindi would be "वह सांपों से डरती है।"
+
+I need to ensure that the translations are correct and the explanations in both languages are clear. Also, check that the answer options are in the right order and the correct answer is marked properly.
+
+Let me start drafting each question one by one, following the structure provided. I need to make sure the JSON is properly formatted with no syntax errors, using commas correctly, and all keys are present. Each question object should have subject, topic, question in both languages, options A-D in both languages, answer, and explanations in both languages.
+
+I'll also need to check that the difficulty level is appropriate for exams like Rajasthan State Exams, SSC, and Railway. The questions should be of moderate difficulty, testing basic understanding of English grammar and vocabulary.
+
+After creating all 10 questions, I will review them to ensure they meet the requirements and that there are no duplicates or errors in the content.
+</think>
+
+[
+{
+"subject": "General English",
+"topic": "Prepositions",
+"question_en": "Choose the correct preposition: She is afraid ___ snakes.",
+"question_hi": "सही पूर्वसर्ग चुनें: वह सांपों से डरती है।",
+"A_en": "of", "A_hi": "का",
+"B_en": "for", "B_hi": "के लिए",
+"C_en": "to", "C_hi": "तक",
+"D_en": "with", "D_hi": "के साथ",
+"answer": "A",
+"explanation_en": "The correct preposition with 'afraid' is 'of'.",
+"explanation_hi": "'afraid' के साथ सही पूर्वसर्ग 'का' होता है।"
+},
+{
+"subject": "General English",
+"topic": "Tenses",
+"question_en": "Convert the sentence into past perfect tense: He goes to school.",
+"question_hi": "वाक्य को अतीत पूर्ण भूतकाल में बदलें: वह स्कूल जाता है।",
+"A_en": "He went to school", "A_hi": "वह स्कूल गया",
+"B_en": "He has gone to school", "B_hi": "वह स्कूल गया है",
+"C_en": "He had gone to school", "C_hi": "वह स्कूल गया था",
+"D_en": "He will go to school", "D_hi": "वह स्कूल जाएगा",
+"answer": "C",
+"explanation_en": "The past perfect tense is formed with 'had' + past participle.",
+"explanation_hi": "अतीत पूर्ण भूतकाल 'हद' + भूतकालीन क्रिया रूप से बनाया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Synonyms",
+"question_en": "Find the synonym of 'Happy'.",
+"question_hi": "'खुश' का समानार्थी शब्द ज्ञात करें।",
+"A_en": "Sad", "A_hi": "दुखी",
+"B_en": "Angry", "B_hi": "क्रोधित",
+"C_en": "Joyful", "C_hi": "खुशी",
+"D_en": "Tired", "D_hi": "थका हुआ",
+"answer": "C",
+"explanation_en": "'Joyful' is a direct synonym of 'Happy'.",
+"explanation_hi": "'Joyful' 'Happy' का सीधा समानार्थी है।"
+},
+{
+"subject": "General English",
+"topic": "Antonyms",
+"question_en": "Find the antonym of 'Increase'.",
+"question_hi": "'बढ़ाना' का विलोम शब्द ज्ञात करें।",
+"A_en": "Decrease", "A_hi": "कम करना",
+"B_en": "Expand", "B_hi": "विस्तारित करना",
+"C_en": "Rise", "C_hi": "ऊपर उठाना",
+"D_en": "Grow", "D_hi": "वृद्धि करना",
+"answer": "A",
+"explanation_en": "'Decrease' means to reduce, which is the opposite of 'increase'.",
+"explanation_hi": "'Decrease' का अर्थ कम करना है, जो 'बढ़ाना' का विलोम है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms",
+"question_en": "What does the idiom 'To break the ice' mean?",
+"question_hi": "'To break the ice' के कहावत का क्या अर्थ है?",
+"A_en": "To start a conversation", "A_hi": "एक बातचीत शुरू करना",
+"B_en": "To end a relationship", "B_hi": "एक संबंध को समाप्त करना",
+"C_en": "To feel nervous", "C_hi": "चिंतित महसूस करना",
+"D_en": "To make a mistake", "D_hi": "गलती करना",
+"answer": "A",
+"explanation_en": "The idiom means to initiate a conversation in a social situation.",
+"explanation_hi": "इस कहावत का अर्थ सामाजिक परिस्थिति में एक बातचीत शुरू करना है।"
+},
+{
+"subject": "General English",
+"topic": "Sentence Correction",
+"question_en": "Correct the sentence: I am more taller than him.",
+"question_hi": "सही वाक्य चुनें: मैं उससे अधिक लंबा हूँ।",
+"A_en": "I am taller than him", "A_hi": "मैं उससे लंबा हूँ",
+"B_en": "I am more tall than him", "B_hi": "मैं उससे अधिक लंबा हूँ",
+"C_en": "I am very tall than him", "C_hi": "मैं उससे बहुत लंबा हूँ",
+"D_en": "I am tallest than him", "D_hi": "मैं उससे सबसे लंबा हूँ",
+"answer": "A",
+"explanation_en": "'Taller' is the correct comparative form, not 'more tall'.",
+"explanation_hi": "'Taller' तुलना के लिए सही रूप है, 'अधिक लंबा' नहीं।"
+},
+{
+"subject": "General English",
+"topic": "Parts of Speech",
+"question_en": "Identify the part of speech of 'run' in the sentence: He runs fast.",
+"question_hi": "वाक्य में 'run' का व्याकरणिक भाग ज्ञात करें: वह तेजी से दौड़ता है।",
+"A_en": "Noun", "A_hi": "संज्ञा",
+"B_en": "Verb", "B_hi": "क्रिया",
+"C_en": "Adjective", "C_hi": "विशेषण",
+"D_en": "Adverb", "D_hi": "क्रियाविशेषण",
+"answer": "B",
+"explanation_en": "'Runs' is a verb as it shows the action of the subject.",
+"explanation_hi": "'Runs' क्रिया है क्योंकि यह विषय की क्रिया दर्शाता है।"
+},
+{
+"subject": "General English",
+"topic": "Error Spotting",
+"question_en": "Identify the error in the sentence: They is going to the market.",
+"question_hi": "वाक्य में त्रुटि पहचानें: वे बाजार जा रहे हैं।",
+"A_en": "They", "A_hi": "वे",
+"B_en": "is", "B_hi": "हैं",
+"C_en": "going", "C_hi": "जा रहे हैं",
+"D_en": "to the market", "D_hi": "बाजार में",
+"answer": "B",
+"explanation_en": "The subject 'they' requires the plural verb 'are' instead of 'is'.",
+"explanation_hi": "विषय 'वे' के लिए बहुवचन क्रिया 'हैं' की आवश्यकता है, 'हैं' के बजाय।"
+},
+{
+"subject": "General English",
+"topic": "Fill in the Blanks",
+"question_en": "Fill in the blank: Please give me ___ water.",
+"question_hi": "रिक्त स्थान भरें: कृपया मुझे ___ पानी दें।",
+"A_en": "some", "A_hi": "कुछ",
+"B_en": "any", "B_hi": "कोई",
+"C_en": "many", "C_hi": "कई",
+"D_en": "much", "D_hi": "बहुत",
+"answer": "A",
+"explanation_en": "'Some' is used with uncountable nouns like water.",
+"explanation_hi": "'Some' अगणनीय संज्ञाओं जैसे पानी के साथ प्रयुक्त होता है।"
+},
+{
+"subject": "General English",
+"topic": "One Word Substitution",
+"question_en": "Choose the one word substitution for 'A person who studies the weather'.",
+"question_hi": "'मौसम का अध्ययन करने वाला व्यक्ति' के लिए एक शब्द चुनें।",
+"A_en": "Meteorologist", "A_hi": "मेटियोरोलॉजिस्ट",
+"B_en": "Biologist", "B_hi": "जीवविज्ञानी",
+"C_en": "Physicist", "C_hi": "भौतिकविद",
+"D_en": "Chemist", "D_hi": "रसायनशास्त्री",
+"answer": "A",
+"explanation_en": "Meteorologist is the correct term for someone who studies weather.",
+"explanation_hi": "मेटियोरोलॉजिस्ट मौसम का अध्ययन करने वाले व्यक्ति के लिए सही शब्द है।"
+}
+]
