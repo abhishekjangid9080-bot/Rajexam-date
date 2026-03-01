@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first Rana of Chittor?",
+"question_hi": "चिट्टोर के पहले रना कौनसी थी।",
+"A_en": "King Bhim",
+"A_hi": "बीम",
+"B_en": "King Kesari Yadav",
+"B_hi": "केसरी यादव",
+"C_en": "King Kumbha",
+"C_hi": "कुम्भ",
+"D_en": "King Pratap",
+"D_hi": "प्रतप",
+"answer": "B",
+"explanation_en": "King Kesari Yadav was the first Rana of Chittor.\nChittor was a stronghold of the Kshatriya Rajputs and the Kesari Yadav was a prominent Rajput leader who later became the Rana of Chittor.",
+"explanation_hi": "चिट्टोर के पहले रना केसरी यादव थे। चिट्टोर एक क्षेत्रण क्षेत्रण के क्षेत्रण प्रधान राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे। चिट्टोर एक क्षेत्रण राजन थे, जबतकर चिट्टोर के राजन बना करे।",
+ 
+"question_ar": "من كان أول رانا من تشيتور؟",
+"options_ar": [
+{
+"option_id": 0,
+"option_text": "راجا رانا رانا",
+"option_answer": "B",
+"option_explanation": "راجना राजन के राजन बना करे।"
+},
+{
+"option_id": 1,
+"option_text": "راجا رانا رانا",
+"option_answer": "B",
+"option_explanation": "راجना राजन के राजन बना करे।",
+},
+{
+"option_id": 2,
+"option_text": "راجا رانا رانا",
+"option_answer": "D",
+"option_explanation": "راجना राजन राजन बना करे।",
+},
+{
+"option_id": 3,
+"option_text": "راجا رانا رانا",
+"option_answer": "B",
+"option_explanation": "راجना राजन राजन बना करे।",
+}
+],
+"answer_id": 3,
+"explanation": "राजना राजन राजन बना करे।",
+}
+]
