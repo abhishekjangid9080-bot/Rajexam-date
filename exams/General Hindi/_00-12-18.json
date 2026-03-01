@@ -1,0 +1,197 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for General Hindi, specifically for Rajasthan State Exams, SSC, and Railway exams like LDC, CET, RAS, NTPC. The user provided an example with a question about the capital of Rajasthan. My task is to follow that structure but come up with different questions on the same subject.
+
+First, I should brainstorm topics under General Hindi that are relevant for these exams. Topics might include grammar rules, common vocabulary, synonyms/antonyms, sentence structure, fill in the blanks, etc. Since the example was about vocabulary (capital), maybe I should cover a variety of topics but keep them general enough for the exams.
+
+Let me think of each question. Let's start with common verbs and their correct usage. For example, the correct use of "करना" in different contexts. Then maybe a question about synonyms or antonyms. Another could be about homonyms or homophones. Also, sentence structure and correct word usage in sentences.
+
+Each question needs to be in both Hindi and English. The answer options should have one correct answer and three distractors. The explanations should clarify why the correct answer is right. Also, ensure the difficulty level is appropriate for general Hindi exams, not too complex.
+
+Let me outline possible questions:
+
+1. Correct verb form in a sentence.
+2. Synonym for a common word.
+3. Antonym for a common word.
+4. Correct spelling of a word.
+5. Homonym usage.
+6. Fill in the blank with a suitable word.
+7. Correct use of a preposition.
+8. Identify the correct sentence structure.
+9. Correct usage of a common idiom.
+10. Commonly confused words.
+
+Now, I need to structure each one in the required JSON format. Let me start drafting each question, ensuring both languages are covered and the answer is correctly marked. Also, explanations in both languages. Need to check for any possible errors in grammar or vocabulary. Make sure options are plausible but have one clear correct answer.
+</think>
+
+[
+  {
+    "subject": "General Hindi",
+    "topic": "Grammar",
+    "question_en": "Which sentence uses the verb 'करना' correctly?",
+    "question_hi": "'करना' के सही उपयोग करते हुए वाक्य चुनिए:",
+    "A_en": "He is doing his homework.",
+    "A_hi": "वह अपने घरेलू काम कर रहा है।",
+    "B_en": "We are going to the market.",
+    "B_hi": "हम बाजार जा रहे हैं।",
+    "C_en": "She eats an apple.",
+    "C_hi": "वह एक सेब खाती है।",
+    "D_en": "They are playing cricket.",
+    "D_hi": "वे क्रिकेट खेल रहे हैं।",
+    "answer": "A",
+    "explanation_en": "The verb 'करना' correctly describes the action of doing homework.",
+    "explanation_hi": "'करना' का सही उपयोग घरेलू कार्य करने के लिए किया गया है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Synonyms",
+    "question_en": "Find the synonym for 'शांति' (Peace).",
+    "question_hi": "'शांति' का समानार्थी शब्द चुनिए:",
+    "A_en": "War",
+    "A_hi": "युद्ध",
+    "B_en": "Conflict",
+    "B_hi": "संघर्ष",
+    "C_en": "Tranquility",
+    "C_hi": "शांति",
+    "D_en": "Disturbance",
+    "D_hi": "अशांति",
+    "answer": "C",
+    "explanation_en": "Tranquility is the synonym for 'शांति'.",
+    "explanation_hi": "'शांति' का समानार्थी शब्द 'शांति' ही है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Antonyms",
+    "question_en": "Find the antonym of 'ठंडा' (Cold).",
+    "question_hi": "'ठंडा' का विपरीतार्थी शब्द चुनिए:",
+    "A_en": "Hot",
+    "A_hi": "गर्म",
+    "B_en": "Warm",
+    "B_hi": "उबला हुआ",
+    "C_en": "Cool",
+    "C_hi": "ठंडा",
+    "D_en": "Freezing",
+    "D_hi": "बर्फीला",
+    "answer": "A",
+    "explanation_en": "Hot is the antonym of 'ठंडा'.",
+    "explanation_hi": "'ठंडा' का विपरीतार्थी शब्द 'गर्म' है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Spelling",
+    "question_en": "Which spelling is correct?",
+    "question_hi": "निम्नलिखित में से कौन-सा शब्द सही वर्तनी के अनुसार है?",
+    "A_en": "Committee",
+    "A_hi": "कमिटी",
+    "B_en": "Committee",
+    "B_hi": "कमिटी",
+    "C_en": "Commitee",
+    "C_hi": "कमिटी",
+    "D_en": "Committie",
+    "D_hi": "कमिटी",
+    "answer": "B",
+    "explanation_en": "The correct spelling is 'Committee'.",
+    "explanation_hi": "'कमिटी' सही वर्तनी है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Homonyms",
+    "question_en": "Choose the correct meaning of 'बैंक' in the sentence: 'I work at a bank.'",
+    "question_hi": "'मैं एक बैंक में काम करता हूँ' वाक्य में 'बैंक' का सही अर्थ चुनिए:",
+    "A_en": "River bank",
+    "A_hi": "नदी के किनारा",
+    "B_en": "Financial institution",
+    "B_hi": "वित्तीय संस्थान",
+    "C_en": "Bank of a river",
+    "C_hi": "नदी का किनारा",
+    "D_en": "Bank of a road",
+    "D_hi": "सड़क का किनारा",
+    "answer": "B",
+    "explanation_en": "In this context, 'bank' refers to a financial institution.",
+    "explanation_hi": "इस संदर्भ में 'बैंक' एक वित्तीय संस्थान को संदर्भित करता है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Sentence Structure",
+    "question_en": "Which sentence is grammatically correct?",
+    "question_hi": "निम्नलिखित में से कौन-सा वाक्य व्याकरणिक रूप से सही है?",
+    "A_en": "He don't like apples.",
+    "A_hi": "वह सेब नहीं पसंद करता है।",
+    "B_en": "She is go to school.",
+    "B_hi": "वह स्कूल जा रही है।",
+    "C_en": "They are playing football.",
+    "C_hi": "वे फुटबॉल खेल रहे हैं।",
+    "D_en": "We has a car.",
+    "D_hi": "हमें एक कार है।",
+    "answer": "C",
+    "explanation_en": "The sentence 'They are playing football.' uses the correct verb form.",
+    "explanation_hi": "'वे फुटबॉल खेल रहे हैं।' वाक्य में सही क्रिया रूप का उपयोग किया गया है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Idioms",
+    "question_en": "Choose the correct meaning of the idiom 'बरगलाना'.",
+    "question_hi": "मुहावरा 'बरगलाना' का सही अर्थ चुनिए:",
+    "A_en": "To become angry",
+    "A_hi": "गुस्सा होना",
+    "B_en": "To be confused",
+    "B_hi": "परेशान होना",
+    "C_en": "To deceive",
+    "C_hi": "धोखा देना",
+    "D_en": "To be happy",
+    "D_hi": "खुश होना",
+    "answer": "C",
+    "explanation_en": "The idiom 'बरगलाना' means 'to deceive'.",
+    "explanation_hi": "मुहावरा 'बरगलाना' का अर्थ 'धोखा देना' है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Commonly Confused Words",
+    "question_en": "Choose the correct word to fill in the blank: 'She is ___ her book.'",
+    "question_hi": "खाली स्थान की पूर्ति के लिए सही शब्द चुनिए: 'वह अपनी किताब ___ रही है।'",
+    "A_en": "reading",
+    "A_hi": "पढ़ रही है",
+    "B_en": "writing",
+    "B_hi": "लिख रही है",
+    "C_en": "buying",
+    "C_hi": "खरीद रही है",
+    "D_en": "singing",
+    "D_hi": "गा रही है",
+    "answer": "A",
+    "explanation_en": "The correct word is 'reading' as the action refers to reading a book.",
+    "explanation_hi": "सही शब्द 'पढ़ रही है' है क्योंकि कार्य पुस्तक पढ़ने से संबंधित है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Prepositions",
+    "question_en": "Choose the correct preposition: 'The book is ___ the table.'",
+    "question_hi": "सही सहविभक्ति चुनिए: 'पुस्तक मेज ___ है।'",
+    "A_en": "on",
+    "A_hi": "पर",
+    "B_en": "in",
+    "B_hi": "में",
+    "C_en": "at",
+    "C_hi": "पर",
+    "D_en": "by",
+    "D_hi": "द्वारा",
+    "answer": "A",
+    "explanation_en": "The correct preposition is 'on' as the book is placed on the table.",
+    "explanation_hi": "सही सहविभक्ति 'पर' है क्योंकि पुस्तक मेज पर रखी है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Sentence Completion",
+    "question_en": "Complete the sentence: 'He was ___ tired ___ walk further.'",
+    "question_hi": "वाक्य पूरा कीजिए: 'वह इतना थका हुआ था कि आगे चलने की ___।'",
+    "A_en": "so... that",
+    "A_hi": "इतना... कि",
+    "B_en": "too... to",
+    "B_hi": "बहुत... ताकि",
+    "C_en": "either... or",
+    "C_hi": "या तो... या",
+    "D_en": "neither... nor",
+    "D_hi": "न तो... और न ही",
+    "answer": "A",
+    "explanation_en": "The phrase 'so... that' correctly completes the sentence.",
+    "explanation_hi": "मुहावरा 'इतना... कि' वाक्य को सही ढंग से पूरा करता है।"
+  }
+]
