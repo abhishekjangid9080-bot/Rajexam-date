@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Mughal emperor built the Amber Fort?",
+"question_hi": "एम्बेर के मुगल सामना किया क्या संगठन ने पैसा कमाली का जंगला शिक्षा के लिए बना।",
+"A_en": "Shah Jahan",
+"A_hi": "शाह जाहां",
+"B_en": "Aurangzeb",
+"B_hi": "अरोंगजेब",
+"C_en": "Jahangir",
+"C_hi": "जहांगर",
+"D_en": "Sultan Bairam Khan",
+"D_hi": "सुल्तान बैरम कंक",
+"answer": "C",
+"explanation_en": "Jahangir built the Amber Fort for educational purposes.",
+"explanation_hi": "जहांगर अमेर का जादूनिया के लिए बना है।",
+}
+]
