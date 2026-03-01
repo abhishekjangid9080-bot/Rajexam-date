@@ -1,0 +1,58 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the first Jat ruler of Rajasthan?",
+"question_hi": "राजस्थान के पहले जात समाजक कौन थे।",
+"A_en": "Maharaja Sawai Mansingh I",
+"A_hi": "महाराजा सवाई मांसिंगी एक",
+"B_en": "Maharaja Sawai Mansingh II",
+"B_hi": "महाराजा सवाई मांसिंगी एक",
+"C_en": "Maharaja Rao Bahadur Kishore Singh",
+"C_hi": "महाराजा राव बहादुर किशोर सिंग",
+"D_en": "Maharaja Sawai Madho Singh I",
+"D_hi": "महाराजा सवाई मादो सिंगी एक",
+"answer": "B",
+"explanation_en": "Maharaja Sawai Mansingh II was the first Jat ruler of Rajasthan.",
+"explanation_hi": "राजनी महाराजा सवाई मांसिंगी एक राजनी जोड़ एन."
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the founder of Jodhpur State?",
+"question_hi": "जोधपुर गैर कौन स्थान के संगम के नाम जाने वाले मैंगी एन.",
+"A_en": "Rao Jodh Singh",
+"A_hi": "राजा जोधपुर संगम",
+"B_en": "Rao Bika",
+"B_hi": "राजा बिका",
+"C_en": "Rao Kailash",
+"C_hi": "राजा कैलाष",
+"D_en": "Rao Jodh Singh",
+"D_hi": "राजा जोधपुर संगम",
+"answer": "B",
+"explanation_en": "Rao Bika was the founder of Jodhpur State.",
+"explanation_hi": "राजा बिका जोधपुर संगम के संगम के संगम तथा एक मात्रा के संगम के संगम के संगम",
+"explanation_hi": "राजा बिका जोधपुर संगम के संगम तथा एक मात्रा के संगम के संगम",
+"answer": "A",
+"explanation_en": "Rao Bika jodhpur sangam ke sangam ke sangam तथा एक मात्रा के संगम के संगम",
+"explanation_hi": "राजा बिका जोधपुर संगम के संगम तथा एक मात्रा के संगम",
+"question_en": "Who was the founder of Jodhpur State and one of the founders of Udaipur State?",
+"question_hi": "जोधपुर और उदायपुर द्वाद को पत्रका एक एक बज़ाँ के संगम",
+"options": [
+{
+"option_en": "Maharaja Rao Bika",
+"option_hi": "महारामातरा राजगन",
+{
+"option_en": "Lad Ram Jat",
+"option_hi": "लांद राम जात",
+{
+"option_en": "Jayalal Bhagat",
+"option_hi": "जैलल भागांत",
+{
+"option_en": "Maharaja Rao Bika",
+"option_hi": "महारामातरा राजगन",
+]
+"answer": "C",
+"explanation_en": "Maharaja Rao Bika and Lad Ram Jat were the founders of Jodhpur and Jaisamaj respectively.",
+"explanation_hi": "महारामातरा राजगन और जासामातरा राजगन मातरा राजगांत",
+]
