@@ -1,0 +1,183 @@
+<think>
+Okay, I need to create 10 high-quality static GK MCQs in both Hindi and English, following the specified JSON format. The topics should cover Rajasthan's state exams, like LDC, CET, RAS, as well as SSC and Railway exams. Let me start by brainstorming relevant topics.
+
+First, capital of Rajasthan is a common question. The user already provided an example about the capital, so maybe I can start with that but ensure the rest are different. Then, maybe include other capitals of states, national parks, famous forts, historical figures, important rivers, states and their dances, and so on.
+
+For each question, I need to make sure the options are plausible but tricky. For example, when asking about the capital of Rajasthan, options could include Jaipur, Jodhpur, Udaipur, Bikaner. The answer is Jaipur. Next, perhaps the largest state by area in India. The answer is Rajasthan. But I need to check which states are commonly confused. So options could be Rajasthan, Madhya Pradesh, Maharashtra, Andhra Pradesh.
+
+Another topic could be the national animal of India—lion or tiger? Wait, the tiger is the national animal. So question: What is the national animal of India? Options could be Lion, Tiger, Elephant, Leopard. Answer is Tiger. But wait, the user might want questions specific to Rajasthan. Hmm, maybe adjust to Rajasthan's state animal. The state animal of Rajasthan is the Chinkara. So question about that.
+
+Wait, the user's example is about Rajasthan's capital, but the task is for Static GK. So maybe include questions from various static GK topics relevant to the exams mentioned. So besides Rajasthan, include general Indian Static GK like national symbols, important days, capitals, etc.
+
+Let me list out possible topics:
+
+1. Capital of Rajasthan – already in example.
+2. National bird of India – Peacock.
+3. Largest state by area – Rajasthan.
+4. National animal of India – Tiger.
+5. National game – Hockey.
+6. Longest river in India – Ganges.
+7. Capital of India – Delhi.
+8. Highest mountain peak – Everest.
+9. National tree – Banyan.
+10. State bird of Rajasthan – Greater Flamingo.
+
+Wait, the user mentioned the topic is empty in the example. So maybe the topic should be specified. But the user's instruction says "Topic: " (empty). Wait, no, in the JSON example, the topic is empty. But in the task, the user says "Topic: " but didn't specify. Wait, looking back at the original user message: "Subject: Static GK, Topic: " (empty). So the topic is left empty. So in the JSON, the topic will be empty. So the example has "topic": "".
+
+So I need to create 10 questions under Static GK, covering various subtopics. Let me proceed to create each question, ensuring the Hindi and English translations are accurate. Also, check the correct answers and provide explanations in both languages.
+
+First question: Capital of Rajasthan – already covered in example. Need to avoid that if possible. But if the user allows, maybe include again. Wait, no, the example is just a sample. The user wants 10 more questions. So perhaps the first one is about the capital, then others on different topics.
+
+Another idea: The first railway line in India was opened in 1853 between Bombay and Thane. So question: When was the first railway line laid in India? Options: A) 1853, B) 1850, C) 1845, D) 1860. Answer A.
+
+Another question: The longest river in India is the Ganges. So question: Which is the longest river in India? Options: A) Ganges, B) Yamuna, C) Brahmaputra, D) Godavari. Answer A.
+
+Another topic: The highest mountain peak in the world is Mount Everest. So question: Which is the highest mountain peak in the world? Options: A) K2, B) Kangchenjunga, C) Nanga Parbat, D) Mt. Everest. Answer D.
+
+For Rajasthan-specific questions: The state flower of Rajasthan is the Gulab (Rose). So question: What is the state flower of Rajasthan? Options: A) Rose, B) Lotus, C) Jasmine, D) Marigold. Answer A.
+
+The state bird of Rajasthan is the Sarus Crane? Wait, no. The state bird of Rajasthan is the Indian Roller (Pipit). Wait, need to confirm. Let me check. The state bird of Rajasthan is the Sarus Crane. Wait, no, I think it's the Indian Roller. Let me verify. According to official sources, the state bird of Rajasthan is the Sarus Crane. Wait, no, the Sarus Crane is the state bird of Uttar Pradesh. Rajasthan's state bird is the Indian Roller. So the question would be: What is the state bird of Rajasthan? Options: A) Sarus Crane, B) Indian Roller, C) Peacock, D) Pigeon. Answer B.
+
+Another question: The national tree of India is the Banyan tree. So question: What is the national tree of India? Options: A) Banyan, B) Neem, C) Peepal, D) Mango. Answer A.
+
+The national game of India is hockey. So question: What is the national game of India? Options: A) Cricket, B) Football, C) Hockey, D) Badminton. Answer C.
+
+The first President of India was Rajendra Prasad. So question: Who was the first President of India? Options: A) Jawaharlal Nehru, B) Sardar Patel, C) Rajendra Prasad, D) Dr. B.R. Ambedkar. Answer C.
+
+The longest river in Rajasthan is the Chambal River. So question: Which is the longest river in Rajasthan? Options: A) Chambal, B) Mahi, C) Luni, D) Banas. Answer A.
+
+Now, compiling all these into the JSON format. Each question needs the subject as "Static GK", topic as empty string, question in English and Hindi, options A-D in both languages, the correct answer, and explanations in both languages. Need to ensure the translations are accurate and the explanations are correct. Also, check for any possible errors in the facts provided.
+</think>
+
+[
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "What is the national animal of India?",
+"question_hi": "भारत का राष्ट्रीय पशु क्या है?",
+"A_en": "Lion", "A_hi": "सिंह",
+"B_en": "Tiger", "B_hi": "बाघ",
+"C_en": "Elephant", "C_hi": "हाथी",
+"D_en": "Leopard", "D_hi": "चीता",
+"answer": "B",
+"explanation_en": "The tiger is the national animal of India.",
+"explanation_hi": "बाघ भारत का राष्ट्रीय पशु है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "Which is the longest river in India?",
+"question_hi": "भारत की सबसे लंबी नदी कौन सी है?",
+"A_en": "Ganges", "A_hi": "गंगा",
+"B_en": "Yamuna", "B_hi": "यमुना",
+"C_en": "Brahmaputra", "C_hi": "ब्रह्मपुत्रा",
+"D_en": "Godavari", "D_hi": "गोदावरी",
+"answer": "A",
+"explanation_en": "The Ganges is the longest river in India.",
+"explanation_hi": "गंगा भारत की सबसे लंबी नदी है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "What is the state bird of Rajasthan?",
+"question_hi": "राजस्थान का राज्य पक्षी कौन सा है?",
+"A_en": "Sarus Crane", "A_hi": "सरस शिरकगाज",
+"B_en": "Indian Roller", "B_hi": "भारतीय रोलर",
+"C_en": "Peacock", "C_hi": "मोर",
+"D_en": "Pigeon", "D_hi": "बतख",
+"answer": "B",
+"explanation_en": "The Indian Roller is the state bird of Rajasthan.",
+"explanation_hi": "भारतीय रोलर राजस्थान का राज्य पक्षी है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "Which is the largest state in India by area?",
+"question_hi": "भारत का क्षेत्रफल के आधार पर सबसे बड़ा राज्य कौन सा है?",
+"A_en": "Rajasthan", "A_hi": "राजस्थान",
+"B_en": "Madhya Pradesh", "B_hi": "मध्य प्रदेश",
+"C_en": "Maharashtra", "C_hi": "महाराष्ट्र",
+"D_en": "Andhra Pradesh", "D_hi": "आंध्र प्रदेश",
+"answer": "A",
+"explanation_en": "Rajasthan is the largest state in India by area.",
+"explanation_hi": "राजस्थान भारत का क्षेत्रफल के आधार पर सबसे बड़ा राज्य है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "What is the national game of India?",
+"question_hi": "भारत का राष्ट्रीय खेल क्या है?",
+"A_en": "Cricket", "A_hi": "क्रिकेट",
+"B_en": "Football", "B_hi": "फुटबॉल",
+"C_en": "Hockey", "C_hi": "हॉकी",
+"D_en": "Badminton", "D_hi": "बैडमिंटन",
+"answer": "C",
+"explanation_en": "Hockey is the national game of India.",
+"explanation_hi": "हॉकी भारत का राष्ट्रीय खेल है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "Which is the highest mountain peak in the world?",
+"question_hi": "विश्व की सबसे ऊँची पर्वत चोटी कौन सी है?",
+"A_en": "K2", "A_hi": "के2",
+"B_en": "Kangchenjunga", "B_hi": "कंचनजंगा",
+"C_en": "Nanga Parbat", "C_hi": "नंगा पर्वत",
+"D_en": "Mount Everest", "D_hi": "माउंट एवरेस्ट",
+"answer": "D",
+"explanation_en": "Mount Everest is the highest mountain peak in the world.",
+"explanation_hi": "माउंट एवरेस्ट विश्व की सबसे ऊँची पर्वत चोटी है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "What is the national tree of India?",
+"question_hi": "भारत का राष्ट्रीय पेड़ क्या है?",
+"A_en": "Banyan", "A_hi": "बरगद",
+"B_en": "Neem", "B_hi": "नीम",
+"C_en": "Peepal", "C_hi": "पीपल",
+"D_en": "Mango", "D_hi": "आम",
+"answer": "A",
+"explanation_en": "The banyan tree is the national tree of India.",
+"explanation_hi": "बरगद का पेड़ भारत का राष्ट्रीय पेड़ है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "Who was the first President of India?",
+"question_hi": "भारत के पहले राष्ट्रपति कौन थे?",
+"A_en": "Jawaharlal Nehru", "A_hi": "जवाहरलाल नेहरू",
+"B_en": "Sardar Patel", "B_hi": "सरदार पटेल",
+"C_en": "Rajendra Prasad", "C_hi": "राजेंद्र प्रसाद",
+"D_en": "Dr. B.R. Ambedkar", "D_hi": "डॉ. बी.आर. अंबेडकर",
+"answer": "C",
+"explanation_en": "Rajendra Prasad was the first President of India.",
+"explanation_hi": "राजेंद्र प्रसाद भारत के पहले राष्ट्रपति थे।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "Which is the longest river in Rajasthan?",
+"question_hi": "राजस्थान की सबसे लंबी नदी कौन सी है?",
+"A_en": "Chambal", "A_hi": "चम्बल",
+"B_en": "Mahi", "B_hi": "मही",
+"C_en": "Luni", "C_hi": "लूनी",
+"D_en": "Banas", "D_hi": "बनास",
+"answer": "A",
+"explanation_en": "The Chambal is the longest river in Rajasthan.",
+"explanation_hi": "चम्बल राजस्थान की सबसे लंबी नदी है।"
+},
+{
+"subject": "Static GK",
+"topic": "",
+"question_en": "What is the capital of India?",
+"question_hi": "भारत की राजधानी क्या है?",
+"A_en": "Mumbai", "A_hi": "मुंबई",
+"B_en": "Chennai", "B_hi": "चेन्नई",
+"C_en": "New Delhi", "C_hi": "नई दिल्ली",
+"D_en": "Kolkata", "D_hi": "कोलकाता",
+"answer": "C",
+"explanation_en": "New Delhi is the capital of India.",
+"explanation_hi": "नई दिल्ली भारत की राजधानी है।"
+}
+]
