@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a Rajasthani folk dance?",
+"question_hi": "राजस्थान के फोक डैंक के कुछ निम्नलिंग में नहीं है।",
+"A_en": "Bhagat",
+"A_hi": "बगत",
+"B_en": "Ghoomar",
+"B_hi": "गोमार",
+"C_en": "Kalbeliya",
+"C_hi": "कलबेलीया",
+"D_en": "Teej",
+"D_hi": "तीज",
+"answer": "B",
+"explanation_en": "Ghoomar is a famous folk dance from Rajasthan, while Bhagat, Kalbeliya, and Teej are also popular dances in the region. However, Bhagat is not a Rajasthani folk dance. Ghoomar is a type of folk dance originated from Jaisalmer and is widely performed in Rajasthan.",
+"explanation_hi": "राजस्थान में प्रमोट है, जो। बहादुर, कालबेलिया, एवं Teej भी राजस्थान में प्रमोट है। बहादुर, कालबेलिया और Teej भी राजस्थान में प्रमोट है। बहादुर, कालबेलीया और Teej भी राजस्थान में प्रमोट है। बहादुर, कालबेलीया भी राजस्थान में प्रमोट है। बहादुर, कालबेलीया भी राजस्थान में प्रमोट है।",
+"question_en": "Which is not a part of the Rajasthan state in India?",
+"question_hi": "राजस्थान में प्रमोट है। बहादुर, कालबेलीया भी राजस्थान में प्रमोट है।",
+"options": [
+{
+"option_en": "Bharatpur",
+"option_hi": "भारतपुर",
+"option_explanation_en": "Bharatpur is a district in Rajasthan, not a part of the state.",
+"option_explanation_hi": "भारतपुर एक जिले है, या राजस्थान के संतराज नही।",
+"option_number": 0
+},
+{
+"option_en": "Kalabha",
+"option_hi": "कालबहा",
+"option_explanation_en": "Kalabha is a dance form, not a place in Rajasthan.",
+"option_explanation_hi": "कालभा एक टेंटर है, या राजस्थान के एक जिले नही।",
+"option_number": 1
+},
+{
+"option_en": "Kishangarh",
+"option_hi": "किसनगढ",
+"option_explanation_en": "Kishangarh is a city in Rajasthan, not a dance form.",
+"option_explanation_hi": "किसनगढा एक शहर है, या राजस्थान के एक टेंटर नही।",
+"option_number": 2
+},
+{
+"option_en": "Bikaner",
+"option_hi": "बिकानेर",
+"option_explanation_en": "Bikaner is a city in Rajasthan, not a dance form.",
+"option_explanation_hi": "बिकानेर एक शहर है, या राजस्थान के एक टेंटर नही।",
+"option_number": 3
+}
+]
