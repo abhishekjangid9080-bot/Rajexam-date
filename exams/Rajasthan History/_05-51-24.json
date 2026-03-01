@@ -1,0 +1,29 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस ग्रैंड के बार्मोन है।",
+"A_en": "Amer", "A_hi": "अमेर",
+"B_en": "Kumbhalgarh", "B_hi": "कुम्भलगढ",
+"C_en": "Nahargarh", "C_hi": "नहारगढ",
+"D_en": "Hawa Mahal", "D_hi": "हवा महाल",
+"answer": "C",
+"explanation_en": "Nahargarh Fort is located in Jaipur, Rajasthan. It is known for its unique architectural design and scenic beauty.",
+"explanation_hi": "नहारगढ क्षेत्र को राजस्थान में प्रतिष्ठ आकार और समुचित सेवा के लिए बना है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Culture",
+"question_en": "What is the traditional dance form of Rajasthan known as?",
+"question_hi": "राजस्थान के कला स्तर क्या प्राची पूर्वागोवाद क्या है?",
+"A_en": "Ghoomar", "A_hi": "गोमार",
+"B_en": "Gujariya", "B_hi": "गुजरीया",
+"C_en": "Chari Dance", "C_hi": "चारी डेंस",
+"D_en": "Dhanteras", "D_hi": "धनतारा",
+"answer": "A",
+"explanation_en": "Ghoomar is a traditional folk dance form originated in Rajasthan. It is performed by women and is known for its swift turns and lively music.",
+"explanation_hi": "गोमार ये राजस्थान में आत्रिता डेंस",
+"explanation_hi": "घूमर के प्राची डेंस",
+}
+]
