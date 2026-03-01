@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Kings and Their Epochs",
+"question_en": "Which Rajasthani king established the city of Jaipur?",
+"question_hi": "जयपुर को कौन-से राजस्थानी सरकार ने स्थापित किया ?",
+"A_en": "Amber Maharaja",
+"A_hi": "आम्र महाराज",
+"B_en": "Man Singh I",
+"B_hi": "मन सिंह I",
+"C_en": "Jai Singh II",
+"C_hi": "जयजन सिंह II",
+"D_en": "Prithviraj III",
+"D_hi": "प्रतीहरू आंदोलन III",
+"answer": "C",
+"explanation_en": "Jai Singh II is the Rajasthani king who established the city of Jaipur.",
+"explanation_hi": "जयजन सिंह II राजस्थानी राजा है जो जैसपुर को स्थापन कर दिए गए।",
+}
+]
