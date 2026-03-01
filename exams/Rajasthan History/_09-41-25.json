@@ -1,0 +1,77 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a royal city of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी के संतुलन में किस शहर नहीं है?",
+"A_en": "Ahmedabad", "A_hi": "अहमदाबाद",
+"B_en": "Ajmer", "B_hi": "आजमीर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Jaipur", "D_hi": "जयपुर",
+"answer": "Ahmedabad",
+"explanation_en": "Ahmedabad is not a royal city of Rajasthan. It is the capital of Gujarat state.",
+"explanation_hi": "राजस्थान में अहमदाबाद राजधानी नहीं है। यह Gujarat राज्य के लिए है।",
+"question_en": "Which of the following cities is not a royal city of Rajasthan?",
+"question_hi": "राजस्थान के लीलें में किसे नहीं है।",
+"options": [
+{
+"option_id": "A",
+"option_text_en": "Ahmedabad",
+"option_text_hi": "अहमदाबाद",
+"option_correct_answer": "Ahmedabad"
+},
+{
+"option_id": "B",
+"option_text_en": "Ajmer",
+"option_text_hi": "आजमीर",
+"option_correct_answer": "Ajmer"
+},
+{
+"option_id": "C",
+"option_text_en": "Rajsamand",
+"option_text_hi": "राजसमांद",
+"option_correct_answer": "Rajsamand"
+},
+{
+"option_id": "D",
+"option_text_en": "Bikaner",
+"option_text_hi": "बिकानेर",
+"option_correct_answer": "Bikaner"
+},
+{
+"option_id": "E",
+"option_text_en": "Jaisalmer",
+"option_text_hi": "जयसालमेर",
+"option_correct_answer": "Jaisalmer"
+},
+{
+"option_id": "F",
+"option_text_en": "Jodhpur",
+"option_text_hi": "झोदपुर",
+"option_correct_answer": "Jodhpur"
+},
+{
+"option_id": "G",
+"option_text_en": "Udaipur",
+"option_text_hi": "उदायपुर",
+"option_correct_answer": "Udaipur"
+},
+{
+"option_id": "H",
+"option_text_en": "Kota",
+"option_text_hi": "कोटा",
+"option_correct_answer": "Kota"
+},
+{
+"option_id": "I",
+"option_text_en": "Chittorgarh",
+"option_text_hi": "चीट्रोगर",
+"option_correct_answer": "Chittorgarh"
+},
+{
+"option_id": "J",
+"option_text_en": "Kishangarh",
+"option_text_hi": "किशांगर्ह",
+"option_correct_answer": "Kishangarh"
+}
+]
