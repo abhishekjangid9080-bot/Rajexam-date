@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Historical Figures",
+"question_en": "Who is the famous Maharaja of Marwar?",
+"question_hi": "मर्वाई के महाराजा कौन है?",
+"A_en": "Rao Jodhraj", "A_hi": "राओ जोध्राज",
+"B_en": "Rao Jaisimha", "B_hi": "राओ जयसीमा",
+"C_en": "Rao Kalyan Singh", "C_hi": "राओ कल्याण सिंह",
+"D_en": "Rao Rameshvar", "D_hi": "राओ रामेशवार",
+"answer": "C",
+"explanation_en": "Rao Kalyan Singh is the famous Maharaja of Marwar. He was the founder of Jodhpur State.",
+"explanation_hi": "राओ कल्याण सिंह महाराजा मर्वा के इलाके में महाराजा था। उन्हें Jodhpur State को प्राप्त कर देने के साथे हैं।",
+"explanation_images": []
+}
+]
