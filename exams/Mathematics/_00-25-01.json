@@ -1,0 +1,135 @@
+<think>
+Okay, let me start by understanding the user's request. They want me to create 10 high-quality math MCQs in both Hindi and English for Rajasthan State Exams, SSC, and Railway exams. The JSON structure is specific, so I need to ensure each question follows the example provided.
+
+First, I need to select appropriate topics within Mathematics that are common in these exams. Topics like Number System, Algebra, Geometry, Mensuration, and Arithmetic are standard. Let me brainstorm some key areas. For example, problems involving HCF and LCM, profit and loss, time and work, geometry theorems, and algebraic equations.
+
+Next, each question must have a question in English and Hindi, four options (A to D), the correct answer, and explanations in both languages. The difficulty level should be moderate, suitable for state and national-level exams. I should avoid overly complex problems that might not be relevant to the exam syllabi.
+
+Let me start drafting the first question. Maybe a problem on HCF and LCM. For example, finding the HCF of two numbers given their LCM and product. The numbers should be manageable but not too simple. Let's say LCM is 360 and product is 4860. Using the formula HCF × LCM = Product, HCF = 4860 / 360 = 13.5. Wait, that's a decimal. Hmm, maybe I made a mistake. Let me check the calculation again. 360 × 13.5 = 4860? 360×13=4680, 360×0.5=180, total 4860. So the HCF is 13.5. But HCF of integers should be an integer. Oh, that's a problem. Maybe the numbers need to be adjusted. Let me choose numbers where LCM and product result in an integer HCF. For example, if LCM is 240 and product is 1920, then HCF = 1920 / 240 = 8. That works. Let me try that. The question would be: If the LCM of two numbers is 240 and their product is 1920, what is their HCF? The answer is 8. That's a good question.
+
+Now, translating the question into Hindi. "दो संख्याओं का LCM 240 है और उनका गुणनफल 1920 है। उनका महत्तम समापवर्तक (HCF) क्या होगा?" The options should include 8, and other plausible numbers like 5, 10, 12. So options are A:5, B:8, C:10, D:12. Answer is B.
+
+Next, I need to ensure each question follows this structure. Let's think of another topic. Time and work. For example, if A can do a work in 10 days and B in 15 days, together they can complete it in how many days? The answer would be 6 days. Let me verify: (10×15)/(10+15) = 150/25 = 6. Correct. Translating into Hindi: "A किसी काम को 10 दिन में कर सकता है और B उसी काम को 15 दिन में कर सकता है। दोनों मिलकर उस काम को कितने दिन में पूरा कर पाएंगे?" Options could be 8, 6, 5, 7. Answer is B:6.
+
+Another question on profit and loss. Suppose a shopkeeper sells a product at a 10% profit for ₹220. What's the cost price? Calculation: CP = 220 / 1.10 = 200. So the answer is ₹200. Translating the question into Hindi: "एक दुकानदार 220 रुपये में एक वस्तु बेचता है जिससे उसे 10% का लाभ होता है। वस्तु का क्रय मूल्य क्या है?" Options: 200, 198, 210, 220. Answer is A:200.
+
+I need to cover various topics for 10 questions. Let's include geometry, fractions, percentages, ratios, and basic algebra. Each question should have a clear solution and be relevant to the exams mentioned. Also, ensure that the explanations are concise and in both languages.
+
+Let me check if all the calculations are correct. For the HCF/LCM question: LCM=240, Product=1920, HCF=8. Correct. Time and work: 6 days. Profit and loss: 200. Next, maybe a question on percentage increase. For example, if a number is increased by 25% to become 300, what was the original number? 300 / 1.25 = 240. So question: "एक संख्या को 25% बढ़ाने पर 300 प्राप्त होता है। मूल संख्या क्या है?" Options: 240, 250, 225, 230. Answer A:240.
+
+Another question on algebraic expressions. For example, solve for x: 3x - 5 = 10. Solution x=5. Translating into Hindi: "3x - 5 = 10 के लिए x का मान ज्ञात करें।" Options: 5, 6, 4, 7. Answer A:5.
+
+For geometry, maybe area of a triangle with given base and height. Base=10cm, height=6cm, area= (10*6)/2=30 cm². Question: "एक त्रिभुज का क्षेत्रफल ज्ञात करें जिसका आधार 10 सेमी और ऊंचाई 6 सेमी है।" Options: 30, 60, 25, 45. Answer A:30.
+
+Another one on ratios. If 2:3 = 8:x, find x. Cross-multiplying, 2x=24, x=12. Question: "2:3 = 8:x हैं, तो x का मान क्या होगा?" Options: 12, 10, 14, 16. Answer A:12.
+
+Time, speed, distance: A car travels 60 km in 1 hour. How much time will it take to travel 180 km? Time=180/60=3 hours. Question: "एक कार 60 किमी 1 घंटे में तय करती है। 180 किमी की दूरी तय करने में कितना समय लेगी?" Options: 3, 4, 2.5, 2. Answer A:3.
+
+Fraction problem: What is 3/4 of 80? 80*(3/4)=60. Question: "80 का 3/4 कितना होगा?" Options: 60, 40, 50, 70. Answer A:60.
+
+Let me verify each calculation again for accuracy. HCF/LCM: yes. Time and work: correct. Profit and loss: yes. Percentage increase: correct. Algebra: correct. Triangle area: yes. Ratios: correct. Time distance: correct. Fraction: correct. That's 10 questions. Now, structure them into JSON as per the example, ensuring all fields are present and explanations are in both languages.
+</think>
+
+[
+    {
+        "subject": "Mathematics",
+        "topic": "Number System",
+        "question_en": "If the LCM of two numbers is 240 and their product is 1920, what is their HCF?",
+        "question_hi": "दो संख्याओं का LCM 240 है और उनका गुणनफल 1920 है। उनका महत्तम समापवर्तक (HCF) क्या होगा?",
+        "A_en": "5", "A_hi": "5",
+        "B_en": "8", "B_hi": "8",
+        "C_en": "10", "C_hi": "10",
+        "D_en": "12", "D_hi": "12",
+        "answer": "B",
+        "explanation_en": "Using the formula HCF × LCM = Product of the numbers, HCF = 1920 / 240 = 8.",
+        "explanation_hi": "सूत्र HCF × LCM = दोनों संख्याओं का गुणनफल का उपयोग कर, HCF = 1920 / 240 = 8।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Time and Work",
+        "question_en": "A can do a work in 10 days and B can do the same work in 15 days. How many days will they take to complete it together?",
+        "question_hi": "A किसी काम को 10 दिन में कर सकता है और B उसी काम को 15 दिन में कर सकता है। दोनों मिलकर उस काम को कितने दिन में पूरा कर पाएंगे?",
+        "A_en": "8", "A_hi": "8",
+        "B_en": "6", "B_hi": "6",
+        "C_en": "5", "C_hi": "5",
+        "D_en": "7", "D_hi": "7",
+        "answer": "B",
+        "explanation_en": "Combined work rate is (1/10 + 1/15) = 1/6, so they take 6 days.",
+        "explanation_hi": "संयुक्त कार्य दर (1/10 + 1/15) = 1/6 है, इसलिए वे 6 दिन में पूरा करेंगे।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Profit and Loss",
+        "question_en": "A shopkeeper sells a product for ₹220 with a 10% profit. What is the cost price?",
+        "question_hi": "एक दुकानदार 220 रुपये में एक वस्तु बेचता है जिससे उसे 10% का लाभ होता है। वस्तु का क्रय मूल्य क्या है?",
+        "A_en": "200", "A_hi": "200",
+        "B_en": "198", "B_hi": "198",
+        "C_en": "210", "C_hi": "210",
+        "D_en": "220", "D_hi": "220",
+        "answer": "A",
+        "explanation_en": "CP = 220 / 1.10 = ₹200.",
+        "explanation_hi": "क्रय मूल्य = 220 / 1.10 = ₹200।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Percentage",
+        "question_en": "A number is increased by 25% to become 300. What was the original number?",
+        "question_hi": "एक संख्या को 25% बढ़ाने पर 300 प्राप्त होता है। मूल संख्या क्या है?",
+        "A_en": "240", "A_hi": "240",
+        "B_en": "250", "B_hi": "250",
+        "C_en": "225", "C_hi": "225",
+        "D_en": "230", "D_hi": "230",
+        "answer": "A",
+        "explanation_en": "Original number = 300 / 1.25 = 240.",
+        "explanation_hi": "मूल संख्या = 300 / 1.25 = 240।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "question_en": "Solve for x: 3x - 5 = 10.",
+        "question_hi": "3x - 5 = 10 के लिए x का मान ज्ञात करें।",
+        "A_en": "5", "A_hi": "5",
+        "B_en": "6", "B_hi": "6",
+        "C_en": "4", "C_hi": "4",
+        "D_en": "7", "D_hi": "7",
+        "answer": "A",
+        "explanation_en": "Adding 5 to both sides: 3x = 15. Dividing by 3: x = 5.",
+        "explanation_hi": "दोनों पक्षों में 5 जोड़ने पर: 3x = 15। 3 से विभाजित करने पर: x = 5।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "question_en": "What is the area of a triangle with base 10 cm and height 6 cm?",
+        "question_hi": "एक त्रिभुज का क्षेत्रफल ज्ञात करें जिसका आधार 10 सेमी और ऊंचाई 6 सेमी है।",
+        "A_en": "30", "A_hi": "30",
+        "B_en": "60", "B_hi": "60",
+        "C_en": "25", "C_hi": "25",
+        "D_en": "45", "D_hi": "45",
+        "answer": "A",
+        "explanation_en": "Area = (Base × Height) / 2 = (10 × 6)/2 = 30 cm².",
+        "explanation_hi": "क्षेत्रफल = (आधार × ऊंचाई) / 2 = (10 × 6)/2 = 30 सेमी²।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Ratio and Proportion",
+        "question_en": "If 2:3 = 8:x, find x.",
+        "question_hi": "2:3 = 8:x हैं, तो x का मान क्या होगा?",
+        "A_en": "12", "A_hi": "12",
+        "B_en": "10", "B_hi": "10",
+        "C_en": "14", "C_hi": "14",
+        "D_en": "16", "D_hi": "16",
+        "answer": "A",
+        "explanation_en": "Cross-multiplying: 2x = 24 → x = 12.",
+        "explanation_hi": "चौरस गुणा: 2x = 24 → x = 12।"
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Time, Speed, Distance",
+        "question_en": "A car travels 60 km in 1 hour. How long will it take to cover 180 km?",
+        "question_hi": "एक कार 60 किमी 1 घंटे में तय करती है। 180 किमी की दूरी तय करने में कितना समय लेगी?",
+        "A_en": "3", "A_hi": "3",
+        "B_en": "4", "B_hi": "4",
+        "C_en": "2.5", "C_hi": "2.5",
+        "D_en": "2", "D_hi": "2",
+        "answer": "A",
+        "ex
