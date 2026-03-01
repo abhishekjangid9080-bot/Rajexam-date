@@ -1,0 +1,144 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for General English, focusing on the topic provided. The user mentioned that the questions should be in both Hindi and English, following the Testbook style. The JSON structure example they gave includes subject, topic, questions in both languages, options in both languages, the correct answer, and explanations in both languages.
+
+First, I need to determine the topic. The user left the topic blank, but looking at the example, maybe they want me to choose a common General English topic like Vocabulary, Grammar, or Comprehension. Since the example was about Rajasthan's capital, but that's for a different subject, I should pick a General English topic. Let's go with "Common Idioms and Phrases" as it's a typical area for such exams.
+
+Now, I'll start brainstorming 10 idioms or phrases. For each, the question will ask for the meaning, and the options will be different meanings. Let's make sure the options are plausible and the correct answer is clear. I need to translate the questions and options into Hindi accurately.
+
+For example, the first question could be about the idiom "Break the ice." The options would be different actions. The correct answer is "To start a conversation." Then, I'll create the Hindi versions of the question and options. The explanation should clarify why that's the correct answer.
+
+I need to ensure that the difficulty level is appropriate for exams like LDC, CET, RAS, SSC, and Railway. The questions shouldn't be too easy or too hard. Also, check that there's no ambiguity in the options and that each question is clear. Let's verify each question for grammar and correct Hindi translation. Once done, structure the JSON correctly with all required fields and ensure there are exactly 10 questions.
+</think>
+
+[
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What does the idiom 'Break the ice' mean?",
+"question_hi": "'ब्रेक द आइस' मुहावरे का अर्थ क्या है?",
+"A_en": "To start a conversation", "A_hi": "किसी बातचीत को शुरू करना",
+"B_en": "To end a meeting", "B_hi": "सभा को समाप्त करना",
+"C_en": "To build a bridge", "C_hi": "पुल बनाना",
+"D_en": "To break a promise", "D_hi": "वादा तोड़ना",
+"answer": "A",
+"explanation_en": "'Break the ice' means to start a conversation in a social context.",
+"explanation_hi": "'ब्रेक द आइस' का अर्थ सामाजिक संदर्भ में एक बातचीत को शुरू करना है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What does the phrase 'Bite the bullet' mean?",
+"question_hi": "'बिट द बुलेट' वाक्यांश का अर्थ क्या है?",
+"A_en": "To avoid a problem", "A_hi": "समस्या से बचना",
+"B_en": "To face a painful situation bravely", "B_hi": "दर्दनाक स्थिति का साहसपूर्वक सामना करना",
+"C_en": "To take a risk", "C_hi": "जोखिम उठाना",
+"D_en": "To waste time", "D_hi": "समय बर्बाद करना",
+"answer": "B",
+"explanation_en": "'Bite the bullet' means to endure a painful or difficult situation bravely.",
+"explanation_hi": "'बिट द बुलेट' का अर्थ दर्दनाक या कठिन स्थिति का साहसपूर्वक सहन करना है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What is the meaning of 'Under the weather'?",
+"question_hi": "'अंडर द वीदर' का अर्थ क्या है?",
+"A_en": "Feeling unwell", "A_hi": "अच्छा नहीं महसूस करना",
+"B_en": "Feeling excited", "B_hi": "उत्साहित महसूस करना",
+"C_en": "Feeling wealthy", "C_hi": "सम्पन्न महसूस करना",
+"D_en": "Feeling hungry", "D_hi": "भूखा महसूस करना",
+"answer": "A",
+"explanation_en": "'Under the weather' is used to describe someone who is feeling unwell.",
+"explanation_hi": "'अंडर द वीदर' किसी व्यक्ति के अच्छा नहीं महसूस करने का वर्णन करता है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What does 'Hit the sack' mean?",
+"question_hi": "'हिट द सैक' का अर्थ क्या है?",
+"A_en": "To start work", "A_hi": "काम करना शुरू करना",
+"B_en": "To take a nap", "B_hi": "एक नाप लेना",
+"C_en": "To go to bed", "C_hi": "बिस्तर पर जाना",
+"D_en": "To clean a room", "D_hi": "कमरा साफ करना",
+"answer": "C",
+"explanation_en": "'Hit the sack' means to go to sleep or go to bed.",
+"explanation_hi": "'हिट द सैक' का अर्थ सोने या बिस्तर पर जाने का है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What is the meaning of 'Cut the mustard'?",
+"question_hi": "'कट द मसूर्द' का अर्थ क्या है?",
+"A_en": "To fail completely", "A_hi": "पूरी तरह असफल होना",
+"B_en": "To perform adequately", "B_hi": "उचित रूप से प्रदर्शन करना",
+"C_en": "To make a mistake", "C_hi": "गलती करना",
+"D_en": "To waste money", "D_hi": "पैसा बर्बाद करना",
+"answer": "B",
+"explanation_en": "'Cut the mustard' means to perform well enough to meet expectations.",
+"explanation_hi": "'कट द मसूर्द' का अर्थ अपेक्षाओं को पूरा करने के लिए उचित रूप से प्रदर्शन करने का है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What does the phrase 'Spill the beans' mean?",
+"question_hi": "'स्पिल द बीन्स' वाक्यांश का अर्थ क्या है?",
+"A_en": "To reveal a secret", "A_hi": "एक रहस्य को खोलना",
+"B_en": "To waste food", "B_hi": "खाना बर्बाद करना",
+"C_en": "To plant crops", "C_hi": "फसलें लगाना",
+"D_en": "To cook beans", "D_hi": "मसूर बनाना",
+"answer": "A",
+"explanation_en": "'Spill the beans' means to accidentally or intentionally reveal a secret.",
+"explanation_hi": "'स्पिल द बीन्स' का अर्थ एक रहस्य के खुलासे के अनजाने में या इरादतन होने का है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What is the meaning of 'Burn the midnight oil'?",
+"question_hi": "'बर्न द मिडनाइट ऑयल' का अर्थ क्या है?",
+"A_en": "To waste money", "A_hi": "पैसा बर्बाद करना",
+"B_en": "To study late at night", "B_hi": "रात के समय अध्ययन करना",
+"C_en": "To sleep all day", "C_hi": "पूरा दिन सोया रहना",
+"D_en": "To cook dinner", "D_hi": "रात का भोजन बनाना",
+"answer": "B",
+"explanation_en": "'Burn the midnight oil' refers to working or studying hard until late at night.",
+"explanation_hi": "'बर्न द मिडनाइट ऑयल' रात के समय तक कठिन परिश्रम करने की ओर इशारा करता है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What does 'Get cold feet' mean?",
+"question_hi": "'गेट कोल्ड फीट' का अर्थ क्या है?",
+"A_en": "To lose confidence", "A_hi": "विश्वास खोना",
+"B_en": "To run a fever", "B_hi": "बुखार ला रहा है",
+"C_en": "To feel cold", "C_hi": "ठंडक महसूर करना",
+"D_en": "To walk slowly", "D_hi": "धीरे-धीरे चलना",
+"answer": "A",
+"explanation_en": "'Get cold feet' means to become nervous or lose confidence before an important event.",
+"explanation_hi": "'गेट कोल्ड फीट' महत्वपूर्ण घटना से पहले नर्वस हो जाने या विश्वास खो जाने का अर्थ है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What is the meaning of 'Kick the bucket'?",
+"question_hi": "'किक द बकेट' का अर्थ क्या है?",
+"A_en": "To cook food", "A_hi": "खाना बनाना",
+"B_en": "To die", "B_hi": "मर जाना",
+"C_en": "To clean a room", "C_hi": "कमरा साफ करना",
+"D_en": "To waste time", "D_hi": "समय बर्बाद करना",
+"answer": "B",
+"explanation_en": "'Kick the bucket' is an idiom meaning to die.",
+"explanation_hi": "'किक द बकेट' मर जाने का एक मुहावरा है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms and Phrases",
+"question_en": "What does 'Turn over a new leaf' mean?",
+"question_hi": "'टर्न ओवर अ न्यू लीफ' का अर्थ क्या है?",
+"A_en": "To start fresh", "A_hi": "नए शुरुआत करना",
+"B_en": "To plant a tree", "B_hi": "पेड़ लगाना",
+"C_en": "To write a letter", "C_hi": "एक पत्र लिखना",
+"D_en": "To cook a meal", "D_hi": "एक भोजन बनाना",
+"answer": "A",
+"explanation_en": "'Turn over a new leaf' means to make a fresh start or begin a new phase in life.",
+"explanation_hi": "'टर्न ओवर अ न्यू लीफ' जीवन में एक नई शुरुआत करने या एक नई अवधि के प्रारंभ करने का अर्थ है।"
+}
+]
