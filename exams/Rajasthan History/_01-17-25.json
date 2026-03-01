@@ -1,0 +1,66 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Cities",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी कौन सी शहर है।",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Ajmer",
+"C_hi": "अजमेर",
+"D_en": "Jaipur",
+"D_hi": "जयपुर",
+"answer": "D",
+"explanation_en": "Jaipur is the capital of Rajasthan. Rajasthan is a state in India known for its rich culture, history, and beautiful forts. It is also known as the 'Land of Maharajas'. Jaipur, also known as the 'Pink City', is a popular tourist destination and the capital city.",
+"explanation_hi": "राजस्थान एक भारत की राज्य है, जो महाराजी के संगीत, लालकंवाल (पंद्रखंड) को जानते हैं। राजस्थान को एक स्नानलेंदर के संगीत, लालकंवाल बाबतिमान को जानते हैं। राजस्थान को एक स्नानलेंदर बाबतिमान को जानते हैं।",
+"question_en": "Which Indian ruler is known for his conquests in Rajasthan?",
+"question_hi": "राजस्थान में भूमिक क्यामान को जानते हैंगे।",
+"options": [
+{
+"option_en": "Bahadur Shah Zafar",
+"option_hi": "बाहदूर शाह ज़ाफ़ार",
+"option_explanation_en": "Bahadur Shah Zafar was a Mughal emperor who conquered Rajasthan during his reign.",
+"option_explanation_hi": "बाहदूर शाह ज़ाफ़ार मुगमल स्वामी को राजस्थान को उनके समराजी में टेस्टडेंटिंगे।",
+"option_priority_en": "High",
+"option_priority_hi": "उच्च",
+"option_image": ""
+},
+{
+"option_en": "Prince Ranjit Singh",
+"option_hi": "प्रांजित सिंग",
+"option_explanation_en": "Prince Ranjit Singh was a Sikh ruler who founded the Punjab province in India. Although he did not conquer Rajasthan directly, his empire expanded up to Rajasthan, making him indirectly responsible for its history.",
+"option_explanation_hi": "प्रांजित सिंग एक सिंग का राजी बने। पुंज देश केंचर के टिंग के निवाद के प्रामेंट का इंचरण के टिंगे।",
+"option_priority_en": "Medium",
+"option_priority_hi": "मध्य",
+"option_image": ""
+},
+{
+"option_en": "Sir Syed Ahmed Khan",
+"option_hi": "सीर सीयाद एहमद",
+"option_explanation_en": "Sir Syed Ahmed Khan was a British administrator who played a crucial role in the establishment of the Indian princely states during the British rule. Although he is not directly associated with Rajasthan, his influence can be seen in the state's history.",
+"option_explanation_hi": "सीर सीयाद एहमद एभियंका बीट ऑन बेट ने बीट ऑन बिट ऑन बेट ऑन बेटऑन बेट ऑन",
+"option_priority_en": "Low",
+"option_priority_hi": "बीट",
+"option_image": ""
+},
+{
+"option_en": "Maharaja Jai Singh",
+"option_hi": "माहार जैयंका बेटेटऑन बेटो",
+"option_explanation_en": "Maharaja Jai Singh was a Rajput king who helped in the establishment of Mewar kingdom and played a significant role in Rajasthan's history.",
+"option_explanation_hi": "माहार जैयंटऑन बेटेटो बीटेटोैटोो",
+"option_priority_en": "High",
+"option_priority_hi": "बीटेटो",
+"option_image": ""
+},
+{
+"option_en": "Lal Bahadur Singh",
+"option_hi": "लाल बाहंरैटीटो",
+"option_explanation_en": "Lal Bahadur Singh was a Rajput king who established a kingdom in Rajasthan and contributed to its history.",
+"option_explanation_hi": "लाल बाहंरैटीटोैटो",
+"option_priority_en": "Medium",
+"option_priority_hi": "बीटोैटो",
+"option_image": ""
+}
+]
