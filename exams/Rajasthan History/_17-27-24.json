@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which fort was built by Rao Jodha in Jodhpur?",
+"question_hi": "राव जोध्दा रिपोर्ट किया गया किस किला के बाँध दिया गया था?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेहनगर किला",
+"B_en": "Udaipur Fort", "B_hi": "उदायपुर किला",
+"C_en": "Amer Fort", "C_hi": "अमेर किला",
+"D_en": "Jodhpur Fort", "D_hi": "जोधु किला",
+"answer": "D",
+"explanation_en": "Rao Jodha built the Jodhpur Fort (also known as Mehrangarh Fort) as his signature in 1459.",
+"explanation_hi": "1459 में Rao Jodha जोधु किला को उनके आखिरण करने के लिए गया था।",
+"explanation_hi": "1459 में Rao Jodha जोधु किला को उनकी आखिरण करने के लिए गया था।",
+"D_en": "Jodhpur Fort",
+"D_hi": "जोधु किला",
+"D_explanation": "Rao Jodha built the Jodhpur Fort in 1459 as his signature.",
+}
+]
