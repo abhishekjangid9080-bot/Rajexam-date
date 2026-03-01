@@ -1,0 +1,165 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality math MCQs for Rajasthan and other exams. The topics aren't specified, so I need to cover a range of common math areas like arithmetic, algebra, geometry, etc. Each question must have Hindi and English translations, with answers and explanations. 
+
+First, I'll start with arithmetic problems. Maybe percentages, ratios, and proportions. Then move to algebra for equations and quadratic problems. Geometry can include areas, triangles, or circles. Also, include some word problems for time and work or distance.
+
+Need to ensure the difficulty level is appropriate for the exams mentioned—LDC, CET, RAS, etc. So, not too basic but not too advanced. Each question should have four options, with one correct answer. The explanations should be clear and concise in both languages.
+
+Let me think of the first question. Perhaps a percentage problem. For example, calculating the percentage increase. Then a ratio problem where two quantities are compared. 
+
+Next, an algebra question solving for x in a linear equation. Then a geometry problem about the area of a triangle using coordinates. Another question on profit and loss. Time and work problem involving two people working together. 
+
+Quadratic equation solving with factoring. Maybe a problem on simple interest. Then an average question. Lastly, a problem on time, speed, and distance.
+
+I need to check that all the numbers make sense and the calculations are correct. Also, translate each question accurately into Hindi without losing the meaning. The options should be in both languages, and the answer key should be correct. Explanations need to clarify why the correct answer is right, maybe showing steps.
+
+Wait, the user provided an example with Rajasthan's capital, so the structure is clear. Each question must have subject, topic, question in both languages, options, answer, and explanations. The topic field is empty in the example, but maybe I should fill it with appropriate topics like "Percentage", "Ratio and Proportion", etc.
+
+Let me start drafting each question. For example:
+
+1. Percentage Increase: If the price of a product increases from 200 to 250, what's the percentage increase?
+2. Ratio Problem: Divide 120 in the ratio 2:3.
+3. Linear Equation: Solve 3x + 5 = 20.
+4. Geometry Area: Find the area of a triangle with coordinates (1,1), (4,1), (1,5).
+5. Profit and Loss: A shopkeeper sells a book for 270 Rs at a loss of 10%, find cost price.
+6. Time and Work: A can do a work in 10 days, B in 15 days. Together in how many days?
+7. Quadratic Equation: Solve x² - 5x + 6 = 0.
+8. Simple Interest: Find the interest on 5000 at 5% p.a. for 2 years.
+9. Average: Average of 5 numbers is 20, add 30, new average?
+10. Time, Speed: A car travels 60 kmph, how long to cover 180 km?
+
+Now, translating these into Hindi accurately. Ensuring options are shuffled properly. Answer keys must match. Explanations should be simple and in both languages. Check for any calculation errors. Once done, format into the required JSON structure without any extra text.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Percentage",
+    "question_en": "If the price of an item increases from ₹200 to ₹250, what is the percentage increase?",
+    "question_hi": "यदि किसी वस्तु की कीमत ₹200 से बढ़कर ₹250 हो जाती है, तो प्रतिशत वृद्धि क्या है?",
+    "A_en": "20%", "A_hi": "20%",
+    "B_en": "25%", "B_hi": "25%",
+    "C_en": "30%", "C_hi": "30%",
+    "D_en": "35%", "D_hi": "35%",
+    "answer": "B",
+    "explanation_en": "Percentage increase = ((250 - 200)/200) × 100 = 25%.",
+    "explanation_hi": "प्रतिशत वृद्धि = ((250 - 200)/200) × 100 = 25%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_en": "Divide ₹120 in the ratio 2:3.",
+    "question_hi": "₹120 को 2:3 अनुपात में विभाजित करें।",
+    "A_en": "₹48 and ₹72", "A_hi": "₹48 और ₹72",
+    "B_en": "₹30 and ₹90", "B_hi": "₹30 और ₹90",
+    "C_en": "₹50 and ₹70", "C_hi": "₹50 और ₹70",
+    "D_en": "₹60 and ₹60", "D_hi": "₹60 और ₹60",
+    "answer": "A",
+    "explanation_en": "Total parts = 2 + 3 = 5. 120 ÷ 5 = 24. 24 × 2 = 48, 24 × 3 = 72.",
+    "explanation_hi": "कुल भाग = 2 + 3 = 5। 120 ÷ 5 = 24। 24 × 2 = 48, 24 × 3 = 72।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question_en": "Solve for x: 3x + 5 = 20",
+    "question_hi": "x के लिए हल करें: 3x + 5 = 20",
+    "A_en": "5", "A_hi": "5",
+    "B_en": "6", "B_hi": "6",
+    "C_en": "4", "C_hi": "4",
+    "D_en": "3", "D_hi": "3",
+    "answer": "A",
+    "explanation_en": "3x = 20 - 5 → 3x = 15 → x = 5.",
+    "explanation_hi": "3x = 20 - 5 → 3x = 15 → x = 5।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "question_en": "Find the area of a triangle with vertices at (1,1), (4,1), and (1,5).",
+    "question_hi": "(1,1), (4,1), और (1,5) शीर्ष वाले त्रिभुज का क्षेत्रफल ज्ञात करें।",
+    "A_en": "6 sq. units", "A_hi": "6 वर्ग इकाई",
+    "B_en": "8 sq. units", "B_hi": "8 वर्ग इकाई",
+    "C_en": "12 sq. units", "C_hi": "12 वर्ग इकाई",
+    "D_en": "4 sq. units", "D_hi": "4 वर्ग इकाई",
+    "answer": "A",
+    "explanation_en": "Base = 3 (along x-axis), Height = 4 (along y-axis). Area = ½ × 3 × 4 = 6.",
+    "explanation_hi": "आधार = 3 (x-अक्ष के साथ), ऊंचाई = 4 (y-अक्ष के साथ)। क्षेत्रफल = ½ × 3 × 4 = 6।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_en": "A shopkeeper sells a book for ₹270 at a loss of 10%. What is the cost price?",
+    "question_hi": "एक दुकानदार एक पुस्तक ₹270 में बेचता है और 10% की हानि प्राप्त करता है। क्रय मूल्य क्या है?",
+    "A_en": "₹300", "A_hi": "₹300",
+    "B_en": "₹243", "B_hi": "₹243",
+    "C_en": "₹280", "C_hi": "₹280",
+    "D_en": "₹250", "D_hi": "₹250",
+    "answer": "A",
+    "explanation_en": "Let CP = x. 90% of x = 270 → x = 270 × (100/90) = 300.",
+    "explanation_hi": "माना कि क्रय मूल्य = x। x का 90% = 270 → x = 270 × (100/90) = 300।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "question_en": "A can complete a work in 10 days, and B in 15 days. How many days will they take together?",
+    "question_hi": "A किसी काम को 10 दिन में पूरा कर सकता है, और B 15 दिन में। वे एकसाथ कितने दिन में करेंगे?",
+    "A_en": "6 days", "A_hi": "6 दिन",
+    "B_en": "8 days", "B_hi": "8 दिन",
+    "C_en": "12 days", "C_hi": "12 दिन",
+    "D_en": "10 days", "D_hi": "10 दिन",
+    "answer": "A",
+    "explanation_en": "Work done in 1 day: A = 1/10, B = 1/15. Together = 1/10 + 1/15 = 5/30 = 1/6. Total days = 6.",
+    "explanation_hi": "1 दिन में काम: A = 1/10, B = 1/15। एकसाथ = 1/10 + 1/15 = 5/30 = 1/6। कुल दिन = 6।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "question_en": "Solve: x² - 5x + 6 = 0",
+    "question_hi": "हल करें: x² - 5x + 6 = 0",
+    "A_en": "2,3", "A_hi": "2,3",
+    "B_en": "1,4", "B_hi": "1,4",
+    "C_en": "3,4", "C_hi": "3,4",
+    "D_en": "2,5", "D_hi": "2,5",
+    "answer": "A",
+    "explanation_en": "Factorize: (x - 2)(x - 3) = 0 → x = 2, 3.",
+    "explanation_hi": "गुणनखंड: (x - 2)(x - 3) = 0 → x = 2, 3।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Simple Interest",
+    "question_en": "What is the simple interest on ₹5000 for 2 years at 5% per annum?",
+    "question_hi": "₹5000 पर 2 वर्षों में 5% वार्षिक ब्याज दर से साधारण ब्याज कितना होगा?",
+    "A_en": "₹500", "A_hi": "₹500",
+    "B_en": "₹250", "B_hi": "₹250",
+    "C_en": "₹1000", "C_hi": "₹1000",
+    "D_en": "₹600", "D_hi": "₹600",
+    "answer": "A",
+    "explanation_en": "SI = (5000 × 5 × 2)/100 = 500.",
+    "explanation_hi": "साधारण ब्याज = (5000 × 5 × 2)/100 = 500।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Average",
+    "question_en": "The average of 5 numbers is 20. What is the new average if 30 is added?",
+    "question_hi": "पांच संख्याओं का औसत 20 है। यदि 30 जोड़ दिया जाए, तो नया औसत क्या होगा?",
+    "A_en": "22", "A_hi": "22",
+    "B_en": "24", "B_hi": "24",
+    "C_en": "25", "C_hi": "25",
+    "D_en": "26", "D_hi": "26",
+    "answer": "C",
+    "explanation_en": "Total of 5 numbers = 5 × 20 = 100. New total = 100 + 30 = 130. New average = 130/6 ≈ 21.67 ≈ 22.",
+    "explanation_hi": "पांच संख्याओं का कुल = 5 × 20 = 100। नया कुल = 100 + 30 = 130। नया औसत = 130/6 ≈ 21.67 ≈ 22।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Time, Speed, and Distance",
+    "question_en": "A car travels at 60 km/h. How long does it take to cover 180 km?",
+    "question_hi": "एक कार 60 किमी/घंटा की गति से यात्रा करती है। 180 किमी की दूरी तय करने में कितना समय लगेगा?",
+    "A_en": "3 hours", "A_hi": "3 घंटे",
+    "B_en": "2 hours", "B_hi": "2 घंटे",
+    "C_en": "4 hours", "C_hi": "4 घंटे",
+    "D_en": "5 hours", "D_hi": "5 घंटे",
+    "answer": "A",
+    "explanation_en": "Time = Distance/Speed = 180/60 = 3 hours.",
+    "explanation_hi": "समय = दूरी/गति = 180/60 = 3 घंटे।"
+  }
+]
