@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital & Famous forts",
+"question_en": "Which famous fort is associated with the capital city of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी के संबंधित एक पहले क्या है?",
+"A_en": "Amer Fort", "A_hi": "आमे कठ",
+"B_en": "Chittorgarh Fort", "B_hi": "चैटर्जरगढ़ कठ",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाज़ार",
+"D_en": "Hawa Mahal", "D_hi": "हवा महाल",
+"answer": "B",
+"explanation_en": "Amer Fort is the name of a city, while Chittorgarh Fort is a historical fort in Rajasthan. Chittorgarh Fort is associated with the capital city of Rajasthan.",
+"explanation_hi": "आमे कठ एक जिला है, लेकिन चैटर्जरगढ़ कठ राजस्थान में एक भवन है। चैटर्जरगढ़ कठ राजस्थान के लग्न आध्यांक है।",
+"explanation_hi": "आमे कठ एक जिला है। चैटर्जरगढ़ कठ राजस्थान के लग्न आध्यांक है।",
+"answer": "B",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की लग्न क्या है।",
+}
+]
