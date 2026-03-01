@@ -1,0 +1,169 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for General English, focusing on the given topics. Let me start by understanding the requirements. The user wants questions in both Hindi and English, with answers and explanations. The format must be strict JSON as per the example.
+
+First, I should identify the topics under General English. Since the user didn't specify, I'll cover common areas like grammar, vocabulary, sentence correction, idioms, etc. Let me brainstorm some topics. Maybe 2 from grammar, 2 from vocabulary, 2 from sentence correction, 2 from idioms, and 2 from comprehension.
+
+For each question, I need to ensure the options are in both languages. Let me start with a grammar question. Subject-verb agreement is a common area. For example, "The group of students...". The correct answer would be "are" because the subject is plural. Let me phrase that.
+
+Next, a vocabulary question. Maybe a synonym for "abundant". The answer is "plentiful". Then an antonym for "fragile". The answer would be "sturdy". 
+
+Sentence correction: "Neither of the candidates are selected." The correct answer is "is" because "neither" is singular. Another correction: "She don't like apples." The correct verb should be "doesn't".
+
+Idioms: "Spill the beans" means to reveal a secret. Another idiom: "Hit the sack" means to go to sleep.
+
+Comprehension: A short passage about renewable energy, then a question asking the main idea. The answer would be that renewable energy is important for sustainability.
+
+I need to make sure all options are in both languages. For example, the first question's options: "are", "is", "am", "be". Translating those into Hindi accurately. Also, explanations in both languages.
+
+Wait, let me check the example structure. The example had a question about the capital of Rajasthan. The answer was B, with explanation in both languages. I need to follow that. Each question must have the same structure.
+
+I should also ensure that the difficulty level is set appropriately for exams like LDC, CET, RAS, SSC, and Railway. They need to be standard but not too easy. Avoid any tricky options that might confuse.
+
+Let me start drafting the first question. Grammar: Subject-verb agreement. The sentence is "The group of students ___ going to the picnic today." The correct answer is "are" because "group" is considered singular in some contexts, but here "students" is plural. Wait, actually, "group of students" is a collective noun. Depending on the usage, sometimes it's treated as singular, sometimes plural. In this case, since the focus is on the students, maybe "are" is correct. But I need to confirm. Let me check a grammar source. Yes, when the focus is on the individuals in the group, the plural verb is used. So, "are" is correct.
+
+Another question on tenses: "By the time I reached the station, the train ___." The correct answer is "had left" (past perfect). Options would be "left", "has left", "had left", "leaves".
+
+For the synonym question: "Choose the synonym for 'abundant'." Options: "Scarce", "Plentiful", "Rare", "Meager". The correct answer is "Plentiful".
+
+Antonym question: "Choose the antonym for 'fragile'." Options: "Sturdy", "Brittle", "Delicate", "Fragile". The answer is "Sturdy".
+
+Idiom: "Spill the beans" means "reveal a secret". Options include other meanings like "start a fight", "go to sleep", etc.
+
+Sentence correction: "Neither of the candidates are selected." Correct is "is selected" because "neither" is singular. The options would have the correct answer.
+
+Comprehension passage: "Renewable energy sources are becoming increasingly important due to their sustainability..." Then a question asking the main idea. The answer is that they are important for sustainability.
+
+Now, translating all these into Hindi accurately. For example, "Spill the beans" translates to "गुप्त बात सुनाना" (reveal a secret). Need to ensure translations are correct and options are in proper Hindi.
+
+Each question must have the subject as "General English", the topic filled correctly. Wait, the user didn't specify the topic, but in the example, it was left empty. Wait, looking back at the user's instructions: "Topic: " – it's empty. So perhaps the topic should be filled in. Wait, the example shows "topic": "" but maybe the user wants a specific topic. But since the user hasn't provided a specific topic, maybe it's left blank. However, in the example, the topic was not filled. Wait, the user's example had "topic": "" but in their example, the user left it empty. So perhaps I should leave the topic as an empty string. But maybe the user wants the topic to be filled. Wait, the user's instruction says: "Niche diye gaye Subject aur Topic par 10 high-quality MCQ taiyar karein." So the user provided the subject (General English) and topic (empty). So the topic should be filled as per the question. Wait, no, the user didn't specify the topic. The task is to create questions on General English, but the topic is not specified. So perhaps each question can have a topic like "Grammar", "Vocabulary", etc. But in the example, the topic was left empty. Wait, looking back at the user's example: the example JSON shows the topic as an empty string. So maybe the user wants the topic to be left empty. But that might not be helpful. Alternatively, maybe the user wants each question to have a specific topic. But since they didn't specify, perhaps it's better to leave the topic as an empty string as in the example.
+
+Wait, the user's instruction says: "Topic: " – they left it blank. So perhaps the user wants the topic to be filled in by me. For example, in the example, the topic is left empty. So maybe I should leave it empty as well. But that might not be helpful. Alternatively, maybe the user expects the topic to be something like "Grammar", "Vocabulary", etc. But since the user didn't specify, I should follow the example and leave it as an empty string.
+
+So, proceed with the topic as an empty string, and each question's topic is empty.
+
+Now, let me structure each question with the required fields. The JSON array must have 10 objects, each with subject, topic, question_en, question_hi, options A to D in both languages, answer, and explanations in both languages.
+
+Let me start creating the questions one by one, ensuring the translations are accurate and the answers are correct. Also, check for any typos or errors in the explanations.
+
+First question: Subject-verb agreement. The group of students ___ going to the picnic. Answer: are. Explanation in both languages.
+
+Second question: Synonym for abundant. Answer: plentiful.
+
+Third: Antonym for fragile. Answer: sturdy.
+
+Fourth: Tense correction. By the time I reached, the train ___ had left.
+
+Fifth: Idiom meaning. Spill the beans.
+
+Sixth: Sentence correction. Neither of the candidates are selected. Correct: is.
+
+Seventh: Correct use of preposition. She is interested ___ the movie. Answer: in.
+
+Eighth: Comprehension. Passages about renewable energy. Question on main idea.
+
+Ninth: Correct use of articles. He is ___ honest man. Answer: an.
+
+Tenth: Correct use of comparative. This problem is ___ difficult than the previous one. Answer: more.
+
+Now, translating all these into Hindi, ensuring the options are correctly translated.
+
+For example, the question about "spill the beans" in Hindi: "गुप्त बात सुनाना" for option D.
+
+Each explanation must be in both languages. For example, the first question's explanation: "The group of students is singular when considered as a collective noun, but in this context, the focus is on the students, so the plural verb 'are' is used." In Hindi: "छात्रों के समूह को एकल रूप में लिया जाता है, लेकिन इस संदर्भ में छात्रों पर ध्यान दिया जा रहा है, इसलिए बहुवचन क्रिया 'हैं' का उपयोग किया जाता है।"
+
+I need to ensure that all translations are accurate and that the options are correctly presented. Also, the answer letters (A, B, C, D) should correspond correctly to the options.
+
+Once all questions are drafted, I'll review them for consistency, correctness, and adherence to the JSON structure. Finally, compile them into the required JSON array.
+</think>
+
+[
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Choose the correct form of the verb to complete the sentence: 'The group of students ___ going to the picnic today.'",
+    "question_hi": "वाक्य को पूरा करने के लिए सही क्रिया रूप का चयन करें: 'छात्रों के समूह ___ आज अवकाश यात्रा गया।'",
+    "A_en": "is", "A_hi": "है",
+    "B_en": "are", "B_hi": "हैं",
+    "C_en": "am", "C_hi": "मैं हूँ",
+    "D_en": "be", "D_hi": "होना",
+    "answer": "B",
+    "explanation_en": "The group of students is singular when considered as a collective noun, but in this context, the focus is on the students, so the plural verb 'are' is used.",
+    "explanation_hi": "छात्रों के समूह को एकल रूप में लिया जाता है, लेकिन इस संदर्भ में छात्रों पर ध्यान दिया जा रहा है, इसलिए बहुवचन क्रिया 'हैं' का उपयोग किया जाता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Select the synonym for 'abundant'.",
+    "question_hi": "'बहुतायत' के लिए समानार्थक शब्द चुनें।",
+    "A_en": "Scarce", "A_hi": "कम उपलब्ध",
+    "B_en": "Plentiful", "B_hi": "प्रचुर मात्रा में",
+    "C_en": "Rare", "C_hi": "दुर्लभ",
+    "D_en": "Meager", "D_hi": "कम",
+    "answer": "B",
+    "explanation_en": "'Plentiful' means available in large quantities, which is the synonym for 'abundant'.",
+    "explanation_hi": "'प्रचुर मात्रा में' का अर्थ बड़ी मात्रा में उपलब्ध होना है, जो 'बहुतायत' का समानार्थक शब्द है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Identify the antonym of 'fragile'.",
+    "question_hi": "'भंगुर' का विपरीतार्थक शब्द पहचानें।",
+    "A_en": "Sturdy", "A_hi": "मजबूत",
+    "B_en": "Brittle", "B_hi": "कमजोर",
+    "C_en": "Delicate", "C_hi": "प्रवण",
+    "D_en": "Fragile", "D_hi": "भंगुर",
+    "answer": "A",
+    "explanation_en": "'Sturdy' means strong and solid, making it the antonym of 'fragile'.",
+    "explanation_hi": "'मजबूत' का अर्थ मजबूत और ठोस होना है, जो 'भंगुर' का विपरीतार्थक है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Correct the sentence: 'By the time I reached the station, the train ___.'",
+    "question_hi": "वाक्य को सही करें: 'मैंने स्टेशन तक पहुँचने के बाद, ट्रेन ___।'",
+    "A_en": "left", "A_hi": "चल गई",
+    "B_en": "has left", "B_hi": "चल गई है",
+    "C_en": "had left", "C_hi": "चल गई थी",
+    "D_en": "leaves", "D_hi": "चलती है",
+    "answer": "C",
+    "explanation_en": "The past perfect tense 'had left' is used to describe an action that occurred before another past action.",
+    "explanation_hi": "क्रिया को दूसरी क्रिया से पहले होने के लिए अतीत के पूर्ण भूतकाल का उपयोग किया जाता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "What does the idiom 'spill the beans' mean?",
+    "question_hi": "'गुप्त बात सुनाना' इडियम का क्या अर्थ है?",
+    "A_en": "To start a fight", "A_hi": "एक झगड़ा शुरू करना",
+    "B_en": "To go to sleep", "B_hi": "नींद में जाना",
+    "C_en": "To reveal a secret", "C_hi": "एक रहस्य खोलना",
+    "D_en": "To take revenge", "D_hi": "बदला लेना",
+    "answer": "C",
+    "explanation_en": "'Spill the beans' means to expose or reveal information, especially secrets.",
+    "explanation_hi": "'गुप्त बात सुनाना' का अर्थ जानकारी का खुलासा करना है, खासकर रहस्य।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Correct the sentence: 'Neither of the candidates are selected.'",
+    "question_hi": "वाक्य को सही करें: 'दोनों उम्मीदवार चुने गए हैं।'",
+    "A_en": "is selected", "A_hi": "चुना गया है",
+    "B_en": "are selected", "B_hi": "चुने गए हैं",
+    "C_en": "was selected", "C_hi": "चुना गया था",
+    "D_en": "have selected", "D_hi": "निर्वाचित किया गया",
+    "answer": "A",
+    "explanation_en": "The subject 'neither' is singular, so the correct verb is 'is' even though the noun is plural.",
+    "explanation_hi": "'न तो' विषम विषय है, इसलिए सही क्रिया 'है' होगी भले ही विषय बहुवचन हो।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Choose the correct preposition to complete the sentence: 'She is interested ___ the movie.'",
+    "question_hi": "वाक्य को पूरा करने के लिए सही सम्मुख शब्द चुनें: 'वह फिल्म ___ रुचि रखती है।'",
+    "A_en": "on", "A_hi": "पर",
+    "B_en": "in", "B_hi": "में",
+    "C_en": "at", "C_hi": "पर",
+    "D_en": "to", "D_hi": "को",
+    "answer": "B",
+    "explanation_en": "The preposition 'in' is used with 'interested' to show interest in something.",
+    "explanation_hi": "'रुचि रखना' के साथ 'में' सम्मुख शब्द का उपयोग कुछ में रुचि प्रकट करन
