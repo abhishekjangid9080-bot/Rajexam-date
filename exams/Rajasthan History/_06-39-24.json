@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the author of 'Panchasheela'?",
+"question_hi": "‘पञ्चशेखा’ के लेखक कौन है।",
+"A_en": "Jaswant Thada",
+"A_hi": "जस्वान तडा",
+"B_en": "Samar Singh",
+"B_hi": "समर सिंग",
+"C_en": "Pratap Singh",
+"C_hi": "प्रताप सिंग",
+"D_en": "Man Singh",
+"D_hi": "मन सिंग",
+"answer": "D",
+"explanation_en": "Man Singh is the author of 'Panchasheela'.",
+"explanation_hi": "पञ्चशेखा के लेखक मन सिंग है।",
+}
+]
