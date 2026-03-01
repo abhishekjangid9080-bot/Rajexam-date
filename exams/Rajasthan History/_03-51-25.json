@@ -1,0 +1,77 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Maharaja Jai Singh II in Jaipur?",
+"question_hi": "महाराजा जैसिंग सी ने जैपुर में किया गया एक उच्च प्राचीन फोट, जो उसकी प्रमोजेन से बना हुआ है।",
+"options": [
+{
+"option_en": "Amber Fort",
+"option_hi": "प्रमोजेन",
+"answer": "A",
+"explanation_en": "Amber Fort is the famous ancient fort built by Maharaja Jai Singh II in Jaipur.",
+"explanation_hi": "प्रमोजेन को महाराजा जैसिंग सी ने बना हुआ है।"
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "हाउवा महाल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace in Jaipur, but it was built by Maharaja Sawai Pratap Singh.",
+"explanation_hi": "हाउवा महाल एक दुखा स्पन है जो महाराजा सावा प्रातप सिंग ने बना होंगा।",
+},
+{
+"option_en": "City Palace",
+"option_hi": "शीराजम",
+"answer": "C",
+"explanation_en": "City Palace is another famous monument in Jaipur, built by Maharaja Ram Singh II.",
+"explanation_hi": "शीराजम एक दुखा स्पन होंगा, जो महाराजा राम सिंग II ने बना होंगा।",
+},
+{
+"option_en": "Rampura Palace",
+"option_hi": "रामपुरा पैलेस",
+"answer": "D",
+"explanation_en": "Rampura Palace is a lesser-known monument, built by Maharaja Sawai Jai Singh II.",
+"explanation_hi": "रामपुरा पैलेस एक करनी यांगा होंगा, जो महाराजा सावाई जय सिंगी सी II ने बना होंगा।",
+},
+{
+"option_en": "Taj Mahal",
+"option_hi": "ताजमहाल",
+"answer": "E",
+"explanation_en": "Taj Mahal is a Mughal monument located in Agra, not in Rajasthan.",
+"explanation_hi": "ताजमहाल एगार में राजस्थ में रहेंगा, नहीं।",
+},
+{
+"option_en": "Amber Fort",
+"option_hi": "अंबर फोट",
+"answer": "F",
+"explanation_en": "Amber Fort is a famous monument in Jaipur, built by the Rajput rulers.",
+"explanation_hi": "अंबर फोट जापुरेंगा, राजपुर में रहेंगा, राजपुर में रहेंगा।",
+},
+{
+"option_en": "Jantar Mantar",
+"option_hi": "जंतर मांटर",
+"answer": "G",
+"explanation_en": "Jantar Mantar is an astronomical observatory built by Raja Jai Singh II, a Rajput ruler.",
+"explanation_hi": "जंतर मांटर एक राजपुर राजीजी ने बना, राजपुर राजीजी।",
+},
+{
+"option_en": "Meena Bazaar",
+"option_hi": "मेना बाजार",
+"answer": "H",
+"explanation_en": "Meena Bazaar is a famous market in Jaipur, not a monument or historical place.",
+"explanation_hi": "मेना बाजार एक जैपुर जैपुर जैपर",
+},
+{
+"option_en": "Amber Fort",
+"option_hi": "अंबर फोट",
+"answer": "I",
+"explanation_en": "Amber Fort is a historic fort near Jaipur, not a monument or market.",
+"explanation_hi": "अंबर फोट एक जैपैपर",
+},
+{
+"option_en": "Samode",
+"option_hi": "समोद",
+"answer": "J",
+"explanation_en": "Samode is a village and not a monument or historical place.",
+"explanation_hi": "समोद एक जैपर",
+}]
