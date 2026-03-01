@@ -1,0 +1,162 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality MCQs in General English for exams like Rajasthan State Exams, SSC, and Railway. The instructions specify that each question and options should be in both Hindi and English, following the Testbook style. The JSON structure example is provided, so I need to make sure the format is strictly adhered to.
+
+First, I need to cover various topics under General English. Let me brainstorm some topics: Tenses, Prepositions, Synonyms, Sentence Correction, Active/Passive Voice, Direct/Indirect Narration, Parts of Speech, Articles, and Comprehension.
+
+For each question, I have to create an English and Hindi version. The answers need to be in options A, B, C, D. The explanations should be concise and accurate.
+
+Let me start with the first question on Tenses. The sentence could be "He ______ to the market yesterday." The correct tense is Past Simple, so "went". The options should include common mistakes like "go", "gone", "goes". Then translate all into Hindi.
+
+Next, Prepositions. A question like "The book is ______ the table." Correct answer is "on". Mistakes could be "in", "at", "on top". Translate accordingly.
+
+Synonyms: Pick a word like "Eloquent". Options are "Speechless", "Wordy", "Fluent", "Mute". The correct is "Fluent".
+
+Sentence Correction: "She don't like apples." Correct is "Doesn't". Options need to include wrong tenses or subject-verb agreement errors.
+
+Active/Passive Voice: "The chef is cooking a dish." Passive would be "A dish is being cooked by the chef."
+
+Direct/Indirect: Direct: "He said, 'I am tired.'" Indirect: "He said that he was tired."
+
+Parts of Speech: Identify the verb in "She sings a song." The verb is "sings".
+
+Articles: "I need ___ book." Answer is "a".
+
+Comprehension: Short passage about a library, question on the main idea.
+
+I need to ensure the difficulty level is appropriate for the target exams. Also, check that translations are accurate and the options are plausible. Each question should have one correct answer and three distractors. Explanations should clarify why the correct answer is right and why others are wrong.
+
+Let me go through each question step by step, making sure no format errors in JSON. Check for consistency in the structure and proper use of commas and brackets. Avoid any markdown as per instructions. Only the raw JSON should be outputted.
+</think>
+
+[
+{
+"subject": "General English",
+"topic": "Tenses",
+"question_en": "He ______ to the market yesterday.",
+"question_hi": "वह कल बाजार ______ गया था।",
+"A_en": "go", "A_hi": "जाता",
+"B_en": "went", "B_hi": "गया",
+"C_en": "gone", "C_hi": "गया है",
+"D_en": "goes", "D_hi": "जाता है",
+"answer": "B",
+"explanation_en": "The past simple tense is used for actions completed in the past.",
+"explanation_hi": "पिछले कार्यों के लिए 'पास्ट सिम्पल' टेंस का उपयोग किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Prepositions",
+"question_en": "The book is ______ the table.",
+"question_hi": "पुस्तक मेज की ______ है।",
+"A_en": "in", "A_hi": "में",
+"B_en": "on", "B_hi": "पर",
+"C_en": "at", "C_hi": "पर",
+"D_en": "on top", "D_hi": "ऊपर",
+"answer": "B",
+"explanation_en": "'On' is used to indicate position above a surface.",
+"explanation_hi": "'पर' का उपयोग सतह के ऊपर स्थिति को दर्शाने के लिए किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Synonyms",
+"question_en": "Find the synonym of 'Eloquent'.",
+"question_hi": "'यशस्वी' का समानार्थी शब्द ज्ञात कीजिए।",
+"A_en": "Speechless", "A_hi": "बोले बिना",
+"B_en": "Wordy", "B_hi": "बोले बिना",
+"C_en": "Fluent", "C_hi": "बेजान",
+"D_en": "Mute", "D_hi": "मूक",
+"answer": "C",
+"explanation_en": "'Eloquent' means fluent or persuasive in speaking or writing.",
+"explanation_hi": "'यशस्वी' का अर्थ होता है बोलने या लिखने में अभिव्यक्तिशील या बहुत प्रभावशाली।"
+},
+{
+"subject": "General English",
+"topic": "Sentence Correction",
+"question_en": "Correct the sentence: She don't like apples.",
+"question_hi": "वाक्य के त्रुटि मुक्त रूप को ज्ञात कीजिए: वह सेब नहीं पसंद करती।",
+"A_en": "She doesn't like apples.", "A_hi": "वह सेब नहीं पसंद करती।",
+"B_en": "She not like apples.", "B_hi": "वह सेब नहीं पसंद करती।",
+"C_en": "She is not likes apples.", "C_hi": "वह सेब पसंद नहीं करती।",
+"D_en": "She do not like apples.", "D_hi": "वह सेब नहीं पसंद करती।",
+"answer": "A",
+"explanation_en": "'Doesn't' is the correct contraction for third-person singular negative.",
+"explanation_hi": "'नहीं' के लिए 'Doesn't' तृतीय व्यक्ति एकवचन के लिए सही संक्षिप्त रूप है।"
+},
+{
+"subject": "General English",
+"topic": "Active/Passive Voice",
+"question_en": "Change the sentence to passive voice: The chef is cooking a dish.",
+"question_hi": "वाक्य को प्रक्रियात्मक रूप में परिवर्तित कीजिए: रसोइया एक पकवान बना रहा है।",
+"A_en": "A dish is being cooked by the chef.", "A_hi": "एक पकवान रसोइया द्वारा बनाया जा रहा है।",
+"B_en": "A dish is cooked by the chef.", "B_hi": "एक पकवान रसोइया द्वारा बनाया जाता है।",
+"C_en": "A dish was cooked by the chef.", "C_hi": "एक पकवान रसोइया द्वारा बनाया गया था।",
+"D_en": "The chef has cooked a dish.", "D_hi": "रसोइया ने एक पकवान बना दिया है।",
+"answer": "A",
+"explanation_en": "Passive voice uses 'is being cooked' for ongoing actions.",
+"explanation_hi": "अपने आप बनाने के लिए 'बनाया जा रहा है' का उपयोग चल रहे कार्यों के लिए किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Direct/Indirect Narration",
+"question_en": "Convert to indirect speech: He said, 'I am tired.'",
+"question_hi": "अप्रत्यक्ष बोलचाल में परिवर्तित कीजिए: उसने कहा, 'मैं थका हुआ हूं।'",
+"A_en": "He said that he is tired.", "A_hi": "उसने कहा कि वह थका हुआ है।",
+"B_en": "He said that he was tired.", "B_hi": "उसने कहा कि वह थका हुआ था।",
+"C_en": "He says that he is tired.", "C_hi": "वह कहता है कि वह थका हुआ है।",
+"D_en": "He said that he will be tired.", "D_hi": "उसने कहा कि वह थका हुआ होगा।",
+"answer": "B",
+"explanation_en": "Indirect narration requires past tense for reported speech.",
+"explanation_hi": "अप्रत्यक्ष बोलचाल में बताए गए शब्दों के लिए पिछले समय का उपयोग किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Parts of Speech",
+"question_en": "Identify the verb in the sentence: 'She sings a song.'",
+"question_hi": "वाक्य में क्रिया की पहचान करें: 'वह एक गाना गाती है।'",
+"A_en": "She", "A_hi": "वह",
+"B_en": "sings", "B_hi": "गाती है",
+"C_en": "a", "C_hi": "एक",
+"D_en": "song", "D_hi": "गाना",
+"answer": "B",
+"explanation_en": "The verb 'sings' shows the action performed by the subject.",
+"explanation_hi": "क्रिया 'गाती है' विषय द्वारा किए गए कार्य को दर्शाती है।"
+},
+{
+"subject": "General English",
+"topic": "Articles",
+"question_en": "Fill in the blank: I need ___ book.",
+"question_hi": "रिक्त स्थान की पूर्ति करें: मुझे ___ पुस्तक की आवश्यकता है।",
+"A_en": "an", "A_hi": "एक",
+"B_en": "the", "B_hi": "वह",
+"C_en": "a", "C_hi": "एक",
+"D_en": "no article", "D_hi": "कोई भी नहीं",
+"answer": "C",
+"explanation_en": "'A' is used for a non-specific singular noun.",
+"explanation_hi": "'एक' एक अस्पष्ट एकवचन शब्द के लिए उपयोग किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Comprehension",
+"question_en": "What is the main idea of the passage about ancient libraries?",
+"question_hi": "प्राचीन पुस्तकालयों पर अनुच्छेद का मुख्य विचार क्या है?",
+"A_en": "Importance of books", "A_hi": "पुस्तकों के महत्व",
+"B_en": "History of libraries", "B_hi": "पुस्तकालयों का इतिहास",
+"C_en": "Ancient writing materials", "C_hi": "प्राचीन लेखन सामग्री",
+"D_en": "Modern library systems", "D_hi": "आधुनिक पुस्तकालय प्रणालियाँ",
+"answer": "B",
+"explanation_en": "The passage discusses the evolution and significance of ancient libraries.",
+"explanation_hi": "अनुच्छेद प्राचीन पुस्तकालयों के विकास और महत्व पर चर्चा करता है।"
+},
+{
+"subject": "General English",
+"topic": "Error Spotting",
+"question_en": "Identify the incorrect part: He was (A) going to market (B) when it (C) suddenly rain (D).",
+"question_hi": "त्रुटि वाले भाग की पहचान करें: वह (A) बाजार जाने वाला था (B) जब अचानक (C) बारिश हुई (D).",
+"A_en": "He was", "A_hi": "वह था",
+"B_en": "going to market", "B_hi": "बाजार जाने वाला था",
+"C_en": "it", "C_hi": "यह",
+"D_en": "suddenly rain", "D_hi": "अचानक बारिश हुई",
+"answer": "D",
+"explanation_en": "The correct verb form should be 'rained' to match the past tense.",
+"explanation_hi": "गति के समय के अनुसार 'बारिश हुई' के स्थान पर 'बारिश हो रही थी' का उपयोग किया जाना चाहिए।"
+}
+]
