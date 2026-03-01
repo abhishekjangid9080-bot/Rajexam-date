@@ -1,0 +1,169 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions on Transport GK for exams like Rajasthan State Exams (LDC, CET, RAS), SSC, and Railway (NTPC). Let me start by recalling key points in transport-related topics. 
+
+First, I should cover different modes of transport: road, rail, air, and water. Maybe include some specific to Rajasthan. For example, the Rajdhani Express or the Rajasthan State Road Transport Corporation. Also, notable airports, ports, and highways in the state.
+
+I need to ensure the questions are in both Hindi and English. The options should be accurate and the difficulty level appropriate for the mentioned exams. Let me brainstorm some topics:
+
+1. National Highways in Rajasthan.
+2. Railways: Rajdhani Express details.
+3. Airports: Jaipur International Airport.
+4. State transport corporations: Rajasthan State Road Transport Corporation.
+5. Major ports in India relevant to Rajasthan.
+6. Metro rail projects in Rajasthan.
+7. Important railway junctions in Rajasthan.
+8. Inland water transport in Rajasthan.
+9. National Waterways in India related to Rajasthan.
+10. Transport policies or initiatives in Rajasthan.
+
+Now, for each topic, I'll formulate a question. Let me check for accuracy. For example, the longest national highway in Rajasthan is NH 8. The Rajdhani Express connects Delhi to Rajasthan cities. The state transport corporation is RSTC. Jaipur's airport is Sanganer. 
+
+Wait, I should verify the details. NH 8 runs from Delhi to Mumbai via Ahmedabad, but in Rajasthan, NH 8 passes through. The longest national highway in Rajasthan might be NH 25 or NH 48? Wait, maybe I need to confirm. Let me think, NH 48 connects Delhi to Mumbai via Agra and Ahmedabad, passing through Rajasthan. So NH 48 might be longer in Rajasthan compared to others. 
+
+Also, the Rajdhani Express is a key point. The Rajdhani Express runs from Delhi to cities like Jaipur, Udaipur, etc. So a question on Rajdhani Express connecting Delhi to Jaipur would be good. 
+
+For airports, besides Jaipur (Sanganer), there's Jodhpur and Udaipur airports. But Jaipur is the main one. 
+
+Railway junctions: Ajmer is a major junction in Rajasthan. 
+
+Metro projects: Jaipur Metro is operational. 
+
+Inland water transport: Rajasthan doesn't have a major port, but maybe mention the nearest port for exports. 
+
+National Waterways: Maybe the Ganga River for NW-1, but Rajasthan isn't directly connected unless via NW-2 or others. 
+
+Let me start drafting the questions with these points. Ensure the options are in both languages, explanations are clear, and the answers are correct. Check for any possible errors in the information. For example, confirming the number of the national highway or the correct names of the transport corporations.
+</think>
+
+[
+    {
+        "subject": "Transport GK",
+        "topic": "National Highways in Rajasthan",
+        "question_en": "Which national highway is the longest in Rajasthan?",
+        "question_hi": "राजस्थान में सबसे लंबा राष्ट्रीय राजमार्ग कौन सा है?",
+        "A_en": "NH 8", "A_hi": "एनएच 8",
+        "B_en": "NH 48", "B_hi": "एनएच 48",
+        "C_en": "NH 25", "C_hi": "एनएच 25",
+        "D_en": "NH 44", "D_hi": "एनएच 44",
+        "answer": "B",
+        "explanation_en": "NH 48 passes through Rajasthan and is the longest national highway in the state.",
+        "explanation_hi": "एनएच 48 राजस्थान से गुजरता है और राज्य में सबसे लंबा राष्ट्रीय राजमार्ग है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Railways",
+        "question_en": "Which Rajdhani Express connects Delhi to Jaipur?",
+        "question_hi": "दिल्ली से जयपुर तक कौन सी राजधानी एक्सप्रेस संबंधित है?",
+        "A_en": "Jaipur Rajdhani Express", "A_hi": "जयपुर राजधानी एक्सप्रेस",
+        "B_en": "Udaipur Rajdhani Express", "B_hi": "उदयपुर राजधानी एक्सप्रेस",
+        "C_en": "Jodhpur Rajdhani Express", "C_hi": "जोधपुर राजधानी एक्सप्रेस",
+        "D_en": "Ajmer Rajdhani Express", "D_hi": "अजमेर राजधानी एक्सप्रेस",
+        "answer": "A",
+        "explanation_en": "Jaipur Rajdhani Express is the Rajdhani Express connecting Delhi to Jaipur.",
+        "explanation_hi": "जयपुर राजधानी एक्सप्रेस दिल्ली से जयपुर तक जुड़ती है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Airports",
+        "question_en": "Which is the international airport in Rajasthan?",
+        "question_hi": "राजस्थान का अंतरराष्ट्रीय हवाई अड्डा कौन सा है?",
+        "A_en": "Jaipur International Airport", "A_hi": "जयपुर अंतरराष्ट्रीय हवाई अड्डा",
+        "B_en": "Jodhpur Airport", "B_hi": "जोधपुर हवाई अड्डा",
+        "C_en": "Udaipur Airport", "C_hi": "उदयपुर हवाई अड्डा",
+        "D_en": "Bikaner Airport", "D_hi": "बीकानेर हवाई अड्डा",
+        "answer": "A",
+        "explanation_en": "Jaipur International Airport is the only international airport in Rajasthan.",
+        "explanation_hi": "जयपुर अंतरराष्ट्रीय हवाई अड्डा राजस्थान में एकमात्र अंतरराष्ट्रीय हवाई अड्डा है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "State Transport",
+        "question_en": "What is the full form of RSTC in Rajasthan?",
+        "question_hi": "राजस्थान में आरएसटीसी का पूर्ण रूप क्या है?",
+        "A_en": "Rajasthan State Transport Corporation", "A_hi": "राजस्थान राज्य परिवहन निगम",
+        "B_en": "Rajasthan State Tourism Corporation", "B_hi": "राजस्थान राज्य पर्यटन निगम",
+        "C_en": "Rajasthan State Telecommunication Corporation", "C_hi": "राजस्थान राज्य दूरसंचार निगम",
+        "D_en": "Rajasthan State Tourism Council", "D_hi": "राजस्थान राज्य पर्यटन परिषद",
+        "answer": "A",
+        "explanation_en": "RSTC stands for Rajasthan State Transport Corporation.",
+        "explanation_hi": "आरएसटीसी का पूर्ण रूप राजस्थान राज्य परिवहन निगम है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Ports",
+        "question_en": "Which port is nearest to Rajasthan for trade?",
+        "question_hi": "व्यापार के लिए राजस्थान के सबसे निकट स्थित बंदरगाह कौन सा है?",
+        "A_en": "Mumbai Port", "A_hi": "मुंबई बंदरगाह",
+        "B_en": "Kandla Port", "B_hi": "कांडला बंदरगाह",
+        "C_en": "Chennai Port", "C_hi": "चेन्नई बंदरगाह",
+        "D_en": "Jawaharlal Nehru Port", "D_hi": "जवाहरलाल नेहरू बंदरगाह",
+        "answer": "B",
+        "explanation_en": "Kandla Port is the nearest port to Rajasthan for trade purposes.",
+        "explanation_hi": "कांडला बंदरगाह राजस्थान के व्यापार के लिए निकटतम बंदरगाह है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Metro Rail",
+        "question_en": "Which city in Rajasthan has a metro rail system?",
+        "question_hi": "राजस्थान में मेट्रो रेल प्रणाली किस शहर में है?",
+        "A_en": "Jaipur", "A_hi": "जयपुर",
+        "B_en": "Jodhpur", "B_hi": "जोधपुर",
+        "C_en": "Udaipur", "C_hi": "उदयपुर",
+        "D_en": "Bikaner", "D_hi": "बीकानेर",
+        "answer": "A",
+        "explanation_en": "Jaipur is the only city in Rajasthan with a metro rail system.",
+        "explanation_hi": "जयपुर राजस्थान में मेट्रो रेल प्रणाली वाला एकमात्र शहर है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Railway Junctions",
+        "question_en": "Which is the largest railway junction in Rajasthan?",
+        "question_hi": "राजस्थान का सबसे बड़ा रेलवे जंक्शन कौन सा है?",
+        "A_en": "Delhi Junction", "A_hi": "दिल्ली जंक्शन",
+        "B_en": "Ajmer Junction", "B_hi": "अजमेर जंक्शन",
+        "C_en": "Jaipur Junction", "C_hi": "जयपुर जंक्शन",
+        "D_en": "Udaipur Junction", "D_hi": "उदयपुर जंक्शन",
+        "answer": "C",
+        "explanation_en": "Jaipur Junction is the largest railway junction in Rajasthan.",
+        "explanation_hi": "जयपुर जंक्शन राजस्थान का सबसे बड़ा रेलवे जंक्शन है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Inland Water Transport",
+        "question_en": "Which river is used for inland water transport in Rajasthan?",
+        "question_hi": "राजस्थान में आंतरिक जल परिवहन के लिए कौन सी नदी का उपयोग किया जाता है?",
+        "A_en": "Chambal River", "A_hi": "चंबल नदी",
+        "B_en": "Luni River", "B_hi": "लूनी नदी",
+        "C_en": "Sabarmati River", "C_hi": "साबरमती नदी",
+        "D_en": "Narmada River", "D_hi": "नर्मदा नदी",
+        "answer": "A",
+        "explanation_en": "Chambal River is used for inland water transport in Rajasthan.",
+        "explanation_hi": "चंबल नदी का राजस्थान में आंतरिक जल परिवहन के लिए उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "National Waterways",
+        "question_en": "Which national waterway passes through Rajasthan?",
+        "question_hi": "राजस्थान के माध्यम से कौन सा राष्ट्रीय जलमार्ग गुजरता है?",
+        "A_en": "National Waterway 1", "A_hi": "राष्ट्रीय जलमार्ग 1",
+        "B_en": "National Waterway 2", "B_hi": "राष्ट्रीय जलमार्ग 2",
+        "C_en": "National Waterway 3", "C_hi": "राष्ट्रीय जलमार्ग 3",
+        "D_en": "National Waterway 4", "D_hi": "राष्ट्रीय जलमार्ग 4",
+        "answer": "B",
+        "explanation_en": "National Waterway 2 passes through Rajasthan via the Chambal River.",
+        "explanation_hi": "राष्ट्रीय जलमार्ग 2 चंबल नदी के माध्यम से राजस्थान से गुजरता है।"
+    },
+    {
+        "subject": "Transport GK",
+        "topic": "Transport Policies",
+        "question_en": "What is the name of Rajasthan's state transport corporation?",
+        "question_hi": "राजस्थान के राज्य परिवहन निगम का नाम क्या है?",
+        "A_en": "Rajasthan State Road Transport Corporation", "A_hi": "राजस्थान राज्य सड़क परिवहन निगम",
+        "B_en": "Rajasthan State Water Transport Corporation", "B_hi": "राजस्थान राज्य जल परिवहन निगम",
+        "C_en": "Rajasthan State Air Transport Corporation", "C_hi": "राजस्थान राज्य वायु परिवहन निगम",
+        "D_en": "Rajasthan State Rail Transport Corporation", "D_hi": "राजस्थान राज्य रेल परिवहन निगम",
+        "answer": "A",
+        "explanation_en": "Rajasthan State Road Transport Corporation is the official name of the state transport corporation.",
+        "explanation_hi": "राजस्थान राज्य सड़क परिवहन निगम राज्य परिवहन निगम का आधिकारिक नाम है।"
+    }
+]
