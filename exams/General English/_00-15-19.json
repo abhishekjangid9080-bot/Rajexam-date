@@ -1,0 +1,175 @@
+<think>
+Okay, let's tackle this task step by step. The user wants me to create 10 high-quality MCQs for General English, specifically for Rajasthan state exams, SSC, and Railway exams. The topic isn't specified, but since it's General English, it's likely covering grammar, vocabulary, and maybe some comprehension.
+
+First, I need to ensure that each question has both Hindi and English versions. The options (A, B, C, D) must also be in both languages. The example given is about the capital of Rajasthan, but since the actual topic isn't provided, I should think of common English topics that are relevant for these exams.
+
+Possible topics could be tenses, prepositions, synonyms/antonyms, sentence structure, error detection, etc. Let me brainstorm some questions. For example, a question on correct verb forms, preposition usage, sentence correction, etc.
+
+Let me start drafting the first question. Maybe a question on prepositions. The English question could be "Choose the correct preposition: She is allergic ___ nuts." The options: A) to, B) with, C) of, D) at. The correct answer is A) to. Then I need to translate this into Hindi, ensuring the translation is accurate. The explanation should clarify why 'to' is the correct preposition here.
+
+Another question could be on synonyms. For example, "What is the synonym of 'meticulous'?" Options: A) Careless, B) Precise, C) Lazy, D) Hasty. The answer is B) Precise. The Hindi version should have the same structure.
+
+I need to make sure that the difficulty level is appropriate for the target exams. They shouldn't be too hard but should challenge the students' understanding. Also, the explanations should be concise and clear in both languages.
+
+Let me check the JSON structure provided. Each question should have subject, topic, question in English and Hindi, options in both languages, answer (A/B/C/D), and explanations in both languages. The example given uses the topic as empty, but maybe I should fill it in with something like "Grammar" or "Vocabulary" for clarity.
+
+Wait, the user didn't specify the topic, so maybe I should leave it as an empty string as in the example. That's okay. Now, I'll start creating 10 questions. Let me think of different topics each time to cover a range of General English areas.
+
+For example:
+
+1. Prepositions
+2. Synonyms
+3. Antonyms
+4. Sentence correction
+5. Tenses
+6. Articles (a/an/the)
+7. Error detection
+8. Idioms and phrases
+9. Sentence arrangement
+10. One-word substitution
+
+Each of these can form a question. Let me outline each one with the necessary parts. For each question, I'll translate the question, options, and explanations into Hindi. Need to be careful with translation to maintain the same meaning.
+
+Let's take the first topic: Prepositions. The question "Choose the correct preposition: She is allergic ___ nuts." The correct answer is A) to. Explanation in English: "The correct preposition after 'allergic' is 'to'." In Hindi: "allergic के बाद सही सर्वनाम 'to' होता है।"
+
+Another example: Tenses. "Change the sentence to past perfect tense: He eats an apple." Options: A) He has eaten... etc. The correct answer is the past perfect form, which is "He had eaten an apple." The explanation would clarify the tense change.
+
+For antonyms: "What is the antonym of 'happiness'?" Options: A) Joy, B) Pleasure, C) Sadness, D) Contentment. Answer is C) Sadness.
+
+I need to ensure that the options are plausible distractors. For example, in the antonym question, the incorrect options should be real words but not the correct antonym.
+
+Now, for each question, I'll structure the JSON accordingly. Let me start writing them out, making sure the Hindi translations are accurate. Also, the answer key (A/B/C/D) must correspond correctly. After drafting all 10, I'll review them for consistency and correctness in both languages.
+</think>
+
+[
+{
+"subject": "General English",
+"topic": "Grammar",
+"question_en": "Choose the correct preposition: She is allergic ___ nuts.",
+"question_hi": "सही सर्वनाम चुनिए: वह मेवे के प्रति एलर्जिक है ___।",
+"A_en": "to", "A_hi": "के प्रति",
+"B_en": "with", "B_hi": "के साथ",
+"C_en": "of", "C_hi": "का",
+"D_en": "at", "D_hi": "पर",
+"answer": "A",
+"explanation_en": "The correct preposition after 'allergic' is 'to'.",
+"explanation_hi": "'allergic' के बाद सही सर्वनाम 'to' होता है।"
+},
+{
+"subject": "General English",
+"topic": "Vocabulary",
+"question_en": "What is the synonym of 'meticulous'?",
+"question_hi": "'meticulous' का समानार्थी क्या है?",
+"A_en": "Careless", "A_hi": "अविवेकी",
+"B_en": "Precise", "B_hi": "स्पष्ट",
+"C_en": "Lazy", "C_hi": "बेकरम",
+"D_en": "Hasty", "D_hi": "तेजी से",
+"answer": "B",
+"explanation_en": "'Meticulous' means showing great attention to detail, which is similar to 'precise'.",
+"explanation_hi": "'meticulous' विस्तार से ध्यान देने का अर्थ है, जो 'precise' के समान है।"
+},
+{
+"subject": "General English",
+"topic": "Error Correction",
+"question_en": "Identify the error in the sentence: They has been waiting for hours.",
+"question_hi": "वाक्य में त्रुटि ज्ञात कीजिए: वे घंटों इंतजार कर रहे हैं।",
+"A_en": "They", "A_hi": "वे",
+"B_en": "has", "B_hi": "है",
+"C_en": "waiting", "C_hi": "इंतजार",
+"D_en": "for hours", "D_hi": "घंटों",
+"answer": "B",
+"explanation_en": "The subject 'they' is plural, so the verb should be 'have' instead of 'has'.",
+"explanation_hi": "विषय 'they' बहुवचन है, इसलिए क्रिया 'have' होनी चाहिए 'has' के बजाय।"
+},
+{
+"subject": "General English",
+"topic": "Tenses",
+"question_en": "Change the sentence to past perfect tense: He eats an apple.",
+"question_hi": "वाक्य को भूतकाल पूर्ण भूतकाल में बदलें: वह एक सेब खाता है।",
+"A_en": "He had eaten an apple", "A_hi": "उसने एक सेब खाया हुआ था",
+"B_en": "He eats an apple", "B_hi": "वह एक सेब खाता है",
+"C_en": "He will eat an apple", "C_hi": "वह एक सेब खाएगा",
+"D_en": "He is eating an apple", "D_hi": "वह एक सेब खा रहा है",
+"answer": "A",
+"explanation_en": "The past perfect tense is formed using 'had' + past participle (eaten).",
+"explanation_hi": "भूतकाल पूर्ण भूतकाल के लिए 'had' + परिच्छेदक (eaten) का उपयोग किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Articles",
+"question_en": "Which article is correct: ___ sun is shining brightly today.",
+"question_hi": "सही अनिश्चित सर्वनाम चुनिए: ___ सूरज आज तेज चमक रहा है।",
+"A_en": "A", "A_hi": "एक",
+"B_en": "An", "B_hi": "एक",
+"C_en": "The", "C_hi": "वह",
+"D_en": "No article", "D_hi": "कोई भी अनिश्चित सर्वनाम नहीं",
+"answer": "C",
+"explanation_en": "The definite article 'the' is used before a specific noun like 'sun'.",
+"explanation_hi": "विशिष्ट संज्ञा जैसे 'sun' से पहले निश्चित सर्वनाम 'the' का उपयोग किया जाता है।"
+},
+{
+"subject": "General English",
+"topic": "Antonyms",
+"question_en": "What is the antonym of 'happiness'?",
+"question_hi": "'हर्ष' का विलोम क्या है?",
+"A_en": "Joy", "A_hi": "आनंद",
+"B_en": "Pleasure", "B_hi": "खुशी",
+"C_en": "Sadness", "C_hi": "दुख",
+"D_en": "Contentment", "D_hi": "संतोष",
+"answer": "C",
+"explanation_en": "'Happiness' means a feeling of joy, so its antonym is 'sadness'.",
+"explanation_hi": "'happiness' आनंद की भावना है, इसलिए इसका विलोम 'sadness' है।"
+},
+{
+"subject": "General English",
+"topic": "Sentence Structure",
+"question_en": "Select the correct sentence: A) She don't like tea. B) She doesn't like tea. C) She don't likes tea. D) She doesn't likes tea.",
+"question_hi": "सही वाक्य चुनिए: A) वह चाय नहीं पसंद करती। B) वह चाय नहीं पसंद करती है। C) वह चाय नहीं पसंद करती। D) वह चाय नहीं पसंद करती है।",
+"A_en": "A", "A_hi": "A",
+"B_en": "B", "B_hi": "B",
+"C_en": "C", "C_hi": "C",
+"D_en": "D", "D_hi": "D",
+"answer": "B",
+"explanation_en": "The correct sentence uses 'doesn't' with a third person singular subject and the base form of the verb.",
+"explanation_hi": "सही वाक्य तीसरे व्यक्ति एकवचन विषय के साथ 'doesn't' का उपयोग करता है और क्रिया के आधार रूप का उपयोग करता है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms",
+"question_en": "What does the idiom 'spill the beans' mean?",
+"question_hi": "मुहावरा 'spill the beans' का क्या अर्थ है?",
+"A_en": "To cry", "A_hi": "रोना",
+"B_en": "To hide the truth", "B_hi": "सच छिपाना",
+"C_en": "To reveal a secret", "C_hi": "एक रहस्य बताना",
+"D_en": "To eat quickly", "D_hi": "तेजी से खाना",
+"answer": "C",
+"explanation_en": "'Spill the beans' means to accidentally reveal information that was supposed to be kept secret.",
+"explanation_hi": "'Spill the beans' उस जानकारी को भूल कर बताने का अर्थ है जिसे गुप्त रखना था।"
+},
+{
+"subject": "General English",
+"topic": "Sentence Arrangement",
+"question_en": "Arrange the following parts to form a meaningful sentence: 1) at the park 2) they 3) played 4) yesterday.",
+"question_hi": "निम्नलिखित भागों को एक अर्थपूर्ण वाक्य बनाने के लिए व्यवस्थित करें: 1) पार्क में 2) वे 3) खेले 4) कल।",
+"A_en": "2-3-1-4", "A_hi": "2-3-1-4",
+"B_en": "2-1-3-4", "B_hi": "2-1-3-4",
+"C_en": "1-2-3-4", "C_hi": "1-2-3-4",
+"D_en": "3-2-1-4", "D_hi": "3-2-1-4",
+"answer": "B",
+"explanation_en": "The correct order is subject (they) + location (at the park) + verb (played) + time (yesterday).",
+"explanation_hi": "सही क्रम विषय (वे) + स्थान (पार्क में) + क्रिया (खेले) + समय (कल) है।"
+},
+{
+"subject": "General English",
+"topic": "One Word Substitution",
+"question_en": "What is a single word for 'a person who studies the remains of past human life'?",
+"question_hi": "'प्राचीन मानव जीवन के अवशेषों का अध्ययन करने वाला व्यक्ति' के लिए एक शब्द क्या है?",
+"A_en": "Archaeologist", "A_hi": "अर्किएओलॉजिस्ट",
+"B_en": "Historian", "B_hi": "इतिहासकार",
+"C_en": "Geologist", "C_hi": "भूविज्ञानी",
+"D_en": "Anthropologist", "D_hi": "मनोविज्ञानी",
+"answer": "A",
+"explanation_en": "An archaeologist studies the remains of past human life, such as buildings, tools, and weapons.",
+"explanation_hi": "एक अर्किएओलॉजिस्ट प्राचीन मानव जीवन के अवशेषों, जैसे इमारतें, औजार और हथियारों का अध्ययन करता है।"
+}
+]
