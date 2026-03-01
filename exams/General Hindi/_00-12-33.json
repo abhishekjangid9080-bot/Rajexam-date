@@ -1,0 +1,221 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs in General Hindi for exams like Rajasthan LDC, CET, RAS, SSC, and Railway. The instructions mention that each question and options should be in both Hindi and English, formatted in JSON. The example provided is about Rajasthan's capital, so maybe I should follow a similar structure.
+
+First, I need to decide on the topic. The user left the topic blank, so I should choose common General Hindi topics. Let's think about areas like grammar, vocabulary, sentence structure, common idioms, or standard questions like synonyms/antonyms. Since Rajasthan exams often include regional language questions, maybe including some Rajasthani words or local context would be good.
+
+Wait, the example was a straightforward question. Let me brainstorm topics: synonyms, antonyms, correct word usage, sentence correction, parts of speech, common errors, idioms, etc. Since the example was a simple factual question, maybe start with that structure but vary the topics.
+
+Let me list out 10 different topics. For example:
+
+1. Synonyms for a word.
+2. Antonyms.
+3. One-word substitution.
+4. Sentence correction.
+5. Correct spelling.
+6. Idioms and phrases.
+7. Parts of speech.
+8. Fill in the blank with correct preposition.
+9. Correct form of a word (tense, etc.).
+10. Meaning of a proverb or idiom.
+
+Each question should have a clear answer. Let's start drafting each one, ensuring both English and Hindi translations. Also, explanations in both languages. Need to make sure the difficulty is appropriate for the target exams. Avoid very obscure words but still include some that are commonly tested.
+
+For example, first question: "Which of the following is a synonym for 'beautiful'?" with options like 'Sundar', 'Vishal', etc. Answer is Sundar. Explanation in both languages.
+
+Another question on antonyms: "Opposite of 'light' is..." with options like 'heavy', 'bright', etc. Answer is heavy.
+
+One-word substitution: "A person who believes in the principle of non-violence is called..." Answer: Ahimsak.
+
+Sentence correction: "He has gone to Delhi (Correct tense)" options with different tenses.
+
+Spelling: Which is correct? Options with common spelling mistakes.
+
+Idiom meaning: "To hit the nail on the head" means...
+
+Parts of speech: Identify the part of speech of the word "quickly".
+
+Prepositions: "She is good ___ singing." Answer: at.
+
+Correct form of verb: "They ___ going to the market. (Present continuous)" Answer: are.
+
+Proverb meaning: "The early bird catches the worm."
+
+Now, I need to structure each of these 10 into the JSON format provided. Ensure that the subject is "General Hindi", topic filled appropriately, and all fields are correctly translated. Check that the answer keys are correct and explanations are clear.
+
+Let me start writing each question step by step, making sure translations are accurate and options are plausible. For example, in the synonym question, the options should be close but with one correct answer. Also, avoid using the same structure for all questions to vary the difficulty and type.
+
+After drafting all 10, I'll review them for consistency, correct translations, and adherence to the topic. Make sure explanations are concise and directly support the correct answer. Also, check that the JSON syntax is correct, with proper commas and brackets, to avoid formatting errors.
+</think>
+
+[
+  {
+    "subject": "General Hindi",
+    "topic": "Synonyms",
+    "question_en": "Which of the following is a synonym for 'beautiful'?",
+    "question_hi": "'सुंदर' शब्द के लिए निम्नलिखित में से कौन-सा पर्यायवाची है?",
+    "A_en": "Attractive",
+    "A_hi": "सुंदर",
+    "B_en": "Vast",
+    "B_hi": "विशाल",
+    "C_en": "Quick",
+    "C_hi": "त्वरित",
+    "D_en": "Clever",
+    "D_hi": "बुद्धिमान",
+    "answer": "A",
+    "explanation_en": "'Attractive' is a synonym for 'beautiful'.",
+    "explanation_hi": "'सुंदर' के लिए 'आकर्षक' पर्यायवाची है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Antonyms",
+    "question_en": "Which of the following is the antonym of 'light'?",
+    "question_hi": "'हल्का' शब्द के लिए निम्नलिखित में से कौन-सा विपरीतार्थक है?",
+    "A_en": "Heavy",
+    "A_hi": "भारी",
+    "B_en": "Bright",
+    "B_hi": "चमकीला",
+    "C_en": "Dark",
+    "C_hi": "अंधेरा",
+    "D_en": "Soft",
+    "D_hi": "मृदु",
+    "answer": "A",
+    "explanation_en": "'Heavy' is the antonym of 'light'.",
+    "explanation_hi": "'हल्का' के लिए 'भारी' विपरीतार्थक है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "One Word Substitution",
+    "question_en": "Which of the following is a one-word substitution for 'a person who believes in non-violence'?",
+    "question_hi": "'अहिंसा के विचार को मानने वाला व्यक्ति' के लिए निम्नलिखित में से कौन-सा एक शब्द प्रतिस्थापन है?",
+    "A_en": "Ahimsak",
+    "A_hi": "अहिंसक",
+    "B_en": "Gandhian",
+    "B_hi": "गांधीवादी",
+    "C_en": "Pacifist",
+    "C_hi": "शांतिवादी",
+    "D_en": "Humanist",
+    "D_hi": "मानवतावादी",
+    "answer": "A",
+    "explanation_en": "'Ahimsak' is the one-word substitution for a non-violent person.",
+    "explanation_hi": "'अहिंसक' शब्द अहिंसा में विश्वास रखने वाले व्यक्ति के लिए एक शब्द प्रतिस्थापन है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Sentence Correction",
+    "question_en": "Correct the sentence: 'He has went to the market.'",
+    "question_hi": "'वह बाजार गया है।' वाक्य को संशोधित करें।",
+    "A_en": "He went to the market.",
+    "A_hi": "वह बाजार गया।",
+    "B_en": "He has gone to the market.",
+    "B_hi": "वह बाजार गया है।",
+    "C_en": "He is going to the market.",
+    "C_hi": "वह बाजार जा रहा है।",
+    "D_en": "He will go to the market.",
+    "D_hi": "वह बाजार जाएगा।",
+    "answer": "B",
+    "explanation_en": "The correct form is 'He has gone to the market.'",
+    "explanation_hi": "सही रूप 'वह बाजार गया है।' है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Spelling",
+    "question_en": "Which of the following is correctly spelled?",
+    "question_hi": "निम्नलिखित में से कौन-सा शब्द सही लिखा गया है?",
+    "A_en": "Accomodate",
+    "A_hi": "एक्सक्यूमोडेट",
+    "B_en": "Accommodate",
+    "B_hi": "एक्सक्यूमोडेट",
+    "C_en": "Acommodate",
+    "C_hi": "एकोमोडेट",
+    "D_en": "Accomodate",
+    "D_hi": "एक्सक्यूमोडेट",
+    "answer": "B",
+    "explanation_en": "'Accommodate' is the correct spelling.",
+    "explanation_hi": "'एक्सक्यूमोडेट' सही वर्तनी है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Idioms",
+    "question_en": "What does the idiom 'hit the nail on the head' mean?",
+    "question_hi": "'नाखून पर धक्का मारना' इडियम का अर्थ क्या है?",
+    "A_en": "To be precise",
+    "A_hi": "सटीक होना",
+    "B_en": "To be lucky",
+    "B_hi": "किस्मत में होना",
+    "C_en": "To be angry",
+    "C_hi": "क्रोधित होना",
+    "D_en": "To be confused",
+    "D_hi": "भ्रमित होना",
+    "answer": "A",
+    "explanation_en": "The idiom means to be precise or accurate.",
+    "explanation_hi": "इस बोली का अर्थ सटीक होने या ठीक होने से है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Parts of Speech",
+    "question_en": "Identify the part of speech of the word 'quickly' in the sentence: 'He runs quickly.'",
+    "question_hi": "'वह तेजी से दौड़ता है।' वाक्य में 'तेजी से' शब्द किस विभक्ति का उदाहरण है?",
+    "A_en": "Adjective",
+    "A_hi": "विशेषण",
+    "B_en": "Adverb",
+    "B_hi": "क्रिया-विशेषण",
+    "C_en": "Noun",
+    "C_hi": "संज्ञा",
+    "D_en": "Verb",
+    "D_hi": "क्रिया",
+    "answer": "B",
+    "explanation_en": "'Quickly' is an adverb modifying the verb 'runs'.",
+    "explanation_hi": "'तेजी से' एक क्रिया-विशेषण है जो क्रिया 'दौड़ने' को विशेष करता है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Prepositions",
+    "question_en": "Complete the sentence: 'She is good ___ singing.'",
+    "question_hi": "वाक्य को पूरा करें: 'वह गाने में अच्छी है।'",
+    "A_en": "at",
+    "A_hi": "में",
+    "B_en": "in",
+    "B_hi": "में",
+    "C_en": "on",
+    "C_hi": "पर",
+    "D_en": "for",
+    "D_hi": "के लिए",
+    "answer": "A",
+    "explanation_en": "The correct preposition is 'at'.",
+    "explanation_hi": "सही अवस्थानीय शब्द 'में' है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Tense",
+    "question_en": "Correct the sentence: 'They is going to the market.'",
+    "question_hi": "'वे बाजार जा रहे हैं।' वाक्य को संशोधित करें।",
+    "A_en": "They are going to the market.",
+    "A_hi": "वे बाजार जा रहे हैं।",
+    "B_en": "They will go to the market.",
+    "B_hi": "वे बाजार जाएंगे।",
+    "C_en": "They have gone to the market.",
+    "C_hi": "वे बाजार गए हैं।",
+    "D_en": "They went to the market.",
+    "D_hi": "वे बाजार गए थे।",
+    "answer": "A",
+    "explanation_en": "The correct form is 'They are going to the market.'",
+    "explanation_hi": "सही रूप 'वे बाजार जा रहे हैं।' है।"
+  },
+  {
+    "subject": "General Hindi",
+    "topic": "Proverbs",
+    "question_en": "What does the proverb 'The early bird catches the worm' mean?",
+    "question_hi": "'भौंरा पहले उठता है तो फल हाथ लगता है' कहावत का अर्थ क्या है?",
+    "A_en": "Hard work pays off",
+    "A_hi": "मेहनत से नतीजा मिलता है",
+    "B_en": "The early riser gets rewards",
+    "B_hi": "पहले उठने वाले को पुरस्कार मिलता है",
+    "C_en": "Luck is important",
+    "C_hi": "किस्मत के कारण पुरस्कार मिलता है",
+    "D_en": "Patience is key",
+    "D_hi": "संयम की बात है",
+    "answer": "B",
+    "explanation_en": "The proverb means that those who act early achieve success.",
+    "explanation_hi": "कहावत का अर्थ है कि जो लोग पहले कार्य करते हैं, वे सफलता प्राप्त करते हैं।"
+  }
+]
