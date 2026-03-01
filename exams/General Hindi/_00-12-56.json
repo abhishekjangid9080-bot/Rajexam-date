@@ -1,0 +1,186 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the General Hindi subject, covering Rajasthan State Exams like LDC, CET, RAS, as well as SSC and Railway exams. The user provided an example with a question about the capital of Rajasthan. Since the topic isn't specified, I should cover various areas within General Hindi, such as grammar, vocabulary, literature, and maybe some specific to Rajasthan.
+
+First, I'll start with grammar. Let's think about common grammar topics. Tense, parts of speech, sentence structure. For example, a question about the correct sandhi (संधि) in a word. Sandhi is a common topic in Hindi exams.
+
+Next, vocabulary. Maybe synonyms and antonyms. For example, a question asking for the synonym of a Rajasthani word or a commonly used term. Also, idioms and phrases specific to Rajasthan.
+
+Literature is another area. Maybe authors from Rajasthan, their famous works. Like Rajasthani literature or Hindi literature with a Rajasthan connection.
+
+Rajasthan-specific terms. For example, folk songs or dance forms. Like Ghoomar or Kalbeliya.
+
+Grammar again: परिचय (introduction) vs परिचय (familiar). Or correct usage of words.
+
+Then, maybe a question on correct sentence structure, choosing the right punctuation or case.
+
+Another could be about common errors in sentences, like incorrect use of prepositions or verb forms.
+
+Including some questions on Rajasthani proverbs or sayings that are famous.
+
+Also, checking for common mistakes in Hindi writing, like confusion between similar words.
+
+I need to ensure that each question has the question and options in both Hindi and English, as per the example. The answer and explanation should also be in both languages. The difficulty level should be moderate, suitable for the target exams.
+
+Let me start drafting the first question. Maybe a sandhi question. For example, "राम + कला = ?" with options for the correct sandhi. The explanation would explain the rule applied.
+
+Another could be about synonyms. A Rajasthani word like "छोटा" with options like "नाना", "चाचा", etc., and the correct answer being "नाना".
+
+Then, a literature question about the author of a famous Rajasthani work, like "मानसरोवर" by Rajendra Singh.
+
+I need to make sure that the options are plausible and not too obvious. Also, check that the explanations are concise and accurate.
+
+I should also cover different aspects of General Hindi, not just grammar. Including a question on correct word usage in a sentence, like "उसका कैंसर ठीक हो गया है" vs "उसका कैंसर ठीक हुआ है", and explain the correct tense.
+
+Another question could be about the correct form of a verb in a given sentence, testing the knowledge of verb conjugation.
+
+Including a question on the meaning of a Rajasthani proverb, like "बकरी के साथ जूता बेचना" meaning to lose something along with another.
+
+Also, ensuring that the questions are not repeated and cover a variety of topics within General Hindi.
+
+I need to check each question for clarity and correctness. Make sure the translations between Hindi and English are accurate for both questions and options.
+
+Finally, after creating all 10 questions, I'll verify the JSON structure to match the example provided, ensuring all required fields are present and the format is correct.
+</think>
+
+[
+    {
+        "subject": "General Hindi",
+        "topic": "संधि",
+        "question_en": "निम्नलिखित में से कौन सा शब्द संधि के नियम के अनुसार सही है?",
+        "question_hi": "निम्नलिखित में से कौन सा शब्द संधि के नियम के अनुसार सही है?",
+        "A_en": "रामकला",
+        "A_hi": "रामकला",
+        "B_en": "रामकला",
+        "B_hi": "रामकला",
+        "C_en": "रामचला",
+        "C_hi": "रामचला",
+        "D_en": "रामकला",
+        "D_hi": "रामकला",
+        "answer": "B",
+        "explanation_en": "संधि के नियम के अनुसार 'राम + कला = रामकला' होता है।",
+        "explanation_hi": "संधि के नियम के अनुसार 'राम + कला = रामकला' होता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "विलोम",
+        "question_en": "निम्नलिखित में से कौन सा शब्द 'छोटा' का विलोम है?",
+        "question_hi": "निम्नलिखित में से कौन सा शब्द 'छोटा' का विलोम है?",
+        "A_en": "नाना",
+        "A_hi": "नाना",
+        "B_en": "चाचा",
+        "B_hi": "चाचा",
+        "C_en": "भाई",
+        "C_hi": "भाई",
+        "D_en": "बड़ा",
+        "D_hi": "बड़ा",
+        "answer": "D",
+        "explanation_en": "'छोटा' का विलोम 'बड़ा' होता है।",
+        "explanation_hi": "'छोटा' का विलोम 'बड़ा' होता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "लेखक",
+        "question_en": "निम्नलिखित में से कौन 'मानसरोवर' के लेखक हैं?",
+        "question_hi": "निम्नलिखित में से कौन 'मानसरोवर' के लेखक हैं?",
+        "A_en": "राजेंद्र सिंह",
+        "A_hi": "राजेंद्र सिंह",
+        "B_en": "महावीर प्रसाद द्विवेदी",
+        "B_hi": "महावीर प्रसाद द्विवेदी",
+        "C_en": "मुकुंद राज",
+        "C_hi": "मुकुंद राज",
+        "D_en": "रविंद्रनाथ टैगोर",
+        "D_hi": "रविंद्रनाथ टैगोर",
+        "answer": "A",
+        "explanation_en": "'मानसरोवर' के लेखक राजेंद्र सिंह हैं।",
+        "explanation_hi": "'मानसरोवर' के लेखक राजेंद्र सिंह हैं।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "राजस्थानी लोकगीत",
+        "question_en": "निम्नलिखित में से कौन सा राजस्थानी लोकगीत नहीं है?",
+        "question_hi": "निम्नलिखित में से कौन सा राजस्थानी लोकगीत नहीं है?",
+        "A_en": "गहोरा गाना",
+        "A_hi": "गहोरा गाना",
+        "B_en": "मेरा मुस्कुरावा",
+        "B_hi": "मेरा मुस्कुरावा",
+        "C_en": "छोटी सी बात है",
+        "C_hi": "छोटी सी बात है",
+        "D_en": "मेरा नाम हिरदा मन हरियाली के झरे",
+        "D_hi": "मेरा नाम हिरदा मन हरियाली के झरे",
+        "answer": "C",
+        "explanation_en": "'छोटी सी बात है' एक राजस्थानी लोकगीत नहीं है।",
+        "explanation_hi": "'छोटी सी बात है' एक राजस्थानी लोकगीत नहीं है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "व्याकरण",
+        "question_en": "निम्नलिखित में से कौन सा शब्द सही प्रयोग किया गया है?",
+        "question_hi": "निम्नलिखित में से कौन सा शब्द सही प्रयोग किया गया है?",
+        "A_en": "उसका कैंसर ठीक हो गया है।",
+        "A_hi": "उसका कैंसर ठीक हो गया है।",
+        "B_en": "उसका कैंसर ठीक हुआ है।",
+        "B_hi": "उसका कैंसर ठीक हुआ है।",
+        "C_en": "उसका कैंसर ठीक हो रहा है।",
+        "C_hi": "उसका कैंसर ठीक हो रहा है।",
+        "D_en": "उसका कैंसर ठीक हो जाएगा।",
+        "D_hi": "उसका कैंसर ठीक हो जाएगा।",
+        "answer": "B",
+        "explanation_en": "वर्तमान इष्टता वाचक में 'हुआ है' प्रयुक्त होता है।",
+        "explanation_hi": "वर्तमान इष्टता वाचक में 'हुआ है' प्रयुक्त होता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "पर्यायवाची",
+        "question_en": "निम्नलिखित में से कौन सा 'खुश' का पर्यायवाची शब्द नहीं है?",
+        "question_hi": "निम्नलिखित में से कौन सा 'खुश' का पर्यायवाची शब्द नहीं है?",
+        "A_en": "प्रसन्न",
+        "A_hi": "प्रसन्न",
+        "B_en": "खुशहाल",
+        "B_hi": "खुशहाल",
+        "C_en": "खुशमिजाज",
+        "C_hi": "खुशमिजाज",
+        "D_en": "खुशनुमा",
+        "D_hi": "खुशनुमा",
+        "answer": "B",
+        "explanation_en": "'खुशहाल' शब्द 'खुश' का पर्यायवाची नहीं है।",
+        "explanation_hi": "'खुशहाल' शब्द 'खुश' का पर्यायवाची नहीं है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "लोकोक्तियाँ",
+        "question_en": "राजस्थानी लोकोक्ति 'बकरी के साथ जूता बेचना' का अर्थ क्या है?",
+        "question_hi": "राजस्थानी लोकोक्ति 'बकरी के साथ जूता बेचना' का अर्थ क्या है?",
+        "A_en": "अपनी बुरी आदतें छोड़ना",
+        "A_hi": "अपनी बुरी आदतें छोड़ना",
+        "B_en": "किसी चीज के साथ दूसरी चीज त्याग देना",
+        "B_hi": "किसी चीज के साथ दूसरी चीज त्याग देना",
+        "C_en": "किसी को धोखा देना",
+        "C_hi": "किसी को धोखा देना",
+        "D_en": "अपने महत्व को बढ़ा-चढ़ाकर बताना",
+        "D_hi": "अपने महत्व को बढ़ा-चढ़ाकर बताना",
+        "answer": "B",
+        "explanation_en": "यह लोकोक्ति किसी चीज के साथ दूसरी चीज त्याग देने के अर्थ में प्रयुक्त होती है।",
+        "explanation_hi": "यह लोकोक्ति किसी चीज के साथ दूसरी चीज त्याग देने के अर्थ में प्रयुक्त होती है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "व्याकरण",
+        "question_en": "निम्नलिखित में से कौन सा शब्द सही लिखा गया है?",
+        "question_hi": "निम्नलिखित में से कौन सा शब्द सही लिखा गया है?",
+        "A_en": "समाचार",
+        "A_hi": "समाचार",
+        "B_en": "समाचार",
+        "B_hi": "समाचार",
+        "C_en": "समाचार",
+        "C_hi": "समाचार",
+        "D_en": "समाचार",
+        "D_hi": "समाचार",
+        "answer": "C",
+        "explanation_en": "'समाचार' शब्द सही लिखा गया है।",
+        "explanation_hi": "'समाचार' शब्द सही लिखा गया है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "लेखक",
+        "question_en": "राजस्थानी लेखक जो अपनी रचना 'राजस्थान के लेखक' के लिए प्रसिद्ध हैं?",
+        "question_hi": "राजस्थानी लेखक जो अपनी रचना 'राजस्थान के लेखक' के लिए प्रसिद्ध हैं
