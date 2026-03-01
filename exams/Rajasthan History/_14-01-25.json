@@ -1,0 +1,66 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first ruler of the Mewar kingdom?",
+"question_hi": "मेवार की पहली समताना कौन थे।",
+"A_en": "Prithviraj Chauhan", "A_hi": "प्रतीतीय चौधरी",
+"B_en": "Rao Bika", "B_hi": "राव बिका",
+"C_en": "Rao Devi", "C_hi": "राव दीवी",
+"D_en": "Rao Jodha", "D_hi": "राव जोधा",
+"answer": "D",
+"explanation_en": "Rao Jodha was the first ruler of the Mewar kingdom. He built the famous Forts Mehrangarh and Amer in Jaipur and Ajmer respectively.",
+"explanation_hi": "राव जोधा मेवार की पहली समताना था। उन्हें जापान के कुलमूल की मेहतों Mehrangarh और Amer के विभागों में बनी है।",
+"question_hi": "मेवार के सभी की पहली समताना राजन था। उन आदिरावत के विभागों में बनी है।",
+"options": [
+{
+"option_text_en": "Prithviraj Chauhan",
+"option_text_hi": "प्रतीतों के मात्रावत के विभागों में बनी है।",
+"correct_answer": "Prithviraj Chauhan"
+},
+{
+"option_text_en": "Pratap Singh",
+"option_text_hi": "प्रताप सिंग",
+"correct_answer": "Pratap Singh"
+},
+{
+"option_text_en": "Aapna Singh",
+"option_text_hi": "अपना सिंग",
+"correct_answer": "Aapna Singh"
+},
+{
+"option_text_en": "Dharam Singh",
+"option_text_hi": "धर्मसिंग",
+"correct_answer": "Dharam Singh"
+},
+{
+"option_text_en": "Sanwaria Singh",
+"option_text_hi": "सनवारिया सिंग",
+"correct_answer": "Sanwaria Singh"
+},
+{
+"option_text_en": "Arjun Singh",
+"option_text_hi": "अरजून सिंग",
+"correct_answer": "Arjun Singh"
+},
+{
+"option_text_en": "Nathmal Singh",
+"option_text_hi": "नाथमाल सिंग",
+"correct_answer": "Nathmal Singh"
+},
+{
+"option_text_en": "Sir Sunder Lal Ji",
+"option_text_hi": "सीर संदेशलाल जी",
+"correct_answer": "Sir Sunder Lal Ji"
+},
+{
+"option_text_en": "Karni Singh",
+"option_text_hi": "कारणी सिंग",
+"correct_answer": "Karni Singh"
+},
+{
+"option_text_en": "Suraj Singh",
+"option_text_hi": "सुराज सिंग",
+"correct_answer": "Suraj Singh"
+}
+]
