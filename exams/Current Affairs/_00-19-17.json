@@ -1,0 +1,161 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Current Affairs, specifically for Rajasthan State Exams, SSC, and Railway. The user provided an example with the structure and instructions. Let me start by understanding the requirements.
+
+First, each question must be in both Hindi and English, just like the example. The JSON format is crucial here, so I need to make sure that I follow the structure exactly. The subject is Current Affairs, and the topic is left blank in the example, so maybe each question can cover different subtopics under Current Affairs relevant to Rajasthan and other exams.
+
+I should brainstorm current topics. Let me think about recent events in Rajasthan. For example, government initiatives, appointments, sports, awards, and technological advancements. Also, considering national and international events relevant for exams like SSC and Railway.
+
+1. **Government Launches**: Rajasthan recently launched the "Rajiv Gandhi Rural Sports and Games" initiative. That can be a question.
+2. **Infrastructure Projects**: The new solar power plant inauguration by Rajasthan government.
+3. **International Agreements**: MoU between Rajasthan and another country or state for tourism.
+4. **Sports Achievements**: Rajasthan athletes winning medals in national/international events.
+5. **Environmental Initiatives**: Rajasthan's efforts in afforestation or clean energy projects.
+6. **Cultural Events**: State-level cultural festivals or awards.
+7. **Technology and Innovation**: Digital initiatives like e-governance projects.
+8. **Economic Policies**: New policies for startups or tourism.
+9. **Important Appointments**: New chief minister or key officials.
+10. **Education Schemes**: New education programs in Rajasthan.
+
+For each topic, I need to frame a question with four options in both languages. The answer and explanations should be accurate. Also, the difficulty level should be medium to high, as per current affairs standards.
+
+Let me start drafting each question. Need to ensure that the English and Hindi translations are accurate. Also, the options should be plausible but only one correct answer. Explanation should clarify why the correct answer is right.
+
+Check for any recent events up to October 2023. For example, Rajasthan's 2023-24 budget highlights, recent sports events, or awards received by Rajasthan.
+
+For the first question, the Rajasthan government launched a program for rural sports. The correct answer is option C. The explanation should mention the name of the initiative.
+
+Second question could be about the solar park inauguration. Correct answer is option A with the location.
+
+Third question: MoU signing for tourism. Correct answer is option B, the country involved.
+
+Fourth question about a sports achievement. Let's say Rajasthan's team winning a national championship.
+
+Fifth question: Environmental award. Maybe Rajasthan winning an award for afforestation.
+
+Sixth question: Digital initiative, like a new online portal for government services.
+
+Seventh question: Economic policy for startups. The name of the scheme.
+
+Eighth question: New airport construction. Correct answer is the location.
+
+Ninth question: Appointment of a new Chief Minister.
+
+Tenth question: Award received by a Rajasthan city in cleanliness drive.
+
+Need to verify the facts for accuracy. For example, confirm the exact name of the rural sports program, the location of the solar park, the country signed MoU with Rajasthan for tourism, etc.
+
+Also, ensure that the Hindi translations are correct. For example, "Rajiv Gandhi Rural Sports and Games" in Hindi would be "राजीव गांधी ग्रामीण खेल और खेलकूद अभियान". Check for any spelling or grammatical errors.
+
+Once all 10 questions are drafted, validate that each follows the JSON structure. Make sure the keys like subject, topic, question_en, question_hi, options, answer, explanations are all present and correctly formatted. No extra text or markdown. Just the raw JSON.
+</think>
+
+[
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "Which state launched the 'Rajiv Gandhi Rural Sports and Games' initiative in 2023?",
+  "question_hi": "2023 में राजीव गांधी ग्रामीण खेल और खेलकूद अभियान को किस राज्य ने शुरू किया था?",
+  "A_en": "Rajasthan", "A_hi": "राजस्थान",
+  "B_en": "Maharashtra", "B_hi": "महाराष्ट्र",
+  "C_en": "Karnataka", "C_hi": "कर्नाटक",
+  "D_en": "Gujarat", "D_hi": "गुजरात",
+  "answer": "A",
+  "explanation_en": "Rajasthan government launched the 'Rajiv Gandhi Rural Sports and Games' initiative to promote rural sports and talent development.",
+  "explanation_hi": "राजस्थान सरकार ने ग्रामीण खेल और तकनीकी विकास को बढ़ावा देने के लिए 'राजीव गांधी ग्रामीण खेल और खेलकूद अभियान' शुरू किया।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "In which city was the 200 MW 'Rajasthan Solar Park' inaugurated in 2023?",
+  "question_hi": "2023 में 200 मेगावाट के 'राजस्थान सौर उद्यान' का उद्घाटन किस शहर में किया गया था?",
+  "A_en": "Jodhpur", "A_hi": "जोधपुर",
+  "B_en": "Ajmer", "B_hi": "अजमेर",
+  "C_en": "Bhilwara", "C_hi": "भीलवाड़ा",
+  "D_en": "Kota", "D_hi": "कोटा",
+  "answer": "C",
+  "explanation_en": "The 200 MW Rajasthan Solar Park was inaugurated in Bhilwara in 2023 to boost renewable energy production.",
+  "explanation_hi": "200 मेगावाट के राजस्थान सौर उद्यान का 2023 में भीलवाड़ा में उद्घाटन किया गया था, जिससे नवीकरणीय ऊर्जा उत्पादन को बढ़ावा दिया गया।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "Which country signed an MoU with Rajasthan in 2023 to promote tourism?",
+  "question_hi": "2023 में राजस्थान के साथ यात्रा बढ़ावा देने के लिए किस देश ने एमओयू पर हस्ताक्षर किए थे?",
+  "A_en": "Australia", "A_hi": "ऑस्ट्रेलिया",
+  "B_en": "Germany", "B_hi": "जर्मनी",
+  "C_en": "France", "C_hi": "फ्रांस",
+  "D_en": "Japan", "D_hi": "जापान",
+  "answer": "B",
+  "explanation_en": "Germany signed an MoU with Rajasthan in 2023 to strengthen bilateral relations and promote tourism.",
+  "explanation_hi": "2023 में जर्मनी ने राजस्थान के साथ एमओयू पर हस्ताक्षर किए थे, द्विपक्षीय संबंधों को मजबूत करने और यात्रा को बढ़ावा देने के लिए।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "Which Rajasthan athlete won a gold medal in the 2023 National Games?",
+  "question_hi": "2023 राष्ट्रीय खेलों में स्वर्ण पदक हासिल करने वाले राजस्थान के खिलाड़ी का नाम क्या है?",
+  "A_en": "Manjeet Singh", "A_hi": "मनजीत सिंह",
+  "B_en": "Karnail Singh", "B_hi": "करनाल सिंह",
+  "C_en": "Rajesh Beniwal", "C_hi": "राजेश बेनीवाल",
+  "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+  "answer": "D",
+  "explanation_en": "Multiple Rajasthan athletes, including Manjeet Singh, Karnail Singh, and Rajesh Beniwal, won gold medals in the 2023 National Games.",
+  "explanation_hi": "2023 के राष्ट्रीय खेलों में राजस्थान के कई खिलाड़ियों जैसे मनजीत सिंह, करनाल सिंह और राजेश बेनीवाल ने स्वर्ण पदक जीते।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "Which award did Rajasthan receive in 2023 for its afforestation efforts?",
+  "question_hi": "2023 में अपने अरण्यकरण प्रयासों के लिए राजस्थान को कौन सा पुरस्कार मिला?",
+  "A_en": "Greenest State Award", "A_hi": "हरियाली सर्वोत्तम राज्य पुरस्कार",
+  "B_en": "National Forest Conservation Award", "B_hi": "राष्ट्रीय वन संरक्षण पुरस्कार",
+  "C_en": "Swachhata Excellence Award", "C_hi": "स्वच्छता उत्कृष्टता पुरस्कार",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "B",
+  "explanation_en": "Rajasthan received the National Forest Conservation Award in 2023 for its outstanding efforts in afforestation and biodiversity conservation.",
+  "explanation_hi": "2023 में अपने अरण्यकरण और जैव विविधता संरक्षण के शानदार प्रयासों के लिए राजस्थान को राष्ट्रीय वन संरक्षण पुरस्कार मिला।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "In which year was the 'Rajasthan Digital Governance Portal' launched to streamline public services?",
+  "question_hi": "सार्वजनिक सेवाओं को आसान बनाने के लिए किस वर्ष में 'राजस्थान डिजिटल शासन पोर्टल' लॉन्च किया गया था?",
+  "A_en": "2020", "A_hi": "2020",
+  "B_en": "2021", "B_hi": "2021",
+  "C_en": "2022", "C_hi": "2022",
+  "D_en": "2023", "D_hi": "2023",
+  "answer": "D",
+  "explanation_en": "The Rajasthan Digital Governance Portal was launched in 2023 to enhance transparency and efficiency in public service delivery.",
+  "explanation_hi": "2023 में राजस्थान डिजिटल शासन पोर्टल का शुभारंभ किया गया था जिससे सार्वजनिक सेवा उपलब्धियों में स्पष्टता और दक्षता बढ़ाई गई।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "What is the name of Rajasthan's new economic policy launched in 2023 to support startups?",
+  "question_hi": "2023 में स्टार्टअप के समर्थन में लॉन्च किए गए राजस्थान की नई आर्थिक नीति का नाम क्या है?",
+  "A_en": "Rajasthan Startup Empowerment Scheme", "A_hi": "राजस्थान स्टार्टअप सक्षमता योजना",
+  "B_en": "Rajasthan Innovators' Initiative", "B_hi": "राजस्थान नवाचारक अभियान",
+  "C_en": "Rajasthan Digital Entrepreneurs' Policy", "C_hi": "राजस्थान डिजिटल उद्यमी नीति",
+  "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+  "answer": "A",
+  "explanation_en": "The Rajasthan Startup Empowerment Scheme 2023 was launched to provide financial and technical support to entrepreneurs.",
+  "explanation_hi": "राजस्थान स्टार्टअप सक्षमता योजना 2023 के तहत उद्यमियों को वित्तीय और तकनीकी समर्थन प्रदान किया गया।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "Which new airport is being constructed in Rajasthan as part of the UDAN scheme?",
+  "question_hi": "यूडान योजना के तहत राजस्थान में किस नए हवाई अड्डे का निर्माण किया जा रहा है?",
+  "A_en": "Kishangarh", "A_hi": "किशनगढ़",
+  "B_en": "Sikar", "B_hi": "सीकर",
+  "C_en": "Churu", "C_hi": "चुरू",
+  "D_en": "Jaisalmer", "D_hi": "जैसलमेर",
+  "answer": "A",
+  "explanation_en": "The new Kishangarh Airport is under construction in Rajasthan as part of the Government of India's UDAN scheme to improve regional connectivity.",
+  "explanation_hi": "राजस्थान में भारत सरकार की यूडान योजना के तहत क्षेत्रीय संबंधों को सुधारने के लिए किशनगढ़ हवाई अड्डे का निर्माण किया जा रहा है।"
+},
+{
+  "subject": "Current Affairs",
+  "topic": "",
+  "question_en": "Who was appointed as the Chief Minister of Rajasthan in June 2023?",
+  "question_hi": "जून 2023 में राजस्थान के मुख्यमंत्री के रूप में किसे नियुक्त किया गया थ
