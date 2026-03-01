@@ -1,0 +1,50 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी किस शहर से होती है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Ahmedabad",
+"C_hi": "अहमदाबाद",
+"D_en": "Jaipur",
+"D_hi": "जयपुर",
+"answer": "D",
+"explanation_en": "Jaipur is the capital of Rajasthan. Rajasthan was ruled by various kingdoms and maharajas before becoming a state in India. Among these rulers, the Jaipur Fort was built by Maharaja Sawai Jai Singh II in 1727 and has remained as the capital ever since.",
+"explanation_hi": "राजस्थान की राजधानी है जयपुर। राजस्थान को अर्थवी और माहाराज अलीगर कोने के में अर्थवी और मालवान कोने के निष्टियां के तिहाँ कोने के में संतुलां के राजना से संबंध करती है।",
+"question_hi": "राजस्थान को प्रोलां निष्टियां के में संतुलां से संबंध करती है।",
+"answer_hi": "राजस्थान को प्रोलां निष्टियां के में संतुलां से संबंध करती है।",
+"answer_en": "Rajasthan is connected to Pratiharas in the Pratiharas kingdom.",
+"question_en": "What kingdom did Rajasthan belong to?",
+"question_hi": "राजस्थान किस क्षमता की प्रतीराष्ट्र से संबंध करती है।",
+"options": [
+  {
+    "option_hi": "प्रतीराष्ट्र",
+    "option_en": "Pratiharas",
+    "answer": "प्रतीराष्ट्र"
+  },
+  {
+    "option_hi": "पत्तिराष्ट्र",
+    "option_en": "Pattishatras",
+    "answer": "पत्तिराष्ट्र"
+  },
+  {
+    "option_hi": "सरस्वामी",
+    "option_en": "Sarasvati",
+    "answer": "सरस्वामी"
+  },
+  {
+    "option_hi": "चंत्राष्ट्र",
+    "option_en": "Chauth Patshah",
+    "answer": "चंत्राष्ट्र"
+  },
+  {
+    "option_hi": "प्रतिष्ट्र",
+    "option_en": "Pratihar",
+    "answer": "प्रतिष्ट्र"
+  }
+]
+}
