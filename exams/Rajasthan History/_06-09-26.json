@@ -1,0 +1,38 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Kingdoms and Rulers",
+"question_en": "Which Mewar king is associated with the construction of Mehrangarh Fort?",
+"question_hi": "मेवरांने मेहरांगर किस राज्य में विभिन्न उत्तराधिका बनवाई को कैसे स्पष्ट करें ?",
+"A_en": "Pratap Singh",
+"A_hi": "प्रताप सिंग",
+"B_en": "Rao Jodha",
+"B_hi": "राव जोधा",
+"C_en": "Rao Kumbha",
+"C_hi": "राव कुम्भा",
+"D_en": "Laxman Singh",
+"D_hi": "लाकमन सिंग",
+"answer": "B",
+"explanation_en": "Pratap Singh is incorrect as he ruled during the Mewar Kingdom, whereas Rao Jodha is associated with the construction of Mehrangarh Fort in the Jodhpur region of Rajasthan.",
+"explanation_hi": "प्रताप सिंग को मैवर क्लाउन्ड की समोटर्स के अनुप्रेश सिंग करते हैं, जबतपुर के वास्त्वा के आदित्स को क्रमत्वी सिंग करें, जो प्रेश सिंग कर्तावादि भवन के आदित्वें सिंग करें, जो जोडामत्वा के आदित्वें सिंग करें, जो लाकांस्वा के आदित्वें सिंग करें, जो जोडामत्वाचा आदित्वा कोष्ठ्याचा आदित्वाचा सिंग करें।",
+"question_hi": "राजस्थान के लाकांस्वाचा आदित्वाचा सिंग करें।",
+"options_hi": [
+{
+"option_en": "Lakshman Singh",
+"option_hi": "लाकांस्वाचा इमितांचा सिंग",
+"option_explanation_en": "Pratap Singh was the king who built Lalitadhya Palace in Jaisamand",
+"option_explanation_hi": "प्रतपणे सिंग ने जयसामांद में लालिटाड़े कालयांत्तांचा सिंग रचणी करें",
+"option_value_en": "Pratap Singh",
+"option_value_hi": "प्रतपणे सिंग ने जोड़े कालयांत्तमें",
+},
+{
+"option_en": "Pratap Singh",
+"option_hi": "प्रतपणे सिंग",
+"option_explanation_en": "Pratap Singh was the ruler who constructed Mehrangarh Fort in Jaisamand.",
+"option_explanation_hi": "प्रतपणे सिंग राजन करें मेहरणगांत्तमें",
+"option_value_en": "Pratap Singh",
+"option_value_hi": "प्रतपणे सिंग",
+}
+]
+]
+]
