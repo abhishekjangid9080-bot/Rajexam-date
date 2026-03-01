@@ -1,0 +1,21 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Politics",
+"question_en": "Which of the following kings played a significant role in the establishment of Jaipur as the capital of Rajasthan?",
+"question_hi": "यहीं निम्नलिखित में कौन से सम्मानित किया जैसा कि जयपुर को राजस्थान की राजधानी होने के लिए करीं।",
+"A_en": "Bhagwant Singh",
+"A_hi": "भागवतनाथ सिंह",
+"B_en": "Pratap Singh",
+"B_hi": "प्रताप सिंह",
+"C_en": "Chet Singh",
+"C_hi": "चेतनाथ",
+"D_en": "Jai Singh II",
+"D_hi": "जयंगंडीस II",
+"answer": "D",
+"explanation_en": "Jai Singh II played a crucial role in establishing Jaipur as the capital of Rajasthan.\nजयंगंडीस II राजस्थान के राजधानी को निर्माण करने के लिए गए हैं।",
+"explanation_hi": "Jai Singh II ने राजस्थान के राजधाना को निर्माण करने के लिए हैं।",
+"question_en": "Who is the founder of Jaipur and established it as the capital of Rajasthan?",
+"question_hi": "जयंगंडीस II कौरणी के हैंग करने के लिए हैं।",
+"question_ar": "من هو مؤسس جايبور وجعلها عاصمة راجستان?",
+}
