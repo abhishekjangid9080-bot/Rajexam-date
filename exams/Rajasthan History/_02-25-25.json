@@ -1,0 +1,61 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is considered the founder of Rajasthan?",
+"question_hi": "राजस्थान की संदर्भ कौन हैं ?",
+"A_en": "Pratap Singh",
+"A_hi": "प्रताप सिंह",
+"B_en": "Amar Singh",
+"B_hi": "अमर सिंह",
+"C_en": "Rao Jodha",
+"C_hi": "राव जोध",
+"D_en": "Udai Singh",
+"D_hi": "उदय सिंह",
+"answer": "D",
+"explanation_en": "Udai Singh is considered the founder of Rajasthan. He founded the city of Jaipur in 1727, which became the capital of the Rajputana region and later the state of Rajasthan after Independence.",
+"explanation_hi": "उदय सिंह राजस्थान के संदर्भूत प्रत्यक्षमान एक समस्या पुलिस क्रूर स्टेट के बने एस उसी ही। इसका बना बागों की राजधानी मंगलम, तो राजस्थान के बने संदर्भवन उसी ही। एस के बने बागों के मंगलम, तो राजस्थान के बने संदर्भवन उसी ही। एस के बने बागों के मंगलम, तो राजस्थान के बने संदर्भवन उसी ही। AS के बने बागों के मंगलम, तो राजस्थान के बने संदर्भवन उसी ही। AS के बने बागों के मंगलम, तो राजस्थान के बने संदर्भवन उसी ही। AS के बने बागों के मंगलम, तो राजस्थान के बने संदर्भवन उसी ही। AS के बागों के मंगलम",
+
+"question_en": "Who is the founder of Rajasthan?",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Prithvi Singh",
+"choice_text": "पृथ्विव्हिंग सिंग",
+"correct_answer": false,
+"option_id_hi": 1,
+"option_text_hi": "पृथ्विव्हिंग सिंग",
+"choice_text_hi": "पृथ्विव्हिंग सिंग",
+"correct_answer_hi": true
+},
+{
+"option_id": 2,
+"option_text": "Jaswant Singh",
+"choice_text": "जास्वांत सिंग",
+"correct_answer": false,
+"option_id_hi": 2,
+"option_text_hi": "जास्वांत सिंग",
+"choice_text_hi": "जास्वांत सिंग",
+"correct_answer_hi": true
+},
+{
+"option_id": 3,
+"option_text": "Rao Jodha",
+"choice_text": "राओ झोहा",
+"correct_answer": false,
+"option_id_hi": 3,
+"option_text_hi": "राओ झोहा",
+"choice_text_hi": "राओ झोहा",
+"correct_answer_hi": false
+},
+{
+"option_id": 4,
+"option_text": "Rao Jodha",
+"choice_text": "राओ झोहा",
+"correct_answer": false,
+"option_id_hi": 4,
+"option_text_hi": "राओ झोहा",
+"choice_text_hi": "राओ झोहा",
+"correct_answer_hi": true
+}
+]
