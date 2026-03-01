@@ -1,0 +1,162 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Polity, following the given instructions. Let me start by recalling the key areas in Rajasthan Polity. Topics like the Constitution of Rajasthan, governance structure, important acts, and key institutions come to mind. Since the user specified that the topic is blank, I should cover various aspects of Rajasthan Polity to ensure diversity in the questions.
+
+First, I'll list out possible topics. The Rajasthan Constitution, roles of the Governor and Chief Minister, Legislative Assembly structure, important departments, and historical aspects like constitutional amendments related to Rajasthan. Each topic can have 1-2 questions.
+
+Next, I need to make sure that each question has options in both Hindi and English, and explanations in both languages. The difficulty level should be moderate to align with Rajasthan State Exams and similar exams. I should avoid very easy or very hard questions to maintain the balance.
+
+Let me start with the first question on the Constitution of Rajasthan. I know that the Rajasthan Constitution was adopted on a specific date. The correct answer is 1956. So the options should include other years when other states adopted their constitutions. For example, 1950, 1956, 1960, 1975.
+
+Then, the role of the Governor. The Governor is appointed by the President. So options could include the President, Chief Minister, Speaker, etc. The correct answer is the President.
+
+For the third question, the term of the Legislative Assembly is 5 years, similar to most Indian states. So the question could be about the duration.
+
+Next, the number of districts in Rajasthan. As of now, it's 71 districts. Other options could be 70, 72, 75.
+
+The fifth question could be about the current Chief Minister of Rajasthan. As of 2023, it's Bhajan Lal Sharma. Other options could include past CMs like Vasundhara Raje or Ashok Gehlot.
+
+The sixth question might be about the Rajasthan Panchayati Raj Act, which was enacted in 1994. Other years could be 1992, 1995, 1998.
+
+The seventh question is about the number of Lok Sabha seats in Rajasthan, which is 25. Other options could be 24, 26, 27.
+
+For the eighth question, the Rajasthan Legislative Assembly has 200 members. So options like 195, 200, 205, 210.
+
+The ninth question could be about the official language of Rajasthan, which is Hindi. Other options might include Rajasthani or Sanskrit.
+
+Lastly, the tenth question might ask about the first Speaker of the Rajasthan Legislative Assembly. The correct answer is Kishan Mal Sahu. Other options could be prominent figures from Rajasthan's political history.
+
+I need to ensure that all translations are accurate in both Hindi and English. Also, explanations should clearly justify the correct answer. Let me review each question for accuracy and clarity. Make sure there are no repeated topics and that the questions cover a broad range of Rajasthan Polity subjects. Check that the answer options are plausible and the correct answer is unambiguous. Once that's done, structure the JSON strictly as per the provided example, without any extra text.
+</think>
+
+[
+{
+"subject": "Rajasthan Polity",
+"topic": "Rajasthan Constitution",
+"question_en": "When was the Constitution of Rajasthan adopted?",
+"question_hi": "राजस्थान की संविधान कब अपनाया गया था?",
+"A_en": "1950", "A_hi": "1950",
+"B_en": "1956", "B_hi": "1956",
+"C_en": "1960", "C_hi": "1960",
+"D_en": "1975", "D_hi": "1975",
+"answer": "B",
+"explanation_en": "The Constitution of Rajasthan was adopted on January 25, 1956.",
+"explanation_hi": "राजस्थान की संविधान 25 जनवरी 1956 को अपनाया गया था।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Governance Structure",
+"question_en": "Who appoints the Governor of Rajasthan?",
+"question_hi": "राजस्थान के राज्यपाल की नियुक्ति कौन करता है?",
+"A_en": "President of India", "A_hi": "भारत के राष्ट्रपति",
+"B_en": "Chief Minister of Rajasthan", "B_hi": "राजस्थान के मुख्यमंत्री",
+"C_en": "Speaker of Legislative Assembly", "C_hi": "विधानसभा के अध्यक्ष",
+"D_en": "Union Home Minister", "D_hi": "केंद्रीय गृह मंत्री",
+"answer": "A",
+"explanation_en": "The Governor of Rajasthan is appointed by the President of India.",
+"explanation_hi": "राजस्थान के राज्यपाल की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Legislative Assembly",
+"question_en": "What is the term of the Rajasthan Legislative Assembly?",
+"question_hi": "राजस्थान विधानसभा का कार्यकाल कितना होता है?",
+"A_en": "3 years", "A_hi": "3 वर्ष",
+"B_en": "4 years", "B_hi": "4 वर्ष",
+"C_en": "5 years", "C_hi": "5 वर्ष",
+"D_en": "6 years", "D_hi": "6 वर्ष",
+"answer": "C",
+"explanation_en": "The term of the Rajasthan Legislative Assembly is 5 years.",
+"explanation_hi": "राजस्थान विधानसभा का कार्यकाल 5 वर्ष होता है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Administrative Divisions",
+"question_en": "How many districts are there in Rajasthan as of 2023?",
+"question_hi": "2023 तक राजस्थान में कितने जिले हैं?",
+"A_en": "70", "A_hi": "70",
+"B_en": "71", "B_hi": "71",
+"C_en": "72", "C_hi": "72",
+"D_en": "75", "D_hi": "75",
+"answer": "B",
+"explanation_en": "As of 2023, Rajasthan has 71 districts.",
+"explanation_hi": "2023 तक राजस्थान में 71 जिले हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Chief Minister",
+"question_en": "Who is the current Chief Minister of Rajasthan?",
+"question_hi": "राजस्थान के वर्तमान मुख्यमंत्री कौन हैं?",
+"A_en": "Ashok Gehlot", "A_hi": "अशोक गहलोत",
+"B_en": "Santosh Gangwar", "B_hi": "संतोष गंगवार",
+"C_en": "Bhajan Lal Sharma", "C_hi": "भजन लाल शर्मा",
+"D_en": "Vasundhara Raje", "D_hi": "वसुंधरा राजे",
+"answer": "C",
+"explanation_en": "Bhajan Lal Sharma is the current Chief Minister of Rajasthan.",
+"explanation_hi": "भजन लाल शर्मा राजस्थान के वर्तमान मुख्यमंत्री हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Panchayati Raj",
+"question_en": "In which year was the Rajasthan Panchayati Raj Act passed?",
+"question_hi": "राजस्थान पंचायती राज अधिनियम कब पारित किया गया था?",
+"A_en": "1992", "A_hi": "1992",
+"B_en": "1994", "B_hi": "1994",
+"C_en": "1995", "C_hi": "1995",
+"D_en": "1998", "D_hi": "1998",
+"answer": "B",
+"explanation_en": "The Rajasthan Panchayati Raj Act was passed in 1994.",
+"explanation_hi": "राजस्थान पंचायती राज अधिनियम 1994 में पारित किया गया था।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Legislative Assembly",
+"question_en": "How many Lok Sabha seats are there in Rajasthan?",
+"question_hi": "राजस्थान में कितनी लोक सभा सीटें हैं?",
+"A_en": "24", "A_hi": "24",
+"B_en": "25", "B_hi": "25",
+"C_en": "26", "C_hi": "26",
+"D_en": "27", "D_hi": "27",
+"answer": "B",
+"explanation_en": "Rajasthan has 25 Lok Sabha seats.",
+"explanation_hi": "राजस्थान में 25 लोक सभा सीटें हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Legislative Assembly",
+"question_en": "How many members are there in the Rajasthan Legislative Assembly?",
+"question_hi": "राजस्थान विधानसभा में कुल कितने सदस्य हैं?",
+"A_en": "195", "A_hi": "195",
+"B_en": "200", "B_hi": "200",
+"C_en": "205", "C_hi": "205",
+"D_en": "210", "D_hi": "210",
+"answer": "B",
+"explanation_en": "The Rajasthan Legislative Assembly consists of 200 members.",
+"explanation_hi": "राजस्थान विधानसभा में 200 सदस्य हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Official Language",
+"question_en": "What is the official language of Rajasthan?",
+"question_hi": "राजस्थान की आधिकारिक भाषा क्या है?",
+"A_en": "Rajasthani", "A_hi": "राजस्थानी",
+"B_en": "Hindi", "B_hi": "हिंदी",
+"C_en": "Sanskrit", "C_hi": "संस्कृत",
+"D_en": "English", "D_hi": "अंग्रेजी",
+"answer": "B",
+"explanation_en": "Hindi is the official language of Rajasthan.",
+"explanation_hi": "हिंदी राजस्थान की आधिकारिक भाषा है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Historical Figures",
+"question_en": "Who was the first Speaker of the Rajasthan Legislative Assembly?",
+"question_hi": "राजस्थान विधानसभा के पहले अध्यक्ष कौन थे?",
+"A_en": "Kishan Mal Sahu", "A_hi": "किशन माल साहू",
+"B_en": "Rajendra Prasad", "B_hi": "राजेंद्र प्रसाद",
+"C_en": "Vishnu Deo Saxena", "C_hi": "विश्वनाथ देव सक्सेना",
+"D_en": "Manohar Lal", "D_hi": "मनोहर लाल",
+"answer": "A",
+"explanation_en": "Kishan Mal Sahu was the first Speaker of the Rajasthan Legislative Assembly.",
+"explanation_hi": "किशन माल साहू राजस्थान विधानसभा के पहले अध्यक्ष थे।"
+}
+]
