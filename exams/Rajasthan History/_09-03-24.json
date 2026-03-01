@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous lake is located in Udaipur?",
+"question_hi": "उदयपुर में किस प्रमोटेन स्थित है?",
+"A_en": "Pichola Lake", "A_hi": "पिछोला प्रमोटेन",
+"B_en": "Fateh Sagar Lake", "B_hi": "फतेह सागर प्रमोटेन",
+"C_en": "Sajjan Garh Lake", "C_hi": "सज्जन गांव प्रमोटेन",
+"D_en": "Udaipur", "D_hi": "उदयपुर",
+"answer": "B",
+"explanation_en": "Fateh Sagar Lake is a famous lake located in Udaipur, Rajasthan.",
+"explanation_hi": "फतेह सागर प्रमोटेन, राजस्थान में है।",
+}
+]
