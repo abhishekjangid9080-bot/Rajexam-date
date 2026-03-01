@@ -1,0 +1,65 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Famous Cities",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी केवल यहा है बताने के लिए क्या सूचना पूछे जाने की पूछी जानी जानी केवल यहा है बताने के लिए क्या मैं पूछे जाने की पूछी जानी कोई मैं पूछे जानी कोई मैं पूछे जानी है",
+"question_hi": "राजस्थान के पूछे जाने कोई मैं पूछे जाने कोई मैं पूछे जानी",
+"option_en": [
+{
+"option_text": "Jaipur",
+"option_code": "jaipur",
+"option_id": 1
+},
+{
+"option_text": "Jodhpur",
+"option_code": "jodhpur",
+"option_id": 2
+},
+{
+"option_text": "Udaipur",
+"option_code": "udaipur",
+"option_id": 3
+},
+{
+"option_text": "Alwar",
+"option_code": "alwar",
+"option_id": 4
+},
+{
+"option_text": "Churu",
+"option_code": "churu",
+"option_id": 5
+}
+],
+"option_hi": [
+{
+"option_text": "जयपुर",
+"option_code": "jaipur",
+"option_id": 1
+},
+{
+"option_text": "जोधपुर",
+"option_code": "jodhpur",
+"option_id": 2
+},
+{
+"option_text": "उदयपुर",
+"option_code": "udaipur",
+"option_id": 3
+},
+{
+"option_text": "आलवार",
+"option_code": "alwar",
+"option_id": 4
+},
+{
+"option_text": "चुरू",
+"option_code": "churu",
+"option_id": 5
+}
+],
+"answer_key": "jaipur",
+"answer_code": "jaipur",
+"answer_id": 1
+}
