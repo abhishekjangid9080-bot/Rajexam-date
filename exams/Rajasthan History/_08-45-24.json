@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Rai Singh?",
+"question_hi": "राजस्थान में राजा राय सिंह ने किया गया इन्द्रजंगत क्या?",
+"A_en": "Amer Fort", "A_hi": "अमेर कंधर",
+"B_en": "Kihot Fort", "B_hi": "किहोत कंधर",
+"C_en": "Meherazad Fort", "C_hi": "मेहराद कंधर",
+"D_en": "Gogad Fort", "D_hi": "गोगड कंधर",
+"answer": "B",
+"explanation_en": "Amer Fort was built by Raja Man Singh I of Amer, whereas Kihot Fort was built by Raja Mansingh II. Amer Fort and Kihot Fort are both located in Jaipur.",
+"explanation_hi": "अमेर कंधर में राजा मन सिंह I ने बना, जब्से, राजा मनसिंह II ने Kihot Fort बना है। अमेर कंधर और Kihot Fort पर्यामंड़ में बने हैं।",
+"explanation_hi": "अमेर कंधर को राजा मन सिंह I ने बना है। जब्से में बना है।",
+"answer": "B"
+}
+]
