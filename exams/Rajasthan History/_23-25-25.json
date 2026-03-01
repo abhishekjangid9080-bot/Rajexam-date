@@ -1,0 +1,95 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan State Formation",
+"question_en": "Which historical event led to the formation of the present-day state of Rajasthan?",
+"question_hi": "राजस्थान की कौन-सी भिन्नों के निर्माण का मतलब सामना करना होगा।",
+"A_en": "The merger of Rajasthan, Gujarat, and Marwar",
+"A_hi": "राजस्थान, गुजरात और मरवाईयां के मिलने के कारण राजस्थान की स्थापने का मतलब सामना करना होगा।",
+"B_en": "The union of Rajput kingdoms",
+"B_hi": "राजपुत्रों की सम्बंधिति",
+"C_en": "The integration of Western Rajasthan with Udaipur and Jodhpur",
+"C_hi": "पूर्व राजस्थान से उदासीन और जोधपुर के मिलने का मतलब",
+"D_en": "The merger of Jaipur, Jodhpur and Udaipur",
+"D_hi": "जापुर, जोधपुर और उदासीन के मिलने का मतलब",
+"question_en": "What event led to the establishment of the Mewar kingdom in Rajasthan?",
+"question_hi": "राजस्थान में Mewar का कंकार क्या विभाग के तहत: मेयर का कंकार",
+"answer": "D",
+"explanation_en": "The establishment of the Mewar kingdom in Rajasthan can be traced back to the conquest of the Mewar region by Rana Kumbha.",
+"explanation_hi": "राजस्थान में Mewar का कंकार की आवश्यांशी के तहत: मेयर का कंकार",
+"options": [
+{
+"text": "A",
+"value": "A",
+"en": "A",
+"hi": "आ"
+},
+{
+"text": "B",
+"value": "B",
+"en": "B",
+"hi": "ब"
+},
+{
+"text": "C",
+"value": "C",
+"en": "C",
+"hi": "च"
+},
+{
+"text": "D",
+"value": "D",
+"en": "D",
+"hi": "ड"
+},
+{
+"text": "E",
+"value": "E",
+"en": "E",
+"hi": "ए"
+}
+],
+"selected_option": "D"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan during Mughal rule",
+"question_en": "Which Mughal emperor was instrumental in the establishment of Jaipur as a walled city?",
+"question_hi": "मुगोल महाराष्ट्र में जैनेवाले केविभाग में जैनेवाला कांने Jaipur को एक सिंगल के न्यायां केविभाग में जैनेवाला कांने Jaipur ka Rajput rulers ka support lekar Jaipur ko walled city banaya gaya tha",
+"A_en": "Jai Singh I",
+"A_hi": "जैनेवाला",
+"B_en": "Maharaja Jai Singh II",
+"B_hi": "महाराष्ट्स डी",
+"C_en": "Ala Singh",
+"C_hi": "अला सिंग",
+"D_en": "Mewar rulers",
+"D_hi": "मेवार मीयां",
+"answer": "B",
+"explanation_en": "Maharaja Jai Singh II was instrumental in turning Jaipur into a walled city with the support of Rajput rulers.",
+"explanation_hi": "महाराष्ट्स डी के साधिकांग के से राष्ट्स डी के साधिकांग",
+"options": [
+{
+"text": "Ala Singh",
+"value": "C",
+"en": "Ala Singh",
+"hi": "अला सिंग",
+},
+{
+"text": "Maharaja Jai Singh I",
+"value": "A",
+"en": "Maharaja Jai Singh I",
+"hi": "महाराष्ट्स डी साधिकांग",
+},
+{
+"text": "Mewar rulers",
+"value": "D",
+"en": "Mewar rulers",
+"hi": "महाराष्ट्स डी साधिकांग",
+},
+{
+"text": "Kumbal Singh",
+"value": "E",
+"en": "Kumbal Singh",
+"hi": "कमहाराष्ट्स डी साधिकांग",
+}"
+]
