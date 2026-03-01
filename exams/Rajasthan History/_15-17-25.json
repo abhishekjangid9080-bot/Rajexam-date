@@ -1,0 +1,58 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace is located in Jaipur?",
+"question_hi": "जयपुर में प्रसिद्ध पल्केंट क्या हैं?",
+"A_en": "Amer Fort", "A_hi": "आमर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaph of Raja Jai Singh", "C_hi": "राजा जै सिंघ के एकीकरण",
+"D_en": "Nahargarh Fort", "D_hi": "नाहारगढ़ फोट",
+"answer": "B",
+"explanation_en": "The Amer Fort and Hawa Mahal are famous palaces located in Jaipur. The Cenotaph of Raja Jai Singh is a historical monument dedicated to Raja Jai Singh II. Nahargarh Fort is not located in Jaipur but in the nearby city of Amer, Jaipur. Hawa Mahal is known for its unique architecture and beauty, whereas Amer Fort is a symbol of Rajasthani culture and history.",
+"explanation_hi": "जयपुर में Amer Fort और Hawa Mahal के लोकीय पलकों में हैंने किया गया है, जो राजनी संकितर्थ और राजघर का उपयोगिक अन्तराजमंडल में निवास की मौक्रोः उपयोगिक अन्तराजम्योगिक अन्तराजम्योगिक अन्तराजमंडल में फरहता है",
+"A_en": "Amer Fort",
+"A_hi": "आमेर फोट",
+"B_en": "Hawa Mahal",
+"B_hi": "हाउ महा",
+"C_en": "Udaipur",
+"C_hi": "उदायपुर",
+"D_en": "Ranthambore",
+"D_hi": "रान्तमभांगोदर",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace in Jaipur known for its unique architecture and beauty.",
+"explanation_hi": "हाउ महा एक जयपुर में जाने वाला है और द्वार के स्मिति और उदार्मान के सामर्थ में.",
+"explanation_hi": "हाउ महा एक जयपुर में जानना वाला है और द्वार के सामर्थ में.",
+"explanation_en": "Hawa Mahal is a popular landmark in Jaipur known for its ventilation system and architectural beauty.",
+"question_en": "Which famous palace is located in Jaipur and known for its ventilation system?",
+"question_hi": "जयपुर में वाटियें और अभिजन के सामर्थ में.",
+"options_en": [
+{
+"option_text": "Amer Fort",
+"option_value": "Amer Fort",
+},
+{
+"option_text": "Hawa Mahal",
+"option_value": "Hawa Mahal",
+},
+{
+"option_text": "Ranthambore",
+"option_value": "Ranthambore",
+}
+],
+"options_hi": [
+{
+"option_text": "आमेर फोट",
+"option_value": "Amer Fort",
+},
+{
+"option_text": "हाउ महा",
+"option_value": "Hawa Mahal",
+},
+{
+"option_text": "रंठमेर",
+"option_value": "Ranthambore",
+}
+]
+}
+]
