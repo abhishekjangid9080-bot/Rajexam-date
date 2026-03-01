@@ -1,0 +1,21 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Rich History",
+"question_en": "What is the origin of the name Rajasthan?",
+"question_hi": "राजस्थान का नाम क्या है।",
+"A_en": "Originally from the Sanskrit word 'Rajasthan'",
+"A_hi": "संस्कृतियों के सामान्य कथा",
+"B_en": "From Rajas",
+"B_hi": "राजाजी",
+"C_en": "From a Rajput kingdom",
+"C_hi": "राजपूत सामान्य कथा",
+"D_en": "From Rajas, the royal families",
+"D_hi": "राजाजी, राजाजी के सामान्य कथा",
+"answer": "C",
+"explanation_en": "Rajasthan's name originates from the Rajput kingdoms that once ruled the region. In Sanskrit, 'Rajas' means king and 'thana' means territory or land. Combined, they form the term 'Rajasthan', representing the historical kingdoms that were present in the area.",
+"explanation_hi": "राजस्थान की नाम, राजपूतों के कानून और कानून के सामान्य कथा",
+"level": "Intermediate",
+"exam_type": "Screening test"
+}
+]
