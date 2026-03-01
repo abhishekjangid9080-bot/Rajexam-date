@@ -1,0 +1,158 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs in Static GK for various exams like Rajasthan State Exams, SSC, and Railway. The topic isn't specified, so I need to choose relevant sub-topics under Static GK that are commonly tested. 
+
+First, I should recall common Static GK areas: Geography, History, Science, Important Days, Books and Authors, etc. Since Rajasthan is a state, including questions about its geography and history would be good. Also, general Indian history and famous personalities are important.
+
+I need to ensure that each question is in both Hindi and English, with options in both languages. The answer and explanations should also be in both languages. The structure must follow the provided JSON example strictly.
+
+Let me start brainstorming topics. For Rajasthan, I can ask about capitals, states with the highest population, historical figures. For general Static GK, I can include questions on the largest states, important days, scientific facts, and famous personalities.
+
+I need to verify the accuracy of each fact. For example, the capital of Rajasthan is Jaipur, the largest state by area is Rajasthan. The national game of India is hockey. Important days like Earth Day are April 22. For books and authors, I should pick notable works. For example, "The God of Small Things" by Arundhati Roy. 
+
+I need to make sure the options are plausible and not too obvious. For example, in the question about the national game, options like cricket, football, and badminton are common distractors. 
+
+Also, the difficulty level should be medium to hard, as per Static GK exams. For example, asking about the state with the longest coastline might be a bit tricky because Gujarat has the longest coastline, which is not commonly known by everyone.
+
+I should check for any possible errors. For instance, the correct answer for the question about the first female President of India is Pratibha Patil, not Sonia Gandhi or others. Similarly, the first woman Prime Minister of India is Indira Gandhi, which is a common fact but needs to be accurate.
+
+Another point is the explanation part. It should be concise and clearly state why the answer is correct without being too verbose. For example, in the question about Earth Day, the explanation should mention the year 1970 when it was first celebrated.
+
+I also need to ensure that the Hindi translations are accurate and in proper Hindi script. For example, "राजस्थान का सबसे बड़ा जिला" for "Largest district of Rajasthan" should be correctly translated.
+
+Once all the questions are drafted, I'll structure them in JSON format, making sure each object includes all required fields and the answer is correctly referenced (A, B, C, D). Double-checking the answer keys to avoid any mix-up between options.
+
+Finally, review each question for clarity, correctness, and adherence to the instructions provided. Ensuring that the JSON is properly formatted without any syntax errors will be crucial for the user to use this data effectively.
+</think>
+
+[
+  {
+    "subject": "Static GK",
+    "topic": "Geography",
+    "question_en": "Which is the largest district of Rajasthan?",
+    "question_hi": "राजस्थान का सबसे बड़ा जिला कौन-सा है?",
+    "A_en": "Jaisalmer", "A_hi": "जैसलमेर",
+    "B_en": "Churu", "B_hi": "चूरू",
+    "C_en": "Barmer", "C_hi": "बाड़मेर",
+    "D_en": "Jalore", "D_hi": "जालोर",
+    "answer": "A",
+    "explanation_en": "Jaisalmer is the largest district of Rajasthan by area.",
+    "explanation_hi": "जैसलमेर राजस्थान का क्षेत्रफल के आधार पर सबसे बड़ा जिला है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "History",
+    "question_en": "Who was the first woman President of India?",
+    "question_hi": "भारत की पहली महिला राष्ट्रपति कौन थी?",
+    "A_en": "Indira Gandhi", "A_hi": "इंदिरा गांधी",
+    "B_en": "Sonia Gandhi", "B_hi": "सोनिया गांधी",
+    "C_en": "Pratibha Patil", "C_hi": "प्रतिभा पाटिल",
+    "D_en": "Sarojini Naidu", "D_hi": "सरोजिनी नायडू",
+    "answer": "C",
+    "explanation_en": "Pratibha Patil was the first woman President of India, serving from 2007 to 2012.",
+    "explanation_hi": "प्रतिभा पाटिल भारत की पहली महिला राष्ट्रपति थीं, जो 2007 से 2012 तक कार्यरत रहीं।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Science",
+    "question_en": "Which gas is responsible for the ozone hole?",
+    "question_hi": "ओजोन छिद्र के लिए कौन-सी गैस उत्तरदायी है?",
+    "A_en": "Carbon dioxide", "A_hi": "कार्बन डाइऑक्साइड",
+    "B_en": "Chlorofluorocarbons (CFCs)", "B_hi": "क्लोरोफ्लुओरोकार्बन (सीएफसी)",
+    "C_en": "Methane", "C_hi": "मीथेन",
+    "D_en": "Nitrogen", "D_hi": "नाइट्रोजन",
+    "answer": "B",
+    "explanation_en": "Chlorofluorocarbons (CFCs) are the primary cause of ozone layer depletion.",
+    "explanation_hi": "क्लोरोफ्लुओरोकार्बन (सीएफसी) ओजोन परत की कमी का प्रमुख कारण हैं।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Indian Constitution",
+    "question_en": "How many Fundamental Duties are there in the Indian Constitution?",
+    "question_hi": "भारतीय संविधान में कितनी मौलिक कर्तव्य हैं?",
+    "A_en": "10", "A_hi": "10",
+    "B_en": "11", "B_hi": "11",
+    "C_en": "12", "C_hi": "12",
+    "D_en": "14", "D_hi": "14",
+    "answer": "B",
+    "explanation_en": "There are 11 Fundamental Duties listed in the Indian Constitution under Article 51A.",
+    "explanation_hi": "भारतीय संविधान के अनुच्छेद 51A में 11 मौलिक कर्तव्य सूचीबद्ध हैं।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Important Days",
+    "question_en": "When is Earth Day celebrated?",
+    "question_hi": "पृथ्वी दिवस कब मनाया जाता है?",
+    "A_en": "April 5", "A_hi": "अप्रैल 5",
+    "B_en": "April 10", "B_hi": "अप्रैल 10",
+    "C_en": "April 22", "C_hi": "अप्रैल 22",
+    "D_en": "April 30", "D_hi": "अप्रैल 30",
+    "answer": "C",
+    "explanation_en": "Earth Day is celebrated on April 22 every year to promote environmental awareness.",
+    "explanation_hi": "पृथ्वी दिवस हर साल 22 अप्रैल को मनाया जाता है, वातावरणीय जागरूकता बढ़ाने के लिए।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Books and Authors",
+    "question_en": "Who wrote the book 'The God of Small Things'?",
+    "question_hi": "'द सुपर स्मॉल थिंग्स' किताब के लेखक कौन हैं?",
+    "A_en": "Arundhati Roy", "A_hi": "अरुंधति रॉय",
+    "B_en": "Chetan Bhagat", "B_hi": "चेतन भगत",
+    "C_en": "R.K. Narayan", "C_hi": "आर.के. नारायण",
+    "D_en": "Salman Rushdie", "D_hi": "सलमान रुश्दी",
+    "answer": "A",
+    "explanation_en": "Arundhati Roy wrote the book 'The God of Small Things' which won the Booker Prize.",
+    "explanation_hi": "अरुंधति रॉय ने 'द सुपर स्मॉल थिंग्स' किताब लिखी थी, जिसे बुकर पुरस्कार मिला।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Indian Economy",
+    "question_en": "Which state has the highest population in India?",
+    "question_hi": "भारत में सबसे अधिक जनसंख्या वाला राज्य कौन-सा है?",
+    "A_en": "Uttar Pradesh", "A_hi": "उत्तर प्रदेश",
+    "B_en": "Maharashtra", "B_hi": "महाराष्ट्र",
+    "C_en": "Bihar", "C_hi": "बिहार",
+    "D_en": "West Bengal", "D_hi": "पश्चिम बंगाल",
+    "answer": "A",
+    "explanation_en": "Uttar Pradesh is the most populous state in India with over 240 million people.",
+    "explanation_hi": "उत्तर प्रदेश भारत में 24 करोड़ से अधिक लोगों के साथ सबसे अधिक जनसंख्या वाला राज्य है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Science",
+    "question_en": "What is the chemical formula of water?",
+    "question_hi": "पानी का रासायनिक सूत्र क्या है?",
+    "A_en": "H2O", "A_hi": "एच2ओ",
+    "B_en": "CO2", "B_hi": "सीओ2",
+    "C_en": "O2", "C_hi": "ओ2",
+    "D_en": "CH4", "D_hi": "सीएच4",
+    "answer": "A",
+    "explanation_en": "Water is composed of two hydrogen atoms and one oxygen atom, making its chemical formula H2O.",
+    "explanation_hi": "पानी दो हाइड्रोजन परमाणुओं और एक ऑक्सीजन परमाणु से बना होता है, जिसका रासायनिक सूत्र H2O होता है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "History",
+    "question_en": "Who was the first Indian to win the Nobel Prize in Literature?",
+    "question_hi": "साहित्य में नोबेल पुरस्कार जीतने वाले पहले भारतीय व्यक्ति कौन थे?",
+    "A_en": "Rabindranath Tagore", "A_hi": "रवीन्द्रनाथ टैगोर",
+    "B_en": "Kaziranga Debbarma", "B_hi": "कजिरंगा देवबर्मा",
+    "C_en": "Gitanjali Rao", "C_hi": "गितांजलि राव",
+    "D_en": "Amartya Sen", "D_hi": "अमर्त्य सेन",
+    "answer": "A",
+    "explanation_en": "Rabindranath Tagore was the first Indian to win the Nobel Prize in Literature in 1913.",
+    "explanation_hi": "रवीन्द्रनाथ टैगोर 1913 में साहित्य में नोबेल पुरस्कार जीतने वाले पहले भारतीय व्यक्ति थे।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "Sports",
+    "question_en": "What is the national game of India?",
+    "question_hi": "भारत का राष्ट्रीय खेल क्या है?",
+    "A_en": "Cricket", "A_hi": "क्रिकेट",
+    "B_en": "Football", "B_hi": "फुटबॉल",
+    "C_en": "Hockey", "C_hi": "हॉकी",
+    "D_en": "Badminton", "D_hi": "बैडमिंटन",
+    "answer": "C",
+    "explanation_en": "Hockey is the national game of India, recognized for its historical and cultural significance.",
+    "explanation_hi": "हॉकी भारत का राष्ट्रीय खेल है, जिसकी ऐतिहासिक और सांस्कृतिक महत्व है।"
+  }
+]
