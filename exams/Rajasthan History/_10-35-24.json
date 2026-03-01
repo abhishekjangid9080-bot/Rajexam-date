@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital Before Independence",
+"question_en": "What was the capital of Rajasthan before independence?",
+"question_hi": "आज्ञानिकता पर सरकार के अधिकारी के लिए राजस्थान की राजधानी क्या थी?",
+"A_en": "Jaipur",
+"A_hi": "जयपुर",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Jodhpur",
+"C_hi": "झौड़ीपुर",
+"D_en": "Alwar",
+"D_hi": "अलवर",
+"answer": "C",
+"explanation_en": "Udaipur was the capital of Rajasthan before independence.",
+"explanation_hi": "उदयपुर राजस्थान की राजधानी पहले क्या थी।",
+}
+]
