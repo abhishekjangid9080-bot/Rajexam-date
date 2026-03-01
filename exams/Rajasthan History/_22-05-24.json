@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस मंगल को पालक में है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगर्ज़ा",
+"B_en": "Kalika Mata Temple", "B_hi": "कालिका माता मंगल",
+"C_en": "Umaid Bhawan Palace", "C_hi": "उमाई ब्हान पालीका",
+"D_en": "Clock Tower", "D_hi": "स्टोन टॉयल",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a famous fort located in Jodhpur, Rajasthan.",
+"explanation_hi": "गोद्रम ज़मी, राजस्थान में Mehrangarh ज़मी का स्थान राजस्थान में स्थान राजस्थान में Mehrangarh Fort का स्थान क्या है?",
+"ANSWER": "Mehrangarh Fort",
+"EXPLANATION_EN": "Mehrangarh Fort is a famous fort located in Jodhpur, Rajasthan.",
+"EXPLANATION_HI": "Mehrangarh Fort, located in Jodhpur, Rajasthan, is a famous fort."
+}
+]
