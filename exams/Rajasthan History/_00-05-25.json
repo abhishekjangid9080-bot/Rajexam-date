@@ -1,0 +1,65 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the founder of the Mewar dynasty?",
+"question_hi": "मेवार संतोष कुमार को किस नक्षत्र की संतोष को परिवर्तन करने के लिए क्या विषय में लिखित संकेत को जानना होगा?",
+"A_en": "In which subject would the written signal be mentioned about the subject of Mewar Sultanate?",
+"A_hi": "मेवार संतोष के विषय में लिखित संकेत को जानना होगा?",
+"B_en": "Which subject would the written signal be mentioned in regarding the Mewar Sultanate?",
+"B_hi": "मेवार संतोष के विषय में लिखित संकेत को जानना होगा?",
+"C_en": "What is the written signal about the Mewar Sultanate?",
+"C_hi": "मेवार सनात संकेत को जानना होगा?",
+"D_en": "Which subject would the written signal of the Mewar Sultanate be mentioned in?",
+"D_hi": "मेवार सनात संकेत को जानना होगा?",
+"question_en": "Who was the founder of Mewar Sultanate?",
+"question_hi": "मेवार सनात सनात सनात संकेत को जानना होगा?",
+"options:
+[
+{
+"option_text": "राजपुरी",
+"choice_key": "Rajput",
+"answer": "Rajput",
+"option_text_hi": "राजपुरी",
+"choice_key_hi": "राजपुत",
+"answer_hi": "राजपुत",
+"answer_en": "Rajput"
+},
+{
+"option_text": "मेवार सनात",
+"choice_key": "Mewar Singh",
+"answer": "Mewar Singh",
+"option_text_hi": "मेवार सनात",
+"choice_key_hi": "मेवार सनात",
+"answer_hi": "मेवार सनात",
+"answer_en": "Mewar Singh"
+},
+{
+"option_text": "आल्बर्तगौर",
+"choice_key": "Albert Gaur",
+"answer": "Albert Gaur",
+"option_text_hi": "आल्बर्तगौर",
+"choice_key_hi": "आल्बर्तगौर",
+"answer_hi": "आल्बर्तगौर",
+"answer_en": "Albert Gaur"
+},
+{
+"option_text": "मेवार सुबेरा",
+"choice_key": "Mewar Subeera",
+"answer": "Mewar Subeera",
+"option_text_hi": "मेवार सुबेरा",
+"choice_key_hi": "मेवार सुबेरा",
+"answer_hi": "मेवार सुबेरा",
+"answer_en": "Mewar Subeera"
+},
+{
+"option_text": "कामंत",
+"choice_key": "Kamat",
+"answer": "Kamat",
+"option_text_hi": "कामंत",
+"choice_key_hi": "कामंत",
+"answer_hi": "कामंत",
+"answer_en": "Kamat"
+}
+] 
+]
