@@ -1,0 +1,121 @@
+[
+{
+"subject": "General Science",
+"topic": "Physics - Motion and Force",
+"question_en": "An object moving with a constant velocity is said to be in a state of?",
+"A_en": "acceleration", "A_hi": "त्वरिति",
+"B_en": "uniform motion", "B_hi": "समान गति",
+"C_en": "rest", "C_hi": "शांति",
+"D_en": "deceleration", "D_hi": "वृध्द गति का कम होना"
+"answer": "B",
+"explanation_en": "Uniform motion is a state of constant velocity.",
+"explanation_hi": "समान गति एक निश्चित गति की अवस्था है।"
+},
+{
+"subject": "General Science",
+"topic": "Chemistry - Periodic Table",
+"question_en": "The element with atomic number 12 is?",
+"A_en": "Magnesium", "A_hi": "मैंगनीज",
+"B_en": "Sulfur", "B_hi": "लवण",
+"C_en": "Silicon", "C_hi": "सिलिकॉन",
+"D_en": "Carbon", "D_hi": "कार्बन"
+"answer": "A",
+"explanation_en": "Magnesium has atomic number 12.",
+"explanation_hi": "मैंगनीज का परमाणु संख्या 12 है।"
+},
+{
+"subject": "General Science",
+"topic": "Biology - Evolution",
+"question_en": "The process by which plants prepare their own food is called?",
+"A_en": "photosynthesis", "A_hi": "फोटोसिंथेसिस",
+"B_en": "respiration", "B_hi": "श्वसन",
+"C_en": "transpiration", "C_hi": "तरणस्थिति",
+"D_en": "osmosis", "D_hi": "ओस्मोसिस"
+"answer": "A",
+"explanation_en": "Photosynthesis is the process by which plants prepare their own food.",
+"explanation_hi": "फोटोसिंथेसिस पौधे अपना खुद का खाना तैयार करने की प्रक्रिया है।"
+},
+{
+"subject": "General Science",
+"topic": "Geography - Earth's Surface",
+"question_en": "The process of wearing away of rocks and soil by natural forces is called?",
+"A_en": "erosion", "A_hi": "क्षरण",
+"B_en": "sedimentation", "B_hi": "विसर्जन",
+"C_en": "weathering", "C_hi": "मौसम का प्रभाव",
+"D_en": "deposition", "D_hi": "आवलंबन"
+"answer": "A",
+"explanation_en": "Erosion is the process of wearing away of rocks and soil by natural forces.",
+"explanation_hi": "क्षरण प्राकृतिक शक्तियों द्वारा पत्थरों और मिट्टी का क्षरण है।"
+},
+{
+"subject": "General Science",
+"topic": "History - Ancient India",
+"question_en": "The Indus Valley Civilization was located in which region?",
+"A_en": "Ganges Valley", "A_hi": "गंगा घाटी",
+"B_en": "Indus Valley", "B_hi": "सिन्धु घाटी",
+"C_en": "Narmada Valley", "C_hi": "नर्मदा घाटी",
+"D_en": "Saraswati Valley", "D_hi": "सरस्वती घाटी"
+"answer": "B",
+"explanation_en": "The Indus Valley Civilization was located in the Indus Valley region.",
+"explanation_hi": "सिन्धु घाटी सभ्यता सिन्धु घाटी क्षेत्र में स्थित थी।"
+},
+{
+"subject": "General Science",
+"topic": "Physics - Energy and Work",
+"question_en": "When a force applied to an object results in a change in its motion, it is called?",
+"A_en": "work", "A_hi": "कार्य",
+"B_en": "energy", "B_hi": "ऊर्जा",
+"C_en": "power", "C_hi": "शक्ति",
+"D_en": "torque", "D_hi": "चुंबकीय बल"
+"answer": "A",
+"explanation_en": "Work is the force applied to an object resulting in a change in its motion.",
+"explanation_hi": "कार्य एक वस्तु पर लगाया गया बल जिससे उसकी गति में परिवर्तन होता है।"
+},
+{
+"subject": "General Science",
+"topic": "Chemistry - Acids and Bases",
+"question_en": "The pH scale is used to measure the?",
+"A_en": "acidity", "A_hi": "तीखापन",
+"B_en": "basicity", "B_hi": "क्षारिता",
+"C_en": "conductivity", "C_hi": "द्राव्यता",
+"D_en": "viscosity", "D_hi": "द्राव्यमान"
+"answer": "A",
+"explanation_en": "The pH scale is used to measure the acidity of a solution.",
+"explanation_hi": "पीएच पैमाना एक समाधान के तीखेपन को मापता है।"
+},
+{
+"subject": "General Science",
+"topic": "Biology - Genetics",
+"question_en": "The study of heredity and variation is called?",
+"A_en": "genetics", "A_hi": "वंशावली विज्ञान",
+"B_en": "molecular biology", "B_hi": "आणविक विज्ञान",
+"C_en": "evolutionary biology", "C_hi": "विकासात्मक विज्ञान",
+"D_en": "ecology", "D_hi": "जैव विज्ञान"
+"answer": "A",
+"explanation_en": "Genetics is the study of heredity and variation.",
+"explanation_hi": "वंशावली विज्ञान वंशावली और परिवर्तन का अध्ययन है।"
+},
+{
+"subject": "General Science",
+"topic": "Geography - Mountains",
+"question_en": "The highest mountain peak in the Himalayas is?",
+"A_en": "Mount Everest", "A_hi": "माउंट एवरेस्ट",
+"B_en": "K2", "B_hi": "के-दो,",
+"C_en": "Nanga Parbat", "C_hi": "नंगा परबत",
+"D_en": "Kanchenjunga", "D_hi": "कंचनजंगा"
+"answer": "A",
+"explanation_en": "Mount Everest is the highest mountain peak in the Himalayas.",
+"explanation_hi": "माउंट एवरेस्ट हिमालय में सबसे ऊंची चोटी है।"
+},
+{
+"subject": "General Science",
+"topic": "Physics - Waves and Optics",
+"question_en": "The phenomenon of reflection of light is an example of?",
+"A_en": "diffraction", "A_hi": "विक्षेप",
+"B_en": "refraction", "B_hi": "विवर्तन",
+"C_en": "reflection", "C_hi": "प्रतिबिंब",
+"D_en": "total internal reflection", "D_hi": "कुल आंतरिक विवर्तन"
+"answer": "C",
+"explanation_en": "Reflection of light is an example of the phenomenon of reflection.",
+"explanation_hi": "प्रकाश का प्रतिबिंब प्रतिबिंब का प्रकरण है।"
+}
