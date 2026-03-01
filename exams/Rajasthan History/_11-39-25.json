@@ -1,0 +1,76 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.",
+"explanation_hi": "जयपुर, राजस्थान की राजधानी है।",
+"explanation_hindi": "जयपुर, Rajasthan ka rajadhanya jaipur hai. "
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Famous Kings",
+"question_en": "Who was the first king of Rajasthan?",
+"question_hi": "राजस्थान के लेकिंग क्या एक मेरूल के पहले राजा था।",
+"options": [
+{
+"option_en": "Prithviraj Chauhan",
+"option_hi": "प्रितिरचौहान",
+"correct": "प्रितिरचौहान"
+},
+{
+"option_en": "Rai Singh I",
+"option_hi": "राय सिंह I",
+"correct": "राय सिंह I"
+},
+{
+"option_en": "Meera Singh",
+"option_hi": "मीर सिंह",
+"correct": "मीर सिंह"
+},
+{
+"option_en": "Kalchuri",
+"option_hi": "कलचौर्ली",
+"correct": "कलचौर्ली"
+},
+{
+"option_en": "Hari Singh",
+"option_hi": "हारी सिंह",
+"correct": "हारी सिंह"
+},
+{
+"option_en": "Rao Bika",
+"option_hi": "राव बिका",
+"correct": "राव बिका"
+},
+{
+"option_en": "Jait Singh",
+"option_hi": "जैट सिंह",
+"correct": "जैट सिंह"
+},
+{
+"option_en": "Chandragupta Maurya",
+"option_hi": "चंद्रगुप्तमेरो मौर",
+"correct": "चंद्रगुप्तमेरो मौर"
+},
+{
+"option_en": "Samar Singh",
+"option_hi": "समार सिंह",
+"correct": "समार सिंह"
+},
+{
+"option_en": "Rao Jodha",
+"option_hi": "राव जोधा",
+"correct": "राव जोधा"
+}
+]
