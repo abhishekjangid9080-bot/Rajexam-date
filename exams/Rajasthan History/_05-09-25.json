@@ -1,0 +1,83 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor founded the city of Jaipur?",
+"question_hi": "जयपुर के लिए कौन से सरकार कालान्तरीण करने वाले एम्पोर्टर?",
+"A_en": "Akbar",
+"A_hi": "अकबर",
+"B_en": "Chattrapati Shivaji",
+"B_hi": "चट्टरपोटिया शिवजी",
+"C_en": "King Ram",
+"C_hi": "राम मूल",
+"D_en": "Raja Rai Singh",
+"D_hi": "राजा राय सिंह",
+"answer": "D",
+"explanation_en": "Raja Rai Singh is the founder of Jaipur. He is known for constructing the famous Amer Fort.",
+"explanation_hi": "राजा राय सिंह जयपुर के लिए बना एम्पोटिया सिंह नाम दिया है। उन्हें एम्पोटियां को एम्पोटियां ने एम्पोटियां की हितीयां की एम्पोटियां के ने एम्पोटियां की हितीयां की एम्पोटियां के ने एम्पोटियां की हितीयां की एम्पोटियां की हितीयां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां की एम्पोटियां",
+"question_en": "Who established the city of Jaipur?",
+"question_hi": "Jaipur के लिएम्पोटियां को खेल कैन के लिएम्पोटियां",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "King Maharaj Jai Singh",
+"option_value": "Jai Singh"
+},
+{
+"option_id": 2,
+"option_text": "King Sawai Jai Singh II",
+"option_value": "Jai Singh II"
+},
+{
+"option_id": 3,
+"option_text": "Mughal Emperor Akbar",
+"option_value": "Akbar"
+},
+{
+"option_id": 4,
+"option_text": "Raja Ram Singh II",
+"option_value": "Ram Singh II"
+},
+{
+"option_id": 5,
+"option_text": "मुगोल सेवार राजा",
+"option_value": "Mughal Raja Saiwar Rana"
+},
+{
+"option_id": 6,
+"option_text": "मुगोल सेवार राजा",
+"option_value": "Mughal Raja Saiwar Rana"
+},
+{
+"option_id": 7,
+"option_text": "कुलिया राजा",
+"option_value": "कुलिया राजा"
+},
+{
+"option_id": 8,
+"option_text": "कुलिया राजा",
+"option_value": "कुलिया राजा"
+]
+},
+"option_hi": [
+{
+"option_id": 9,
+"option_text": "सैया राजा",
+"option_value": "सिया राजा"
+},
+{
+"option_id": 10,
+"option_text": "सैया राजा",
+"option_value": "सिया राजा"
+}
+},
+"answer": 7,
+"explanation_en": "Kulhari Raja is the correct answer.",
+"explanation_hi": "कलिया राजा राजा राजा कुलिया राजा",
+"explanation_hi": "सैया राजा कुलिया राजा",
+"explanation_en": "Kulhari Raja",
+"explanation_hi": "सैया राजा कुलिया राजा",
+"option_hi": ["कैया राजा",
+"option_en": ["Kulhari Raja",
+"answer": 7,
+]
