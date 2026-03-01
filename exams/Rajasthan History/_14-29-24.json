@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Kingdom Founders",
+"question_en": "Which king founded Udaipur and what is its current status?",
+"question_hi": "उदयपुर के खाता और वहाँ का विभागीय रूप क्या है?",
+"A_en": "Rana Kumbha", "A_hi": "राना कुम्भ",
+"B_en": "Rao Jodha", "B_hi": "राव जोध",
+"C_en": "Kumbha", "C_hi": "कुम्भ",
+"D_en": "Udaipur is not a part of any state",
+"answer": "B",
+"explanation_en": "Udaipur was founded by Rao Jodha, and currently, it is a part of Rajasthan state. Kumbha is another name for Rana Kumbha.",
+"explanation_hi": "उदयपुर राव जोध के साथ बना गया है और उसका विभागीय रूप है राजस्थान स्थान में है। Kumbha एक दूता राजन राना कुम्भ का एक नाम है।",
+}
+]
