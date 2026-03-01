@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Cultural and Historical Sites",
+"question_en": "Which famous palace is located in Jaipur?",
+"question_hi": "जयपुर में कई पर्लियाँ हैं। कौन सी फ्रेंडों में इस पर्ली का मूल स्रोत क्या है।",
+"A_en": "Amer Fort", "A_hi": "आमर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II", "C_hi": "सवाई महाराज शावाई सोवाई सेंटर",
+"D_en": "Gaitor", "D_hi": "गैटर",
+"answer": "A",
+"explanation_en": "Amer Fort is a historical site in Jaipur, Rajasthan. It was built as a palace by Raja Mansingh I in 1592 and serves as a mausoleum for his successors, including Maharaja Sawai Man Singh II. Amer Fort is the birthplace of the Cenotaph of Maharaja Sawai Man Singh II.",
+"explanation_hi": "आमर फोट नेशांघाई महाराज शावाई सेंटर के मौसों के साधारण स्थान के लोकस्मान वाले शाउनेशांघाई महाराज शावाई सेंटर के साधारण स्थान",
+"answer": "A",
+"explanation_en": "Amer Fort, also known as the Cenotaph of Maharaja Sawai Man Singh II, is a historical site in Jaipur, Rajasthan. It was built as a tribute to the successors of Maharaja Sawai Man Singh II.",
+"explanation_hi": "आमेर फोट, महाराज शावाइन मंसिंग इस्लेंटाइम सेंटर",
+]
