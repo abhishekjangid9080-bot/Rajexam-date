@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Cities",
+"question_en": "Which is the oldest city in Rajasthan?",
+"question_hi": "राजस्थान में सबसे पहली शहरों का विवरण",
+"A_en": "Amber Fort City", "A_hi": "अमेर का किस नाम है?",
+"B_en": "Meena Bazaar City", "B_hi": "मेना बाजार का नाम है?",
+"C_en": "Hawa Mahal City", "C_hi": "हवा महाल का नाम है?",
+"D_en": "Air Force Academy City", "D_hi": "एयर फोर एक्साइड का नाम है?",
+"answer": "C",
+"explanation_en": "Hawa Mahal is the oldest city in Rajasthan.",
+"explanation_hi": "हवा महाल राजस्थान का पुर्वती शहर है।",
+}
+]
