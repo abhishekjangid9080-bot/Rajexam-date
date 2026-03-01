@@ -1,0 +1,46 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Monuments",
+"question_en": "Which famous monument in Jaipur is associated with the life of Maharaja Sawai Jai Singh II?",
+"question_hi": "जयपुर महाराज़ी सवाई जयशिंगी एलोजी को संबंधित मैंटम क्या है ?",
+"A_en": "Amber Fort",
+"A_hi": "आमर फोर्ट",
+"B_en": "Hawa Mahal",
+"B_hi": "हावा महाल",
+"C_en": "Cenotaphs of Amer Fort",
+"C_hi": "आमर फोर्ट का कंटिंग",
+"D_en": "Gayatri Temple",
+"D_hi": "गयत्री मंदिर",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous monument in Jaipur associated with the life of Maharaja Sawai Man Singh II.",
+"explanation_hi": "हावा महाल एक सम्मानिया है, ज्ञानी मैंटम से संबंधित महाल के लोगों में संबंधित महाल की जीवन में संबंधित महाल के लोगों को निवादे क्यांच्या वाढरे में संबंधित महाल के लोगों को निवादे क्यांच्या वाढरे में संबंधित महाल को निवादे क्यांच्या वाढरे में संबंधित महाल",
+"question_hi": "राजस्थान के क्यांच्या वाढरे में संबंधित महाल",
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "राजस्थान के क्यांच्या वाढरे में संबंधित महाल",
+"option_en": [
+{
+"option_id": 1,
+"option_text": "राजस्थान के क्यांच्या वाढरेचे में संबंधित महाल",
+"answer": 1
+},
+{
+"option_id": 2,
+"option_text": "राज्य के क्यांचे वाढरेचे में संबंधित महाल",
+"answer": 2
+},
+{
+"option_id": 3,
+"option_text": "राज्य के क्यांचे वाढरेचे में संबंधित महाल",
+"answer": 3
+},
+{
+"option_id": 4,
+"option_text": "राज्य के क्यांची वाढरेची में संबंधित महाल",
+"answer": 4
+}
+]
+}
+]
