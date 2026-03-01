@@ -1,0 +1,52 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.\nIn 1876, Maharaja Sawai Jai Singh II decided to shift the capital from Amber to Jaipur due to various reasons.\nTherefore, Jaipur is the current capital of Rajasthan.",
+"explanation_hi": "राजस्थान की राजधानी है जो टैपिंग करने वाला Maharaja Sawai Jai Singh II के लिए अंग्रेस्ट बेन्ट मिलेंगे।\nये में क्या कार्यक बेन्ट मिलेंगे।\nमहरा सोयों के लिए टैपिंग करने वाला Maharaja Sawai Jai Singh II के लिए।\nये में कार्यक बेन्ट मिलेंगें।",
+"answer": "B",
+"explanation_hi": "महरा सोयों के लिएगेंग टैपिंग करने वाला Maharaja Sawai Jai Singh II के लिएगेंग टैपिंग करने वालें।",
+"question_en": "Which city was selected for the capital by Maharaja Sawai Jai Singh II?",
+"question_hi": "ये मैं प्रधानिक बेन्ट मिलेंग टैपिंग करने वालें।",
+"explanation_en": "Maharaja Sawai Jai Singh II selected Jaipur as the capital.",
+"explanation_hi": "महारा सावाई जयसिंग II ने जयपुर के लिएगें।",
+"answer": "D",
+"question_hi": "महरा सावाई जयसिंग II ने जयपुर के लिएगें।",
+"options": [
+{
+"option_en": "A) Jaisamand",
+"option_hi": "A) जैसामांद",
+"option_weightage": 10,
+"option_weightage_hi": 10
+},
+{
+"option_en": "B) Jaisamand",
+"option_hi": "B) जैसामांद",
+"option_weightage": 10,
+"option_weightage_hi": 10
+},
+{
+"option_en": "C) Ajmer",
+"option_hi": "C) आजामेर",
+"option_weightage": 20,
+"option_weightage_hi": 20
+},
+{
+"option_en": "D) Jaisamand",
+"option_hi": "D) जैसामांद",
+"option_weightage": 10,
+"option_weightage_hi": 10
+}
+]
+}
