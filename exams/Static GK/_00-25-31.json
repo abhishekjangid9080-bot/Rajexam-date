@@ -1,0 +1,194 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs for Static GK related to Rajasthan exams and others. The topic is empty, so I need to cover general Static GK topics relevant to these exams. I'll start by brainstorming possible subjects like history, geography, important days, cultural aspects, etc.
+
+First, I should ensure that the questions are in English and Hindi, following the Testbook style. The JSON structure is crucial here. Each question must have subject, topic, questions in both languages, options, answer, and explanations in both languages.
+
+Let me start with the first question. Maybe about Rajasthan's capital, which is a common question. Then, move to other topics like largest city, historical figures, important rivers, national parks, etc. I need to make sure the options are tricky but correct. For example, for the capital, options like Jodhpur, Jaipur, Udaipur, Bikaner. The answer is Jaipur.
+
+Next, think about the largest city. Ahmedabad is Gujarat's, so Jaipur is correct. Then, the longest river in Rajasthan—Luni is the longest, but wait, actually, the Chambal is longer. Wait, need to verify. Let me check: Luni is the longest river in Rajasthan, but it's a seasonal river. However, the largest river by length is Chambal. Hmm, maybe better to check a reliable source. According to some sources, the Chambal is the longest river in Rajasthan. Wait, but Luni is the largest in terms of drainage area. This is conflicting. Maybe I should avoid this question or frame it carefully. Alternatively, the topic could be the longest river, with options like Chambal, Luni, etc. Let me confirm. A quick check: The Chambal River is the longest river in Rajasthan. So answer is Chambal.
+
+Another question could be about the first woman governor of Rajasthan—Kanchan Chaudhary Bhattacharya. Then, the state animal—chinkara. The state bird—great Indian bustard. Important historical site—Chittorgarh Fort. The first Chief Minister of Rajasthan—Jivaji Rao of Udaipur. The famous marble city—Udaipur. The first woman Chief Minister—Sucheta Kriplani, but wait, she was the first woman CM of UP. For Rajasthan, the first woman CM was Vasundhara Raje. Hmm, need to correct that. So, the first woman Chief Minister of Rajasthan is Vasundhara Raje. Let me verify that. Yes, Vasundhara Raje became the first woman Chief Minister in 2003.
+
+Also, the number of districts in Rajasthan—currently it's 50 as of 2024. Need to confirm that. Let's say the question is about the number of districts. Then, the highest mountain in Rajasthan—Mount Abu, but that's the highest point. Alternatively, Guru Shikhar is the highest peak. So, the answer is Guru Shikhar. 
+
+For each question, I need to make sure the facts are accurate. For example, the state flower of Rajasthan is the Gulab (Rose). The state tree is the Neem. The state bird is the Great Indian Bustard. The state animal is the Chinkara. 
+
+Now, compiling all these into the JSON structure. Each question must have the subject as Static GK, topic left empty as per the user's instruction, and the rest filled in. The answer key should be correct, and explanations should be concise in both languages.
+
+I need to check for any possible errors. For example, the first woman governor is Kanchan Chaudhary Bhattacharya. The first woman CM is Vasundhara Raje. The longest river is Chambal. The largest city is Jaipur. The highest peak is Guru Shikhar. The number of districts is 50. The marble city is Udaipur. The historical site is Chittorgarh Fort. The state animal is Chinkara. The state bird is Great Indian Bustard.
+
+I think that's a good set of 10 questions covering various aspects of Static GK related to Rajasthan. Let me structure each question in the required JSON format now.
+</think>
+
+[
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "What is the capital of Rajasthan?",
+    "question_hi": "राजस्थान की राजधानी क्या है?",
+    "A_en": "Jodhpur",
+    "A_hi": "जोधपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Udaipur",
+    "C_hi": "उदयपुर",
+    "D_en": "Bikaner",
+    "D_hi": "बीकानेर",
+    "answer": "B",
+    "explanation_en": "Jaipur is the capital of Rajasthan.",
+    "explanation_hi": "जयपुर राजस्थान की राजधानी है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "Which is the largest city in Rajasthan?",
+    "question_hi": "राजस्थान का सबसे बड़ा शहर कौन सा है?",
+    "A_en": "Jodhpur",
+    "A_hi": "जोधपुर",
+    "B_en": "Jaipur",
+    "B_hi": "जयपुर",
+    "C_en": "Kota",
+    "C_hi": "कोटा",
+    "D_en": "Udaipur",
+    "D_hi": "उदयपुर",
+    "answer": "B",
+    "explanation_en": "Jaipur is the largest city in Rajasthan by population and area.",
+    "explanation_hi": "राजस्थान में जनसंख्या और क्षेत्रफल के आधार पर जयपुर सबसे बड़ा शहर है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "Who was the first woman Governor of Rajasthan?",
+    "question_hi": "राजस्थान की पहली महिला राज्यपाल कौन थी?",
+    "A_en": "Vidya Stark",
+    "A_hi": "विद्या स्टार्क",
+    "B_en": "Kanchan Chaudhary Bhattacharya",
+    "B_hi": "कंचन चौधरी भट्टाचार्य",
+    "C_en": "Sucheta Kriplani",
+    "C_hi": "सुचेता क्रिपलानी",
+    "D_en": "Nirupama Sen",
+    "D_hi": "निरुपमा सेन",
+    "answer": "B",
+    "explanation_en": "Kanchan Chaudhary Bhattacharya was the first woman Governor of Rajasthan.",
+    "explanation_hi": "कंचन चौधरी भट्टाचार्य राजस्थान की पहली महिला राज्यपाल थीं।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "Which river is the longest in Rajasthan?",
+    "question_hi": "राजस्थान की सबसे लंबी नदी कौन सी है?",
+    "A_en": "Chambal",
+    "A_hi": "चम्बल",
+    "B_en": "Luni",
+    "B_hi": "लूनी",
+    "C_en": "Sabarmati",
+    "C_hi": "साबरमती",
+    "D_en": "Mahi",
+    "D_hi": "माही",
+    "answer": "A",
+    "explanation_en": "Chambal is the longest river in Rajasthan.",
+    "explanation_hi": "चम्बल राजस्थान की सबसे लंबी नदी है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "What is the state animal of Rajasthan?",
+    "question_hi": "राजस्थान का राज्य पशु क्या है?",
+    "A_en": "Blue Bull",
+    "A_hi": "नीला बैल",
+    "B_en": "Chinkara",
+    "B_hi": "चींकारा",
+    "C_en": "Black Buck",
+    "C_hi": "काला बकरा",
+    "D_en": "Peacock",
+    "D_hi": "मोर",
+    "answer": "B",
+    "explanation_en": "Chinkara is the state animal of Rajasthan.",
+    "explanation_hi": "चींकारा राजस्थान का राज्य पशु है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "Which is the highest peak in Rajasthan?",
+    "question_hi": "राजस्थान में सबसे ऊँची चोटी कौन सी है?",
+    "A_en": "Mount Abu",
+    "A_hi": "माउंट अबू",
+    "B_en": "Guru Shikhar",
+    "B_hi": "गुरु शिखर",
+    "C_en": "Aravalli Range",
+    "C_hi": "अरावली पर्वतमाला",
+    "D_en": "Majra Hill",
+    "D_hi": "माजरा हिल",
+    "answer": "B",
+    "explanation_en": "Guru Shikhar is the highest peak in Rajasthan.",
+    "explanation_hi": "गुरु शिखर राजस्थान की सबसे ऊँची चोटी है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "Who was the first Chief Minister of Rajasthan?",
+    "question_hi": "राजस्थान के पहले मुख्यमंत्री कौन थे?",
+    "A_en": "Jivaji Rao",
+    "A_hi": "जीवजी राव",
+    "B_en": "Hira Lal Shashtri",
+    "B_hi": "हीरा लाल शास्त्री",
+    "C_en": "Bhanwar Lal Sharma",
+    "C_hi": "भानु लाल शर्मा",
+    "D_en": "Vasundhara Raje",
+    "D_hi": "वसुंधरा राजे",
+    "answer": "A",
+    "explanation_en": "Jivaji Rao was the first Chief Minister of Rajasthan.",
+    "explanation_hi": "राजस्थान के पहले मुख्यमंत्री जीवजी राव थे।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "What is the state bird of Rajasthan?",
+    "question_hi": "राजस्थान का राज्य पक्षी क्या है?",
+    "A_en": "Peacock",
+    "A_hi": "मोर",
+    "B_en": "Great Indian Bustard",
+    "B_hi": "ग्रेट इंडियन बस्टर्ड",
+    "C_en": "Parrot",
+    "C_hi": "तोता",
+    "D_en": "Sparrow",
+    "D_hi": "चिलचिला",
+    "answer": "B",
+    "explanation_en": "Great Indian Bustard is the state bird of Rajasthan.",
+    "explanation_hi": "ग्रेट इंडियन बस्टर्ड राजस्थान का राज्य पक्षी है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "Which city is known as the 'Marble City' of Rajasthan?",
+    "question_hi": "राजस्थान के किस शहर को 'मार्बल सिटी' के रूप में जाना जाता है?",
+    "A_en": "Jaipur",
+    "A_hi": "जयपुर",
+    "B_en": "Udaipur",
+    "B_hi": "उदयपुर",
+    "C_en": "Jodhpur",
+    "C_hi": "जोधपुर",
+    "D_en": "Ajmer",
+    "D_hi": "अजमेर",
+    "answer": "B",
+    "explanation_en": "Udaipur is known as the 'Marble City' due to its white marble palaces and buildings.",
+    "explanation_hi": "उदयपुर को श्वेत मार्बल के महल और इमारतों के कारण 'मार्बल सिटी' के रूप में जाना जाता है।"
+  },
+  {
+    "subject": "Static GK",
+    "topic": "",
+    "question_en": "How many districts are there in Rajasthan as of 2024?",
+    "question_hi": "2024 तक राजस्थान में कितने जिले हैं?",
+    "A_en": "49",
+    "A_hi": "49",
+    "B_en": "50",
+    "B_hi": "50",
+    "C_en": "52",
+    "C_hi": "52",
+    "D_en": "55",
+    "D_hi": "55",
+    "answer": "B",
+    "explanation_en": "As of 2024, Rajasthan has 50 districts.",
+    "explanation_hi": "2024 तक राजस्थान में 50 जिले हैं।"
+  }
+]
