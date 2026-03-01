@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Royal Families",
+"question_en": "Which royal family ruled over Jaipur between 1803 and 1947?",
+"question_hi": "जयपुर में 1803 से 1947 तक कौन सी राजधानी के राजधानी दिए गए थे ?",
+"A_en": "Kachhwaha Rajputs",
+"A_hi": "कचहावा राजपूत",
+"B_en": "Thakur Rajputs",
+"B_hi": "थाकूर राजपूत",
+"C_en": "Birla Family",
+"C_hi": "बीरला मंत्रियों",
+"D_en": "Rajput Rajputs",
+"D_hi": "राजपूत राजपूत",
+"answer": "A",
+"explanation_en": "The Kachhwaha Rajputs were the ruling family of Jaipur between 1803 and 1947.",
+"explanation_hi": "1803 से 1947 तक, कचहावा राजपूत का राजधाना था।",
+}
+]
