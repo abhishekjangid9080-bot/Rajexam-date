@@ -1,0 +1,59 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Sites",
+"question_en": "Which historical site in Rajasthan is known for its beautiful architecture and fort?",
+"question_hi": "राजस्थान में हैकी के राजधानी क्या है, जो स्वामित्वा और संतुलना के लिए जाना जाता है?",
+"A_en": "Amer Fort", "A_hi": "अमेर फोट",
+"B_en": "Mehrangarh Fort", "B_hi": "मेरंगर फोट",
+"C_en": "Hawa Mahal", "C_hi": "हावा महाल",
+"D_en": "Jaigarh Fort", "D_hi": "जयगर फोट",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort is known for its beautiful architecture and is a prominent historical site in Rajasthan.",
+"explanation_hi": "Mehrangarh Fort राजस्थान में अचार्म और सफ्ट के लिए जाना जाता है।",
+"explanation_hi": "Mehrangarh Fort राजस्थान में अचार्म और सफ्ट के लिए जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना जाना",
+"question": "राजस्थान में किसी कुलाई का क्या जाना जाना",
+"options": [
+{
+"option_en": "Jagatpura",
+"option_hi": "जागतपुरा",
+"option_explanation_en": "Jagatpura is a historic town located in Rajasthan.",
+"option_explanation_hi": "जागतपुरा एक पुरा राजस्थान में ढांचे कुलाई का जाना जाना",
+"option_answer": "Jagatpura",
+},
+{
+"option_en": "Kishangarh",
+"option_hi": "किशांगर",
+"option_explanation_en": "Kishangarh is a city located in Rajasthan and is known for its historical fort.",
+"option_explanation_hi": "किशांगर एक राजस्थान में कोंगर के एजाना जाना",
+"option_answer": "Kishangarh",
+},
+{
+"option_en": "Amer",
+"option_hi": "आम",
+"option_explanation_en": "Amer is a historic town located in Jaipur, Rajasthan, known for its royal palaces and forts.",
+"option_explanation_hi": "आम एजाना राजाना जाना जाना",
+"option_answer": "Amer",
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदिपुर",
+"option_explanation_en": "Udaipur is a city in Rajasthan famous for its beautiful palaces and temples.",
+"option_explanation_hi": "उदिपुर एजाना जाना जाना",
+"option_answer": "Udaipur",
+],
+{
+"option_en": "Ranthambh",
+"option_hi": "रंत्त्रंत्र",
+"option_explanation_en": "Ranthambh is a fort located in Jaipur, Rajasthan, known for its stunning architecture.",
+"option_explanation_hi": "रंत्र एजाना जाना",
+"option_answer": "Ranthambh"
+},
+{
+"option_en": "Chittorgarh",
+"option_hi": "चित्रा",
+"option_explanation_en": "Chittorgarh is a historical city in Jaipur, Rajasthan, famous for its temples.",
+"option_explanation_hi": "चित्रा एजाना जाना",
+"option_answer": "Chittorgarh"
+}
+]
