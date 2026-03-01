@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Rai Singh in 16th century?",
+"question_hi": "16वीं सदी में राजा राय सिंह ने किस मंगल बनाया।",
+"A_en": "Amber Fort", "A_hi": "आमर फोट",
+"B_en": "Mehrangarh Fort", "B_hi": "मेरंगार फोट",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुंभालगढ़ फोट",
+"D_en": "Kumbhalgarh Fort", "D_hi": "कुंभालगढ़ फोट",
+"answer": "C",
+"explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha in the 16th century.",
+"explanation_hi": "16वीं सदी में Rana Kumbha ne Kumbhalgarh Fort ko banaya hai.\n"
+}
+]
