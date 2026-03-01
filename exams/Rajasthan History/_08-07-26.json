@@ -1,0 +1,56 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Raja Samrat Akbar",
+"question_en": "Who was the Sultan of Delhi who invited Raja Samrat Akbar to invade Rajasthan?",
+"question_hi": "राजा सम्राट अकबर के लिए डिलीवार संतुष्टिगंधर्पियां के लिए राजा सम्राट अकबर को वहीं उन्हें आगे लेने के लिए लें",
+"options": [
+{
+"option_en": "Mughal Emperor Humayun",
+"option_hi": "मुगोल मुख्यां हम्यां का हुआ ",
+"answer": "मुगोल मुख्यां का हुआ",
+"explanation_en": "The Mughal Emperor Humayun was defeated in 1556 at the Battle of Khanwa by Raja Bir Singh Deo of Orchha.",
+"explanation_hi": "बिर सिंग डीओ और उड़ी मैं का हुआ",
+"difficulty_level": "Intermediate"
+},
+{
+"option_en": "Sultan Bahadur Shah Zafar",
+"option_hi": "सुलों बाहरूण बाहरूण सैफ़ां",
+"answer": "सुलों बाहरूण सैफ़ां",
+"explanation_en": "Sultan Bahadur Shah Zafar was the Mughal Emperor during the time of Raja Bir Singh Deo of Orchha.",
+"explanation_hi": "सुलों बाहरूण सैफ़ां मुगों बाहरूण सैफ़ां",
+"difficulty_level": "Intermediate"
+},
+{
+"option_en": "Raja Bir Singh Deo",
+"option_hi": "राजा बिर सिंग देव",
+"answer": "राजा बिर सिंग देव",
+"explanation_en": "Raja Bir Singh Deo of Orchha was the Rajput king who challenged the Mughal Emperor Aurangzeb's control over Orchha.",
+"explanation_hi": "राजपुत्तराजा बिर सिंग देव पर मुगोल मंग अराजस्ता करें अराजस्तार अराजस्तार अराजस्तार अराजस्ता",
+"difficulty_level": "Intermediate"
+},
+{
+"option_en": "Prithvi Raj Chauhan",
+"option_hi": "प्रिधीराज चौहों",
+"answer": "प्रिधीराज चौहों",
+"explanation_en": "Prithvi Raj Chauhan was a Rajput king who ruled over Delhi and Rajasthan before the Mughal Empire was established.",
+"explanation_hi": "प्रिधीराज चौहों का राजपुत्तार अराजस्ता",
+"difficulty_level": "Intermediate"
+},
+{
+"option_en": "Alauddin Khalji",
+"option_hi": "अलाउद्दिन खालजी",
+"answer": "अलाउद्दिन खालजी",
+"explanation_en": "Alauddin Khalji was a Turkic ruler who conquered Delhi and established the Delhi Sultanate.",
+"explanation_hi": "अलाउद्दिन खालजी",
+"difficulty_level": "Intermediate"
+},
+{
+"option_en": "Prithviraj Chauhan",
+"option_hi": "प्रतिपीतिरज़ाहन",
+"answer": "प्रतिपीतिरज़ाहन",
+"explanation_en": "Prithviraj Chauhan was a Rajput king who fought against Ala Khan in the battle of Tarapur.",
+"explanation_hi": "प्रतिपीतिरज़ाहन",
+"difficulty_level": "Intermediate"
+}
+]
