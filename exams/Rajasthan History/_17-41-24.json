@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस मंदिर है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरनगर",
+"B_en": "Kirti Stambh", "B_hi": "किर्ती संतिमा",
+"C_en": "Legendary Rao Jodha", "C_hi": "लेजेंडर जोध",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमाई ब्याञ्चल",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a famous historical fort located in Jodhpur, Rajasthan.",
+"explanation_hi": "मेरनगर, राजस्थान में मंदिर है।",
+"explanation": "Mehrangarh Fort, built by Rao Jodha in the 16th century, is a major tourist attraction in Jodhpur, Rajasthan."
+}
+]
