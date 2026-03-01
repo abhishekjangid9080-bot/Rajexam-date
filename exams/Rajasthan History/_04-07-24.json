@@ -1,0 +1,23 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Famous Cities",
+"question_en": "Which city is the capital of Rajasthan and which is the second largest city?",
+"question_hi": "राजस्थान की राजधानी और पहली बाजारी के नाम क्या हैं।",
+"A_en": "Jaipur, Udaipur",
+"A_hi": "जयपुर, उदयपुर",
+"B_en": "Jodhpur, Ajmer",
+"B_hi": "जोधपुर, अजमेर",
+"C_en": "Ahmedabad, Bikaner",
+"C_hi": "अहमदाबाद, बिकानेर",
+"D_en": "Meerut, Jodhpur",
+"D_hi": "मीर, जोधपुर",
+"answer": "Jodhpur, Bikaner",
+"explanation_en": "Jodhpur and Bikaner are the names of the second largest and third largest cities in Rajasthan respectively.\nThe second largest city in Rajasthan is Jodhpur and the third largest city is Bikaner.",
+"explanation_hi": "राजस्थान में सितंबर और बिकानेर किस्मती क्या हैं? बिकानेर भी राजस्थान में सितंबर की सम्पद क्या हैं? बिकानेर भी राजस्थान में सितंबर की भूमि क्या हैं?",
+"answer": "Jodhpur",
+"explanation_en": "Jodhpur is the largest city in Rajasthan after Jaipur.\nJodhpur's area is approximately 9,402 sq km.",
+"explanation_hi": "जोधपुर राजस्थान में सजाहा की भूमि क्या हैं?",
+"explanation": "Jodhpur is the largest city in Rajasthan after Jaipur.\nJodhpur's area is approximately 9,402 square kilometers.",
+}
+]
