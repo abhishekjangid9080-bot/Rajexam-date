@@ -1,0 +1,193 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for the Computer subject, targeting Rajasthan State Exams, SSC, and Railway exams. The topic isn't specified, so I need to cover general computer knowledge areas that are common in these exams.
+
+First, I should list possible topics. Common areas include Operating Systems, Computer Hardware, Software, Networking, MS Office, Internet, Data Representation, Database Management, Cyber Security, and Programming Basics. Since the topic is empty, I need to ensure each question covers different subtopics to cover a broad range.
+
+I need to make sure each question is in both Hindi and English, with options in both languages as well. The explanations should also be in both languages. The difficulty level should be moderate, suitable for state-level exams. Let me start by brainstorming questions in each subtopic.
+
+1. **Operating Systems**: Question about the function of an OS. For example, what manages hardware and software.
+2. **Computer Hardware**: Identify components like RAM, Hard Disk, etc.
+3. **Software**: Difference between system software and application software.
+4. **Networking**: Basics of LAN, WAN, IP addresses.
+5. **MS Office**: Features of MS Word or Excel.
+6. **Internet**: Protocols like HTTP, FTP.
+7. **Data Representation**: Binary to decimal conversion.
+8. **Database Management**: Basics of SQL.
+9. **Cyber Security**: Types of malware.
+10. **Programming**: Basic programming concepts like loops or variables.
+
+Now, for each question, I need to create the question in both languages, four options in both languages, the correct answer, and explanations. Let me check the JSON structure example provided. The subject is Computer, topic is empty. Each question has the question in English and Hindi, options A to D in both languages, answer key, and explanations in both languages.
+
+Need to ensure that the translations are accurate. Also, avoid technical jargon where possible but include necessary terms. For example, "operating system" should be translated as "ऑपरेटिंग सिस्टम". Let me start drafting the first question.
+
+1. **OS Function**: What is the primary function of an operating system?
+   Options: Manage hardware, Manage software, Both, None.
+   Answer: C.
+
+2. **Hardware Component**: Which is a volatile memory?
+   Options: RAM, Hard Disk, ROM, CD-ROM.
+   Answer: A.
+
+3. **System vs Application Software**: Which is system software?
+   Options: MS Word, Photoshop, Operating System, Excel.
+   Answer: C.
+
+4. **Networking**: What is a LAN?
+   Options: Local Area Network, Larger Area Network, Local Access Node, None.
+   Answer: A.
+
+5. **MS Word**: What is the use of the Ctrl + Z shortcut?
+   Answer: Undo.
+
+6. **Internet Protocols**: HTTP stands for?
+   Answer: HyperText Transfer Protocol.
+
+7. **Data Representation**: Binary 1011 is decimal?
+   Answer: 11.
+
+8. **Database**: SQL is used for?
+   Answer: Managing databases.
+
+9. **Cyber Security**: Malware includes?
+   Answer: Virus, Worm, Trojan.
+
+10. **Programming**: Which is a loop structure?
+    Answer: For loop.
+
+Now, translate each into Hindi. For example, "ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?" for the first question. Ensure options are correctly translated. Check explanations for clarity. Make sure the answer keys are correct. For example, in the binary conversion question, 1011 is 8+2+1=11, which is correct.
+
+I need to ensure that all questions are unique and cover different topics. Also, avoid repetition of terms. Let me verify each question's topic and correct answer. Once satisfied, structure the JSON accordingly, following the example provided. Ensure the JSON syntax is correct with commas and brackets properly placed. Double-check for any typos in translations.
+</think>
+
+[
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What is the primary function of an operating system?",
+        "question_hi": "ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?",
+        "A_en": "Manage hardware resources", "A_hi": "हार्डवेयर संसाधनों का प्रबंधन",
+        "B_en": "Manage software applications", "B_hi": "सॉफ्टवेयर एप्लिकेशनों का प्रबंधन",
+        "C_en": "Both hardware and software", "C_hi": "हार्डवेयर और सॉफ्टवेयर दोनों",
+        "D_en": "None of the above", "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "C",
+        "explanation_en": "An operating system manages both hardware resources and software applications.",
+        "explanation_hi": "ऑपरेटिंग सिस्टम हार्डवेयर संसाधनों और सॉफ्टवेयर एप्लिकेशनों दोनों का प्रबंधन करता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is a volatile memory?",
+        "question_hi": "निम्नलिखित में से कौन एक विचलित स्मृति (वोलेटाइल मेमोरी) है?",
+        "A_en": "RAM", "A_hi": "RAM",
+        "B_en": "Hard Disk", "B_hi": "हार्ड डिस्क",
+        "C_en": "ROM", "C_hi": "ROM",
+        "D_en": "CD-ROM", "D_hi": "CD-ROM",
+        "answer": "A",
+        "explanation_en": "RAM is volatile memory because it loses data when power is turned off.",
+        "explanation_hi": "RAM विचलित स्मृति है क्योंकि शक्ति बंद होने पर डेटा खो जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is system software?",
+        "question_hi": "निम्नलिखित में से कौन सॉफ्टवेयर है?",
+        "A_en": "MS Word", "A_hi": "MS वर्ड",
+        "B_en": "Photoshop", "B_hi": "फोटोशॉप",
+        "C_en": "Operating System", "C_hi": "ऑपरेटिंग सिस्टम",
+        "D_en": "Excel", "D_hi": "एक्सेल",
+        "answer": "C",
+        "explanation_en": "An operating system is classified as system software.",
+        "explanation_hi": "ऑपरेटिंग सिस्टम को सिस्टम सॉफ्टवेयर के रूप में वर्गीकृत किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What does HTTP stand for?",
+        "question_hi": "HTTP का फुल फॉर्म क्या है?",
+        "A_en": "Hyper Text Transfer Protocol", "A_hi": "हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "B_en": "Hyper Transfer Text Protocol", "B_hi": "हाइपर ट्रांसफर टेक्स्ट प्रोटोकॉल",
+        "C_en": "Home Text Transfer Protocol", "C_hi": "होम टेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "D_en": "Hyper Transfer Text Program", "D_hi": "हाइपर ट्रांसफर टेक्स्ट प्रोग्राम",
+        "answer": "A",
+        "explanation_en": "HTTP stands for Hyper Text Transfer Protocol, which is used for transferring web pages.",
+        "explanation_hi": "HTTP का फुल फॉर्म हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल है, जिसका उपयोग वेब पृष्ठों के ट्रांसफर के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What is the decimal equivalent of binary number 1011?",
+        "question_hi": "द्विआधारी संख्या 1011 का दशमलव समतुल्य क्या है?",
+        "A_en": "8", "A_hi": "8",
+        "B_en": "10", "B_hi": "10",
+        "C_en": "11", "C_hi": "11",
+        "D_en": "12", "D_hi": "12",
+        "answer": "C",
+        "explanation_en": "1011 in binary is (1×8) + (0×4) + (1×2) + (1×1) = 11 in decimal.",
+        "explanation_hi": "1011 द्विआधारी में (1×8) + (0×4) + (1×2) + (1×1) = 11 दशमलव में होता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which keyboard shortcut is used to undo the last action in MS Word?",
+        "question_hi": "MS वर्ड में अंतिम कार्य को वापस करने के लिए कौन सा कीबोर्ड शॉर्टकट प्रयोग किया जाता है?",
+        "A_en": "Ctrl + Z", "A_hi": "Ctrl + Z",
+        "B_en": "Ctrl + Y", "B_hi": "Ctrl + Y",
+        "C_en": "Ctrl + X", "C_hi": "Ctrl + X",
+        "D_en": "Ctrl + C", "D_hi": "Ctrl + C",
+        "answer": "A",
+        "explanation_en": "Ctrl + Z is the shortcut to undo the last action in MS Word.",
+        "explanation_hi": "MS वर्ड में अंतिम कार्य को वापस करने के लिए Ctrl + Z शॉर्टकट है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What does 'LAN' stand for?",
+        "question_hi": "'LAN' का फुल फॉर्म क्या है?",
+        "A_en": "Local Area Network", "A_hi": "लोकल एरिया नेटवर्क",
+        "B_en": "Large Area Network", "B_hi": "लार्ज एरिया नेटवर्क",
+        "C_en": "Long Area Network", "C_hi": "लॉन्ग एरिया नेटवर्क",
+        "D_en": "Local Access Network", "D_hi": "लोकल एक्सेस नेटवर्क",
+        "answer": "A",
+        "explanation_en": "LAN stands for Local Area Network, used for connecting computers in a limited area.",
+        "explanation_hi": "LAN का फुल फॉर्म लोकल एरिया नेटवर्क है, जिसका उपयोग सीमित क्षेत्र में कंप्यूटरों को जोड़ने के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is a database language?",
+        "question_hi": "निम्नलिखित में से कौन एक डेटाबेस भाषा है?",
+        "A_en": "SQL", "A_hi": "SQL",
+        "B_en": "HTML", "B_hi": "HTML",
+        "C_en": "CSS", "C_hi": "CSS",
+        "D_en": "JavaScript", "D_hi": "जावास्क्रिप्ट",
+        "answer": "A",
+        "explanation_en": "SQL is a structured query language used for managing databases.",
+        "explanation_hi": "SQL संरचित प्रश्न भाषा है, जिसका उपयोग डेटाबेस के प्रबंधन के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is a type of malware?",
+        "question_hi": "निम्नलिखित में से कौन एक मैलवेयर का प्रकार है?",
+        "A_en": "Virus", "A_hi": "वायरस",
+        "B_en": "Firewall", "B_hi": "फायरवॉल",
+        "C_en": "Antivirus", "C_hi": "एंटीवायरस",
+        "D_en": "All of the above", "D_hi": "उपरोक्त सभी",
+        "answer": "A",
+        "explanation_en": "A virus is a type of malicious software designed to spread from computer to computer.",
+        "explanation_hi": "वायरस एक खतरनाक सॉफ्टवेयर है जिसका उद्देश्य कंप्यूटर से कंप्यूटर तक फैलाना है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What is the purpose of the 'for' loop in programming?",
+        "question_hi": "प्रोग्रामिंग में 'for' लूप का उद्देश्य क्या है?",
+        "A_en": "To execute a block of code repeatedly", "A_hi": "कोड ब्लॉक को दोहराकर निष्पादित करना",
+        "B_en": "To declare a variable", "B_hi": "चर को घोषित करना",
+        "C_en": "To perform mathematical operations", "C_hi": "गणितीय संचालन करना",
+        "D_en": "To create a function", "D_hi": "एक फंक्शन बनाना",
+        "answer": "A",
+        "explanation_en": "The 'for' loop is used to execute a block of code repeatedly for a specified number of times.",
+        "explanation_hi": "'for' लूप का उपयोग निर्दिष्ट संख्या बार एक कोड ब्लॉक को दोहराकर निष्पादित करने के लिए किया जाता है।"
+    }
+]
