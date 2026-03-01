@@ -1,0 +1,230 @@
+<think>
+Okay, I need to create 10 high-quality multiple-choice questions for the General English subject, specifically on the topic provided. The user wants each question and options in both Hindi and English, following the Testbook style. The JSON format is strict, so I must adhere to the structure given in the example.
+
+First, I should decide on a topic. Since the user didn't specify a particular topic under General English, maybe they expect common areas like grammar, vocabulary, or comprehension. Let's go with Vocabulary and Grammar as the topic since those are fundamental and commonly tested.
+
+Next, I need to generate 10 questions. Each question should have a question in English and Hindi, options labeled A to D with both languages, the correct answer, and explanations in both languages. Let me start brainstorming possible questions.
+
+1. **Synonym/Antonym Questions**: These are standard. For example, "What is the synonym of 'Generous'?" with options. Then provide the answer and explanation.
+
+2. **Idioms and Phrases**: Questions like "What does the idiom 'Under the weather' mean?" with options explaining each.
+
+3. **Sentence Correction**: Provide a sentence with an error and ask to identify the correct version.
+
+4. **Prepositions**: Questions where the correct preposition is needed in a sentence.
+
+5. **Tenses**: Identify the correct tense form of a verb.
+
+6. **One-word Substitutes**: Find a single word that replaces a phrase.
+
+7. **Active/Passive Voice**: Convert sentences between active and passive voice.
+
+8. **Direct/Indirect Speech**: Change sentences from direct to indirect and vice versa.
+
+9. **Subject-Verb Agreement**: Choose the correct verb form based on the subject.
+
+10. **Punctuation**: Correctly punctuate a sentence.
+
+Now, for each question, I need to ensure that the Hindi translation is accurate. For example, "Choose the correct preposition to complete the sentence: 'She is interested ___ reading books.'" The Hindi question would be "वाक्य को पूरा करने के लिए सही सम्मुख शब्द चुनें: 'वह पुस्तकों के पढ़ने में रुचि रखती है।'"
+
+Options need to be in both languages. For example, the options for the preposition question could be A. in, B. on, C. at, D. with. In Hindi, A. में, B. पर, C. पर, D. के साथ.
+
+The answer is A, and the explanation would be that "interested in" is the correct preposition.
+
+I need to ensure that the difficulty level is appropriate for exams like Rajasthan State Exams, SSC, and Railway. So the questions shouldn't be too easy or too hard. They should test understanding without being trick questions.
+
+Let me start drafting each question step by step, making sure the JSON structure is followed. I'll check each question for clarity and correctness in both languages. Also, explanations should be concise and accurate.
+
+For example, a question on sentence correction: "Identify the correct sentence: A. He don't like apples. B. He doesn't like apples. C. He isn't like apples. D. He doesn't likes apples." The correct answer is B, and the explanation is that "doesn't" is used with third person singular.
+
+Another example: "What is the past perfect tense of 'go'? A. Gone B. Went C. Had gone D. Going." The answer is C, as past perfect is "had gone".
+
+I need to create 10 such questions, ensuring variety in topics covered. Let me list them out:
+
+1. Synonym for 'Generous'
+2. Antonym for 'Cautious'
+3. Idiom 'Under the weather'
+4. Correct preposition in "interested ___"
+5. Correct verb form in "They ___ (go) to school every day."
+6. One-word substitute for a person who collects stamps
+7. Active to passive voice conversion
+8. Correct sentence structure among options
+9. Direct speech to indirect speech conversion
+10. Punctuation correction in "The sun shines brightly"
+
+Now, translating each into Hindi and ensuring options are correctly placed. Also, the explanations must clarify why the correct answer is right.
+
+I should also check for any possible errors in translation or in the options. For instance, in the passive voice question, making sure the structure is correctly converted.
+
+Once all 10 questions are drafted, I'll compile them into the JSON structure as specified, making sure the keys are correct and the order of options is maintained (A, B, C, D). Finally, validate the JSON to ensure no syntax errors.
+</think>
+
+[
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "What is the synonym of 'Generous'?",
+        "question_hi": "'निःस्वार्थी' का समानार्थी है?",
+        "A_en": "Kind",
+        "A_hi": "मन्नती",
+        "B_en": "Selfish",
+        "B_hi": "निजी",
+        "C_en": "Greedy",
+        "C_hi": "लालची",
+        "D_en": "Generous",
+        "D_hi": "निःस्वार्थी",
+        "answer": "D",
+        "explanation_en": "'Generous' itself is the synonym for the word 'Generous'.",
+        "explanation_hi": "'निःस्वार्थी' शब्द का समानार्थी 'निःस्वार्थी' ही है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "What is the antonym of 'Cautious'?",
+        "question_hi": "'सावधानीपूर्ण' का विपरीतार्थी है?",
+        "A_en": "Careful",
+        "A_hi": "सावधानीपूर्ण",
+        "B_en": "Careless",
+        "B_hi": "निरासक्त",
+        "C_en": "Hasty",
+        "C_hi": "त्वरित",
+        "D_en": "Brave",
+        "D_hi": "हिम्मतवान",
+        "answer": "B",
+        "explanation_en": "'Careless' is the opposite of 'Cautious'.",
+        "explanation_hi": "'निरासक्त' 'सावधानीपूर्ण' का विपरीतार्थी है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "What does the idiom 'Under the weather' mean?",
+        "question_hi": "'अपने मन के ऊपर न होना' शब्द का अर्थ क्या है?",
+        "A_en": "Feeling unwell",
+        "A_hi": "अच्छी तरह से अनुभव करना",
+        "B_en": "Feeling happy",
+        "B_hi": "खुशी महसूर करना",
+        "C_en": "Feeling excited",
+        "C_hi": "उत्साहित महसूर करना",
+        "D_en": "Feeling tired",
+        "D_hi": "थकावट महसूर करना",
+        "answer": "A",
+        "explanation_en": "'Under the weather' means feeling unwell or sick.",
+        "explanation_hi": "'अपने मन के ऊपर न होना' का अर्थ 'अच्छी तरह से अनुभव करना' है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "Choose the correct preposition to complete the sentence: 'She is interested ___ reading books.'",
+        "question_hi": "वाक्य को पूरा करने के लिए सही सम्मुख शब्द चुनें: 'वह पुस्तकों के पढ़ने में रुचि रखती है।'",
+        "A_en": "in",
+        "A_hi": "में",
+        "B_en": "on",
+        "B_hi": "पर",
+        "C_en": "at",
+        "C_hi": "पर",
+        "D_en": "with",
+        "D_hi": "के साथ",
+        "answer": "A",
+        "explanation_en": "The correct preposition is 'in' as in 'interested in'.",
+        "explanation_hi": "सही सम्मुख शब्द 'में' है जैसे 'रुचि में'।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "Identify the correct verb form: 'They ___ (go) to school every day.'",
+        "question_hi": "'वे प्रतिदिन विद्यालय जाते हैं' में सही क्रिया रूप चुनें।",
+        "A_en": "goes",
+        "A_hi": "जाता है",
+        "B_en": "go",
+        "B_hi": "जाते हैं",
+        "C_en": "gone",
+        "C_hi": "गए",
+        "D_en": "going",
+        "D_hi": "जा रहे हैं",
+        "answer": "B",
+        "explanation_en": "The correct verb form is 'go' for third person plural.",
+        "explanation_hi": "तीसरे व्यक्ति के बहुवचन के लिए सही क्रिया रूप 'जाते हैं' है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "What is the one-word substitute for 'a person who collects stamps'?",
+        "question_hi": "'एक ऐसा व्यक्ति जो चिट्ठियाँ संगृहीत करता है' के लिए एक शब्द प्रतिस्थापक क्या है?",
+        "A_en": "Philatelist",
+        "A_hi": "फिलेटेलिस्ट",
+        "B_en": "Numismatist",
+        "B_hi": "नमिसमेटिस्ट",
+        "C_en": "Bibliophile",
+        "C_hi": "बिब्लियोफ़ाइल",
+        "D_en": "Cartographer",
+        "D_hi": "कार्टोग्राफर",
+        "answer": "A",
+        "explanation_en": "A philatelist collects stamps.",
+        "explanation_hi": "एक फिलेटेलिस्ट चिट्ठियाँ संगृहीत करते हैं।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "Convert the sentence to passive voice: 'She painted the wall.'",
+        "question_hi": "वाक्य को अपने आवाहक रूप में बदलें: 'वह दीवार रंगी।'",
+        "A_en": "The wall was painted her.",
+        "A_hi": "दीवार उनके द्वारा रंगी गई।",
+        "B_en": "The wall was painted by her.",
+        "B_hi": "दीवार उनके द्वारा रंगी गई।",
+        "C_en": "The wall is painted by her.",
+        "C_hi": "दीवार उनके द्वारा रंगी जा रही है।",
+        "D_en": "The wall has been painted by her.",
+        "D_hi": "दीवार उनके द्वारा रंगी गई है।",
+        "answer": "B",
+        "explanation_en": "The correct passive form is 'The wall was painted by her.'",
+        "explanation_hi": "सही आवाहक रूप 'दीवार उनके द्वारा रंगी गई' है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "Which sentence is grammatically correct?",
+        "question_hi": "निम्नलिखित में से कौन सा वाक्य व्याकरणिक रूप से सही है?",
+        "A_en": "He don't like apples.",
+        "A_hi": "वह सेब नहीं पसंद करता है।",
+        "B_en": "He doesn't like apples.",
+        "B_hi": "वह सेब नहीं पसंद करता है।",
+        "C_en": "He isn't like apples.",
+        "C_hi": "वह सेब नहीं पसंद करता है।",
+        "D_en": "He doesn't likes apples.",
+        "D_hi": "वह सेब नहीं पसंद करता है।",
+        "answer": "B",
+        "explanation_en": "'He doesn't like apples' is the correct sentence.",
+        "explanation_hi": "'वह सेब नहीं पसंद करता है' सही वाक्य है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "Convert the direct speech to indirect: 'She said, 'I am going to the market.''",
+        "question_hi": "अपनी अप्रत्यक्ष बोलचाल में बदलें: 'वह बोली, 'मैं बाजार जा रही हूँ।'",
+        "A_en": "She said that she was going to the market.",
+        "A_hi": "वह बोली कि वह बाजार जा रही थी।",
+        "B_en": "She said that she is going to the market.",
+        "B_hi": "वह बोली कि वह बाजार जा रही है।",
+        "C_en": "She said that she will go to the market.",
+        "C_hi": "वह बोली कि वह बाजार जायेगी।",
+        "D_en": "She said that she has gone to the market.",
+        "D_hi": "वह बोली कि वह बाजार गई है।",
+        "answer": "A",
+        "explanation_en": "The correct indirect form is 'She said that she was going to the market.'",
+        "explanation_hi": "सही अप्रत्यक्ष रूप 'वह बोली कि वह बाजार जा रही थी।' है।"
+    },
+    {
+        "subject": "General English",
+        "topic": "Vocabulary and Grammar",
+        "question_en": "Correct the punctuation in the sentence: 'The sun shines brightly'",
+        "question_hi": "वाक्य में विराम चिह्न को सही करें: 'सूर्य तेजी से चमक रहा है'",
+        "A_en": "The sun shines brightly.",
+        "A_hi": "सूर्य तेजी से चमक रहा है।",
+        "B_en": "The sun shines brightly!",
+        "B_hi": "सूर्य तेजी से चमक रहा है!।",
+        "C_en": "The sun shines brightly?",
+        "C_hi": "सूर्य तेजी से चमक रहा है?",
+        "D_en": "The sun shines brightly:)",
+        "D_hi": "सूर्य तेजी से चमक रहा है:)",
+        "answer": "A",
+        "explanation_en": "A period
