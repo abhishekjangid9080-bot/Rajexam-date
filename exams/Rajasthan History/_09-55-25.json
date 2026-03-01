@@ -1,0 +1,86 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and State Emblem",
+"question_en": "What is the capital of Rajasthan and what is the state emblem of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी और राजस्थान की राजधानी वर्ग के मूल्य किसे प्रस्तुति होती है।",
+"options": [
+{
+"option_en": "Jaipur",
+"option_hi": "जयपुर",
+"answer_en": "Jaipur",
+"answer_hi": "जयपुर",
+"explanation_en": "The capital of Rajasthan is Jaipur, and under the emblem of Rajasthan's capital category, the main symbol is a Lion Capital of Ashoka.",
+"explanation_hi": "राजस्थान की राजधानी होती है जयपुर, और राजस्थान के राजधानी वर्ग के मूलकार को क्या छिपना होता है।",
+},
+{
+"option_en": "Amber Fort",
+"option_hi": "ऐंडर कॉफट",
+"answer_en": "Amber Fort",
+"answer_hi": "ऐंडर कॉफट",
+"explanation_en": "Amber Fort is a famous landmark in Jaipur. The main symbol under the Jaipur's capital category is the Peacock."
+},
+{
+"option_en": "Mehrangarh Fort",
+"option_hi": "मेरंगर कॉफट",
+"answer_en": "Mehrangarh Fort",
+"answer_hi": "मेरंगर कॉफट",
+"explanation_en": "Mehrangarh Fort is located in Jodhpur. The central symbol under the Jaipur's capital category is the Elephant."
+},
+{
+"option_en": "Sanganer",
+"option_hi": "सांगनेर",
+"answer_en": "Sanganer",
+"answer_hi": "सांगनेर",
+"explanation_en": "Sanganer is a small town known for its handicrafts. The emblem under the Jaipur's capital category is the Royal Elephant."
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदायपुर",
+"answer_en": "Udaipur",
+"answer_hi": "उदायपुर",
+"explanation_en": "Udaipur is the capital of Rajasthan till 1818 AD. The symbol under the Jaipur's capital category is the Royal Peacock."
+},
+{
+"option_en": "Jaisalmer",
+"option_hi": "जयसैमर",
+"answer_en": "Jaisalmer",
+"answer_hi": "जयसैमर",
+"explanation_en": "Jaisalmer was the capital of Rajasthan till 1818 AD. The emblem under the Jaipur's capital category is the Royal Lion."
+},
+{
+"option_en": "Jodhpur",
+"option_hi": "जोधपुर",
+"answer_en": "Jodhpur",
+"answer_hi": "जोधपुर",
+"explanation_en": "Jodhpur was the capital of Rajasthan till 1818 AD. The emblem under the Jaipur's capital category is the Royal Elephant."
+},
+{
+"option_en": "Alwar",
+"option_hi": "अलौर",
+"answer_en": "Alwar",
+"answer_hi": "अलौर",
+"explanation_en": "Alwar was the capital of Rajasthan till 1818 AD. The emblem under the Jaipur's capital category is the Royal Leopard."
+},
+{
+"option_en": "Sawai Maan",
+"option_hi": "सावाई मेंट",
+"answer_en": "Sawai Maan",
+"answer_hi": "सावाई मेंट",
+"explanation_en": "Sawai Maan was the capital of Rajasthan till 1818 AD. The emblem under the Jaipur's capital category is the Royal Tiger."
+},
+{
+"option_en": "Jaisalmer",
+"option_hi": "जयसालमेर",
+"answer_en": "Jaisalmer",
+"answer_hi": "जयसालमेर",
+"explanation_en": "Jaisalmer was the capital of Rajasthan till 1818 AD. The emblem under the Jaipur's capital category is the Royal Elephant."
+},
+{
+"option_en": "Kishangarh",
+"option_hi": "किशांगरख",
+"answer_en": "Kishangarh",
+"answer_hi": "किशांगरख",
+"explanation_en": "Kishangarh was the capital of Rajasthan till 1818 AD. The emblem under the Jaipur's capital category is the Royal Tiger."
+}
+]
