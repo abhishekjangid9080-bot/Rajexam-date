@@ -1,0 +1,144 @@
+<think>
+Okay, I need to create 10 high-quality MCQs on Rajasthan Polity for exams like LDC, CET, RAS, SSC, and Railway. Let me start by recalling key topics in Rajasthan's polity. The structure should be in both Hindi and English per the testbook style. Each question must have options A to D in both languages, the correct answer specified, and explanations in both languages. The difficulty level should be appropriate for these exams.
+
+First, I should list important topics. Rajasthan's constitutional structure, legislative bodies, key officials, important acts, historical events in the state's governance, rights of citizens, etc. Let me think of specific points. The Rajasthan Legislative Assembly, the role of the Governor, Chief Minister, High Court, recent amendments, significant policies, and important constitutional rights.
+
+Let me start with the first question. Maybe about the current Chief Minister of Rajasthan. That's a common question. Then the Governor, the structure of the Assembly, the High Court's location, significant acts like the Rajasthan Panchayati Raj Act, the number of districts, the role of the Governor, the language of the state, the constitution of Rajasthan, important days like Rajasthan Day, and a question on the power to summon the Assembly.
+
+I need to ensure that each question is distinct and covers different aspects. Also, the options should be plausible but with one clearly correct answer. For explanations, they should be concise and to the point, confirming the correct answer. Let me check if the details are up-to-date. For example, the current Chief Minister is Bhajan Lal Sharma, and the Governor is Kalraj Mishra as of 2023. The Rajasthan High Court is in Jodhpur. Rajasthan Day is celebrated on 30th March. The Rajasthan Panchayati Raj Act was enacted in 1993. The state has 33 districts. The Assembly has 200 members. The Governor's role is ceremonial. The state tree is Neem. The Right to Information Act was passed in 2001. The language is Rajasthani. 
+
+Wait, the language question might be tricky. The official language is Hindi, but Rajasthani is recognized as a regional language. Need to clarify that. Also, the number of Assembly seats is 200. The Governor's role is as per the constitution. The High Court's location is Jodhpur. Let me verify each point to avoid errors. Once confirmed, structure each question with the required fields. Make sure explanations are accurate. Avoid any markdown, just raw JSON. Let me proceed step by step, ensuring each question follows the format and covers different aspects of Rajasthan Polity.
+</think>
+
+[
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "Who is the current Chief Minister of Rajasthan (as of 2023)?",
+    "question_hi": "2023 तक राजस्थान के मुख्यमंत्री कौन हैं?",
+    "A_en": "S. C. Jamir", "A_hi": "एस. सी. जमीर",
+    "B_en": "Bhajan Lal Sharma", "B_hi": "भाजन लाल शर्मा",
+    "C_en": "Suresh Kalmadi", "C_hi": "शशि कल्मड़ी",
+    "D_en": "Gopal Rajput", "D_hi": "गोपाल राजपूत",
+    "answer": "B",
+    "explanation_en": "Bhajan Lal Sharma is the current Chief Minister of Rajasthan (as of 2023).",
+    "explanation_hi": "भाजन लाल शर्मा 2023 तक राजस्थान के मुख्यमंत्री हैं।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "The Governor of Rajasthan is appointed by the:",
+    "question_hi": "राजस्थान के राज्यपाल की नियुक्ति किसके द्वारा की जाती है?",
+    "A_en": "Chief Minister", "A_hi": "मुख्यमंत्री",
+    "B_en": "President of India", "B_hi": "भारत के राष्ट्रपति",
+    "C_en": "Prime Minister", "C_hi": "प्रधानमंत्री",
+    "D_en": "Chief Justice of High Court", "D_hi": "उच्च न्यायालय के मुख्य न्यायाधीश",
+    "answer": "B",
+    "explanation_en": "The Governor is appointed by the President of India under Article 155 of the Constitution.",
+    "explanation_hi": "राज्यपाल की नियुक्ति संविधान के अनुच्छेद 155 के तहत भारत के राष्ट्रपति द्वारा की जाती है।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "What is the total number of elected members in the Rajasthan Legislative Assembly?",
+    "question_hi": "राजस्थान विधानसभा में निर्वाचित सदस्यों की कुल संख्या क्या है?",
+    "A_en": "199", "A_hi": "199",
+    "B_en": "200", "B_hi": "200",
+    "C_en": "250", "C_hi": "250",
+    "D_en": "300", "D_hi": "300",
+    "answer": "B",
+    "explanation_en": "The Rajasthan Legislative Assembly has 200 elected members.",
+    "explanation_hi": "राजस्थान विधानसभा में 200 निर्वाचित सदस्य होते हैं।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "Which of the following cities is the headquarters of the Rajasthan High Court?",
+    "question_hi": "निम्नलिखित में से कौन-सा शहर राजस्थान उच्च न्यायालय का मुख्यालय है?",
+    "A_en": "Jaipur", "A_hi": "जयपुर",
+    "B_en": "Udaipur", "B_hi": "उदयपुर",
+    "C_en": "Jodhpur", "C_hi": "जोधपुर",
+    "D_en": "Kota", "D_hi": "कोटा",
+    "answer": "C",
+    "explanation_en": "The Rajasthan High Court is headquartered in Jodhpur.",
+    "explanation_hi": "राजस्थान उच्च न्यायालय का मुख्यालय जोधपुर में है।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "The Rajasthan Panchayati Raj Act was enacted in the year:",
+    "question_hi": "राजस्थान पंचायती राज अधिनियम को किस वर्ष में लागू किया गया था?",
+    "A_en": "1992", "A_hi": "1992",
+    "B_en": "1993", "B_hi": "1993",
+    "C_en": "1994", "C_hi": "1994",
+    "D_en": "1995", "D_hi": "1995",
+    "answer": "B",
+    "explanation_en": "The Rajasthan Panchayati Raj Act was enacted in 1993 to strengthen the local governance structure.",
+    "explanation_hi": "राजस्थान पंचायती राज अधिनियम 1993 में लागू किया गया था ताकि स्थानीय सरकार की संरचना को मजबूत किया जा सके।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "How many districts are there in Rajasthan (as of 2023)?",
+    "question_hi": "राजस्थान में कितने जिले हैं (2023 तक)?",
+    "A_en": "30", "A_hi": "30",
+    "B_en": "33", "B_hi": "33",
+    "C_en": "35", "C_hi": "35",
+    "D_en": "40", "D_hi": "40",
+    "answer": "B",
+    "explanation_en": "Rajasthan has 33 districts as of 2023, including newly carved-out districts.",
+    "explanation_hi": "2023 तक राजस्थान में 33 जिले हैं, जिनमें नया निर्मित जिले शामिल हैं।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "The role of the Governor in Rajasthan is:",
+    "question_hi": "राजस्थान में राज्यपाल की भूमिका क्या है?",
+    "A_en": "Executive", "A_hi": "कार्यकारी",
+    "B_en": "Legislative", "B_hi": "विधायिका",
+    "C_en": "Ceremonial", "C_hi": "समारोही",
+    "D_en": "Judicial", "D_hi": "न्यायिक",
+    "answer": "C",
+    "explanation_en": "The Governor of Rajasthan has a ceremonial role, representing the President of India.",
+    "explanation_hi": "राजस्थान के राज्यपाल की भूमिका समारोही होती है, वे भारत के राष्ट्रपति का प्रतिनिधित्व करते हैं।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "Which of the following is the official language of Rajasthan?",
+    "question_hi": "निम्नलिखित में से कौन-सी राजस्थान की आधिकारिक भाषा है?",
+    "A_en": "Hindi", "A_hi": "हिंदी",
+    "B_en": "Rajasthani", "B_hi": "राजस्थानी",
+    "C_en": "Marwari", "C_hi": "मारवाड़ी",
+    "D_en": "Mewari", "D_hi": "मेवाड़ी",
+    "answer": "A",
+    "explanation_en": "Hindi is the official language of Rajasthan, while Rajasthani is recognized as a regional language.",
+    "explanation_hi": "हिंदी राजस्थान की आधिकारिक भाषा है, जबकि राजस्थानी को एक क्षेत्रीय भाषा के रूप में स्वीकृति दी गई है।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "The Rajasthan State Day is celebrated every year on:",
+    "question_hi": "राजस्थान राज्य दिवस हर साल किस तारीख को मनाया जाता है?",
+    "A_en": "March 30", "A_hi": "30 मार्च",
+    "B_en": "April 1", "B_hi": "1 अप्रैल",
+    "C_en": "April 15", "C_hi": "15 अप्रैल",
+    "D_en": "May 1", "D_hi": "1 मई",
+    "answer": "A",
+    "explanation_en": "Rajasthan State Day is celebrated on 30th March to commemorate the formation of the state in 1949.",
+    "explanation_hi": "30 मार्च को राजस्थान राज्य दिवस मनाया जाता है, जिसकी स्थापना 1949 में हुई थी।"
+  },
+  {
+    "subject": "Rajasthan Polity",
+    "topic": "Constitution and Governance",
+    "question_en": "Who has the authority to summon the Rajasthan Legislative Assembly?",
+    "question_hi": "राजस्थान विधानसभा को सम्मन करने का अधिकार किसके पास है?",
+    "A_en": "Chief Minister", "A_hi": "मुख्यमंत्री",
+    "B_en": "Governor", "B_hi": "राज्यपाल",
+    "C_en": "Speaker", "C_hi": "अध्यक्ष",
+    "D_en": "President", "D_hi": "राष्ट्रपति",
+    "answer": "B",
+    "explanation_en": "The Governor has the authority to summon and prorogue the Rajasthan Legislative Assembly.",
+    "explanation_hi": "राज्यपाल को राजस्थान विधानसभा को सम्मन और स्थगित करने का अधिकार है।"
+  }
+]
