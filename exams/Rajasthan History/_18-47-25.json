@@ -1,0 +1,76 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की किस शहर मैंगना है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan. Rajasthan was founded by Raja Jai Singh II, who chose Jaipur as the capital due to its strategic location and favorable weather.",
+"explanation_hi": "राजस्थान की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है।",
+"explanation_en": "Jaipur is the capital of Rajasthan. Rajasthan was founded by Raja Jai Singh II, who chose Jaipur due to its strategic location and favorable weather.",
+"explanation_hi": "राजस्थान की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है।",
+"explanation_hi": "Rajasthan was founded by Raja Jai Singh II. Jaipur is the capital city of Rajasthan. Rajasthan's foundation was laid by Raja Jai Singh II, and Jaipur is the capital city.",
+"explanation_en": "Rajasthan is a state in India founded by Raja Jai Singh II. Jaipur is its capital city.",
+}
+]
+
+Note: यहा कुल्याम्ना जयपुर हैंगना, राजस्थान की निर्माण की मैंगना जयपुर है। राजस्थान की निर्माण की मैंगना जयपुर है।",
+{
+"question_en": "Which city was founded by Raja Jai Singh II and is the capital of Rajasthan?",
+"question_hi": "राजस्थान की निर्माण की मैंगना जयपुर है।",
+"options_en": [
+{
+"option_en": "Jodhpur",
+"option_hi": "जोध्याम्ना",
+"option_explain_en": "Jodhpur",
+"option_explain_hi": "जोध्याम्ना",
+"option_correct": "B"
+}
+,
+{
+"option_en": "Ajmer",
+"option_hi": "आजमी",
+"option_explain_en": "Ajmer",
+"option_explain_hi": "आजमी",
+"option_correct": "A"
+}
+,
+{
+"option_en": "Jaisalmer",
+"option_hi": "जैसालमेर",
+"option_explain_en": "Jaisalmer",
+"option_explain_hi": "जैसालमेर",
+"option_correct": "C"
+}
+],
+"option_hi": [
+{
+"option_en": "Jodhpur",
+"option_hi": "जोध्याम्ना",
+"option_explain_en": "Jodhpur",
+"option_explain_hi": "जोध्याम्ना",
+"option_correct": "B"
+},
+{
+"option_en": "Ajmer",
+"option_hi": "आजमी",
+"option_explain_en": "Ajmer",
+"option_explain_hi": "आजमी",
+"option_correct": "A"
+},
+{
+"option_en": "Jaisalmer",
+"option_hi": "जैसालमेर",
+"option_explain_en": "Jaisalmer",
+"option_explain_hi": "जैसालमेर",
+"option_correct": "C"
+}
+]
