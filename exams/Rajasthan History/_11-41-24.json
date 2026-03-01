@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Kings",
+"question_en": "Which king ruled over Rajasthan during the late medieval period?",
+"question_hi": "राजस्थान के लालकां ने लंबे मध्यभागी परिवर्तन के दौरान राजस्थान पर बाजार किया?",
+"A_en": "Alauddin Khilji",
+"A_hi": "अलादीन खिल्जी",
+"B_en": "Rao Kalyan Singh",
+"B_hi": "राव काल्यान सिंह",
+"C_en": "Prithviraj Chauhan",
+"C_hi": "प्रतिष्ठ चौध्रांत",
+"D_en": "Rao Lakha",
+"D_hi": "राव लकड़ा",
+"answer": "C",
+"explanation_en": "Prithviraj Chauhan (प्रतिष्ठ चौध्रांत) was a famous Rajput king who ruled Rajasthan during the late medieval period.",
+"explanation_hi": "Prithviraj Chauhan (प्रतिष्ठ चौध्रांत) was a renowned Rajput king who governed Rajasthan in the later medieval period."
+}
+]
