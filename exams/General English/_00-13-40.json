@@ -1,0 +1,166 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for General English, focusing on the topic provided. The user mentioned that the questions should be in both Hindi and English, following the Testbook style. The JSON structure needs to be strictly adhered to, with subject, topic, question in both languages, options A to D in both languages, the correct answer, and explanations in both languages.
+
+First, I should consider the topics typically covered in General English for exams like Rajasthan LDC, CET, RAS, SSC, and Railway. Possible topics could be grammar (tense, voice, narration), vocabulary (synonyms, antonyms, one-word substitutions), comprehension, idioms, error detection, etc. Since the user didn't specify a particular sub-topic, I can choose a mix of these areas.
+
+Let me start with grammar. For example, a question on correct sentence structure. Then maybe a synonym/antonym question. Next, a question on verb forms. Then, a question on prepositions. Another on correct use of articles. Perhaps a question on parts of speech. Maybe an idiom meaning. Then, a question on common errors. Another on sentence completion. Lastly, a passage-based question.
+
+Each question must have the Hindi and English versions. The options should be in both languages, labeled A to D. The answer should be the correct option, and explanations in both languages.
+
+I need to ensure that the difficulty level is appropriate for the target exams. The questions shouldn't be too easy or too hard. Also, the explanations should clearly justify the correct answer.
+
+Let me draft the first question. For example, a question on identifying the correct sentence. The options would have different sentence structures. The correct answer would be the grammatically correct one. Explanation would state why that is correct.
+
+Moving on to the second question, maybe a synonym for 'abundant'. The options would be words like plentiful, scarce, etc. The correct answer is 'plentiful', and the explanation would clarify that they mean the same.
+
+Third question: changing a sentence to passive voice. The active voice sentence would be given, and options would show the passive construction. The correct answer would be the one that correctly converts the sentence.
+
+Fourth question: preposition usage. For example, choosing the correct preposition in "She is interested ___ science." Options could be in, at, on, of. Correct is 'in', so answer is A.
+
+Fifth question: parts of speech. Identify the part of speech for 'quickly' in a sentence. Adverb is the correct answer.
+
+Sixth question: antonym of 'fragile'. Options like strong, weak, etc. Correct is 'strong'.
+
+Seventh question: common error correction. A sentence with an error in subject-verb agreement. The correct option would fix the error.
+
+Eighth question: one-word substitution for 'a person who believes in nothing'. The answer is 'nihilist'.
+
+Ninth question: idiom meaning. For example, 'hit the sack' means to sleep.
+
+Tenth question: sentence completion. A sentence missing a word, options for prepositions. Correct is 'to' in "dedicated to".
+
+I need to ensure that each question is clear, options are plausible, and explanations are concise. Also, check that the translations between Hindi and English are accurate and consistent. Avoid any overlap in topics and cover a range of areas in General English. Once all 10 questions are drafted, validate the JSON structure to match the provided example, ensuring all keys are present and correct.
+</think>
+
+[
+{
+"subject": "General English",
+"topic": "Grammar",
+"question_en": "Identify the correct sentence:",
+"question_hi": "सही वाक्य की पहचान करें:",
+"A_en": "She don’t like apples.", "A_hi": "वह सेब पसंद नहीं करती।",
+"B_en": "She doesn’t like apples.", "B_hi": "वह सेब पसंद नहीं करती है।",
+"C_en": "She don’t likes apples.", "C_hi": "वह सेब पसंद करती है।",
+"D_en": "She don’t like apple.", "D_hi": "वह सेब पसंद नहीं करती।",
+"answer": "B",
+"explanation_en": "The correct sentence uses 'doesn’t' with a third person singular subject and plural noun 'apples'.",
+"explanation_hi": "'नहीं करती है' तीसरे व्यक्ति एकवचन विषय के साथ प्रयोग में आता है।"
+},
+{
+"subject": "General English",
+"topic": "Vocabulary",
+"question_en": "Find the synonym of 'abundant':",
+"question_hi": "'बहुतायत' का समानार्थी शब्द चुनें:",
+"A_en": "Scarce", "A_hi": "कम",
+"B_en": "Plentiful", "B_hi": "पर्याप्त",
+"C_en": "Rare", "C_hi": "दुर्लभ",
+"D_en": "Minimal", "D_hi": "कम से कम",
+"answer": "B",
+"explanation_en": "'Plentiful' is a direct synonym of 'abundant' indicating plenty in quantity.",
+"explanation_hi": "'पर्याप्त' 'बहुतायत' का समानार्थी शब्द है जो मात्रा में पर्याप्तता दर्शाता है।"
+},
+{
+"subject": "General English",
+"topic": "Grammar",
+"question_en": "Convert the active voice sentence to passive voice: 'He wrote a letter.'",
+"question_hi": "सक्रिय स्वर के वाक्य को निष्क्रिय स्वर में बदलें: 'उसने एक पत्र लिखा।'",
+"A_en": "A letter is written by him.", "A_hi": "एक पत्र उसके द्वारा लिखा जाता है।",
+"B_en": "A letter was written by him.", "B_hi": "एक पत्र उसके द्वारा लिखा गया था।",
+"C_en": "A letter is being written by him.", "C_hi": "एक पत्र उसके द्वारा लिखा जा रहा है।",
+"D_en": "He is writing a letter.", "D_hi": "वह एक पत्र लिख रहा है।",
+"answer": "B",
+"explanation_en": "The passive voice requires the past perfect tense and the agent (him) in passive form.",
+"explanation_hi": "निष्क्रिय स्वर में भूतकाल के पूर्ण भूतकाल तथा कर्ता (उसके द्वारा) का प्रयोग करना होता है।"
+},
+{
+"subject": "General English",
+"topic": "Grammar",
+"question_en": "Choose the correct preposition to complete the sentence: 'She is interested ___ science.'",
+"question_hi": "वाक्य को पूरा करने के लिए सही सही क्रिया संज्ञा चुनें: 'वह विज्ञान में रुचि रखती है।'",
+"A_en": "In", "A_hi": "में",
+"B_en": "At", "B_hi": "पर",
+"C_en": "On", "C_hi": "पर",
+"D_en": "Of", "D_hi": "का",
+"answer": "A",
+"explanation_en": "'In' is the correct preposition used with 'interested' to indicate involvement.",
+"explanation_hi": "'में' 'रुचि रखती है' के साथ प्रयोग किया जाता है जो शामिलता दर्शाता है।"
+},
+{
+"subject": "General English",
+"topic": "Grammar",
+"question_en": "Identify the part of speech of the word 'quickly' in the sentence: 'He ran quickly.'",
+"question_hi": "वाक्य में 'तेजी से' का व्याकरणीय भेद चुनें: 'वह तेजी से दौड़ा।'",
+"A_en": "Noun", "A_hi": "संज्ञा",
+"B_en": "Verb", "B_hi": "क्रिया",
+"C_en": "Adjective", "C_hi": "विशेषण",
+"D_en": "Adverb", "D_hi": "क्रियाविशेषण",
+"answer": "D",
+"explanation_en": "'Quickly' modifies the verb 'ran' and functions as an adverb.",
+"explanation_hi": "'तेजी से' क्रिया 'दौड़ा' को बदलता है और क्रियाविशेषण के रूप में कार्य करता है।"
+},
+{
+"subject": "General English",
+"topic": "Vocabulary",
+"question_en": "Find the antonym of 'fragile':",
+"question_hi": "'नाजुक' का विपरीतार्थी शब्द चुनें:",
+"A_en": "Strong", "A_hi": "मजबूत",
+"B_en": "Weak", "B_hi": "कमजोर",
+"C_en": "Delicate", "C_hi": "नाजुक",
+"D_en": "Brittle", "D_hi": "टूटने वाला",
+"answer": "A",
+"explanation_en": "'Strong' is the opposite of 'fragile', indicating robustness.",
+"explanation_hi": "'मजबूत' 'नाजुक' का विपरीतार्थी है जो टिकाऊता दर्शाता है।"
+},
+{
+"subject": "General English",
+"topic": "Common Errors",
+"question_en": "Correct the error in the sentence: 'Neither of the students are attending the class.'",
+"question_hi": "वाक्य में त्रुटि को सुधारें: 'छात्रों में से कोई भी वर्ग नहीं ले रहा है।'",
+"A_en": "Neither of the students is attending the class.", "A_hi": "छात्रों में से कोई भी वर्ग नहीं ले रहा है।",
+"B_en": "Neither of the students are attending the class.", "B_hi": "छात्रों में से कोई भी वर्ग नहीं ले रहा है।",
+"C_en": "Neither of the students have attended the class.", "C_hi": "छात्रों में से कोई भी वर्ग ले लिया है।",
+"D_en": "Neither of the students has attended the class.", "D_hi": "छात्रों में से कोई भी वर्ग ले लिया है।",
+"answer": "A",
+"explanation_en": "The subject 'Neither' requires a singular verb 'is' with the plural noun 'students'.",
+"explanation_hi": "विषय 'न तो' के साथ एकवचन क्रिया 'है' प्रयोग करना होता है।"
+},
+{
+"subject": "General English",
+"topic": "One Word Substitution",
+"question_en": "Choose the one-word substitution for 'a person who believes in nothing':",
+"question_hi": "'कुछ भी विश्वास न करने वाले व्यक्ति' के लिए एक शब्द प्रतिस्थापन चुनें:",
+"A_en": "Skeptic", "A_hi": "संदेही",
+"B_en": "Nihilist", "B_hi": "निर्विश्वासी",
+"C_en": "Optimist", "C_hi": "आशावादी",
+"D_en": "Pessimist", "D_hi": "निराशावादी",
+"answer": "B",
+"explanation_en": "'Nihilist' refers to someone who rejects all religious and moral principles.",
+"explanation_hi": "'निर्विश्वासी' व्यक्ति कोई भी नैतिक या आध्यात्मिक सिद्धांतों को अस्वीकार करता है।"
+},
+{
+"subject": "General English",
+"topic": "Idioms",
+"question_en": "What does the idiom 'hit the sack' mean?",
+"question_hi": "'हिट द बैग' मुहावरा का क्या अर्थ है?",
+"A_en": "To sleep", "A_hi": "सोना",
+"B_en": "To fight", "B_hi": "लड़ना",
+"C_en": "To work hard", "C_hi": "मेहनत करना",
+"D_en": "To travel", "D_hi": "यात्रा करना",
+"answer": "A",
+"explanation_en": "'Hit the sack' means to go to sleep.",
+"explanation_hi": "'हिट द बैग' का अर्थ सोने से होता है।"
+},
+{
+"subject": "General English",
+"topic": "Sentence Completion",
+"question_en": "Complete the sentence: 'The book is dedicated ___ the author's family.'",
+"question_hi": "वाक्य को पूरा करें: 'पुस्तक लेखक के परिवार के लिए समर्पित है।'",
+"A_en": "To", "A_hi": "के लिए",
+"B_en": "At", "B_hi": "पर",
+"C_en": "On", "C_hi": "पर",
+"D_en": "For", "D_hi": "के लिए",
+"answer": "A",
+"explanation_en": "'To' is the correct preposition used after 'dedicated' to indicate the recipient.",
+"explanation_hi": "'समर्पित' के बाद 'के लिए' प्रयुक्त किया जाता है जो ग्रहीता को दर्शाता है।"
+}
+]
