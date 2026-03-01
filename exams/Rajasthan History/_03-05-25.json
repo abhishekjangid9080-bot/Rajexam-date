@@ -1,0 +1,34 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस पहाड़ी है?",
+"A_en": "Amber Fort", "A_hi": "अमेर पहाड़ी",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Ram Singh", "C_hi": "महाराजा राम सिंग के नामक छत्",
+"D_en": "Pratapgarh Fort", "D_hi": "प्रतापगढ़ पहाड़ी",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur, known for its unique architecture.",
+"explanation_hi": "हवा महाल एक निर्मित पुलिस्ट है, जो अपनी निर्मित कालियाँ के संदर्श की पुलियाँ हैं।",
+"explanation_hi": "हवा महाल एक निर्मित पुलिस्ट है, जो अपनी कालियाँ की पुलिस्ट हैं।",
+"answer": "B"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Leaders of Rajasthan",
+"question_en": "Who is the first Prime Minister of Rajasthan?",
+"question_hi": "राजस्थान के पहले प्रीमिति कौन है?",
+"A_en": "Chetan Bhagat",
+"A_hi": "चेटन भागत",
+"B_en": "Bhairon Singh Shekhawat",
+"B_hi": "भैरोन सीखावत",
+"C_en": "Dushyant Kumar",
+"C_hi": "डुशयेंट कुमार",
+"D_en": "Bhanwar Singh",
+"D_hi": "भंवार सिंग",
+"answer": "B",
+"explanation_en": "Bhairon Singh Shekhawat was the first Prime Minister of Rajasthan. Rajasthan was a princely state before it became a state in India.",
+"explanation_hi": "भैरोन सीखावत राजस्थान के प्रधानि बनवारा तलाकार है। यही राजस्थान की प्रधानियों के बनवारा तलाकार है।",
+}
+]
