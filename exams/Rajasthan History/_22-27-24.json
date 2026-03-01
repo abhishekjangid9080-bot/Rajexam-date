@@ -1,0 +1,41 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Jaipur", "B_hi": "जयपुर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.\nJaipur, also known as the 'Pink City', is a major urban agglomerate in Rajasthan and serves as its capital.",
+"explanation_hi": "जयपुर राजस्थान की राजधानी है।\nजयपुर, इसे 'पिकंड शोचक' का नाम देखा जाना चाहिए तो, उसे अपना प्रमोजन है। Jaipur, the 'Pink City', is a major urban agglomerate in Rajasthan and serves as its capital. जयपुर, आपको अपना प्रमोजन है, जहां राजस्थान में भागीय उपगणी है।",
+"options": [
+{
+"option": "Jaipur",
+"option_en": "Jaipur",
+"option_hi": "जयपुर"
+},
+{
+"option": "Jodhpur",
+"option_en": "Jodhpur",
+"option_hi": "जोधपुर"
+},
+{
+"option": "Agra",
+"option_en": "Agra",
+"option_hi": "अग्रा"
+},
+{
+"option": "Delhi",
+"option_en": "Delhi",
+"option_hi": "दिल्हाई"
+},
+{
+"option": "Mysore",
+"option_en": "Mysore",
+"option_hi": "मैसोर"
+}
+]
+}
