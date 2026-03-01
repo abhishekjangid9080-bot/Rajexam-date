@@ -1,0 +1,154 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality MCQs for English exams, specifically for Rajasthan State Exams, SSC, and Railway. The topic is General English, but the example given is about Rajasthan's capital. Wait, maybe the topic is missing? The user didn't specify a particular topic beyond General English. Hmm, maybe the topic is left blank in the example. So I should leave the "topic" field as an empty string like in the example.
+
+Each question needs to be in both English and Hindi, with options A to D in both languages. The JSON structure is provided, so I need to follow that strictly. The difficulty level should be general English, so the questions shouldn't be too hard. Let me think of common English topics for these exams. Maybe grammar, vocabulary, synonyms, antonyms, sentence correction, etc. 
+
+First, I need to come up with 10 different questions. Let's start with synonyms and antonyms. For example, a question like "What is the synonym of 'Abandon'?" with options in both languages. Then maybe a sentence correction question. Also, some grammar rules like tenses or prepositions. Let's make sure each question is clear and the options are plausible.
+
+Wait, the example given is about a geographical question, but the subject is General English. Maybe the user made a mistake in the example. But the task is to create General English questions, so maybe the example is just for structure. So I should focus on English topics like vocabulary, grammar, comprehension, etc.
+
+Let me list out 10 different topics for the questions. Let's go with 5 synonyms, 2 antonyms, 2 sentence corrections, and maybe 1 question on prepositions. That should cover a range. Now, I need to ensure that each question is in both English and Hindi. Also, the explanations should be in both languages. 
+
+Wait, the user mentioned "Testbook style," which usually means the options are in both English and Hindi. So for each question, the question itself is in both languages, and each option (A, B, C, D) is in both languages. The answer is a letter (A-D), and the explanation is in both languages. 
+
+Let me start drafting. First question: Synonym for 'Benevolent'. Options could be Kind, Cruel, Angry, etc. Then antonym for 'Cautious' might be Reckless. Next, sentence correction like "He don’t like apples" should be "He doesn't." Preposition: "She is good ___ cricket." Answer: at. Then maybe a question on parts of speech: Identify the noun in "The boy is running." Then a question on one-word substitution for a given sentence. 
+
+Wait, I need to make sure the questions cover different areas of General English. Let me check the example again. The example's question is in English and Hindi, options same. So each question must be in both languages. Let me proceed step by step, ensuring each question's structure follows the example. Also, the answer letter must be correct, and explanations clear. 
+
+For each question, I need to translate the question and options accurately into Hindi. Maybe use a translation tool for consistency but check for accuracy. For example, "synonym of 'Abandon'" becomes "‘Abandon’ का समानार्थी क्या है?" and so on. 
+
+Let me start writing each question, ensuring the JSON format is correct. Also, check that the answer is correctly noted. Finally, validate the JSON to ensure no syntax errors. Once done, review all questions for quality and difficulty level.
+</think>
+
+[
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "What is the synonym of 'Benevolent'?",
+    "question_hi": "‘Benevolent’ का समानार्थी क्या है?",
+    "A_en": "Kind", "A_hi": "दयालु",
+    "B_en": "Cruel", "B_hi": "क्रूर",
+    "C_en": "Angry", "C_hi": "चिड़चिड़ा",
+    "D_en": "Lazy", "D_hi": "अलसी",
+    "answer": "A",
+    "explanation_en": "‘Benevolent’ means kind or well-meaning.",
+    "explanation_hi": "‘Benevolent’ का अर्थ दयालु या अच्छा इरादा रखने वाला होता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Identify the antonym of 'Cautious'.",
+    "question_hi": "‘Cautious’ का विपरीतार्थी पहचानें।",
+    "A_en": "Careful", "A_hi": "सावधान",
+    "B_en": "Reckless", "B_hi": "सोचने के बिना कार्य करने वाला",
+    "C_en": "Alert", "C_hi": "चैतन्य",
+    "D_en": "Wary", "D_hi": "सतर्क",
+    "answer": "B",
+    "explanation_en": "‘Cautious’ means careful, so ‘Reckless’ is its opposite.",
+    "explanation_hi": "‘Cautious’ का अर्थ सावधान होता है, इसलिए ‘Reckless’ इसका विपरीतार्थी है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Correct the sentence: 'He don’t like apples.'",
+    "question_hi": "वाक्य सुधारें: 'He don’t like apples.'",
+    "A_en": "He doesn’t like apples.", "A_hi": "वह सेब पसंद नहीं करता है।",
+    "B_en": "He not like apples.", "B_hi": "वह सेब पसंद नहीं करता है।",
+    "C_en": "He likes not apples.", "C_hi": "वह सेब पसंद नहीं करता है।",
+    "D_en": "He like not apples.", "D_hi": "वह सेब पसंद नहीं करता है।",
+    "answer": "A",
+    "explanation_en": "Third person singular requires ‘doesn’t’ in present tense.",
+    "explanation_hi": "तीसरे व्यक्ति के एकवचन के लिए वर्तमान काल में ‘doesn’t’ का उपयोग किया जाता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Choose the correct preposition: 'She is good ___ cricket.'",
+    "question_hi": "सही सहवनकर का चयन करें: 'She is good ___ cricket.'",
+    "A_en": "at", "A_hi": "में",
+    "B_en": "in", "B_hi": "में",
+    "C_en": "on", "C_hi": "पर",
+    "D_en": "to", "D_hi": "को",
+    "answer": "A",
+    "explanation_en": "‘Good at’ is used for skills or abilities.",
+    "explanation_hi": "‘Good at’ का उपयोग कौशल या क्षमताओं के लिए किया जाता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "What part of speech is 'Running' in the sentence: 'The boy is running.'?",
+    "question_hi": "वाक्य में 'Running' किस वचन भेद का है: 'The boy is running.'?",
+    "A_en": "Noun", "A_hi": "संज्ञा",
+    "B_en": "Verb", "B_hi": "क्रिया",
+    "C_en": "Adjective", "C_hi": "विशेषण",
+    "D_en": "Adverb", "D_hi": "क्रिया विशेषण",
+    "answer": "B",
+    "explanation_en": "'Running' is a verb in present continuous tense.",
+    "explanation_hi": "‘Running’ वर्तमान लगातार काल में एक क्रिया है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "What is the one-word substitution for 'A person who studies plants'?",
+    "question_hi": "‘पौधों के अध्ययन करने वाला व्यक्ति’ के लिए एक शब्द स्थानापन क्या है?",
+    "A_en": "Botanist", "A_hi": "वनस्पति विज्ञानी",
+    "B_en": "Zoologist", "B_hi": "जीव विज्ञानी",
+    "C_en": "Geologist", "C_hi": "भूविज्ञानी",
+    "D_en": "Astronomer", "D_hi": "खगोलविद",
+    "answer": "A",
+    "explanation_en": "A Botanist is someone who studies plants.",
+    "explanation_hi": "एक वनस्पति विज्ञानी वह व्यक्ति होता है जो पौधों का अध्ययन करता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Choose the correct sentence: 'She went ___ the market.'",
+    "question_hi": "सही वाक्य का चयन करें: 'She went ___ the market.'",
+    "A_en": "to", "A_hi": "की ओर",
+    "B_en": "into", "B_hi": "के अंदर",
+    "C_en": "on", "C_hi": "पर",
+    "D_en": "at", "D_hi": "पर",
+    "answer": "A",
+    "explanation_en": "‘To’ is used for direction or destination.",
+    "explanation_hi": "‘To’ दिशा या गंतव्य के लिए उपयोग किया जाता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "What is the plural of 'Alumnus'?",
+    "question_hi": "‘Alumnus’ का बहुवचन क्या है?",
+    "A_en": "Alumni", "A_hi": "अल्यूमनी",
+    "B_en": "Alumnae", "B_hi": "अल्यूमनेई",
+    "C_en": "Alumnus", "C_hi": "अल्यूमनस",
+    "D_en": "Alumnus", "D_hi": "अल्यूमनस",
+    "answer": "A",
+    "explanation_en": "‘Alumni’ is the plural of ‘Alumnus’ (male graduates).",
+    "explanation_hi": "‘Alumnus’ (पुरुष छात्र) का बहुवचन ‘Alumni’ होता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Which word is a synonym for ‘Eloquent’?",
+    "question_hi": "‘Eloquent’ के लिए कौन-सा शब्द समानार्थी है?",
+    "A_en": "Mute", "A_hi": "मूक",
+    "B_en": "Fluent", "B_hi": "स्पष्ट",
+    "C_en": "Stammer", "C_hi": "बोलते समय गलती",
+    "D_en": "Inarticulate", "D_hi": "अस्पष्ट",
+    "answer": "B",
+    "explanation_en": "‘Eloquent’ and ‘Fluent’ both mean expressive and persuasive in speech.",
+    "explanation_hi": "‘Eloquent’ और ‘Fluent’ दोनों अभिव्यक्तिशील और बोलने में प्रभावशाली का अर्थ होता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "",
+    "question_en": "Identify the correct spelling: ‘Accommodate’ or ‘Accomodate’?",
+    "question_hi": "सही शब्द की पहचान करें: ‘Accommodate’ या ‘Accomodate’?",
+    "A_en": "Accommodate", "A_hi": "अक्कूमोडेट",
+    "B_en": "Accomodate", "B_hi": "अक्कूमोडेट",
+    "C_en": "Accommodate", "C_hi": "अक्कूमोडेट",
+    "D_en": "Accommode", "D_hi": "अक्कूमोड",
+    "answer": "A",
+    "explanation_en": "‘Accommodate’ has two ‘m’s and two ‘a’s in correct spelling.",
+    "explanation_hi": "‘Accommodate’ में सही वर्तनी में दो ‘m’ और दो ‘a’ होते हैं।"
+  }
+]
