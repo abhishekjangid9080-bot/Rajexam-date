@@ -1,0 +1,160 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the Computer subject, covering topics relevant to Rajasthan State Exams, SSC, and Railway. The questions should be in both Hindi and English, following the specified JSON format. Let me start by brainstorming possible topics.
+
+First, computer fundamentals like input/output devices, memory units, software types. Then maybe operating systems, networking basics, data storage, and current technologies. Let's see.
+
+Question 1: Input devices. Common devices include keyboard, mouse, scanner. Let's make a question on which is not an input device. Maybe a printer as the correct answer.
+
+Question 2: Storage units. Terabyte is larger than gigabyte. So which is the largest unit? The options could include terabyte, gigabyte, kilobyte, etc.
+
+Question 3: Software types. System software vs application software. Example: Operating System is system software.
+
+Question 4: Networking. LAN vs WAN. Which covers a larger area? WAN is the answer.
+
+Question 5: Data transmission modes. Simplex, half-duplex, full-duplex. Which allows two-way communication? Full-duplex.
+
+Question 6: Internet protocols. HTTP is used for web pages. Others could be FTP, SMTP, etc.
+
+Question 7: Antivirus. Which is not an antivirus? Options like Norton, McAfee, Kaspersky, and maybe Google Chrome.
+
+Question 8: Memory units. 1 MB is 1024 KB. So converting between units.
+
+Question 9: Database management. SQL is a language used for databases.
+
+Question 10: Programming languages. Python is an interpreted language.
+
+Now, I need to structure each question with the required fields. Ensure that the translations are accurate and the correct answer is marked properly. Also, explanations should be concise. Let me check the JSON format and make sure each question follows the example structure. Avoid any markdown and ensure the JSON is valid. Let me verify each question for correct terminology in both languages. Once done, compile the list into the JSON array as specified.
+</think>
+
+[
+    {
+        "subject": "Computer",
+        "topic": "Basic Computer Concepts",
+        "question_en": "Which of the following is not an input device?",
+        "question_hi": "निम्नलिखित में से कौन एक इनपुट डिवाइस नहीं है?",
+        "A_en": "Keyboard", "A_hi": "कीबोर्ड",
+        "B_en": "Mouse", "B_hi": "माउस",
+        "C_en": "Scanner", "C_hi": "स्कैनर",
+        "D_en": "Printer", "D_hi": "प्रिंटर",
+        "answer": "D",
+        "explanation_en": "A printer is an output device, not an input device.",
+        "explanation_hi": "एक प्रिंटर एक आउटपुट डिवाइस है, न कि इनपुट डिवाइस।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Data Storage",
+        "question_en": "Which of the following is the largest unit of data storage?",
+        "question_hi": "निम्नलिखित में से कौन सी डेटा स्टोरेज की सबसे बड़ी इकाई है?",
+        "A_en": "Kilobyte", "A_hi": "किलोबाइट",
+        "B_en": "Megabyte", "B_hi": "मेगाबाइट",
+        "C_en": "Gigabyte", "C_hi": "गीगाबाइट",
+        "D_en": "Terabyte", "D_hi": "टेराबाइट",
+        "answer": "D",
+        "explanation_en": "A terabyte is the largest unit listed, followed by gigabyte, megabyte, and kilobyte.",
+        "explanation_hi": "टेराबाइट सूचीबद्ध सबसे बड़ी इकाई है, इसके बाद गीगाबाइट, मेगाबाइट और किलोबाइट आते हैं।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Software Types",
+        "question_en": "Which of the following is an example of system software?",
+        "question_hi": "निम्नलिखित में से कौन सी सिस्टम सॉफ्टवेयर का उदाहरण है?",
+        "A_en": "Microsoft Word", "A_hi": "माइक्रोसॉफ्ट वर्ड",
+        "B_en": "Google Chrome", "B_hi": "गूगल क्रोम",
+        "C_en": "Operating System", "C_hi": "ऑपरेटिंग सिस्टम",
+        "D_en": "Photoshop", "D_hi": "फोटोशॉप",
+        "answer": "C",
+        "explanation_en": "An operating system is a type of system software that manages computer hardware and software resources.",
+        "explanation_hi": "ऑपरेटिंग सिस्टम कंप्यूटर हार्डवेयर और सॉफ्टवेयर संसाधनों के प्रबंधन के लिए सिस्टम सॉफ्टवेयर का एक प्रकार है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Networking",
+        "question_en": "Which protocol is used to send emails?",
+        "question_hi": "ईमेल भेजने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+        "A_en": "HTTP", "A_hi": "एचटीटीपी",
+        "B_en": "FTP", "B_hi": "एफटीपी",
+        "C_en": "SMTP", "C_hi": "एसएमटीपी",
+        "D_en": "TCP", "D_hi": "टीसीपी",
+        "answer": "C",
+        "explanation_en": "SMTP (Simple Mail Transfer Protocol) is used to send emails between servers.",
+        "explanation_hi": "एसएमटीपी (सिम्पल मेल ट्रांसफर प्रोटोकॉल) सर्वरों के बीच ईमेल भेजने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Memory Units",
+        "question_en": "1 MB is equal to how many KB?",
+        "question_hi": "1 मेगाबाइट कितने किलोबाइट के बराबर होता है?",
+        "A_en": "1024 KB", "A_hi": "1024 किलोबाइट",
+        "B_en": "1000 KB", "B_hi": "1000 किलोबाइट",
+        "C_en": "1048 KB", "C_hi": "1048 किलोबाइट",
+        "D_en": "1200 KB", "D_hi": "1200 किलोबाइट",
+        "answer": "A",
+        "explanation_en": "1 MB (MegaByte) is equal to 1024 KB (KiloBytes).",
+        "explanation_hi": "1 मेगाबाइट (मेगाबाइट) 1024 किलोबाइट (किलोबाइट) के बराबर होता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Security",
+        "question_en": "Which of the following is not an antivirus software?",
+        "question_hi": "निम्नलिखित में से कौन एंटीवायरस सॉफ्टवेयर नहीं है?",
+        "A_en": "Norton", "A_hi": "नॉर्टन",
+        "B_en": "McAfee", "B_hi": "मैकएफी",
+        "C_en": "Kaspersky", "C_hi": "कैस्पर्स्की",
+        "D_en": "Google Chrome", "D_hi": "गूगल क्रोम",
+        "answer": "D",
+        "explanation_en": "Google Chrome is a web browser, not antivirus software.",
+        "explanation_hi": "गूगल क्रोम एक वेब ब्राउज़र है, न कि एंटीवायरस सॉफ्टवेयर।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Networking",
+        "question_en": "What does LAN stand for?",
+        "question_hi": "LAN का विस्तृत रूप क्या है?",
+        "A_en": "Local Area Network", "A_hi": "लोकल एरिया नेटवर्क",
+        "B_en": "Large Area Network", "B_hi": "लार्ज एरिया नेटवर्क",
+        "C_en": "Local Access Network", "C_hi": "लोकल एक्सेस नेटवर्क",
+        "D_en": "Limited Access Network", "D_hi": "लिमिटेड एक्सेस नेटवर्क",
+        "answer": "A",
+        "explanation_en": "LAN stands for Local Area Network, a network covering a small area like a home or office.",
+        "explanation_hi": "LAN का विस्तृत रूप लोकल एरिया नेटवर्क है, जो एक छोटे क्षेत्र जैसे घर या कार्यालय को कवर करता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Data Transmission",
+        "question_en": "Which data transmission mode allows two-way communication simultaneously?",
+        "question_hi": "कौन सा डेटा ट्रांसमिशन मोड दोनों पक्षों के बीच एक साथ संचार की अनुमति देता है?",
+        "A_en": "Simplex", "A_hi": "सिम्पलेक्स",
+        "B_en": "Half-Duplex", "B_hi": "हाफ-डुप्लेक्स",
+        "C_en": "Full-Duplex", "C_hi": "फुल-डुप्लेक्स",
+        "D_en": "None of the above", "D_hi": "इनमें से कोई नहीं",
+        "answer": "C",
+        "explanation_en": "Full-duplex mode allows data transmission in both directions at the same time.",
+        "explanation_hi": "फुल-डुप्लेक्स मोड डेटा को दोनों दिशाओं में एक ही समय में ट्रांसमिट करने की अनुमति देता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Software Applications",
+        "question_en": "Which of the following is a database management system?",
+        "question_hi": "निम्नलिखित में से कौन एक डेटाबेस प्रबंधन प्रणाली है?",
+        "A_en": "MySQL", "A_hi": "माइक्रोसॉफ्ट वर्ड",
+        "B_en": "Microsoft Word", "B_hi": "माइक्रोसॉफ्ट वर्ड",
+        "C_en": "Google Chrome", "C_hi": "गूगल क्रोम",
+        "D_en": "Photoshop", "D_hi": "फोटोशॉप",
+        "answer": "A",
+        "explanation_en": "MySQL is a relational database management system.",
+        "explanation_hi": "माइक्रोसॉफ्ट एक संबंधित डेटाबेस प्रबंधन प्रणाली है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Programming Languages",
+        "question_en": "Which programming language is interpreted, not compiled?",
+        "question_hi": "कौन सी प्रोग्रामिंग भाषा कम्पाइल नहीं की जाती है, बल्कि इंटरप्रेट की जाती है?",
+        "A_en": "C++", "A_hi": "सी++",
+        "B_en": "Java", "B_hi": "जावा",
+        "C_en": "Python", "C_hi": "पायथन",
+        "D_en": "C", "D_hi": "सी",
+        "answer": "C",
+        "explanation_en": "Python is an interpreted language, meaning it is executed directly from the source code.",
+        "explanation_hi": "पायथन एक इंटरप्रेटेड भाषा है, जिसका अर्थ इसके स्रोत कोड से सीधे निष्पादन होता है।"
+    }
+]
