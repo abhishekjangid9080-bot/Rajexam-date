@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first Mughal Emperor to rule over Rajasthan?",
+"question_hi": "राजस्थान के पहले मुगल संत कौन राजस्थान के राजधानी के लिए बंद होते हुए थे?",
+"A_en": "Aurangzeb",
+"A_hi": "अर्थन्द्र",
+"B_en": "Bahadur Shah Zafar",
+"B_hi": "बाहदूर शाह जवादार",
+"C_en": "Shah Jahan",
+"C_hi": "शाह जाहान",
+"D_en": "Akbar",
+"D_hi": "अकबर",
+"answer": "D",
+"explanation_en": "Akbar was the first Mughal Emperor to rule over Rajasthan. He was the Emperor during the period of the Mughal dynasty in India.",
+"explanation_hi": "अकबर राजस्थान के लिए चुम्बर मुगल संत के बार्तने वाले बाजरा वर्षीय राजमारी भवन्द्र शाह",
+"exam_type": "LDC",
+"level": "Intermediate"
+}
