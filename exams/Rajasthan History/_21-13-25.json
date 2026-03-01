@@ -1,0 +1,67 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Princely States",
+"question_en": "What was the capital city during the establishment of Rajasthan?",
+"question_hi": "राजस्थान की सरकार के लिए शुरुआत के समय किस नगर पहला था?",
+"A_en": "Ajmer", "A_hi": "अजमेर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaisalmer", "C_hi": "जयसालमर",
+"D_en": "Udaipur", "D_hi": "उदायपुर",
+"answer": "Jodhpur",
+"explanation_en": "Jodhpur was the capital city during the establishment of Rajasthan. It was the seat of the Rathore dynasty's rule when Rajasthan was formed as a princely state in 1949.",
+"explanation_hi": "राजस्थान के शुरूआत के बार्ती के लिए खालीला स्वत: रघुरों द्वादद को हाथी के राजनी सेवाली स्वत: राजस्थान शुरत: Jodhpur स्वत: राजनी के खालीला स्वत: रघुरों को हाथी सेवाली स्वत: Jodhpur स्वत: राजनी खालीला स्वत: रघुरों को हाथी स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: राजनी खालीला स्वत: Jodhpur स्वत: Rajasthan",
+
+"D_en": "Jodhpur",
+"D_hi": "झोपुर",
+"question_en": "Which city served as the capital of Rajasthan before the establishment of the Indian Republic?",
+"question_hi": "राजस्थान से एनी राजनी खालीला से एनी राजनी खालीला",
+"options_en": [
+{
+"option": "Jaipur",
+"value": "Jaipur",
+"explain_en": "The capital of Rajasthan before Indian independence was Jaipur."
+},
+{
+"option": "Jodhpur",
+"value": "Jodhpur",
+"explain_en": "Before the establishment of the Republic of India, Jodhpur served as the capital of Rajasthan."
+},
+{
+"option": "Udaipur",
+"value": "Udaipur",
+"explanation_en": "Old Udaipur, now changed to Udaipur, was the capital of Rajasthan before independence."
+},
+{
+"option": "Alwar",
+"value": "Alwar",
+"explanation_en": "Alwar was the capital of Rajasthan before India got independence."
+}
+},
+{
+"option": "Jhalawar",
+"value": "Jhalawar",
+"explanation_en": "Jhalawar, now Churu, used to be the capital of Rajasthan before 1947."
+},
+{
+"option": "Sikkar",
+"value": "Sikkar",
+"explanation_en": "Sikkar, now Sikkar, was the capital of Rajasthan before India's independence."
+},
+{
+"option": "Tonki",
+"value": "Tonki",
+"explanation_en": "Tonki, now Tonki, was the capital of Rajasthan before 1947."
+},
+{
+"option": "Rawas",
+"value": "Rawas",
+"explanation_en": "Rawas, the capital of Rajasthan before 1947."
+},
+{
+"option": "Ranthambh",
+"value": "Ranthambh",
+"explanation_en": "Ranthambh, the capital of Rajasthan before 1947."
+}
+]
+]
