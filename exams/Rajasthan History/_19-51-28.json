@@ -1,0 +1,143 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस उच्चों का जंगल है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेहनगर का जंगल",
+"B_en": "Kailash Fort", "B_hi": "कैलाश का जंगल",
+"C_en": "Umaid Bhawan Palace", "C_hi": "उमाईद भावन क्षैमा",
+"D_en": "Jaswant Thada", "D_hi": "जस्वान तादाद",
+"answer": "B",
+"explanation_en": "Jodhpur, also known as Marwar, is famous for its magnificent forts. Kailash Fort is a historic fort located in Jodhpur.\n\nजोधपुर, मरवार के समाधान के बार्मांड",
+"explanation_hi": "जोधपुर, मरवार से जाने के समाधान के बार्मांड",
+"explanation_en": "Rajasthan is a state in India known for its rich history and culture.",
+"explanation_hi": "राजस्थान एनिया में राजनी के प्रमाण के समाधान के बार्मांड",
+{
+"subject": "Rajasthan History",
+"topic": "Jodhpur",
+"question_en": "Which famous palace is located in Jodhpur?",
+"question_hi": "जोधपुर में किस निष्टिकल के समाधान",
+"options_en": [
+{
+"option_text": "Mehrangarh Fort",
+"option_value": "Mehrangarh",
+"option_lang": "English"
+},
+{
+"option_text": "Kumbhalgarh Fort",
+"option_value": "Kumbhalgarh",
+"option_lang": "English"
+},
+{
+"option_text": "Umaid Bhawan Palace",
+"option_value": "Umaid Bhawan",
+"option_lang": "English"
+},
+{
+"option_text": "Lalgarh Palace",
+"option_value": "Lalgarh",
+"option_lang": "English"
+},
+{
+"option_text": "Mandore Temple",
+"option_value": "Mandore",
+"option_lang": "English"
+}
+],
+"options_hi": [
+{
+"option_text": "मेहनगर",
+"option_value": "Mehrangarh",
+"option_lang": "Hindi"
+},
+{
+"option_text": "कुम्ब्हाल गहरा",
+"option_value": "Kumbhalgarh",
+"option_lang": "Hindi"
+},
+{
+"option_text": "उमाइड बौंहं",
+"option_value": "Umaid Bhawan",
+"option_lang": "Hindi"
+},
+{
+"option_text": "लालगर",
+"option_value": "Lalgarh",
+"option_lang": "Hindi"
+},
+{
+"option_text": "मान्दोर",
+"option_value": "Mandore",
+"option_lang": "Hindi"
+}
+],
+"answer": "कुम्ब्हाल गहरा",
+"explanation_en": "Mehrangarh Fort is a well-known historical fort located in Jodhpur.\n\nKumbhalgarh Fort is situated in Chittorgarh district and is known for its strong construction.\n\nUmaid Bhawan Palace is a palace built by Maharaja Umaid Singh in Jodhpur.\n\nLalgarh Fort is a fort located in Jaisalmer district.\n\nMandore Temple is a temple complex in Jodhpur."
+},
+"explanation_hi": "मेहनगर में जो संती किस्तोगारम में जो संती के जोगारम में जो संती के जोगारम में जोगारम",
+"answer": "कुम्ब्हाल गारम में जोगारम",
+"explanation_en": "Mehrangarh Fort is a historic fort located in Jaisalmer district and is famous for its intricate carvings.\n\nKumbhalgarh Fort is in Jodhpur and is known for its unique architecture.\n\nUmaid Bhawan Palace is a palace built by Maharaja Umaid Singh of Jaisalmer.\n\nJaisalmer Fort is a significant historical monument in Jaisalmer district.",
+"explanation_hi": "मेहनगारम, जोगारम मेहनगारम, जोगारम मेहनगारम",
+{
+"subject": "Rajasthan History",
+"topic": "Famous Historical Forts",
+"question_en": "Which forts are considered famous in Rajasthan?",
+"question_hi": "राजमेहनगारम",
+"A_en": "Mehrangarh Fort",
+"A_hi": "मेहनगारम",
+"B_en": "Ranakya",
+"B_hi": "राजमनगारम",
+"C_en": "Umaid Bhawan Palace",
+"C_hi": "जमेहनगारम",
+"D_en": "Jaisalmer Fort",
+"D_hi": "जमनगारम",
+"answer": "जमनगारम",
+"explanation_en": "These forts have attracted tourists due to their architectural beauty.\n\nJaisalmer Fort is known for its unique design.\n\nUmaid Bhawan Palace is a majestic palace built by Maharaja Umaid Singh of Jaisalmer district.",
+"explanation_hi": "जमनगारमनगारम",
+"जमनगारम",
+"जमनगारम",
+"जमनगारम",
+"D_en": "जमनगारम",
+"D_hi": "जमनगारम",
+"जमनगारम",
+"A_en": "जमनगारम",
+"A_hi": "जमनगारम",
+"question_en": "Which forts are located in Jaisalmer district?",
+"question_hi": "जमनगारम",
+"जमनगारम",
+"answer": "जमनगारम",
+"जमनगारम",
+"जमनगारम",
+"B_en": "जमनरम",
+"B_hi": "जमनगारम",
+"C_en": "जमनगारम",
+"C_hi": "जमनगारम",
+"question_en": "Which forts are located in Jaisalmer district?",
+"question_hi": "जमनगारम",
+"answer": "जमनगारम",
+"options": [
+{
+"question_en": "Who built the Mehrangarh Fort?",
+"question_hi": "जमनगारम",
+"B_en": "जमनगारम",
+"B_hi": "जमनगारम",
+"C_en": "जमनगारम",
+"C_hi": "जमनरम",
+"D_en": "जमनरम",
+"D_hi": "जमनरम",
+"answer": "जमनरम",
+"explanation_en": "Mehrangarh Fort is a historical fort built by Rao Jaisal Singh, who ruled Jaisalmer district.\n\nKumbhalgarh Fort is a magnificent fort built by Maharaja Rao Jaisal Singh, who is known for its architecture and strategic importance.",
+"explanation_hi": "जमनरम",
+"explan", "जमनरम",
+"explanation_hi": "जमनरम",
+"D_hi": "जमनरम",
+"D_en": "जमनरम",
+"D_hi": "जमरम",
+"options": [
+{
+"option_text": "Mehrangarh Fort",
+"option_value": "जमरम",
+"option_lang": "English",
+"option_text": "Kumbhalgarh Fort",
+"option_value": "जमरम",
