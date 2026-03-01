@@ -1,0 +1,30 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Rai Singh?",
+"question_hi": "राजस्थान में राजा राय सिंह ने किया गया किस महमूल को?",
+"A_en": "Amer Fort", "A_hi": "आमेर महल",
+"B_en": "Kumbhalgarh", "B_hi": "कुम्बलगढ़",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाजार",
+"D_en": "Mansagar", "D_hi": "मानसागार",
+"answer": "B",
+"explanation_en": "Amer Fort was built by Raja Man Singh I of Kumbhalgarh.",
+"explanation_hi": "राजा मन्सिंग एक्स के आधार पर कम्बलगढ़ में बना गया पुलींग एस के आधार पर गैरा।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Sarhind Princely State",
+"question_en": "Which Sarhind Princely State was annexed by the British Raj in 1845?",
+"question_hi": "1845 में British Raj ने Sarhind निमोर देश को कैने के आधार पर ????",
+"A_en": "Sarhind-I",
+"A_hi": "सरहिंद-1",
+"B_en": "Sarhind-II",
+"B_hi": "सरहिंद-2",
+"C_en": "Sarhind-III",
+"C_hi": "सरहिंद-3",
+"answer": "B",
+"explanation_en": "Sarhind-II, also known as Sirhind, was annexed by the British Raj in 1845.",
+"explanation_hi": "1845 में British Raj ने Sirhind, उसके आधार पर ????",
+}
+]
