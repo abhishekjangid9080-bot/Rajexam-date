@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Rulers",
+"question_en": "Which Mughal Emperor granted Rajasthan its own statehood?",
+"question_hi": "राजस्थान की अपनी राज्यता से किस मुग्ल सर्वेदारियां में से कौन वहाँ दिया था ?",
+"A_en": "Aurangzeb",
+"A_hi": "अरोंगज़ी",
+"B_en": "Mohammed Shah",
+"B_hi": "मोहेमंद शाह",
+"C_en": "Mughal Emperor Akbar",
+"C_hi": "मुगल सर्वेदारि अकबर",
+"D_en": "Sultan Bahadur Shah Zafar",
+"D_hi": "सूल्तबाहर शाह जाफ़र",
+"answer": "C",
+"explanation_en": "Akbar was the Mughal Emperor who granted Rajasthan its own statehood.",
+"explanation_hi": "अकबर मुगल सर्वेदारि अकबर राजभारत को अपनी राज्यता दी थी।",
+}
+]
