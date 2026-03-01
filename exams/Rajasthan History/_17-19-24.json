@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the author of 'The Royal Chronicles of Rajasthan'?",
+"question_hi": "राजस्थान की राजधानी के लेखक कौन हैंगे।",
+"A_en": "Dr. Madan Mohan",
+"A_hi": "ड्रॉ मादन मोहन",
+"B_en": "Dr. Kailash Singh",
+"B_hi": "ड्रॉ कैलाश सिंग",
+"C_en": "Dr. Vinod Kumar",
+"C_hi": "ड्रॉ विनोद कुमार",
+"D_en": "Dr. Manish Sagar",
+"D_hi": "ड्रॉ मनिष्ट सागर",
+"answer": "B",
+"explanation_en": "Dr. Kailash Singh is the author of 'The Royal Chronicles of Rajasthan'.",
+"explanation_hi": "ड्रॉ कैलाश सिंग राजस्थान के राजनी के लेखक हैं।",
+}
+]
