@@ -1,0 +1,106 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Its Historical Significance",
+"question_en": "Which emperor established the city of Jaipur as the capital of Rajasthan?",
+"question_hi": "जयपुर को राजस्थान की राजधानी बनाने के लिए किस समुद्रतापूर्वीय मुखा को जीत करके निर्माण किया।",
+"A_en": "Ali Muhammad",
+"A_hi": "अली मुहम्या",
+"B_en": "Jai Singh II",
+"B_hi": "जैसिंग II",
+"C_en": "Ashok Vajpayee",
+"C_hi": "अशोक वाजपी",
+"D_en": "Pratap Singh",
+"D_hi": "प्रताप सिंग",
+"answer": "B",
+"explanation_en": "Jai Singh II is the famed Maharaja who established Jaipur, also known as Pink City, after conquering Amer Fort and renaming it.",
+"explanation_hi": "जैसिंग II एक सम्मैलांग एंग II एमपी एन्टियांट एंटर एमपी एन्टर एंटर एमपी एन्टियांट",
+"questions": [
+{
+"question_en": "Which dynasty was responsible for the construction of Hawa Mahal and City Palace in Jaipur?",
+"question_hi": "जैसिंग II एंटर एमपी एन्टियांट",
+"option_en": [
+{
+"option_value": "मकमान सैंग",
+"option_title_en": "Mughal",
+"option_title_hi": "मुग़ान सैंग",
+"option_description_en": "Mughal Dynasty",
+"option_description_hi": "मुग़ान सैंग",
+"option_difficulty": "Moderate"
+},
+{
+"option_value": "Rathore",
+"option_title_en": "Rathore",
+"option_title_hi": "राधोरे",
+"option_description_en": "Rathore Dynasty",
+"option_description_hi": "राधोरे",
+"option_difficulty": "Easy"
+},
+{
+"option_value": "Jat",
+"option_title_en": "Jat",
+"option_title_hi": "जात",
+"option_description_en": "Jat Dynasty",
+"option_description_hi": "जात",
+"option_difficulty": "Easy"
+}
+]
+},
+{
+"question_en": "Which emperor established the city of Jaipur?",
+"question_hi": "जयपुर को कैन की खंड़ेंको बन्ने के इतिहान",
+"option_en": [
+{
+"option_value": "Amber",
+"option_title_en": "Amber",
+"option_title_hi": "अमर",
+"option_description_en": "Amber Fort",
+"option_description_hi": "अमर कोणीको मंड़ेंको बन्ने के इतिहान",
+"option_difficulty": "Easy"
+},
+{
+"option_value": "Jaipur",
+"option_title_en": "Jaipur",
+"option_title_hi": "जयपुर",
+"option_description_en": "Founded by Maharaja Sawai Jai Singh II",
+"option_description_hi": "महारा सावाई जैसिंग II से बन्ने को इतिहान",
+"option_difficulty": "Tricky"
+}
+]
+},
+{
+"question_en": "Which Jain Tirthankar’s temple was built in Jaipur?",
+"question_hi": "जयपुर मेंको इतिहान",
+"option_en": [
+{
+"option_value": "Sanganj",
+"option_title_en": "Sanganj Jain Tirthankar’s Temple",
+"option_title_hi": "सांगंज जयपुर मेंको इतिहान",
+"option_difficulty": "Medium"
+},
+{
+"option_value": "Mewar",
+"option_title_en": "Mewar Jain Tirthankar’s Temple",
+"option_title_hi": "मीवार जयपुर मेंको इतिहान",
+"option_difficulty": "Easy"
+}
+]
+},
+{
+"question_en": "Which Mughal Emperor established Amer Fort?",
+"question_hi": "अमर को इतिहान",
+"option_en": [
+{
+"option_value": "Shah Jahan",
+"option_title_en": "Shah Jahan",
+"option_title_hi": "शाहांज",
+"option_difficulty": "Tricky"
+},
+{
+"option_value": "Akbar",
+"option_title_en": "Akbar",
+"option_title_hi": "अकर",
+"option_difficulty": "Hard"
+}
+]}
+]
