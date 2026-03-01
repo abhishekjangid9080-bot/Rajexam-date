@@ -1,0 +1,170 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for the topic "General English" as per the instructions. The user wants the questions in both Hindi and English, with answers and explanations in both languages. The structure should follow the provided JSON example. Let me start by selecting the topic. Wait, the user didn't specify a particular sub-topic under General English. Hmm, maybe they just want general English questions covering grammar, vocabulary, etc. 
+
+First, I'll decide on the types of questions. Common areas in General English for exams like LDC, CET, RAS, SSC, and Railway include grammar (tenses, prepositions, articles), vocabulary (synonyms, antonyms, one-word substitutions), sentence correction, error detection, and reading comprehension. Let me pick a variety of these.
+
+For each question, I need to translate the question and options into Hindi. I should ensure the translation is accurate and natural. Also, the answers and explanations must be in both languages. Let me start drafting.
+
+Question 1: Synonym for 'Abandon'. English options: A. Keep, B. Leave, C. Build, D. Repair. Hindi translation: A. रखे, B. छोड़े, C. बनाएं, D. मरम्मत करें. Answer is B. Explanation in both languages.
+
+Question 2: Correct sentence structure. For example, "He go to school every day" has an error. Correct it as "He goes to school..." Options: A. He go..., B. He goes..., etc. Hindi translation accordingly.
+
+Question 3: Preposition usage. "She is interested ___ music." Options: A. in, B. at, C. on, D. with.
+
+Question 4: Antonym of 'Cheat'. Options: A. Honest, B. Lazy, C. Brave, D. Quick.
+
+Question 5: One-word substitution. "A person who believes in fate." Options: A. Optimist, B. Fatalist, C. Pessimist, D. Philosopher.
+
+Question 6: Sentence correction. "Neither of the boys are guilty." Correct form: "Neither of the boys is guilty."
+
+Question 7: Choose the correct preposition: "The book is ___ the table." Options: A. in, B. on, C. at, D. under.
+
+Question 8: Identify the part of speech of the underlined word in "She sings a song." Underlined word is "sings." Options: A. Noun, B. Verb, C. Adjective, D. Adverb.
+
+Question 9: Correct spelling. Options like A. Accomodate, B. Accommodate, C. Acommodate, D. Accommadate.
+
+Question 10: Identify the correctly spelled word. Options similar to above.
+
+Now, translating each question into Hindi. Need to ensure that the Hindi translations are accurate and make sense in context. Also, check that the answer options are correctly translated and the explanations are clear in both languages.
+
+Let me check for consistency in answer options. For example, in question 1, the correct answer is B. Leave, so in Hindi it's B. छोड़े. The explanation should clearly state that 'abandon' means to leave something behind.
+
+For each question, ensure that the JSON structure matches the example. Make sure all keys are present: subject, topic, question_en, question_hi, options (A, B, C, D in both languages), answer, explanations in both languages.
+
+Let me verify the JSON syntax. Each question should be an object within an array. Keys should be in quotes, and strings should be properly escaped if necessary. Since the user wants raw JSON without any extra text, I need to ensure that there are no markdown elements or additional explanations.
+
+After creating all 10 questions, I'll review them to check for any errors in grammar, translation, or structure. Also, confirm that the difficulty level is appropriate for the target exams, not too hard or too easy. For example, the questions should test basic understanding but still be challenging enough for exam preparation.
+</think>
+
+[
+  {
+    "subject": "General English",
+    "topic": "Synonyms",
+    "question_en": "What is the synonym of 'Abandon'?",
+    "question_hi": "'अबैन्डन' का समानार्थी क्या है?",
+    "A_en": "Keep", "A_hi": "रखे",
+    "B_en": "Leave", "B_hi": "छोड़े",
+    "C_en": "Build", "C_hi": "बनाएं",
+    "D_en": "Repair", "D_hi": "मरम्मत करें",
+    "answer": "B",
+    "explanation_en": "Leave is the synonym of 'Abandon'.", 
+    "explanation_hi": "'छोड़े' 'अबैन्डन' का समानार्थी है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Grammar",
+    "question_en": "Which sentence is grammatically correct?",
+    "question_hi": "कौन सा वाक्य व्याकरणतः सही है?",
+    "A_en": "He go to school every day", "A_hi": "वह हर दिन स्कूल जाता है",
+    "B_en": "He goes to school every day", "B_hi": "वह हर दिन स्कूल जाता है",
+    "C_en": "He going to school every day", "C_hi": "वह हर दिन स्कूल जा रहा है",
+    "D_en": "He went to school every day", "D_hi": "वह हर दिन स्कूल गया",
+    "answer": "B",
+    "explanation_en": "The correct form of 'go' in third person singular present tense is 'goes'.",
+    "explanation_hi": "तीसरे व्यक्ति के वर्तमान काल में 'go' का सही रूप 'goes' होता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Prepositions",
+    "question_en": "She is interested ___ music.",
+    "question_hi": "वह ___ संगीत में रुचि रखती है।",
+    "A_en": "in", "A_hi": "में",
+    "B_en": "at", "B_hi": "पर",
+    "C_en": "on", "C_hi": "पर",
+    "D_en": "with", "D_hi": "संग",
+    "answer": "A",
+    "explanation_en": "The correct preposition to express interest in something is 'in'.",
+    "explanation_hi": "किसी चीज में रुचि के लिए सही सम्मुख शब्द 'में' होता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Antonyms",
+    "question_en": "What is the antonym of 'Cheat'?",
+    "question_hi": "'चेट' का विलोम शब्द क्या है?",
+    "A_en": "Honest", "A_hi": "ईमानदार",
+    "B_en": "Lazy", "B_hi": "बेईमान",
+    "C_en": "Brave", "C_hi": "हिम्मतवान",
+    "D_en": "Quick", "D_hi": "त्वरित",
+    "answer": "A",
+    "explanation_en": "Honest is the opposite of 'Cheat'.",
+    "explanation_hi": "'ईमानदार' 'चेट' का विलोम शब्द है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "One-Word Substitution",
+    "question_en": "A person who believes in fate.",
+    "question_hi": "एक व्यक्ति जो भाग्य में विश्वास करता है।",
+    "A_en": "Optimist", "A_hi": "अवधारक",
+    "B_en": "Fatalist", "B_hi": "भाग्यवादी",
+    "C_en": "Pessimist", "C_hi": "अपराधी",
+    "D_en": "Philosopher", "D_hi": "दार्शनिक",
+    "answer": "B",
+    "explanation_en": "A fatalist is someone who believes in fate.",
+    "explanation_hi": "एक भाग्यवादी वह होता है जो भाग्य में विश्वास करता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Grammar",
+    "question_en": "Correct the sentence: 'Neither of the boys are guilty.'",
+    "question_hi": "'न तो लड़के दोषी हैं।' वाक्य को सही करें।",
+    "A_en": "Neither of the boys is guilty", "A_hi": "न तो लड़के दोषी हैं",
+    "B_en": "Neither of the boys am guilty", "B_hi": "मैं लड़कों में से कोई दोषी नहीं हूँ",
+    "C_en": "Neither of the boys are guilty", "C_hi": "लड़कों में से कोई दोषी नहीं हैं",
+    "D_en": "Neither of the boys were guilty", "D_hi": "लड़कों में से कोई भी दोषी नहीं थे",
+    "answer": "A",
+    "explanation_en": "The verb should agree with 'Neither', which is singular.",
+    "explanation_hi": "'न तो' के साथ सहमति के लिए क्रिया एकवचन होनी चाहिए।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Prepositions",
+    "question_en": "The book is ___ the table.",
+    "question_hi": "पुस्तक ___ मेज पर है।",
+    "A_en": "in", "A_hi": "में",
+    "B_en": "on", "B_hi": "पर",
+    "C_en": "at", "C_hi": "पर",
+    "D_en": "under", "D_hi": "नीचे",
+    "answer": "B",
+    "explanation_en": "The correct preposition to indicate position on a surface is 'on'.",
+    "explanation_hi": "किसी वस्तु की सतह पर स्थिति दर्शाने के लिए सही सम्मुख शब्द 'पर' होता है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Parts of Speech",
+    "question_en": "Identify the part of speech: 'She sings a song.' (Underlined word: 'sings')",
+    "question_hi": "'वह एक गाना गाती है।' वाक्य में रेखांकित शब्द 'गाती' का व्याकरणिक भाग पहचानें।",
+    "A_en": "Noun", "A_hi": "संज्ञा",
+    "B_en": "Verb", "B_hi": "क्रिया",
+    "C_en": "Adjective", "C_hi": "विशेषण",
+    "D_en": "Adverb", "D_hi": "क्रियाविशेषण",
+    "answer": "B",
+    "explanation_en": "'Sings' is a verb showing the action of singing.",
+    "explanation_hi": "'गाती' एक क्रिया है जो गाने की क्रिया को दर्शाती है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Spelling",
+    "question_en": "Which word is correctly spelled?",
+    "question_hi": "कौन सा शब्द सही वर्तनी में है?",
+    "A_en": "Accomodate", "A_hi": "अकॉमोडेट",
+    "B_en": "Accommodate", "B_hi": "अकॉमोडेट",
+    "C_en": "Acommodate", "C_hi": "अकॉमोडेट",
+    "D_en": "Accommadate", "D_hi": "अकॉमोडेट",
+    "answer": "B",
+    "explanation_en": "The correct spelling is 'Accommodate' with two 'm's and two 'c's.",
+    "explanation_hi": "'अकॉमोडेट' के लिए सही वर्तनी दो 'म' और दो 'स' के साथ होती है।"
+  },
+  {
+    "subject": "General English",
+    "topic": "Spelling",
+    "question_en": "Which of the following is correctly spelled?",
+    "question_hi": "निम्न में से कौन सा वर्तनी सही है?",
+    "A_en": "Necessary", "A_hi": "आवश्यक",
+    "B_en": "Necesary", "B_hi": "आवश्यक",
+    "C_en": "Necessery", "C_hi": "आवश्यक",
+    "D_en": "Nessasary", "D_hi": "आवश्यक",
+    "answer": "A",
+    "explanation_en": "'Necessary' is the correct spelling.",
+    "explanation_hi": "'आवश्यक' की सही वर्तनी है।"
+  }
+]
