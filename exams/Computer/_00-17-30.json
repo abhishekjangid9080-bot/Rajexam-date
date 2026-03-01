@@ -1,0 +1,160 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs in Computer subject for Rajasthan exams, SSC, and Railway. The topics are under Computer, but the user didn't specify which exact topics. Hmm, maybe I should cover fundamental areas like hardware, software, networking, operating systems, etc.
+
+First, I need to make sure each question has both Hindi and English versions. Also, the answer options and explanations must be in both languages. The JSON structure example is given, so I need to follow that strictly. Let me start brainstorming questions. 
+
+Question 1: What is the function of an operating system? That's a basic one. Answers could be managing hardware, running applications, etc. The correct answer is managing hardware and software resources.
+
+Question 2: Which is not a programming language? Maybe HTML is the answer since it's a markup language. So options could include Python, Java, HTML, C++. Answer is HTML.
+
+Question 3: What is the primary memory of a computer? RAM and ROM are main types. So answer is RAM/ROM.
+
+Question 4: What does HTTP stand for? HyperText Transfer Protocol. That's common knowledge.
+
+Question 5: Which is an input device? Keyboard, mouse, etc. Scanner is also input. The answer would be one of these.
+
+Question 6: What is the purpose of an antivirus? To detect and remove malware. That's straightforward.
+
+Question 7: What is cloud computing? It's delivering services over the internet. So the answer is on-demand network access.
+
+Question 8: Which is not a web browser? Google Chrome, Mozilla Firefox, Safari, Microsoft Edge are browsers. Adobe Reader is not, so that's the answer.
+
+Question 9: What is a database? Collection of structured data. The answer would state that.
+
+Question 10: What is the function of a firewall? To monitor and control network traffic based on security rules. That's the correct explanation.
+
+Now, translating each question and option into Hindi. Need to be careful with technical terms. For example, "primary memory" is मुख्य स्मृति. HTTP in Hindi is हाइपरटेक्सट ट्रांसफर प्रोटोकॉल. Also, making sure the explanations are clear in both languages. Double-check the answer keys to avoid mistakes. Let me verify each question again for accuracy.
+</think>
+
+[
+{
+"subject": "Computer",
+"topic": "Basics of Computer",
+"question_en": "Which of the following is not a programming language?",
+"question_hi": "निम्नलिखित में से कौन-सी एक प्रोग्रामिंग भाषा नहीं है?",
+"A_en": "Python", "A_hi": "पायथन",
+"B_en": "HTML", "B_hi": "एचटीएमएल",
+"C_en": "Java", "C_hi": "जावा",
+"D_en": "C++", "D_hi": "सी++",
+"answer": "B",
+"explanation_en": "HTML is a markup language, not a programming language.",
+"explanation_hi": "एचटीएमएल एक मार्कअप भाषा है, प्रोग्रामिंग भाषा नहीं।"
+},
+{
+"subject": "Computer",
+"topic": "Networking",
+"question_en": "What does the acronym HTTP stand for?",
+"question_hi": "एचटीटीपी एक्रोनिम का अर्थ क्या है?",
+"A_en": "Hybrid Text Transfer Protocol", "A_hi": "हाइब्रिड टेक्स्ट ट्रांसफर प्रोटोकॉल",
+"B_en": "Hyper Transfer Text Protocol", "B_hi": "हाइपर ट्रांसफर टेक्स्ट प्रोटोकॉल",
+"C_en": "HyperText Transfer Protocol", "C_hi": "हाइपरटेक्सट ट्रांसफर प्रोटोकॉल",
+"D_en": "High Transfer Text Protocol", "D_hi": "हाई ट्रांसफर टेक्स्ट प्रोटोकॉल",
+"answer": "C",
+"explanation_en": "HTTP stands for HyperText Transfer Protocol, used for transferring data on the web.",
+"explanation_hi": "एचटीटीपी का अर्थ हाइपरटेक्सट ट्रांसफर प्रोटोकॉल से होता है, जिसका उपयोग वेब पर डेटा स्थानांतरित करने के लिए किया जाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Operating Systems",
+"question_en": "What is the primary function of an operating system?",
+"question_hi": "ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?",
+"A_en": "Manage hardware and software resources", "A_hi": "हार्डवेयर और सॉफ्टवेयर संसाधनों का प्रबंधन करना",
+"B_en": "Run applications only", "B_hi": "केवल एप्लिकेशन चलाना",
+"C_en": "Provide internet connectivity", "C_hi": "इंटरनेट कनेक्टिविटी प्रदान करना",
+"D_en": "Store data permanently", "D_hi": "डेटा को स्थायी रूप से संग्रहित करना",
+"answer": "A",
+"explanation_en": "An operating system manages hardware and software resources of a computer.",
+"explanation_hi": "एक ऑपरेटिंग सिस्टम कंप्यूटर के हार्डवेयर और सॉफ्टवेयर संसाधनों का प्रबंधन करता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Hardware",
+"question_en": "Which of the following is a primary memory of a computer?",
+"question_hi": "निम्नलिखित में से कौन-सी कंप्यूटर की मुख्य स्मृति है?",
+"A_en": "Hard Disk", "A_hi": "हार्ड डिस्क",
+"B_en": "RAM", "B_hi": "रैम",
+"C_en": "CD-ROM", "C_hi": "सीडी-रोम",
+"D_en": "Floppy Disk", "D_hi": "फ्लॉपी डिस्क",
+"answer": "B",
+"explanation_en": "RAM (Random Access Memory) is the primary memory of a computer.",
+"explanation_hi": "रैम (रैंडम एक्सेस मेमोरी) कंप्यूटर की मुख्य स्मृति है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Software",
+"question_en": "Which of the following is an example of an input device?",
+"question_hi": "निम्नलिखित में से कौन-सा एक इनपुट डिवाइस का उदाहरण है?",
+"A_en": "Monitor", "A_hi": "मॉनिटर",
+"B_en": "Printer", "B_hi": "प्रिंटर",
+"C_en": "Keyboard", "C_hi": "कीबोर्ड",
+"D_en": "Speaker", "D_hi": "स्पीकर",
+"answer": "C",
+"explanation_en": "A keyboard is an input device used to enter data into a computer.",
+"explanation_hi": "कीबोर्ड एक इनपुट डिवाइस है जिसका उपयोग कंप्यूटर में डेटा दर्ज करने के लिए किया जाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Hardware",
+"question_en": "What is the full form of USB?",
+"question_hi": "यूएसबी का पूरा रूप क्या है?",
+"A_en": "Universal Serial Bus", "A_hi": "यूनिवर्सल सीरियल बस",
+"B_en": "United Serial Bus", "B_hi": "यूनाइटेड सीरियल बस",
+"C_en": "Universal System Bus", "C_hi": "यूनिवर्सल सिस्टम बस",
+"D_en": "Universal Storage Bus", "D_hi": "यूनिवर्सल स्टोरेज बस",
+"answer": "A",
+"explanation_en": "USB stands for Universal Serial Bus, used for connecting devices to a computer.",
+"explanation_hi": "यूएसबी का अर्थ यूनिवर्सल सीरियल बस से होता है, जिसका उपयोग कंप्यूटर से उपकरणों को जोड़ने के लिए किया जाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Security",
+"question_en": "Which of the following is used to protect a computer from viruses?",
+"question_hi": "निम्नलिखित में से किसका उपयोग वायरस से कंप्यूटर की रक्षा के लिए किया जाता है?",
+"A_en": "Firewall", "A_hi": "फायरवॉल",
+"B_en": "Antivirus", "B_hi": "एंटीवायरस",
+"C_en": "Router", "C_hi": "राउटर",
+"D_en": "Modem", "D_hi": "मॉडेम",
+"answer": "B",
+"explanation_en": "Antivirus software is used to detect, prevent, and remove malicious software like viruses.",
+"explanation_hi": "एंटीवायरस सॉफ्टवेयर का उपयोग वायरस जैसे खतरनाक सॉफ्टवेयर के पता लगाने, रोकने और निकालने के लिए किया जाता है।"
+},
+{
+"subject": "Computer",
+"topic": "Networking",
+"question_en": "What is the purpose of a firewall in a computer network?",
+"question_hi": "कंप्यूटर नेटवर्क में फायरवॉल का उद्देश्य क्या है?",
+"A_en": "To connect different networks", "A_hi": "अलग-अलग नेटवर्कों को जोड़ना",
+"B_en": "To monitor internet speed", "B_hi": "इंटरनेट गति की निगरानी करना",
+"C_en": "To block unauthorized access", "C_hi": "अनधिकृत पहुँच को रोकना",
+"D_en": "To increase network bandwidth", "D_hi": "नेटवर्क बैंडविड्थ को बढ़ाना",
+"answer": "C",
+"explanation_en": "A firewall monitors and controls incoming and outgoing network traffic based on security rules.",
+"explanation_hi": "एक फायरवॉल आविष्कृत और निकले हुए नेटवर्क ट्रैफ़िक की निगरानी करता है और सुरक्षा नियमों के आधार पर उसे नियंत्रित करता है।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Software",
+"question_en": "Which of the following is a web browser?",
+"question_hi": "निम्नलिखित में से कौन-सा एक वेब ब्राउज़र है?",
+"A_en": "Google Chrome", "A_hi": "गूगल क्रोम",
+"B_en": "Mozilla Firefox", "B_hi": "मोज़िला फायरफॉक्स",
+"C_en": "Safari", "C_hi": "सफारी",
+"D_en": "All of the above", "D_hi": "ऊपर के सभी",
+"answer": "D",
+"explanation_en": "All listed options are examples of web browsers used to access the internet.",
+"explanation_hi": "सूचीबद्ध सभी विकल्प इंटरनेट तक पहुँचने के लिए उपयोग किए जाने वाले वेब ब्राउज़र के उदाहरण हैं।"
+},
+{
+"subject": "Computer",
+"topic": "Computer Fundamentals",
+"question_en": "What is the full form of CPU?",
+"question_hi": "सीपीयू का पूरा रूप क्या है?",
+"A_en": "Central Processing Unit", "A_hi": "केंद्रीय प्रोसेसिंग यूनिट",
+"B_en": "Central Program Unit", "B_hi": "केंद्रीय प्रोग्राम यूनिट",
+"C_en": "Computer Processing Unit", "C_hi": "कंप्यूटर प्रोसेसिंग यूनिट",
+"D_en": "Control Processing Unit", "D_hi": "कंट्रोल प्रोसेसिंग यूनिट",
+"answer": "A",
+"explanation_en": "CPU stands for Central Processing Unit, the brain of the computer.",
+"explanation_hi": "सीपीयू का अर्थ केंद्रीय प्रोसेसिंग यूनिट से होता है, जो कंप्यूटर का मस्तिष्क होता है।"
+}
+]
