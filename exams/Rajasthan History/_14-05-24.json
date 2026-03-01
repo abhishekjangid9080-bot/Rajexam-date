@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Kumbha?",
+"question_hi": "राजस्थान में राजा कुम्भा ने किस महत्त्वनाथ को निर्माण किया है।",
+"A_en": "Amber Fort", "A_hi": "आम्बे फोट",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्भालगढ़ फोट",
+"D_en": "Samode Fort", "D_hi": "समोद फोट",
+"answer": "C",
+"explanation_en": "Kumbhalgarh Fort, also known as Kumbhalgarh Fort, was built by Rana Kumbha.\nIn the Rajasthani language, it is called कुम्भालगढ़ Fort. In English, it is called Kumbhalgarh Fort.",
+"explanation_hi": "राजा कुम्भालगढ़ फोट, Rana Kumbha ने इस फोट किया है। राजभाषा में इस फोट को कुम्भालगढ़ फोट के नाम के साधारण में एकता है।",
+"answer": "C"
+}
