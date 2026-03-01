@@ -1,0 +1,40 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palaces are located in Jaipur?",
+"question_hi": "जयपुर में केवल एक प्राचीन पल्कितिक स्थानों के बारे मैंने एक प्रश्न किया है।",
+"A_en": "Hawa Mahal, City Palace, and Albert Hall Museum",
+"A_hi": "हैवा महाल, शहर की पहाड़ी और नेशनल हॉल",
+"B_en": "Amer Fort, City Palace, and Albert Hall Museum",
+"B_hi": "एमर फॉट, शहर की पहाड़ी और नेशनल हॉल",
+"C_en": "City Palace, Albert Hall Museum, and Birla Mandir",
+"C_hi": "शहर की पहाड़ी, नेशनल हॉल और भौमिल मंदिर",
+"D_en": "Amer Fort, City Palace, and Jawahar Tower",
+"D_hi": "एमर फॉट, शहर की पहाड़ी और जवाहार टॉर",
+"question_en": "Which important historical monuments are located in Jaipur?",
+"question_hi": "जापुर में क्या महत्ताओं के बिनियाँ हैं?",
+"answer": "D",
+"explain_en": "The correct answer is C. Jaipur is known for its historic landmarks, including Amer Fort, City Palace, and Jawahar Tower. These places attract numerous tourists and are part of the city's rich heritage.",
+"explain_hi": "सहारा में यहां के महत्ताएं हैं: Amer Fort, City Palace, aur Jawahar Tower. यहां लकारों को मज़ादा बने जानकारों को क्या हैं?",
+"options": [
+{
+"option_id": 1,
+"option_en": "Amer Fort, City Palace, and Jawahar Tower",
+"option_hi": "एमर फोट, शहार पैलेस्ट, aur Jawahar Tower",
+"option_difficulty": "Easy"
+},
+{
+"option_id": 2,
+"option_en": "Amer Fort, Jawahar Tower, and Amer Fort",
+"option_hi": "एमर फोट, एमर फोट, aur एमर फोट",
+"option_difficulty": "Medium"
+},
+{
+"option_id": 3,
+"option_en": "Jaipur Palace, Jawahar Tower, and Amer Fort",
+"option_hi": "जापुर पैलेस्ट, जवाहार टॉर, aur एमर फोट",
+"option_difficulty": "Difficult"
+}
+] 
+]
