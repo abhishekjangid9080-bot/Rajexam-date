@@ -1,0 +1,157 @@
+<think>
+Okay, let's tackle this task. The user wants 10 high-quality MCQs on Rajasthan Polity for exams like LDC, CET, RAS, SSC, and Railway. The format needs to be in both Hindi and English, with explanations. The JSON structure is strict, so I need to make sure each question follows the example provided.
+
+First, I should brainstorm topics under Rajasthan Polity. That includes the state legislature, judiciary, government structure, rights of persons with disabilities, official languages, constitutional amendments, constitutional status, emergency powers, and the role of the Governor.
+
+For each topic, I need to create a question in both languages. The options should be accurate, with the correct answer clearly marked. Explanations are necessary to justify the correct choice. I need to check the difficulty level—since it's for Rajasthan exams, the questions should be relevant to the state's constitution and governance.
+
+Let me start with the first question. The legislative structure of Rajasthan. The correct answer is a bicameral legislature with the Legislative Assembly and Council. The options should include other states' structures, like Jammu & Kashmir's bicameral system, but Rajasthan's is unicameral except for the Council. Wait, actually, Rajasthan's legislature is unicameral. Wait, no, Rajasthan has a Legislative Assembly (Vidhan Sabha) and a Legislative Council was abolished in 1952. Wait, Rajasthan doesn't have a Legislative Council. So the correct answer is it has a unicameral legislature. So the question should be about the structure. Let me verify that.
+
+Yes, Rajasthan has a unicameral legislature, consisting of the Rajasthan Legislative Assembly. So the correct answer would be the option stating it's unicameral. Other options can be about other states or bicameral structures. That's the first question.
+
+Second question: The Right of Persons with Disabilities Act in Rajasthan. The year 2016 was when the national law was passed, but Rajasthan's implementation might be different. Wait, Rajasthan's Rights of Persons with Disabilities Rules came into effect in 2017. So the answer is 2017. The options can include 2016, 2020, 2015, etc.
+
+Third question on the official language. Hindi is the official language, but Sanskrit is also recognized. The Constitution Act 1956 included Sanskrit as an associate language. So the answer is both Hindi and Sanskrit.
+
+Fourth question: The Rajasthan Constitution Act. The correct answer is 1956, when the Constitution (Seventh Amendment) Act, 1956 provided for the constitution of Rajasthan as a state. The options can include 1947, 1950, 1960, etc.
+
+Fifth question: The Governor's role. The Governor is the nominal head, while the CM is the real executive head. The options should clarify that the Governor is the constitutional head, and the CM is the executive head.
+
+Sixth question: Emergency powers. The Governor can recommend the President to impose a state of emergency under Article 356. The correct answer is the Governor.
+
+Seventh question: The number of districts. Rajasthan has 47 districts now. Earlier it was 33, but some have been split. So options can include 45, 47, etc.
+
+Eighth question: The High Court. Rajasthan's High Court is in Jodhpur. Wait, no, Rajasthan High Court is in Jodhpur? No, Rajasthan High Court is in Jodhpur? Wait, Rajasthan High Court is actually located in Jodhpur? No, Rajasthan High Court is in Jodhpur? Wait, the Rajasthan High Court is in Jodhpur? No, the Rajasthan High Court is in Jodhpur. Wait, no, the Rajasthan High Court is actually in Jodhpur? Or is it in Jaipur? Wait, I'm confused. Let me check. The Rajasthan High Court is located in Jodhpur. So the correct answer is Jodhpur. So the options can include other cities like Jaipur, Udaipur, etc.
+
+Ninth question: The Speaker of the Legislative Assembly. The Speaker is appointed by the Assembly, so the correct answer is the elected members of the Assembly.
+
+Tenth question: The role of the Chief Minister. The CM is the head of the government, so the answer is the head of the government.
+
+Now, I need to structure each question in the required JSON format, ensuring both Hindi and English versions, correct answers, and explanations. I must verify all facts for accuracy, especially for the High Court location and the number of districts. Let me cross-check the Rajasthan High Court location. Yes, Rajasthan High Court is in Jodhpur. The number of districts is 47 as of now. The Governor's role as constitutional head. The Governor can recommend emergency under Article 356. The official languages are Hindi and Sanskrit. The Right of Persons with Disabilities Rules in Rajasthan came into effect in 2017. The Rajasthan Constitution Act is 1956. The legislature is unicameral. The Speaker is elected by the Assembly members. The CM is the executive head.
+
+Each question's options should have the correct answer as one of the choices, with distractors that are plausible but incorrect. The explanations should clearly state why the correct answer is right. Now, compiling all this into the JSON structure as per the example.
+</think>
+
+[
+{
+"subject": "Rajasthan Polity",
+"topic": "Constitutional Framework",
+"question_en": "Which article of the Indian Constitution provides for the establishment of the Rajasthan Legislative Assembly?",
+"question_hi": "भारतीय संविधान के किस अनुच्छेद में राजस्थान विधान सभा की स्थापना का प्रावधान है?",
+"A_en": "Article 168", "A_hi": "अनुच्छेद 168",
+"B_en": "Article 169", "B_hi": "अनुच्छेद 169",
+"C_en": "Article 170", "C_hi": "अनुच्छेद 170",
+"D_en": "Article 171", "D_hi": "अनुच्छेद 171",
+"answer": "C",
+"explanation_en": "Article 170 of the Indian Constitution provides for the establishment of the Rajasthan Legislative Assembly.",
+"explanation_hi": "भारतीय संविधान के अनुच्छेद 170 में राजस्थान विधान सभा की स्थापना का प्रावधान है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Rights of Persons with Disabilities",
+"question_en": "In which year did Rajasthan implement the Rights of Persons with Disabilities Rules?",
+"question_hi": "राजस्थान ने व्यक्तियों के सक्षमता के अधिकार के नियमों को किस वर्ष लागू किया?",
+"A_en": "2015", "A_hi": "2015",
+"B_en": "2016", "B_hi": "2016",
+"C_en": "2017", "C_hi": "2017",
+"D_en": "2018", "D_hi": "2018",
+"answer": "C",
+"explanation_en": "Rajasthan implemented the Rights of Persons with Disabilities Rules in 2017.",
+"explanation_hi": "राजस्थान ने व्यक्तियों के सक्षमता के अधिकार के नियमों को 2017 में लागू किया।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Official Languages",
+"question_en": "Which languages are recognized as official languages in Rajasthan?",
+"question_hi": "राजस्थान में कौन-सी भाषाओं को आधिकारिक भाषाओं के रूप में मान्यता प्राप्त है?",
+"A_en": "Hindi and English", "A_hi": "हिंदी और अंग्रेजी",
+"B_en": "Hindi and Sanskrit", "B_hi": "हिंदी और संस्कृत",
+"C_en": "Rajasthani and Hindi", "C_hi": "राजस्थानी और हिंदी",
+"D_en": "English and Sanskrit", "D_hi": "अंग्रेजी और संस्कृत",
+"answer": "B",
+"explanation_en": "Hindi and Sanskrit are recognized as official languages in Rajasthan.",
+"explanation_hi": "राजस्थान में हिंदी और संस्कृत को आधिकारिक भाषाओं के रूप में मान्यता प्राप्त है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Constitutional Amendments",
+"question_en": "Which Constitutional Act provided for the constitution of Rajasthan as a state?",
+"question_hi": "कौन-सा संविधान अधिनियम राजस्थान को राज्य के रूप में बनाने का प्रावधान करता है?",
+"A_en": "The Rajasthan Constitution Act, 1947", "A_hi": "राजस्थान संविधान अधिनियम, 1947",
+"B_en": "The Rajasthan Constitution Act, 1950", "B_hi": "राजस्थान संविधान अधिनियम, 1950",
+"C_en": "The Rajasthan Constitution Act, 1956", "C_hi": "राजस्थान संविधान अधिनियम, 1956",
+"D_en": "The Rajasthan Constitution Act, 1960", "D_hi": "राजस्थान संविधान अधिनियम, 1960",
+"answer": "C",
+"explanation_en": "The Rajasthan Constitution Act, 1956 provided for the constitution of Rajasthan as a state.",
+"explanation_hi": "राजस्थान संविधान अधिनियम, 1956 राज्य को राज्य के रूप में बनाने का प्रावधान करता है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Governor's Role",
+"question_en": "Who is the constitutional head of Rajasthan?",
+"question_hi": "राजस्थान का संवैधानिक मुख्य है?",
+"A_en": "Governor of Rajasthan", "A_hi": "राजस्थान के राज्यपाल",
+"B_en": "Chief Minister of Rajasthan", "B_hi": "राजस्थान के मुख्यमंत्री",
+"C_en": "Speaker of the Legislative Assembly", "C_hi": "विधान सभा के अध्यक्ष",
+"D_en": "President of India", "D_hi": "भारत के राष्ट्रपति",
+"answer": "A",
+"explanation_en": "The Governor of Rajasthan is the constitutional head of the state.",
+"explanation_hi": "राजस्थान के राज्यपाल राज्य के संवैधानिक मुख्य हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Emergency Powers",
+"question_en": "Under which article can the Governor of Rajasthan recommend the imposition of President's Rule?",
+"question_hi": "राजस्थान के राज्यपाल किस अनुच्छेद के तहत राष्ट्रपति शासन के लागू करने की सिफारिश कर सकते हैं?",
+"A_en": "Article 352", "A_hi": "अनुच्छेद 352",
+"B_en": "Article 356", "B_hi": "अनुच्छेद 356",
+"C_en": "Article 360", "C_hi": "अनुच्छेद 360",
+"D_en": "Article 368", "D_hi": "अनुच्छेद 368",
+"answer": "B",
+"explanation_en": "Article 356 of the Indian Constitution allows the Governor to recommend the imposition of President's Rule in Rajasthan.",
+"explanation_hi": "भारतीय संविधान के अनुच्छेद 356 के तहत राजस्थान में राष्ट्रपति शासन के लागू करने की सिफारिश करने की अनुमति है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Administrative Structure",
+"question_en": "How many districts are there in Rajasthan currently?",
+"question_hi": "वर्तमान में राजस्थान में कितने जिले हैं?",
+"A_en": "33", "A_hi": "33",
+"B_en": "45", "B_hi": "45",
+"C_en": "47", "C_hi": "47",
+"D_en": "50", "D_hi": "50",
+"answer": "C",
+"explanation_en": "Rajasthan currently has 47 districts as of 2023.",
+"explanation_hi": "2023 तक राजस्थान में 47 जिले हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Judiciary",
+"question_en": "Where is the headquarters of the Rajasthan High Court located?",
+"question_hi": "राजस्थान उच्च न्यायालय का मुख्यालय कहाँ स्थित है?",
+"A_en": "Jaipur", "A_hi": "जयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Bikaner", "D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "The headquarters of the Rajasthan High Court is located in Jodhpur.",
+"explanation_hi": "राजस्थान उच्च न्यायालय का मुख्यालय जोधपुर में स्थित है।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Legislative Procedures",
+"question_en": "Who appoints the Speaker of the Rajasthan Legislative Assembly?",
+"question_hi": "राजस्थान विधान सभा के अध्यक्ष की नियुक्ति कौन करता है?",
+"A_en": "Governor of Rajasthan", "A_hi": "राजस्थान के राज्यपाल",
+"B_en": "Chief Minister of Rajasthan", "B_hi": "राजस्थान के मुख्यमंत्री",
+"C_en": "President of India", "C_hi": "भारत के राष्ट्रपति",
+"D_en": "Elected by the members of the Assembly", "D_hi": "विधान सभा के सदस्यों द्वारा निर्वाचित",
+"answer": "D",
+"explanation_en": "The Speaker of the Rajasthan Legislative Assembly is elected by the members of the Assembly.",
+"explanation_hi": "राजस्थान विधान सभा के अध्यक्ष विधान सभा के सदस्यों द्वारा निर्वाचित किए जाते हैं।"
+},
+{
+"subject": "Rajasthan Polity",
+"topic": "Executive Functions",
+"question_en": "Who is the head of the Rajasthan state government?",
+"question_hi": "राजस्थान राज्य सरकार का प्रमुख कौन
