@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Cities and Capitals",
+"question_en": "Which city was the capital of Rajasthan before Jaipur?",
+"question_hi": "जैसा राजस्थान की राजधानी हुई पहले जैपुर?",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaipur", "C_hi": "जैपुर",
+"D_en": "Ajmer", "D_hi": "अजमेर",
+"answer": "D",
+"explanation_en": "Before Jaipur became the capital of Rajasthan, Ajmer was the capital.",
+"explanation_hi": "राजस्थान की राजधानी हुई जैपुर के बाद, Ajmer राजधानी हुई।"
+}
+]
