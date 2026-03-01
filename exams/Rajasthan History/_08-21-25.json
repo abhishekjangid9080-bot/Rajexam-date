@@ -1,0 +1,76 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic forts are located in Jaipur?",
+"question_hi": "जयपुर में कौन से हिस्ताबी क्षेत्रों को जाननी चाहिए?",
+"A_en": "Amber Fort, Hawa Mahal",
+"A_hi": "आमर किला, हावा महाल",
+"B_en": "Cenotaphs of Jaipur",
+"B_hi": "जयपुर के संरक्षण कालातों",
+"C_en": "Palaces of Jaipur",
+"C_hi": "जयपुर के कलागं",
+"D_en": "Monuments of Rajasthan",
+"D_hi": "राजस्थान के मुद्रातों",
+"answer": "C",
+"explanation_en": "The Cenotaphs of Jaipur (जयपुर के संरक्षकालातों) refer to the monumental structures built in memory of Rajasthani rulers and their ancestors. These are also called chhatris or cenotaphs. While the city has several monuments, the Cenotaphs of Jaipur are a unique feature.",
+"explanation_hi": "जयपुर के कलागं (जयपुर के संरक्षकालातों) में राजस्थान के राजप्रधानों और उनके पुराणों का महल है। विश्वामिति के संतुलातों के विभिज्ञात",
+"answer": "C",
+"explanation_en": "The Cenotaphs of Jaipur, also known as Vishvamitra khela, are unique structures dedicated to the ancestors of the royal families. These are also called antichhatris. Jaipur has several such structures, showcasing the rich history and culture of Rajasthan.",
+"explanation_hi": "जैनोटापौतों, जैनोटापौतों के विश्वामितीयात",
+"question_en": "Which of the following is a significant monument in Jaipur?",
+"question_hi": "जैनोटापौतों के विश्वामितीयात",
+"options": [
+{
+"option_en": "Amer Fort",
+"option_hi": "अमेर के विश्वामितीयात",
+"option_expl": "Amer Fort is a prominent fort located in Jaipur but not a cenotaph.",
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "जैनोटापौतों के विश्वामितीयात",
+"option_expl": "Hawa Mahal is a palace, not a cenotaph.",
+},
+{
+"option_en": "Jal Mahal",
+"option_hi": "जैनोटापौतों के विश्वामितीयात",
+"option_expl": "Jal Mahal is a water palace, not a cenotaph.",
+},
+{
+"option_en": "Saroj Mahal",
+"option_hi": "जैनोटापौतों के विश्वामितीयात",
+"option_expl": "Saroj Mahal is a palace and not a cenotaph.",
+}
+],
+"answer": "C"
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Traditional Games",
+"question_en": "Which traditional game is popular in Rajasthan?",
+"question_hi": "राजस्ट्रिशीय Games",
+"options": [
+{
+"option_en": "Kaml Khela",
+"option_hi": "कमल खेला",
+"option_expl": "Kaml Khela is a traditional game that originated in Rajasthan and is popular among the locals.",
+},
+{
+"option_en": "Ghoomar",
+"option_hi": "घोमार",
+"option_expl": "Ghoomar is another traditional game associated with Rajasthan culture and is played during festivals and special occasions.",
+},
+{
+"option_en": "Thandi Chhap",
+"option_hi": "थंडी चाप",
+"option_expl": "Thandi Chhap is a dance form combined with Thandi Chhap game, which is also popular in Rajasthan.",
+},
+{
+"option_en": "Jaipur Junction",
+"option_hi": "जयपौर जुनेकुनी",
+"option_expl": "Jaipur Junction is a station and not a traditional game or dance form associated with Rajasthan culture.",
+},
+"answer": "D"
+}
+]
+}
