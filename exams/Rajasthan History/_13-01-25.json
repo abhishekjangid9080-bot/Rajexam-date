@@ -1,0 +1,53 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan State Formation and Capital",
+"question_en": "What is the significance of the Rajasthan State Formation and Capital?",
+"question_hi": "राजस्थान राज्य का मतिहाँ और क्या स्थानीय मतिहाँ हैं?",
+"A_en": "Rajasthan State formation revolutionized the political landscape of India.",
+"A_hi": "राजस्थान राज्य का संबंध राजशान के एक सामर्थ्य को समझने का मतिहाँ है।",
+"B_en": "The formation of the Rajasthan State is significant as it led to the establishment of a new kingdom.",
+"B_hi": "राजस्थान राज्य की संबंध को समझने का मतिहाँ है।",
+"C_en": "The Rajasthan State's formation is significant because it established a new cultural identity.",
+"C_hi": "राजस्थान राज्य की संबंध को समझने का मतिहाँ है।",
+"D_en": "The formation of Rajasthan State marks the beginning of a new era in Indian history.",
+"D_hi": "राजस्थान राज्य की संबंध को समझने का मतिहाँ है।",
+"question_en": "What event marked the beginning of the state of Rajasthan?",
+"question_hi": "राजस्थान राज्य की संबंध को समझने का मतिहाँ है।",
+"options": [
+  {
+    "option_id": 1,
+    "option_text_en": "The merger of Rajasthan region with the Indian Union",
+    "option_text_hi": "राजस्थान राज्य का संयुकी संबंध को समझने का मतिहाँ है।",
+    "answer_id": 3,
+    "is_correct": true
+  },
+  {
+    "option_id": 2,
+    "option_text_en": "The establishment of the Mewar Kingdom",
+    "option_text_hi": "मेवार कांक्षता",
+    "answer_id": 1,
+    "is_correct": false
+  },
+  {
+    "option_id": 3,
+    "option_text_en": "The inclusion of Rajasthan in the Indian Union",
+    "option_text_hi": "राजस्थान को भारतीय संघ में जाहिर करने का मतिहाँ है।",
+    "answer_id": 2,
+    "is_correct": true
+  },
+  {
+    "option_id": 4,
+    "option_text_en": "The establishment of the Mewar State",
+    "option_text_hi": "मेवार स्थान की संघीय की शास्तिथान में जाहिर करने का मतिहाँ है।",
+    "answer_id": 4,
+    "is_correct": false
+  },
+  {
+    "option_id": 5,
+    "option_text_en": "The establishment of the Marwar State",
+    "option_text_hi": "मार्वार स्थान की शास्तिथान में जाहिर करने का मतिहाँ है।",
+    "answer_id": 6,
+    "is_correct": false
+  }
+]
