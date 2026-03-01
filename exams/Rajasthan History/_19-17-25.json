@@ -1,0 +1,78 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Rao Jodha in Jaipur?",
+"question_hi": "राजस्थान के लोकल फोट राव जोध (राव जोध) ने जयपुर में कैलेपार की शुरुआत कैलेपार के नाम की गई थी।",
+"options": [
+{
+"option_en": "Amber Fort",
+"option_hi": "आमेर फोट",
+"option_explanation_en": "Amber Fort is a famous fort located in Jaipur and was constructed by Rao Jodha.",
+"option_explanation_hi": "आमेर फोट एक जयपुर में पैलिस्ट को बनाया गया था जो राव जोध (राव जोध) ने बना था।",
+"answer": "Amber Fort"
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "हाउवा महाल",
+"option_explanation_en": "Hawa Mahal is a famous palace in Jaipur and was built by Maharaja Sawai Pratap Singh.",
+"option_explanation_hi": "हाउवा महाल एक जयपुर में फर्स्ट वेल का बना जीते है।",
+"answer": "Hawa Mahal"
+},
+{
+"option_en": "City Palace",
+"option_hi": "मैंट पेल",
+"option_explanation_en": "City Palace is a historical building complex located in Jaipur and was built by Maharaja Man Singh.",
+"option_explanation_hi": "मैंट पेल एक भवन कंटिया को महाराजा मान सिंग ने बना है।",
+"answer": "City Palace"
+},
+{
+"option_en": "Jal Mahal",
+"option_hi": "जल माहाल",
+"option_explanation_en": "Jal Mahal is a palace located in Jaipur and was built by Maharaja Ram Singh.",
+"option_explanation_hi": "जल माहाल एक जयपुर में संग्राज राम सिंग ने बना है।",
+"answer": "Jal Mahal"
+},
+{
+"option_en": "Gaitor",
+"option_hi": "गायटर",
+"option_explanation_en": "Gaitor is a historic structure located in Jaipur and was built by Maharaja Sawai Jai Singh.",
+"option_explanation_hi": "गायटर एक जयपुर में सवाई जैयांग ने बना है।",
+"answer": "Gaitor"
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "हावा माहाल",
+"option_explanation_en": "Hawa Mahal is a famous structure located in Jaipur and was built by Maharaja Sawai Mansingh.",
+"option_explanation_hi": "हावा माहाल एक जयपुर में सवाई मांसिंग ने बना है।",
+"answer": "Hawa Mahal"
+},
+{
+"option_en": "Chand Baoli",
+"option_hi": "चंद बाउली",
+"option_explanation_en": "Chand Baoli is a step well located in Jaipur and was built by Maharaja Jai Singh.",
+"option_explanation_hi": "चंद बाउली एक बेली में सवाई यांग ने बना है।",
+"answer": "Chand Baoli"
+},
+{
+"option_en": "Amber Fort",
+"option_hi": "अमेर फोट",
+"option_explanation_en": "Amber Fort is a historical fort located near Jaipur and was built by Maharaja Ram Singh.",
+"option_explanation_hi": "अमेर फोट एक बेली में सवाई यांग ने बना है।",
+"answer": "Amber Fort"
+},
+{
+"option_en": "Pushkar Lake",
+"option_hi": "पुषकर लैकर",
+"option_explanation_en": "Pushkar Lake is a holy lake located in Rajasthan and was built during the reign of Maharaja Jaisa Singh.",
+"option_explanation_hi": "पुषकर लैकर एलकर मेंर मेंर यालैकर",
+"answer": "Pushkar Lake"
+},
+{
+"option_en": "Ranthambh Fort",
+"option_hi": "रंटंंबंर रंटंमेंंर र",
+"option_explanation_en": "Ranthambh Fort is a historical fort located in Ajmer district and was built during the Mughal dynasty.",
+"option_explanation_hi": "रंटंर रंटंर र र र र र",
+"answer": "Ranthambh Fort"
+}
+]
