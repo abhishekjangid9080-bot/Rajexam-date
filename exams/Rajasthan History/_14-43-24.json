@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical monument is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा निर्माणीय उद्देश्वर है।",
+"A_en": "Hawa Mahal",
+"A_hi": "हवा महाल",
+"B_en": "Amer Fort",
+"B_hi": "अमेर फोट",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II",
+"C_hi": "महाराजा सवाई सावाई मंसूल एसवाई सी एन एस",
+"D_en": "Rajasthan University",
+"D_hi": "राजस्थान विश्विका",
+"answer": "B",
+"explanation_en": "Amer Fort is a historical monument located in Jaipur.",
+"explanation_hi": "अमेर फोट एक हितवर्तीय उद्यान है।",
+}
+]
