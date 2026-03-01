@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous stepwell is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा फ़ोमसाइट क्लास्टिंग है।",
+"A_en": "Rani Sati",
+"A_hi": "रानी साती",
+"B_en": "Mehek",
+"B_hi": "मेहेक",
+"C_en": "Umaid Bhawan",
+"C_hi": "उमाईद बहान",
+"D_en": "Kalpana",
+"D_hi": "कालपाना",
+"answer": "C",
+"explanation_en": "Umaid Bhawan is a famous stepwell located in Jodhpur, built by Maharaja Jai Singh II.",
+"explanation_hi": "महाराजा जय सिंग II ने बनाया गया है।",
+}
+]
