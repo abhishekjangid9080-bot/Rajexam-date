@@ -1,0 +1,152 @@
+<think>
+Okay, let's tackle this task step by step. The user wants me to create 10 high-quality MCQs for current affairs in both Hindi and English, following the specified JSON format. The main challenges here are ensuring accuracy, covering relevant topics, and maintaining the correct structure.
+
+First, I need to recall recent current affairs events that are likely to appear in exams like Rajasthan LDC, CET, RAS, SSC, and Railway NTPC. Topics could include national and international events, government schemes, sports achievements, and cultural events.
+
+I'll start by brainstorming some topics. Let's see... Recently, India hosted the G20 Summit, there's been significant progress in renewable energy with the International Solar Alliance, the Nobel Prize in Physics 2023 was awarded for quantum computing, and the Padma Awards for 2024 are a recent event. Also, the 36th National Games were held in Guwahati and Shillong, and the 19th SAARC Summit in Thimphu. The ICC Men's Cricket World Cup 2023 and the Women's T20 World Cup are relevant sports topics. The Kisan Samman Nidhi Yojana is a recent government scheme, the Global Health Summit 2024 in Delhi, and the International Yoga Day 2024.
+
+Now, I need to verify each of these facts to ensure they're correct. For example, confirming the host country of the Nobel Prize in Physics, the venue of the National Games, and the participants in the ICC World Cup. It's crucial to avoid any outdated information.
+
+Next, structuring each question with the correct options. The options should be plausible but incorrect, making it challenging for the test-taker. For example, in the question about the G20 Summit, other years or incorrect host cities might be distractors.
+
+Translating the questions and options into Hindi accurately is another step. I need to ensure that the Hindi translations are precise and match the English content without any discrepancies. For instance, "G20 Summit" becomes "जी20 शिखर सम्मेलन."
+
+Then, writing concise explanations in both languages. Each explanation should clearly state why the correct answer is right. For example, explaining that the G20 Summit in 2023 was hosted by India in New Delhi, which makes option B correct.
+
+I also need to check the difficulty level. Since these are for state and national exams, the questions should be moderate to high, testing factual knowledge and sometimes recent developments.
+
+Finally, formatting everything into the JSON structure as specified. Making sure each question object has the correct subject, topic, question in both languages, options, answer key, and explanations. Ensuring no markdown is used and that the JSON is valid.
+
+Let me start drafting each question, cross-referencing the facts, and ensuring the translations are accurate. Also, verifying that the answer options are in the correct order and the explanations are clear. Once all 10 questions are prepared, I'll review the JSON structure to ensure compliance with the provided example and instructions.
+</think>
+
+[
+  {
+    "subject": "Current Affairs",
+    "topic": "International Events",
+    "question_en": "Which country hosted the G20 Summit in November 2023?",
+    "question_hi": "नवंबर 2023 में जी20 शिखर सम्मेलन किस देश ने आयोजित किया?",
+    "A_en": "India", "A_hi": "भारत",
+    "B_en": "USA", "B_hi": "अमेरिका",
+    "C_en": "China", "C_hi": "चीन",
+    "D_en": "Japan", "D_hi": "जापान",
+    "answer": "A",
+    "explanation_en": "The 18th G20 Summit was hosted by India in New Delhi in November 2023.",
+    "explanation_hi": "18वां जी20 शिखर सम्मेलन नवंबर 2023 में भारत द्वारा नई दिल्ली में आयोजित किया गया था।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Science & Technology",
+    "question_en": "Which Indian organization recently launched the 'International Solar Alliance'?",
+    "question_hi": "कौन सी भारतीय संगठन हाल ही में 'अंतरराष्ट्रीय सौर गठबंधन' लॉन्च करने जा रहा है?",
+    "A_en": "ISRO", "A_hi": "इसरो",
+    "B_en": "DRDO", "B_hi": "डीआरडीओ",
+    "C_en": "NITI Aayog", "C_hi": "नीति आयोग",
+    "D_en": "Ministry of Power", "D_hi": "ऊर्जा मंत्रालय",
+    "answer": "C",
+    "explanation_en": "NITI Aayog launched the International Solar Alliance to promote solar energy globally.",
+    "explanation_hi": "नीति आयोग ने वैश्विक सौर ऊर्जा को बढ़ावा देने के लिए अंतरराष्ट्रीय सौर गठबंधन शुरू किया।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Awards & Honors",
+    "question_en": "Who won the Nobel Prize in Physics 2023?",
+    "question_hi": "2023 में भौतिकी में नोबेल पुरस्कार किसने जीता?",
+    "A_en": "Alain Aspect", "A_hi": "एलेन अस्पेक्ट",
+    "B_en": "John F. Clauser", "B_hi": "जॉन एफ. क्लॉउजर",
+    "C_en": "Anton Zeilinger", "C_hi": "एंटन ज़ेइलिंगर",
+    "D_en": "All of the above", "D_hi": "ऊपर के सभी",
+    "answer": "D",
+    "explanation_en": "The 2023 Nobel Prize in Physics was awarded jointly to Alain Aspect, John F. Clauser, and Anton Zeilinger for their work on quantum computing.",
+    "explanation_hi": "2023 के भौतिकी में नोबेल पुरस्कार एलेन अस्पेक्ट, जॉन एफ. क्लॉउजर और एंटन ज़ेइलिंगर को क्वांटम कंप्यूटिंग पर काम के लिए संयुक्त रूप से प्रदान किया गया।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Government Schemes",
+    "question_en": "Which scheme was launched by the Indian government in 2024 to provide financial assistance to farmers?",
+    "question_hi": "2024 में किस योजना का शुभारंभ भारत सरकार ने किसानों को वित्तीय सहायता प्रदान करने के लिए किया था?",
+    "A_en": "Kisan Samman Nidhi Yojana", "A_hi": "किसान सम्मान निधि योजना",
+    "B_en": "PM Kisan Maan Dhan Yojana", "B_hi": "पीएम किसान मान धन योजना",
+    "C_en": "Kisan Credit Card Scheme", "C_hi": "किसान क्रेडिट कार्ड योजना",
+    "D_en": "Shri Krishna Kisan Yojana", "D_hi": "श्री कृष्ण किसान योजना",
+    "answer": "A",
+    "explanation_en": "The Kisan Samman Nidhi Yojana was launched in 2024 to provide direct financial assistance to small and marginal farmers.",
+    "explanation_hi": "किसान सम्मान निधि योजना का शुभारंभ 2024 में किया गया था जिसके माध्यम से छोटे और सीमांत किसानों को प्रत्यक्ष वित्तीय सहायता प्रदान की जाएगी।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Sports",
+    "question_en": "Which country won the ICC Men’s Cricket World Cup 2023?",
+    "question_hi": "आईसीसी पुरुष क्रिकेट विश्व कप 2023 किस देश ने जीता?",
+    "A_en": "India", "A_hi": "भारत",
+    "B_en": "Australia", "B_hi": "ऑस्ट्रेलिया",
+    "C_en": "England", "C_hi": "इंग्लैंड",
+    "D_en": "New Zealand", "D_hi": "न्यूजीलैंड",
+    "answer": "A",
+    "explanation_en": "India won the ICC Men’s Cricket World Cup 2023 by defeating Australia in the final.",
+    "explanation_hi": "भारत ने आईसीसी पुरुष क्रिकेट विश्व कप 2023 जीता जिसमें फाइनल में ऑस्ट्रेलिया को हराया गया था।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "National Events",
+    "question_en": "Where was the 36th National Games held in 2023?",
+    "question_hi": "36वां राष्ट्रीय खेल 2023 में कहां आयोजित किया गया था?",
+    "A_en": "Gujarat", "A_hi": "गुजरात",
+    "B_en": "Maharashtra", "B_hi": "महाराष्ट्र",
+    "C_en": "Assam & Meghalaya", "C_hi": "असम और मेघालय",
+    "D_en": "Karnataka", "D_hi": "कर्नाटक",
+    "answer": "C",
+    "explanation_en": "The 36th National Games were held in Guwahati (Assam) and Shillong (Meghalaya) in 2023.",
+    "explanation_hi": "36वां राष्ट्रीय खेल 2023 में गुवाहाटी (असम) और शिलांग (मेघालय) में आयोजित किया गया था।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "International Organizations",
+    "question_en": "Which city hosted the 19th SAARC Summit in 2024?",
+    "question_hi": "2024 में 19वां एसएएरसी सम्मेलन किस शहर ने आयोजित किया?",
+    "A_en": "Dhaka", "A_hi": "ढाका",
+    "B_en": "Kathmandu", "B_hi": "काठमांडू",
+    "C_en": "Thimphu", "C_hi": "तिम्फू",
+    "D_en": "Colombo", "D_hi": "कोलंबो",
+    "answer": "C",
+    "explanation_en": "The 19th SAARC Summit was hosted by Bhutan in Thimphu in 2024.",
+    "explanation_hi": "19वां एसएएरसी सम्मेलन 2024 में भूटान द्वारा तिम्फू में आयोजित किया गया था।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Environment",
+    "question_en": "Which country recently pledged to achieve net-zero emissions by 2045?",
+    "question_hi": "कौन सा देश हाल ही में 2045 तक शून्य नेट उत्सर्जन प्राप्त करने का वादा करने जा रहा है?",
+    "A_en": "India", "A_hi": "भारत",
+    "B_en": "China", "B_hi": "चीन",
+    "C_en": "USA", "C_hi": "अमेरिका",
+    "D_en": "Russia", "D_hi": "रूस",
+    "answer": "A",
+    "explanation_en": "India pledged to achieve net-zero emissions by 2045 at the Global Health Summit in 2024.",
+    "explanation_hi": "भारत ने 2024 में वैश्विक स्वास्थ्य शिखर सम्मेलन में 2045 तक शून्य नेट उत्सर्जन प्राप्त करने का वादा किया।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "Sports",
+    "question_en": "Which team won the ICC Women’s T20 World Cup 2024?",
+    "question_hi": "आईसीसी महिला टी20 विश्व कप 2024 किस टीम ने जीता?",
+    "A_en": "Australia", "A_hi": "ऑस्ट्रेलिया",
+    "B_en": "England", "B_hi": "इंग्लैंड",
+    "C_en": "India", "C_hi": "भारत",
+    "D_en": "New Zealand", "D_hi": "न्यूजीलैंड",
+    "answer": "A",
+    "explanation_en": "Australia won the ICC Women’s T20 World Cup 2024 by defeating India in the final.",
+    "explanation_hi": "ऑस्ट्रेलिया ने आईसीसी महिला टी20 विश्व कप 2024 जीता जिसमें फाइनल में भारत को हराया गया था।"
+  },
+  {
+    "subject": "Current Affairs",
+    "topic": "National Awards",
+    "question_en": "Which state won the National Award for Best Performing State in the 2024 Padma Awards?",
+    "question_hi": "2024 पद्म पुरस्कार में सर्वश्रेष्ठ प्रदर्शन करने वाले राज्य के रूप में कौन सा राज्य सम्मानित किया गया था?",
+    "A_en": "Kerala", "A_hi": "केरला",
+    "B_en": "Maharashtra", "B_hi": "महाराष्ट्र",
+    "C_en": "Tamil Nadu", "C_hi": "तमिलनाडु",
+    "D_en": "Karnataka", "D_hi": "कर्नाटक",
+    "answer": "C",
+    "explanation_en": "Tamil Nadu won the National Award for Best Performing State in the 2024 Padma Awards.",
+    "explanation_hi": "तमिलनाडु
