@@ -1,0 +1,86 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Monuments",
+"question_en": "Which monument is a UNESCO World Heritage Site and is related to the establishment of Jaipur, the capital city of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी और इस पर संबंधित हैंगना पुराणी प्राचीन अर्थव्यवस्था का विभव किस मुख्य प्राचीन रेखा निर्देशित है।",
+"A_en": "Amer Fort",
+"A_hi": "अमेर",
+"B_en": "Hawa Mahal",
+"B_hi": "हावा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Raja Jai Singh",
+"C_hi": "महाराजा सावाई राजा जै सिंग",
+"D_en": "Jal Mahal",
+"D_hi": "जल महाल",
+"answer": "D",
+"explanation_en": "Jal Mahal is a part of the Amer Fort complex and is known for its intricate water-based architecture. It was commissioned by Maharaja Sawai Man Singh II and is situated in Jaipur, the capital city of Rajasthan.",
+"explanation_hi": "जल महाल का विश्लेखा अमेर फोटो की एक कंट्रॉलर का है और यह स्वतंत्रों द्वांचर मैन सोलींग का इन्साइन प्राइंट द्वांचर मैन सोलींग की शांतराईंचर मैन सोलींग की इन्साइन प्राइंट, स्वतंचर मैन सोलींग की शांतराईंचर मैन सोलींग",
+"options": [
+{
+  "option_id": "A",
+  "option_en": "Sansar Chandra Museum",
+  "option_hi": "संसर कांद्र मुमुखेज़ा",
+  "correct_answer": "B"
+},
+{
+  "option_id": "B",
+  "option_en": "Rajasthan State Museum",
+  "option_hi": "राजस्थान स्टेट मुखेज़ा",
+  "correct_answer": "B"
+},
+{
+  "option_id": "C",
+  "option_en": "Amber Fort",
+  "option_hi": "अमर फॉट",
+  "correct_answer": "A"
+},
+{
+  "option_id": "D",
+  "option_en": "Kumbhalgarh Fort",
+  "option_hi": "कुम्भागरह",
+  "correct_answer": "D"
+},
+{
+  "option_id": "E",
+  "option_en": "Mt. Abu",
+  "option_hi": "मैन अबू",
+  "correct_answer": "E"
+}
+]
+] 
+
+Note: राजस्थान स्टेट मुखेजा को उपस्थान नियम स्टेट मुखेजा",
+"question_en": "Which hill station is known for its beautiful temples?",
+"question_hi": "कौसेट मेंट्स को पत्राई",
+"options": [
+{
+  "option_id": "F",
+  "option_en": "Mt. Abu",
+  "option_hi": "मैन अबू",
+  "correct_answer": "E"
+},
+{
+  "option_id": "G",
+  "option_en": "Udaipur",
+  "option_hi": "उदयपुर",
+  "correct_answer": "B"
+},
+{
+  "option_id": "H",
+  "option_en": "Ambaji",
+  "option_hi": "अम्बाजी",
+  "correct_answer": "D"
+},
+{
+  "option_id": "I",
+  "option_en": "Jaisam",
+  "option_hi": "जासाम",
+  "correct_answer": "C"
+},
+{
+  "option_id": "K",
+  "option_en": "Bhilawadi",
+  "option_hi": "भिलावाड़ाड़ी",
+  "correct_answer": "A"
+}
+]
