@@ -1,0 +1,59 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capitals",
+"question_en": "Which of the following cities served as the capital of Rajasthan in the past?",
+"question_hi": "राजस्थान के पूर्वोत्तर में किस शहर का चयन किया गया था?",
+"A_en": "Jaisalmer", "A_hi": "जयसालमर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Pushkar", "C_hi": "पुष्कर",
+"D_en": "Udaipur", "D_hi": "उदायपुर",
+"answer": "B",
+"explanation_en": "Jodhpur served as the capital of Rajasthan in the past. The capital of Rajasthan was moved to Jaipur in 1949.",
+"explanation_hi": "राजस्थान के पूर्वोत्तर में जोधपुर का चयन किया गया था। 1949 में राजस्थान के प्रांत में जोधपुर के बदल किया गया था।",
+"B_en": "Jodhpur served as the capital of Rajasthan in the past.",
+"B_hi": "जोधपुर राजस्थान के पूर्वोत्तर, जोधपुर का चयन किया गया था।",
+"C_en": "Pushkar served as the capital of Rajasthan in the past.",
+"C_hi": "पुष्कर राजस्थान के पूर्वोत्तर, जोधपुर का चयन किया गया था।",
+"D_en": "Jaipur served as the capital of Rajasthan in the past.",
+"D_hi": "राजस्थान के प्रांत, जोधपुर का चयन किया गया था।",
+"E_en": "Udaipur was the capital of Rajasthan in the past.",
+"E_hi": "उद्यापुर राजस्थान के प्रांत, जोधपुर का चयन किया गया था।",
+"F_en": "Airawat was the capital of Rajasthan in the past.",
+"F_hi": "एडेरावत, जोधपुर का चयन किया गया था।",
+"question_en": "Which city served as the capital of Rajasthan before Jaipur?",
+"question_hi": "जोधपुर के प्रांत कौने शीर्षिका था?",
+"options": [
+{
+"option_en": "Airawat",
+"option_hi": "एडेरावत",
+"option_value": "F",
+"option_explain_en": "Before Jaipur became the capital of Rajasthan, Airawat served as its capital.",
+"option_explain_hi": "जोधपुर के प्रांत कौने शीर्षिका था।",
+"option_value_hi": "F"
+},
+{
+"option_en": "Jaisamand",
+"option_hi": "जयसमंद",
+"option_value": "E",
+"option_explain_en": "Airawat was the capital of Rajasthan before Jaipur became the capital. Jaisamand served as its capital before Airawat.",
+"option_explain_hi": "जोधपुर के प्रांत कौने शीर्षिका था।",
+"option_value_hi": "E"
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदायपुर",
+"option_value": "D",
+"option_explain_en": "Airawat was the capital of Rajasthan until Jaipur became the capital. Udaipur was the capital before Airawat.",
+"option_explain_hi": "जोधपुर के प्रांत कौने शीर्षिका था।",
+"option_value_hi": "D"
+},
+{
+"option_en": "Jaisamand",
+"option_hi": "जयसमंद",
+"option_value": "C",
+"option_explain_en": "Jaisamand was the capital of Rajasthan until Jaipur became the capital. Udaipur was the capital before Jaipur.",
+"option_explain_hi": "जयसमंदगयसमंद",
+"option_value_hi": "C"
+}
+]
