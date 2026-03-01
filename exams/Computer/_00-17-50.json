@@ -1,0 +1,198 @@
+<think>
+Okay, let's tackle this. The user wants me to create 10 high-quality MCQs for the Rajasthan State Exams, SSC, and Railway exams. The subject is Computer, and the topic isn't specified, so I need to choose relevant topics from computer basics, software, hardware, networking, maybe some OS concepts, and security. I should ensure the questions are in both Hindi and English, following the Testbook style.
+
+First, I'll list common computer topics that are likely to appear in these exams. Topics like input/output devices, memory units, networking concepts, software types, security terms, etc. For each topic, I need to create a question with four options, where only one is correct. The explanations should be clear and concise in both languages.
+
+Let me start with the first question. Maybe about input devices. For example, which of the following is a pointing device? Options could be Keyboard, Mouse, Printer, Monitor. The answer is Mouse. Translate all options into Hindi. Then the explanation in Hindi and English.
+
+Next, a question on storage units. Like, which is the largest unit? GB, TB, MB, KB. Answer is TB. Then another on operating systems. Which is a single-user OS? Windows, Linux, Mac OS, MS-DOS. Answer is MS-DOS.
+
+Another one on software types: System Software vs Application Software. Maybe which is not an application software? MS Word, Photoshop, Windows, Excel. Answer is Windows.
+
+Then, networking question: What is a router used for? Connecting LANs, Connecting devices in a LAN, Storing data, Scanning documents. Answer is connecting LANs. 
+
+Security question: What is a virus? Malicious software, Antivirus, Hardware, All. Answer is malicious software. 
+
+Database question: Which is a DBMS? MySQL, MS Word, Power Point, Excel. Answer is MySQL.
+
+Internet and web: What is HTTP? Hyper Text Transfer Protocol, Hypertext Transfer Protocol, etc. Answer is Hyper Text Transfer Protocol.
+
+Programming languages: Which is a high-level language? Machine language, Python, Assembly language, C++. Answer is Python.
+
+Computer generations: Which is the latest? Fifth generation, Fourth generation, Third, Second. Answer is fifth.
+
+Wait, need to check if all these topics are covered correctly. Also ensure that the difficulty level is appropriate for the exams mentioned. Avoid very technical terms that might be too advanced. Keep explanations straightforward. Make sure translations are accurate. Each question must have unique options and correct answers. No repetition of the same type of question. Let me review each one to confirm correctness and avoid errors.
+</think>
+
+[
+    {
+        "subject": "Computer",
+        "topic": "Input/Output Devices",
+        "question_en": "Which of the following is a pointing device?",
+        "question_hi": "निम्नलिखित में से कौन सा एक पॉइंटिंग डिवाइस है?",
+        "A_en": "Keyboard",
+        "A_hi": "कीबोर्ड",
+        "B_en": "Mouse",
+        "B_hi": "माउस",
+        "C_en": "Printer",
+        "C_hi": "प्रिंटर",
+        "D_en": "Monitor",
+        "D_hi": "मॉनिटर",
+        "answer": "B",
+        "explanation_en": "Mouse is a pointing device used to navigate on the computer screen.",
+        "explanation_hi": "माउस कंप्यूटर स्क्रीन पर नेविगेट करने के लिए एक पॉइंटिंग डिवाइस है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Storage Units",
+        "question_en": "Which of the following is the largest storage unit?",
+        "question_hi": "निम्नलिखित में से कौन सी सबसे बड़ी संग्रहण इकाई है?",
+        "A_en": "GB",
+        "A_hi": "जीबी",
+        "B_en": "TB",
+        "B_hi": "टीबी",
+        "C_en": "MB",
+        "C_hi": "एमबी",
+        "D_en": "KB",
+        "D_hi": "केबी",
+        "answer": "B",
+        "explanation_en": "TB (Terabyte) is the largest among the given units.",
+        "explanation_hi": "टीबी (टेराबाइट) दिए गए इकाइयों में सबसे बड़ा है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Operating Systems",
+        "question_en": "Which of the following is a single-user operating system?",
+        "question_hi": "निम्नलिखित में से कौन एक एकल-उपयोगकर्ता ऑपरेटिंग सिस्टम है?",
+        "A_en": "Windows",
+        "A_hi": "विंडोज",
+        "B_en": "Linux",
+        "B_hi": "लिनक्स",
+        "C_en": "Mac OS",
+        "C_hi": "मैक ओएस",
+        "D_en": "MS-DOS",
+        "D_hi": "एमएस-डॉस",
+        "answer": "D",
+        "explanation_en": "MS-DOS is a single-user operating system.",
+        "explanation_hi": "एमएस-डॉस एक एकल-उपयोगकर्ता ऑपरेटिंग सिस्टम है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Software",
+        "question_en": "Which of the following is not an application software?",
+        "question_hi": "निम्नलिखित में से कौन एक एप्लिकेशन सॉफ्टवेयर नहीं है?",
+        "A_en": "MS Word",
+        "A_hi": "एमएस वर्ड",
+        "B_en": "Photoshop",
+        "B_hi": "फोटोशॉप",
+        "C_en": "Windows",
+        "C_hi": "विंडोज",
+        "D_en": "Excel",
+        "D_hi": "एक्सेल",
+        "answer": "C",
+        "explanation_en": "Windows is a system software, not an application software.",
+        "explanation_hi": "विंडोज एक सिस्टम सॉफ्टवेयर है, एप्लिकेशन सॉफ्टवेयर नहीं।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Networking",
+        "question_en": "A router is used for:",
+        "question_hi": "एक राउटर का उपयोग किसलिए किया जाता है?",
+        "A_en": "Connecting LANs",
+        "A_hi": "एलएएन कनेक्ट करना",
+        "B_en": "Connecting devices in a LAN",
+        "B_hi": "एलएएन में डिवाइस कनेक्ट करना",
+        "C_en": "Storing data",
+        "C_hi": "डेटा स्टोर करना",
+        "D_en": "Scanning documents",
+        "D_hi": "दस्तावेज स्कैन करना",
+        "answer": "A",
+        "explanation_en": "A router connects multiple LANs or networks.",
+        "explanation_hi": "एक राउटर कई एलएएन या नेटवर्कों को जोड़ता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Security",
+        "question_en": "What is a computer virus?",
+        "question_hi": "कंप्यूटर वायरस क्या है?",
+        "A_en": "Malicious software",
+        "A_hi": "कमाल करने वाला सॉफ्टवेयर",
+        "B_en": "Antivirus",
+        "B_hi": "एंटीवायरस",
+        "C_en": "Hardware",
+        "C_hi": "हार्डवेयर",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "A",
+        "explanation_en": "A virus is a type of malicious software designed to harm or disrupt systems.",
+        "explanation_hi": "एक वायरस प्रणालियों को नुकसान पहुँचाने या बाधित करने के लिए डिज़ाइन किए गए कमालकारी सॉफ्टवेयर का एक प्रकार है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Database",
+        "question_en": "Which of the following is a DBMS?",
+        "question_hi": "निम्नलिखित में से कौन एक डीबीएमएस है?",
+        "A_en": "MySQL",
+        "A_hi": "माइक्रोसॉफ्ट एमएस-एसक्यूएल",
+        "B_en": "MS Word",
+        "B_hi": "एमएस वर्ड",
+        "C_en": "PowerPoint",
+        "C_hi": "पॉवरपॉइंट",
+        "D_en": "Excel",
+        "D_hi": "एक्सेल",
+        "answer": "A",
+        "explanation_en": "MySQL is a relational database management system.",
+        "explanation_hi": "माइक्रोसॉफ्ट एमएस-एसक्यूएल एक संबंधित डेटाबेस प्रबंधन प्रणाली है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Internet",
+        "question_en": "What is HTTP stand for?",
+        "question_hi": "एचटीटीपी का अर्थ क्या है?",
+        "A_en": "Hyper Text Transfer Protocol",
+        "A_hi": "हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "B_en": "Hypertext Transfer Protocol",
+        "B_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "C_en": "Hyperlink Text Transfer Protocol",
+        "C_hi": "हाइपरलिंक टेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "D_en": "None of the above",
+        "D_hi": "उपरोक्त में से कोई नहीं",
+        "answer": "B",
+        "explanation_en": "HTTP stands for Hypertext Transfer Protocol used for transferring web pages.",
+        "explanation_hi": "एचटीटीपी हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल है, जिसका उपयोग वेब पृष्ठों के स्थानांतरण के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Programming",
+        "question_en": "Which of the following is a high-level programming language?",
+        "question_hi": "निम्नलिखित में से कौन एक उच्च स्तरीय प्रोग्रामिंग भाषा है?",
+        "A_en": "Machine language",
+        "A_hi": "मशीन भाषा",
+        "B_en": "Python",
+        "B_hi": "पायथन",
+        "C_en": "Assembly language",
+        "C_hi": "एसेंबली भाषा",
+        "D_en": "C++",
+        "D_hi": "सी++",
+        "answer": "B",
+        "explanation_en": "Python is a high-level language designed for readability and ease of use.",
+        "explanation_hi": "पायथन पठनीयता और उपयोग की आसानी के लिए डिज़ाइन की गई एक उच्च स्तरीय भाषा है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Generations of Computers",
+        "question_en": "Which generation of computers uses artificial intelligence?",
+        "question_hi": "कंप्यूटर की किस पीढ़ी में कृत्रिम बुद्धिमत्ता का उपयोग किया जाता है?",
+        "A_en": "Fifth generation",
+        "A_hi": "पांचवीं पीढ़ी",
+        "B_en": "Fourth generation",
+        "B_hi": "चौथी पीढ़ी",
+        "C_en": "Third generation",
+        "C_hi": "तीसरी पीढ़ी",
+        "D_en": "Second generation",
+        "D_hi": "दूसरी पीढ़ी",
+        "answer": "A",
+        "explanation_en": "Fifth generation computers are based on artificial intelligence.",
+        "explanation_hi": "पांचवीं पीढ़ी के कंप्यूटर कृत्रिम बुद्धिमत्ता पर आधारित होते हैं।"
+    }
+]
