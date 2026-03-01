@@ -1,0 +1,162 @@
+<think>
+Okay, let's tackle this task. The user wants me to create 10 high-quality Mathematics MCQs for Rajasthan State Exams, SSC, and Railway NTPC. The questions and options need to be in both Hindi and English, following the Testbook style. I need to make sure each question is structured in JSON format as per the example provided. 
+
+First, I need to choose appropriate topics in Mathematics that are commonly covered in these exams. Topics like Simple Interest, Profit and Loss, Ratio and Proportion, Time and Distance, and Mensuration are typical. Let's brainstorm some questions under these topics.
+
+Starting with Simple Interest. Let's create a question where a principal amount is invested at a certain rate and time. For example, ₹2000 invested at 5% per annum for 2 years. The formula is SI = PRT/100. Calculating that gives ₹200. The question should ask for the amount after 2 years, which would be principal plus interest, so ₹2200. Then translate the question and options into Hindi.
+
+Next, Profit and Loss. Suppose a shopkeeper buys an item for ₹1200 and sells it for ₹1320. Profit is 120. Percentage is (120/1200)*100 = 10%. The question in English and Hindi needs to reflect this scenario.
+
+Ratio and Proportion: A sum divided between two people in the ratio 3:2. If the total is ₹1000, then the shares are ₹600 and ₹400. The question asks for the difference between their shares, which is ₹200. Translating the ratio into Hindi correctly is important.
+
+Time and Distance: A car traveling at 60 km/h for 5 hours covers 300 km. The question is straightforward here.
+
+Mensuration: Area of a rectangle with length 15 cm and breadth 10 cm is 150 cm². Need to present this in both languages.
+
+Another question could be on work and time. For example, if two people working together can finish a job in 6 days, what's the individual time? Wait, maybe a different approach. If A can do a job in 10 days and B in 15 days, together they can do it in 6 days. Let me verify that: 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. So together they take 6 days. So the question could ask how long they take together.
+
+Percentage: If a student scores 450 out of 600, percentage is (450/600)*100 = 75%.
+
+Number System: Find the LCM of 12 and 18, which is 36. Or HCF of 24 and 36, which is 12.
+
+Algebra: Solving a simple equation like 2x + 5 = 15. Solution is x = 5.
+
+Data Interpretation: Maybe a bar graph question, but since the user didn't specify, perhaps a simpler one like finding the average of numbers.
+
+Wait, the user mentioned Mathematics, so let's ensure the topics cover various areas. Let me list the topics again: Simple Interest, Profit and Loss, Ratio, Time and Distance, Mensuration, Work and Time, Percentage, LCM/HCF, Algebra, and maybe another topic like Number System.
+
+Need to make sure each question is distinct and covers different concepts. Also, check that the difficulty level is appropriate for the exams mentioned. The answers should be accurate, and explanations clear in both languages. Translating the explanations correctly in Hindi is crucial. Let me verify each calculation again to avoid errors. Once all questions are drafted, structure them in JSON as per the example. Ensure the JSON syntax is correct with proper commas and brackets. No extra text, just the raw JSON.
+</think>
+
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Simple Interest",
+    "question_en": "What is the amount after 2 years if ₹2000 is invested at 5% simple interest per annum?",
+    "question_hi": "₹2000 को 5% साधारण ब्याज की वार्षिक दर से 2 वर्षों के लिए निवेश करने पर कुल धन कितना होगा?",
+    "A_en": "₹2200", "A_hi": "₹2200",
+    "B_en": "₹2300", "B_hi": "₹2300",
+    "C_en": "₹2400", "C_hi": "₹2400",
+    "D_en": "₹2500", "D_hi": "₹2500",
+    "answer": "A",
+    "explanation_en": "Simple Interest = (P × R × T)/100 = (2000 × 5 × 2)/100 = ₹200. Amount = Principal + Interest = ₹2000 + ₹200 = ₹2200.",
+    "explanation_hi": "साधारण ब्याज = (मूलधन × दर × समय)/100 = (2000 × 5 × 2)/100 = ₹200। कुल धन = मूलधन + ब्याज = ₹2000 + ₹200 = ₹2200।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_en": "A shopkeeper buys a book for ₹1200 and sells it for ₹1320. What is the profit percentage?",
+    "question_hi": "एक दुकानदार ₹1200 में एक पुस्तक खरीदता है और ₹1320 में बेच देता है। लाभ प्रतिशत क्या है?",
+    "A_en": "10%", "A_hi": "10%",
+    "B_en": "12%", "B_hi": "12%",
+    "C_en": "15%", "C_hi": "15%",
+    "D_en": "20%", "D_hi": "20%",
+    "answer": "A",
+    "explanation_en": "Profit = ₹1320 - ₹1200 = ₹120. Profit% = (120/1200) × 100 = 10%.",
+    "explanation_hi": "लाभ = ₹1320 - ₹1200 = ₹120। लाभ प्रतिशत = (120/1200) × 100 = 10%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_en": "A sum of ₹1000 is divided between A and B in the ratio 3:2. What is the difference between their shares?",
+    "question_hi": "₹1000 की राशि A और B के बीच 3:2 के अनुपात में विभाजित की जाती है। उनके हिस्सों के बीच अंतर कितना है?",
+    "A_en": "₹100", "A_hi": "₹100",
+    "B_en": "₹150", "B_hi": "₹150",
+    "C_en": "₹200", "C_hi": "₹200",
+    "D_en": "₹250", "D_hi": "₹250",
+    "answer": "C",
+    "explanation_en": "A's share = (3/5) × 1000 = ₹600. B's share = (2/5) × 1000 = ₹400. Difference = ₹600 - ₹400 = ₹200.",
+    "explanation_hi": "A का हिस्सा = (3/5) × 1000 = ₹600। B का हिस्सा = (2/5) × 1000 = ₹400। अंतर = ₹600 - ₹400 = ₹200।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Time and Distance",
+    "question_en": "A car travels at a speed of 60 km/h for 5 hours. What distance does it cover?",
+    "question_hi": "एक कार 60 किमी/घंटा की गति से 5 घंटे तक चलती है। यह कितनी दूरी तय करती है?",
+    "A_en": "300 km", "A_hi": "300 किमी",
+    "B_en": "350 km", "B_hi": "350 किमी",
+    "C_en": "400 km", "C_hi": "400 किमी",
+    "D_en": "450 km", "D_hi": "450 किमी",
+    "answer": "A",
+    "explanation_en": "Distance = Speed × Time = 60 × 5 = 300 km.",
+    "explanation_hi": "दूरी = गति × समय = 60 × 5 = 300 किमी।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "question_en": "The length and breadth of a rectangle are 15 cm and 10 cm respectively. What is its area?",
+    "question_hi": "एक आयत की लंबाई और चौड़ाई क्रमशः 15 सेमी और 10 सेमी है। इसका क्षेत्रफल क्या है?",
+    "A_en": "150 cm²", "A_hi": "150 सेमी²",
+    "B_en": "200 cm²", "B_hi": "200 सेमी²",
+    "C_en": "250 cm²", "C_hi": "250 सेमी²",
+    "D_en": "300 cm²", "D_hi": "300 सेमी²",
+    "answer": "A",
+    "explanation_en": "Area = Length × Breadth = 15 × 10 = 150 cm².",
+    "explanation_hi": "क्षेत्रफल = लंबाई × चौड़ाई = 15 × 10 = 150 सेमी²।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Work and Time",
+    "question_en": "A can complete a work in 10 days and B in 15 days. How many days will they take together?",
+    "question_hi": "A एक कार्य 10 दिनों में और B 15 दिनों में पूरा करता है। दोनों मिलकर कितने दिनों में पूरा करेंगे?",
+    "A_en": "5 days", "A_hi": "5 दिन",
+    "B_en": "6 days", "B_hi": "6 दिन",
+    "C_en": "7 days", "C_hi": "7 दिन",
+    "D_en": "8 days", "D_hi": "8 दिन",
+    "answer": "B",
+    "explanation_en": "A's work rate = 1/10 per day, B's work rate = 1/15 per day. Combined rate = 1/10 + 1/15 = 1/6. Time = 1/(1/6) = 6 days.",
+    "explanation_hi": "A की कार्य दर = 1/10 प्रति दिन, B की कार्य दर = 1/15 प्रति दिन। संयुक्त दर = 1/10 + 1/15 = 1/6। समय = 1/(1/6) = 6 दिन।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Percentage",
+    "question_en": "If a student scores 450 marks out of 600, what is the percentage?",
+    "question_hi": "यदि एक छात्र 600 में से 450 अंक प्राप्त करता है, तो प्रतिशत क्या है?",
+    "A_en": "70%", "A_hi": "70%",
+    "B_en": "75%", "B_hi": "75%",
+    "C_en": "80%", "C_hi": "80%",
+    "D_en": "85%", "D_hi": "85%",
+    "answer": "B",
+    "explanation_en": "Percentage = (450/600) × 100 = 75%.",
+    "explanation_hi": "प्रतिशत = (450/600) × 100 = 75%।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "LCM and HCF",
+    "question_en": "Find the LCM of 12 and 18.",
+    "question_hi": "12 और 18 का लघुत्तम समापवर्तक (LCM) ज्ञात कीजिए।",
+    "A_en": "36", "A_hi": "36",
+    "B_en": "72", "B_hi": "72",
+    "C_en": "24", "C_hi": "24",
+    "D_en": "48", "D_hi": "48",
+    "answer": "A",
+    "explanation_en": "LCM of 12 and 18 is the smallest number divisible by both: 36.",
+    "explanation_hi": "12 और 18 का LCM दोनों से विभाजित सबसे छोटी संख्या है: 36।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question_en": "Solve for x: 2x + 5 = 15",
+    "question_hi": "x के लिए हल कीजिए: 2x + 5 = 15",
+    "A_en": "5", "A_hi": "5",
+    "B_en": "6", "B_hi": "6",
+    "C_en": "7", "C_hi": "7",
+    "D_en": "8", "D_hi": "8",
+    "answer": "A",
+    "explanation_en": "2x = 15 - 5 = 10 ⇒ x = 10/2 = 5.",
+    "explanation_hi": "2x = 15 - 5 = 10 ⇒ x = 10/2 = 5।"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Number System",
+    "question_en": "What is the sum of the first 10 natural numbers?",
+    "question_hi": "पहली 10 प्राकृत संख्याओं का योग क्या है?",
+    "A_en": "55", "A_hi": "55",
+    "B_en": "65", "B_hi": "65",
+    "C_en": "75", "C_hi": "75",
+    "D_en": "85", "D_hi": "85",
+    "answer": "A",
+    "explanation_en": "Sum = n(n+1)/2 = 10×11/2 = 55.",
+    "explanation_hi": "योग = n(n+1)/2 = 10×11/2 = 55।"
+  }
+]
