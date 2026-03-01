@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Forts of Rajasthan",
+"question_en": "Which historical forts are considered famous in Rajasthan?",
+"question_hi": "राजस्थान में कौन से जूता वाली महत्त्वानगर के अधिकारी ने यह निर्देश दिया था, कि राजस्थान के लोगों का यह प्रश्न जवाब निकालें।",
+"options": [
+{
+"option_text_en": "Amber Fort",
+"option_text_hi": "आमर कंधर",
+"option_correct": "A"
+},
+{
+"option_text_en": "Meera Saini",
+"option_text_hi": "मीरा साई",
+"option_correct": ""
+},
+{
+"option_text_en": "Chittorgarh Fort",
+"option_text_hi": "चीटरगर कंधर",
+"option_correct": "C"
+},
+{
+"option_text_en": "Hawa Mahal",
+"option_text_hi": "हवा महाल",
+"option_correct": "D"
+},
+{
+"option_text_en": "Udaipur",
+"option_text_hi": "उदाघर",
+"option_correct": ""
+}
+],
+"answer_en": "The correct answer is: C. Chittorgarh Fort is a historical fort situated in Chittorgarh district.",
+"answer_hi": "सचिवादगर कंधर एक इतिहाल एक खरीदार का स्थानेवादगर का एक भूमिक हितवार का स्थान दिएगार",
+"answer_correct": "C"
+}
