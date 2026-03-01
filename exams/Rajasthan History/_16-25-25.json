@@ -1,0 +1,68 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Cities",
+"question_en": "Which historic city was the capital of Rajasthan before Jaipur?",
+"question_hi": "राजस्थान के पश्चिमी संगठन का पढ़ें",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Ajmer", "C_hi": "आजमीर",
+"D_en": "Kota", "D_hi": "कोटा",
+"answer": "A",
+"explanation_en": "Before Jaipur, Jodhpur was the capital of Rajasthan. Jodhpur is a historic city and part of the western Rajasthan region.",
+"explanation_hi": "राजस्थान के पश्चिमी संगठन का पढ़ें, जोधपुर राजस्थान की परिवर्तन और उसे जैसे लिखण करने के लिखने के लिखने के लिखनी बाज़ां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां के लिखने के लिखनी बाजां",
+"question_en": "Which city was the capital of Rajasthan before Ajmer became a part of the state?",
+"question_hi": "अजमी को राजस्थान को किस्तान स्थान के इलायां के लिखने के लिखनी बाजां",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Jaipur",
+"option_key": "A",
+"option_answer": "A"
+},
+{
+"option_id": 2,
+"option_text": "Udaipur",
+"option_key": "B",
+"option_answer": "B"
+},
+{
+"option_id": 3,
+"option_text": "Ajmer",
+"option_key": "C",
+"option_answer": "C"
+},
+{
+"option_id": 4,
+"option_text": "Jaisamunda",
+"option_key": "D",
+"option_answer": "D"
+}
+],
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "जैसामुंदा",
+"option_key": "जैसामुन्दा",
+"option_answer": "D"
+},
+{
+"option_id": 2,
+"option_text": "उदयपुर",
+"option_key": "उदायपुर",
+"option_answer": "B"
+},
+{
+"option_id": 3,
+"option_text": "अजमे",
+"option_key": "अजमे",
+"option_answer": "C"
+},
+{
+"option_id": 4,
+"option_text": "जैसामुंदा",
+"option_key": "जैसामुंदा",
+"option_answer": "D"
+}
+]
+]
