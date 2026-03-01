@@ -1,0 +1,54 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical fort is located in Jaipur?",
+"question_hi": "जयपुर में किस घर्षण क्षेत्र है?",
+"A_en": "Amer Fort", "A_hi": "अमेर घर्षण",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "City Palace", "C_hi": "शहर का प्रधान",
+"D_en": "Galtaji", "D_hi": "गल्ताजि",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a historical monument located in Jaipur, known for its unique architecture. Amer Fort, City Palace, and Galtaji are also significant monuments in Jaipur, but Hawa Mahal is specifically mentioned due to its popularity.",
+"explanation_hi": "जयपुर में हवा महाल आयतन विभिज्ञानी मंदिर है, इसका अपना विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना को विश्लेखना",
+"question_ar": "مدينة تاريخية معروفة هي",
+"options": {
+"A": {
+"option_ar": "أودايبور",
+"option_en": "Udaipur"
+},
+"B": {
+"option_ar": "केरूम",
+"option_en": "Kheru"
+},
+"C": {
+"option_ar": "रामगढ़",
+"option_en": "Ramgarh"
+},
+"D": {
+"option_ar": "अलायता",
+"option_en": "Alaotta"
+},
+"answer": "B",
+"explanation_en": "Udaipur is another city in Rajasthan, while Kheru, Ramgarh, and Alaotta are not historically significant like Jaipur. Jaipur, being the capital of Rajasthan, is a prominent city with rich history.",
+"explanation_ar": "أودايبور एक राजमंड़ है। केरू, रामगढ़ और अलायता के को राजमंड़ के प्रमोट हो। Jaipur, being the capital of Rajasthan, is a prominent city with rich history.",
+}
+},
+}, {
+"subject": "Rajasthan",
+"topic": "Rajasthan Geography",
+"question_en": "Which river is the largest in Rajasthan?",
+"question_hi": "राजस्तान मेंदर क्यान मेंदर को सरता है।",
+"A_en": "Indravati",
+"A_hi": "इन्दर",
+"B_en": "Chambal",
+"B_hi": "चंबाल",
+"C_en": "Bagheri",
+"C_hi": "बागीरी",
+"D_en": "Bansagar",
+"D_hi": "बासागर",
+"answer": "B",
+"explanation_en": "Out of the given options, Chambal is the largest river in Rajasthan.",
+"explanation_hi": "दिन मेंदर म्यान मेंदर मेंदर मेंदर",
+}
+]}
