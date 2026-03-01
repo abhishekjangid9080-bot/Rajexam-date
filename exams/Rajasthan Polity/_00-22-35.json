@@ -1,0 +1,154 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality MCQs on Rajasthan Polity for various exams like LDC, CET, RAS, etc. The instructions specify that each question must be in both Hindi and English, following the Testbook style. The output needs to be in a strict JSON format, so I need to make sure each question object adheres to the structure provided.
+
+First, I'll start by recalling key topics in Rajasthan Polity. Important areas might include the state's constitutional structure, government officials, historical context, and specific acts or policies unique to Rajasthan. Since the difficulty level is set for Rajasthan Polity exams, the questions should be factual but not too obscure, testing the candidates' understanding of the state's governance.
+
+I need to ensure each question has four options (A to D) in both languages. The explanations should be concise but informative. Let me brainstorm some topics: the role of the Governor, the Speaker of the Legislative Assembly, the state's constitutional status, and significant constitutional amendments related to Rajasthan.
+
+For example, a question on the constitutional status: Rajasthan became a state in 1956. That's a key point. Another could be about the current Governor, which might change over time, so I need to confirm the latest information. Also, the number of districts in Rajasthan is a common question. Let me check if it's 77. Yes, as of recent data.
+
+Next, the structure of the state government: the Chief Minister, the role of the Advocate General, and the state's legislative assembly. Another area could be the Rajasthan Panchayat Act, which is important for local governance.
+
+I need to create 10 varied questions covering these areas. Each question must be translated accurately into Hindi. The options should be plausible, with the correct answer clearly indicated. Explanations should reinforce the correct information and clarify any possible confusion.
+
+Let me verify each fact to avoid errors. For instance, the Rajasthan Panchayat Act was enacted in 1994, which established the framework for local self-government. The Advocate General is appointed by the Governor, as per the Constitution. The Rajasthan Legislative Assembly has 200 members, with 199 elected and 1 nominated.
+
+I also need to consider historical aspects, like the formation of Rajasthan as a Union Territory before becoming a state. The first Chief Minister was Shree Jivraj Singh, and the current one is Ashok Gehlot. The role of the Governor versus the President in certain circumstances, like a constitutional crisis, is another potential topic.
+
+Each question must be clear and unambiguous. For example, the question about the constitutional status should directly ask when Rajasthan became a state. The options should include plausible distractors, such as other significant years in Rajasthan's history.
+
+After drafting the questions, I'll format them into the required JSON structure, ensuring that all fields are correctly filled, and the translations are accurate. I'll double-check for any typos or inconsistencies in the options and explanations.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitutional Framework",
+        "question_en": "When did Rajasthan become a state of India?",
+        "question_hi": "राजस्थान कब भारत का राज्य बना?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1948", "B_hi": "1948",
+        "C_en": "1950", "C_hi": "1950",
+        "D_en": "1956", "D_hi": "1956",
+        "answer": "D",
+        "explanation_en": "Rajasthan became a state of India on 15 May 1956 after the States Reorganization Act.",
+        "explanation_hi": "1956 के राज्यों के पुनर्गठन अधिनियम के बाद 15 मई 1956 को राजस्थान भारत का राज्य बना।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Officials",
+        "question_en": "Who is the current Governor of Rajasthan?",
+        "question_hi": "वर्तमान राजस्थान के राज्यपाल कौन हैं?",
+        "A_en": "Kalraj Mishra", "A_hi": "कलराज मिश्रा",
+        "B_en": "Manoj Sinha", "B_hi": "मनोज सिन्हा",
+        "C_en": "Kalyan Singh", "C_hi": "कल्याण सिंह",
+        "D_en": "Ram Nath Kovind", "D_hi": "राम नाथ कोविंद",
+        "answer": "A",
+        "explanation_en": "Kalraj Mishra is the current Governor of Rajasthan as of July 2023.",
+        "explanation_hi": "जुलाई 2023 तक राजस्थान के वर्तमान राज्यपाल कलराज मिश्रा हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Legislative Structure",
+        "question_en": "How many members are there in the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधान सभा में कितने सदस्य होते हैं?",
+        "A_en": "199", "A_hi": "199",
+        "B_en": "200", "B_hi": "200",
+        "C_en": "210", "C_hi": "210",
+        "D_en": "220", "D_hi": "220",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Legislative Assembly has 200 members as of 2023.",
+        "explanation_hi": "2023 तक राजस्थान विधान सभा में 200 सदस्य हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Symbols",
+        "question_en": "Which animal is the state animal of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य पशु कौन सा है?",
+        "A_en": "Camel", "A_hi": "ऊंट",
+        "B_en": "Blue Bull", "B_hi": "नीला बैल",
+        "C_en": "Wild Ass", "C_hi": "खेमुरा",
+        "D_en": "Chinkara", "D_hi": "चींकरा",
+        "answer": "B",
+        "explanation_en": "The Blue Bull (Nilgai) is the state animal of Rajasthan.",
+        "explanation_hi": "राजस्थान का राज्य पशु नीला बैल (निलगई) है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitutional Amendments",
+        "question_en": "Which constitutional amendment provided the constitutional status to Rajasthan?",
+        "question_hi": "राजस्थान को संवैधानिक दर्जा किस संविधान संशोधन द्वारा दिया गया?",
+        "A_en": "7th Amendment", "A_hi": "7वां संशोधन",
+        "B_en": "14th Amendment", "B_hi": "14वां संशोधन",
+        "C_en": "24th Amendment", "C_hi": "24वां संशोधन",
+        "D_en": "35th Amendment", "D_hi": "35वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 7th Constitutional Amendment Act of 1956 provided Rajasthan its constitutional status.",
+        "explanation_hi": "1956 का 7वां संविधान संशोधन अधिनियम राजस्थान को उसका संवैधानिक दर्जा प्रदान करता है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Judiciary",
+        "question_en": "Who appoints the Advocate General of Rajasthan?",
+        "question_hi": "राजस्थान के अधिवकील जनरल की नियुक्ति कौन करता है?",
+        "A_en": "Governor", "A_hi": "राज्यपाल",
+        "B_en": "Chief Justice", "B_hi": "मुख्य न्यायाधीश",
+        "C_en": "President", "C_hi": "राष्ट्रपति",
+        "D_en": "Chief Minister", "D_hi": "मुख्यमंत्री",
+        "answer": "A",
+        "explanation_en": "The Governor of Rajasthan appoints the Advocate General.",
+        "explanation_hi": "राजस्थान के राज्यपाल राजस्थान के अधिवकील जनरल की नियुक्ति करते हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Local Governance",
+        "question_en": "Which act governs the panchayat system in Rajasthan?",
+        "question_hi": "राजस्थान में पंचायत प्रणाली को कौन सा अधिनियम शासित करता है?",
+        "A_en": "Rajasthan Panchayat Act, 1947", "A_hi": "राजस्थान पंचायत अधिनियम, 1947",
+        "B_en": "Rajasthan Panchayat Act, 1994", "B_hi": "राजस्थान पंचायत अधिनियम, 1994",
+        "C_en": "Rajasthan Panchayat Act, 2009", "C_hi": "राजस्थान पंचायत अधिनियम, 2009",
+        "D_en": "Rajasthan Panchayat Act, 2018", "D_hi": "राजस्थान पंचायत अधिनियम, 2018",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Panchayat Act of 1994 is the governing law for local governance in Rajasthan.",
+        "explanation_hi": "1994 का राजस्थान पंचायत अधिनियम राजस्थान में स्थानीय शासन का शासकीय कानून है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Symbols",
+        "question_en": "What is the state bird of Rajasthan?",
+        "question_hi": "राजस्थान का राज्य पक्षी कौन सा है?",
+        "A_en": "Peacock", "A_hi": "मोर",
+        "B_en": "Great Indian Bustard", "B_hi": "ग्रेट इंडियन बस्टर्ड",
+        "C_en": "Parrot", "C_hi": "तोता",
+        "D_en": "Eagle", "D_hi": "गिद्ध",
+        "answer": "B",
+        "explanation_en": "The Great Indian Bustard is the state bird of Rajasthan.",
+        "explanation_hi": "राजस्थान का राज्य पक्षी ग्रेट इंडियन बस्टर्ड है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Administration",
+        "question_en": "Which district is considered the administrative headquarters of Rajasthan?",
+        "question_hi": "राजस्थान का प्रशासनिक मुख्यालय किस जिले को माना जाता है?",
+        "A_en": "Jaipur", "A_hi": "जयपुर",
+        "B_en": "Udaipur", "B_hi": "उदयपुर",
+        "C_en": "Ajmer", "C_hi": "अजमेर",
+        "D_en": "Kota", "D_hi": "कोटा",
+        "answer": "A",
+        "explanation_en": "Jaipur serves as the administrative headquarters of Rajasthan.",
+        "explanation_hi": "जयपुर राजस्थान का प्रशासनिक मुख्यालय है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "State Constitution",
+        "question_en": "How many districts does Rajasthan currently have?",
+        "question_hi": "राजस्थान में वर्तमान में कितने जिले हैं?",
+        "A_en": "77", "A_hi": "77",
+        "B_en": "78", "B_hi": "78",
+        "C_en": "79", "C_hi": "79",
+        "D_en": "80", "D_hi": "80",
+        "answer": "A",
+        "explanation_en": "Rajasthan currently has 77 districts as of 2023.",
+        "explanation_hi": "2023 तक राजस्थान में 77 जिले हैं।"
+    }
+]
