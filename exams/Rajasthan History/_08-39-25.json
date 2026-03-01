@@ -1,0 +1,59 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which among the following is NOT a capital of a Rajasthani state?",
+"question_hi": "शामिलें निम्नलिंग में एक राजस्थानी राज्य का कामयाबी नहीं है।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Ajmer", "B_hi": "अजमेर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Durgapura", "D_hi": "दुर्गपुर",
+"answer": "D",
+"explanation_en": "Durgapura is not a capital of any Rajasthani state.\nJodhpur (Ajmer in Hindi), Udaipur (Udaipur in Hindi), and Ajmer (Ajmer in Hindi) are capitals of Ranthambore, Udaipur, and Ajmer districts respectively. However, Durgapura is not a capital and is mentioned as a separate option to make the question more challenging.",
+"explanation_hi": "दुर्गपुर राजस्थानी राज्य की कामयाबी नहीं।\nरंतभंगोला (अजमीपुर in Hindi) रंतभंगोला (Ranthambore in Hindi) और उदायपुर समुद्र (Udaipur in Hindi) के कामयाबी हों। लेकिन दुर्गोला राजस्थान (Ranthambore in Hindi) और उदायपुर समुद्र (Udaipur in Hindi) की कामयाबी हों, लेकिन दुर्गोला राजस्थान (Ranthambore in Hindi) और उदायपुर समुद्र (Udaipur in Hindi) के हैं।",
+"question_en": "Which districts are not the capitals of Ranthambore and Udaipur regions?",
+"question_hi": "रान्तमेन राजस्थान और उदायपुर कौदागोला के विभागों हैं।",
+"options": [
+{
+"option_en": "रान्तमेन राजस्थान",
+"option_hi": "रान्तमेन राजस्थान",
+"answer": "रान्तमेन राजस्थान",
+"explanation_en": "Ranthambore and Udaipur are the districts under the Ranthambore and Udaipur regions respectively.\nरान्तमेन राजस्थान और उदायपुर कौदागों हैं।",
+"explanation_hi": "Ranthambore aur Udaipur kaunsa district hai, jo Ranthambore aur Udaipur region mein hai.\nरान्तमेन राजस्थान और उदायपुर कौदागों हैं।",
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदायपुर",
+"answer": "उदायपुर",
+"explanation_en": "Udaipur is a district under the Udaipur region.\nउदायपुर कौदागों हैं।",
+"explanation_hi": "उदायपुर कौदागों हैं।",
+},
+{
+"option_en": "Jaipur",
+"option_hi": "जैंपुर",
+"answer": "जैंपुर",
+"explanation_en": "Jaipur is the capital of Rajasthan.\nजैंपुर",
+"explanation_hi": "जैंपुर (Jaipur) हैं।",
+},
+{
+"option_en": "Rajasthan",
+"option_hi": "राजस्ताँ",
+"answer": "राजस्ताँ",
+"explanation_en": "Rajasthan is a state in India, not a district or capital.\nराजस्ताँ",
+"explanation_hi": "राजस्ताँ (राजस्ताँ)",
+},
+{
+"option_en": "Ajmer",
+"option_hi": "अमर",
+"answer": "अमर",
+"explanation_en": "Ajmer is a town in Rajasthan, not a capital.\nअमर",
+"explanation_hi": "अमर (Ajmer)",
+},
+{
+"option_en": "Rajasthan",
+"option_hi": "राजस्ताँ",
+"answer": "राजस्ताँ",
+"explanation_en": "Rajasthan is a state in India, not a district or town.\nराजसताँ",
+"explanation_hi": "राजस्ताँ (Rajasthan)",
+}]
+}
