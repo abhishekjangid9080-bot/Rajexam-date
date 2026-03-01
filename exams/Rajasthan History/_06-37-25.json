@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic fort is located in Jaisalmer?",
+"question_hi": "जयसालमेर में कौन सा भूमिका है?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका स्थानीय भूमिका",
+"B_en": "Mehrangarh Fort", "B_hi": "मेहनगरवाल भूमिका",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कंभालगढ़ भूमिका",
+"D_en": "Jaisalmer Fort", "D_hi": "जयसालमेर भूमिका",
+"answer": "D",
+"explanation_en": "Jaisalmer Fort is a historic fort located in Jaisalmer, Rajasthan. It is also known as Sun City due to its location near the Son Kshetra (Son Desert).",
+"explanation_hi": "जयसालमेर भूमिका राजस्थान में जैसालमेर की भूमिका है। उसका नाम सोन सचिवाल (सोन डेज) के से स्पष्ट है।",
+"answer": "D"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Meera Temple",
+"question_en": "Meera Temple is famous for which saint?",
+"question_hi": "मीरा मेल्ट किस्तान में क्या मंद विचार्जन हैंसन?",
+"A_en": "Laxmidevi",
+"A_hi": "लाक्समात्री विचार्जन हैंसन",
+"B_en": "Meera",
+"B_hi": "मीरा",
+"C_en": "Gulab Das",
+"C_hi": "गुलाब डास",
+"D_en": "Tarun Shukla",
+"D_hi": "तारुं स्टाला",
+"answer": "B",
+"explanation_en": "Meera is a prominent saint associated with the temple of Meera Temple, located in Udaipur, Rajasthan. She is popularly revered for her devotion towards Lord Krishna.",
+"explanation_hi": "मीरा विचार्जन हैं स्टाला स्ट्रोन स्टाइंग",
+"explanation": "मीरा विचार्जन हिस्टाइंग स्टोन स्ट्रोन स्टोंग",
+"answer": "B",
+"explanation_en": "Meera Bhen (मीरा भें स्टोंग)",
+"explanation_hi": "मीरा भें स्टोंग",
+}
+]
