@@ -1,0 +1,156 @@
+<think>
+Okay, let's tackle this query. The user wants me to create 10 high-quality MCQs on Rajasthan Polity for various exams like LDC, CET, RAS, SSC, and Railway. The instructions specify that each question must have Hindi and English options in a Testbook style, using a strict JSON format. The difficulty level should align with Rajasthan Polity standards.
+
+First, I need to recall key topics in Rajasthan Polity. This includes things like the state's constitution, legislative structure, important acts, historical aspects, and maybe some constitutional amendments specific to Rajasthan. Topics could range from the formation of Rajasthan to the roles of different government bodies like the Vidhan Sabha and Vidhan Parishad.
+
+Next, I should structure each question with a clear question stem in both languages, four options (A to D) in both languages, the correct answer, and explanations in both languages. I need to ensure that the options are plausible to challenge the examinee. For example, a question about the formation year of Rajasthan might have options like 1947, 1949, 1950, 1956. The correct answer here is 1956, so the options should include the actual year and other plausible years when significant events happened.
+
+Another question might be about the number of districts in Rajasthan. I remember that recently there was a reorganization, so the current number is 49. The options should include numbers that might have been correct in the past or are close to the current number.
+
+For the legislative structure, a question about the maximum strength of the Rajya Sabha could be relevant. Rajasthan's Rajya Sabha has 8 members, so the options should include 6, 8, 10, and 12. The correct answer is 8.
+
+I also need to consider the role of the Governor and Chief Minister. For example, the Governor of Rajasthan is a ceremonial head, appointed by the President. The Chief Minister is the head of government. A question here might ask who appoints the Governor, with the answer being the President.
+
+Another area is the constitutional aspects, like the 73rd Amendment Act, which deals with Panchayati Raj. Rajasthan implemented this, so a question here would be appropriate. The options might include different amendment numbers, with 73rd being correct.
+
+I should also think about historical events, like the formation of Rajasthan State. The key dates here are 1947 (Independence), 1950 (Constitution, Republic Day), and 1956 (Reorganization Act). So a question on when Rajasthan became a state would require distinguishing between these dates.
+
+For each question, I need to make sure the explanations are concise and accurately justify the correct answer. Also, the Hindi translations should be accurate to avoid confusion. I'll need to cross-verify facts to ensure correctness, maybe checking the latest number of districts or the current members in the Rajya Sabha.
+
+Potential pitfalls include mixing up the years of formation or the number of districts. I should double-check these facts. Also, ensuring that the options are not too similar and that the correct answer is unambiguous. For example, in the question about the Chief Minister's appointment, the correct answer is the Governor, so the options should not include other roles like the President or Lok Sabha.
+
+Once all questions are drafted, I'll structure them into the required JSON format, making sure each field is correctly filled, and the explanations are in both languages. Finally, I'll review the JSON to ensure there are no syntax errors and that all 10 questions meet the user's specifications.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Formation and Structure",
+        "question_en": "In which year was the Rajasthan Legislative Assembly formed?",
+        "question_hi": "राजस्थान विधान सभा किस वर्ष गठित की गई थी?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1949", "B_hi": "1949",
+        "C_en": "1950", "C_hi": "1950",
+        "D_en": "1956", "D_hi": "1956",
+        "answer": "D",
+        "explanation_en": "The Rajasthan Legislative Assembly was formed on 1 January 1956 after the States Reorganisation Act.",
+        "explanation_hi": "राजस्थान विधान सभा राज्यों के पुनर्गठन कानून के बाद 1 जनवरी 1956 को गठित की गई थी।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Legislative Bodies",
+        "question_en": "How many members are there in the Rajasthan Legislative Council?",
+        "question_hi": "राजस्थान विधान परिषद में कितने सदस्य हैं?",
+        "A_en": "50", "A_hi": "50",
+        "B_en": "60", "B_hi": "60",
+        "C_en": "70", "C_hi": "70",
+        "D_en": "80", "D_hi": "80",
+        "answer": "C",
+        "explanation_en": "The Rajasthan Legislative Council has a maximum strength of 70 members.",
+        "explanation_hi": "राजस्थान विधान परिषद में सदस्यों की अधिकतम संख्या 70 है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitutional Amendments",
+        "question_en": "Which constitutional amendment introduced the Panchayat system in Rajasthan?",
+        "question_hi": "राजस्थान में पंचायती राज प्रणाली को कौन सा संविधान संशोधन पेश किया?",
+        "A_en": "73rd Amendment", "A_hi": "73वां संशोधन",
+        "B_en": "74th Amendment", "B_hi": "74वां संशोधन",
+        "C_en": "75th Amendment", "C_hi": "75वां संशोधन",
+        "D_en": "76th Amendment", "D_hi": "76वां संशोधन",
+        "answer": "A",
+        "explanation_en": "The 73rd Constitutional Amendment Act, 1992 introduced the Panchayat system in Rajasthan.",
+        "explanation_hi": "73वें संविधान संशोधन अधिनियम, 1992 ने राजस्थान में पंचायती राज प्रणाली पेश की।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Governance",
+        "question_en": "Who appoints the Governor of Rajasthan?",
+        "question_hi": "राजस्थान के राज्यपाल को कौन नियुक्त करता है?",
+        "A_en": "President of India", "A_hi": "भारत के राष्ट्रपति",
+        "B_en": "Prime Minister of India", "B_hi": "भारत के प्रधान मंत्री",
+        "C_en": "Chief Minister of Rajasthan", "C_hi": "राजस्थान के मुख्यमंत्री",
+        "D_en": "Chief Justice of Rajasthan High Court", "D_hi": "राजस्थान उच्च न्यायालय के मुख्य न्यायाधीश",
+        "answer": "A",
+        "explanation_en": "The Governor of Rajasthan is appointed by the President of India.",
+        "explanation_hi": "राजस्थान के राज्यपाल की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Historical Events",
+        "question_en": "Which year is known as the 'Year of Reorganisation' in Rajasthan's history?",
+        "question_hi": "राजस्थान के इतिहास में किस वर्ष को 'पुनर्गठन का वर्ष' के रूप में जाना जाता है?",
+        "A_en": "1947", "A_hi": "1947",
+        "B_en": "1950", "B_hi": "1950",
+        "C_en": "1956", "C_hi": "1956",
+        "D_en": "1960", "D_hi": "1960",
+        "answer": "C",
+        "explanation_en": "1956 is known as the 'Year of Reorganisation' due to the States Reorganisation Act.",
+        "explanation_hi": "1956 को राज्यों के पुनर्गठन कानून के कारण 'पुनर्गठन का वर्ष' के रूप में जाना जाता है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Administrative Structure",
+        "question_en": "How many districts are there in Rajasthan as of 2023?",
+        "question_hi": "2023 में राजस्थान में कितने जिले हैं?",
+        "A_en": "49", "A_hi": "49",
+        "B_en": "50", "B_hi": "50",
+        "C_en": "55", "C_hi": "55",
+        "D_en": "60", "D_hi": "60",
+        "answer": "A",
+        "explanation_en": "Rajasthan has 49 districts as of 2023 after the recent reorganization.",
+        "explanation_hi": "नवीनतम पुनर्गठन के बाद 2023 में राजस्थान में 49 जिले हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Election Systems",
+        "question_en": "What is the maximum strength of the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधान सभा में सदस्यों की अधिकतम संख्या क्या है?",
+        "A_en": "190", "A_hi": "190",
+        "B_en": "200", "B_hi": "200",
+        "C_en": "210", "C_hi": "210",
+        "D_en": "220", "D_hi": "220",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Legislative Assembly has a maximum strength of 200 members.",
+        "explanation_hi": "राजस्थान विधान सभा में सदस्यों की अधिकतम संख्या 200 है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitutional Bodies",
+        "question_en": "Which body is responsible for the election of members to the Rajasthan Legislative Council?",
+        "question_hi": "राजस्थान विधान परिषद के सदस्यों के चुनाव के लिए कौन सा निकाय जिम्मेदार है?",
+        "A_en": "Rajasthan Legislative Assembly", "A_hi": "राजस्थान विधान सभा",
+        "B_en": "Rajasthan Legislative Council", "B_hi": "राजस्थान विधान परिषद",
+        "C_en": "President of India", "C_hi": "भारत के राष्ट्रपति",
+        "D_en": "Governor of Rajasthan", "D_hi": "राजस्थान के राज्यपाल",
+        "answer": "A",
+        "explanation_en": "Members of the Rajasthan Legislative Council are elected by the Rajasthan Legislative Assembly.",
+        "explanation_hi": "राजस्थान विधान परिषद के सदस्य राजस्थान विधान सभा द्वारा चुने जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Governance",
+        "question_en": "Who is the head of the state government in Rajasthan?",
+        "question_hi": "राजस्थान में राज्य सरकार का प्रमुख कौन है?",
+        "A_en": "Governor", "A_hi": "राज्यपाल",
+        "B_en": "Chief Minister", "B_hi": "मुख्यमंत्री",
+        "C_en": "Speaker of Legislative Assembly", "C_hi": "विधान सभा के अध्यक्ष",
+        "D_en": "Deputy Chief Minister", "D_hi": "उप मुख्यमंत्री",
+        "answer": "B",
+        "explanation_en": "The Chief Minister is the head of the state government in Rajasthan.",
+        "explanation_hi": "राजस्थान में मुख्यमंत्री राज्य सरकार के मुखिया होते हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Historical Context",
+        "question_en": "Which ruler is known as the 'Father of Modern Rajasthan'?",
+        "question_hi": "किस शासक को 'आधुनिक राजस्थान के जनक' के रूप में जाना जाता है?",
+        "A_en": "Maharana Pratap", "A_hi": "महाराणा प्रताप",
+        "B_en": "Sawai Jai Singh", "B_hi": "सवाई जय सिंह",
+        "C_en": "Raja Man Singh", "C_hi": "राजा मन सिंह",
+        "D_en": "Prithviraj Chauhan", "D_hi": "पृथ्वीराज चौहान",
+        "answer": "B",
+        "explanation_en": "Sawai Jai Singh is known as the 'Father of Modern Rajasthan' for his administrative reforms.",
+        "explanation_hi": "सवाई जय सिंह अपने प्रशासनिक सुधारों के लिए 'आधुनिक राजस्थान के जनक' के रूप में जाने जाते हैं।"
+    }
+]
