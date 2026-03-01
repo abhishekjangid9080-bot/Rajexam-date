@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which dynasty established Udaipur as the capital of Mewar?",
+"question_hi": "उदयपुर मेवर की राजधानी को किस स्थानीय संघ ने स्थापित किया था?",
+"A_en": "Chauhans",
+"A_hi": "चौहाने",
+"B_en": "Mewar",
+"B_hi": "मेवार",
+"C_en": "Rana Kumbha",
+"C_hi": "राणा कुम्भव",
+"D_en": "Fatabays",
+"D_hi": "फतबाय",
+"answer": "B",
+"explanation_en": "Udaipur was established as the capital city of Mewar by the Chauhans dynasty.",
+"explanation_hi": "उदयपुर मेवार के संघ ने उदयपुर में राजधानी किए गए थे।",
+"explanation_hi": "उदयपुर में राजधानी करने वाले अर्थ क्या था?",
+}
+]
