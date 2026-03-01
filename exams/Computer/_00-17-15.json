@@ -1,0 +1,158 @@
+<think>
+Okay, I need to create 10 high-quality MCQ questions for the Computer subject, targeting Rajasthan State Exams, SSC, and Railway exams. The topics aren't specified, so I should cover common and important areas in computer science. Let me think about the key areas: hardware, software, networking, operating systems, programming basics, databases, internet, security, etc.
+
+First question: Maybe about hardware. What is the primary function of a CPU? Options could be processing data, storing data, etc.
+
+Second: Memory types. Difference between RAM and ROM. RAM is volatile, ROM is non-volatile.
+
+Third: Networking. What is the purpose of a router? Connecting networks, directing traffic.
+
+Fourth: Operating systems. Which is a multitasking OS? Windows, Linux, macOS.
+
+Fifth: Software. Which is application software? MS Office, Photoshop, etc.
+
+Sixth: Programming languages. Which is a compiled language? C, Java, Python? Wait, Java is compiled to bytecode, but Python is interpreted.
+
+Seventh: Database. What is SQL used for? Managing relational databases.
+
+Eighth: Internet. What does HTTP stand for? HyperText Transfer Protocol.
+
+Ninth: Security. Antivirus software is used to protect against? Viruses, malware.
+
+Tenth: File systems. Which is a file system used in Windows? FAT32, NTFS, etc.
+
+Wait, need to ensure all questions are in both Hindi and English. Also, explanations are necessary. Check for clarity and avoid technical jargon that might be confusing for exam level. Make sure the answer options are distinct and the correct answer is clearly correct. Let me list them out step by step.
+</think>
+
+[
+    {
+        "subject": "Computer",
+        "topic": "Basic Computer Hardware",
+        "question_en": "Which component of a computer is responsible for processing data?",
+        "question_hi": "कंप्यूटर का कौन सा घटक डेटा को प्रोसेस करने के लिए उत्तरदायी है?",
+        "A_en": "CPU", "A_hi": "सीपीयू",
+        "B_en": "RAM", "B_hi": "रैम",
+        "C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+        "D_en": "Motherboard", "D_hi": "मदरबोर्ड",
+        "answer": "A",
+        "explanation_en": "The CPU (Central Processing Unit) is the primary component that processes data in a computer.",
+        "explanation_hi": "सीपीयू (केंद्रीय प्रसेसिंग यूनिट) कंप्यूटर में डेटा को प्रोसेस करने का मुख्य घटक है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Memory and Storage",
+        "question_en": "Which of the following is a volatile memory?",
+        "question_hi": "निम्नलिखित में से कौन एक अस्थायी स्मृति है?",
+        "A_en": "ROM", "A_hi": "रोम",
+        "B_en": "RAM", "B_hi": "रैम",
+        "C_en": "Hard Disk", "C_hi": "हार्ड डिस्क",
+        "D_en": "SSD", "D_hi": "एसएसडी",
+        "answer": "B",
+        "explanation_en": "RAM (Random Access Memory) is volatile, meaning it loses data when power is turned off.",
+        "explanation_hi": "रैम (रैंडम एक्सेस मेमोरी) अस्थायी होती है, अर्थात जब बिजली बंद हो जाती है तो डेटा खो जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Networking",
+        "question_en": "What is the primary function of a router in a network?",
+        "question_hi": "नेटवर्क में रूटर का मुख्य कार्य क्या है?",
+        "A_en": "To connect devices within a network", "A_hi": "एक नेटवर्क में डिवाइसों को जोड़ना",
+        "B_en": "To connect multiple networks", "B_hi": "कई नेटवर्कों को जोड़ना",
+        "C_en": "To provide internet access", "C_hi": "इंटरनेट एक्सेस प्रदान करना",
+        "D_en": "To manage network traffic", "D_hi": "नेटवर्क ट्रैफ़िक का प्रबंधन करना",
+        "answer": "B",
+        "explanation_en": "A router connects multiple networks and directs data packets between them.",
+        "explanation_hi": "एक रूटर कई नेटवर्कों को जोड़ता है और डेटा पैकेटों के बीच निर्देशन करता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Operating Systems",
+        "question_en": "Which operating system is known for being open-source and free?",
+        "question_hi": "कौन सा ऑपरेटिंग सिस्टम खुला-स्रोत और मुफ्त होने के लिए प्रसिद्ध है?",
+        "A_en": "Windows", "A_hi": "विंडोज",
+        "B_en": "macOS", "B_hi": "मैकओएस",
+        "C_en": "Linux", "C_hi": "लिनक्स",
+        "D_en": "Android", "D_hi": "एंड्रॉइड",
+        "answer": "C",
+        "explanation_en": "Linux is an open-source and free operating system that allows users to modify and distribute it freely.",
+        "explanation_hi": "लिनक्स एक खुला-स्रोत और मुफ्त ऑपरेटिंग सिस्टम है जिसे उपयोगकर्ता स्वतंत्र रूप से संशोधित और वितरित कर सकते हैं।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Software Applications",
+        "question_en": "Which of the following is an example of application software?",
+        "question_hi": "निम्नलिखित में से कौन एप्लिकेशन सॉफ्टवेयर का एक उदाहरण है?",
+        "A_en": "Windows 10", "A_hi": "विंडोज 10",
+        "B_en": "Linux Kernel", "B_hi": "लिनक्स कर्नल",
+        "C_en": "MS Word", "C_hi": "एमएस वर्ड",
+        "D_en": "BIOS", "D_hi": "बिओएस",
+        "answer": "C",
+        "explanation_en": "MS Word is application software used for word processing.",
+        "explanation_hi": "एमएस वर्ड शब्द प्रसंस्करण के लिए एप्लिकेशन सॉफ्टवेयर है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Programming Languages",
+        "question_en": "Which programming language is primarily used for web development?",
+        "question_hi": "वेब डेवलपमेंट के लिए मुख्य रूप से किस प्रोग्रामिंग भाषा का उपयोग किया जाता है?",
+        "A_en": "Java", "A_hi": "जावा",
+        "B_en": "Python", "B_hi": "पायथन",
+        "C_en": "HTML", "C_hi": "एचटीएमएल",
+        "D_en": "C++", "D_hi": "सी++",
+        "answer": "C",
+        "explanation_en": "HTML is the standard markup language for creating web pages.",
+        "explanation_hi": "एचटीएमएल वेब पेज बनाने के लिए मानक मार्कअप भाषा है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Database Management",
+        "question_en": "What does SQL stand for?",
+        "question_hi": "एसक्यूएल का पूरा नाम क्या है?",
+        "A_en": "Structured Query Language", "A_hi": "स्ट्रक्चर्ड क्वेरी लैंग्वेज",
+        "B_en": "Simple Query Language", "B_hi": "सिम्पल क्वेरी लैंग्वेज",
+        "C_en": "System Query Language", "C_hi": "सिस्टम क्वेरी लैंग्वेज",
+        "D_en": "Standard Query Language", "D_hi": "स्टैंडर्ड क्वेरी लैंग्वेज",
+        "answer": "A",
+        "explanation_en": "SQL is used to manage and manipulate relational databases.",
+        "explanation_hi": "एसक्यूएल रिलेशनल डेटाबेस के प्रबंधन और हेरफेर के लिए उपयोग किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Internet and Communication",
+        "question_en": "What does HTTP stand for?",
+        "question_hi": "एचटीटीपी का पूरा नाम क्या है?",
+        "A_en": "HyperText Transfer Protocol", "A_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "B_en": "HighText Transfer Protocol", "B_hi": "हाईटेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "C_en": "HyperText Transmission Protocol", "C_hi": "हाइपरटेक्स्ट ट्रांसमिशन प्रोटोकॉल",
+        "D_en": "HyperText Transfer Procedure", "D_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोसीजर",
+        "answer": "A",
+        "explanation_en": "HTTP is the protocol used for transferring web pages.",
+        "explanation_hi": "एचटीटीपी वेब पेज ट्रांसफर करने वाला प्रोटोकॉल है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "Computer Security",
+        "question_en": "Which of the following is used to protect a computer from malware?",
+        "question_hi": "निम्नलिखित में से किसका उपयोग वायरस ले मैलवेयर से कंप्यूटर के रक्षा के लिए किया जाता है?",
+        "A_en": "Firewall", "A_hi": "फायरवॉल",
+        "B_en": "Antivirus", "B_hi": "एंटीवायरस",
+        "C_en": "BIOS", "C_hi": "बिओएस",
+        "D_en": "Router", "D_hi": "रूटर",
+        "answer": "B",
+        "explanation_en": "Antivirus software is specifically designed to detect and remove malware.",
+        "explanation_hi": "एंटीवायरस सॉफ्टवेयर को मैलवेयर का पता लगाने और हटाने के लिए विशेष रूप से डिज़ाइन किया गया है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "File Systems",
+        "question_en": "Which file system is commonly used in Windows operating systems?",
+        "question_hi": "विंडोज ऑपरेटिंग सिस्टम में आमतौर पर किस फाइल सिस्टम का उपयोग किया जाता है?",
+        "A_en": "FAT32", "A_hi": "एफएएटी32",
+        "B_en": "NTFS", "B_hi": "एनटीएफएस",
+        "C_en": "HFS", "C_hi": "एचएफएस",
+        "D_en": "exFAT", "D_hi": "एक्सएफएटी",
+        "answer": "B",
+        "explanation_en": "NTFS is the default file system for Windows and supports advanced features like encryption.",
+        "explanation_hi": "एनटीएफएस विंडोज के लिए डिफ़ॉल्ट फाइल सिस्टम है और एन्क्रिप्शन जैसी उन्नत सुविधाओं का समर्थन करता है।"
+    }
+]
