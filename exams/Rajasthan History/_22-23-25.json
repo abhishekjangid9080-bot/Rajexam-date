@@ -1,0 +1,33 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा मंदिर जहां है?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका मंदिर",
+"B_en": "City Palace", "B_hi": "शहर मंदिर",
+"C_en": "Hawa Mahal", "C_hi": "हवा महाल",
+"D_en": "Galtaji Temple", "D_hi": "गलताजी मंदिर",
+"answer": "B",
+"explanation_en": "The City Palace is located in Jaipur. It is a royal palace that is now a museum.",
+"explanation_hi": "जयपुर में शहर मंदिर है। इसका Royal Palace है जो अब भूमि के अंतर्गणी है।",
+}
+,
+{
+"subject": "Rajasthan History",
+"topic": "Kingdoms and Dynasties",
+"question_en": "Which Mughal Emperor established the city of Jaipur?",
+"question_hi": "जयपुर के संतोषपर्वत किसी मुगोल सर्वाधिकार केल ने जयपुर को संरक्षण किया।",
+"A_en": "Akbar",
+"A_hi": "अकबर",
+"B_en": "Salim Ahmad Khan",
+"B_hi": "सालमै अहमदकांहन",
+"C_en": "Mughal Emperor Babur",
+"C_hi": "मुगोल सर्वाधिकार",
+"answer": "A",
+"explanation_en": "Akbar is the Mughal Emperor who founded Jaipur. He founded the city in 1727 CE and named it after his great grandfather Raja Mansa Ram.\nअकबर एक मुगोल सर्वाधिकार हैं, जयपुर को 1727 के बुजरों के बाजाना उसे अकबर ने चलीया और उसके मांवती मानवानों के बाजाना के लिएं।",
+"answer": "A",
+"explanation_en": "Akbar was the Mughal Emperor who founded Jaipur and named it after his great grandfather Mansa Ram. Jaipur was established in 1727 CE.\nआकबर ने जयपुर को बने और उसे मानवानों के बाजाना के लिएं।",
+"explanation_hi": "आकबर ने जयपुर को 1727 के बने और उसे मानवानों के बाजाना के लिएं।",
+}
+]
