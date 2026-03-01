@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which battles were fought between Rana Kumbha and Akbar?",
+"question_hi": "राना कुम्भा और अकबर के बीच कितने हिल हुए थे?",
+"A_en": "First Battle of Alwar and Second Battle of Mewar",
+"A_hi": "पहला अलवार और दूसरा मेवार",
+"B_en": "Second Battle of Alwar and First Battle of Mewar",
+"B_hi": "दूसरा अलवार और समाज के लिए स्पष्ट हुए",
+"C_en": "First Battle of Alwar and Second Battle of Mewar",
+"C_hi": "पहला अलवार और द्वितीय मेवार",
+"D_en": "First Battle of Alwar and Third Battle of Mewar",
+"D_hi": "पहला अलवार और तीनों मेवार",
+"answer": "C",
+"explanation_en": "The correct sequence of battles was the First Battle of Alwar and the Second Battle of Mewar. The Third Battle of Mewar took place between the Marathas and Mughals, not related to Rana Kumbha and Akbar.",
+"explanation_hi": "सही पृथियां पहले अलवार और दोनों मेवार हैं। तीनों मेवार मंत्री और मुगोलों के बैरां पर हैं।",
+}
