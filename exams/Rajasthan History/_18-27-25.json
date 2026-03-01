@@ -1,0 +1,29 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which city in Rajasthan was the capital of the Mewar Kingdom?",
+"question_hi": "मैयर क्षेत्र के राजधानी के बार्मिक संग्रह में जान्नेवाले नंबर इसका उपाधि होता है।",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Jaipur", "B_hi": "जयपुर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Jaisalmer", "D_hi": "जयसलमर",
+"answer": "A",
+"explanation_en": "Udaipur was the capital of the Mewar Kingdom under Pratap Singh.",
+"explanation_hi": "प्रताप सिंग कथ्यांवर उदयपुर में मेवार का कथन था।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan under British Rule",
+"question_en": "Which city in Rajasthan was the capital during British Rule?",
+"question_hi": "ब्रिटिक सरकार के समय में राजस्थान का मेवार किसी है?",
+"A_en": "Jaipur", "A_hi": "जैपुर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Bikaner", "C_hi": "बिकानेर",
+"D_en": "Alwar", "D_hi": "अल्वार",
+"answer": "B",
+"explanation_en": "Jodhpur was the capital city of Rajasthan during the British rule.",
+"explanation_hi": "जोधपुर राजस्थान के बीस्ट्रॉल के वराजगण से बने किस्मान की कौरियाँ",
+"explanation": "Rajasthan was ruled by several kings during the British era.",
+}
+]
