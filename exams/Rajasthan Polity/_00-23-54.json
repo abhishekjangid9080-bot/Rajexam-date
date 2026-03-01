@@ -1,0 +1,162 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for Rajasthan Polity, covering exams like LDC, CET, RAS, SSC, and Railway. The user wants the questions in both Hindi and English, with explanations in both languages. The format must be strict JSON as per the example provided. Let me start by recalling key topics in Rajasthan Polity. Topics might include the constitution, governance structure, important amendments, historical context, and specific acts related to Rajasthan. 
+
+First, I should list out important subjects. For example, the role of the Governor, the Chief Minister, the legislative process, constitutional amendments, and significant acts passed in Rajasthan. Each question needs to be in both languages. Let me think of possible questions.
+
+1. Who is the head of the state in Rajasthan? The answer is the Governor. I need to present this in both languages. Options could include Governor, CM, President, etc.
+
+2. How many members are there in the Rajasthan Legislative Assembly? The correct answer is 200. Options might be 200, 205, 199, 201.
+
+3. What is the tenure of the Rajasthan Legislative Assembly? It's 5 years, so options like 4, 5, 6 years.
+
+4. The Rajasthan Legislative Council has how many members? Wait, Rajasthan doesn't have a Legislative Council. So the answer would be zero. Options could include 0, 25, 50, 100.
+
+5. Who is the current Chief Minister of Rajasthan? As of now, it's Bhajan Lal Sharma. Options should include him and other past CMs.
+
+6. The Rajasthan Constitution Act was adopted in which year? It's 1956. Options like 1950, 1956, 1960, 1975.
+
+7. What is the minimum age required to become a member of the Rajasthan Legislative Assembly? The answer is 25 years. Options: 21, 25, 30, 35.
+
+8. Which of the following is the highest judicial authority in Rajasthan? The answer is the Rajasthan High Court. Others could be Supreme Court, District Court, etc.
+
+9. The Rajasthan Public Service Commission is responsible for...? Answer: Conducting competitive exams for government posts. Options include other roles.
+
+10. The Rajasthan Constitution was formed under which constitutional article? Article 240. Other options might be 239, 240, 241.
+
+I need to ensure that each question has four options, with one correct answer. The explanations should clarify why the answer is correct. Also, the difficulty level should be moderate to high, suitable for competitive exams. Let me verify the facts to avoid mistakes. For example, the Rajasthan Legislative Council was abolished in 1952, so the current answer for that question is 0. Also, the current CM is Bhajan Lal Sharma, appointed in 2023. The Rajasthan Constitution Act was indeed adopted in 1956. The minimum age for MLAs is 25. The Rajasthan High Court is the highest court there. The Public Service Commission conducts exams. The Constitution was formed under Article 240. 
+
+Now, I need to structure each question in the JSON format, ensuring proper Hindi and English translations. The answer keys (A, B, C, D) should correspond correctly. Let me double-check each question for accuracy and clarity. Once all are verified, compile them into the JSON array as specified.
+</think>
+
+[
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitution and Governance",
+        "question_en": "Who is the constitutional head of the state of Rajasthan?",
+        "question_hi": "राजस्थान राज्य का संवैधानिक मुख्य अधिकारी कौन होता है?",
+        "A_en": "Governor", "A_hi": "राज्यपाल",
+        "B_en": "Chief Minister", "B_hi": "मुख्यमंत्री",
+        "C_en": "President", "C_hi": "राष्ट्रपति",
+        "D_en": "Speaker", "D_hi": "अध्यक्ष",
+        "answer": "A",
+        "explanation_en": "The Governor is the constitutional head of the state in India, including Rajasthan.",
+        "explanation_hi": "भारत में, राज्य का संवैधानिक मुख्य अधिकारी राज्यपाल होता है, जिसमें राजस्थान भी शामिल है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Legislative Assembly",
+        "question_en": "How many members are there in the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधायिका में कितने सदस्य होते हैं?",
+        "A_en": "200", "A_hi": "200",
+        "B_en": "205", "B_hi": "205",
+        "C_en": "199", "C_hi": "199",
+        "D_en": "201", "D_hi": "201",
+        "answer": "A",
+        "explanation_en": "The Rajasthan Legislative Assembly consists of 200 members elected by the people of Rajasthan.",
+        "explanation_hi": "राजस्थान विधायिका में 200 सदस्य होते हैं, जो राजस्थान के नागरिकों द्वारा चुने जाते हैं।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Legislative Structure",
+        "question_en": "What is the tenure of the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधायिका की अवधि क्या है?",
+        "A_en": "4 years", "A_hi": "4 साल",
+        "B_en": "5 years", "B_hi": "5 साल",
+        "C_en": "6 years", "C_hi": "6 साल",
+        "D_en": "7 years", "D_hi": "7 साल",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Legislative Assembly has a tenure of 5 years, unless dissolved earlier.",
+        "explanation_hi": "राजस्थान विधायिका की अवधि 5 साल होती है, जब तक कि इसे पहले ही भंग नहीं कर दिया जाता है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Legislative Council",
+        "question_en": "How many members are there in the Rajasthan Legislative Council?",
+        "question_hi": "राजस्थान विधायिका परिषद में कितने सदस्य होते हैं?",
+        "A_en": "0", "A_hi": "0",
+        "B_en": "25", "B_hi": "25",
+        "C_en": "50", "C_hi": "50",
+        "D_en": "100", "D_hi": "100",
+        "answer": "A",
+        "explanation_en": "Rajasthan does not have a Legislative Council; it was abolished in 1952.",
+        "explanation_hi": "राजस्थान में विधायिका परिषद नहीं है; इसे 1952 में निरसित कर दिया गया था।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Executive Authority",
+        "question_en": "Who is the current Chief Minister of Rajasthan?",
+        "question_hi": "राजस्थान के वर्तमान मुख्यमंत्री कौन हैं?",
+        "A_en": "Ashok Gehlot", "A_hi": "अशोक गहलोत",
+        "B_en": "Sukhram", "B_hi": "सुखराम",
+        "C_en": "Bhajan Lal Sharma", "C_hi": "भगवान लाल शर्मा",
+        "D_en": "Lal Krishna Advani", "D_hi": "लाल कृष्ण अडवानी",
+        "answer": "C",
+        "explanation_en": "Bhajan Lal Sharma is the current Chief Minister of Rajasthan, appointed in 2023.",
+        "explanation_hi": "भगवान लाल शर्मा राजस्थान के वर्तमान मुख्यमंत्री हैं, जिन्हें 2023 में नियुक्त किया गया था।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitutional History",
+        "question_en": "In which year was the Rajasthan Constitution Act adopted?",
+        "question_hi": "राजस्थान संविधान अधिनियम कब अपनाया गया था?",
+        "A_en": "1950", "A_hi": "1950",
+        "B_en": "1956", "B_hi": "1956",
+        "C_en": "1960", "C_hi": "1960",
+        "D_en": "1975", "D_hi": "1975",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Constitution Act was adopted in 1956, forming the state's constitutional framework.",
+        "explanation_hi": "राजस्थान संविधान अधिनियम को 1956 में अपनाया गया था, जो राज्य के संवैधानिक ढांचे को बनाता है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Election Eligibility",
+        "question_en": "What is the minimum age required to become a member of the Rajasthan Legislative Assembly?",
+        "question_hi": "राजस्थान विधायिका के सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+        "A_en": "18 years", "A_hi": "18 साल",
+        "B_en": "21 years", "B_hi": "21 साल",
+        "C_en": "25 years", "C_hi": "25 साल",
+        "D_en": "30 years", "D_hi": "30 साल",
+        "answer": "C",
+        "explanation_en": "To be eligible for the Rajasthan Legislative Assembly, a candidate must be at least 25 years old.",
+        "explanation_hi": "राजस्थान विधायिका के लिए योग्यता प्राप्त करने के लिए, उम्मीदवार कम से कम 25 साल का होना चाहिए।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Judicial System",
+        "question_en": "Which is the highest judicial authority in Rajasthan?",
+        "question_hi": "राजस्थान में सर्वोच्च न्यायिक अधिकारी कौन है?",
+        "A_en": "Supreme Court", "A_hi": "सुप्रीम कोर्ट",
+        "B_en": "Rajasthan High Court", "B_hi": "राजस्थान उच्च न्यायालय",
+        "C_en": "District Court", "C_hi": "जिला न्यायालय",
+        "D_en": "Subordinate Court", "D_hi": "उपनिवेश न्यायालय",
+        "answer": "B",
+        "explanation_en": "The Rajasthan High Court is the highest judicial authority in the state.",
+        "explanation_hi": "राजस्थान उच्च न्यायालय राज्य में सर्वोच्च न्यायिक अधिकारी है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Public Service Commission",
+        "question_en": "What is the role of the Rajasthan Public Service Commission?",
+        "question_hi": "राजस्थान लोक सेवा आयोग की भूमिका क्या है?",
+        "A_en": "Conducting government exams", "A_hi": "सरकारी परीक्षाओं का आयोजन",
+        "B_en": "Formulating policies", "B_hi": "नीतियों की रचना",
+        "C_en": "Judicial appointments", "C_hi": "न्यायिक नियुक्तियां",
+        "D_en": "Legislative drafting", "D_hi": "विधायिका ड्राफ्टिंग",
+        "answer": "A",
+        "explanation_en": "The Rajasthan Public Service Commission is responsible for conducting competitive exams for government posts.",
+        "explanation_hi": "राजस्थान लोक सेवा आयोग सरकारी पदों के लिए प्रतियोगिता परीक्षाओं का आयोजन करने के लिए उत्तरदायी है।"
+    },
+    {
+        "subject": "Rajasthan Polity",
+        "topic": "Constitutional Articles",
+        "question_en": "Under which constitutional article was the Rajasthan Constitution formed?",
+        "question_hi": "राजस्थान संविधान किस संवैधानिक अनुच्छेद के तहत बनाया गया था?",
+        "A_en": "Article 239", "A_hi": "अनुच्छेद 239",
+        "B_en": "Article 240", "B_hi": "अनुच्छेद 240",
+        "C_en": "Article 241", "C_hi": "अनुच्छेद 241",
+        "D_en": "Article 242", "D_hi": "अनुच्छेद 242",
+        "answer": "B",
+        "explanation_en": "The Rajasthan Constitution was formed under Article 240 of the Indian Constitution.",
+        "explanation_hi": "राजस्थान संविधान भारतीय संविधान के अनुच्छेद 240 के तहत बनाया गया था।"
+    }
+]
