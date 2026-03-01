@@ -1,0 +1,228 @@
+<think>
+Okay, let's tackle this. The user wants 10 high-quality computer MCQs in both Hindi and English, structured in a specific JSON format. First, I need to confirm the topic. Wait, the user mentioned the topic is empty, so I can choose any computer-related topic. But since the example had a topic, maybe I should pick a common one like Computer Fundamentals or Networking.
+
+Hmm, maybe start with basic computer knowledge. Let's think of key areas: hardware, software, input/output devices, memory, etc. Also, ensure the difficulty level is appropriate for Rajasthan exams. The questions should cover a range of topics but not too technical.
+
+First question: What is the primary function of an operating system? That's a classic. Options can include managing hardware, providing user interface, etc. The answer would be managing hardware and software resources.
+
+Second question: Differentiate between RAM and ROM. RAM is volatile, ROM is non-volatile. Need to phrase it in Hindi correctly.
+
+Third: Which is not a programming language? Options like HTML, Java, Python, SQL. HTML is a markup language, so that's the answer.
+
+Fourth: What is the full form of HTTP? HyperText Transfer Protocol. Important for web basics.
+
+Fifth: Input devices. Mouse, keyboard, scanner are input. Printer is output. So the answer is printer.
+
+Sixth: Which is a database management system? MySQL, Oracle, MongoDB are. Maybe include a non-DBMS option like Excel.
+
+Seventh: Full form of PDF. Portable Document Format. Important for document sharing.
+
+Eighth: Which is an operating system? Windows, Linux, Android, iOS. Need to make sure all are OSs or include one that's not.
+
+Ninth: CPU components. ALU, Control Unit, Memory. Input is not part of CPU.
+
+Tenth: What is a firewall? Network security system to block unauthorized access.
+
+Now, translate each question into Hindi, ensuring technical terms are correctly translated. Check for any errors in options and explanations. Make sure answers are accurate. Each question should have four options, and the correct answer marked. Explanations should be clear and concise in both languages.
+
+Wait, the example uses "Rajasthan's capital" as an example, but here the subject is Computer. So the topic should be specified. The user left the topic blank. Maybe the topic is "Computer Fundamentals" or similar. But since the user left it empty, perhaps I should leave it as an empty string as in the example. Let me check the example again. The example had the topic as empty. So I'll follow that.
+
+Now, structure each question in JSON as per the example. Ensure the JSON is valid, with proper commas and brackets. Also, make sure the order is correct: subject, topic, question in both languages, options in both languages, answer, and explanations in both languages.
+
+Need to be careful with the JSON syntax to avoid errors. Each object should be enclosed in curly braces, and the array in square brackets. Also, keys should be in double quotes, and strings in double quotes. No trailing commas.
+
+Let me draft each question step by step, ensuring that all parts are correctly filled. For example, the first question:
+
+Question in English: "What is the primary function of an operating system?"
+Question in Hindi: "एक ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?"
+Options:
+A: Manage hardware resources
+B: Provide user interface
+C: Both A and B
+D: None of the above
+Answer: C
+Explanation: OS manages both hardware and software resources.
+
+Wait, but the correct answer here would be C, as OS manages both. Need to make sure that the options are correctly presented.
+
+Another example: HTTP stands for HyperText Transfer Protocol. The options should include the correct full form and possible distractors like HyperText Transmission Protocol, etc. The explanation should clarify that it's HyperText Transfer Protocol.
+
+For the database question, if the options are MySQL, Oracle, MongoDB, Excel, then Excel is not a DBMS, so answer is D.
+
+Also, check that the Hindi translations are accurate. For instance, "वर्तमान मेमोरी" for RAM (Random Access Memory), but in Hindi, RAM is often referred to as रैम. Need to use correct technical terms in Hindi.
+
+Once all questions are drafted, validate the JSON structure. Use an online JSON validator if possible. Ensure that all keys are present and in the correct order. Also, check that the explanations are concise and accurate.
+
+Finally, ensure that the difficulty level is set appropriately for Rajasthan State Exams, which are for LDC, CET, RAS, SSC, and Railway NTPC. These exams typically require basic to intermediate computer knowledge, so the questions shouldn't be too advanced but should test fundamental understanding.
+
+Alright, I think that's a solid approach. Now let's put it all together in the required JSON format without any markdown, just the raw JSON.
+</think>
+
+[
+  {
+    "subject": "Computer",
+    "topic": "Computer Fundamentals",
+    "question_en": "What is the primary function of an operating system?",
+    "question_hi": "एक ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?",
+    "A_en": "Manage hardware resources",
+    "A_hi": "हार्डवेयर संसाधनों का प्रबंधन",
+    "B_en": "Provide user interface",
+    "B_hi": "उपयोगकर्ता इंटरफ़ेस प्रदान करें",
+    "C_en": "Both A and B",
+    "C_hi": "A और B दोनों",
+    "D_en": "None of the above",
+    "D_hi": "इनमें से कोई नहीं",
+    "answer": "C",
+    "explanation_en": "An operating system manages both hardware and software resources.",
+    "explanation_hi": "एक ऑपरेटिंग सिस्टम हार्डवेयर और सॉफ्टवेयर संसाधनों का प्रबंधन करता है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Computer Fundamentals",
+    "question_en": "Which of the following is a volatile memory?",
+    "question_hi": "निम्नलिखित में से कौन एक वाष्पशील मेमोरी है?",
+    "A_en": "ROM",
+    "A_hi": "पी.डी.एफ.",
+    "B_en": "RAM",
+    "B_hi": "रैम",
+    "C_en": "Hard Disk",
+    "C_hi": "हार्ड डिस्क",
+    "D_en": "SSD",
+    "D_hi": "एसएसडी",
+    "answer": "B",
+    "explanation_en": "RAM (Random Access Memory) is volatile and loses data when power is off.",
+    "explanation_hi": "रैम (रैंडम एक्सेस मेमोरी) वाष्पशील होती है और बिजली बंद होने पर डेटा खो देती है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Programming Languages",
+    "question_en": "Which of the following is not a programming language?",
+    "question_hi": "निम्नलिखित में से कौन एक प्रोग्रामिंग भाषा नहीं है?",
+    "A_en": "HTML",
+    "A_hi": "एच टी एम एल",
+    "B_en": "Java",
+    "B_hi": "जावा",
+    "C_en": "Python",
+    "C_hi": "पायथन",
+    "D_en": "SQL",
+    "D_hi": "एसक्यूएल",
+    "answer": "A",
+    "explanation_en": "HTML is a markup language, not a programming language.",
+    "explanation_hi": "एचटीएमएल एक मार्कअप भाषा है, प्रोग्रामिंग भाषा नहीं।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Internet and Networking",
+    "question_en": "What is the full form of HTTP?",
+    "question_hi": "HTTP का पूर्ण रूप क्या है?",
+    "A_en": "HyperText Transmission Protocol",
+    "A_hi": "हाइपरटेक्स्ट ट्रांजिशन प्रोटोकॉल",
+    "B_en": "HyperText Transfer Protocol",
+    "B_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल",
+    "C_en": "HyperText Terminal Protocol",
+    "C_hi": "हाइपरटेक्स्ट टर्मिनल प्रोटोकॉल",
+    "D_en": "HyperText Testing Protocol",
+    "D_hi": "हाइपरटेक्स्ट टेस्टिंग प्रोटोकॉल",
+    "answer": "B",
+    "explanation_en": "HTTP stands for HyperText Transfer Protocol, used for transferring web pages.",
+    "explanation_hi": "HTTP का पूर्ण रूप हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल है, जिसका उपयोग वेब पेजों के स्थानांतरण के लिए किया जाता है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Computer Hardware",
+    "question_en": "Which of the following is an input device?",
+    "question_hi": "निम्नलिखित में से कौन एक इनपुट डिवाइस है?",
+    "A_en": "Printer",
+    "A_hi": "प्रिंटर",
+    "B_en": "Keyboard",
+    "B_hi": "कीबोर्ड",
+    "C_en": "Monitor",
+    "C_hi": "मॉनिटर",
+    "D_en": "Speaker",
+    "D_hi": "स्पीकर",
+    "answer": "B",
+    "explanation_en": "A keyboard is an input device used to enter data into a computer.",
+    "explanation_hi": "कीबोर्ड एक इनपुट डिवाइस है जिसका उपयोग कंप्यूटर में डेटा दर्ज करने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Software Applications",
+    "question_en": "Which of the following is a database management system?",
+    "question_hi": "निम्नलिखित में से कौन एक डेटाबेस प्रबंधन प्रणाली है?",
+    "A_en": "Microsoft Word",
+    "A_hi": "माइक्रोसॉफ्ट वर्ड",
+    "B_en": "Excel",
+    "B_hi": "एक्सेल",
+    "C_en": "MySQL",
+    "C_hi": "मायएसक्यूएल",
+    "D_en": "PowerPoint",
+    "D_hi": "पॉवरपॉइंट",
+    "answer": "C",
+    "explanation_en": "MySQL is a relational database management system.",
+    "explanation_hi": "मायएसक्यूएल एक संबंधित डेटाबेस प्रबंधन प्रणाली है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "File Formats",
+    "question_en": "What does PDF stand for?",
+    "question_hi": "पीडीएफ का पूरा रूप क्या है?",
+    "A_en": "Portable Data File",
+    "A_hi": "पोर्टेबल डेटा फाइल",
+    "B_en": "Printable Document Format",
+    "B_hi": "प्रिंटेबल दस्तावेज़ फॉरमेट",
+    "C_en": "Portable Document Format",
+    "C_hi": "पोर्टेबल दस्तावेज़ फॉरमेट",
+    "D_en": "Public Data File",
+    "D_hi": "सार्वजनिक डेटा फाइल",
+    "answer": "C",
+    "explanation_en": "PDF stands for Portable Document Format, used for document sharing.",
+    "explanation_hi": "पीडीएफ का पूरा रूप पोर्टेबल दस्तावेज़ फॉरमेट है, जिसका उपयोग दस्तावेज़ साझा करने के लिए किया जाता है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Operating Systems",
+    "question_en": "Which of the following is not an operating system?",
+    "question_hi": "निम्नलिखित में से कौन एक ऑपरेटिंग सिस्टम नहीं है?",
+    "A_en": "Windows",
+    "A_hi": "विंडोज",
+    "B_en": "Linux",
+    "B_hi": "लिनक्स",
+    "C_en": "Android",
+    "C_hi": "एंड्रॉइड",
+    "D_en": "MySQL",
+    "D_hi": "मायएसक्यूएल",
+    "answer": "D",
+    "explanation_en": "MySQL is a database management system, not an operating system.",
+    "explanation_hi": "मायएसक्यूएल एक डेटाबेस प्रबंधन प्रणाली है, ऑपरेटिंग सिस्टम नहीं।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Computer Components",
+    "question_en": "Which component of the CPU performs arithmetic and logical operations?",
+    "question_hi": "सीपीयू का क�ौन सा घटक गणितीय और तार्किक कार्य करता है?",
+    "A_en": "Control Unit",
+    "A_hi": "कंट्रोल यूनिट",
+    "B_en": "Arithmetic Logic Unit (ALU)",
+    "B_hi": "अंकगणित तार्किक इकाई (एएलयू)",
+    "C_en": "Memory Unit",
+    "C_hi": "मेमोरी यूनिट",
+    "D_en": "Input Unit",
+    "D_hi": "इनपुट यूनिट",
+    "answer": "B",
+    "explanation_en": "The ALU (Arithmetic Logic Unit) performs arithmetic and logical operations.",
+    "explanation_hi": "एएलयू (अंकगणित तार्किक इकाई) गणितीय और तार्किक कार्य करती है।"
+  },
+  {
+    "subject": "Computer",
+    "topic": "Network Security",
+    "question_en": "What is the purpose of a firewall in a computer network?",
+    "question_hi": "कंप्यूटर नेटवर्क में फायरवॉल का उद्देश्य क्या है?",
+    "A_en": "To connect different networks",
+    "A_hi": "अलग-अलग नेटवर्कों को जोड़ने के लिए",
+    "B_en": "To block unauthorized access",
+    "B_hi": "अनधिकृत पहुँच को रोकने के लिए",
+    "C_en": "To increase network speed",
+    "C_hi": "नेटवर्क गति बढ़ाने के लिए",
+    "D_en": "To reduce electricity consumption",
+    "D_hi": "बिजली की खपत कम करने के लिए",
+    "
