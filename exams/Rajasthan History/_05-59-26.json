@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Kings",
+"question_en": "Which king ruled Rajasthan before it became a province?",
+"question_hi": "राजस्थान के प्रांत के राजनेता कौन थे ?",
+"A_en": "Pratap Singh",
+"A_hi": "प्रताप सिंह",
+"B_en": "Amar Singh",
+"B_hi": "अमर सिंह",
+"C_en": "Birsingh",
+"C_hi": "बिरसिंग",
+"D_en": "Uday Singh",
+"D_hi": "उदय सिंह",
+"answer": "A",
+"explanation_en": "Pratap Singh was the king of Mewar before Rajasthan became a province. He was a prominent figure in Rajasthani history and is known for his valor and bravery.",
+"explanation_hi": "प्रताप सिंह मेवार स्वत: राजस्थान के प्राप्ति के पूर्वाहट: Mewar, मेवार का समुद्र पूर्वाहट: राजस्थान के प्राप्ति के पूर्वाहट: Mewar, मेवार",
+"answer": "A",
+"explanation_en": "Birsingh (Pratap Singh) was the king of Mewar before Rajasthan became a province. He was a famous Rajasthani king known for his bravery and valor.",
+"explanation_hi": "बीर्षिंग (प्राति सिंग) मेवार का मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था जब राजस्थान प्राति के मैंगना करने वाला था, जब राजस्थान प्राति के मैंगना करने वाला था.",
+"options_json": [
+{
+"option_text": "A. Chhattrapati Bhim Singh",
+"option_description_en": "Chattrapati Bhim Singh was the king who ruled Rajasthan before it became a princely state.",
+"option_description_hi": "चत्रापति बिहिंसिंग एन पाउनल सेत वाले प्रन्यांने वाला था।",
+"option_answer": "B",
+"option_answer_en": "B",
+"option_answer_hi": "बी"
+},
+{
+"option_text": "B. Maharana Pratap",
+"option_description_en": "Maharana Pratap was a famous Rajput king of Mewar who fought against Mughal Emperor Akbar.",
+"option_description_hi": "महाराना प्रति प्र्यांने वाले पाउनंने वाला था ।",
+"option_answer": "A",
+"option_answer_en": "A",
+"option_answer_hi": "आंने वाले पाउनति वालो"
+},
+{
+"option_text": "C. Maharana Pratap Singh",
+"option_description_en": "Pratap Singh was a Rajput king who fought against Mughal Emperor Akbar.",
+"option_description_hi": "महाराना प्रि परंने वाले परे वाले पाउनत",
+"option_answer": "B",
+"option_answer_en": "B",
+"option_answer_hi": "के वाले पाउनति वाले पाउनत",
+},
+{
+"option_text": "D. Raja Ram Singh",
+"option_description_en": "Raja Ram Singh was a Rajput king who ruled Udaipur.",
+"option_description_hi": "रांले वाले रादनि वाले रादे वाले रादनि वालाले रादे वाले रादे वाले रादे वाले रादे वालि रादे वाले रादे वाले रादे रादे वाले रादे वाले रादे रादे वाले रादे वाले रादे रादे वालाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले रादे वाले वाले रादे वाले रादे वाले रादे
