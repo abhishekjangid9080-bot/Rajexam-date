@@ -1,0 +1,210 @@
+<think>
+Okay, let's see. The user wants me to create 10 high-quality MCQs for Computer topics related to Rajasthan State Exams, SSC, and Railway. The questions need to be in both Hindi and English, following the Testbook style. The JSON format is strict, so I need to make sure each question has the correct structure.
+
+First, I should pick relevant topics in Computer Science. Common topics for these exams include hardware, software, networking, operating systems, MS Office, internet, security, etc. Let me brainstorm some topics. Maybe start with hardware components like CPU, RAM, storage. Then move to software like MS Word, Excel. Networking terms like LAN, WAN, internet protocols. Operating systems like Windows, Linux. Security concepts like firewalls, viruses. Also, maybe some basic IT laws or abbreviations.
+
+Each question needs four options, with the correct answer marked. The explanations should clarify why the correct answer is right. Let me outline each question step by step.
+
+Question 1: What is the main function of RAM? Options could be A) Long-term storage, B) Temporary data storage, etc. Correct answer B. Explanation: RAM is used for temporary storage while the computer is on.
+
+Question 2: Which is not a programming language? Options like HTML, Python, Java, C++. HTML is a markup language, so the answer is A. Explanation needed.
+
+Question 3: What does HTTP stand for? Full form is HyperText Transfer Protocol. Options might mix up the words. Answer D.
+
+Question 4: Which is an input device? Mouse, Printer, Monitor, Speaker. Mouse is input, so answer A.
+
+Question 5: OS functions. Options about managing hardware, software, etc. Correct answer is all of the above (D).
+
+Question 6: Largest storage unit. PetaByte is bigger than TeraByte, GigaByte, etc. So answer C.
+
+Question 7: MS Office component. MS Excel is correct. The others are not part of Office.
+
+Question 8: Networking device to connect multiple networks. Router is the answer. Hub, Switch are for same network.
+
+Question 9: Antivirus software. Norton is an example. Others are companies but not antivirus.
+
+Question 10: Binary system digits. Binary uses 0 and 1. So answer D.
+
+Now, translating each question into Hindi. Need to ensure technical terms are correctly translated. For example, "RAM" is the same, "HTTP" as "एच.टी.टी.पी.".
+
+Check for correctness in options. Make sure the correct answer is consistent in both languages. Each explanation should clearly state the reasoning, in both languages.
+
+Validate the JSON structure. Ensure all required fields are present, like subject, topic, question in both languages, options, answer, explanations.
+
+Wait, the topic is empty in the example. The user provided a topic as " ", but maybe I should fill it in. Let me check the original instructions. The user's example has an empty topic. So maybe I can leave it as an empty string. But for better structure, perhaps the topic should be specified. However, the user's example shows an empty topic, so I'll follow that.
+
+Finally, ensure the JSON is properly formatted without any syntax errors. Use double quotes, correct commas, and proper brackets.
+</think>
+
+[
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What is the primary function of RAM in a computer?",
+        "question_hi": "कंप्यूटर में रैम का मुख्य कार्य क्या है?",
+        "A_en": "Long-term storage of data",
+        "A_hi": "डेटा के लंबी अवधि की संग्रहण",
+        "B_en": "Temporary storage of data while the computer is running",
+        "B_hi": "कंप्यूटर चल रहा होने पर डेटा की अस्थायी भंडारण",
+        "C_en": "Permanently store the operating system",
+        "C_hi": "ऑपरेटिंग सिस्टम को स्थायी रूप से संग्रहित करे",
+        "D_en": "Connect to the internet",
+        "D_hi": "इंटरनेट से कनेक्ट करे",
+        "answer": "B",
+        "explanation_en": "RAM is used for temporary data storage during active computer operations.",
+        "explanation_hi": "रैम का उपयोग एक्टिव कंप्यूटर ऑपरेशन के दौरान अस्थायी डेटा संग्रहण के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is NOT a programming language?",
+        "question_hi": "निम्नलिखित में से कौन-सा एक प्रोग्रामिंग भाषा नहीं है?",
+        "A_en": "HTML",
+        "A_hi": "एच.टी.एम.एल.",
+        "B_en": "Python",
+        "B_hi": "पायथन",
+        "C_en": "Java",
+        "C_hi": "जावा",
+        "D_en": "C++",
+        "D_hi": "सी++",
+        "answer": "A",
+        "explanation_en": "HTML is a markup language, not a programming language.",
+        "explanation_hi": "एच.टी.एम.एल. एक मार्कअप लैंग्वेज है, न कि एक प्रोग्रामिंग भाषा।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What does HTTP stand for?",
+        "question_hi": "एच.टी.टी.पी. का पूर्ण रूप क्या है?",
+        "A_en": "HyperText Markup Language",
+        "A_hi": "हाइपरटेक्स्ट मार्कअप लैंग्वेज",
+        "B_en": "HyperTerminal Transfer Protocol",
+        "B_hi": "हाइपरटर्मिनल ट्रांसफर प्रोटोकॉल",
+        "C_en": "HyperTransfer Terminal Protocol",
+        "C_hi": "हाइपरट्रांसफर टर्मिनल प्रोटोकॉल",
+        "D_en": "HyperText Transfer Protocol",
+        "D_hi": "हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल",
+        "answer": "D",
+        "explanation_en": "HTTP stands for HyperText Transfer Protocol, used for transferring web pages.",
+        "explanation_hi": "एच.टी.टी.पी. का पूर्ण रूप हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल है, जिसका उपयोग वेब पेजों के ट्रांसफर के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of these is an input device?",
+        "question_hi": "इनमें से कौन एक इनपुट डिवाइस है?",
+        "A_en": "Mouse",
+        "A_hi": "माउस",
+        "B_en": "Printer",
+        "B_hi": "प्रिंटर",
+        "C_en": "Monitor",
+        "C_hi": "मॉनिटर",
+        "D_en": "Speaker",
+        "D_hi": "स्पीकर",
+        "answer": "A",
+        "explanation_en": "A mouse is an input device used to control the cursor on the screen.",
+        "explanation_hi": "माउस एक इनपुट डिवाइस है जिसका उपयोग स्क्रीन पर कर्सर को नियंत्रित करने के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What is the function of an operating system?",
+        "question_hi": "ऑपरेटिंग सिस्टम का कार्य क्या है?",
+        "A_en": "Manage hardware resources",
+        "A_hi": "हार्डवेयर संसाधनों का प्रबंधन",
+        "B_en": "Provide a user interface",
+        "B_hi": "उपयोगकर्ता इंटरफ़ेस प्रदान करे",
+        "C_en": "Manage software execution",
+        "C_hi": "सॉफ्टवेयर निष्पादन का प्रबंधन",
+        "D_en": "All of the above",
+        "D_hi": "ऊपर के सभी",
+        "answer": "D",
+        "explanation_en": "An operating system manages hardware, provides a user interface, and controls software execution.",
+        "explanation_hi": "ऑपरेटिंग सिस्टम हार्डवेयर का प्रबंधन करता है, उपयोगकर्ता इंटरफ़ेस प्रदान करता है और सॉफ्टवेयर निष्पादन को नियंत्रित करता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which unit is the largest in terms of data storage?",
+        "question_hi": "डेटा संग्रहण के संदर्भ में कौन-सी इकाई सबसे बड़ी है?",
+        "A_en": "Kilobyte",
+        "A_hi": "किलोबाइट",
+        "B_en": "Megabyte",
+        "B_hi": "मेगाबाइट",
+        "C_en": "Petabyte",
+        "C_hi": "पेटाबाइट",
+        "D_en": "Terabyte",
+        "D_hi": "टेराबाइट",
+        "answer": "C",
+        "explanation_en": "Petabyte is the largest among the listed storage units.",
+        "explanation_hi": "पेटाबाइट सूचीबद्ध संग्रह इकाइयों में सबसे बड़ा है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is a component of Microsoft Office?",
+        "question_hi": "निम्नलिखित में से कौन माइक्रोसॉफ्ट ऑफिस का एक घटक है?",
+        "A_en": "Adobe Photoshop",
+        "A_hi": "एडोबे फोटोशॉप",
+        "B_en": "MS Excel",
+        "B_hi": "एमएस एक्सेल",
+        "C_en": "Google Chrome",
+        "C_hi": "गूगल क्रोम",
+        "D_en": "Apple Pages",
+        "D_hi": "एप्पल पेज्स",
+        "answer": "B",
+        "explanation_en": "MS Excel is part of the Microsoft Office suite.",
+        "explanation_hi": "एमएस एक्सेल माइक्रोसॉफ्ट ऑफिस पैकेज का हिस्सा है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which device connects multiple networks?",
+        "question_hi": "कौन-सा उपकरण कई नेटवर्क को जोड़ता है?",
+        "A_en": "Hub",
+        "A_hi": "हब",
+        "B_en": "Switch",
+        "B_hi": "स्विच",
+        "C_en": "Router",
+        "C_hi": "रूटर",
+        "D_en": "Bridge",
+        "D_hi": "ब्रिज",
+        "answer": "C",
+        "explanation_en": "A router is used to connect different networks.",
+        "explanation_hi": "एक रूटर का उपयोग अलग-अलग नेटवर्कों को जोड़ने के लिए किया जाता है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "Which of the following is an example of antivirus software?",
+        "question_hi": "निम्नलिखित में से कौन एंटीवायरस सॉफ्टवेयर का एक उदाहरण है?",
+        "A_en": "Norton",
+        "A_hi": "नॉर्टन",
+        "B_en": "Microsoft",
+        "B_hi": "माइक्रोसॉफ्ट",
+        "C_en": "Google",
+        "C_hi": "गूगल",
+        "D_en": "Apple",
+        "D_hi": "एप्पल",
+        "answer": "A",
+        "explanation_en": "Norton is a well-known antivirus software.",
+        "explanation_hi": "नॉर्टन एक प्रसिद्ध एंटीवायरस सॉफ्टवेयर है।"
+    },
+    {
+        "subject": "Computer",
+        "topic": "",
+        "question_en": "What is the base of the binary number system?",
+        "question_hi": "बाइनरी संख्या प्रणाली का आधार क्या है?",
+        "A_en": "10",
+        "A_hi": "10",
+        "B_en": "8",
+        "B_hi": "8",
+        "C_en": "2",
+        "C_hi": "2",
+        "D_en": "16",
+        "D_hi": "16",
+        "answer": "C",
+        "explanation_en": "The binary system uses base 2, consisting of digits 0 and 1.",
+        "explanation_hi": "बाइनरी प्रणाली आधार 2 पर आधारित है, जिसमें अंक 0 और 1 शामिल हैं।"
+    }
+]
