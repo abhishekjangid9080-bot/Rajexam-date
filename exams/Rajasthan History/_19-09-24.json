@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous forts in Rajasthan are associated with the Rana Kumbha?",
+"question_hi": "राजस्थान में कौन से भूमिकाएं सम्बंधित राणा कुम्भिकों के साथ हैं?",
+"A_en": "Amber Fort, Kumbhalgarh Fort, Mehrangarh Fort",
+"A_hi": "अमेरिक फोट, कुम्भलगार फोट, मेहरांगर फोट",
+"B_en": "Mehrangarh Fort, Kumbhalgarh Fort, Amer Fort",
+"B_hi": "मेहरांगर फोट, कुम्भलगार फोट, मेहरांगर फोट",
+"C_en": "Amber Fort, Kumbhalgarh Fort, Mehrangarh Fort",
+"C_hi": "अमेरांगर फोट, कुम्भलगार फोट, मेहरांगर फोट",
+"D_en": "Amber Fort, Mehrangarh Fort, Kumbhalgarh Fort",
+"D_hi": "अमेरांगर फोट, मेहरांगर फोट, कुम्भलगार फोट",
+"answer": "C",
+"explanation_en": "Mehrangarh Fort, Kumbhalgarh Fort, Amber Fort are the famous forts in Rajasthan associated with Rana Kumbha.",
+"explanation_hi": "मेहरांगर फोट, कुम्भलगार फोट, अमेरांगर फोट",
+"explanation": "These forts were constructed by Rana Kumbha during his reign.",
+}
+]
