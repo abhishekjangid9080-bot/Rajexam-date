@@ -1,0 +1,130 @@
+<think>
+Okay, I need to create 10 high-quality MCQs for General Hindi, specifically for Rajasthan State Exams, SSC, and Railway exams. The topic isn't specified, so maybe it's general Hindi language questions. Let me think about common areas in General Hindi exams. They often include grammar, vocabulary, synonyms, antonyms, sentence structure, and literature.
+
+First, I should ensure each question is in both Hindi and English as per the instructions. The JSON structure example shows that the question and options are translated. Let's start with common grammar topics like sentence correction, parts of speech, and sentence structure. Also, include some vocabulary questions.
+
+For example, a question on parts of speech: Identifying a noun in a sentence. Another could be about synonyms or antonyms. Maybe some sentence reordering questions. Also, check for correct sentence structure in Hindi. Let me think of a few examples.
+
+1. Parts of Speech: Find the noun in the given sentence.
+2. Synonym question: Choose the synonym of a word.
+3. Antonym question: Choose the antonym of a word.
+4. Sentence correction: Correct the grammar in the sentence.
+5. Fill in the blank with appropriate pronoun.
+6. Identify the correct sandhi vislesha (sandhi split).
+7. Sentence restructuring: Rearranging parts of a sentence.
+8. Identify the figure of speech used.
+9. Correct spelling of a word.
+10. Choose the correct form of the verb.
+
+I need to make sure the options are plausible and the answers are accurate. Also, explanations should be clear and concise in both languages. Let me draft each question step by step, ensuring they follow the required format and difficulty level for these exams.
+</think>
+
+[
+    {
+        "subject": "General Hindi",
+        "topic": "वाक्य विन्यास",
+        "question_en": "निम्नलिखित वाक्य को सही क्रम में व्यवस्थित करें: 'पुस्तक / लेखक / द्वारा / लिखी गई'।",
+        "question_hi": "निम्नलिखित वाक्य को सही क्रम में व्यवस्थित करें: 'पुस्तक / लेखक / द्वारा / लिखी गई'।",
+        "A_en": "लेखक द्वारा पुस्तक लिखी गई", "A_hi": "लेखक द्वारा पुस्तक लिखी गई",
+        "B_en": "पुस्तक लेखक द्वारा लिखी गई", "B_hi": "पुस्तक लेखक द्वारा लिखी गई",
+        "C_en": "लेखक पुस्तक द्वारा लिखी गई", "C_hi": "लेखक पुस्तक द्वारा लिखी गई",
+        "D_en": "पुस्तक लिखी गई लेखक द्वारा", "D_hi": "पुस्तक लिखी गई लेखक द्वारा",
+        "answer": "B",
+        "explanation_en": "सही क्रम पुस्तक लेखक द्वारा लिखी गई है क्योंकि कर्म कर्ता के बाद आता है।",
+        "explanation_hi": "सही क्रम पुस्तक लेखक द्वारा लिखी गई है क्योंकि कर्म कर्ता के बाद आता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "समानार्थक शब्द",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'गुप्त' का समानार्थी है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'गुप्त' का समानार्थी है?",
+        "A_en": "निजी", "A_hi": "निजी",
+        "B_en": "सार्वजनिक", "B_hi": "सार्वजनिक",
+        "C_en": "अद्वितीय", "C_hi": "अद्वितीय",
+        "D_en": "सादृश्य", "D_hi": "सादृश्य",
+        "answer": "A",
+        "explanation_en": "'गुप्त' का समानार्थक शब्द 'निजी' है क्योंकि दोनों शब्द अपने आप छिपे रहने या अन्यों तक नहीं पहुंचने के लिए उपयोग होते हैं।",
+        "explanation_hi": "'गुप्त' का समानार्थक शब्द 'निजी' है क्योंकि दोनों शब्द अपने आप छिपे रहने या अन्यों तक नहीं पहुंचने के लिए उपयोग होते हैं।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "विपरीतार्थक शब्द",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'सुदृढ़' का विपरीतार्थक है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'सुदृढ़' का विपरीतार्थक है?",
+        "A_en": "कमजोर", "A_hi": "कमजोर",
+        "B_en": "मजबूत", "B_hi": "मजबूत",
+        "C_en": "स्थिर", "C_hi": "स्थिर",
+        "D_en": "अस्थिर", "D_hi": "अस्थिर",
+        "answer": "A",
+        "explanation_en": "'सुदृढ़' का विपरीतार्थक शब्द 'कमजोर' है क्योंकि दोनों शब्द बल या शक्ति के विपरीत अर्थ व्यक्त करते हैं।",
+        "explanation_hi": "'सुदृढ़' का विपरीतार्थक शब्द 'कमजोर' है क्योंकि दोनों शब्द बल या शक्ति के विपरीत अर्थ व्यक्त करते हैं।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "वर्तनी",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द सही वर्तनी के अनुसार लिखा गया है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द सही वर्तनी के अनुसार लिखा गया है?",
+        "A_en": "उत्सव", "A_hi": "उत्सव",
+        "B_en": "उत्सव", "B_hi": "उत्सव",
+        "C_en": "उत्साव", "C_hi": "उत्साव",
+        "D_en": "उत्साव", "D_hi": "उत्साव",
+        "answer": "A",
+        "explanation_en": "शब्द 'उत्सव' सही वर्तनी के अनुसार लिखा गया है क्योंकि यह शब्द संस्कृत शब्द 'उत्सव' से लिया गया है।",
+        "explanation_hi": "शब्द 'उत्सव' सही वर्तनी के अनुसार लिखा गया है क्योंकि यह शब्द संस्कृत शब्द 'उत्सव' से लिया गया है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "कारक",
+        "question_en": "वाक्य 'राजा ने शत्रु को पराजित कर दिया' में कर्म का कारक क्या है?",
+        "question_hi": "वाक्य 'राजा ने शत्रु को पराजित कर दिया' में कर्म का कारक क्या है?",
+        "A_en": "शत्रु", "A_hi": "शत्रु",
+        "B_en": "राजा", "B_hi": "राजा",
+        "C_en": "पराजित", "C_hi": "पराजित",
+        "D_en": "कर दिया", "D_hi": "कर दिया",
+        "answer": "A",
+        "explanation_en": "शत्रु कर्म के कारक है क्योंकि यह वाक्य में कर्ता के द्वारा किए गए कार्य पर प्रभावित हुआ है।",
+        "explanation_hi": "शत्रु कर्म के कारक है क्योंकि यह वाक्य में कर्ता के द्वारा किए गए कार्य पर प्रभावित हुआ है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "लिंग परिवर्तन",
+        "question_en": "शब्द 'सैनिक' का स्त्रीलिंग रूप क्या है?",
+        "question_hi": "शब्द 'सैनिक' का स्त्रीलिंग रूप क्या है?",
+        "A_en": "सैनिका", "A_hi": "सैनिका",
+        "B_en": "सैनिकिनी", "B_hi": "सैनिकिनी",
+        "C_en": "सैनिकी", "C_hi": "सैनिकी",
+        "D_en": "सैनिकिन", "D_hi": "सैनिकिन",
+        "answer": "A",
+        "explanation_en": "शब्द 'सैनिक' का स्त्रीलिंग रूप 'सैनिका' है क्योंकि इसमें प्रत्यय 'अ' का उपयोग किया गया है।",
+        "explanation_hi": "शब्द 'सैनिक' का स्त्रीलिंग रूप 'सैनिका' है क्योंकि इसमें प्रत्यय 'अ' का उपयोग किया गया है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "संधि विच्छेद",
+        "question_en": "शब्द 'मैत्री' का संधि विच्छेद क्या है?",
+        "question_hi": "शब्द 'मैत्री' का संधि विच्छेद क्या है?",
+        "A_en": "मित्र + ई", "A_hi": "मित्र + ई",
+        "B_en": "मित्री + ई", "B_hi": "मित्री + ई",
+        "C_en": "मित्र + यी", "C_hi": "मित्र + यी",
+        "D_en": "मित्री + ई", "D_hi": "मित्री + ई",
+        "answer": "C",
+        "explanation_en": "'मैत्री' का संधि विच्छेद 'मित्र + यी' है क्योंकि इसमें यति संधि के नियम के अनुसार परिवर्तन हुआ है।",
+        "explanation_hi": "'मैत्री' का संधि विच्छेद 'मित्र + यी' है क्योंकि इसमें यति संधि के नियम के अनुसार परिवर्तन हुआ है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "अनेक शब्दों के लिए एक शब्द",
+        "question_en": "निम्नलिखित में से कौन-सा शब्द 'एक ही बार में कई गाने' का एक शब्द है?",
+        "question_hi": "निम्नलिखित में से कौन-सा शब्द 'एक ही बार में कई गाने' का एक शब्द है?",
+        "A_en": "गाना", "A_hi": "गाना",
+        "B_en": "गीतसंग्रह", "B_hi": "गीतसंग्रह",
+        "C_en": "संगीत समारोह", "C_hi": "संगीत समारोह",
+        "D_en": "गीत कलेक्शन", "D_hi": "गीत कलेक्शन",
+        "answer": "B",
+        "explanation_en": "'गीतसंग्रह' शब्द एक ही बार में कई गानों को शामिल करता है।",
+        "explanation_hi": "'गीतसंग्रह' शब्द एक ही बार में कई गानों को शामिल करता है।"
+    },
+    {
+        "subject": "General Hindi",
+        "topic": "व्याकरण",
+        "question_en": "वाक्य 'उसने
