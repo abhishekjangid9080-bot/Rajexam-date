@@ -1,0 +1,42 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Rao Jodha?",
+"question_hi": "राजस्थान में राजा रायं जोधा ने बनाया किस फोट को?",
+"A_en": "Amber Fort", "A_hi": "एमबर फोट",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्भलगढ़ फोट",
+"D_en": "Jaigarh Fort", "D_hi": "जयगर फोट",
+"answer": "D",
+"explanation_en": "The correct answer is D because Jaigarh Fort was constructed by Raja Jai Singh II of Jaipur. It is also known as the 'Chittorgarh of Rajasthan'.",
+"explanation_hi": "इसका सही उत्तरा है क्योंकि राजा जैसी सिंग II के आदमी के लिए जाय गर फोट है, इसको 'राजमंड़ के उत्तरा है, राजा जैसी सिंग II के एद्यांकि आदमी के लिए जाय गर फोट है, यही 'राजमंड़ के उत्तरा है, राजा जैसी सिंग II के एद्यांकि आदमी के लिए जाय गर फोट है।",
+"question_hi": "राजा जैसी सिंग II के एद्यांकि आदमी के लिए जाय गर फोट है।",
+"options": [
+{
+"option_en": "A) Jaisamand Lake",
+"option_hi": "A) जयसामंद जल्हार",
+"option_key": "A"
+},
+{
+"option_en": "B) Amber Fort",
+"option_hi": "B) आंबर फोट",
+"option_key": "B"
+},
+{
+"option_en": "C) Mehrangarh Fort",
+"option_hi": "C) मेहरंगर",
+"option_key": "C"
+},
+{
+"option_en": "D) Udaipur",
+"option_hi": "D) उदाभूत",
+"option_key": "D"
+},
+{
+"option_en": "E) Chittorgarh Fort",
+"option_hi": "E) चीटोरगाढ़",
+"option_key": "E"
+}
+]
+]
