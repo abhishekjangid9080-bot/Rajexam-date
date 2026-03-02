@@ -1,0 +1,68 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built during the Mughal era?",
+"question_hi": "राजस्थान मुगल से बनाया गया एक बड़ा तैरान है।",
+"A_en": "Amber Fort", "A_hi": "आमर तैरान",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भलगढ़ तैरान",
+"C_en": "Ranthambore Fort", "C_hi": "र���� An example of a high-quality multiple-choice question based on Rajasthan History:
+
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which legendary Rajasthani king is associated with the construction of Mehrangarh Fort?",
+"question_hi": "राजस्थान के लोकीय समुद्रता को मेहनगार के निर्माण के लोकीय समुद्रता को मेहनगार के निर्माण के लोकीय समुद्रता को मेहनगार के निर्माण को कैसी क्या है?",
+"A_en": "Kingdoms of Rajasthan",
+"A_hi": "राजाओं के विभाग",
+"B_en": "Raja Ravi Kumar",
+"B_hi": "राजा राविकुमार",
+"C_en": "Kingdoms of Marwar",
+"C_hi": "मर्वार के विभाग",
+"D_en": "Kingdoms of Mewar",
+"D_hi": "मेवार के विभाग",
+"answer": "C",
+"explanation_en": "The legendary figure associated with the marwar region is Kingdoms of Marwar, known as the valor and bravery of its rulers.",
+"explanation_hi": "मर्वार के विभाग के नामितरों की संगतिमां के विभागों के नामितरों की संगतिमां",
+"options": [
+{
+"option_text": "Kingdoms of Marwar (मर्वार के नामितरों)",
+"option_value": "C"
+},
+{
+"option_text": "Kingdoms of Mewar (मेवार के नामितरों)",
+"option_value": "A"
+},
+{
+"option_text": "Kingdoms of Chittor (चीटुर के नामितरों)",
+"option_value": "D"
+},
+{
+"option_text": "Kingdoms of Bikaner (बिकानेर के नामितरों)",
+"option_value": "B"
+}
+],
+"answer": "D",
+"explanation_en": "The Chittor region is associated with the valour and bravery of its kingdoms. The famous Chittorgarh Fort was built by Rana Kumbha.",
+"explanation_hi": "चिटूर के के नामितरों का समारों के नामितरों के नामितरों",
+"options": [
+{
+"option_text": "Chittor",
+"option_value": "D"
+},
+{
+"option_text": "Chittorgarh",
+"option_value": "D"
+},
+{
+"option_text": "Bikaner",
+"option_value": "B"
+},
+{
+"option_text": "Jaisalmer",
+"option_value": "A"
+}
+],
+"answer": "D",
+"explanation_en": "Chittor region is historically significant for its valour and bravery. Chittor Fort, built by Rana Kumbha, is an example of their strength.",
+"explanation_hi": "चीटूर के के नामितरों के नामितरों के नामितरों का बना अलीमां के नामितरों को अलीमां को नामितरों किमां को नामितरों को अलीमां को नामितरों अलीमां किमां को नामितरों को अलीमां किमां किमां को नामितरों को अलीमां कीमां किमां किमां को अलीमां किमां को अलीमां किमां किमां किमां को अलीमां किमां को अलीमां किमां किमां कीमां कीमां किमां किमां किमां किमां कीमां किमां कीमां किमां किमां किमां कीमां कीमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां किमां
