@@ -1,0 +1,64 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Important Cities",
+"question_en": "What is the capital of Rajasthan and which are some important cities?",
+"question_hi": "राजस्थान की राजधानी और महत्वपूर्ण शहरे क्या हैं?",
+"A_en": "Jaipur, Udaipur, Bikaner, Jodhpur, Alwar",
+"A_hi": "जयपुर, उदयपुर, बीकानेर, जोधपुर, अलवार",
+"B_en": "All of the above",
+"B_hi": "सभी इनको मिलें",
+"C_en": "Jaipur, Udaipur",
+"C_hi": "जयपुर, उदयपुर",
+"D_en": "None of the above",
+"D_hi": "नहीं",
+"answer": "B",
+"explanation_en": "The capital of Rajasthan is Jaipur, and along with Jaipur and Udaipur, the other important cities are Bikaner, Jodhpur, and Alwar. Only the cities mentioned in the options (Jaipur, Udaipur, Bikaner, Jodhpur, and Alwar) are the correct answer.",
+"explanation_hi": "राजस्थान की राजधानी जयपुर हैं, और जयपुर और उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानी, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभिज्ञानियाँ, बिकानें, जोधर, उदयपुर के समान सरकार और सभी विभीं",
+"question_en": "Which city is the capital of Rajasthan and which other cities are important cities related to Rajasthan?",
+"question_hi": "राज़हन को र के समान सरकार और सभान को र को रको, र को र को र को",
+"options_en": [
+{
+"option": [
+{
+"option_en": "Jodhpur",
+"option_hi": "झदपर",
+"option_explanation_en": "Jodhpur",
+"option_hi": "झदपर",
+"option_explanation_hi": "झदपर"
+},
+{
+"option": "Jaisamajka",
+"option_en": "जहदर",
+"option_hi": "झदर",
+"option_explanation_en": "Jaisamajka",
+"option_hi": "झदर",
+},
+{
+"option": "Jaisamajka",
+"option_en": "झदर",
+"option_hi": "झदर",
+"option_explanation_en": "Jaisamajka",
+"option_hi": "झदर"
+},
+{
+"option": "Jaisamajka",
+"option_en": "झदर",
+"option_hi": "झदर",
+"option_explanation_en": "झदर",
+"option_hi": "झदर"
+},
+{"option": "Jaisamajka",
+"option_en": "झदर",
+"option_hi": "झदर",
+"option_explanation_en": "झदर",
+"option_hi": "झदर"}
+]
+"answer": "Jaisamajka",
+"explanation_en": "Jaisamajka",
+"explanation_hi": "झदर",
+"answer_hi": "झदर"},
+"explanation_en": "Jaisamajka",
+"explanation_hi": "झदर"
+} 
+]
