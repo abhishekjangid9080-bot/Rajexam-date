@@ -1,0 +1,70 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan. Rajasthan was established in 1949 when it became a state within the Indian Union.",
+"explanation_hi": "जयपुर राजस्थान की राजधानी है। राजस्थान 1949 में आयदें हुए थे जब उसने भारतीय युद्धों में बनी राज्य बना गया था।",
+"explanation_hindi": "राजस्थान की राजधानी है। राजस्थान ने 1949में भारतीय युद्धों में बना गया था।",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधाना किस समूचकर है।",
+"explanation_en": "The capital of Rajasthan is Jaipur.",
+"explanation_hi": "राजस्थान का राजधाना किस है।",
+"question_hi": "राजस्थान के राजधाना किस समूचकर है।",
+"explanation_hi": "राजस्थान का राजधाना किस है।",
+"question_en": "Which city is the capital of Rajasthan?",
+"explanation_en": "The capital of Rajasthan is Jaipur.",
+"explanation_hi": "राजस्थान का राजधाना किस है।",
+"question_hi": "राजस्थान के राजधाना किस समूचकर को समझ सकते हैं।",
+"explanation_en": "The capital of Rajasthan is Jaipur.",
+"explanation_hi": "राजस्थान के राजधाना को समझ सकते हैं।",
+"question_hi": "राजस्थान के राजधाना किस है?",
+"options": [
+{
+"option_id": 1,
+"option_text_en": "Jodhpur",
+"option_text_hi": "जोधपुर",
+"option_answer_en": "D",
+"option_answer_hi": "द"
+},
+{
+"option_id": 2,
+"option_text_en": "Ajmer",
+"option_text_hi": "आंमे",
+"option_answer_en": "C",
+"option_answer_hi": "छ"
+},
+{
+"option_id": 3,
+"option_text_en": "Jaisamundar",
+"option_text_hi": "जासमूंदार",
+"option_answer_en": "A",
+"option_answer_hi": "आं"
+},
+{
+"option_id": 4,
+"option_text_en": "Kota",
+"option_text_hi": "कोटा",
+"option_answer_en": "B",
+"option_answer_hi": "ब्यास्ता"
+},
+{
+"option_id": 5,
+"option_text_en": "Udaipur",
+"option_text_hi": "उदयपुर",
+"option_answer_en": "E",
+"option_answer_hi": "औदयपुर"
+}
+]
+}
+]
