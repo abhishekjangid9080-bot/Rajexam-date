@@ -1,0 +1,60 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Rulers",
+"question_en": "Which Mughal Emperor granted Rajasthan its own state status?",
+"question_hi": "राजस्थान की मुगल शासन को किस मुगल शासनल के दस्तावस्वरूप मंत्रालय के तथा राजधानी लोकेश्वर कहानी से मिला।",
+"A_en": "Aurangzeb",
+"A_hi": "अर्नजीब",
+"B_en": "Shah Jehan",
+"B_hi": "शाह जहाँ",
+"C_en": "Rajput Ranas",
+"C_hi": "राजपूती लोकेश्वर कहानी",
+"D_en": "Mughal Emperors",
+"D_hi": "मुगल शासनल",
+"answer": "B",
+"explanation_en": "Aurangzeb was a Mughal Emperor who granted Rajasthan its own state status. Shah Jehan, on the other hand, is famous for building the Taj Mahal. Rajput Ranas are the native rulers of Rajasthan while Mughal Emperors are the central government rulers who ruled over a larger area including Rajasthan. So, the correct answer is Mughal Emperor Shah Jehan.",
+"explanation_hi": "राजस्थान को अर्थां कहानी का नाम आया था, जो राजस्थान के अपीलाई करवाई है। राजपुर्वार उन्दादेल के नाम है, जो राजस्थान के अन्तर्षित्रियां हैं, जो राजस्थान के अपीलाई करवाहनी है। मुगल शास्तर्षित्रियां हैं, जो राजस्थान के अपीलाई करवाहनी है।",
+"question_en": "Who were the rulers of Rajasthan before the establishment of Rathore dynasty?",
+"question_hi": "राजस्थान के पहल स्वतर्षित्रियां हैं।",
+"A_en": "Rathores",
+"A_hi": "रातोर",
+"B_en": "Jat Rulers",
+"B_hi": "जात स्वतर्षित्रियां हैं।",
+"C_en": "Meenas",
+"C_hi": "मेणाज",
+"D_en": "Meenas",
+"D_hi": "मेणाज",
+"answer": "B",
+"explanation_en": "The Jat rulers were the rulers of Rajasthan before the establishment of the Rathore dynasty. The Rathores were established later. The Meenas and Meenas are also tribes, not dynasties. The correct answer is Jat Rulers.",
+"explanation_hi": "राजस्तर्षित्रियां राजमंडेल को तैयां हैं। रातोर मेणाज के स्वतर्षित्रियां हैं।",
+"question_en": "Who were the rulers of Rajasthan before the establishment of the Rathore dynasty?",
+"question_hi": "राजस्तर्षित्रियां को तैयां हैं।",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Jat Rulers",
+"option_answer_en": "B",
+"option_answer_hi": "जयावेमेणाज को तैयां हैं।",
+},
+{
+"option_id": 2,
+"option_text": "Rathores",
+"option_answer_en": "A",
+"option_answer_hi": "रातोर",
+},
+{
+"option_id": 3,
+"option_text": "Jat Rulers (again)",
+"option_answer_en": "D",
+"option_answer_hi": "जयावेमेणाज को तैयां हैं।",
+},
+{
+"option_id": 4,
+"option_text": "Tikamgarh Rajputs",
+"option_answer_en": "E",
+"option_answer_hi": "तेणाज",
+}]
+] 
+
+}
