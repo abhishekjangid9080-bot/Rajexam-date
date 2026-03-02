@@ -1,0 +1,86 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Ratan Singh of Kachhwaha clan?",
+"question_hi": "राजस्थान में राजा रत्न सिंह के कचहवाई की श्रेष्ठ कलाकरणमूल उत्तराधिका ?",
+"A_en": "Amer Fort", "A_hi": "अमेर कलाकरणमूल",
+"B_en": "Mehrangarh Fort", "B_hi": "मेहरांगर",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुभलगढ़ कलाकरणमूल",
+"D_en": "Jaigarh Fort", "D_hi": "जयजगर",
+"answer": "C",
+"explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha of the Kachhwaha clan.",
+"explanation_hi": "कुभलगढ़ कलाकरणमूल राणा कुभूष के कच्छवाहन कलाकरणमूल",
+}
+{
+"subject": "Rajasthan History",
+"topic": "Political Geography of Rajasthan",
+"question_en": "Which of the following is/are the states that share their border with Rajasthan?",
+"question_hi": "राजस्थान के सांचाई के लोकी शालों के कुटकर कलाकरणमूल",
+"options": [
+{
+"option_en": "Haryana",
+"option_hi": "हरियां",
+"correct": "True"
+},
+{
+"option_en": "Mewar",
+"option_hi": "याराचं",
+"correct": "True"
+},
+{
+"option_en": "Gujarat",
+"option_hi": "गुजाराचं",
+"correct": "True"
+},
+{
+"option_en": "Punjab",
+"option_hi": "पुजाराचं",
+"correct": "False"
+},
+{
+"option_en": "Maharashtra",
+"option_hi": "महाराष्ट्र",
+"correct": "False"
+},
+{
+"option_en": "Gujarat (Gujarat)",
+"option_hi": "गुजाराचं",
+"correct": "True"
+}
+]
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Literature",
+"question_en": "Which of the following is/are the oldest book/books in Rajasthani literature?",
+"question_hi": "राजस्थान के शैलें",
+"options": [
+{
+"option_en": "Raja Ravi's Mahatmya",
+"option_hi": "राजा रावीं का महात्म्या।",
+"correct": "True"
+},
+{
+"option_en": "Tansen's Geet Chowk",
+"option_hi": "तांसेन का गीत चौक",
+"correct": "False"
+},
+{
+"option_en": "Rao Kunwar Singh's Tika Tircha",
+"option_hi": "रावाज कुनौर सिंग के तिका तिचा",
+"correct": "True"
+},
+{
+"option_en": "Meera Bai's Geet Sagar",
+"option_hi": "मीर बाई के गीत सागार",
+"correct": "False"
+},
+{
+"option_en": "Rao Jodhaji's Jhalamand",
+"option_hi": "रावाज Rao झालंद",
+"correct": "False"
+}
+]
+}
+]
