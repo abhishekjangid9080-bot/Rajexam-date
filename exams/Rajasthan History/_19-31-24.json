@@ -1,0 +1,48 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the birthplace of Maharana Pratap?",
+"question_hi": "महाराज महराना प्रतिप की जन्मस्थान कहने के लिए",
+"A_en": "Amber Fort",
+"A_hi": "आमरण कंधरा",
+"B_en": "Udaipur",
+"B_hi": "उदयपुर",
+"C_en": "Chittorgarh",
+"C_hi": "चैटर्गर",
+"D_en": "Jodhpur",
+"D_hi": "झोंडपुर",
+"answer": "C",
+"explanation_en": "Maharana Pratap was born in Chittorgarh. Chittorgarh is his birthplace.",
+"explanation_hi": "महाराज प्रतिप को चैटर्गर में निवास करने के लिए",
+"options": [
+{
+"option_number": 1,
+"option_text_en": "Amber Fort",
+"option_text_hi": "आमरण कंधरा",
+"option_score_en": 2,
+"option_score_hi": 2
+},
+{
+"option_number": 2,
+"option_text_en": "Udaipur",
+"option_text_hi": "उदयपुर",
+"option_score_en": 3,
+"option_score_hi": 3
+},
+{
+"option_number": 3,
+"option_text_en": "Chittorgarh",
+"option_text_hi": "चैटर्गर",
+"option_score_en": 4,
+"option_score_hi": 4
+},
+{
+"option_number": 4,
+"option_text_en": "Jodhpur",
+"option_text_hi": "झोदपुर",
+"option_score_en": 1,
+"option_score_hi": 1
+}
+]
+}
