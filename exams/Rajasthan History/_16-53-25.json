@@ -1,0 +1,44 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan is known as 'Padmini's Palace'?",
+"question_hi": "राजस्थान में किस प्रमोशन के नाम के साथ जाने का लेखनी में एक लक्ष्मी का संदर्भ होता है?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका मंगल",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाख़ास",
+"C_en": "Hawa Mahal", "C_hi": "हवा महाल",
+"D_en": "Sisod Fort", "D_hi": "सिसोड वनम",
+"answer": "C",
+"explanation_en": "Hawa Mahal is the palace in Jaipur that is associated with the story of Queen Padmavati. It is also known as 'Palace of Winds'.",
+"explanation_hi": "जापान में पदवाई के कलेंद्रा का संदेश है। Hawa Mahal ये जापान में एक वैशाख है। उसके मानवी का नाम भी है, 'पालींद्रा'।",
+"explanation_hi": "जापान में पैशाख का संदेश है। इसकी मानवी सीख में भी है।",
+"question_en": "Which famous palace is associated with the story of Queen Padmavati in Jaipur?",
+"question_hi": "जापान में पालींद्रा का संतुरन है।",
+"options": [
+  {
+    "option_id": 1,
+    "option_text": "पालींद्रा",
+    "option_type": "name",
+    "option_value": "Padmavati"
+  },
+  {
+    "option_id": 2,
+    "option_text": "मानवी सीख",
+    "option_type": "name",
+    "option_value": "Padmavati"
+  },
+  {
+    "option_id": 3,
+    "option_text": "पैशाख",
+    "option_type": "name",
+    "option_value": "Padmavati"
+  },
+  {
+    "option_id": 4,
+    "option_text": "कर्मणी",
+    "option_type": "name",
+    "option_value": "Padmavati"
+  }
+],
+"answer_id": 3
+]
