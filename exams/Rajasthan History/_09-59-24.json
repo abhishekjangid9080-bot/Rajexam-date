@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous lake is located in Udaipur?",
+"question_hi": "उदयपुर में कौन सा उच्चतम नामक पटल है।",
+"A_en": "Fateh Sagar", "A_hi": "फटहर सागर",
+"B_en": "Udaipur Lake", "B_hi": "उदयपुर पटल",
+"C_en": "Sajjan Garh Lake", "C_hi": "सज्जन गढ़ पटल",
+"D_en": "Shekhawati Region", "D_hi": "शेखावाटी क्षेत्र",
+"answer": "C",
+"explanation_en": "Sajjan Garh Lake is the highest-profile lake named after a historical fort in Udaipur, Rajasthan.",
+"explanation_hi": "उदयपुर, राजस्थान, एक हिस्साहूद का एक महासम्पनी के नामें से निर्माण के लिए बना एसियां हैं।",
+"question_en": "Which famous lake in Udaipur is named after a fort built by the Sisodia clan in Rajasthan?",
+"question_hi": "उदयपुर में सीसोदी की कैलीं में निर्माण के लिए बना एसियां हैं।",
+}
+]
