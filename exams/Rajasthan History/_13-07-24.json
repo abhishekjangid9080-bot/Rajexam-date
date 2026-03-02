@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Sites",
+"question_en": "Which of the following is a famous historical site in Rajasthan?",
+"question_hi": "राजस्थान में कौन-सा आत्मनिविक इतिहासिक स्थान है?",
+"A_en": "Amber Fort",
+"A_hi": "आमर फोट",
+"B_en": "Hawa Mahal",
+"B_hi": "हावा महाल",
+"C_en": "Mehrangarh Fort",
+"C_hi": "मेहरांगर फोट",
+"D_en": "Birla Mandir",
+"D_hi": "बीरला मंदिर",
+"answer": "C",
+"explanation_en": "Mehrangarh Fort is a famous historical site in Rajasthan.",
+"explanation_hi": "मेहरांगर फोट, राजस्थान में इतिहासिक स्थल है।",
+}
+]
