@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous forts were built during the reign of Mughal Emperor Akbar in Rajasthan?",
+"question_hi": "मगही राजा अकबर के अधिकांत में राजस्थान में बनाया गया कौन से नज़रूढ़? ",
+"A_en": "Amber Fort, Meena Bazar, Kumbhalgarh",
+"A_hi": "अमरी नज़रूढ़, मेना बाजार, कुम्भलगड",
+"B_en": "Meetoli Fort, Kumbhalgarh Fort, Amber Fort",
+"B_hi": "मेटोली नज़रूढ़, कुम्भलगड़, अमरी नज़रूढ़",
+"C_en": "Amber Fort, Meera Fort, Kumbhalgarh Fort",
+"C_hi": "अमरी नज़रूढ़, मीरा नज़रूढ़, कुम्भलगड़",
+"D_en": "Amber Fort, Amer Fort, Kumbhalgarh Fort",
+"D_hi": "अमरी नज़रूढ़, अमेरा नज़रूढ़, कुम्भलगड़",
+"answer": "A",
+"explanation_en": "Amber Fort, Amer Fort, Kumbhalgarh Fort are the three famous forts built during the reign of Rajput kings in Rajasthan.",
+"explanation_hi": "जैनगान, अमेरा नज़रूढ़, कुम्भलगड़",
+}
