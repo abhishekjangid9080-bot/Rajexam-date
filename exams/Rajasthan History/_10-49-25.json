@@ -1,0 +1,74 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a princely state in Rajasthan?",
+"question_hi": "राजस्थान में नहीं हैंग स्थान कौन है?",
+"A_en": "Jaisalmer", "A_hi": "जयसालमेर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Meerut", "D_hi": "मीरूट",
+"answer": "D",
+"explanation_en": "Meerut is not a princely state in Rajasthan.",
+"explanation_hi": "राजस्थान में मीरूट एक राजनागत स्थान नहीं है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following was the capital of Mewar Dynasty?",
+"question_hi": "मेवार प्राज्ञान में सबसे बागूनी अंगूर द्वांची कोणत को विभवित होणी स्रोत एक अंगूर द्वांची कोणत विभवित होणी स्रोत एक अंगूर द्वांची कोणत विभवित होणी स्रोत एक अंगूर द्वांची कोणत विभवित होणी स्रोत एक अंगूर द्वांची कोणत विभवित होणी स्रोत एक अंगूर द्वांची कोणत विभवित होणी स्रोत एक अंगूर द्वांची कोणत विभवित होणी स्रोत",
+"question_hi": "राजाजी के बंगों कोणते विभवित होणी स्रोत",
+"options": [
+{
+"option_id": "A",
+"option_text_en": "Jaipur",
+"option_text_hi": "जापुर",
+"option_correct": "B"
+},
+{
+"option_id": "B",
+"option_text_en": "Jodhpur",
+"option_text_hi": "जोधपुर",
+"option_correct": "A"
+},
+{
+"option_id": "C",
+"option_text_en": "Udaipur",
+"option_text_hi": "उदयपुर",
+"option_correct": "C"
+},
+{
+"option_id": "D",
+"option_text_en": "Alwar",
+"option_text_hi": "अलवार",
+"option_correct": "D"
+}
+],
+"answer_en": "Jodhpur",
+"answer_hi": "जोधपुर",
+"explanation_en": "Jodhpur was the capital of the Rathore dynasty.",
+"explanation_hi": "जोधपुर विभवित रातोर जनियां संत्रकार राजधि",
+"explanation_en_html": "<p>Jodhpur was the capital of the Rathore dynasty.<br>The Rathore dynasty was a Rajput clan that ruled over Rajasthan from the 12th to the 17th century.<br>The Rathore rulers built many forts and palaces in Jodhpur, making it a historical city.</p>",
+"explanation_hi_html": "<p>जोधपुर विभवित रातोर जनियां संत्रकार राजधि<br>रातोर जनियां संत्रकार राजधि",
+"answer_en": "B",
+"answer_hi": "यां संत्रकार राजधि",
+},
+{
+"subject": "Rajasthan",
+"topic": "Jaipur",
+"question_en": "What is the Jaipur's importance in Rajasthan history?",
+"question_hi": "जापियां संत्रकार राजधि",
+"A_en": "Capital",
+"A_hi": "कार राजधि",
+"B_en": "Site of Forts",
+"B_hi": "संत्रकार राजधि",
+"C_en": "Importance of Temples",
+"C_hi": "संत्रकार राजधि",
+"D_en": "Tradition",
+"D_hi": "संत्रकार राजधि",
+"answer_en": "B",
+"answer_hi": "संत्रकार राजधि",
+"explanation_en": "Jaipur is known for its historical forts and palaces built during the Mughal period.",
+"explanation_hi": "जापर राजधि",
+}
+]
