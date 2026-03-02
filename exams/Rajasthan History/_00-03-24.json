@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical monument can be found in Jaipur?",
+"question_hi": "जयपुर में किस इतिहासी मंदिर मौजूद है।",
+"A_en": "Amber Fort", "A_hi": "अमेर कंदरि",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "City Palace", "C_hi": "शहर अभिकांद",
+"D_en": "Gaitor", "D_hi": "गाईटॉर",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a historical monument located in Jaipur.",
+"explanation_hi": "हवा महाल जयपुर में इतिहासी मंदिर है।"
+}
+]
