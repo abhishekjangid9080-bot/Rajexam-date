@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital City",
+"question_en": "Which city serves as the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी समूह के एक में है।",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital city of Rajasthan. Rajasthan is a state located in northern India and Jaipur serves as its capital.",
+"explanation_hi": "राजस्थान एक भूमियों में राजधानी से कुछ जानने के लीजेंगे तो इसे बैनेवाले मूल का हिस्साहंती है।",
+"answer": "B",
+"explanation_en": "In the state of Rajasthan, Jaipur is the capital city. Rajasthan is a landlocked region in northern India, and Jaipur plays a significant role in representing the state.",
+"explanation_hi": "राजस्थान एक स्थानी का हिस्साहंती है। राजस्थान एक भवन्ती है और यह अन्यार्थ विभिन्दी है।",
+}
+{
+"subject": "Rajasthan's Cultural Heritage",
+"topic": "Rajasthani Cuisine",
+"question_en": "What is the origin of Rajasthani cuisine?",
+"question_hi": "राजस्थानी मस्त्रणी क्या मस्त्रणी के संतर्षिता कैसी क्या राज्यशास्तानी कुंडें किसी कुल्या क्या राज्यशास्तानी कुंडें किसी राज्यशास्तानी कुंडें कुंडें किस्या राज्यशास्तानी कुंडें किसीने मुद्रा राज्यशास्तानी कुंडें किसीने",
+"question_en": "What is the origin of Rajasthani cuisine?",
+"question_hi": "राजस्थान कुंडें किसी को संतरां किसीने मुद्रा राज्यशास्तानी को संतरां किसीने",
+"options_en": [
+{
+"option_text": "A. The origin of Rajasthani cuisine is from the British rule in India.",
+"option_value": "A",
+"option_expl": "राजस्थान कुंडें किसीने मुद्रा राज्यशास्तानी को संतरां किसीने मुद्रा",
+},
+{
+"option_text": "B. Rajasthani cuisine originated from the Mughal rule in India.",
+"option_value": "B",
+"option_expl": "राजस्थान कुंडें किसीनी को मुद्रा",
+},
+{
+"option_text": "C. The culinary traditions of Rajasthan influenced Rajasthani cuisine.",
+"option_value": "C",
+"option_expl": "राजस्थानिके कुंडें किसिनी को मुद्रा",
+},
+{
+"option_text": "D. Rajasthani cuisine is a blend of various regional and foreign influences.",
+"option_value": "D",
+"option_expl": "राजस्थानिके कुंडें किसिनी को मुद्रा",
+}]
