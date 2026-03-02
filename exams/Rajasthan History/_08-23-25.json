@@ -1,0 +1,84 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which fort in Rajasthan was built by Raja Rao Jodha?",
+"question_hi": "राजा राव जोधा ने बनाया है।",
+"A_en": "Amer Fort", "A_hi": "अमेर कंट्रॉल",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भलगढ़ कंट्रॉल",
+"C_en": "Mehrangarh Fort", "C_hi": "मेरंगर कंट्रॉल",
+"D_en": "Jaipur Fort", "D_hi": "जयपुर कंट्रॉल",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort was built by Raja Rao Jodha.",
+"explanation_hi": "कुम्भलगढ़ कंट्रॉल, Raja Rao Jodha ne banaya hai.\n\nइसके लिए सबसे बढ़ाई करने वाला Raja Rao Jodha ने Kumbhalgarh Fort के लिए से लिए।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Raja Rao Jodha",
+"question_en": "Who is the author of the book 'Mera Rajasthan', a popular book about Rajasthan?",
+"question_hi": "मैं 'मेरा राजस्थान' का लेखना कौन से किया है, इसका एक प्रश्न के लेखना से लिए।",
+"answer": "केना",
+"explanation_en": "Khena was the author of the book 'Mera Rajasthan'. This book is popular for its vivid description of various aspects of Rajasthan.",
+"explanation_hi": "केना राजस्थान का 'मेरा राजस्थान' का लेखना से लिएका है, इसका एक विच्छाता कोर्ना",
+"options": [
+{
+"option_id": 1,
+"option_text": "पूर्वासना",
+"option_explain_hi": "पूर्वासना राजना का एक मुजार्ना",
+"option_explain_en": "Porusa was the author of another book about Rajasthan.",
+},
+{
+"option_id": 2,
+"option_text": "केना",
+"option_explain_hi": "केना राजना का एक मुजार्ना",
+"option_explain_en": "Khena was the author of a book on Rajasthan.",
+},
+{
+"option_id": 3,
+"option_text": "पूर्वासना",
+"option_explain_hi": "पूर्वासना राजना का एक मुजार्ना",
+"option_explain_en": "Porusa authored a book about the history of Rajasthan.",
+},
+{
+"option_id": 4,
+"option_text": "केना",
+"option_explain_hi": "केना राजना का एक मुजार्ना",
+"option_explain_en": "Khena wrote a book focusing on the culture of Rajasthan.",
+},
+{
+"option_id": 5,
+"option_text": "पूर्वासना",
+"option_explain_hi": "पूर्वासना राजना का एक मुजार्ना",
+"option_explain_en": "Porusa authored a book on geography of Rajasthan.",
+},
+{
+"option_id": 6,
+"option_text": "केना",
+"option_explain_hi": "केना राजना का एक मुजार्ना",
+"option_explain_en": "Khena wrote a book about the history of Rajasthan.",
+},
+{
+"option_id": 7,
+"option_text": "पूर्वासना",
+"option_explain_hi": "पूर्वासना राजना का एक मुजार्ना",
+"option_explain_en": "Porusa authored a book about the geography of Rajasthan.",
+},
+{
+"option_id": 8,
+"option_text": "केना",
+"option_explain_hi": "केना राजना का एक मुजार्ना",
+"option_explain_en": "Khena wrote a book on the culture of Rajasthan.",
+},
+{
+"option_id": 9,
+"option_text": "पूराजना",
+"option_explain_hi": "पवाजना का एक मुजार्ना",
+"option_explain_en": "Paurāṃā wrote a book on the history of Rajasthan.",
+},
+{
+"option_id": 10,
+"option_text": "करेना",
+"option_explain_hi": "करेना का एक मुजार्ना",
+"option_explain_en": "Karṃā wrote a book on the traditions and customs of Rajasthan.",
+}
+]
