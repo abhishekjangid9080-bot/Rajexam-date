@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace in Jaipur was built by Maharaja Jai Singh II?",
+"question_hi": "जैनिष्क राजधानी के लिए महाराजा जैनिष्क राजधानी के लिए बनाया गया सबसे पसंदीदा पैलेस्टर क्या है?",
+"A_en": "Amer Fort",
+"A_hi": "एमर फॉट",
+"B_en": "Hawa Mahal",
+"B_hi": "हावा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Mansingh",
+"C_hi": "सवाई महाराजा सावाई मंसिंग का कितना मौनिशा क्या है?",
+"C_hi": "सावाई महाराजा सावाई का कितना मौनिशा क्या है?",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace in Jaipur, built by Maharaja Sawai Mansingh II. The Cenotaph of Maharaja Sawai Mansingh is located in Ajmer.",
+"explanation_hi": "सावाई महाराजा सावाई का कितना मौनिशा क्या है?",
+"explanation_hi": "सावाई महाराजा का कितना मौनिशा क्या है?",
+"answer_hi": "ब",
+"explanation_en": "Hawa Mahal is a famous palace in Jaipur, built by Maharaja Sawai Mansingh II. The Cenotaph of Maharaja Sawai Mansingh is located in Ajmer.",
+}]
