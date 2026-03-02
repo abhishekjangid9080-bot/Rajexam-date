@@ -1,0 +1,78 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan in Mughal Era",
+"question_en": "Which Mughal Emperor granted the title of Raja to Rao Jodha?",
+"question_hi": "राजस्थान मुगल समय में राव जोध को 'राजा' का नाम दिया गया गया था।",
+"A_en": "Aurangzeb",
+"A_hi": "आरोंगजी",
+"B_en": "Bahadur Shah Zafar",
+"B_hi": "बाहदूर शाह जाफ़र",
+"C_en": "Albert Einstein",
+"C_hi": "अल्बर्ट इन्स्टीन",
+"D_en": "Shivaji",
+"D_hi": "शीवाजी",
+"answer": "B",
+"explanation_en": "Aurangzeb was the Mughal Emperor who granted the title of Raja to Rao Jodha. He founded the city of Jodhpur in 1459 AD. Rao Jodha was a Rathore Rajput chieftain who joined forces with Mughal Emperor Akbar to protect his territory from the Mughals and the Marathas. In return, Akbar granted him the title of Raja and founded the city of Jodhpur.",
+"explanation_hi": "आरोंगजी मुगल सरकार ने राव जोध को राजा का नाम दी गई। उन्हे 1459 AD में मुगल सरकार ने जोध को राजा का नाम दिया था। उन्हे जोध को श्रेणी में जोध को भारी सरकार ने की श्रेणी में जोध को बीमा सरकार ने की श्रेणी में जोध को संतुमान",
+"question_en": "Who was the Mughal emperor who granted Jodhpur to Rao Jodha?",
+"question_hi": "जोध को राजा के लिए बीमा सरकार ने।",
+"answer_en": "Bahadur Shah Zafar",
+"answer_hi": "बीमा सरकार",
+"options": [
+{
+"option_en": "Jahangir",
+"option_hi": "जाहांगर",
+"correct": false
+},
+{
+"option_en": "Mughal emperor of Rajasthan",
+"option_hi": "राजा मुगली का चिंतुमान",
+"correct": false
+},
+{
+"option_en": "Jai Singh II",
+"option_hi": "जैरसिंगी सी सुद्रो",
+"correct": true
+},
+{
+"option_en": "Rana Kumbha",
+"option_hi": "राणा कुम्भा",
+"correct": false
+}
+],
+"explanation_en": "Bahadur Shah Zafar was the Mughal emperor who granted Jodhpur to Rao Jodha. He was the last Mughal emperor of the Gujarat dynasty and ruled from 1713 to 1754 AD.",
+"explanation_hi": "बीमा सरकार ने जोध को जोध के संतुमान करनिकांद्र के संतुमान को चिंतुमान करनिकांद्र",
+"options": [
+{
+"option_en": "Jahangir",
+"option_hi": "जहांगी जोध",
+"correct": false
+},
+{
+"option_en": "Shivaji",
+"option_hi": "शिवाजी",
+"correct": false
+},
+{
+"option_en": "Aurangzeb",
+"option_hi": "अरोंगी उमान",
+"correct": false
+},
+{
+"option_en": "Mughal Emperor of Gujarat",
+"option_hi": "गजर मुगली संतुमान",
+"correct": true
+}
+],
+"explanation_en": "Mughal Emperor of Gujarat, Bahadur Shah Zafar, granted Jodhpur to Rao Jodha in 1561 AD. Rao Jodha was a Rajput chieftain from Marwar region and founded the city of Jodhpur.",
+"explanation_hi": "गजर संतुमान, जहंगियान को गजर संतुमान (1561 AD मंगियान को गजर संतुमान को गियान को गजर संतुमान (1561 AD)",
+"explanation_en": "Bahadur Shah Zafar",
+"explanation_hi": "गजर संतुमान (1561 AD गजर संतुमान)",
+"answer": "गर संतुमान",
+"explanation_en": "Bahadur Shah Zafar was the Mughal Emperor who granted the city of Jodhpur to Rao Jodha in 1561 AD",
+"explanation_hi": "गजर संतुमान (1561 AD)",
+"explanation_en": "Bahadur Shah Zafar",
+"explanation_hi": "गजर संतुमान (1561 AD)",
+"answer": "गर संतुमान",
+]
