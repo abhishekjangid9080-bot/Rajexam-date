@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Rai Singh?",
+"question_hi": "राजस्थान में राजा राय सिंह ने किस पसंदीदा किया है?",
+"A_en": "Amer Fort", "A_hi": "एमर फोट",
+"B_en": "Chand Baori", "B_hi": "छंद बाउरी",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुंभालगढ़ फोट",
+"D_en": "Mehrangarh Fort", "D_hi": "मेहनंतरी फोट",
+"answer": "C",
+"explanation_en": "Kumbhalgarh Fort was built by Rana Kumbha.",
+"explanation_hi": "रानी कुम्भालगढ़ फोट के लिए किया गया है।",
+}
+]
