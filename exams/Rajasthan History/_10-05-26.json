@@ -1,0 +1,83 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस मंगलवाल है ?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका मंगलवाल",
+"B_en": "Hawa Mahal", "B_hi": "हावा मंगलवाल",
+"C_en": "Cenotaph of Sawai Jai Singh II", "C_hi": "सवाई जयजी सिंगी की विचारणी",
+"D_en": "Jal Mahal", "D_hi": "जल महाल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous landmark located in Jaipur, known for its unique design and architecture.\nहावा महाल जयपुर में स्थित है और इसका विशेष प्रतिक्रमण के आधार का निर्गती का प्रतिक्रमण के आधार का स्पष्टिका निर्गती का प्रतिकृता से संबंधित हुई का निर्गती का प्रतिका निर्गती से संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका निर्गती का संबंधित हुई का प्रतिका",
+"question_en": "Which monument is connected to the life of Pratap Singh Kaira? ",
+"question_hi": "प्रतिका निर्गती का संबंधित हुए मौनिर्गती का प्रतिका",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Pratapgarh Fort",
+"option_explain": "It is a historical fort built by Pratap Singh Kaira.",
+},
+{
+"option_id": 2,
+"option_text": "Jagatpura",
+"option_explain": "A village named after Pratap Singh Kaira.",
+},
+{
+"option_id": 3,
+"option_text": "Neem Ka Dhera",
+"option_explain": "A fort built by Pratap Singh Kaira in the 18th century.",
+},
+{
+"option_id": 4,
+"option_text": "Pratapgarh",
+"option_explain": "A historical fort located in Chittor",
+},
+{
+"option_id": 5,
+"option_text": "Pratapgarh",
+"option_explain": "प्रतापगड़हा",
+},
+{
+"option_id": 6,
+"option_text": "Pratapgarh",
+"option_explain": "प्रतापगड़हा",
+}
+],
+"options_hi": [
+{
+"option_id": 1,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा का एसंटपगड़हा",
+},
+{
+"option_id": 2,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा",
+},
+{
+"option_id": 3,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा",
+},
+{
+"option_id": 4,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा",
+},
+{
+"option_id": 5,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा",
+},
+{
+"option_id": 6,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा"
+},
+{
+"option_id": 7,
+"option_text": "प्रतापगड़हा",
+"option_explain": "प्रतापगड़हा"
+}
+]
