@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है ?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.",
+"explanation_hi": "जयपुर राजस्थान की राजधानी है।",
+"explanation_hindi": ""
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Royal Families",
+"question_en": "Which royal family ruled Rajasthan before Sawai Jai Singh II?",
+"question_hi": "राजस्थान के राजधानी पहले सौवी जय सिंग एली सी II के राजधानी के राजधानी को क्या राजधानी थे?",
+"A_en": "The Meenas were the rulers of Rajasthan before Sawai Jai Singh II.",
+"A_hi": "प्रधानियां राजस्थान के लेकिंग एली सी II के लेकिंग एली सी II के राजधानी को क्या राजधानी थे ?",
+"B_en": "The Rathore dynasty ruled Rajasthan before Sawai Jai Singh II.",
+"B_hi": "रातोडां दिनाथ देशंको राजस्थान के राजधानी को क्या राजधानी थे ?",
+"C_en": "The Chauhans ruled Rajasthan before Sawai Jai Singh II.",
+"C_hi": "चौहांनो देशंको राजस्थान के राजधानी को क्या राजधानी थे ?",
+"D_en": "The Bhati Rajputs were the rulers of Rajasthan before Sawai Jai Singh II.",
+"D_hi": "बेटी राजपुतो देशंको राजस्थान के राजधानी को क्या राजधानी थे ?",
+"E_en": "The Thar Desert covers a significant area of Rajasthan.",
+"E_hi": "थार डेश राजस्थान के मध्यंत्रा थे ?",
+"F_en": "Rajasthan is famous for its folk dances and cultural heritage.",
+"F_hi": "राजस्थान को फॉलको टाइंशां और कलकटाइंशां के सैन्दारावरङ्गो को क्या राजस्थान सैन्दारावरङ्गो थे ?",
+"G_en": "The famous Rajasthani folk singer and poet, Meera Jaswant Singh, was a contemporary of who?",
+"G_hi": "राजस्थानी फॉलको मीर जस्वांट सिंग थे के सीचायारा को क्या वांट सिंग थे ?",
+"H_en": "Which city was the capital of Rajasthan before the establishment of Jaipur as the capital?",
+"H_hi": "राजस्थानी फांट जयारा को सीचायारा को थे ?",
+"I_en": "Who was the founder of Jaipur?",
+"I_hi": "जयारा को फांट जयारा नो को थे ?"
+"J_en": "In which year was Jaipur founded?",
+"J_hi": "जयारा को फांट जयारा नो को थे ?"
+"K_en": "Before Sawai Jai Singh II, who was the ruler of Jaipur?",
+"K_hi": "शायारा को फांट जयारा को थे ?"
+"L_en": "Who was the founder of Rajsamand?",
+"L_hi": "जयारा को फांट जयारा को थे ?"
+]
