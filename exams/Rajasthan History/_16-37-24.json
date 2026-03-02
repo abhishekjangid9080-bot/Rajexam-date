@@ -1,0 +1,21 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which battle did Maharaja Sawai Pratap Singh of Jaipur win against the Afghan invaders?",
+"question_hi": "जापुर के महाराजा सवाई प्रतिपाल सिंग के लिए अफ़सोत के वास्तविक हिल का विरोध है।",
+"A_en": "First Battle of Alwar",
+"A_hi": "एलवार की पहली मुख्यतम",
+"B_en": "Second Battle of Alwar",
+"B_hi": "दूसरी एलवार मुख्यतम",
+"C_en": "First Battle of Haldighati",
+"C_hi": "हल्दिघटी की पहली",
+"D_en": "First Battle of Jhansi",
+"D_hi": "जनसी की पहली",
+"answer": "C",
+"explanation_en": "Maharana Pratap of Mewar won the First Battle of Haldighati against Aurangzeb.",
+"explanation_hi": "मेवारा प्रताप ने हल्दिघटी के पहली में अवरुंग़ी को हिल केला।",
+"D_explanation_en": "The first battle of Jhansi was fought between Rana Pratap of Mewar and Aurangzeb.",
+"D_explanation_hi": "मेवारा प्रताप ने अवरुंगी के में हिल केला।",
+}
+]
