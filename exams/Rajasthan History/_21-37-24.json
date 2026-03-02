@@ -1,0 +1,34 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous forts in Rajasthan were built during the reign of the Mughals?",
+"question_hi": "मुगल राजां के अधिकांचां राजशास्त्री की मूलबोधिनी के अनुसार किये गए किताबों में से कौन से फोट पहले हैं?",
+"options": [
+{
+"option_en": "A) Ranthambore Fort",
+"option_hi": "A) रंथंबोरी Fort",
+"option_explanation": "Ranthambore Fort is a famous fort located in Sawai Madhopur district of Rajasthan. It was built by Rawal Jaisal in 1156 AD."
+},
+{
+"option_en": "B) Chittorgarh Fort",
+"option_hi": "B) चीट्रोगार फोट",
+"option_explanation": "Chittorgarh Fort is a historic fort located in Chittorgarh district, Rajasthan. It was built by Rawal Meera in 944 AD."
+},
+{
+"option_en": "C) Amber Fort",
+"option_hi": "C) अमेर फोट",
+"option_explanation": "Amber Fort is a historic fort located in Jaipur district, Rajasthan. It was built by Rawal Jai Singh in 1592 AD."
+},
+{
+"option_en": "D) Mehrangarh Fort",
+"option_hi": "D) मेहनगर फोट",
+"option_explanation": "Mehrangarh Fort is a historic fort located in Jodhpur district, Rajasthan. It was built by Rao Jodhpur in 1459 AD."
+},
+{
+"option_en": "E) Kumbhalgarh Fort",
+"option_hi": "E) कुमभागमगढ़ फोट",
+"option_explanation": "Kumbhalgarh Fort is a historic fort located in Kumbhalgarh district, Rajasthan. It was built by Rana Kumbha in 1443 AD."
+}
+]
+]
