@@ -1,0 +1,33 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical battle was fought between Rana Kumbha and Akbar?",
+"question_hi": "राणा कुम्भा और अकबर के बीच किस भवनी काम हुआ था ?",
+"A_en": "Battle of Khanwa", "A_hi": "कहने काम",
+"B_en": "Battle of Tukaro", "B_hi": "तुकारो काम",
+"C_en": "Battle of Haldi Ghat", "C_hi": "हल्दी घटना",
+"D_en": "Battle of Ajmer", "D_hi": "अजमेर काम",
+"answer": "C",
+"explanation_en": "The Battle of Haldi Ghat was fought between Rana Kumbha and Akbar.",
+"explanation_hi": "राणा कुम्भा और अकबर के बीच किस भवनी काम हुआ था ?"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Arts and Crafts",
+"question_en": "Which art form of Rajasthan is famous for its intricate designs?",
+"question_hi": "राजस्थल में कौन से नटरीपन बनाई में इनकार देखों को एकाना लगाते हैं ?",
+"A_en": "Meena Mehandi",
+"A_hi": "मेना मेंड",
+"B_en": "Thar Desert",
+"B_hi": "थार देश",
+"C_en": "Rajasthani Thaat",
+"C_hi": "राजस्थानी तात",
+"D_en": "Rajasthani Dance",
+"D_hi": "राजस्थानी धार्म",
+"answer": "C",
+"explanation_en": "The Rajasthani Thaat is famous for its intricate designs.",
+"explanation_hi": "राजस्थानी तात के इन्कार देखों को एकाना लगाते हैं ?",
+"explanation_hi": "राजस्थानी तात को एकाना लगाते हैं ?"
+}
+]
