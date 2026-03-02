@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Palaces",
+"question_en": "Which of the following is a famous palace in Rajasthan?",
+"question_hi": "राजस्थान में किस पर्वत मंगलवाली के परमाणु प्रणाम की जानकारी को बताएं।",
+"A_en": "Amber Fort", "A_hi": "आंबे को।",
+"B_en": "Hawa Mahal", "B_hi": "हवा महालोकता",
+"C_en": "Mehrangarh Fort", "C_hi": "मेहरंगर को।",
+"D_en": "Jal Mahal", "D_hi": "जल महालोकता",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace in Rajasthan.",
+"explanation_hi": "हवा महालोकता राजस्थान में बेल मेहीं को।",
+"explanation_hindi": "Hawa Mahal राजस्थान में बेल मेहीं को।",
+}
+]
