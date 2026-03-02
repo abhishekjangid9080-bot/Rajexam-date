@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Kings and Princely States",
+"question_en": "Which king is associated with the establishment of Jaipur?",
+"question_hi": "जयपुर को किस राज्यपाल संबंधित है?",
+"A_en": "Ala Singh", "A_hi": "अला सिंग",
+"B_en": "Pratap Singh", "B_hi": "प्रताप सिंग",
+"C_en": "Jai Singh II", "C_hi": "जयशिखिर सिंग",
+"D_en": "Bikaji Carnatic", "D_hi": "बिकाजी करनटिक",
+"answer": "C",
+"explanation_en": "Jai Singh II is associated with the establishment of Jaipur.\nRajasthan's capital, Jaipur, was founded by Jai Singh II.",
+"explanation_hi": "जयशिखिर सिंग के सहायता के लिए Jaipur का संदेश बनाया गया है।\nRागताने राजस्थान का प्रधान भूमियों का संदेश, Jaipur को बनाया गया है।",
+"explanation_hi": "जैसांटाने राजस्थान का प्रधान, जापुर को बनाया गया है।",
+"C_en": "Jaipur was founded by Sawant Singh.",
+"C_hi": "जापुर सांटेंग से बनाया गया है।",
+"explanation_en": "Jaipur, the capital city of Rajasthan, was founded by Sawant Singh.\nSawant Singh established Jaipur as the capital city.",
+"explanation_hi": "जापुर, राजस्थान के प्रधान से बनाया गया है।",
+]
