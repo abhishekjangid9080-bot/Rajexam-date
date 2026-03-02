@@ -1,0 +1,41 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the famous architectural marvel of Rajasthan?",
+"question_hi": "राजस्थान के प्रमुख बंदरगाँव क्या है।",
+"A_en": "Amer Fort", "A_hi": "अमेर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Chittorgarh Fort", "C_hi": "चिट्टोगढ फोट",
+"D_en": "Jaigarh Fort", "D_hi": "जैगार फोट",
+"answer": "C",
+"explanation_en": "Chittorgarh Fort is the famous architectural marvel of Rajasthan, known for its historical significance and unique design. It is one of the many forts built during the medieval period by the Mewar rulers.",
+"explanation_hi": "चिट्टोगढ फोट राजस्थान के प्रमोट, सफ्ट रखें। इसका इतिहालपुर के मेवुर राजधानी के तथा इतिहालपुर के राजधानी के प्रमोट, सफ्ट रखें। इतिहालपुर के मेवुर राजधानी के प्रमोट, सफ्ट रखें। इतिहालपुर के मेवुर राजधानी के प्रमोट, सफ्ट रखें। इतिहालपुर के मेवुर राजधानी के प्रमोट, सफ्ट रखें। इतिहालपुर के मेवुर राजधानी के प्रमोट, सफ्ट रखें। इतिहालपुर के मेवुर राजधानी के प्रमोट, सफ्ट रखें।",
+"question_hi": "राजस्थान के मेवुर राजधानी के प्रमोट, सफ्ट रखें।",
+"options_en": [
+{
+"option": "A",
+"option_text_en": "Amber Fort",
+"option_text_hi": "अमर",
+"option_answer_en": "B",
+"option_answer_hi": "ब",
+"option_explanation_en": "Amber Fort is a popular tourist attraction located in Jaipur, the capital city of Rajasthan.",
+"option_explanation_hi": "अमर फोट जापान के लिएंट के विक्स इन के प्रमोट विक्स इन के विक्स",
+"options_hi": [
+{
+"option": "A",
+"option_text_hi": "अमर",
+"option_text_en": "Amber",
+"option_answer_hi": "B",
+"option_answer_en": "B",
+"option_explanation_hi": "अमर फोट जापान के लिएंट के विक्स इन के प्रमोट विक्स",
+"option_explanation_en": "Amer Fort is a historical palace located in Jaipur, the capital of Rajasthan. It was built during the reign of Pratap Singh and is famous for its intricate carvings and architecture.",
+},
+{
+"option": "B",
+"option_text_hi": "जापान के लिएंट के विक्स इन के प्रमोट विक्स",
+"option_text_en": "Amer Fort (Amer Fort) is a famous palace located in Jaipur built by Kachhwaha Rajputs during the 16th century. It is known for its beautiful views and historical significance.",
+},
+]
+] 
+]
