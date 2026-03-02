@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built during the Mewar dynasty rule?",
+"question_hi": "मेवार संतोष के वर्षण समय के एक पहले तथा नाम क्या है?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका फोट",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्भलगढ़ फोट",
+"D_en": "Chittorgarh Fort", "D_hi": "चिट्टोगर फोट",
+"answer": "D",
+"explanation_en": "Chittorgarh Fort was built during the reign of the Mewar dynasty.",
+"explanation_hi": "चिट्टोगर फोट में मेवार संतोष के राजनी शहर के वर्षण का सूचना है।",
+}
+]
