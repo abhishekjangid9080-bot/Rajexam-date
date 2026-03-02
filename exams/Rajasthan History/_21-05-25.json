@@ -1,0 +1,41 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस मौलिक कठिनाइयाँ हैं ?",
+"A_en": "Meena Bazaar", "A_hi": "मेना बाजार",
+"B_en": "Lehariya Fort", "B_hi": "लहरीया कठिना",
+"C_en": "Rajasthan Rifles", "C_hi": "राजस्थान राजस्थान",
+"D_en": "Mev", "D_hi": "मेव",
+"answer": "B",
+"explanation_en": "Lehariya Fort is a famous fort located in Jodhpur, known for its intricate architecture and historical significance.\nजोधपुर में हैं बेलाइयाँ कठिना है, यह भवन का शुदर का दर्शनीय और अवकालीनिया का अर्थ है।",
+"explanation_hi": "Lehariya Fort राजस्थान में बेलाइयाँ का दर्शनीय और अवकालीनिया का अर्थ है।",
+"answer": "B",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपूर का ज्ञानिया है।",
+"explanation_en": "Jodhpur is known for its majestic forts and palaces, one of which is Lehriya Fort.\nजोधपूर राजस्थान को मजेदार और कालियां देखने वाले एक मेर है।",
+"explanation_hi": "Jodhpur, known for its forts and palaces, has Lehriya Fort as one of its iconic structures.\nजोधपूर राजस्थान, मेर का एक मैं हैं और कालियां देखने वाले हैं।",
+"question_hi": "Jodhpur ke liye मैंको एक मैं हैं।",
+"question_en": "Which of the following forts is unique to Jodhpur?",
+"options": [
+{
+"option_id": "A",
+"option_text_hi": "Lehriya Fort (लहिरीया कें)",
+"option_text_en": "Lehriya Fort (Lehriya Forts)",
+"correct_answer": "B"
+},
+{
+"option_id": "B",
+"option_text_hi": "Durgadi Fort (दोरगडी कें)",
+"option_text_en": "Durgadi Fort (Durgadi Forts)",
+"correct_answer": "A"
+},
+{
+"option_id": "C",
+"option_text_hi": "Ranthambore Fort (रंथमोबोर कें)",
+"option_text_en": "Ranthambhore Fort (Ranthambore Forts)",
+"correct_answer": "C"
+}
+]
+}
