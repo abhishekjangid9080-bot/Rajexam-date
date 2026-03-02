@@ -1,0 +1,91 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Kings and Dynasties",
+"question_en": "Which famous Rajasthani king is known for his famous battle against the Mughal Empire?",
+"question_hi": "राजस्थानी मगही संतान कौन हिस्सेल के लिए फर्मीली के लिए अज्ञानिक और लेखक हैं।",
+"A_en": "Prithviraj Chauhan",
+"A_hi": "प्रतीतेश चौहान",
+"B_en": "Rao Bika",
+"B_hi": "राव बिका",
+"C_en": "Rao Bhadan",
+"C_hi": "राव भदन",
+"D_en": "Rao Jodha",
+"D_hi": "राव झोड़ा",
+"answer": "D",
+"explanation_en": "Prithviraj Chauhan and his famous battle against the Mughals are well-known for their historical significance, but Rao Jodha is the correct answer for this question as he was the king of Mewar who allied with Prithviraj Chauhan for the battle against the Mughals in the Battle of Tal Chaugan, making Rao Jodha the right choice.",
+"explanation_hi": "प्रतीतेश चौहान और उनके मुग से क्रैली के लिए कलहेंगें संघ के लिए कलहेंगें, जो मुग से संघ के लिए कलहेंगें संघ के लिए कलहेंगें",
+"explanation_en": "Prithviraj Chauhan and his allies fought against the Mughal Empire in the Battle of Tal Chaugan. Among them, Rao Jodha, who allied with Prithviraj Chauhan to confront the Mughal Empire, is the correct answer.",
+"explanation_hi": "Prithviraj Chauhan aur ek auron ko मुग के संघ से लिएंगें। Rao Jodha, who allied with Prithviraj Chauhan to confront the Mughal Empire, is the correct answer.",
+"answer": "Jodha",
+"option_en": [
+{
+"option_id": 0,
+"option_text": "Prithviraj Chauhan",
+"checked": false
+},
+{
+"option_id": 1,
+"option_text": "Rao Jodha",
+"checked": true
+},
+{
+"option_id": 2,
+"option_text": "Salim Khan",
+"checked": false
+},
+{
+"option_id": 3, "option_text": "Hamir Singh",
+"checked": false
+}
+],
+"option_hi": [
+{
+"option_id": 0,
+"option_text": "प्रतीतिरीजन",
+"checked": false
+},
+{
+"option_id": 1,
+"option_text": "जोध",
+"checked": true
+},
+{
+"option_id": 2,
+"option_text": "सलीम खान",
+"checked": false
+},
+{
+"option_id": 3,
+"option_text": "हमिर सिंग",
+"checked": false
+}
+],
+"answer": 1,
+"explanation_en": "Rao Jodha is known for his role in the Battle of Tal Chaugan along with Prithviraj Chauhan against the Mughal Empire.",
+"explanation_hi": "राजा जोधी प्रतीतिरीजन के साथित प्रतीतिरीजन के लिएंग के साथित प्रतीतिरीजन",
+"explanation_en": "Prithviraj Chauhan and Rao Jodha fought together against the Mughal Empire in the Battle of Tal Chaugan.",
+"explanation_hi": "प्रतीतिरीजन और राजा जोधी प्रतीतिरीजन के साथितीतिरीजन",
+"answer": 2,
+"explanation_en": "Prithviraj Chauhan and Rao Jodha fought together against the Mughal Empire in the Battle of Tal Chaugan.",
+"explanation_hi": "प्रतीतिरीजन और राजा जोधी प्रतीतिरीजन के साथितिरीजन",
+"question": "राजा जोधी प्रतीतिरीजन",
+"answer": 2,
+"options": [
+{
+"option_id": 0,
+"option_text": "Prithviraj Chauhan",
+"en": "Prithviraj Chauhan",
+"hi": "प्रतीतिरीजन",
+},
+{
+"option_id": 1,
+"option_text": "Rao Bikaji",
+"en": "Rao Bikaji",
+"hi": "राजा बिकाजा",
+},
+{
+"option_id": 2,
+"option_text": "Rao Jodha",
+"en": "Rao Jodha",
+"hi": "राजा यतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरतिरति
