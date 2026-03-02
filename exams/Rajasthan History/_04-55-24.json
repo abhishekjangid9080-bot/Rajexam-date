@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Princely States",
+"question_en": "Which city served as the capital before Jaipur became the capital of Rajasthan?",
+"question_hi": "जयपुर पहले राजस्थान की राजधानी थी किस शहर?",
+"A_en": "Ajmer", "A_hi": "आजमी",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Aundh", "C_hi": "अंधा",
+"D_en": "Barmer", "D_hi": "बर्मेर",
+"answer": "B",
+"explanation_en": "Jodhpur served as the capital of Rajasthan before Jaipur became the capital. It was known as Rao Jodha ki Kanya Utsav Mahal.",
+"explanation_hi": "जोधपुर राजस्थान की राजधानी केंद्र के पहले किस शहर था?",
+"explanation_hi": "Rao Jodha ki Kanya Utsav Mahal",
+}
+]
