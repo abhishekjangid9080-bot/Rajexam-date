@@ -1,0 +1,28 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a royal city of Rajasthan?",
+"question_hi": "राजस्थान में कौन-सा राजधानी नहीं है।",
+"A_en": "Jaisalmer", "A_hi": "जयसलमर",
+"B_en": "Alwar", "B_hi": "अल्वार",
+"C_en": "Kota", "C_hi": "कोता",
+"D_en": "Udaipur", "D_hi": "उदयपुर",
+"answer": "B",
+"explanation_en": "Alwar is not a royal city of Rajasthan.",
+"explanation_hi": "अल्वार राजस्थान में राजधानी नहीं है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first ruler of Jaipur?",
+"question_hi": "जैपुर के पहले मुख्यांकनें।",
+"A_en": "Swai Jai Singh", "A_hi": "स्वाई जय सिंग",
+"B_en": "Pratap Singh", "B_hi": "प्रताप सिंग",
+"C_en": "Harsh Sagar", "C_hi": "हार्श सगार",
+"D_en": "Rao Jodh Singh", "D_hi": "राव जोध सिंग",
+"answer": "A",
+"explanation_en": "Swai Jai Singh was the first ruler of Jaipur.",
+"explanation_hi": "स्वाई जय सिंग Jaipur के पहले मुख्यांकनेवांकें।",
+}
+]
