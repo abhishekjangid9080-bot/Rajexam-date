@@ -1,0 +1,22 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Rajasthan Tours",
+"question_en": "Which famous monument is located in Jaipur?",
+"question_hi": "जयपुर में किस मौलिक मंदिर है?",
+"A_en": "Amber Fort", "A_hi": "अमेर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh", "C_hi": "सवाई महाराजा सावाई संघी",
+"D_en": "Palace of winds", "D_hi": "ओदे मंदिर",
+"answer": "A",
+"explanation_en": "Amber Fort is a famous monument located in Jaipur, built by Raja Mansingh.",
+"explanation_hi": "अमेर फोट एक बेहत के विविध मंदिर है, उसका निर्दीनाने बना उसका",
+"explanation_en": "Hawa Mahal is a famous monument located in Jaipur, built by Maharaja Sawai Pratap Singh.",
+"explanation_hi": "हवा महाल प्रतिमान सावाई बेहत का विविध मंदिर है।",
+"explanation_en": "The Palace of winds, also known as Hawa Mahal, is a famous monument located in Jaipur, built by Maharaja Sawai Pratap Singh.",
+"explanation_hi": "हवा महाल, प्रतिमान सावाई बेहत का विविध मंदिर है।",
+"explanation_en": "The Cenotaph of Maharaja Sawai Mansingh is a famous monument located in Jaipur, built by Maharaja Sawai Pratap Singh.",
+"explanation_hi": "सवाई बेहत का विविध मंदिर है।",
+"explanation_en": "The Cenotaph of Maharaja Sawai Man Singh is a famous monument located in Jaipur, built by Maharaja Sawai Pratap Singh.",
+"explanation_hi": "सवाई बेहत का विविध मंदिर है।",
+}
