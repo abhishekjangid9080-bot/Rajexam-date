@@ -1,0 +1,22 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Cities",
+"question_en": "Which is the capital city of Rajasthan and what are some of its famous cities?",
+"question_hi": "राजस्थान की राजधानी और इसके पर्यावरणीय जिलों और प्राचीन कथाओं के विशेषताओं के खिलें।",
+"A_en": "Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner",
+"A_hi": "जयपुर, उदयपुर, जोधपुर, जयसालमेर, बिकानेर",
+"B_en": "Rajasthan's diverse culture, ancient stories",
+"B_hi": "राजस्थान के विभिन्द्र",
+"C_en": "Some historical facts about Rajasthan",
+"C_hi": "राजस्थान के पूर्वान्ध्र",
+"D_en": "Famous places in Rajasthan",
+"D_hi": "राजस्थान के अन्धिका",
+"E_en": "Rajasthan's geographical features",
+"E_hi": "राजस्थान के ग्वेधिका",
+"answer": "A",
+"explanation_en": "Among the options provided, \"A\" covers both the capital city (Jaipur) and some famous places (Udaipur, Jodhpur, Jaisalmer, Bikaner) of Rajasthan which are also known for their rich history and culture.",
+"explanation_hi": "संदर्शक्ति के विभिन्द्र",
+"exam_type": "Tier-II"
+}
+]
