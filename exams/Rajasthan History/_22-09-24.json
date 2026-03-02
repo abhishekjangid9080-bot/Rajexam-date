@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic fort is known for its architectural beauty?",
+"question_hi": "किस घरेलू या फोट किसी का आवश्यकता पर निर्देशित हुई है जो कार्य के लिए वित्तीय स्थानीय या समाजिक और सामान्य उत्तरप्रधानिक वाली शुभेच्छे फोटो का नाम है।",
+"question_hi": "राजस्थान के नई का नाम है जो मूल क्रमशास्तान के विश्वरुच्छे फोटो का नाम है।",
+"options": [
+{
+"option_value": "Jaipur",
+"option_label_en": "Jaipur",
+"option_label_hi": "जयपुर"
+},
+{
+"option_value": "Amber Fort",
+"option_label_en": "Amber Fort",
+"option_label_hi": "अमेर्नामम"
+},
+{
+"option_value": "Meena Bazaar",
+"option_label_en": "Meena Bazaar",
+"option_label_hi": "मीना बाजार"
+},
+{
+"option_value": "Hawa Mahal",
+"option_label_en": "Hawa Mahal",
+"option_label_hi": "हवा महाल"
+},
+{
+"option_value": "Moti Mahal",
+"option_label_en": "Moti Mahal",
+"option_label_hi": "मोटी महाल"
+}
+],
+"answer": "Amber Fort"
+}
+]
