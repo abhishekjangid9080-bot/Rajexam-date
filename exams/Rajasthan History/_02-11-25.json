@@ -1,0 +1,71 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस भूमिका के बाहर है।",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगार भूमिका",
+"B_en": "Kherawal Fort", "B_hi": "खरावाल भूमिका",
+"C_en": "Jaswant Thada", "C_hi": "जसवंत ताड़",
+"D_en": "Fateh Sagar Lake", "D_hi": "फटहर सागर",
+"answer": "C",
+"explanation_en": "Jaswant Thada is a famous marble cenotaph located in Udaipur, Rajasthan. It was built in memory of Maharaja Jaswant Singh II.",
+"explanation_hi": "जसवंत ताड़ राजस्थान में उदयपुर में स्थित है। इस शास्ती मंगलों के मूल्यां के स्मरण के लिए हैं।",
+"question_en": "Which famous palace is located in Udaipur, Rajasthan? Who built it?",
+"question_hi": "उदयपुर, राजस्थान में कौने निर्मांड हैं।",
+"subject": "Rajasthan History",
+"exam_type": "State Level Exam"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Kingdoms",
+"question_en": "Which was the capital of Marwar Kingdom?",
+"question_hi": "मर्वार क्षमणिकांची कहाँ काँचा डस्टर थे?",
+"options": [
+{
+"option_value": "Jodhpur",
+"option_label_en": "Jodhpur",
+"option_label_hi": "जोधपुर"
+},
+{
+"option_value": "Ajmer",
+"option_label_en": "Ajmer",
+"option_label_hi": "अजमेर"
+},
+{
+"option_value": "Merta",
+"option_label_en": "Merta",
+"option_label_hi": "मेर्टा"
+},
+{
+"option_value": "Jaisalmer",
+"option_label_en": "Jaisalmer",
+"option_label_hi": "जैसालमेर"
+}
+],
+"answer": "Merta",
+"explanation_en": "Merta was the capital city of the Marwar kingdom. The Marwar kingdom was established by Rao Jodha and later ruled by the Rathore dynasty.",
+"explanation_hi": "मेर्टा मर्वार राज्य के कंपूर्ण करें राजों का संतुलकरां दिल के राजा राजनेवार राजों का संतुलकरां का संतुलकरां दिल राजे दील",
+"explanation_en": "Merta was established by Rao Jodha, the founder of Jodhpur Rathores. After him, the kingdom was ruled by his descendants.",
+"explanation_hi": "मेर्टा राजों का प्रधारा के निवारेवार राजे दील के राजे दील",
+"answer": "Rao Jodha",
+"options": [
+{
+"option_value": "Rao Jodha",
+"option_label_en": "Rao Jodha",
+"option_label_hi": "राजे दील",
+"answer_en": "Rao Jodha",
+"answer_hi": "राजे दील",
+"explanation_en": "Rao Jodha was the founder of the Jodhpur Rathores. He is best known for his architectural skills and built the Mehrangarh Fort.",
+"explanation_hi": "राजे दील सेलोकारों के निवारेवारेवारे दील",
+},
+{
+"option_value": "Rao Jodha",
+"option_label_en": "Rao Jodha",
+"option_label_hi": "राजे दील",
+"answer_en": "Rao Jodha",
+"answer_hi": "राजे दील",
+"explanation_en": "Rao Jodha was the founder of the Jodhpur Rathores. He is famous for his architectural works and built the Mehrangarh Fort.",
+"explanation_hi": "राजे दील",
+}
+]
