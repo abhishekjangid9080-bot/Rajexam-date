@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Forts and Palaces",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा महजान है ?",
+"A_en": "Mehrangarh Fort",
+"A_hi": "मेहरांगर",
+"B_en": "Khebar Kote Fort",
+"B_hi": "खेबर कोट के विभाग",
+"C_en": "Umaid Bhawan Palace",
+"C_hi": "उमाई बहान पाल्क",
+"D_en": "Kalagarh Fort",
+"D_hi": "कालागढ कोट",
+"answer": "C",
+"explanation_en": "Umaid Bhawan Palace is a famous fort located in Jodhpur. \n\nउमाई बहान पाल्क में रज़ास्टर है।",
+"explanation_hi": "उमाई बहान पाल्क में रज़ास्टर है।"
+}
+]
