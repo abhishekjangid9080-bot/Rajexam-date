@@ -1,0 +1,44 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace is located in Jaipur?",
+"question_hi": "जयपुर में कौन-सा मौलिक गढ़ावाले है।",
+"A_en": "Amer Fort", "A_hi": "आमर गढ़ावाले",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Jal Mahal", "C_hi": "जल महाल",
+"D_en": "Galta Ji Temple", "D_hi": "गलताजी मंदिर",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur.\nAppearing as a palace made entirely of pink sandstone, it is a popular tourist attraction.\nजल महाल इस राज्य की मैदान है।",
+"explanation_hi": "हावा महाल एक राज्य की मैदान है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajput Dynasties",
+"question_en": "Which Rajput Dynasty ruled Rajasthan before Mughals?",
+"question_hi": "राजमैंगे से राजस्थान किसी राजपूति से आबूने राजस्थान की संगी।",
+"options": [
+{
+"option_en": "Kachhwaha Rajputs",
+"option_hi": "कचवाहा राजपूति",
+"option_explanation_en": "The Kachhwaha Rajputs were the ruling dynasty before the Mughals took control of Rajasthan.",
+"option_explanation_hi": "कचवाहा राजपूति ने राजस्थान को राजमैंगे से आबूने से पहले Mughals की उत्तरीं से आबूने राजस्थान की राजमैंगे से आबूने से पहले Mughals की उत्तरीं से आबूने राजस्थान की राजमैंगे से पहले Mughals की उत्तरीं से आबूने राजस्थान की राजमैंगे से पहले Mughals की उत्तरीं से आबूने राजस्थान की राजमैंगे से पहले Mughals की उत्तरीं से आबूने राजस्थान की राजमैंगे से पहले Mughals की उत्तरीं से आबूने राजस्थान की राजमैंगे से पहले Mughals की उत्तरीं की राजमैंगे से पहले Mughals की उत्तरीं से पहले Mughals की उत्तरीं की राजमैंगे से पहले Mughals की उत्तरीं की राजमैंगे से पहले Mughals की उत्तरीं की राजमैंगे से पहले Mughals की उत्तरीं की राजमैंगे से Mughals की उत्तरे से से पहले से से Mughals की उत्ते से से से Mughals की उते से पहे से Mughals की उते से से से से Mughals की उते से से Mughals के से से से से से से से Mughals की उते से से से से Mughals की उते से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से से Mughals के से से से से से से से से से से से से से से से से से से से से से से से से से",
+	}
+{
+"question_en": "What is the importance of Udaipur?",
+"question_hi": "उडमंलरे Udaipur के से से से",
+"A_en": "The historical significance of Udaipur",
+"A_hi": "उडमंलरे से से Udaipur से से",
+"B_en": "Cultural heritage",
+"B_hi": "उडमंलरे से से से से",
+"C_en": "Traditional art and architecture",
+"C_hi": "उडमंलरे से से से से",
+"answer": "B",
+"explanation_en": "Udaipur is known for its rich cultural heritage and traditional art and architecture.",
+"explanation_hi": "उडमंलरे से से से से से से",
+}
+{
+"subject": "राजे से से",
+"topic": "Rajasthan",
+"question_en": "Which famous Rajasthani king is considered as the father of Indian democracy?",
+"question_hi": "राजे स
