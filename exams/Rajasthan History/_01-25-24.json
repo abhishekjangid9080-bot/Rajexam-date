@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built during the rule of Raja Man Singh I?",
+"question_hi": "राजा मन सिंह के राज्य में बनाया गया कौन सा मंगला?",
+"A_en": "Amer Fort", "A_hi": "अमेर मंगला",
+"B_en": "Mehrangarh Fort", "B_hi": "मेहनगर मंगला",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्भालगढ़ मंगला",
+"D_en": "Jaigarh Fort", "D_hi": "जयगर्थ मंगला",
+"answer": "A",
+"explanation_en": "Amer Fort was built during the reign of Raja Man Singh I.",
+"explanation_hi": "राजा मंगला के राज्य में बनाया गया Amer Fort है।",
+"explanation_hindi": "राजा मंगला के राज्य में बनाया गया Amer Fort है।",
+}
+]
