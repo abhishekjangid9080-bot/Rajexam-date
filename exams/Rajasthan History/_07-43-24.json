@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Man Singh of Amber?",
+"question_hi": "अम्बर के राजा मन सिंह के से बनाया गया किस कलम्बगाड़ी में एक नजदूर है।",
+"A_en": "Amer Fort", "A_hi": "अमेर कलम्बगाड़ी",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्बलगाड़ी",
+"C_en": "Mehrangarh Fort", "C_hi": "मेरंगाड़ी",
+"D_en": "Nahargarh Fort", "D_hi": "नाहरगाड़ी",
+"answer": "B",
+"explanation_en": "Raja Man Singh of Amer built the Kumbhalgarh Fort.",
+"explanation_hi": "अमेर किस कलम्बगाड़ी के नए बनाया गया है।",
+"explanation_b": "अमेर कलम्बगाड़ी",
+"explanation_c": "मेरंगाड़ी",
+"explanation_d": "नाहरगाड़ी",
+"explanation_e": "अमेर किस कलम्बगाड़ी के नए बनाया गया है।",
+}
+]
