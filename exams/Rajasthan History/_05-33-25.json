@@ -1,0 +1,33 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Rai Singh of Amber?",
+"question_hi": "अमेरिका को भविष्य के लिए राजा राई सिंह ने किस महत्ताओं की संतुलन में बनाई गई है?",
+"A_en": "Amber Fort", "A_hi": "अमेरिका को भविष्य के लिए राजा राई सिंह ने कैसे भविष्य में बनाई गई है?",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुम्भलगड में बनाई गई है?",
+"C_en": "Mehrangarh Fort", "C_hi": "मेरंगार में बनाई गई है?",
+"D_en": "Amber Fort", "D_hi": "अमेरो में बनाई गई है?",
+"answer": "D",
+"explanation_en": "Raja Rai Singh, a general of Rampur Rao, built Amber Fort in the future.",
+"explanation_hi": "राजा राय सिंह, रामपुर ओर सर के साधना में बनाई गई है?",
+"explanation": "Amber Fort was built by Raja Rai Singh, a general of Rao Kedia, in the future.",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Leadership of Rao Kedia",
+"question_en": "Who was a renowned leader of Rao Kedia?",
+"question_hi": "रावणी केवाली खाना में बनाई गई है?",
+"A_en": "Rao Kedia",
+"A_hi": "रावणी केवाली",
+"B_en": "Sirhind Ka Mukund Rao",
+"B_hi": "सिंहंद के मुक्ता वाली",
+"C_en": "Lakshman Sirohi",
+"C_hi": "लक्ष्मणिक सिरोही",
+"D_en": "Kishan Singh Meena",
+"D_hi": "किशन सिंहांद मेने",
+"answer": "D",
+"explanation_en": "Kishan Singh Meena was a prominent leader under Rao Kedia.",
+"explanation_hi": "किशन सिंहांद मेने एक उपनिवादा राष्ट्र के अधिकार है।",
+}
+]
