@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में प्रमुख एक किलक क्या है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगर्ज़ा",
+"B_en": "Kalbeliya", "B_hi": "कलबेलीया",
+"C_en": "Umaid Bhawan Palace", "C_hi": "उमाईद भावान क्षेत्र",
+"D_en": "Fateh Sagar Lake", "D_hi": "फतह सागर",
+"answer": "C",
+"explanation_en": "Umaid Bhawan Palace is a famous palace located in Jodhpur.",
+"explanation_hi": "उमाईद भावान क्षेत्र निवेद मंदिर, Jodhpur में है।",
+}
+]
