@@ -1,0 +1,74 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built during the reign of Maharaja Pratap Singh?",
+"question_hi": "महाराजा प्रताप सिंह के नियमित राज्य में किया गया एक महत्त्वागंधर्म का नाम है।",
+"A_en": "Amer Fort",
+"A_hi": "आम्र के नाम है।",
+"B_en": "Mehrangarh Fort",
+"B_hi": "मेहरांगर के नाम है।",
+"C_en": "Kumbhalgarh Fort",
+"C_hi": "कुभलगार के नाम है।",
+"D_en": "Jaipur",
+"D_hi": "जापान के नाम है।",
+"answer": "B",
+"explanation_en": "Mehrangarh Fort was built during the reign of Maharaja Jaswant Singh II. It is located in Jodhpur, Rajasthan.",
+"explanation_hi": "मेहरांगर के नंबर के संवति में बनाया गया है। उसमें राजशांति में संग्रेसको बनाया गया है।",
+"explanation_en": "Jaipur was built during the reign of Maharaja Jaswant Singh II. It is located in Jaipur, Rajasthan.",
+"explanation_hi": "जापान में बनाया गया है। उसमें राजशांति में संग्रेसको बनाया गया है।",
+"answer": "C",
+"explanation_en": "Jaipur was built during the reign of Maharaja Jaswant Singh II. It is located in Jaipur, Rajasthan.",
+"explanation_hi": "जापान में बनाया गया है। उसमें राजशांति में संग्रेसको बनाया गया है।",
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Traditional Arts",
+"question_en": "What is the most famous form of folk dance in Rajasthan?",
+"question_hi": "राजस्थान के तैयार कलाकारों का सबसे बड़े उद्यानाती काला का अभिप्रमाण है।",
+"options": [
+{
+"option_en": "Ghoomar",
+"option_hi": "गोमार",
+"option_explanation_en": "Ghoomar is a famous folk dance form originated from Jaisalmer, Rajasthan.",
+"option_explanation_hi": "Ghoomar is a popular folk dance form from Jaisalmer, Rajasthan.",
+"option_difficulty": "Easy"
+},
+{
+"option_en": "Bishnoi Dance",
+"option_hi": "बिश्नी Dance",
+"option_explanation_en": "Bishnoi Dance is a traditional dance form of the Bishnoi community in Rajasthan.",
+"option_explanation_hi": "Bishnoi Dance is a traditional dance form of Bishnoi community in Rajasthan.",
+"option_difficulty": "Medium"
+},
+{
+"option_en": "Tadvi Dance",
+"option_hi": "तड़ी Dance",
+"option_explanation_en": "Tadvi Dance is a traditional folk dance form of Kishangarh in Rajasthan.",
+"option_explanation_hi": "Tadvi Dance is a traditional folk dance form of Kishangarh in Rajasthan.",
+"option_difficulty": "Hard"
+},
+{
+"option_en": "Teej Dance",
+"option_hi": "तीज Dance",
+"option_explanation_en": "Teej Dance is a traditional dance form performed during Teej festival in Rajasthan.",
+"option_explanation_hi": "Teej Dance is a traditional dance form performed during Teej festival in Rajasthan.",
+"option_difficulty": "Easy"
+},
+{
+"option_en": "Kalbelia Dance",
+"option_hi": "कालीबालिया Dance",
+"option_explanation_en": "Kalbelia Dance is a traditional dance form of Kalbelia tribe in Rajasthan.",
+"option_explanation_hi": "Kalbelia Dance is a traditional dance form of Kalbelia tribe in Rajasthan.",
+"option_difficulty": "Medium"
+}
+],
+"answer": "A"
+],
+"difficulty": "Easy"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Kingdom",
+"question_en": "Which Rajasthan Kingdom was established by Maharaja Jai Singh?",
+"question_hi": "राजसति को महारा जैसति मा जहारा जैसति को मारा जहारा जैसति को मारा जहारा जैसति को मारा जहारा जैसति को मारा जैसति को मारा जैसति को मारा जैसति को मारा जैसति कैसति कैसति केसति केसति कैसति कैसति केसति केसति कैसति केसति कैसति केसति केसति कैसति केसति केसति केसति कैसति कति कैसति कैसति केसति केसति कैसति केसति केसति केसति केसति केसति केसति केसति कैसति केसति केसति कैसति केसति केसति कैसति केसति केसति केसति कैसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसति केसत
