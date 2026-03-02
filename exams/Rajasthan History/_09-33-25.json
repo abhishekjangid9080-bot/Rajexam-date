@@ -1,0 +1,33 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Cities",
+"question_en": "Which city was the capital of Mewar before Udaipur?",
+"question_hi": "मैवर के पिछले राजधानी के नाम क्या है ?",
+"A_en": "Ahmedabad",
+"A_hi": "अहमदाबाद",
+"B_en": "Jodhpur",
+"B_hi": "जयपुर",
+"C_en": "Jaipur",
+"C_hi": "जयपुर",
+"D_en": "Amber",
+"D_hi": "अमेर",
+"answer": "B",
+"explanation_en": "Jodhpur was the capital of Mewar before Udaipur. Udaipur became the capital after the establishment of the Sisodia rulers.",
+"explanation_hi": "मैवर के पिछले राजधानी के नाम क्या है ?\nUdaipur का स्थल मैवर के राज्य के नौंचरों के बाबू तथा उनके बैंगरों को समीप्रकार में क्या है ?\nबाबू की समीप्रकार में प्रधानशास्त्री पच्यांकर बैंगरों को क्या है ?",
+"A_en": "The Chauhan rulers were established in which era?",
+"A_hi": "चावना गण का निर्वात क्या है ?",
+"B_en": "Which Chauhan ruler was responsible for building the Udaipur Fort?",
+"B_hi": "चावना गण को उदयपुर के बैंगर कौन बनना करने वाला उदयपुर फोट ?",
+"C_en": "Which Chauhan ruler was responsible for the construction of the Mehrangarh Fort?",
+"C_hi": "चावना गण को मेहरंगार फोट को क्या बनना करने वाला राजन था ?",
+"D_en": "Which Rajput king established the Amber Fort?",
+"D_hi": "स्वामी को अमर फोट को पति था ?",
+"E_en": "Who was the founder of Jaisalmer Fort?",
+"E_hi": "जैसालमेर फोट के संतों के पति था ?",
+"F_en": "Which Mughal emperor was responsible for constructing the City Palace in Udaipur?",
+"F_hi": "उदयपुर के शहर के कामलकाना मुगलता किस्तार को क्या बनना था ?",
+"G_en": "Which ruler established the City Palace in Jaisalmer?",
+"G_hi": "जैसालमेर के शहर को क्या बनना था ?"
+}
+]
