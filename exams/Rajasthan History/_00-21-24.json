@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and its Emperors",
+"question_en": "Which emperor ruled Rajasthan and what was the capital during his reign?",
+"question_hi": "राजस्थान में कौन सा सरकार था और उसके समय के दौरान क्या राजधानी थी ?",
+"A_en": "Harshavardhan",
+"A_hi": "हर्षावर्धन",
+"B_en": "Alauddin Khilji",
+"B_hi": "अलाउद्दिन खिल्जी",
+"C_en": "Rao Jodha",
+"C_hi": "राव जोधा",
+"D_en": "Rao Rameshwar",
+"D_hi": "राव रेमेशवान",
+"answer": "Alauddin Khilji",
+"explanation_en": "Alauddin Khilji was the ruler of Rajasthan during his reign and Jaipur was the capital during that time.",
+"explanation_hi": "Alauddin Khilji राजदूत राजस्थान में थे और उनके समय में Jaipur की राजधानी थी।",
+}
+]
