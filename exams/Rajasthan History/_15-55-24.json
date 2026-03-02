@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical monument is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा धातुवाला है।",
+"A_en": "Amber Fort", "A_hi": "अंबर फोट",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Man Singh II", "C_hi": "सावाई महाराज सवाई मंसूनी में स्थित है।",
+"D_en": "Palace of Winds", "D_hi": "विमान",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a historical monument located in Jaipur.",
+"explanation_hi": "हवा महाल जयपुर में है।",
+}
+]
