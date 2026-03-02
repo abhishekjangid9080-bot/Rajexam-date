@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में किस मंगल का स्थान है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगराघर",
+"B_en": "Khejarli", "B_hi": "खेजारली",
+"C_en": "Kalibani", "C_hi": "कालिबानी",
+"D_en": "Umaid Bhavan Palace", "D_hi": "उमाईद बवान पालजियाँ",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a famous fort located in Jodhpur, built in the 15th century by Rao Jodha of the Rathore clan.\nIn Hindi: \nMehrangarh Fort is a renowned fort situated in Jodhpur, constructed in the 15th century by Rao Jodha from the Rathore clan.",
+"explanation_hi": ""
+}
+]
