@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan Kingdoms",
+"question_en": "Which kingdom was formed by Maharaja Pratap Singh?",
+"question_hi": "महाराजा प्रताप सिंह ने किस संघ बनाई?",
+"A_en": "Aravalli", "A_hi": "आरावली",
+"B_en": "Kishangarh", "B_hi": "किशंगरहगाँव",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Jodhpur", "D_hi": "झौदहरू",
+"answer": "D",
+"explanation_en": "Maharaja Pratap Singh founded the Rathore Kingdom, and Jodhpur was its capital city.",
+"explanation_hi": "महाराजा प्रताप सिंह ने रातोड़ों का संघ बना और झौदहरू की शहर थी।",
+}
+]
