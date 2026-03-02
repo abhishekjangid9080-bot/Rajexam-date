@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace in Jaipur was built during the reign of Maharaja Jai Singh II?",
+"question_hi": "जयपुर में महाराजा जैसिंगी सेवानी के दौरान बनाया गया एक परमाणु पालीकोणी कौन से किताब पैसावाल का वर्णन करो।",
+"A_en": "Amer Fort", "A_hi": "एमर फॉर्ट",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Jai Singh II", "C_hi": "महाराजा जैसिंगी सेवानी का नाम क्या है?",
+"D_en": "Samode Haveli", "D_hi": "सामोद हवाई",
+"answer": "A",
+"explanation_en": "Amer Fort is the palace named after Maharaja Jai Singh II. It was constructed during his reign.",
+"explanation_hi": "महाराजा जैसिंगी सेवानी का नाम क्या है?",
+}
+]
