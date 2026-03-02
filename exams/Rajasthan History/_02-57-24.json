@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Kings and Battles",
+"question_en": "Which famous king of Rajasthan built the Amber Fort?",
+"question_hi": "राजस्थान के अम्बर फोट के लिए कौन सा मनोजनिक राजधानी बनाई गई थी।",
+"A_en": "Pratap Singh",
+"A_hi": "प्रताप सिंह",
+"B_en": "Rao Jodha",
+"B_hi": "राव जोधा",
+"C_en": "Rai Singh",
+"C_hi": "राय सिंह",
+"D_en": "Man Singh",
+"D_hi": "मांसिंह",
+"answer": "B",
+"explanation_en": "The Amber Fort was built by Rao Jodha, the founder of Jaipur. The kingdom of Rajputana was established by him in 1459 AD.",
+"explanation_hi": "जापुर की बीस्टों को राव जोधा ने 1459 अक्षर में बना था। राज्य राजपुर के बीस्टों को इसी बना।",
+}
+]
