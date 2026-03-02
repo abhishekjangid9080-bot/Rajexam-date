@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा इलाका की स्थापित है।",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरनगरपुर किया के विभाग",
+"B_en": "Kheerola Fort", "B_hi": "खेरोला किया के विभाग",
+"C_en": "Clock Tower", "C_hi": "घरेलूण का विभाग",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमाईदभावन पाली",
+"answer": "D",
+"explanation_en": "Umaid Bhawan Palace is a historical monument located in Jodhpur.",
+"explanation_hi": "उमाईदभावन पाली एक कक्षम मंदिर जो जोधौर में है।",
+}
+]
