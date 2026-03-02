@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Famous Cities of Rajasthan",
+"question_en": "Which city in Rajasthan is known for its rich history and culture?",
+"question_hi": "राजस्थान में राज्य और कालानिविक स्थानों में कौन लम्बे राज्य और कालानिविक स्थान है?",
+"A_en": "Jaisalmer", "A_hi": "जयसालमर",
+"B_en": "Jodhpur", "B_hi": "झौदर",
+"C_en": "Jaipur", "C_hi": "जयपुर",
+"D_en": "Deogarh", "D_hi": "डीओगोर",
+"answer": "C",
+"explanation_en": "Jaipur is known for its rich history and cultural heritage, making it a famous city in Rajasthan.\nAlternatively, Deogarh is another noteworthy city with historical significance.",
+"explanation_hi": "जयपुर राजस्थान के लम्बे राज्य और कालानिविक स्थान है। अलतानिविक सुरूक अलय एक दूसरा नामी है की प्रमोबर स्थान भी एक अलय है जो एक अलय बेला विक सुरोक मालक एन है।",
+"answer": "C",
+"explanation_en": "Deogarh is another famous city with rich history and cultural significance in Rajasthan.",
+"explanation_hi": "डीओगरह एक मैला है जो राजस्थान के बेला विक एन है।",
+}
