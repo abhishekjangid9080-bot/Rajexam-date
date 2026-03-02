@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में कौन श्रेणी का मौलिक स्थान है।",
+"A_en": "Amber Fort", "A_hi": "अमेरिका धर्मन",
+"B_en": "Hawa Mahal", "B_hi": "हावा महाल",
+"C_en": "Cenotaph of Maharaja Ram Singh", "C_hi": "महाराजा महासिंह सिंह की संग्रह",
+"D_en": "Jal Mahal", "D_hi": "जल महाल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous landmark located in Jaipur.",
+"explanation_hi": "हावा महाल राजस्थान में एक अज्ञान के लिए किए गए हैं।",
+"D": "Hawa Mahal राजस्थान में एक अज्ञान किए गए हैं।",
+"E": "Cenotaph of Maharaja Ram Singh राजस्थान में एक अज्ञान किए गए हैं।",
+"F": "त्रुट के महाराजपुल राजस्थान में एक अज्ञान किए गए हैं।",
+"G": "मैं अज्ञान करने के लिए हैं।",
+"H": "राजस्थान में एक अज्ञान करने के लिए हैं।"
+}
