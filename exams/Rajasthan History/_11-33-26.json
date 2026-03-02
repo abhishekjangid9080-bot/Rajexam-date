@@ -1,0 +1,50 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan in Mughal Era",
+"question_en": "Which Mughal Emperor granted Jaipur the status of a city?",
+"question_hi": "जयपुर को मुगल सरस्वती में संस्थापन किया गया था।",
+"A_en": "Aurangzeb",
+"A_hi": "अर्थंगज",
+"B_en": "Khilji Dynasty",
+"B_hi": "खिल्जी राज़द्वार",
+"C_en": "Jahangir",
+"C_hi": "जहांगर",
+"D_en": "Shah Jahan",
+"D_hi": "शाह जाहाँ",
+"answer": "C",
+"explanation_en": "Jahangir was the Mughal Emperor who granted Jaipur the status of a city.\nIn Hindi, the explanation would be: जहांगर मुगल सरस्वती में Jaipur ko संस्थापन किया था।",
+"explanation_hi": "जहांगर मुगल सरस्वती में Jaipur ko संस्थापन किया था।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan in Medieval Period",
+"question_en": "Who was the last Rajput king to rule over Rajasthan?",
+"question_hi": "राजस्थान के मेडियल कालेखी राजपूत Rājasthān mein kaise राजपूत, राजस्थान कालेखी राजपूत Rājasthān mein kaise राजपूत",
+"explanation_en": "The last Rajput king who ruled over Rajasthan was Rana Kumbha.\nIn Hindi, it would be explained as: Rājasthān mein kaise राजपूत Rājasthān mein kaise राजपूत, राजस्थान कालेखी Rājasthān mein kaise राजपूत",
+"answer": "Rājasthān mein kaise राजपूत",
+"explanation_hi": "Rājasthān mein kaise राजपूत",
+},
+{
+"subject": "Rajasthan Culture",
+"topic": "Crafts and Traditions",
+"question_en": "Which traditional dance of Rajasthan is also famous in the neighboring states?",
+"question_hi": "राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लेचार्जा (राजस्थान में निश्लें निश्लें राजस्थान में निश्लें निश्लें निश्लें राजस्थान में निश्लें निश्लें राजस्थान में निश्लें निश्लें राजस्थान में निश्लें न राजस्लें न राजसें निश्लं निश्लें",
+Take example topic like:
+{
+}
+"subject": "Rajasthan History",
+"topic": "Mughal Era",
+"question_en": "Which Mughal Emperor ruled Rajasthan?",
+"question_hi": "मग्लें न राजसें निश्लें न राजसें निश्लें",
+"A_en": "Aurangzeb",
+"A_hi": "अरग न्लें निश्लें न राजसें निश्लें",
+"B_en": "Maharana Pratap",
+"B_hi": "मग्लें राजसें निश्लें निश्लें",
+"C_en": "Jaisi",
+"C_hi": "न राजसें निश्लें",
+"answer": "Aurangzeb",
+"explanation_en": "Aurangzeb was the last Mughals prince who ruled Rajasthan before Pratap",
+"explanation_hi": "मग न राजसें निश्लें न राजसें",
+"explanation_hi": "मग न राजसें निश्लें निश्लें",
+}
