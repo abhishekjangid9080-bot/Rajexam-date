@@ -1,0 +1,31 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.",
+"explanation_hi": "जयपुर राजस्थान के राजधानी है।",
+"explanation_hi": "राजस्थान के राजधानी है।"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Crafts and Festivals",
+"question_en": "What is the significance of Rajasthani textiles in Rajasthan culture?",
+"question_hi": "राजस्थान के भविता और प्रदर्श, राजस्थान के काम और फेस्टिवाल और प्रदर्श, राजस्थान का काम और फेस्टिवाल और प्रदर्श, राजस्थान का काम और फेस्टिवाल और प्रदर्श",
+"answer": "B",
+"explanation_en": "The textiles and festivals of Rajasthan play a significant role in the state's culture. Rajasthan kaam aur festivals, Pradarshan, Rajasthan ka kam aur festivals, प्रदर्श, राजस्थान ka kam aur festivals, Pradarshan, Rajasthan ka kam aur festivals, प्रदर्श",
+"explanation_hi": "राजस्थान के काम और फेस्टिवाल, प्रदर्श, राजस्थान ka kam aur festivals, Pradarshan, Rajasthan ka kam aur festivals, प्रदर्श",
+"explanation_en": "The textiles and festivals of Rajasthan play a significant role in the state's culture. Rajasthan kaam aur festivals, Pradarshan, Rajasthan ka kam aur festivals, Pradarshan",
+"explanation_hi": "राजस्थान के काम और फेस्टिवाल, प्रदर्श, राजस्थान ka kam aur festivals, Pradarshan, Rajasthan ka kam aur festivals, Pradarshan",
+}
+]
