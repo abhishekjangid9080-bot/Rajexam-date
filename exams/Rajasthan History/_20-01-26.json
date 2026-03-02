@@ -1,0 +1,66 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who is the founder of Jodhpur?",
+"question_hi": "जोधपुर के संस्करणी कौन है।",
+"A_en": "Rao Jodha", "A_hi": "राव जोध",
+"B_en": "Prithviraj Chauhan", "B_hi": "प्रतीहाँ चौकन",
+"C_en": "Rao Bika", "C_hi": "राव बिका",
+"D_en": "Rao Jodh", "D_hi": "राव जोध",
+"answer": "C",
+"explanation_en": "Rao Bika is the founder of Jodhpur. He established the Meera State during the 15th century.\nराव बिका जोधपुर के संस्करणी कौन है। 15वेंद्र सम्मान के दशक के मैंना प्रणाली की संस्करणी के मैंना प्रणाली की संस्करणी के मैंना प्रणाली के मैंना प्रणाली के मैंना प्रणाली के मैंना प्रणाली के मैंना प्रणाली के मैना प्रणाली के मैना प्रणाली",
+"B_hi": "मैना प्रणाली के मैना प्रणाली",
+"question_en": "Who founded Mina Pratap Sagar Lake?",
+"question_hi": "मिना प्रतप सगार स्पटालक को किसके निवर्षित",
+"A_en": "Mina Pratap Sagar Lake",
+"A_hi": "मैना प्रतप सगार",
+"B_en": "Mina Pratap Sagar Lake",
+"B_hi": "मैना प्रतप सगार",
+"C_en": "Mina Pratap Sagar Lake",
+"C_hi": "मैना प्रतप सगार",
+"D_en": "Mina Pratap Sagar Lake",
+"D_hi": "मैना प्रतप सगार",
+"answer": "C",
+"explanation_en": "Mina Pratap Sagar Lake was built by Rao Raja Mina Pratap Singh in the 16th century. It is a popular water body located in Jaisamand, Udaipur district.",
+"explanation_hi": "मैना प्रतप सगार आचार्यांचे मौल राजा मैना प्रतप सगार के किना इलाचारंगा म्यांचा मौल राजा मैना प्रतप सगार के किना इलाचार्यांचा राजा मैना प्रतप सगार के किना इलाचार्यांचा राजा मैना प्रतप सगार के किना इलाचार्यांचा राजा मैना प्रतप सगार के किना इलाचार्यांचा राजा मैना प्रतप सगार के किना इलाचार्यांचा राजा मैना प्रतप सगार के किना इलाचार राजा मैना परतप सगार के किना इलाचार राजा मैना परतप सगार के किना इलाचार राजा मैना परतप सगार के किना इलाचार राजा मैना परतप सगार किना इलार राजा मैना परतप सगार के के इलार राजा मैना परतप सगार के के इलार राजार किना पर",
+DATA के इलार राजार के इलार राजार राजार",
+"option_en": [
+{
+"text": "Rao Jodhpal",
+"value": "B"
+},
+{
+"text": "Madan Singh",
+"value": "C"
+},
+{
+"text": "Sarda Singh",
+"value": "D"
+},
+{
+"text": "Jaipal Singh",
+"value": "A"
+}
+},
+"option_hi": [
+{
+"text": "राजार राजार",
+"value": "C"
+},
+{
+"text": "राजार राजार",
+"value": "B"
+},
+{
+"text": "राजार राजार",
+"value": "A"
+},
+{
+"text": "राजार राजार",
+"value": "D"
+}
+},
+"answer": "A"
+}
+]
