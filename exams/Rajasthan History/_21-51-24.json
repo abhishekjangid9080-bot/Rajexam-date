@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace in Jaipur was built by Maharaja Jai Singh II?",
+"question_hi": "जयपुर महाराजा जयसिंह जी ने किस उच्चित्राणी बनाई।",
+"A_en": "Amber Fort", "A_hi": "अमेरिका किस्मत",
+"B_en": "Hawa Mahal", "B_hi": "हैवा महाल",
+"C_en": "Cenotaph of Prince Sawai Mansingh II", "C_hi": "सावाई मंसिंग बी का खालीदा मंत्रालय",
+"D_en": "Palace of Winds", "D_hi": "वाहना",
+"answer": "B",
+"explanation_en": "Hawa Mahal, also known as Palace of Winds, is the famous palace in Jaipur built by Maharaja Pratap Singh.",
+"explanation_hi": "हैवा महाल, महाराजा प्रतप सिंग ने बनाया हैवा महाल",
+}
+]
