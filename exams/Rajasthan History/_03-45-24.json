@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Maharaja Mansingh I?",
+"question_hi": "महाराजा माहसिंगी सी बनाई गई किस पसंदगी का धर्मनगर बनाया गया ?",
+"A_en": "Amer Fort", "A_hi": "आमे कंधन",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्बलगढ़ कंधन",
+"D_en": "Ranthambore Fort", "D_hi": "रांझामबार",
+"answer": "C",
+"explanation_en": "Maharaja Mansingh I of Amber Fort constructed the Kumbhalgarh Fort.",
+"explanation_hi": "आमे कंधन के महाराजा मांसिंगी I ने कुम्बलगढ़ कंधन के बने.",
+"explanation_en": "Amer Fort", "explanation_hi": "आमे कंधन",
+"question_en": "Who built the Ranthambore Fort?",
+"question_hi": "रांझाम्बलगढ़ के बने कौन रांझाम्बलगढ़ कंधन के बने को कौन बना?"
+}
+]
