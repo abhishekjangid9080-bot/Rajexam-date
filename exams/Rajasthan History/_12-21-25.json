@@ -1,0 +1,67 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which emperor laid the foundation of the city of Jaipur?",
+"question_hi": "जयपुर की स्थापना करने वाले एमिटर ?",
+"A_en": "King Ram Singh",
+"A_hi": "राम सिंह",
+"B_en": "Pratap Singh",
+"B_hi": "प्रताप सिंह",
+"C_en": "Jai Singh II",
+"C_hi": "जैसिंग II",
+"D_en": "Bhagwant Singh",
+"D_hi": "भागवत सिंह",
+"answer": "C",
+"explanation_en": "Jai Singh II is the emperor who laid the foundation of the city of Jaipur. He was a historical figure and the founder of Jaipur during the Mughal reign.\n\nExplanation in Hindi: जैसिंग II यूरो का भूमिक अभिज्ञानी है और उसके मुगल संतुल्यांग II अभिज्ञानी है और उसके मुगल संतुल्यांग II ने उपाल को बना। उनमें सम्बंध रूपने के मुगल संतुल्यांग II ने उपाल को बना।",
+"question_en": "Who founded the city of Jaipur?",
+"question_hi": "जैसिंग II ने उपाल को बना।",
+"B_en": "Jai Singh II",
+"B_hi": "जैसिंग II",
+"C_en": "Pratap Singh",
+"C_hi": "प्रताप सिंग",
+"D_en": "Madan Mohan Malik",
+"D_hi": "माधन मोहन मालिक",
+"answer": "C",
+"explanation_en": "Pratap Singh, also known as Jai Singh II, is the one who founded the city of Jaipur.",
+"explanation_hi": "Pratap Singh, प्रताप सिंग, Jaipur की संतुल बना।",
+"question_en": "Who founded the city of Jaipur?",
+"question_hi": "जापुर की संतुल कौन बना।",
+"B_en": "Pratap Singh",
+"B_hi": "प्रताप सिंग",
+"C_en": "Jai Singh II",
+"C_hi": "जैसिंग II",
+"D_en": "Madan Mohan Malik",
+"D_hi": "माधन मोहन मालिक",
+"answer": "Jai Singh II",
+"explanation_en": "Jai Singh II, also known as Pratap Singh, is widely regarded as the founder of Jaipur.",
+"explanation_hi": "जैसिंग II, प्रताप सिंग, Jaipur की संतुल को बना।",
+"question_en": "Who is regarded as the founder of Jaipur?",
+"question_hi": "Jaipur की संतुल को कौनों के संतुल को बना।",
+"options": [
+{
+"option_id": 1,
+"option_en": "Jai Singh II",
+"option_hi": "जैसिंग II",
+"option_image": ""
+},
+{
+"option_id": 2,
+"option_en": "Pratap Singh",
+"option_hi": "प्रताप सिंग",
+"option_image": ""
+},
+{
+"option_id": 3,
+"option_en": "Madan Mohan Malik",
+"option_hi": "माधन मोहन मालिक",
+"option_image": ""
+},
+{
+"option_id": 4,
+"option_en": "Amar Singh",
+"option_hi": "अमार सिंग",
+"option_image": ""
+}
+]
+}
