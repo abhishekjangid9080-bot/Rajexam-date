@@ -1,0 +1,30 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which city was the capital of Rajasthan before Jaipur?",
+"question_hi": "जैसे पहले जयपुर राजस्थान के राजधानी थी।",
+"A_en": "Ajmer", "A_hi": "अजमेर",
+"B_en": "Kota", "B_hi": "कोटा",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Jodhpur", "D_hi": "जोधपुर",
+"answer": "D",
+"explanation_en": "Jodhpur was the capital of Rajasthan before Jaipur. The capital was shifted to Jaipur in the early 20th century.",
+"explanation_hi": "जोधपुर राजस्थान के राजधानी थी। इसे पूर्व 20वेंद्र के वर्षों में Jaipur की राजधानी को सेंट की मैंड़ के वर्षों में बदला गया क्रेंट की राजधानी के मैंड़ का उत्तरीन की वर्षों में बदला गया क्रेंट की राजधानी के मैंड़ का उत्तरीन का उत्तरीन की राजधानी का मैंड़ को समुद्रीन की राजधानी का मैंड़ के मंगलों में पैलिस्टर की राजधानी का मैंड़ के मंगलों में पैलिस्टर के मैंड़ का उत्तरीन की राजधानी का मैंड़",
+"A_en": "Palisar",
+"A_hi": "पालिस्टर",
+"B_en": "का उत्तरीन की राजधानी",
+"B_hi": "उत्तरीन की राजधानी",
+"C_en": "नवलों में पालिस्टर",
+"C_hi": "नवलों में पालिस्टर",
+"D_en": "उत्तरीन की राजधानी",
+"D_hi": "उत्तरीन की राजधानी",
+"question_en": "Which city was the capital city of Rajasthan before it became a part of India?",
+"question_hi": "राजस्थान के पहले यहाँ स्पति कहवालें पूर्व India में भवित हुए थे",
+"explanation_en": "Before becoming a part of India, Ajmer was the capital city of Rajasthan.",
+"explanation_hi": "पूर्व भारत में आजैंकी राजस्थान के आजात हुए",
+"answer": "आजैंकी राजस्थान",
+"option_en": ["Ajmer", "Jaipur", "Udaipur", "Jodhpur"],
+"option_hi": ["आजैंकी राजस्थान", ["जैंकी राजस्थान", "उदयन", "कामललस्थान"]
+}
+]
