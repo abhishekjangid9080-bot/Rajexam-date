@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Ranakpur Jain Temples",
+"question_en": "Where are the Ranakpur Jain Temples located?",
+"question_hi": "रानक्पूर जान मंदिर कहाँ हैं ?",
+"A_en": "Udaipur", "A_hi": "उदयपुर",
+"B_en": "Chittorgarh", "B_hi": "चीटरगढ़",
+"C_en": "Ahmedabad", "C_hi": "अहमदाबाद",
+"D_en": "Jodhpur", "D_hi": "जोधुर",
+"answer": "B",
+"explanation_en": "The Ranakpur Jain Temples are located in Chittorgarh, Rajasthan.",
+"explanation_hi": "रानक्पूर जान मंदिर, राजस्थान में हैं।",
+"question_image": ""
+}
+]
