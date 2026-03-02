@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is the oldest fort in Rajasthan?",
+"question_hi": "राजस्थान में कौन से ताजा है ?",
+"A_en": "Amer Fort", "A_hi": "अमेर कंप",
+"B_en": "Kumbhalgarh Fort", "B_hi": "कुंभलगढ़ कंप",
+"C_en": "Jaisamand Fort", "C_hi": "जयसामांड कंप",
+"D_en": "Pratapgarh Fort", "D_hi": "प्रतपगढ़ कंप",
+"answer": "B",
+"explanation_en": "Kumbhalgarh Fort is the oldest fort in Rajasthan. It was built in 15th century by Rana Kumbha.",
+"explanation_hi": "कुंभलगढ़ कंप का राजस्थान में ताजा है। 15वें जन्मित कर्मचारी Kumbha ने इस कंप ने बना।",
+}
+]
