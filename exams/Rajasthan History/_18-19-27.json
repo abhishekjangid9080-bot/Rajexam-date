@@ -1,0 +1,23 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा फोट है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेहरांगर फोट",
+"B_en": "Kalai Kothi", "B_hi": "कालाई कोटी",
+"C_en": "Fateh Prakash Palace", "C_hi": "फटे प्राक",
+"D_en": "Jaswant Thada", "D_hi": "जसवैंत ताड़",
+"answer": "D",
+"explanation_en": "Jaswant Thada is the famous fort located in Jodhpur. It is a marble structure built in memory of Maharaja Jaswant Singh II.",
+"explanation_hi": "जसवैंट ताड़ के बैंक्स यानी राजपूर में है। यह मालवा उत्तम संकेत मंद है आपको राज्य में राजपूर में है। यह मालवा उत्तम है और इसका नाम संकेत में राजपूर में है।",
+"D_hi": "यह मालवा संकेत में हैं। यहाँ राजपूर में है।",
+"answer": "B",
+"explanation_en": "Mehta Fort is located in Jodhpur. This is a historical monument and its name is Rajasthan in Hindi.",
+"explanation_hi": "मेहत किया संकेत में है। इसका नाम राजस्थान में है।",
+"D_hi": "मेहत किया संकेत में है। इसका नाम राजस्थान में है।",
+"answer": "A",
+"explanation_en": "Mehta Fort is located in Jodhpur. It is a historical monument and its name is Rajasthan in Hindi.",
+"explanation_hi": "मेहत किया संकेत में है। इसका नाम हिंदी में राजस्थान है।"
+}
+]
