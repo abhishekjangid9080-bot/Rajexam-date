@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous palace is located in Jaipur?",
+"question_hi": "जयपुर में कौन सा फ़मेस़ाइड है?",
+"A_en": "Amer Fort", "A_hi": "अमेर कंधन",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Ram Singh", "C_hi": "महाराजा महासिंह राम सिंह के संतुलन संतुलन",
+"D_en": "Galta Ji Temple", "D_hi": "गालता जी मंदिर",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur.",
+"explanation_hi": "हवा महाल जापान में बनाई गई है।",
+}
+]
