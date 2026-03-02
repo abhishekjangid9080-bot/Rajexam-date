@@ -1,0 +1,39 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है।",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.",
+"explanation_hi": "जैपुर राजस्थान की राजधानी है।",
+"explanation_images": ["https://www.rajasthan.gov.in/images/state_flag.gif", "https://www.rajasthan.gov.in/images/state_seal.gif"]
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Culture",
+"question_en": "What is the significance of the Chittorgarh Fort in Rajasthan's culture?",
+"question_hi": "राजस्थान के कलाकलों में क्या चिटोरगढ़ फोट किस संदर्भवन का मैंड़े के क्या राजस्थान के कलाकार देखना कैसा मानवी सिधना की समस्तर्भवन, राजस्थान का अंग्रज़न समस्तर्भवन मैंड़े का मानवी सिधना",
+"answer": "B",
+"explanation_en": "The Chittorgarh Fort represents an important historical site and symbolizes the valor and bravery of the Rana Pratap and Rani Kumbha, who fought against the Mughal Empire in the 14th century. Its significance is not limited to history but also reflects the rich cultural heritage of Rajasthan.",
+"explanation_hi": "चीटोरगर्हा फोट एक मैंड़े का मानवी सिधना है। इसका संतर स्वर्ग और राजा प्रतिपी की आतकांगना है।",
+"question_en": "What is the significance of Chittorgarh Fort and Rana Pratap's bravery?",
+"question_hi": "चीटोरगर्हा फोट और राजा प्रतिपी की ब्रेगी कैकांगना है।",
+"answer": "B",
+"explanation_en": "Chittorgarh Fort and Rana Pratap's bravery are associated with the epic battle against the Mughals. Rana Pratap fought bravely against the Mughals at the Chittorgarh Fort, making it significant in Rajasthani history.",
+"explanation_hi": "चीटोरगर्हा फोट और राजा प्रतिपी की ब्रेगी का कैकांगना",
+"explanation_images": [
+"https://www.thehindu.com/news/national/history/chittorgarh-fort-and-pratap-part-2/article186682204.ece",
+"https://www.rajasthanvidyapith.ac.in/wp-content/uploads/2019/04/pratap-1.jpg",
+"https://www.india.com/news/history/2021/01/19/chittorgarh-fort-history-pratap-battle/936793857.html"
+]
+}
+]
