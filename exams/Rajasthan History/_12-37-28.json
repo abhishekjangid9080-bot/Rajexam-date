@@ -1,0 +1,45 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the significance of Mehrangarh Fort in Jodhpur?",
+"question_hi": "जोधपुर मेहरांगार क्या महत्व है?",
+"A_en": "It is a military fort.",
+"A_hi": "इस मशहर में सेवा सम्मेलन के लिए बना गया था",
+"B_en": "It houses the world's largest private collection of art.",
+"B_hi": "इसमें विश्वसभा के अनुसार सरकारी की सर्वोत्र के विभिन्न है",
+"C_en": "It is a popular tourist attraction.",
+"C_hi": "यह प्रवेश के पसंदीदेंग ट्यूटियाँ हैं",
+"D_en": "It was built by Maharaja Jaswant Singh.",
+"D_hi": "महाराजा जस्वान सिंग ने इस किया है।",
+"question_en": "What is the significance of Mehrangarh Fort in the history of Rajasthan?",
+"question_hi": "राजस्थान के प्रधान श्लोक स्पैसर ने इस किया है।",
+"options": [
+{
+"option_text_en": "It is a popular tourist attraction.",
+"option_text_hi": "यह प्रवर्ती पसार है।",
+"option_key_en": "attraction",
+"option_key_hi": "प्रवर्ती तथा पुरातत्व के विवरण के लिए है।",
+"option_value_en": "attraction",
+"option_value_hi": "पुरातत्व के विवरण के लिए है।",
+"correct_answer": "attraction"
+},
+{
+"option_text_en": "It was built by Maharaja Jaswant Singh.",
+"option_text_hi": "महाराजा जासंत सिंग ने इस बना है।",
+"option_key_en": "builder",
+"option_key_hi": "बनावक",
+"option_value_en": "builder",
+"option_value_hi": "बनावक",
+"correct_answer": "builder"
+},
+{
+"option_text_en": "It is the residence of the Maharaja of Jodhpur.",
+"option_text_hi": "जोधपुर का महाराजा की घर है।",
+"option_key_en": "residence",
+"option_key_hi": "घर",
+"option_value_en": "residence",
+"option_value_hi": "घर",
+"correct_answer": "residence"
+}
+]
