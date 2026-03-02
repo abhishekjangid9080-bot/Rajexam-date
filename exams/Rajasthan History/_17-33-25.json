@@ -1,0 +1,56 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Founding and Early History",
+"question_en": "Who was the founder of the Mewar dynasty?",
+"question_hi": "मेवार की प्रधान कौन थे?",
+"A_en": "Pratap Singh",
+"A_hi": "प्रतपसंघ",
+"B_en": "Rana Kumbha",
+"B_hi": "राने कुम्भ",
+"C_en": "Rao Jodha",
+"C_hi": "राव जोध",
+"D_en": "Rana Sanga",
+"D_hi": "राना संग",
+"answer": "C",
+"explanation_en": "Rao Jodha is considered the founder of the Mewar dynasty as he established the city of Amer and the Sisodia Rajput clan that later gave rise to the Rana clan.",
+"explanation_hi": "राव जोध मेवार के प्रधान बनने की जानी है क्योंकि यह एमेवार की सैंडों के छत्रपुर के सम्मैंडों के सैंडों के छत्रपुर के इंटेन्डों के पावर स्वामी के इंटेन्डों के इंटेन्डों के पावर स्वामी के इंटेन्डों के इंटेन्डों के पावर स्वामी के इंटेन्डों के पावर स्वामी",
+"question_hi": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"A_hi": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"options": [
+{
+"option_id": "A",
+"option_text": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"option_correct": "A",
+"option_difficulty": "Easy",
+"option_time": "30 seconds"
+},
+{
+"option_id": "B",
+"option_text": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"option_correct": "B",
+"option_difficulty": "Medium",
+"option_time": "45 seconds"
+},
+{
+"option_id": "C",
+"option_text": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"option_correct": "C",
+"option_difficulty": "Hard",
+"option_time": "60 seconds"
+},
+{
+"option_id": "D",
+"option_text": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"option_correct": "D",
+"option_difficulty": "Hard",
+"option_time": "90 seconds"
+},
+{
+"option_id": "E",
+"option_text": "राजस्थान के इंटेन्डों के पावर स्वामी",
+"option_correct": "E",
+"option_difficulty": "Hard",
+"option_time": "120 seconds"
+}
+]
