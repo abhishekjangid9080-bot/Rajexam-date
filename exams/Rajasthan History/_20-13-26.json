@@ -1,0 +1,72 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "First Princely States",
+"question_en": "Which of the following was the first princely state to join the Indian Union?",
+"question_hi": "किस निविष्टित शहर इंडिया के संघ में पहुंच चुका पहला निविष्टित शहर है ?",
+"A_en": "Ajmer",
+"A_hi": "अजमेर",
+"B_en": "Jodhpur",
+"B_hi": "जोधपुर",
+"C_en": "Jaipur",
+"C_hi": "जयपुर",
+"D_en": "Meerut",
+"D_hi": "मीरूट",
+"answer": "C",
+"explanation_en": "Jaipur, the capital of Rajasthan, was the first princely state to join the Indian Union.",
+"explanation_hi": "राजस्थान का निविष्टित शहर, इन्नत की संघ में पहुंची के लिए।",
+"explanation_hi": "राजस्थान के निविष्टित शहर है, इन्नत की संघ में पहुंची के लिए।",
+"explanation_hi": "राजस्थान के निविष्टित शहर, इन्नत की संघ में पहुंची के लिएं।",
+"question_en": "Which Rajasthan's princely state joined the Indian Union first?",
+"question_hi": "राजस्थान के निविष्टित शहर, इन्नत की संघ में पहुंची के लिएं।",
+"question_en": "Which princely state of Rajasthan became a part of the Indian Union first?",
+"question_hi": "राजस्थान के निविष्टित शहर, इन्नत की संघ में पहुंची के लिएं।",
+"options": [
+{
+"option_number": 1,
+"option_text_en": "Amber",
+"option_text_hi": "अम्बर",
+"option_answer_en": "Amber",
+"option_answer_hi": "अम्बर",
+"option_explanation_en": "Amber became a part of the Indian Union first.",
+"option_explanation_hi": "अम्बर राजस्थान के संघ में पहुंचा अलगत हें।",
+"option_explanation_en": "Amber joined the Indian Union.",
+"option_explanation_hi": "अम्बर राजस्थान के संघ में पहुंचा अलगत हें।",
+"option_answer_hi": "अम्बर",
+"option_answer_en": "Amber"
+},
+{
+"option_number": 2,
+"option_text_en": "Jodhpur",
+"option_text_hi": "झोदपुर",
+"option_answer_en": "Jodhpur",
+"option_answer_hi": "झोदपुर",
+"option_explanation_en": "Jodhpur joined the Indian Union.",
+"option_explanation_hi": "झोदपुर राजस्थान के संघ में प्रवर्त्ता हें।",
+"option_answer_hi": "झोदपुर",
+"option_answer_en": "Jodhpur"
+},
+{
+"option_number": 3,
+"option_text_en": "Kota",
+"option_text_hi": "कोंटा",
+"option_answer_en": "Kota",
+"option_answer_hi": "कोंटा",
+"option_explanation_en": "Kota joined the Indian Union.",
+"option_explanation_hi": "कोंटा राजस्थान कोंटा परी प्रेंटा राजसंटा",
+"option_answer_hi": "कोंटा",
+"option_answer_en": "Kota"
+},
+{
+"option_number": 4,
+"option_text_en": "Jaisamaj",
+"option_text_hi": "जीसांटा",
+"option_answer_en": "Jaisamaj",
+"option_answer_hi": "जीसांटा",
+"option_explanation_en": "Jaisamaj joined the Indian Union.",
+"option_explanation_hi": "जीसांटा राजसांटा राजीसांटा",
+"option_answer_hi": "जीसांटा",
+"option_answer_en": "Jaisamaj",
+"option_answer_hi": "जीसांटा"
+}
+]
