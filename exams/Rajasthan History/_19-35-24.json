@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Ancient Cities",
+"question_en": "Which was the capital of Rajasthan before Jaipur?",
+"question_hi": "जैसा राजस्थान में निगमन मोटरेस्ट के पहले किस शहर का हुआ था?",
+"A_en": "Amber", "A_hi": "अम्बर",
+"B_en": "Jhalawar", "B_hi": "झौलवार",
+"C_en": "Jaisalmer", "C_hi": "जयसालमर",
+"D_en": "Pushkar", "D_hi": "पुष्कर",
+"answer": "C",
+"explanation_en": "Jaisalmer was the capital of Rajasthan before Jaipur. The city was founded by Rao Jaisal in 1156 AD.",
+"explanation_hi": "जयसालमर राजस्थान के पहले किस शहर का हुआ था? इसका संतुलन बेसल ने 1156 अम्बर में बना गया।",
+}
+]
