@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Maharaja Jai Singh II in Jaipur?",
+"question_hi": "महाराजा जयसिंघ सिंह एकजुट के बनाए गए कई फोटो को कहाँ मंच करते हैं?",
+"A_en": "Amber Fort", "A_hi": "अमेर फोट",
+"B_en": "Nahargarh Fort", "B_hi": "नाहारगाढ़ Fort",
+"C_en": "Hawa Mahal", "C_hi": "हावा महाल",
+"D_en": "City Palace", "D_hi": "शहर प्लेस",
+"answer": "B",
+"explanation_en": "Nahargarh Fort is the hill fort built by Maharaja Jai Singh II in Jaipur.",
+"explanation_hi": "नाहारगाढ़ Fort, Maharaja Jai Singh II के चर्चकर, Jaipur mein बना गया है।",
+}
+]
