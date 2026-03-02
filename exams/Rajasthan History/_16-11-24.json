@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic fort is located in Jaisalmer?",
+"question_hi": "जयसालमर में कौन सी अभिवासी धर्म है।",
+"A_en": "King's Palace", "A_hi": "राजा का पर्द्याल",
+"B_en": "Patwa Ki Baoli", "B_hi": "पाटवा की बाईयाल",
+"C_en": "Gadisar Lake", "C_hi": "गदिसर कलाकोणी",
+"D_en": "Havelis", "D_hi": "हावली",
+"answer": "B",
+"explanation_en": "Patwa Ki Baoli is a historic stepwell located in Jaisalmer.\nIn Hindi, this translates to: पाटवा की बाईयाल - जयसालमर में स्थित है।",
+"explanation_hi": "जयसालमर में पाटवा की बाईयाल है।"
+}
+]
