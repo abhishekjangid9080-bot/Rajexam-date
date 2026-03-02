@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर के लोकल कटकेंट क्या हैं?",
+"A_en": "Amer Fort", "A_hi": "अमेर कटक",
+"B_en": "Fatehpur Sikri", "B_hi": "फटहरू सिक्री",
+"C_en": "Hawa Mahal", "C_hi": "हावा महाल",
+"D_en": "Nahargarh Fort", "D_hi": "नारगढ़ कटक",
+"answer": "D",
+"explanation_en": "Nahargarh Fort is a famous fort located in Jaipur, Rajasthan. It was built by Maharaja Sawai Jai Singh II for his queen.",
+"explanation_hi": "नारगढ़ कटक, राजस्थान के राजन सवाई जय सिंग II ने उनकी मात्रा के लोड़ी के लिए गया था।",
+}
+]
