@@ -1,0 +1,37 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Maharaja Mansingh of Amber?",
+"question_hi": "राजस्थान में माहाराजा माहंसिंग अमेर के स्तंभिकी के तहत बनाया गया एक यात्रा को क्या विभाग बनाया गया था?",
+"A_en": "Amer Fort", "A_hi": "अमेर को।",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार।",
+"C_en": "Hawa Mahal", "C_hi": "हावा महाल।",
+"D_en": "Sanganeri Khaas", "D_hi": "सांघणी खास।",
+"answer": "C",
+"explanation_en": "Amer Fort is a popular tourist attraction in Jaipur, Rajasthan. However, in history, the part that was built for the kingdom of Jaipur is the Hawa Mahal. The Hawa Mahal is a palace famous for its unique architecture and was built by Maharaja Sawai Pratap Singh in 1793.",
+"explanation_hi": "जैसार स्पष्ट अर्थशास्ता की विश्वभूमी में उन्नी, जमीना बैंगन के चंद्र शास्ता के टीबियों के मंगलों, जो संग्राम बैंगन के चंद्र शास्ता के विकरन के पैमी में टीबियों",
+"question_en": "Which famous fort was built by Rana Kumbha and his descendants in Jaipur?",
+"answer": "C",
+"explanation_en": "The Amer Fort, built by Rana Kumbha and his descendants, is a popular tourist attraction in Jaipur, Rajasthan. It is known for its exquisite architecture and historical significance.",
+"explanation_hi": "जैसांगराम बैंगन और उनके उपनामी के टीबियों",
+"options": [
+{
+"option": "कुम्भर बैंगन",
+"option_en": "Kumbha Rana",
+"option_hi": "कुम्भर बैंगन",
+"option_key": "C"
+},
+{
+"option": "मंगलपुर",
+"option_en": "Mangalpur",
+"option_hi": "मंगलपुर",
+"option_key": "D"
+},
+{
+"option": "श्लोक",
+"option_en": "Salwan",
+"option_hi": "श्लोक",
+"option_key": "B"
+}
+]
