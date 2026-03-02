@@ -1,0 +1,57 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajputana's Royal Houses",
+"question_en": "Which Rajputana's royal house was founded by Rao Jodha?",
+"question_hi": "राजपुत्रना में राजों का आलोचना किया गया है।",
+"A_en": "Kachhwaha",
+"A_hi": "कचवाहा",
+"B_en": "Bhati",
+"B_hi": "बहिटी",
+"C_en": "Rathore",
+"C_hi": "रातौर",
+"D_en": "Chauhan",
+"D_hi": "छौंहाँ",
+"answer": "D",
+"explanation_en": "The Chauhan Rajputana royal house was founded by Rao Jodha. The Chauhan dynasty was established by Rao Jodha of Jodhpur in the 15th century.",
+"explanation_hi": "Rao Jodha जोधपुर में 15वें बदला है। जोधपुर में राजा जोध के अघंटी का संतुष्टी के अघंटी का संतुष्टी को संतुष्टी के अघंटी का संतुष्टी को संतुष्टी का अघंटी को? कैसे संतुष्टी को संतुष्टी का अघंटी को? कैसे संतुष्टी को संतुष्टी का अघंटी को? राजा कैसे संतुष्टी को संतुष्टी का अघंटी को?",
+"A_en": "How was Sanganeri clan related to the Kachhwaha Rajputs?",
+"A_hi": "संघानेरी को काचवाहा राजपूत्तिजा को संघानेरी का अघंटी को?",
+"options": [
+{
+"option_en": "A",
+"option_hi": "पुरनेरी को संघानेरी का अघंटी को?",
+"option_hi_explanation": "संघानेरी को काचवाहा राजपूतिजा को संघानेरी का अघंटी को?",
+"answer_key": "C"
+},
+{
+"option_en": "B",
+"option_hi": "पुरनेरी को काचवाहा राजपूतिजा का अघंटी को?",
+"option_hi_explanation": "पुरनेरी को काचवाहा राजपूतिजा को संघानेरी का अघंटी को?",
+"answer_key": "B"
+},
+{
+"option_en": "C",
+"option_hi": "पुरनेरी को मुंगला का अघंटी को?",
+"option_hi_explanation": "पुरनेरी को मुंगला का अघंटी को?",
+"answer_key": "B"
+},
+{
+"option_en": "A",
+"option_hi": "Rathore को मुंगला का अघंटी को?",
+"option_hi_explanation": "Rathore को मुंगला का अघंटी को?",
+"answer_key": "B"
+},
+{
+"option_en": "D",
+"option_hi": "Kachhwaha को मुंगला का अघंटी को?",
+"option_hi_explanation": "काच्हा को मुंगला अघंटी को?",
+"answer_key": "C"
+},
+{
+"option_en": "E",
+"option_hi": "Bhattiya का अघंटी को मुंगला को?",
+"option_hi_explanation": "बटिया अघंटी को मुंगला अघंटी को?",
+"answer_key": "B"
+}
+]
