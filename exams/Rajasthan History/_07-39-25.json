@@ -1,0 +1,41 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Capitals",
+"question_en": "Which city served as the capital of Rajasthan before Jaipur?",
+"question_hi": "जयपुर के पहले राजस्थान की राजधानी के नाम क्या था?",
+"A_en": "Ajmer", "A_hi": "अजमेर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jodhpur", "C_hi": "जोधपुर",
+"D_en": "Alwar", "D_hi": "अल्वार",
+"answer": "Udaipur",
+"explanation_en": "Udaipur served as the capital of Rajasthan before Jaipur. It was the capital during the rule of Maharana Fateh Singh of Mewar from 1727 to 1743.",
+"explanation_hi": "उदयपुर, राजस्थान के पहले राजधानी थी। इसके मूल राजपुर में राजधानी हुई, जब मेघर सर्वेंट के मूल राजपुर में राजधानी हुई थी, जब मेघर सर्वेंट के मूल राजपुर में राजधानी हुई थी, जब मेघर सर्वेंट के मूल राजपुर में राजधानी हुई थी।",
+"question_hi": "मेघर सर्वेंट के मूल राजपुर में राजधानी हुई थी।",
+"options": [
+{
+"option_id": 1,
+"option_text_hi": "मंगलों सर्वेंट",
+"option_text_en": "Mangal Singh",
+"is_correct": false
+},
+{
+"option_id": 2,
+"option_text_hi": "मंगलों सर्वेंट",
+"option_text_en": "Mangal Singh",
+"is_correct": false
+},
+{
+"option_id": 3,
+"option_text_hi": "बंगना\u00b0",
+"option_text_en": "Bhanwar Singh",
+"is_correct": true
+},
+{
+"option_id": 4,
+"option_text_hi": "मंगलों सर्वेंट",
+"option_text_en": "Mangal Singh",
+"is_correct": false
+}
+]
+]
