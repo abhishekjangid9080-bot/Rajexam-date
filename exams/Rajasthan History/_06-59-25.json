@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Famous Cities",
+"question_en": "What are some of the famous cities in Rajasthan besides the capital?",
+"question_hi": "राजस्थान के निवृत्तियों के बाद राजधानी को बीते के दूसरे महत्वपूर्ण शहरों के नामों को भी दो।",
+"A_en": ["Jaipur", "Udaipur", "Jodhpur", "Jaisalmer"],
+"A_hi": ["जयपुर", "उदयपुर", "जोधपुर", "जयसलमर"],
+"B_en": ["Alwar", "Jhunjhunu", "Chittorgarh", "Bikaner"],
+"B_hi": ["अलवार", "जूणजुंणू", "�� چीतोगरगण", "बिकानेर"],
+"C_en": ["Gujarat", "Haryana", "Maharashtra", "Madhya Pradesh"],
+"C_hi": ["गुजरात", "हरैंगां", "महाराष्ट्र", "मेडी प्रादेश"],
+"D_en": ["Mughal", "Mewar", "Marwar", "Gurjara Pratihari"],
+"D_hi": ["मुगल", "मेवार", "मोर", "गुजरा प्रातिहार"],
+"E_en": ["Architecture", "Politics", "Economics", "Geography"],
+"E_hi": ["आकार", "प्रधानी", "वैयाक", "ग्रोजरा प्रातिहार"]
+}
