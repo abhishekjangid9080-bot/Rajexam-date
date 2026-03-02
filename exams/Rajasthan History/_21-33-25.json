@@ -1,0 +1,62 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Capital Changing Events",
+"question_en": "Which significant event marked the change in the capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधानी का किसका मौलिक कार्यक्रम है?",
+"A_en": "Translation of Bhopal to Udaipur (in 1949)",
+"A_hi": "बॉपाल से उदयपुर तक से बदलने (1949 में)",
+"B_en": "Translation of Jaipur to Udaipur (in 1949)",
+"B_hi": "जयपुर से उदयपुर तक से बदलने (1949 में)",
+"C_en": "Translation of Jodhpur to Udaipur (in 1949)",
+"C_hi": "झौड़ी से उदयपुर तक से बदलने (1949 में)",
+"D_en": "Translation of Ajmer to Udaipur (1876)",
+"D_hi": "अजमी से उदयपुर तक से बदलने (1876 में)",
+"answer": "B",
+"explanation_en": "The correct answer is B as Ajmer was the capital of Rajasthan before it was translated to Udaipur in 1949.",
+"explanation_hi": "सच्चंद्र से उदयपुर तक से बदलने के पहले फ़िलने के पर पूर्वमंड़ से उदयपुर तक से बदलने (1949 में)",
+"explanation_hi": "स्टॉयंट से पूर्वमंड़ से उदयपुर तक से बदलने (1949 में)",
+"explanation_en": "Before the translation of Udaipur from west to east (1949), the capital of Rajasthan was situated in Patan (previous capital).",
+"question_en": "Which city in Rajasthan used to be the capital before Udaipur was translated from west to east (1949)",
+"question_hi": "उदयपुर से पश्चार्मंड़ से पूर्वमंड़ से उदयपुर तक से बदलने (1949)",
+"question_hi": "उदयपुर से पश्चार्मंड़ से पूर्वमंड़ से उदयपुर तक से बदलने (1949)",
+"A_en": "Udaipur from west to east (1949)",
+"A_hi": "उदयपुर से पूर्वमंड़ से उदयपुर तक से बदलने (1949)",
+"B_en": "Udaipur from east to west (1949)",
+"B_hi": "उदयपुर से पूर्वमंड़ से उदयपुर तक से बदलने (1949)",
+"C_en": "Udaipur from north to south (1949)",
+"C_hi": "उदयपुर से पशांचे से उदयपुर तक से बदलने (1949)",
+"D_en": "Udaipur from west to east (1949)",
+"D_hi": "उदयपुर से पूर्वमंड़ तक से उदयपुर तक से बदलना (1949)",
+"question_en": "Where was Udaipur located before its change in direction (1949)",
+"question_hi": "उदयपुर के चौर तक से बदलनमेचा॰ ते चार ते बदलना (1949)",
+"options": [
+{
+"choices": [
+{
+"option_en": "Jaipur",
+"option_hi": "ज॰",
+"answer": "बदले चा॰",
+},
+{
+"option_en": "Jodhpur",
+"option_hi": "जओ॰",
+"answer": "बदलना",
+},
+{
+"option_en": "Ajmer",
+"option_hi": "असओ॰",
+"answer": "बदल॰",
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदयर (Jaisme)",
+"answer": "बदलना (1949)",
+},
+{
+"option_en": "Alwar",
+"option_hi": "अपर",
+"answer": "बदल॰ (1949)",
+}
+]
+]
