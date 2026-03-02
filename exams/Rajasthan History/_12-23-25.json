@@ -1,0 +1,92 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built during the reign of Rao Jodha?",
+"question_hi": "राजस्थान में राजवासी राज्य मंत्रालय के बनने वाला एक मुख्यालय कौन सा बनाया गया था जो राजवासी राज्य मंत्रालय के बनने वाला वर्तमान में राजवासी राज्य मंत्रालय का नाम 'जंगलपुर' है।
+
+यहाँ एक विस्तरंध मांगलपुर के नाम का शीर्षितम प्रेरणा के से प्रासपुर का नाम है।
+
+आपको इसे मिलेगी, जब आप प्रासेपुर के नाम को प्रेरणा के तारंगलपुर का तिरंगलपुर के नाम से जानने के लिए।",
+"answer": "प्रेरणा",
+"options": [
+{
+"option_en": "Jaipur",
+"option_hi": "जापुर",
+"option_correct": "प्रेरणा"
+},
+{
+"option_en": "Jaisamand",
+"option_hi": "जासमांड",
+"option_correct": "जापुर"
+},
+{
+"option_en": "Amber Fort",
+"option_hi": "अम्बर फोट",
+"option_correct": "जापुर"
+},
+{
+"option_en": "Hawa Mahal",
+"option_hi": "हाउ महाल",
+"option_correct": "जापुर"
+}
+]
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the builder of the Amber Fort in Jaipur?",
+"question_hi": "अम्बर फोट के बाइलर कौनों थे।",
+"answer": "Prince Mansingh",
+"options": [
+{
+"option_en": "Prince Mansingh",
+"option_hi": "प्रिज्यूसी मांसिंग",
+"option_correct": "Prince Mansingh"
+},
+{
+"option_en": "Prince Man Singh",
+"option_hi": "प्रिज्यूसी मानसिंग",
+"option_correct": "Prince Mansingh"
+},
+{
+"option_en": "Prince Jai Singh II",
+"option_hi": "प्रिज्यूसी जय सिंग II",
+"option_correct": "Prince Mansingh"
+},
+{
+"option_en": "Prince Madho Singh I",
+"option_hi": "प्रिज्युसी मधो सिंग I",
+"option_correct": "Prince Mansingh"
+}
+]
+},
+{
+"subject": "Rajasthan Rajputana",
+"topic": "Rajputana",
+"question_en": "Which famous fort is located in Ajmer?",
+"question_hi": "आजमी मेंटियाँ",
+"answer": "Amber Fort",
+"options": [
+{
+"option_en": "Amber Fort",
+"option_hi": "अंबर फोट",
+"option_correct": "Amber Fort"
+},
+{
+"option_en": "Kumbhalgarh Fort",
+"option_hi": "कुम्बेलगढार्ह फोट",
+"option_correct": "Kumbhalgarh Fort"
+},
+{
+"option_en": "Chittorgarh Fort",
+"option_hi": "चितोरगार फोट",
+"option_correct": "Chittorgarh Fort"
+},
+{
+"option_en": "Nathdwara Fort",
+"option_hi": "नाथडवाड़ारा फोट",
+"option_correct": "Nathdwara Fort"
+}
+]
+}
