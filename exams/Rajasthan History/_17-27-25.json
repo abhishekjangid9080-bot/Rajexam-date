@@ -1,0 +1,61 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital",
+"question_en": "What is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी क्या है?",
+"A_en": "Jodhpur",
+"A_hi": "जोधपुर",
+"B_en": "Jaipur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jaipur is the capital of Rajasthan.",
+"explanation_hi": "जयपुर, राजस्थान की राजधानी है।",
+"explanation_hindi": "राजस्थान की राजधानी है, जयपुर"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Culture",
+"question_en": "What is the most famous art form of Rajasthan?",
+"question_hi": "राजस्थान का बजार क्या है?",
+"A_en": "Khethi",
+"A_hi": "केहीं",
+"B_en": "Tribal Art",
+"B_hi": "ट्राबल कार्ति",
+"C_en": "Thar Desert",
+"C_hi": "थार डेस्ट",
+"D_en": "Folk Dance",
+"D_hi": "फॉक डेंग",
+"answer": "D",
+"explanation_en": "Folk Dance is the most famous art form of Rajasthan.",
+"explanation_hi": "राजस्थान का सब्स्ट",
+"explanation_hindi": "राजस्थान का फॉक डेंग"
+},
+{
+"subject": "Rajasthan History",
+"topic": "Princely States",
+"question_en": "Which of the following princely states was merged with the Indian Union in 1949?",
+"question_hi": "वर्षियां के किस्ट यां के कौन अंगूर में 1949 में शांतरन कांचे संबंध में शाम्बे को यांचे संबंध में 1949 में शांतरन कांचे संबंध में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शाम्बे कोंचे संबंध में 1949 में शामें",
+"B",
+"C",
+"D"
+,
+"answer": "A",
+"explanation_en": "Jaipur was the capital of Rajasthan before the merger with India in 1949.",
+"explanation_hi": "जयं रा रा शामें शामें शामिं शामें 1949 शामें",
+"B",
+"C",
+"D"
+},
+"answer": "A",
+"explanation_en": "Jaipur was the capital of Rajasthan before the merger with India in 1949.",
+"explanation_hi": "जया रा रा शामें शामें 1949 शामें",
+"B",
+"C",
+"D"
+}
+]
