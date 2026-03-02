@@ -1,0 +1,17 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में पवन के किस नामक पत्रकारी है।",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरनगरपुर के पत्रकारी",
+"B_en": "Khewra Fort", "B_hi": "कृष्णावाला के पत्रकारी",
+"C_en": "Lalgarh Fort", "C_hi": "लालगढ़ के पत्रकारी",
+"D_en": "Sajjangarh Fort", "D_hi": "सजंगरहस्य के पत्रकारी",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is the famous newspaper reporter located in Jodhpur.",
+"explanation_hi": "मेरनगरपुर में कीस्तथंघरहस्य के पत्रकारी",
+"explanation": "Mehrangarh Fort is a well-known fort in Jodhpur and is also known as the newspaper reporter place.\nThe other options provided are forts located in Khevsar (Khevsara), Lalgarh, and Sajjan Garh, but Mehrangarh Fort is the correct answer.",
+"explanation_hi": "मेरनगरपुर में कीस्तथंघरहस्य के पत्रकारी",
+}
+]
