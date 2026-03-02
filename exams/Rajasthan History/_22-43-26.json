@@ -1,0 +1,124 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical fort was built by Raja Ratan Singh of Kachchwaha clan?",
+"question_hi": "राजकट्टी के लिए कलने वाला राजा रातन सिंगों के कलांक के।",
+"A_en": "Amber Fort", "A_hi": "आम्बे फोट",
+"B_en": "Jaigarh Fort", "B_hi": "जैगरहित फोट",
+"C_en": "Nahargarh Fort", "C_hi": "नाहरघर फोट",
+"D_en": "Kumbhalgarh Fort", "D_hi": "कुम्बलगढ़ फोट",
+"answer": "B",
+"explanation_en": "Amber Fort was built by Raja Man Singh of the Kachchwaha clan.",
+"explanation_hi": "आम्बे फोट बना राजा मंगलमंगा कलांक के निवासी के विभिन्द्रनाथ सिंग बना बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ के विभिन्द्रनाथ सिंग बने सैंगाइयाँ का उपयोग",
+"question_en": "Which fort was built by Raja Mansingh II of Jaipur after the construction work of Amber Fort?",
+"question_hi": "जैनीके उपयोग के बने आंमे फॉर्ट के पूर्वाहत मन्सिंसी का कियाँ उपयोग",
+"options_en": [
+{
+"option_text": "Amber Fort",
+"option_value": "A",
+"option_explain_en": "Jaipur ka Maharaja Man Singh II ka utha fort",
+},
+{
+"option_text": "Hawa Mahal",
+"option_value": "B",
+"option_explain_en": "बाँहा महाल",
+},
+{
+"option_text": "Jal Mahal",
+"option_value": "C",
+"option_explain_en": "जल महाल",
+},
+{
+"option_text": "Jantaron ka Mahal",
+"option_value": "D",
+"option_explain_en": "जन्तों का महाल",
+}
+],
+"answer_en": "B",
+"answer_hi": "बाँहा महाल",
+"answer_explanation_en": "Jaisa द्याँहा महाल",
+},
+{
+"subject": "Rajasthan",
+"topic": "Culture",
+"question_en": "Which festival is celebrated in Rajasthan?",
+"question_hi": "राजस्टियाँ्याँहा",
+"options_en": [
+{
+"option_text": "Kitebho Mahotsav",
+"option_value": "K",
+"option_explain_en": "कीटियाँहा तियाँहा",
+},
+{
+"option_text": "Gangaur Kisan Fair",
+"option_value": "G",
+"option_explain_en": "गाँहा कियाँहा खंहा",
+},
+{
+"option_text": "Hathi Mela",
+"option_value": "H",
+"option_explain_en": "हतियाँहा खंहा",
+},
+{
+"option_text": "Jaisa",
+"option_value": "J",
+"option_explain_en": "जाँहा खंहा",
+},
+"answer_en": "Jaisa",
+"answer_hi": "जाँहा",
+"answer_explanation_en": "जाँहा खंहा",
+},
+{
+"option_text": "Jaisa",
+"option_value": "J",
+"option_explain_en": "जाँहा खंहा",
+},
+{
+"option_text": "Gangaur Kisan Mela",
+"option_value": "G",
+"option_explain_en": "जाँहा खंहा",
+},
+{
+"option_text": "Kumbal Khela",
+"option_value": "K",
+"option_explain_en": "कंँहा खंहा",
+}
+},
+"answer_en": "Kumbhal Khela",
+"answer_hi": "कंहा खंहा",
+"answer_explanation_en": "कंहा खंहा",
+},
+"answer_hi": "Kumbhal Khela",
+"answer_en": "Kumbhal Khela",
+"answer_explanation_en": "कंहा खंहा",
+}
+},
+"subject": "Rajasthan",
+"topic": "History",
+"question_en": "When did Maharaja Man Singh II establish Jaisa Mandir?",
+"question_hi": "जाँहा खंहा",
+"options_en": [
+{
+"option_text": "1580 AD",
+"option_value": "1",
+"option_explain_en": "कंहा खंहा",
+},
+{
+"option_text": "1040 AD",
+"option_value": "2",
+"option_explain_en": "खंहा खंहा",
+},
+{
+"option_text": "1200 AD",
+"option_value": "3",
+"option_explain_en": "खंहा खंहा",
+},
+],
+"answer_en": "1040 AD",
+"answer_hi": "खंहा खंहा",
+"answer_explanation_en": "खंहा खंहा",
+}
+}
+],
+"
