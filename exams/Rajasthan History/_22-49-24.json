@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में बड़े संगठन क्या है ?",
+"A_en": "Amer Fort", "A_hi": "अमेर कठिनाइया",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Nahargarh Fort", "C_hi": "नाहरगढ़ कठिनाइया",
+"D_en": "Central Museum", "D_hi": "केंद्रीय मुख्यमंत्री",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous palace located in Jaipur, known for its unique architecture.",
+"explanation_hi": "हवा महाल जापान में स्थित है, इसका क्रमीकारणी करने के लिए आशा है।",
+"explanation_hi": "हवा महाल जापान में स्थित है। इसका क्रमीकारणी के लिए आशा है।",
+"explanation_en": "Hawa Mahal is located in Jaipur and is known for its unique architecture inspired by the architectural designs of Persia."
+}
