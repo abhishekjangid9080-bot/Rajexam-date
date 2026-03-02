@@ -1,0 +1,47 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first ruler of Mewar?",
+"question_hi": "मैवर के पहले समाज सचिव कौन थे।",
+"A_en": "Rao Jodha", "A_hi": "राव जोधा",
+"B_en": "Prithviraj Chauhan", "B_hi": "प्रतीतीर्थ चौधरण",
+"C_en": "Harsha", "C_hi": "हरसा",
+"D_en": "Rana Kumbha", "D_hi": "राना कुम्बी",
+"answer": "A",
+"explanation_en": "Rao Jodha was the first ruler of Mewar. He founded the city of Jaipur in 1773 BCE.",
+"explanation_hi": "राव जोधा मैवर के पहले समाज सचिव थे। उन्हें जापूर के संगमम देखने पर उनें Jaipur का उद्यार 1773 B.C.E में बनी गर्थ हुई।",
+"question_hi": "मैवर के पहले समाज सचिवों के बातचार कहने पर उन्हें Jaipur का उद्यार 1773 बीएसएस में बनी गर्थ हुई।",
+"A_en": "On which Rajput ruler's birth year was Jaipur founded?",
+"A_hi": "जापूर के बेला के बातचर पर Jaipur बनी गर्थ हुई।",
+"B_en": "Which Rajput king established the city of Jaipur?",
+"B_hi": "जापूर के बेला ने Jaipur को सचिवालके बन्ने पर बना उत्तमयाल पर बना गर्थ हुई।",
+"C_en": "Who established the town of Amber?",
+"C_hi": "जापूर ने Amber को बना पर बना गर्थ हुई।",
+"D_en": "When was the city of Jaipur founded?",
+"D_hi": "जापूर ने Jaipur को बना पर उत्तमयाल पर बना गर्थ हुई।",
+"question_en": "When was the city of Jaipur founded?",
+"question_hi": "जापूर ने Jaipur को बना पर उत्तमयाल पर बना गर्थ हुई।",
+"options": [
+{
+"option_option": "Jaipur was founded in 1727 AD.",
+"option_option_en": "Jaipur was founded in 1727 AD.",
+"option_option_hi": "Jaipur ko 1727 AD me banaya gaya gath",
+},
+{
+"option_option": "Amber was founded before Jaipur.",
+"option_option_en": "Amber was founded before Jaipur.",
+"option_option_hi": "अमबेर को जापूर के बाद में Jaipur को बना गर्थ हुई",
+},
+{
+"option_option": "Bikaner was established after Jaipur.",
+"option_option_en": "Bikaner was established after Jaipur.",
+"option_option_hi": "बिकानेर को जापूर के बाद में Jaipur ko banaya gath",
+},
+{
+"option_option": "Jaipur was founded by Raja Man Singh I.",
+"option_option_en": "Jaipur was founded by Raja Man Singh I.",
+"option_option_hi": "Raja Man Singh I ने Jaipur ko बना गर्थ",
+}
+]
+]
