@@ -1,0 +1,32 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which Mughal ruler built the Amber Fort?",
+"question_hi": "अम्बर फोट किस मुगल राजवादी ने बनाया था?",
+"A_en": "Salim Singh II", "A_hi": "सलीम सिंह एक्स",
+"B_en": "Jai Singh II", "B_hi": "जाय सिंह एवं",
+"C_en": "Raja Man Singh I", "C_hi": "राजा मान सिंह",
+"D_en": "Pratap Singh", "D_hi": "प्रताप सिंह",
+"answer": "B",
+"explanation_en": "Jai Singh II built the Amber Fort.",
+"explanation_hi": "जाय सिंह एवं अम्बर फोट किसी ने बनाया था?",
+},
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the first ruler of Mewar during the Chauhan dynasty?",
+"question_hi": "चौधारन विभवन्द्र समाज के पहले राजा कौन था?",
+"A_en": "Kalchuri",
+"A_hi": "कालचुरी",
+"B_en": "Rao Jodhraj",
+"B_hi": "राव जोधराज",
+"C_en": "Prithviraj Chauhan",
+"C_hi": "प्रतीतेश",
+"D_en": "Rao Lallaji",
+"D_hi": "राव लालजी",
+"answer": "B",
+"explanation_en": "Rao Jodhraj was the first ruler of Mewar during the Chauhan dynasty.",
+"explanation_hi": "राव जोधराज राजपुरो मेवार",
+}
+]
