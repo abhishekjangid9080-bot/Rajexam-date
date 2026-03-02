@@ -1,0 +1,51 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built during the Chauhan dynasty?",
+"question_hi": "राजस्थान में चौधर्णी संघी का कौन सा गैरीता बनाया गया था।",
+"A_en": "Amber Fort", "A_hi": "अमेरिका की जोरन्यास",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाज़ार",
+"C_en": "Kumbhalgarh", "C_hi": "कुम्भलगढ़",
+"D_en": "Ranthambore", "D_hi": "रंघंबोर",
+"answer": "C",
+"explanation_en": "Amber Fort, also known as Amer Fort, was built during the reign of Raja Man Singh I in the 16th century. The correct answer is Kumbhalgarh, which is a massive fort built by Rana Kumbha.",
+"explanation_hi": "अमेरिका की जोरन्यास (अमेरिका की जोरन्यास) राजा मन सिंग एम ने 16वीर सीमूंगों ने बना था। उच्चारिका की जोरन्यास (राजधानी की जोरन्यास), उनकी किस्तान (राजा किस्तान) ने बना था।",
+"answer": "C",
+"explanation_en": "Kumbhalgarh Fort was built by Maharana Kumbha of Mewar dynasty. On the other hand, Chittor Fort was built by Rana Kumbha of Kshatriya dynasty.",
+"explanation_hi": "कुम्भलगर्हा कितान के मेवरण की जोरन्यास (राजा किस्तान) ने बना था।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Kingdoms",
+"question_en": "Which of the following Rajasthani kingdoms were present during the time of Rana Kumbha?",
+"question_hi": "राजस्तानी किरणीय राजाओं के अंतरीन कित्तान द्वांची राजाओं द्वांची क्रम्बन के समयतीन राजाओं द्वांची राजां ने क्रम्बन के समयतीन राजाओं द्वांची राजा।",
+"options": [
+{
+"option_en": "Rana Kumbha of Mewar",
+"option_hi": "राजाओं द्वांची राजाओं द्वांची राजाओं द्वांची राजाओं द्वांची राजा।",
+"option_en": [
+"Rana Kumbha of Mewar",
+"option_hi": ["राजाओं द्वांची राजाओं द्वांची राजाओं द्वांची राजा।",
+"answer": "Rana Kumbha of Mewar",
+},
+{
+"option_en": "Rana Kumbha of Mewar",
+"option_hi": "राजाओं द्वांची राजाओं द्वांची राजा।",
+"answer": "Rana Kumbha of Mewar",
+},
+{
+"option_en": "Rana Kumbha of Mewar",
+"option_hi": "राजाओं द्वांची राजा।",
+"answer": "Rana Kumbha of Mewar",
+},
+],
+"explanation_en": "During the reign of Rana Kumbha of Mewar (Rana Kumbha of Mewar) of the Mewar dynasty, several forts were constructed in Rajasthan. One such fort is Kumbhalgarh. The Rajasthan Armed Forces were also known as Kumbha Rana. So, the correct answer is Rana Kumbha of Mewar (Mewar)",
+"explanation_hi": "राजाओं द्वांची राजा।",
+},
+"explanation": "Rana Kumbha of Mewar (Mewar) was a prominent ruler of the Mewar dynasty during his reign. During this time, several forts were constructed in Rajasthan. One such fort is Kumbhalgarh. The forces of Rajasthan were also known as Kumbha Ranas. Thus, the correct answer is Rana Kumbha of Mewar (Rajasthan)",
+},
+"answer": "Rana Kumbha of Mewar (Mewar)",
+},
+}
+]
