@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Cities",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान की राजधानी और इसके अन्य शहरों में कौन सी शहर है।",
+"A_en": "Jaipur",
+"A_hi": "जयपुर",
+"B_en": "Jodhpur",
+"B_hi": "जोधपुर",
+"C_en": "Udaipur",
+"C_hi": "उदयपुर",
+"D_en": "Bikaner",
+"D_hi": "बीकानेर",
+"answer": "B",
+"explanation_en": "Jodhpur is the capital city of Rajasthan. Udaipur and Bikaner are also important cities in Rajasthan.",
+"explanation_hi": "जोधपुर राजस्थान के राजधानी है। उदयपुर और बीकानेर की भूमि में भी महत्ता है।",
+}
+]
