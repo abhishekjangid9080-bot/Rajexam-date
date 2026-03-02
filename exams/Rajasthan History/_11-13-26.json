@@ -1,0 +1,28 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Princely States",
+"question_en": "Which of the following was a Princely State in Rajasthan before India's independence?",
+"question_hi": "राजस्थान में भारतभरणी से पहले किस परिधि काम करता था।",
+"A_en": "Jaisalmer", "A_hi": "जयसालमर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Kota", "C_hi": "कोटा",
+"D_en": "Jaipur", "D_hi": "जयपुर",
+"answer": "D",
+"explanation_en": "Before India's independence, Jaipur was a Princely State.",
+"explanation_hi": "भारतभरणी से पहले किस परिधि काम करता था?",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Royal Family",
+"question_en": "Which King or Queen of Rajasthan ruled during the Marwar-Jodhpur State?",
+"question_hi": "राजस्थान मैं मर्वार-जोधुर राजधानी के कैलों के मैं मंगलों के कैलों की राजधानी",
+"A_en": "Rao Jodhpur", "A_hi": "राजगंगना",
+"B_en": "Rao Rampur", "B_hi": "राजगंगा",
+"C_en": "Rao Jaisalpur", "C_hi": "जयसालपुर",
+"D_en": "Rao Bikramgarh", "D_hi": "बिक्रांगर",
+"answer": "C",
+"explanation_en": "Calo Jaisalpur was the ruler of Marwar-Jodhpur during that time.",
+"explanation_hi": "श्रेष्ठाधिकार मर्वार-जोधुर को यही समय mein है।",
+}
+]
