@@ -1,0 +1,25 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a capital of a Rajasthan-based princely state?",
+"question_hi": "पर्यावरणीय राजधानी हैंगना का निष्कर्षण किया गया था जो राजस्थान में बना हुआ था।",
+"A_en": "Agra", "A_hi": "आग्रह",
+"B_en": "Delhi", "B_hi": "दिल्ली",
+"C_en": "Jodhpur", "C_hi": "झोधपुर",
+"D_en": "Chandigarh", "D_hi": "चंद्रगढ़",
+"answer": "A",
+"explanation_en": "Agra is not a capital of a Rajasthan-based princely state. The princely states of Rajasthan included Jaipur, Jodhpur, and Udaipur.",
+"explanation_hi": "आग्रह राज्य में बना हुआ है, जो राजस्थान में बना हुआ है। राजस्थान में बना हुआ हैं जो उनको मिलेंगे। जैसा गैर राजस्त्वर में ही किस्तान में बना हुआ है।",
+"D_en": "Jodhpur",
+"D_hi": "गैर राजस्त्वर",
+"answer": "B",
+"explanation_en": "Jodhpur is the capital of Rajasthan. The capital cities of Rajasthan were Jaisalmer, Udaipur, and Jaipur.",
+"explanation_hi": "गैर राजस्त्वर को Rajasthan mein बना हुआ है। राजस्त्वर, जैसालमर और योद्देवार के राजस्त्वर को बना हुआ है।",
+"D_en": "Jaisalmer",
+"D_hi": "जैसालमर",
+"answer": "A",
+"explanation_en": "Jaisalmer was one of the three capital cities of the princely states of Rajasthan., Udaipur and Jodhpur were the other two.",
+"explanation_hi": "जैसालमर राजस्त्वर और योद्देवार में राजस्त्वर के राजकतम शहर थे।",
+}
+]
