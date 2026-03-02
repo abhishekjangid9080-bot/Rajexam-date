@@ -1,0 +1,18 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Who was the founder of Jaipur?",
+"question_hi": "जयपुर की संस्थान के निर्माणी कौन थे?",
+"A_en": "Raja Ram Chand",
+"A_hi": "राजा राम चंद",
+"B_en": "Sanganeri Raja Rai Singh",
+"B_hi": "सांगनेरी राजा राय सिंह",
+"C_en": "Mewar Raja Man Singh",
+"C_hi": "मेवार राजा मन सिंह",
+"D_en": "Amar Singh of Kishangarh",
+"D_hi": "अमर सिंह किशंगरख",
+"answer": "B",
+"explanation_en": "Bhanwar Singh was the founder of Jaipur. He was the ruler of Sanganer and built Jaipur in 1727.\n\nबहनवर सिंह को जैनपुर के पति थे और 1727 में जैनपुर बनाया गया।",
+"explanation_hi": "बहनवर सिंह ने जैनपुर को पति थे और 1727 में जैनपुर बनाया गया गया।",
+}
