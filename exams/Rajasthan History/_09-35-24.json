@@ -1,0 +1,21 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Monarchy",
+"question_en": "Who was the last Maharaja of Jaipur?",
+"question_hi": "जयपुर के अंतर्जानक कौन थे?",
+"A_en": "C. Rajendra Singh Bhargav",
+"A_hi": "क. राजेन्द्र सिंह भरगवान",
+"B_en": "Prince Padmanabh Bhawani Singh",
+"B_hi": "प्रिंस पादमनबी भावना सिंह",
+"C_en": "Prince Dushyant Singh",
+"C_hi": "प्रिंस डुश्यांत सिंह",
+"D_en": "Prince Akbar Singh",
+"D_hi": "प्रिंस अकबर सिंह",
+"answer": "C",
+"explanation_en": "C. Dushyant Singh was the last Maharaja of Jaipur.",
+"explanation_hi": "प्रिंस डुश्यांत सिंह एकमंद सिंह था जयपुर के अंतर्ज महाराज़धार, जयपुर द्वांत सिंह एकमंद सिंह था.",
+"explanation_hi": "प्रिंस डुश्यांत सिंह एकमंद सिंह था, जयपुर द्वांत सिंह एकमंद सिंह था.",
+"answer": "C"
+}
+]
