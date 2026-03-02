@@ -1,0 +1,44 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "What is the origin of the name 'Rajasthan'? ",
+"question_hi": "राजस्थान की नाम क्या स्रोत है।",
+"A_en": "Derived from Rajput clans",
+"A_hi": "राजपुत्तंक क्षेत्र का स्रोत है",
+"B_en": "From the Sanskrit term 'Rajasthani'",
+"B_hi": "संस्कृत वचन 'राजस्थानी' पर स्रोत है",
+"C_en": "From the Rajput kingdom of Mewar",
+"C_hi": "मेवार राजपुत्तंक का स्रोत है",
+"D_en": "From the Rajput clan 'Chauhan'",
+"D_hi": "कौन से राजपुत्तंक का स्रोत है",
+"answer": "C",
+"explanation_en": "The origin of the name 'Rajasthan' can be traced back to the Rajput kingdom of Mewar. The Rajput clan 'Chauhan' is associated with this kingdom. In Hindi, it translates to 'मेवार राजपुत्तंता का स्रोत है'",
+"explanation_hi": "राजस्थान का नाम एक मेवार राजपुत्तंता का स्रोत है। इसका अनुसार राजपुत्तंता के अधिकार का स्रोत है।",
+"explanation_hi": "राजस्थान का नाम एक मेवार राजपुत्तंता का स्रोत है। इसका अनुसार राजपुत्तंता के अधिकार का स्रोत है।",
+"question_en": "Who is the founder of Rajasthan?",
+"question_hi": "राजस्थान की संस्थान के संसप्तंता का अधिकार क्या है?",
+"answer": "Rao Jodha",
+"options": [
+{
+"option_en": "Shri Kalyan Singh",
+"option_hi": "श्री कलयानसिंग",
+"correct": "C"
+},
+{
+"option_en": "Rao Jodha",
+"option_hi": "राव जोध",
+"correct": "A"
+},
+{
+"option_en": "Prince Samrat Bhim Singh",
+"option_hi": "प्रांत शमन सम्राट बीम सिंग",
+"correct": "B"
+},
+{
+"option_en": "Prince Rao Bhim Singh",
+"option_hi": "प्रांत राव बीम सिंग",
+"correct": "D"
+}
+]
+}
