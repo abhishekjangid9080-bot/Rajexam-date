@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historical fort was built by Maharaja Khem Karna of Mewar?",
+"question_hi": "मेवारा केंद्र के माहाराज किम खम्ना ने किया गया एक हितवर क्या ?",
+"A_en": "Chittorgarh", "A_hi": "चिट्टोरगढ़",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Ajmer", "C_hi": "अजमेर",
+"D_en": "Jaipur", "D_hi": "जयपुर",
+"answer": "D",
+"explanation_en": "Maharaja Khem Karna of Mewar is credited with building the Chittorgarh Fort. The correct answer is D, Jaipur.",
+"explanation_hi": "मेवारा किम खम्ना ने चिट्टोरगढ़ फोट बनाया है। परिणाम उत्तरों se 'जयपुर' है।",
+}
+]
