@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में कौन सा मंगलवाला है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगराघर",
+"B_en": "Kalika Mata Temple", "B_hi": "कालिकामाटा मंगलवाला",
+"C_en": "Rao Jodhpur's Palace", "C_hi": "राव जोधपुरी का मंगलवाला",
+"D_en": "Famous Mehrangarh Fort", "D_hi": "मेरंगराघर का मंगलवाला",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a famous fort located in Jodhpur, Rajasthan.\nमेरंगराघर, Rajasthan में मंगलवाला है।",
+"explanation_hi": "Mehrangarh Fort is a famous fort located in Jodhpur, Rajasthan.\nमेरंगराघर, Rajasthan में मंगलवाला है।"
+}
+]
