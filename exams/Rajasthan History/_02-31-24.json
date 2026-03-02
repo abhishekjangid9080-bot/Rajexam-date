@@ -1,0 +1,20 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Famous Monuments",
+"question_en": "What is the capital of Rajasthan and which famous monument is located in Jaipur?",
+"question_hi": "राजस्थान की राजधानी और जयपुर में निम्नलिखित मूल्यवृद्धि के लिए प्रश्न का उत्तर दो।",
+"A_en": "Jaipur",
+"A_hi": "जयपुर",
+"B_en": "Jodhpur",
+"B_hi": "जोधपुर",
+"C_en": "Hawa Mahal",
+"C_hi": "हवा महाल",
+"D_en": "Amer Fort",
+"D_hi": "अमेर फोट",
+"answer": "B",
+"explanation_en": "Rajasthan's capital is Jaipur and the famous monument in Jaipur is the Amer Fort. The capital of Rajasthan is not Jodhpur (Option B), and the famous monument in Jodhpur is the Mehrangarh Fort.\n\nNote: The question is in Hindi as per the task requirement. Translated answer in English is mentioned below.",
+"explanation_hi": "राजस्थान की राजधाना जयपुर है और जयपुर में वर्तमान के नाम अमेर फोट है। राजस्थान की राजधाना नहीं, जो मेर नाम मेरणी फोट है।",
+"answer": "B",
+"explanation_hi": "राजस्थान की राजधाना जयपुर है और वर्तमान नाम अमेर फोट है। राजस्थान की राजधाना नहीं, जो मेरणी फोट है।",
+]
