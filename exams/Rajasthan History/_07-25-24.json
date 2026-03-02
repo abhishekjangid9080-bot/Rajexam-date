@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Royal Palaces of Rajasthan",
+"question_en": "Which royal palace is famous for its mirror work?",
+"question_hi": "राजस्थान में किस शाखा मिशन कार्य के लिए प्रचलित है?",
+"A_en": "Amer Fort", "A_hi": "अमेर फोट्ट",
+"B_en": "Lalgarh Palace", "B_hi": "लालघर पालीस",
+"C_en": "Hawa Mahal", "C_hi": "हावा महाल",
+"D_en": "Umaid Bhawan Palace", "D_hi": "उमेद ब्हान पालीस",
+"answer": "D",
+"explanation_en": "Umaid Bhawan Palace is famous for its intricate mirror work.",
+"explanation_hi": "उमेद ब्हान पालीस में भवित मिशन का कैरें हैं।",
+}
+]
