@@ -1,0 +1,45 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a capital of a Rajasthan state?",
+"question_hi": "निम्नलिखित में कौन से राजस्थान की राजधानी नहीं होती।",
+"A_en": "Jodhpur", "A_hi": "जोधपुर",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Jaisalmer", "C_hi": "जयसालमर",
+"D_en": "Alwar", "D_hi": "अलवार",
+"answer": "D",
+"explanation_en": "Alwar is not a capital of any Rajasthan state.",
+"explanation_hi": "अलवार राजस्थान के किस राजधानी हो नहीं।",
+"explanation_en": "Alwar is not a capital of any Rajasthan state.",
+"explanation_hi": "अलवार राजस्थान के किस राजधानी हों।",
+"question_en": "Which of the following is not the capital of a Rajasthan state?",
+"question_hi": "निम्नल के राजधानी कौं?",
+"A_en": "Jodhpur",
+"A_hi": "जोधुर",
+"B_en": "Jaisalmer",
+"B_hi": "जयसालमर",
+"C_en": "Alwar",
+"C_hi": "अलवार",
+"D_en": "Udaipur",
+"D_hi": "उदापुर",
+"question_type": "Multiple Choice",
+"options": [
+{
+"option_en": "Jodhpur",
+"option_hi": "जोधुर",
+"A_en": "Jodhpur",
+"A_hi": "जोधुर",
+"B_en": "Jaisalmer",
+"B_hi": "जयसालमर",
+"C_en": "Alwar",
+"C_hi": "अलवार",
+"D_en": "Udaipur",
+"D_hi": "उदापुर",
+"D_en": "Udaipur",
+"D_hi": "उदापुर",
+"D_en": "Udaipur",
+"D_hi": "उदापुर"
+]
+}
+]
