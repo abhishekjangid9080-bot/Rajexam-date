@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Kings and their Cities",
+"question_en": "Which Rajasthani king and city were chosen as the capital after the merger of Bikaner, Jaisalmer, Jodhpur, and Hanumangarh States?",
+"question_hi": "बीकानेर, जयसलमर, जोधपुर aur हानुमांगगढ़ States ka merger se baad mein kaisa Rajasthani king aur city ko capital banaye gaye?",
+"A_en": "Rao Jodha aur Jaipur", "A_hi": "राव जोधा aur जयपुर",
+"B_en": "Khan Singh aur Jodhpur", "B_hi": "खान सिंग aur जोधपुर",
+"C_en": "Rao Jodha aur Bikaner", "C_hi": "राव जोधा aur बीकानेर",
+"D_en": "Rao Jodha aur Jaisalmer", "D_hi": "राव जोधा aur जयसालमर",
+"answer": "C",
+"explanation_en": "After the merger of Bikaner, Jaisalmer, Jodhpur, and Hanumangarh States, Rao Jodha and Bikaner were chosen as the capital by the Rajasthani king.",
+"explanation_hi": "बिकानेर, जयसालमर, जोधपुर aur हानुमांगगढ़ स्टेट्स se Bikaner aur Jaisalmer ko Rajasthan mein capital banane ke liye, Rao Jodha aur Bikaner ka chakravarti hua.",
+"answer": "C"
+}
