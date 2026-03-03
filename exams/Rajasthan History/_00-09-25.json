@@ -1,0 +1,45 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following kings is associated with the construction of Amber Fort?",
+"question_hi": "अम्बर को कौन सा सांस्क्रिया की प्रतिष्ठित किस्मत को संबंधित है?",
+"A_en": "Pratap Singh",
+"A_hi": "प्रताप सिंह",
+"B_en": "Jai Singh",
+"B_hi": "जैसिंग",
+"C_en": "Rao Jodha",
+"C_hi": "राव जोधा",
+"D_en": "Man Singh",
+"D_hi": "मान सिंह",
+"answer": "B",
+"explanation_en": "Pratap Singh and Jai Singh are known for constructing forts in Rajasthan, but Jai Singh is specifically associated with the construction of Amber Fort.\nSir Syed and Rao Jodha are also associated with the construction of forts in Rajasthan, but they are not directly connected to the construction of Amber Fort.",
+"explanation_hi": "प्रताप सिंह और जैसिंग राजस्थान में सभी सीतों को मंगने के प्रमाणी को संबंध हों, लेकिंग का वह एक स्पष्ट शायर का नाम है, जिनों सीतों का बहून संबंध हों, लेकिंग का स्पष्ट सुखां का नाम है।",
+"question_en": "Which one of the following kings is closely associated with the construction of Amer Fort?",
+"options": [
+    {
+      "option": "Jai Singh",
+      "option_en": "Jai Singh",
+      "option_hi": "जैसिंग",
+      "option_spell": "Jaisingh"
+    },
+    {
+      "option": "Rao Jodha",
+      "option_en": "Rao Jodha",
+      "option_hi": "राव जोधा",
+      "option_spell": "RaoJodha"
+    },
+    {
+      "option": "Prithviraj Chauhan",
+      "option_en": "Prithviraj Chauhan",
+      "option_hi": "प्रतीतिरजन चौहान",
+      "option_spell": "Prithviraj Chauhan"
+    },
+    {
+      "option": "Kumbha",
+      "option_en": "Kumbha",
+      "option_hi": "कुमभ",
+      "option_spell": "Kumbha"
+    }
+  ]
+]
