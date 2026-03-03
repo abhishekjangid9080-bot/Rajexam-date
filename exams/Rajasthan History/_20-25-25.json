@@ -1,0 +1,38 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Capital and Other Historical Capitals",
+"question_en": "Which was the capital of Rajasthan before Jaipur?",
+"question_hi": "जयपुर से पहेली: राजस्थान के पहले राजधानी क्या था?",
+"A_en": "Amber", "A_hi": "अमेर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Mewar", "C_hi": "मेवार",
+"D_en": "Meera", "D_hi": "मेरा",
+"answer": "B",
+"explanation_en": "Amber was the capital of Rajasthan before Jaipur. It was founded by Raja Man Singh I of Khetri in 1592 and was later captured by Sawai Jai Singh II in 1727 and made the capital of the state.",
+"explanation_hi": "अमेर राजस्थान के पहले राजधानी थी। यह राजा मन सिंग I of Khetri ने 1592 में बनने करने वाला था और स्वितीय जय सिंग II ने 1727 में यह राजधानी बना और स्वितीय ने बना कर दिया और प्राज्ञानी ने करने वाला और प्राज्ञानी ने बना करने वाला और भूमिक ने करने वाला और प्राज्ञानी ने बना करने वाला और भूमिक ने करने वाला और प्राज्ञानी ने बना करने वाला और भूमिक ने करने वाला और प्राज्ञानी ने बना करने वाला और भूमिक ने भी करने वाला और प्राज्ञानी ने भी करने वाला और भूमिक ने भी करने वाला और प्राज्ञानी ने भी करने वाला और भूमिक ने भी करने वाले हैं।",
+
+"question_en": "Which city was the capital of Rajasthan before Jaipur?",
+"question_hi": "जो राजस्थान मेंट को जोर से पहले।",
+"options_en": [
+{
+"option_id": 1,
+"option_text": "Amber",
+"option_explanation_en": "Amber was the capital of Rajasthan before Jaipur. It was founded by Raja Man Singh I of Khetri in 1596 and was later captured by Jai Singh II.",
+"option_explanation_hi": "अम्बर मेंट को जोर से पहले। इसे राजस्थान मेंट को जोर से पहले। इसे राजस्थान मेंट को जोर से पहले। अम्बर मेंट को जोर से पहले।",
+"option_id": 1,
+"option_text": "Amber",
+"option_explanation_hi": "अम्बर मेंट को जोर से पहले।",
+"option_explanation_en": "Amber was the capital of Rajasthan before Jaipur. It was founded by Rawal Khem Singh in 1592 AD अम्बर मेंट को जोर से पहले।",
+"answer": 1
+}
+,
+{
+"option_id": 2,
+"option_text": "Jodhpur",
+"option_explanation_hi": "झदपर को जोर से पहले।",
+"option_explanation_en": "Jodhpur was the capital of Rajasthan before Jaipur. It was founded by Rao Jaisa Singh in 11778 ADझदपर को जोर से पहले।",
+"answer": 2
+}
+...
+]
