@@ -1,0 +1,44 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan's Historical Cities",
+"question_en": "Which city was the capital of Rajasthan before Jaipur?",
+"question_hi": "जयपुर से राजस्थान की राजधानी के पहले किस शहर थे?",
+"A_en": "Ajmer", "A_hi": "आजमीर",
+"B_en": "Jodhpur", "B_hi": "जोधपुर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Pushkar", "D_hi": "पुष्कर",
+"answer": "Jodhpur",
+"explanation_en": "Before Jaipur became the capital of Rajasthan, Jodhpur was the capital city of the Rao Jodha's kingdom.",
+"explanation_hi": "जयपुर की राजा रावजोध के कंधर के बागों में राजपौलिया की राजनेवाली पूर्वों में राजपौलिया के नौवाली के बागों में राजपौलिया के नौवाली के बागों में स्थिती के बागों में राजपौलिया के नौवाली के बागों में स्थिती के बागों में राजपौलिया के नौवाली के बागों में स्थिती के बागों में राजपौलिया के नौवाली के बागों में राजपौलिया के बागों में स्थिती के नौवाली के बागों में राजपौलिया के बागों में स्थिती",
+"question_hi": "राजपौलिया के बागों में स्थिती",
+"options": [
+{
+"option_en": "Jaipur",
+"option_hi": "जयपुर",
+"option_explanation_en": "Jaipur is the capital city of Rajasthan after the death of Maharaja Pratap Singh.",
+"option_explanation_hi": "महाराज प्रताप सिंग की मंत्रण से जयपुर एक राजस्थिती",
+"option_type": "historical_event"
+},
+{
+"option_en": "Amber",
+"option_hi": "अमर",
+"option_explanation_en": "Amber was the capital city of Rajasthan before Jodhpur.",
+"option_explanation_hi": "अमर राजस्थिती, और जयपुर केविर में में प्रथित्रों",
+"option_type": "historical_event"
+},
+{
+"option_en": "Pushkar",
+"option_hi": "पुषकर",
+"option_explanation_en": "Pushkar was historically the capital city of Rajasthan before Jaipur.",
+"option_explanation_hi": "पुषकर राजस्थिती, में जयपुर में प्रथित्रों",
+"option_type": "historical_event"
+},
+{
+"option_en": "Udaipur",
+"option_hi": "उदाड़िती",
+"option_explanation_en": "Udaipur was the capital city of Mewar kingdom before Jaipur.",
+"option_explanation_hi": "उदाड़िती, में जयपुर में प्रथितों",
+"option_type": "historical_event"
+}
+]
