@@ -1,0 +1,14 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaipur?",
+"question_hi": "जयपुर में किस पहले स्थित है।",
+"A_en": "Amber Fort", "A_hi": "अमेरिका गृह",
+"B_en": "Hawa Mahal", "B_hi": "हवा महाल",
+"C_en": "Cenotaph of Maharaja Sawai Mansingh", "C_hi": "सावाई महाराज सवाई मंसिंग़",
+"D_en": "Jal Mahal", "D_hi": "जल महाल",
+"answer": "B",
+"explanation_en": "Hawa Mahal is a famous historical monument located in Jaipur, known for its unique architecture.\nIn Hindi, this translates to: हवा महाल, जापान मंसिंग़ की संसाधनों का प्रमोट है जबकि Hawa Mahal, जापान मंसिंग़ की संसाधनों के प्रमोट है।",
+"explanation_hi": "हवा महाल, जापान मंसिंग़ की संसाधनों का प्रमोट है। जबकि हवा महाल, राजधानों का प्रमोट है।"
+}
