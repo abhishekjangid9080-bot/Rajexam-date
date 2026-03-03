@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jaisalmer?",
+"question_hi": "जयसालमर में प्रमुखी किस फोट है ?",
+"A_en": "Meghraj Fort",
+"A_hi": "मेघराज फोट",
+"B_en": "Kota Fort",
+"B_hi": "कोटा फोट",
+"C_en": "Laxmangarh Fort",
+"C_hi": "लक्ष्मणगढ़ फोट",
+"D_en": "Amer Fort",
+"D_hi": "ऐमेर फोट",
+"answer": "D",
+"explanation_en": "Amer Fort is the famous fort located in Jaipur, Rajasthan. It is also known as 'Amber Fort' in English.",
+"explanation_hi": "ऐमेर फोट जैसे है, राजस्थान में जिला के लिए है। इसको 'Amber Fort' के रूप में अंग्रेस लिए है।",
+}
+]
