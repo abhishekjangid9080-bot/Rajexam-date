@@ -1,0 +1,47 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort was built by Raja Ratan Singh of Kachhwaha clan?",
+"question_hi": "राजा रतन सिंह के कच्छवा क्षेत्र के लिए किस पसंदीदा पट्टी की बनाई गई।",
+"A_en": "Amber Fort", "A_hi": "अमेरिक",
+"B_en": "Meena Bazaar", "B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort", "C_hi": "कुम्भालगढ",
+"D_en": "Ranthambhore National Park", "D_hi": "रांथामबुरे नागरिक बैंक",
+"answer": "C",
+"explanation_en": "Amber Fort, also known as Kumbhalgarh Fort, was built by Maharaja Man Singh I of Kachhwaha clan.",
+"explanation_hi": "अमेरिक (कुम्भालगढ), लेक्षो के कलानेवाले महाराजा मन सिंह आजी के सम्मत में बना",
+"D": "महाराजा मन सिंह आजी के सम्मेंट में बना",
+"question_en": "Which fort was built by Maharaja Man Singh I in the Samantas of Kachhwaha clan?",
+"question_hi": "महाराजा मन सिंह आजी के सम्मेंट में बना",
+"D": "महाराजा मन सिंह आजी के सम्मेंट में बना",
+"question_en": "Which fort was built by Maharaja Man Singh I in the Samantas of Kachhwaha clan?",
+"question_hi": "महाराजा मन सिंह आजी के सम्मेंट में बना",
+"options": [
+{
+"option": "Amber Fort",
+"option_en": "Amber Fort",
+"option_hi": "अमेरोंट",
+"is_correct": false
+},
+{
+"option": "Kumbhalgarh Fort",
+"option_en": "Kumbhalgarh Fort",
+"option_hi": "कुम्भलगढ़ फोट",
+"is_correct": true
+},
+{
+"option": "Jaipur",
+"option_en": "Jaipur",
+"option_hi": "जापुर",
+"is_correct": false
+},
+{
+"option": "Ekot Durg",
+"option_en": "Ekot Durg",
+"option_hi": "एकोट दुर्ग",
+"is_correct": false
+}
+]
+}
+]
