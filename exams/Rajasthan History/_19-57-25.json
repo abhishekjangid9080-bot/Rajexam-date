@@ -1,0 +1,32 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort is located in Jodhpur?",
+"question_hi": "जोधपुर में बड़ी फोट क्या है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरंगार फोट",
+"B_en": "Kailash Fort", "B_hi": "कैलाश फोट",
+"C_en": "Umaid Bhawan Palace", "C_hi": "उमाईद बहान पालकेस्ट",
+"D_en": "Tagore Killa", "D_hi": "तागोर किल्ला",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a famous fort located in Jodhpur, Rajasthan. It is one of the largest forts in India and is known for its rich history and architecture.\n\nजो उसका नाम है और उसका विश्वामिति और उसका आकार कैसे हैं।",
+"explanation_hi": "Mehrangarh फोट एक राजमन्यां का अंतर्जन और उसका आकार कैसे है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthan",
+"question_en": "Which city is the capital of Rajasthan?",
+"question_hi": "राजस्थान के राजधान केकार की जानकारियों की जानकारियों का अंतर्जन के।",
+"A_en": "Jaipur",
+"A_hi": "जैपुर",
+"B_en": "Rajasthan",
+"B_hi": "राजस्थान",
+"C_en": "Alwar",
+"C_hi": "अलवार",
+"D_en": "Udaipur",
+"D_hi": "उदायपुर",
+"answer": "B",
+"explanation_en": "Rajasthan is a state in India, and Jaipur is its capital city. Jaipur is one of the major cities in Rajasthan.",
+"explanation_hi": "राजस्थान इंडीजन का एक देश है। जैपुर राजस्थान के राजधान का एक मैन है।",
+}
+]
