@@ -1,0 +1,19 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is not a princely state of Rajasthan during the British rule?",
+"question_hi": "ब्रिटिश संघ के समाधान के दौर के विभिन्न राज्यों में विभिन्न स्थान है ?",
+"A_en": "Kota",
+"A_hi": "कोटा",
+"B_en": "Jodhpur",
+"B_hi": "जयपुर",
+"C_en": "Udaipur",
+"C_hi": "ओदपुर",
+"D_en": "Alwar",
+"D_hi": "अलवार",
+"answer": "A",
+"explanation_en": "Kota was not a princely state during the British rule in Rajasthan. It was a district before Indian independence.",
+"explanation_hi": "कोटा राजना राज्य के दौर में नहीं थे। इसका अधिकार स्थान विभिन्ना का राज्यों में नहीं। इसका अधिकार देश में एक जिला हीं।",
+}
+]
