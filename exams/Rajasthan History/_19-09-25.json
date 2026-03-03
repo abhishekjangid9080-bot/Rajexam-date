@@ -1,0 +1,49 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which of the following is/are the historical forts of Rajasthan?",
+"question_hi": "राजस्थान के विस्तृतिक तलेखों में क्या हैं ?",
+"A_en": "Amber Fort", "A_hi": "अमेर तलेख",
+"B_en": "Udaipur", "B_hi": "उदयपुर",
+"C_en": "Meena Bazaar", "C_hi": "मेना बाजार",
+"D_en": "Hawa Mahal", "D_hi": "हावा महाल",
+"answer": "",
+"explanation_en": "Amber Fort, Udaipur, and Hawa Mahal are historical forts in Rajasthan. Meena Bazaar is a famous market in Jaipur.",
+"explanation_hi": "राजस्थान में आम तलेखों में आत्मन आंचीबलों के नाम हों का उपयोगी को निवृत्तियां को सम्बंधित करें।",
+"C_en": "Amber Fort, Udaipur, and Hawa Mahal are historical forts in Rajasthan. Meena Bazaar is a famous market in Jaipur.",
+"C_hi": "आम आंचीबलों के नाम हों, मेना बाज़ार का विभागाएं।",
+"D_en": "Amber Fort, Udaipur, and Hawa Mahal are historical forts in Rajasthan. Meena Bazaar is a famous market in Jaipur.",
+"D_hi": "आम आंचीबलों के नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"E_en": "आम आंचीबलों का नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"E_hi": "आम आंचिम्बलों का नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"F_en": "आम आंचिम्बलों का नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"F_hi": "आम आंचिम्बलों का नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"G_en": "आम आंचिम्बलों का नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"G_hi": "आम आंचिम्बलों का नाम हों, मेना बाजी माल एक प्रमों का विभागाएं।",
+"question_number": 1,
+"options_hi": [
+{
+"option_text": "आम आंची आंचीचे सांची सांची सांचे सांची प्रमों",
+"option_en": [
+{
+"option_text": "Amber Fort, Amber Fort",
+"option_number": 1
+},
+{
+"option_text": "Udaipur",
+"option_number": 2
+},
+{
+"option_text": "Mewar Forts",
+"option_number": 3
+},
+{
+"option_text": "मेना बाजी सांची सांची सांची प्रमं",
+"option_number": 4
+}
+],
+"answer": 1
+}
+]
+]
