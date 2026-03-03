@@ -1,0 +1,56 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which river has been the lifeline of historic cities of Rajasthan?",
+"question_hi": "राजस्थान में समीक्षा के लिए किस नदी का मूर्ति था ?",
+"A_en": "Chambal", "A_hi": "चांबाल",
+"B_en": "Pichola", "B_hi": "पिचोला",
+"C_en": "Gandhi Sagar", "C_hi": "गांधी सागर",
+"D_en": "Damodar", "D_hi": "दामोदर",
+"answer": "D",
+"explanation_en": "Damodar river has been the lifeline for historical cities of Rajasthan. The river has provided water for agricultural purposes and supported the growth of numerous cities, like Kota and Bundi.",
+"explanation_hi": "राजस्थान में समीक्षा के लिए Damodar नदी का मूर्ति था। यह बीजन को पानी मिश्या के लिए महत्ता राजनी को देरिया के लिए । इसे मध्यरूचर और कोष के लिए बेल्डगढ़ा को। यह बजारों और लिए कोष के लिए बेल्डगढ़ा को।",
+"B_hi": "राजस्थान के लिए बेल्डगढ़ा कोष को। यह बेल्डगढ़ा कोष के लिए बेल्डगढ़ा को।",
+"question_en": "Which city was the capital of Rajasthan before Beldangosh (present-day Beldangosh) was established as the capital?",
+"question_hi": "राजस्थान के लिए Beldangosh (एंट्राउसके लिए बेल्डगढ़ा को।",
+"options": [
+{
+"option_id": "1",
+"option_text": "Ajmer",
+"option_language": "en",
+"option_answer": "A"
+},
+{
+"option_id": "2",
+"option_text": "Jaisalmer",
+"option_language": "en",
+"option_answer": "C"
+},
+{
+"option_id": "3",
+"option_text": "Jodhpur",
+"option_language": "en",
+"option_answer": "B"
+},
+{
+"option_id": "4",
+"option_text": "Udaipur",
+"option_language": "en",
+"option_answer": "D"
+},
+{
+"option_id": "5",
+"option_text": "Banswara",
+"option_language": "en",
+"option_answer": "E"
+},
+{
+"option_id": "6",
+"option_text": "Alwar",
+"option_language": "en",
+"option_answer": "F"
+}
+]
+}
+]
