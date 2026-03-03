@@ -1,0 +1,15 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which historic fort is located in Jodhpur?",
+"question_hi": "जोधपुर में क्या हित्तव्य किस्ता है?",
+"A_en": "Mehrangarh Fort", "A_hi": "मेरनगर",
+"B_en": "Kherawal Kshetra", "B_hi": "क्षेत्र",
+"C_en": "Umaid Bhawan", "C_hi": "उमाई बहान",
+"D_en": "Shilaima Fort", "D_hi": "शिलाईमा फोट",
+"answer": "A",
+"explanation_en": "Mehrangarh Fort is a historic fort located in Jodhpur, Rajasthan.",
+"explanation_hi": "मेरनगर, राजस्थान में ऐसा हित्त्वार किस्ता है।"
+}
+]
