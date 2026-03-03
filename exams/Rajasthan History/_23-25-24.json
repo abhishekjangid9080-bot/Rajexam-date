@@ -1,0 +1,16 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which ancient city was the capital of Rajasthan before Jaipur?",
+"question_hi": "राजस्थान की पहली अधिकांशीय स्थानीय क्या राजपूतिरी के समय राजस्थान का राजधानी था?",
+"A_en": "Amber (Amer)", "A_hi": "अमेर (आमर)",
+"B_en": "Jaipur", "B_hi": "जयपुर",
+"C_en": "Udaipur", "C_hi": "उदयपुर",
+"D_en": "Jodhpur", "D_hi": "जोधुर",
+"answer": "B",
+"explanation_en": "Before Jaipur became the capital of Rajasthan, Amber (Amer) was the capital during the reign of Maharaja Man Singh I in the 17th century.\nराजपूतिरी के समय महाराज मणसेंग एई 17वी की समय में आमर (आमर) राजस्थान का राजधानवती करो।",
+"explanation_hi": "राजपूतिरी के समय महाराज मणसेंग एई 17वी की समय में आमर (आमर) राजस्थान का राजधानवती करो।",
+"answer": "B"
+}
+]
