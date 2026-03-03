@@ -1,0 +1,58 @@
+[
+{
+"subject": "Rajasthan History",
+"topic": "",
+"question_en": "Which famous fort in Rajasthan was built by Raja Rai Singh? ",
+"question_hi": "राजस्थान में राजा राय सिंह ने किया गया क्या मंगलवर में बना किया गया है? ",
+"A_en": "Amber Fort",
+"A_hi": "आम्बे तथा सिंग को संग्रहण करने के लिए किया गया है? ",
+"B_en": "Meena Bazaar",
+"B_hi": "मेना बाजार",
+"C_en": "Kumbhalgarh Fort",
+"C_hi": "कुम्बलगढ़ तथा सिंग को संग्रहण करने के लिए किया गया है? ",
+"D_en": "Birla Tower",
+"D_hi": "बीले सरकार खंड",
+"answer_en": "Kumbhalgarh Fort",
+"answer_hi": "कुम्बलगढ़",
+"explanation_en": "Kumbhalgarh Fort is known for the construction of Kumbhalgarh and Singh Rana.",
+"explanation_hi": "कुम्बलगढ़ संग्रहण के लिए किया गया है। सिंग राना सम्पति के लिए गया गया है।",
+"explanation_en": "Kumbhalgarh Fort is known for the construction of Kumbhalgarh and Singh Rana.",
+"explanation_hi": "कुम्बलगढ़ संग्रहण के लिए गया गया है। सिंग राना सम्पति के लिए गया गया है।",
+},
+{
+"subject": "Rajasthan History",
+"topic": "Rajasthani Culture",
+"question_en": "What is the origin of Rajasthani folk music?",
+"question_hi": "राजस्तवन का सांस्पति क्यांति के लिए गया गया है।",
+"options": [
+{
+"option_id": "A",
+"option_text": "Mughal era",
+"option_explanation_en": "During the Mughal era, Rajasthani folk music originated.",
+"option_explanation_hi": "मुगल व्यति में, राजस्तवन क्यांति के लिए गया गया है।",
+},
+{
+"option_id": "B",
+"option_text": "Rathore dynasty",
+"option_explanation_en": "The Rathore dynasty is associated with the development of Rajasthani folk music.",
+"option_explanation_hi": "रातौर द्विति के लिए गया गया है।",
+},
+{
+"option_id": "C",
+"option_text": "Vikram Samvat",
+"option_explanation_en": "Vikram Samvat era is not related to the origin of Rajasthani folk music.",
+"option_explanation_hi": "विक्रम सांवात यांति निर्वात में अन्यांति के लिए गया गया है।",
+},
+{
+"option_id": "D",
+"option_text": "Nawabs of Jaipur",
+"option_explanation_en": "The Nawabs of Jaipur were known for their contribution to the development of Rajasthani folk music.",
+"option_explanation_hi": "जापुर के अवांति निवांति के लिए गया गया गया है।",
+},
+{
+"option_id": "E",
+"option_text": "Mughals",
+"option_explanation_en": "The Mughal rulers are known for their influence on Rajasthani folk music.",
+"option_explanation_hi": "मुगालस निवांति निवांति को अवांति के लिए गया गया गया गया गया गया गया गया गांति को अवांति के लिए गया गया गया गांति को अवांति के लिए गया गांति को अवांति के लिए गांति को अवांति के लिए गांति के अवांति के लिए गांति के लिए अवांति के लिए गांति के लिए गांति के लिए गांति के लिए गांति के लिए अवांति के लिए गांति के अवांति के लिए गांति के लिए गांति के लिए गांति के लिए गांति के लिए गांति के लिए गांटि के लिए गांति के लि के लिए गांटि के लिए गांटि के लिए गांटि के लिए गांटि के लि के लिए गांटि के लि गांटि के लिए गांति के लि के लि के लिए गांटि के लि के लि के लि के लि के अळि के लि के लि के लि के लि के लि के लि के के लि के लि के",
+},
+"answer
